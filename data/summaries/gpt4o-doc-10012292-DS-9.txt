@@ -1,0 +1,73 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies to Drugs
+
+**Chief Complaint:**
+- Fever, cough, nausea
+
+**Major Surgical or Invasive Procedure:**
+- Dilation of esophageal stricture
+
+**History of Present Illness:**
+- The patient has a history of medullary thyroid carcinoma, treated with thyroidectomy and chemo-radiation therapy, with recurrences in the neck and lung nodules. She also has a history of recurrent aspiration pneumonia due to radiation-induced esophageal strictures.
+- She presented with fever, cough, and nausea, which began about two weeks prior while on a cruise. She had been taking azithromycin prescribed by her oncologist but continued to experience symptoms.
+
+**Physical Exam on Discharge:**
+- General: Chronically ill-appearing, pleasant woman
+- HEENT: MMM, OP clear
+- Neck: Post-radiation wasting/fibrosis
+- CV: RRR, normal S1S2, no murmurs/rubs/gallops
+- Chest: Diffuse ronchi, no wheezing
+- Abdomen: Soft, non-tender, non-distended, no hepatosplenomegaly, positive bowel sounds
+- Extremities: Warm, well-perfused, no edema, 2+ pulses bilaterally
+- Neuro: Alert and oriented x3, follows directions appropriately
+
+**Pertinent Results:**
+- **Imaging:**
+  - Video swallowing study: Penetration without frank aspiration, upper esophageal stricture.
+  - CT chest: Multifocal consolidation in the right lung with mucoid impaction, left apical pulmonary nodules, indeterminate sclerotic focus in the mid thoracic vertebrae.
+  - CXR: Likely left lower lobe pneumonia.
+- **Labs:**
+  - Blood cultures: Negative
+  - WBC: 7.9, RBC: 4.28, Hgb: 12.3, Hct: 36.8, MCV: 86, MCH: 28.8, MCHC: 33.5, RDW: 13.8, Platelets: [Redacted]
+  - Neutrophils: 85.5%, Lymphocytes: 8.9%, Monocytes: 4.0%, Eosinophils: 1.2%, Basophils: 0.4%
+  - PTT: 28.4, Glucose: 95, Urea Nitrogen: 7, Creatinine: 0.6, Sodium: 140, Potassium: 4.2, Chloride: 98, Bicarbonate: 33, Anion Gap: 13
+  - Calcium: 8.2, Phosphorus: 3.5, Magnesium: 2.0, PTH: 67, Lactate: 1.0, Free Calcium: 1.04
+
+**Brief Hospital Course:**
+- The patient was treated for bacterial aspiration pneumonia with ceftriaxone and flagyl, later switched to oral cefpodoxime and flagyl for 12 days. She also received standing nebulizer treatments, aggressive chest physical therapy, and incentive spirometry.
+- A video swallow study confirmed her ability to prevent aspiration with a strong cough, and she was given recommendations to avoid aspiration.
+- She underwent repeat dilation of esophageal strictures without complications.
+- Her thyroid cancer showed no evidence of malignancy flare contributing to her current presentation. She was continued on levothyroxine and scheduled for a PET scan post-infection resolution.
+- Hypocalcemia was managed with IV calcium and increased oral calcium and vitamin D.
+
+**Medications on Admission:**
+- HCTZ, Pentoxifylline, Levothyroxine, Octreotide, Calcium-Vitamin D3, Vitamin D, Vitamin E, Multivitamin, Lorazepam, Zolpidem
+
+**Discharge Medications:**
+- Hydrochlorothiazide, Pentoxifylline, Vitamin E, Levothyroxine, Octreotide, Calcium, Vitamin D, Multivitamin, Lorazepam, Albuterol, Cefpodoxime, Flagyl
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Primary: Bacterial aspiration pneumonia, Hypertension, Esophageal stricture, Hypocalcemia
+- Secondary: Metastatic Medullary Thyroid Cancer, Malnutrition
+
+**Discharge Condition:**
+- Stable, afebrile
+
+**Discharge Instructions:**
+- Complete the prescribed antibiotics, increase calcium intake, and use inhalers as needed. Follow recommendations to avoid aspiration and crush medications to take with food. Return to the hospital if experiencing concerning symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]

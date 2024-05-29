@@ -1,0 +1,94 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Codeine, Augmentin, Topamax
+
+**Chief Complaint:**
+- Right lower extremity (RLE) pain and swelling.
+
+**Major Surgical or Invasive Procedure:**
+- Ultrasound-guided steroid injection of the right trochanteric bursa (right hip).
+
+**History of Present Illness:**
+- The patient, with a history of breast cancer (BRCA1 gene mutation), COPD, cerebral aneurysm, sleep apnea, depression, hyperlipidemia, and antiphospholipid syndrome with a history of DVT/PE, presented with severe RLE pain.
+- Recently underwent a lumpectomy for infiltrating ductal carcinoma of the left breast and sentinel lymph node biopsy, complicated by a hematoma.
+- Postoperative anticoagulation was held due to the hematoma, and DVT prophylaxis was provided with pneumoboots.
+- Developed severe RLE pain described as cramps and spasms upon returning home.
+- Initial evaluation in the ED showed nonpalpable pulses in the right foot, but dopplerable pulses were present.
+
+**Diagnostic Tests:**
+- **Labs:**
+  - Chem panel: Unremarkable, Cr 0.8
+  - CBC: WBC 5.6, Hgb 10.8, Plt 264
+  - Coags: INR 1.4
+  - Lactate: 1.1
+  - UA: Moderate leukocytes, few bacteria
+- **Imaging:**
+  - RLE Ultrasound: Right calf veins not visualized, no evidence of DVT.
+  - CT Lower Extremity Right: Unremarkable, veins not opacified, no focal collection or muscular abnormality.
+
+**Medications Administered:**
+- IV Morphine 4mg
+- IV Acetaminophen 1g
+- IV NS
+- IV Dilaudid 5 mg total
+- Warfarin 7.5mg
+- Atorvastatin 40mg
+- Omeprazole 20mg
+
+**Consultations:**
+- Surgery: Recommended vascular surgery consult for possible DVT.
+- Vascular Surgery: No clear vascular etiology for pain.
+
+**Physical Exam:**
+- **Admission Vitals:** T 97.9, BP 125/80, HR 82, RR 16, O2 Sat 94% RA
+- **Discharge Vitals:** Temp 98.2, BP 133/74, HR 76, RR 18, O2 Sat 99% RA
+- **General:** Alert, oriented, no acute distress.
+- **Extremities:** Warm, well-perfused, right lower extremity tender to palpation, limited movement due to pain, swelling of RLE > LLE, palpable 2+ pulses bilaterally.
+
+**Hospital Course:**
+- Diagnosed with right trochanteric bursitis and right anterior lower leg pain.
+- Underwent ultrasound-guided steroid injection with significant symptom improvement.
+- Anterior shin pain improved with gabapentin and lidocaine patch.
+- Discharged with tramadol for pain management and a cane for ambulation.
+
+**Discharge Medications:**
+1. Gabapentin 600 mg PO TID
+2. Lidocaine 5% Patch
+3. Tramadol 50 mg PO Q6H PRN
+4. Acetaminophen 1000 mg PO Q8H PRN
+5. Albuterol 0.083% Neb Soln
+6. Atorvastatin 40 mg PO QPM
+7. Docusate Sodium 100 mg PO BID
+8. Erythromycin 0.5% Ophth Oint
+9. Furosemide 20 mg PO DAILY PRN
+10. Omeprazole 20 mg PO BID
+11. Polyethylene Glycol 17 g PO DAILY PRN
+12. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation
+13. Senna 8.6 mg PO HS
+14. Sertraline 150 mg PO DAILY
+15. Trazodone 50 mg PO QHS PRN
+16. Vitamin D
+17. Warfarin 5 mg PO 2X/WEEK
+18. Warfarin 7.5 mg PO 5X/WEEK
+
+**Discharge Diagnosis:**
+- Primary: Right trochanteric bursitis, right anterior leg pain, right-sided varicose veins.
+- Secondary: Iron deficiency anemia, history of DVT/PE on warfarin, antiphospholipid antibody syndrome, subtherapeutic INR, vitamin D deficiency.
+
+**Discharge Instructions:**
+- Continue medications as prescribed.
+- Follow up with primary care doctor and vascular surgeon.
+- Consider MRI of the spine for chronic pain evaluation.
+- Discuss potential causes of iron deficiency with the doctor.
+
+**Follow-up:**
+- Scheduled follow-up with primary care and vascular surgery.

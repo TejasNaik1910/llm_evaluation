@@ -1,0 +1,94 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Allergies:**
+- Penicillins
+- Erythromycin Base
+- Streptomycin
+- Citric Acid
+- Atenolol
+- Torsemide
+- Heparin Agents
+
+**Chief Complaint:**
+- Respiratory Distress
+- Hypotension
+
+**Major Surgical or Invasive Procedures:**
+- Right internal jugular (CVL) (discontinued)
+- Arterial line (discontinued)
+- PICC (placed)
+
+**History of Present Illness:**
+The patient, a male with multiple comorbidities including rectal cancer status post resection and radiation, coronary artery disease status post stents, systolic CHF, dilated cardiomyopathy, atrial fibrillation, and a history of cardiac arrest with AICD/pacemaker, presented with respiratory distress, fevers, and hypotension. He had desaturated to 85% but improved to 92% with suctioning. He had been doing well with his trach until a few days prior to admission when he required more frequent vent use. He had a fever and a CXR showing LLL pneumonia, treated initially with Vancomycin.
+
+**On Arrival:**
+The patient was hypotensive (SBP80s), not tachypneic, and stable on trach settings. He was treated with Levofloxacin and Cefepime. Due to persistent hypotension and decreased urine output, a RIJ CVL was placed, and levophed was started. Troponin was 0.11, and he was given aspirin 325mg. 
+
+**Past Medical History:**
+- Rectal cancer s/p excision and XRT
+- CAD s/p stents
+- Complete heart block s/p pacemaker
+- History of cardiac arrest (now with AICD)
+- Atrial fibrillation
+- Systolic CHF (EF 40-45%)
+- History of GI bleed
+
+**Social History:**
+[Redacted]
+
+**Family History:**
+- Father died from MI
+- Mother died from PE
+- No family history of colon, breast, uterine, or ovarian cancer
+- No family history of seizures
+
+**Physical Exam:**
+- **Admission Exam:** Afebrile, BP 105/47, P 61, R 13, O2 100%. Oriented, no acute distress, sleepy. Diffusely rhonchorous lungs, rales, no wheezes. RRR, holosystolic murmur. Soft abdomen, non-tender, ostomy bag in place. Warm extremities, 2+ pulses, no edema.
+- **Discharge Exam:** VS 98.9, 73, 133/69, 24, 95% trach collar 50% FiO2. No acute distress, breathing comfortably. Mild rhonchi, occasional expiratory wheezes. Bilateral edema, chronic venous stasis changes, right knee tender.
+
+**Pertinent Results:**
+- **Blood Counts:** WBC 28.2, Hgb 7.9, Hct 24.0, Plt [Redacted]
+- **Electrolytes:** Glucose 139, UreaN 45, Creat 1.5, Na 136, K 5.0, Cl 99, HCO3 29, AnGap 13
+
+**Brief Hospital Course:**
+- **Healthcare Associated Pneumonia and MRSA Bacteremia:** Treated with vancomycin, cefepime, and levofloxacin. Improved respiratory status, weaned off vent to trach collar. PICC line changed, TTE showed no valvular lesions. Planned for 2-week IV vancomycin course.
+- **Sacral Decubitus Ulcer:** Stage IV, managed with wound care and increased pain regimen (Oxycodone).
+- **Coronary Artery Disease:** Stable, continued carvedilol, held lisinopril due to hypotension, started ASA.
+- **Atrial Fibrillation:** CHADS4, off anticoagulation due to hemothorax, considering restarting coumadin as outpatient.
+- **Anemia:** Continued iron supplementation.
+- **Systolic CHF:** EF 40-45%, continued lasix.
+
+**Medications on Admission:**
+- Acetaminophen, Lidocaine patch, Trazodone, Carvedilol, Citalopram, Docusate, Ferrous sulfate, Folate, Lasix, Gabapentin, Lisinopril, Multivitamin, Omeprazole, Protein supplements, Albuterol HFA inhaler, Simethicone, Oxycodone, Miconazole powder, Levofloxacin, Gentamicin nebulizer.
+
+**Discharge Medications:**
+- Acetaminophen, Lidocaine patch, Trazodone, Citalopram, Docusate, Ferrous sulfate, Folic acid, Multivitamin, Omeprazole, Albuterol sulfate, Simethicone, Miconazole nitrate, Oxycodone, Aspirin, Lasix, Carvedilol, Vancomycin.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- **Primary:** Healthcare Associated Pneumonia, Staph Bacteremia
+- **Secondary:** Systolic CHF, Atrial Fibrillation
+
+**Discharge Condition:**
+- Mental Status: Confused at times
+- Level of Consciousness: Lethargic but arousable
+- Activity Status: Bedbound
+
+**Discharge Instructions:**
+- Continue antibiotics for 2 weeks
+- Follow-up with primary care doctors
+
+**Follow-up Instructions:**
+[Redacted]

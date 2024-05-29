@@ -1,0 +1,86 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Cardiothoracic
+- **Allergies:** Penicillins, Codeine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Recurrent effusions
+
+**Major Surgical or Invasive Procedure:**
+- Left video-assisted thoracoscopic surgery (VATS) parietal pleural biopsy, effusion evacuation, and bronchoscopy.
+
+**History of Present Illness:**
+- The patient is a woman with a history of breast cancer and a newly diagnosed thyroid nodule suspicious for papillary cancer. She presented with rapidly growing mediastinal lymphadenopathy. An endobronchial ultrasound (EBUS) with biopsy of level VII lymph node indicated suspicion for lymphoma.
+
+**Past Medical History:**
+- Hypertension (HTN)
+- Hypothyroidism
+- Breast cancer (twice), status post lumpectomy (twice), status post radiation therapy (XRT).
+
+**Family History:**
+- Mother: Deceased from breast cancer.
+- Sister: Deceased from multiple myeloma (MM).
+- Brother: Deceased from lymphoma.
+
+**Physical Exam:**
+- General: All findings normal.
+- HEENT: All findings normal.
+- Respiratory: Clear to auscultation and percussion (CTA/P), normal excursion, no fremitus.
+- Cardiovascular: All findings normal.
+- GI: All findings normal.
+- GU: Deferred.
+- Neuro: All findings normal.
+- MS: All findings normal.
+- Lymph Nodes: All findings normal.
+- Psychiatric: All findings normal.
+
+**Pertinent Results:**
+- Potassium: 3.4
+- Magnesium: 1.7
+- WBC: 6.0, RBC: 3.71*, HGB: 12.0, HCT: 35.6*, MCV: 96, MCH: 32.5*, MCHC: 33.8, RDW: 14.0
+- Platelet Count: 341
+- Other body fluid tests: CD23-D, CD45-D, KAPPA-D, CD2-D, CD7-D, CD10-D, CD19-D, CD20-D, LAMBDA-D, CD5-D, CD3-D, IPT-D
+
+**Brief Hospital Course:**
+- **Post-Op:** Patient stable with minimal pain. Chest tube (CT) placed on suction, diet advanced as tolerated.
+- **POD 1:** Mild incisional pain, managed with Dilaudid. Started on Colace, oxygen saturation (O2 sat) 93-95% on 4L nasal cannula (NC), weaned to 2L NC. Diet tolerated, IV fluids decreased. Chest X-ray (CXR) showed little change in left chest tube position and extensive opacification in the left lung.
+- **POD 2:** Stable on telemetry, CT on suction with serosanguinous output, no leak or crepitus. Weaned to 1.5L NC, reported one bowel movement (BM). CXR unchanged, consistent with post-surgical changes or residual lung mass.
+- **POD 3:** CT placed to water seal, weaned off oxygen, maintained O2 sat at 93% on room air (RA). Pain controlled with Tylenol. Discharge planning initiated. CXR showed a new loculated pneumothorax in the left upper lung.
+- **POD 4:** Stable with good oral intake, adequate urine output (UOP), minimal pain. CT clamped, repeat CXR showed stable loculation.
+- **POD 5:** Stable, CT removed uneventfully, post-pull CXR ordered. Stable vitals prior to discharge.
+
+**Medications on Admission:**
+- Amlodipine, Anastrozole, Latanoprost, Levothyroxine, Metoprolol Succinate, Perservision, Triamterene-Hydrochlorothiazide.
+
+**Discharge Medications:**
+1. Levothyroxine 50 mcg daily
+2. Anastrozole 1 mg daily
+3. Toprol XL 50 mg daily
+4. Amlodipine 2.5 mg daily
+5. Latanoprost 0.005% drops at bedtime
+6. Docusate Sodium 100 mg twice daily
+7. Hydromorphone 2 mg every six hours as needed for pain (14 days)
+8. Acetaminophen 325 mg as needed for pain
+
+**Discharge Disposition:**
+- Home with services
+
+**Discharge Diagnosis:**
+- Left pleural effusion
+
+**Discharge Condition:**
+- Stable
+
+**Discharge Instructions:**
+- Call Dr. [Redacted] if experiencing fever > 101°F, chills, increased shortness of breath, cough, sputum production, chest pain, or if incision develops drainage.
+
+**Follow-up Instructions:**
+- [Redacted]

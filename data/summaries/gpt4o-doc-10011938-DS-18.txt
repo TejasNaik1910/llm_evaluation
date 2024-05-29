@@ -1,0 +1,74 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Worsening dyspnea and rash
+
+**Major Surgical or Invasive Procedures:**
+- Bone Marrow biopsy
+- Skin biopsy
+
+**History of Present Illness:**
+Ms. [Redacted] is a [Redacted] year-old female with a history of COPD, seizure disorder secondary to AVM, and ACA aneurysm on 4 AEDs. She presented with worsening dyspnea on exertion and a skin rash, accompanied by a significantly elevated eosinophil count. Previous CT scans revealed pulmonary nodules, mediastinal lymphadenopathy, and bone lesions suggestive of malignancy, but biopsies were negative for malignant cells. She was treated with steroids, antibiotics, and diuretics. Despite treatment, she experienced progressive pruritus and decreased stamina.
+
+**Diagnostic Tests and Findings:**
+- **CT Chest:** Pulmonary nodules, mediastinal lymphadenopathy, and bone lesions.
+- **Transbronchial Biopsy:** Negative for malignant cells.
+- **Flow Cytometry:** Nonspecific T-cell dominant lymphoproliferation.
+- **Skin Biopsy:** Subacute spongiotic dermatitis with eosinophilic infiltrate.
+- **Bone Marrow Immunotyping:** Non-specific T cell dominant lymphoid profile.
+- **CXR:** Findings consistent with interstitial pulmonary edema.
+- **Transthoracic Echocardiogram:** Mild symmetric left ventricular hypertrophy, moderate pulmonary hypertension.
+- **Cardiac MRI:** No evidence of myocardial inflammation, fibrosis, or scar.
+- **Unilateral Lower Extremity Veins Ultrasound:** No evidence of deep venous thrombosis.
+
+**Medications:**
+- **On Admission:** Acetaminophen, Albuterol Inhaler, Diphenhydramine, Fexofenadine, Amlodipine, Furosemide, Ipratropium-Albuterol, Lamotrigine, Levetiracetam, Phenobarbital, Phenytoin Sodium, Symbicort.
+- **On Discharge:** Acetaminophen, Albuterol Inhaler, Amlodipine, Diphenhydramine, Fexofenadine, Furosemide, Lamotrigine, Phenobarbital, Phenytoin Sodium, Ipratropium-Albuterol, Levetiracetam, Cetirizine, Clobetasol Propionate Cream, Fluticasone Propionate Nasal Spray, Fluticasone-Salmeterol Diskus, Gabapentin, Hydroxyzine, Prednisone, Sarna Lotion.
+
+**Hospital Course:**
+- **Eosinophilia:** Significant hypereosinophilia (Eos 51%, absolute eos 10.66). Extensive workup was largely negative except for a false-positive strongyloides result. Treated with Ivermectin and later with Prednisone 40mg, increased to 60mg due to plateauing eosinophil levels.
+- **Shortness of Breath:** Likely due to COPD and acute CHF exacerbation. Treated with nebulizers, IV diuresis, and Prednisone. Significant improvement noted with Prednisone.
+- **Acute on Chronic Kidney Disease:** Elevated creatinine (1.5) likely due to CHF exacerbation and aggressive diuresis. Improved with reduced IV diuresis.
+- **Rash:** Consistent with a hypersensitivity reaction related to hypereosinophilia syndrome. Improved with oral and topical steroids, Cetirizine, Gabapentin, and antihistamines.
+- **Hyperkalemia:** Managed with dietary modifications and medications.
+
+**Discharge Condition:**
+- Awake, alert, oriented, ambulating independently with supplemental oxygen (1L NC).
+
+**Discharge Instructions:**
+- Continue all prescribed medications, particularly Prednisone, with a plan to taper after eosinophil counts are sufficiently low.
+- Follow-up appointments with allergy and pulmonology.
+- Avoid stressors and ease back into daily activities.
+
+**Follow-up Instructions:**
+- Repeat IgE, spirometry, and lung volumes to assess response to treatment.
+- Monitor for symptoms of worsening LVOT obstruction.
+- Maintain a low potassium diet.
+
+**Primary Diagnoses:**
+- Secondary Hypereosinophilia syndrome
+- COPD exacerbation
+- CHF exacerbation
+- Hyperkalemia
+
+**Secondary Diagnoses:**
+- Acute on chronic kidney disease
+- Epilepsy, complex-partial
+- AVM, Left frontal
+- PCom aneurysm
+- HLD
+- Lumbar disc herniation
+
+**Discharge Disposition:**
+- Home with service.

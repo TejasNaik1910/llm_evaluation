@@ -1,0 +1,61 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Bright red blood per rectum (BRBPR)
+
+**Major Surgical or Invasive Procedure:**
+- Sigmoidoscopy
+
+**History of Present Illness:**
+- The patient is a male with a history of prostate cancer (T3b N0 M0, Gleason 4+3, stage III), radiation proctitis post-argon laser treatment, atrial fibrillation on Pradaxa, and coronary artery disease post-multiple stent placements. He presented with BRBPR, initially noticing streaks on toilet paper, which progressed to significant blood loss. He also reported dull, band-like lower abdominal pain and a brief episode of chest pain relieved by sublingual nitroglycerin.
+
+**Diagnostic Tests and Findings:**
+- **EKG:** Normal sinus rhythm, QTc 480s, nonspecific ST changes.
+- **CXR:** Minimal blunting of the right costophrenic angle, possible trace pleural effusion or pleural thickening.
+- **CT Abdomen/Pelvis:** Possible mild rectal wall thickening, renal hypodense lesions.
+- **Labs:** Initial HCT 34.0, Cr 1.5 (baseline 1.2), INR 1.7. Discharge labs showed HCT 31.4, Cr 1.8.
+- **Sigmoidoscopy:** Findings consistent with radiation proctitis, treated with argon plasma coagulation.
+
+**Hospital Course:**
+- The patient was admitted for monitoring, serial hematocrits, and a planned sigmoidoscopy. He received intravenous fluids and was transfused with 4 units of PRBCs. During his stay, he remained hemodynamically stable, and his bleeding stopped post-sigmoidoscopy.
+
+**Active Issues:**
+1. **Radiation Proctitis:** Treated with argon plasma coagulation during sigmoidoscopy. The patient remained stable post-procedure.
+2. **Chest Pain:** Likely related to mild blood loss. EKGs and troponins were negative for acute coronary syndrome.
+3. **Paroxysmal Atrial Fibrillation:** Managed with Pradaxa, which was temporarily held due to bleeding risk and sigmoidoscopy preparation. Amiodarone was continued, and metoprolol was temporarily held.
+4. **Chronic Kidney Disease (CKD):** Suspected pre-renal etiology due to GI bleeding. Managed with intravenous fluids.
+
+**Inactive Issues:**
+- Hypertension, Diabetes Mellitus Type II, Parkinsonism, Gout, Prostate Cancer (in remission post-hormonal therapy with Lupron), and other chronic conditions were managed as per standard protocols.
+
+**Medications on Admission:**
+- Amiodarone, Amitriptyline/Ketoprofen/Lidocaine, Atorvastatin, Carbidopa-Levodopa, Colchicine, Cyclobenzaprine, Dabigatran (Pradaxa), Furosemide, Glipizide, Metoprolol, Nitroglycerin, Selegiline, Aspirin.
+
+**Discharge Medications:**
+- Continued all admission medications with instructions to restart Pradaxa post-procedure.
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Primary: Radiation Proctitis, Chest Pain
+- Secondary: Prostate Cancer, Coronary Artery Disease, Paroxysmal Atrial Fibrillation, Hypertension, Diabetes Mellitus, Parkinsonism, CKD
+
+**Discharge Condition:**
+- Clear mental status, alert, interactive, and ambulatory.
+
+**Discharge Instructions:**
+- Restart Pradaxa as previously prescribed. Follow up for repeat sigmoidoscopy in a few weeks. Monitor weight daily and limit physical activity for the next three days.
+
+**Follow-up:**
+- Scheduled follow-up for repeat sigmoidoscopy and routine monitoring of chronic conditions.

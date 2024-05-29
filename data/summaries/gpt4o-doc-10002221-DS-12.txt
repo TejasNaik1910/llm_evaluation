@@ -1,0 +1,78 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Orthopaedics
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Low back pain with radiation down the right leg.
+
+**Major Surgical or Invasive Procedure:**
+- Decompression L2-S1, Fusion L4-L5, Duraplasty on [Redacted].
+
+**History of Present Illness:**
+- The patient, a female with a significant past medical history including cerebral aneurysm, abdominal aortic aneurysm, antiphospholipid syndrome with multiple DVTs and bilateral large PEs on warfarin, BRCA1 mutation with left-sided breast cancer status post lumpectomy, presented with over one month of right lower back pain radiating down the right leg. Imaging revealed severe spinal canal narrowing and disc bulges at L2-L3 and L3-L4, with significant L4 nerve root compression.
+
+**Past Medical History:**
+- Dyslipidemia, varicose veins (R>L) status post ligation, COPD, OSA (on CPAP), recent URI, bilateral PEs, antiphospholipid antibody syndrome, T2DM, cerebral aneurysm, GERD, diverticulosis, history of colon polyps, depression, right CMC joint arthroplasty, bilateral rotator cuff repair, excision of right digit mass, cholecystectomy with stone and pancreatic duct exploration, hysterectomy, tonsillectomy.
+
+**Family History:**
+- Multiple family members with various cancers including ovarian, brain, endometrial, prostate, kidney, throat, and breast cancers.
+
+**Physical Exam:**
+- Vitals: Temp 97.9°F, BP 129/79, HR 82, RR 16, O2 sat 96% on room air.
+- General: Tearful, expressing pain.
+- Chest: Well-healed left breast incisions.
+- CV: Regular rate and rhythm.
+- Lungs: Clear bilaterally.
+- Abdomen: Soft, non-tender.
+- Extremities: Tender right lower extremity with limited movement due to pain.
+- Neuro: Grossly oriented.
+- MSK: Right SI joint tenderness, radicular pain worsened with back flexion.
+
+**Pertinent Results:**
+- **Imaging:**
+  - MRI Thoracic Spine: Severe central canal narrowing at L4-5, large right paramedian disc extrusion at L4-5, advanced degenerative changes in the lumbar spine.
+  - CT Abdomen & Pelvis: No acute findings, sigmoid diverticulosis without acute diverticulitis.
+- **Labs:**
+  - Notable for anemia (Hgb 8.5-10.2), stable renal function, and mild hypokalemia (K 3.3).
+
+**Brief Hospital Course:**
+- **Active Issues:**
+  - Right low back and leg pain due to significant disc herniations at L2-L5.
+  - Underwent decompression L2-S1, fusion L4-L5, and duraplasty.
+  - Postoperative care included heparin drip, transition to lovenox bridge to coumadin, and bedrest for dural tear precautions.
+  - Treated for UTI with Bactrim DS.
+- **Chronic Issues:**
+  - History of DVT/PE, antiphospholipid antibody syndrome, AAA, OSA on CPAP, vitamin D deficiency, GERD, depression, COPD.
+- **Postoperative Course:**
+  - Managed acute blood loss anemia, constipation, pain, and hypokalemia.
+  - Pain controlled with morphine, Valium, and Tylenol.
+  - Advanced activity after 48 hours, physical and occupational therapy for mobilization.
+
+**Medications on Admission:**
+- Included acetaminophen, albuterol, atorvastatin, docusate, omeprazole, polyethylene glycol, senna, sertraline, trazodone, vitamin D, warfarin, lidocaine patch, furosemide, ProAir, gabapentin, tramadol.
+
+**Discharge Medications:**
+- Diazepam, enoxaparin, morphine, furosemide, acetaminophen, albuterol, atorvastatin, docusate, lidocaine patch, omeprazole, polyethylene glycol, ProAir, senna, sertraline, trazodone, vitamin D, warfarin.
+
+**Discharge Disposition:**
+- Extended care facility.
+
+**Discharge Diagnosis:**
+- Lumbar spinal stenosis, spondylolisthesis L4-L5, UTI, constipation.
+
+**Secondary Diagnoses:**
+- History of DVT/PE, antiphospholipid antibody syndrome, AAA, OSA on CPAP.
+
+**Discharge Condition:**
+- Clear mental status, alert, ambulatory with assistance.
+
+**Discharge Instructions:**
+- Postoperative care instructions included activity restrictions, wound care, medication management, and follow-up appointments.

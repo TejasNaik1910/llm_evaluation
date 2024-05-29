@@ -1,0 +1,530 @@
+ 
+Name:  ___              ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypotension
+ 
+Major Surgical or Invasive Procedure:
+PEG tube placement ___
+
+ 
+History of Present Illness:
+___ yo female with HTN, HLD, hypothyroidism, type II DM, recent
+left MCA stroke, AF on dabigatran, mixed systolic-diastolic CHF
+(EF 42% on ___, admitted from urgent visit for orthostatic
+hypotension, fatigue, decreased appetite and trouble swallowing.
+
+Patient had a left MCA stroke with dysarthria and right
+hemiparesis on ___ treated with TPA at ___, then
+transferred to ___. At ___, she was diagnosed with atrial
+fibrillation. Discharged to rehab with Pradaxa only (no 
+aspirin).
+Only lasting symptoms of slight dysarthria and small cognitive
+deficits. Since getting home from rehab on ___, patient has been
+having decreased PO intake, decreased appetite, and decreased
+energy. She was seen by her PCP ___ f/u on ___ at
+which time she was noted to have significant weight loss. 
+
+She was brought to ___ outpatient for urgent visit today by 
+her
+daughter ___ due to concern for worsening PO intake at home
+and concern for difficulty swallowing. She is unsure why she
+hasn't been eating and drinking as much, but denies any
+difficulty swallowing. Her daughter notes that she appears to
+have difficulty swallowing medications. At the appointment today
+she was noted to be orthostatic and was sent to the ED for fluid
+resuscitation and further work-up for failure to thrive. Pt also
+has been reporting intermittent abd pain and dry heaving (last
+episode two days prior). She denies emesis, diarrhea (baseline
+constipated), fever, or chills. No chest pain, shortness of
+breath, orthopnea, PND, syncope, lightheadedness, dizziness, or
+palpitations. 
+
+- In the ED, initial vitals were: 96.8 83 121/68 18 100% RA 
+- Exam was notable for: irregular/irregular rhythm, CTAB
+- Labs were notable for: ___ 17.2/1.6, WBC 3.9, Mg 1.5, K 
+4.0,
+lactate 1.5
+
+- Studies were notable for:
+___ CXR PA/LAT: No focal consolidation.
+___ ___:
+1. There is a hypodensity within the left semi centrum ovale
+which may  represent sequela of recent left MCA territory
+infarction. No hemorrhagic transformation, midline shift or mass
+effect. No new large territory  infarction. 
+2. Encephalomalacia of the right frontal, right occipital, left
+frontal and  left cerebellar hemisphere are sequela of chronic
+infarction. 
+3. Atrophy, probable small vessel ischemic changes, and
+atherosclerotic vascular disease as described. 
+
+- The patient was given: Dextrose 50% 12.5 gm, 500 cc LR 
+
+On arrival to the floor, patient reports that she is feeling 
+"ok"
+and does not have any focal complaints.
+
+REVIEW OF SYSTEMS:
+==================
+Per HPI, otherwise, 10-point review of systems was within normal
+limits.
+ 
+Past Medical History:
+Bilateral breast cancer,HTN,DM,CAD,MI 1980s,SVT,CHF
+urinary incontinence,rectal polyp and adenomas,positive 
+PPD,osteopenia,carpal tunnel syndrome,multinodular goiter, 
+paraganglioma
+
+PSH:s/p right mastectomy and left lumpectomy(chemotherapy and 
+radiation).right axillary mass excision ___, cardiac 
+catheterization ___ thyroidectomy ___, 
+left adrenalectomy for paraganglioma     
+ 
+Social History:
+___
+Family History:
+1.  Mother with breast cancer (age ___.
+2.  Three sisters with breast cancer all diagnosed in their late
+___ or early ___.
+3.  A niece with breast cancer diagnosed in her late ___.
+4.  A paternal aunt with breast cancer diagnosed in her ___.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+___ 2249 Temp: 97.4 PO BP: 118/80 HR: 87 RR: 18 O2
+sat: 95% O2 delivery: Ra 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Irregularly irregular. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: ___ 0815 Temp: 97.7 PO BP: 98/60 L Sitting HR: 66
+RR: 16 O2 sat: 96% O2 delivery: RA FSBG: 216  
+GEN: Frail, elderly woman lying comfortably in bed, talkative 
+but
+confused
+NECK: JVP 10 at 45 degrees 
+CARDIAC: Irregularly irregular. Prominent PMI,
+non-displaced. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: vesicular breath sounds bilaterally 
+ABDOMEN: Normal bowels sounds, non-distended, non-tender to deep
+palpation in all four quadrants. PEG tube site is clean, dry and
+intact.
+EXTREMITIES: WWP, No clubbing, cyanosis, or edema.
+NEUROLOGIC: Alert and oriented to person and place. Hemiparesis 
+R
+side. Moving left side spontaneously.
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 05:55PM BLOOD WBC-3.9* RBC-4.63 Hgb-12.4 Hct-40.7 
+MCV-88 MCH-26.8 MCHC-30.5* RDW-16.4* RDWSD-52.9* Plt ___
+___ 05:55PM BLOOD Neuts-56.5 ___ Monos-12.8 Eos-1.8 
+Baso-1.0 Im ___ AbsNeut-2.21 AbsLymp-1.07* AbsMono-0.50 
+AbsEos-0.07 AbsBaso-0.04
+___ 05:55PM BLOOD ___ PTT-47.1* ___
+___ 05:55PM BLOOD Glucose-53* UreaN-19 Creat-1.1 Na-146 
+K-5.9* Cl-101 HCO3-27 AnGap-18
+___ 05:55PM BLOOD AST-38 AlkPhos-35 TotBili-0.7
+___ 05:55PM BLOOD Albumin-4.0 Calcium-10.2 Phos-3.4 Mg-1.5*
+
+DISCHARGE LABS:
+===============
+___ 04:18AM BLOOD WBC-4.0 RBC-3.56* Hgb-9.7* Hct-33.1* 
+MCV-93 MCH-27.2 MCHC-29.3* RDW-17.7* RDWSD-59.6* Plt ___
+___ 04:18AM BLOOD Plt ___
+___ 06:00AM BLOOD ___ PTT-27.6 ___
+___ 04:18AM BLOOD Glucose-200* UreaN-16 Creat-0.8 Na-140 
+K-4.9 Cl-101 HCO3-31 AnGap-8*
+___ 04:18AM BLOOD Calcium-9.2 Phos-3.5 Mg-1.7
+
+STUDIES:
+========
+CT Head - ___: 
+IMPRESSION:
+1. There is a  hypodensity within the left semi centrum ovale 
+which may
+represent sequela of recent left MCA territory infarction.  No 
+hemorrhagic
+transformation, midline shift or mass effect.  No new large 
+territory
+infarction.
+2. Encephalomalacia of the right frontal, right occipital, left 
+frontal and
+left cerebellar hemisphere are sequela of chronic infarction.
+3.  Atrophy, probable small vessel ischemic changes, and 
+atherosclerotic
+vascular disease as described.
+
+CT A/P: 
+IMPRESSION:
+1. No evidecne of malignancy or infection is identified in the 
+chest or
+abdomen.
+2. 2.2 cm hypodense nodule in the left thyroid lobe is not 
+significantly
+changed compared to ___.
+3. Mildv superior endplate compression deformity of L1 is 
+probably probably
+chronic.
+
+CT Chest
+IMPRESSION:
+1. No evidecne of malignancy or infection is identified in the 
+chest or
+abdomen.
+2. 2.2 cm hypodense nodule in the left thyroid lobe is not 
+significantly
+changed compared to ___.
+3. Mildv superior endplate compression deformity of L1 is 
+probably probably
+chronic.
+
+RUQ U/S: 
+IMPRESSION: 
+1.  Gallbladder sludge without wall thickening or intraductal 
+biliary
+dilatation.
+2.  Septated cyst in segment 4.
+
+RENAL U/S: 
+IMPRESSION: 
+No hydronephrosis on either side.
+Normal appearance of the urinary bladder.
+
+CT HEAD - ___: 
+IMPRESSION:
+1. No acute areas of infarction, hemorrhage, edema or mass.
+2. Evolution of left frontal and insular infarctions since the 
+CT of ___.  Right frontal and occipital infarcts are 
+unchanged.
+
+TTE ___
+IMPRESSION: Normal left ventricular cavity size with severe 
+global hypokinesis. Right ventricular cavity dilation with 
+severe free wall hypokinesis. Moderate pulmonary artery systolic 
+hypertension. Moderate mitral regurgitation. Moderate tricuspid 
+regurgitation.
+
+KUB ___
+IMPRESSION: 
+Non-obstructive bowel gas pattern.  The tip of the Dobhoff is in 
+the proximal
+body of the stomach, and could be advanced more distally into 
+the stomach.
+
+CXR ___
+FINDINGS:    
+The tip of the right PICC projects over the right atrium, 
+approximately 2.5 cm beyond the cavoatrial junction.  An enteric 
+tube extends below the level the diaphragm but beyond the field 
+of view of this radiograph.  
+The degree of pulmonary edema is unchanged.  Right basal 
+atelectasis is also similar in appearance.  No new pleural 
+effusion or pneumothorax.  No left lung consolidation. 
+
+G TUBE PLACEMENT ___
+FINDINGS: 
+1. Successful placement of a ___ Fr MIC gastrostomy tube.
+ 
+IMPRESSION: 
+Successful placement of a ___ Fr MIC gastrostomy tube.
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+=====================
+In brief this is a ___ yo female with hx of breast cancer s/p 
+bilateral mastectomy, HTN, HLD, hypothyroidism, type II DM, 
+recent left MCA stroke, AF on dabigatran, mixed 
+systolic-diastolic CHF (EF 42% on ___, admitted from urgent 
+visit for orthostatic hypotension, fatigue, decreased appetite 
+and trouble swallowing, became acutely hypotensive on ___ 
+secondary to multietiology shock that resolved with addressing 
+of underlying etiologies described below. Patient stabilized and 
+called out to cardiology service where she underwent diuresis 
+with improvement in BNP and mental status. Her course was 
+complicated by persistent a fib with RVR for which she was 
+placed on digoxin and low dose metoprolol with good response. 
+She underwent PEG tube placement due to poor PO intake, though 
+she was cleared for pureed foods by the speech team. She was 
+discharged to rehab. She may benefit  from cardioversion once on 
+anticoagulation for appropriate duration. 
+
+ACUTE PROBLEMS:
+===============
+# HFrEF (EF 23%)
+# Tachymyopathy vs. ischemic cardiomyopathy
+Patient presented with poor PO intake/failure to thrive and 
+received volume resuscitation. This, in conjunction with 
+unidentified newly reduced ejection fraction, likely triggered 
+subsequent Afib with RVR. Rate control was attempted with 
+metoprolol. This precipitated cardiogenic shock requiring brief 
+admission to the MICU. On TTE she was found to have newly 
+reduced EF of 23% (compared to prior 42%) with global 
+hypokinesis most likely from tachymyopathy due to poorly 
+controlled atrial fibrillation prior to this admission. Missed 
+ischemic event was considered but cardiac cath was not pursued 
+due to frailty. Was trialed on Lasix boluses and subsequently 
+bumex gtt prior to transfer from ICU. On transfer to the floor, 
+patient was continued on lasix gtt and converted to PO Lasix 
+when euvolemic. She was started on digoxin for rate control of 
+afib (see below). Afterload reduction was managed with 
+captopril. She was eventually tolerating low-dose metoprolol 
+after rate control with digoxin. Discharge weight was 136 
+pounds. She will follow up with cardiology NP in one week and 
+Dr. ___. 
+
+# Atrial fibrillation
+First diagnosed in ___ after suffering from stroke. 
+CHADSVASC of 8. She was prescribed Diltiazem prior to this 
+admission. Upon arrival she was found to have afib with RVR in 
+the low 100s and she was volume depleted. With volume repletion 
+and uptitration of metoprolol for rate control, she became 
+hypotensive. All rate control was held. She was subsequently 
+started on digoxin for rate control, and low-dose metoprolol was 
+subsequently added and tolerated. Due to intermittent swallowing 
+issues/pocketing meds in her mouth, home dabigatran had to be 
+converted to apixaban so that she could receive it via her PEG 
+tube. During this hospitalization she was considered for 
+cardioversion but she had reportedly missed some doses of her 
+anticoagulation prior to admission. Going forward, she may 
+benefit from cardioversion. She has consistently been 
+anticoagulated since ___ (she was on it prior to that but it 
+was held briefly for her PEG tube placement). At discharge she 
+was still in atrial fibrillation but with heart rates in the 
+___. 
+
+# ___
+Cr peaked at 2.4 with limited urine output. FeNA suggestive with 
+prerenal
+etiology, consistent with cardiorenal as driving etiology with 
+contribution from ATN from shock described above. Her creatinine 
+improved to 0.8 at the time of discharge.
+
+# Coagulopathy
+Unclear etiology. liver function seems normal. Vitamin K 
+challenge 5 IV x3 days with minimal improvement. 
+
+# Toxic metabolic encephalopathy
+# Delirium
+Recent stroke, likely acute delirium iso critical illness. CT
+head negative. She became quite hypernatremic after starting 
+tube feeds, which correlated with her cognitive decline. She 
+improved substantially after correction of her serum sodium but 
+still remained occasionally disoriented to place/time.
+
+# Failure to thrive
+# Concern for dysphagia 
+# Weight loss
+No clear etiology, as decreased PO intake and weight loss began 
+prior to recent stroke. Patient's function and PO intake have 
+appeared to continuously worsen since stroke. CT 
+abd/pelvis/chest ___ with no e/o malignancy or occult 
+infection. Per discussion w/daughter, daughter would like to 
+maximize nutrition (including tube feeds) given this is an acute 
+decline. The patient was evaluated by the speech and swallow 
+time and was cleared for pureed solids and thin liquids. It was 
+decided that she could take in whatever desired PO that she 
+would like, and that would be supplemental to tube feeding. She 
+underwent PEG placement on ___ and was started on bolus tube 
+feeds 3x daily. Tube feeds should not be given 2 hours prior to 
+AM levothyroxine or two hours after levothyroxine in order to 
+allow maximum drug absorption. 
+
+# C diff
+Patient developed diarrhea in early ___. C diff stool PCR was 
+positive. She completed a 10 day course of PO vancomycin: 
+___. She was no longer symptomatic at discharge.
+
+CHRONIC/STABLE ISSUES: 
+======================
+# OSA
+Has diagnosis of severe OSA, on BIPAP at home though compliance
+is unclear. She should continue BiPAP at ___ nightly. 
+
+# Left MCA stroke with dysarthria and right hemiparesis on 
+___
+NCHCT from ___ showed sequela of recent L MCA infarction. No 
+evidence of hemorrhagic transformation. She has right sided 
+hemiparesis. Continue atorvastatin 40 mg PO daily 
+
+# Type II diabetes mellitus
+Restart home metformin and glipizide at discharge. Her blood 
+glucose was appropriate on 10 units of Lantus daily, but this 
+may require adjustment once she gets on a regular schedule of 
+bolus tube feeds.
+
+# Hypothyroidism
+Continue home levothyroxine 75 mcg daily. TSH and FT4 were 
+checked and were appropriate. Tube feeds should be held two 
+hours prior to AM dose and two hours after AM dose to allow 
+maximum absorption.
+
+# GERD
+Continue pantoprazole 40 mg daily 
+
+# Anemia
+She is a ___ Witness and cannot receive blood products. 
+
+# Hypertension
+Continue captopril, consider changing to lisinopril 2.5. She did 
+not tolerate higher doses of lisinopril in-house and became 
+hypotensive.
+
+=========================
+TRANSITIONAL ISSUES
+=========================
+[ ] Discharge weight: 136 pounds
+[ ] Discharge diuretic: Lasix 20 mg daily
+[ ] Diltiazem was discontinued and should not be restarted due 
+to her reduced ejection fraction.
+[ ] Dabigatran was switched to apixaban because dabigatran 
+cannot be given through PEG tube and she occasionally pockets 
+medications in her mouth.
+[ ] Consider switching captopril to lisinopril. In the past she 
+did not tolerate doses higher than 2.5 mg lisinopril due to 
+hypotension.
+[ ] Continue to hold tube feeds 2 hours before and 2 hours after 
+AM levothyroxine to allow adequate drug absorption.
+[ ] Continue bolus dosing of tube feeds 3x daily with PO intake 
+as desired. Cleared for pureed solids and thin liquids.
+[ ] Consider cardioversion for atrial fibrillation after 
+reliable anticoagulation for ___ weeks. She has not missed any 
+doses of anticoagulation since ___ after PEG tube placement. 
+[ ] Required insulin after initiation of tube feeds. Continue to 
+adjust or increase metformin and glipizide to obviate insulin 
+altogether. 
+[ ] On day of discharge, we learned patient's healthcare proxy 
+considered changing code status to DNI, but she was not 
+available to confirm this. Please continue goals of care 
+discussion and complete MOLST form.
+
+#CONTACT: HCP ___ ___ Lives with
+alternative HCP, daughter ___ (___)
+#CODE: Full code
+#Jehova's Witness, no blood products 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 500 mg PO BID 
+2. Dabigatran Etexilate 150 mg PO BID 
+3. Furosemide 20 mg PO DAILY 
+4. GlipiZIDE XL 5 mg PO DAILY 
+5. Levothyroxine Sodium 75 mcg PO DAILY 
+6. Atorvastatin 40 mg PO QPM 
+7. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+8. Pantoprazole 40 mg PO Q24H 
+9. Diltiazem Extended-Release 120 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID  
+2.  Captopril 3.125 mg PO TID 
+Hold for systolic blood pressure <90 or mean arterial pressure 
+<65.  
+3.  Digoxin 0.125 mg PO DAILY  
+4.  FoLIC Acid 1 mg PO DAILY  
+5.  Hydrocortisone (Rectal) 2.5% Cream ___ID rectal pain 
+ 
+6.  Glargine 10 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin 
+7.  Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY  
+8.  Lidocaine 5% Patch 1 PTCH TD QAM left hip  
+9.  Metoprolol Tartrate 6.25 mg PO Q6H  
+10.  Mirtazapine 7.5 mg PO QHS  
+11.  Multivitamins W/minerals 1 TAB PO DAILY  
+12.  Thiamine 100 mg PO DAILY  
+13.  Atorvastatin 40 mg PO QPM  
+14.  Furosemide 20 mg PO DAILY  
+15.  GlipiZIDE XL 5 mg PO DAILY  
+16.  Levothyroxine Sodium 75 mcg PO DAILY  
+17.  MetFORMIN (Glucophage) 500 mg PO BID  
+18.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+-Acute decompensated heart failure reduced ejection fraction
+-Atrial fibrillation
+SECONDARY:
+-Dementia
+-C diff colitis
+-Hypernatremia
+-Malnutrition 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a privilege caring for you at ___. 
+
+WHY WAS I IN THE HOSPITAL? 
+- You were experiencing weight loss, poor intake of food and 
+water, and weakness.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL? 
+- You were seen by speech/swallow specialists, and lab work and 
+imaging were performed. We were unable to determine why your 
+appetite was poor and you were losing so much weight.
+- You were cleared by the speech and swallow team to eat pureed 
+foods and thin liquids.
+- You had a PEG tube placed so that you could get adequate 
+nutrition. 
+- Your medications were adjusted to help improve your atrial 
+fibrillation, which is an abnormal heart rhythm. 
+- You were treated with antibiotics for an infection called C 
+diff, which causes diarrhea. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL? 
+- Continue to take all your medicines and keep your 
+appointments. 
+We wish you the best! 
+Sincerely, 
+Your ___ Team 
+ 
+Followup Instructions:
+___

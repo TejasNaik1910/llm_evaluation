@@ -1,0 +1,95 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Surgery
+- **Allergies:** ACE Inhibitors, Sertraline
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Carotid body tumor
+
+**Major Surgical or Invasive Procedure:**
+- Excision of right carotid body tumor
+
+**History of Present Illness:**
+- The patient, a woman with a 3-cm right carotid body tumor, underwent coil embolization of the feeding external carotid branches the day before presenting for resection.
+
+**Past Medical History:**
+- Carotid body tumor, hypertension (HTN), depression, dizziness, diabetes mellitus (DM), hyperlipidemia (HLD), arthritis, obesity, hip/lower leg fracture, right wrist fracture.
+- Previous surgeries: gastric bypass, repair of left hip/lower leg/right arm.
+
+**Physical Exam:**
+- **Discharge Physical Exam:**
+  - Vital signs stable (AVSS)
+  - Alert and oriented x3 (A&Ox3)
+  - Cranial nerves 2-12 intact, face symmetric, neck soft without hematoma, drain removed prior to discharge.
+  - Abdomen soft, non-tender, non-distended (NTND)
+  - Extremities warm, bilateral pulses present, strength symmetric.
+
+**Pertinent Results:**
+- Glucose: 141 mg/dL
+- Sodium: 128 mmol/L
+- Potassium: 3.3 mmol/L
+- Chloride: 92 mmol/L
+- Calcium: 7.5 mg/dL
+- Magnesium: 1.3 mg/dL
+- Hematocrit (HCT): 27.3%
+- Partial Thromboplastin Time (PTT): 46.3 seconds
+
+**Brief Hospital Course:**
+- The patient was admitted for the resection of a right carotid body tumor. She underwent angioembolization of the tumor in the endovascular suite, which she tolerated well without complications. The subsequent resection preserved the internal and external carotid arteries and included facial nerve monitoring. Post-operatively, she had no groin swelling or neurological deficits. A right Jackson-Pratt (JP) drain was placed below the incision, initially draining sanguineous fluid, which became sero-sanguineous. By post-operative day (POD) 4, the drainage volume decreased to less than 30 mL/day, and the drain was removed. The patient tolerated a regular diet, ambulated without assistance, voided without issues, and managed pain with oral medications. She was deemed ready for discharge with appropriate instructions.
+
+**Medications on Admission:**
+- Fluticasone Propionate (Nasal)
+- Gabapentin 100 mg PO BID PRN pain
+- Metformin 850 mg PO BID
+- Omeprazole 20 mg PO Daily
+- Pravastatin 40 mg PO QPM
+- Ranitidine 300 mg PO BID
+- Sucralfate 1 gm PO QID
+- Aspirin 81 mg PO Daily
+- Vitamin D (Dose Unknown)
+- Cyanocobalamin (Dose Unknown)
+- Multivitamins 1 TAB PO Daily
+- NPH 40 Units Breakfast
+
+**Discharge Medications:**
+- Aspirin 81 mg PO Daily
+- Metformin 850 mg PO BID
+- Omeprazole 20 mg PO Daily
+- Ranitidine 300 mg PO BID
+- Sucralfate 1 gm PO QID
+- Acetaminophen 650 mg PO Q4H PRN pain, fever
+- Docusate Sodium 100 mg PO BID
+- Oxycodone 5 mg PO Q4H PRN pain
+- Senna 8.6 mg PO BID PRN constipation
+- Cyanocobalamin 50 mcg PO Daily
+- Fluticasone Propionate Nasal 1 Spray Daily
+- Gabapentin 100 mg PO BID PRN pain
+- Multivitamins 1 TAB PO Daily
+- Pravastatin 40 mg PO QPM
+- Vitamin D 1000 Units PO Daily
+- NPH 40 Units Breakfast
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Carotid body tumor
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Surgical incision care, activity guidelines, medication adherence, and signs to watch for complications (e.g., changes in vision, severe headache, speech difficulties, movement issues, swallowing or breathing problems, fever, and wound drainage).
+
+**Follow-up Instructions:**
+- [Redacted]

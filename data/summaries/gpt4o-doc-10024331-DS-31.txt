@@ -1,0 +1,92 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Hip fracture
+
+**Major Surgical or Invasive Procedure:**
+- Hemiarthroplasty
+
+**History of Present Illness:**
+- The patient, a male with a history of multiple right hip dislocations, Parkinson's disease, coronary artery disease (CAD) with multiple stents, atrial fibrillation (A-Fib) on Pradaxa, and prostate cancer post-radiation, presented with left hip pain. The pain began mildly three weeks prior and worsened after a crack was felt while walking. X-rays revealed a left femoral neck fracture.
+
+**Past Medical History:**
+- Gallstones causing biliary obstruction, post-ERCP and sphincterotomy
+- Radiation proctitis, post-argon laser treatment
+- Prostate cancer, T3b N0 M0, Gleason 4+3, stage III
+- CAD with multiple percutaneous interventions
+- Paroxysmal atrial fibrillation
+- Hypertension
+- Diabetes Mellitus (DM)
+- Cholelithiasis
+- Migraine and cluster headaches
+- Gout
+- Chronic kidney disease (CKD)
+- Multiple right hip replacements with subsequent dislocations
+- Osteoarthritis of the knees
+- Anemia
+- Post-tonsillectomy
+
+**Diagnostic Tests:**
+- X-rays: Left femoral neck fracture, severe left hip osteoarthritis, possible stress fracture of the left tibia
+- CT Pelvis: Mildly displaced subcapital fracture of the left femur, severe osteoarthritis
+- ECG: Sinus rhythm, normal tracing
+- CXR: Patchy opacification in the right cardiophrenic angle, suggestive of pneumonia
+- Blood and urine cultures: Probable Enterococcus in urine, blood cultures negative
+- PSA: <0.1
+
+**Medications on Admission:**
+- Amitriptyline/Ketoprofen/Lidocaine patch
+- Atorvastatin
+- Carbidopa-Levodopa
+- Colchicine
+- Dabigatran Etexilate (Pradaxa)
+- Glipizide
+- Metoprolol Succinate
+- Nitroglycerin
+- Selegiline HCl
+
+**Discharge Medications:**
+- Amitriptyline/Ketoprofen/Lidocaine patch
+- Atorvastatin
+- Carbidopa-Levodopa
+- Colchicine
+- Dabigatran Etexilate (Pradaxa)
+- Glipizide
+- Nitroglycerin
+- Selegiline HCl
+- Acetaminophen
+- Docusate Sodium
+- Senna
+- Oxycodone
+- Calcium Carbonate
+- Vitamin D (initial high dose followed by maintenance dose)
+- Aspirin
+- Levofloxacin
+- Metoprolol Succinate
+
+**Hospital Course:**
+- The patient underwent a hemiarthroplasty without complications. Pain was managed with dilaudid, Tylenol, and oral oxycodone. Pradaxa was temporarily stopped and replaced with heparin, then resumed post-surgery. The patient was treated for pneumonia with levofloxacin and managed for possible tibial stress fractures with pain control. Depression was noted but the patient declined psychiatric evaluation. CAD was managed with statin, aspirin, and metoprolol, which was increased. Atrial fibrillation was managed with Pradaxa and metoprolol. CKD and hypertension were stable. Diabetes was controlled with glipizide.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory with assistance
+
+**Discharge Instructions:**
+- Continue physical therapy
+- Follow up with primary care physician, cardiologist, and orthopedic surgeon
+- Continue prescribed medications, including antibiotics for pneumonia and pain management
+- Start calcium and vitamin D for bone health and discuss osteoporosis treatment with primary care doctor
+
+**Follow-up:**
+- Scheduled appointments with primary care, cardiology, orthopedics, and hematology-oncology for further evaluation and management.

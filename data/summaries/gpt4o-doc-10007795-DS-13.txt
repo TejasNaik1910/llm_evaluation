@@ -1,0 +1,60 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Surgery
+- **Allergies:** Cipro, ciprofloxacin, fluconazole
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Acute pancreatitis
+
+**Major Surgical or Invasive Procedures:**
+1. **Endoscopic Ultrasound-Guided Cyst Gastrostomy:** Aspiration of 4 liters of fluid, irrigation of necrotic material, and placement of 4 double-pigtail stents.
+2. **Revision of Cystogastrostomy.**
+3. **CT-Guided Drainage Catheter Placement:** Right flank collection.
+4. **CT Fluoroscopy-Guided Drainage Catheter Exchange:** Upsize from 14 to 20 chest tube.
+
+**History of Present Illness:**
+- Patient with alcoholic hepatitis and pancreatitis, previously admitted for ETOH pancreatitis, pneumonia, sepsis, and respiratory failure requiring intubation. Developed abdominal pain and was transferred for EUS-guided drainage. Labs showed WBC 17, lipase 196. Treated with bowel rest, IV dilaudid, and TPN. Found to have multi-loculated pancreatic pseudocyst on CT imaging.
+
+**Past Medical History:**
+- Hypertension, hypercholesterolemia, diabetes, metabolic toxic encephalopathy, depression, diverticulitis (s/p sigmoid resection and end colostomy), anemia of chronic disease, breast cancer (s/p bilateral mastectomy and chemotherapy), ETOH abuse, bowel obstruction, pancreatic pseudocyst, appendectomy, laparoscopy for pelvic pain.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Cancer
+
+**Physical Exam:**
+- On admission: T 98.3, BP 130/73, HR 108, RR 18, O2 94% RA. General: NAD. HEENT: OP clear, sclera anicteric. CV: Regular rate, no murmurs. Pulm: CTAB. Abd: +scar, ostomy in place, min TTP at LUQ, no guarding/rebound. Ext: wwp, no edema. Neuro: A&Ox3.
+- Prior discharge: VS: 98.8, 89, 106/91, 18, 99% RA. General: Pleasant with NAD, Dobhoff tube in place. CV: RRR, no m/r/g. Pulm: CTAB. Abd: Right flank with catheter to gravity drainage. LUQ ostomy patent. Ext: Warm, no c/c/e.
+
+**Pertinent Results:**
+- Blood tests showed elevated WBC, low Hgb, and Hct. Fluid cultures indicated Candida albicans. Imaging (MRCP, CT ABD) revealed multiple peripancreatic fluid collections, splenic vein occlusion, left pleural effusion, and T11 vertebral body compression fracture. ECHO showed normal left ventricular function, borderline right ventricular function, moderate mitral regurgitation, and mild pulmonary hypertension.
+
+**Brief Hospital Course:**
+- **Pancreatic Pseudocyst:** Underwent MRCP and EUS-guided cyst gastrostomy with fluid aspiration and stent placement. Developed fever and persistent fluid collections, requiring repeat EUS drainage and CT-guided drain placement. Managed with TPN, oral dilaudid, and MS for pain control.
+- **Pneumonia:** Developed fever post-EUS, treated with Vancomycin and Zosyn.
+- **Possible Pseudocyst Infection, Candidal Infection:** Fluid culture grew Candida albicans. Treated with Micafungin IV after fluconazole reaction.
+- **Depression:** Continued on Cymbalta, social work consulted.
+- **Diabetes:** Managed with insulin.
+- **Breast Cancer:** Continued on tamoxifen, needs oncology follow-up for pulmonary nodule.
+- **Compression Fracture:** Needs oncology follow-up.
+
+**Discharge Summary:**
+- **Medications on Admission:** Included duloxetine, insulin, pantoprazole, tamoxifen, nicotine patch, multivitamins, gemfibrozil, acetaminophen, hydromorphone, and heparin.
+- **Discharge Medications:** Included nicotine patch, tamoxifen, acetaminophen, duloxetine, heparin, insulin, gabapentin, hydromorphone, morphine, pantoprazole, gemfibrozil, and multivitamins.
+- **Discharge Disposition:** Extended care facility.
+- **Discharge Diagnosis:** Acute alcoholic necrotizing pancreatitis, infected pancreatic pseudocyst, peripancreatic fluid collection.
+- **Discharge Condition:** Clear mental status, alert, ambulatory with assistance.
+- **Discharge Instructions:** Follow-up with surgeon and PCP, drain and ostomy care instructions, avoid heavy lifting, and driving while on pain medications.
+
+**Follow-up Instructions:**
+- [Redacted]

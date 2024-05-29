@@ -1,0 +1,74 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Distended abdomen, ascites
+
+**Major Surgical or Invasive Procedure:**
+- Paracentesis
+
+**History of Present Illness:**
+- The patient is a female with metastatic breast cancer, admitted for worsening ascites and abdominal pain. Initially diagnosed in [Redacted] with ER/PR+ breast cancer, she underwent lumpectomy, tamoxifen/lupron, and femara treatments. The disease progressed to the liver. Recently, she has been using alternative therapies, including GcMAF injections, reporting some symptomatic improvement but persistent worsening ascites.
+
+**Past Medical History:**
+- **Breast Cancer:** Diagnosed with ER/PR+ HER2-neu 1+ invasive ductal carcinoma and DCIS, Grade II LVI. Underwent lumpectomy and hormonal treatments (tamoxifen, lupron, femara).
+- **Metastasis:** Progression to liver confirmed by PET CT and biopsy.
+- **Surgical Interventions:** Laparoscopic bilateral salpingo-oophorectomy and IUD removal (benign pathology).
+- **Previous Treatments:** Did not start Xeloda, Avastin, or Taxol as recommended, opting for alternative treatments instead.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- No family history of breast or gynecological malignancies.
+
+**Physical Exam:**
+- **Admission Exam:** Cachectic, jaundiced, tachycardic, clear lungs, distended abdomen with fluid waves, multiple large masses, 2+ peripheral edema.
+- **Discharge Exam:** Alert, oriented, cachectic, moderate jaundice, firm hepatosplenomegaly, 4-5mm edema, intact cranial nerves.
+
+**Pertinent Results:**
+- **Labs:** Elevated liver enzymes (ALT, AST, LDH, AlkPhos), high bilirubin levels, anemia (low Hgb, Hct), hyperkalemia.
+- **Microbiology:** No microorganisms seen in gram stain; fluid culture pending.
+- **Imaging:** RUQ ultrasound showed extensive hepatic metastatic disease, moderate ascites, patent intrahepatic portal venous system, normal biliary system.
+
+**Brief Hospital Course:**
+- **Ascites:** Likely due to liver infiltration by metastatic disease. Admitted for paracentesis; previous paracentesis earlier this month was negative for malignancy. Future need for regular paracentesis or peritoneal catheter placement discussed.
+- **Abdominal Pain:** Attributed to worsening metastatic disease and ascites. No evidence of portal vein thrombosis or biliary obstruction.
+- **Metastatic Breast Cancer:** Currently on alternative therapy (GcMAF). Past treatments included tamoxifen, lupron, femara, and oophorectomy. Never took capecitabine, avastin, or taxol. Discharged home with hospice services and DNR/DNI form signed.
+- **Hyperkalemia:** Possibly related to mild renal impairment; treated with IV fluids.
+
+**Medications on Admission:**
+- Vitamin D 800 UNIT PO DAILY
+
+**Discharge Medications:**
+1. Vitamin D 800 UNIT PO DAILY
+2. HYDROmorphone (Dilaudid) 2 mg PO Q3H PRN pain
+3. Docusate Sodium 100 mg PO BID PRN constipation
+
+**Discharge Disposition:**
+- Home with hospice services
+
+**Discharge Diagnosis:**
+1. Metastatic breast cancer
+2. Ascites, likely malignant
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Follow up with outpatient doctors for further cancer treatment. Consider long-term catheter placement for ascites drainage. Discharged with hydromorphone for pain management.
+
+**Followup Instructions:**
+- [Redacted]

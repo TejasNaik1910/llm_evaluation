@@ -1,0 +1,483 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue
+ 
+Major Surgical or Invasive Procedure:
+___: ERCP and EUS
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with IDDM, HTN, BPH,
+and clear cell RCC s/p radical L nephrectomy (___) metastatic 
+to
+the lungs, mediastinum, and hilum currently on chemotherapy
+(experimental trial; on sunitinib), with recent admission
+(___) for biliary stricture s/p ERCP with plastic stent
+placement (CBD brushing cytology non-diagnostic) and
+non-occlusive portal vein thrombus started on enoxaparin who
+presented to the ED with fever, jaundice, and confusion.
+
+The CBD brushing cytology from his prior admission was
+non-diagnostic. His imaging was reviewed at multidisciplinary
+pancreas conference and no mass lesion was visualized in the 
+head
+of the pancreas but there was some peripancreatic stranding
+around the head of the pancreas noted. There was some concern 
+for
+a potential primary pancreatobiliary tumor (rather than rare RCC
+metastasis to pancreas), so he was planned for a repeat ERCP and
+EUS in ___ weeks (planned for the week of ___ off sunatinib).
+
+He last followed up in ___ clinic with Dr. ___ on 
+___.
+He was complaining of a week of increased fatigue, nausea, and
+poor PO intake. His sunatinib was held due to concern for side
+effects. Over the past week since then, he has had worsening
+jaundice and fatigue. Last night, he developed chills,
+restlessness, mild confusion, and fevers to 101, which prompted
+his wife to bring him to ___. He was
+transferred from there to the ___ ED.
+
+Right now, he feels ok, just a little tired. He feels like his
+thinking is foggy. No fevers/chills since he presented to the
+hospital. No nausea, vomiting, abdominal pain. He has had loose
+stools, which he associates with the sunatinib. No bloody, 
+black,
+or ___ stools. His urine has been "tea colored." He has
+had poor appetite. No chest pain, shortness of breath, or
+palpitations. 
+
+ED COURSE:
+VS: Tmax 98.6, HR ___, BP 100s-110s/60s, RR 16, SpO2 98-100%
+on RA
+Labs: WBC 3.4, AST/ALT 71/97, AP 214, Tbili 7.6, lipase 148,
+lactate 1.4
+Exam: jaundiced, abdomen benign, guaiac negative brown stool
+Imaging: RUQ US: persistent left intrahepatic biliary dilation,
+persistent GB sludge
+Interventions: None
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+-___: presented with acute onset of gross hematuria
+accompanied with some mild flank pain. During his workup, he was
+found to have a 4.8 cm mass on a CAT scan dated ___,
+specifically the scan describes a left renal mass with internal
+enhancement measuring 4.1 x 4.8 cm in size in the mid and upper
+pole of the left kidney. Also described was the fat-containing
+left inguinal hernia and left perinephric stranding. There was 
+no
+adenopathy or other suspicious lesions. There is also an old
+sclerotic right ilial lesion and left sacral lesion. 
+-___: underwent a laparoscopic hand assisted radical right
+nephrectomy by Dr. ___ pathology showed a 
+renal
+cell carcinoma, clear cell type, ___ grade II/IV measuring 4
+cm extending but not invading through the renal capsule or
+Gerota's fascia margins were questionably positive at the renal
+vein and otherwise negative. On review of pathology here at ___, the margins are described as negative including the 
+renal
+vein margin. A background of global glomerulosclerosis is
+described. Overall, this was a T3bNxMx lesion. Postoperative
+imaging on ___ which was a CT torso showed no evidence of
+recurrent or metastatic disease.
+-___: CT chest showed interval increase in prominence of
+mediastinal lymph nodes and minimal interval increase in 
+multiple
+b/l pulmonary nodules, concerning for progression
+-___: Fine needle aspirate of 11R and 11L lymph nodes, which
+was consistent with metastatic RCC
+-___: CT Torso - mediastinal and hilar nodes and pulmonary
+lesions increased in size. No definite intra-abdominal sites of
+disease 
+-___: C1D1 ___, randomized to sunitinib
+-___: Multiple grade ___ adverse events including
+thrombocytopenia (grade 2; platelet 52,000), leukopenia (grade 
+2;
+WBC 2.9), elevated lipase (grade 1), elevated amylase (grade 1;
+elevated at baseline), elevated ALT (grade 1), and 
+hypothyroidism
+(grade 1). Mild symptoms with treatment. Continued sunitinib at
+50mg daily per protocol.
+-___: CT Torso: Response of mediastinal lymphadenopathy,
+bilateral hilar lymphadenopathy, and numerous parenchymal
+metastases. Stable disease by RECIST (decrease 19.1% from
+baseline).
+-___: Sunitinib reduced to 37.5 mg daily due to erythematous
+rash and blistering on palms and sole of right foot.
+-___: CT Torso: Decrease in pulmonary and mediastinal
+lesions. Stable disease by RECIST 1.1 (decrease 22.5% from
+baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+39.8% from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+46.3% from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease 
+40.3%
+from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+42.6% from baseline).
+-___: CT Torso: Partial response by RECIST 1.1 (decrease
+47.7% from baseline).
+-___: CT torso: Ongoing partial response comments: No
+significant change compared to prior scan. No new lesions. 
+-___: CT Torso: PR by RECIST 1.1 
+-___: CT Torso: PR by RECIST 1.1: -54.22% change from
+baseline and -10.29% change from last scan. 
+-___: CT Torso:  partial response: -57.79% from baseline,
+-7.79% from nadir
+-___: CT Torso shows continued partial response, no
+significant change compared to prior
+
+PAST MEDICAL HISTORY (per OMR):
+1. Clear cell kidney cancer as above.
+2. Benign prostatic hypertrophy.
+3. Diabetes mellitus.
+4. Hypertension.
+5. Hyperlipidemia.
+6. History of anxiety.
+
+ 
+Social History:
+___
+Family History:
+Colorectal cancer - mother
+___ cancer - sister (dx at age ___
+Liver cancer - brother
+___ cell leukemia - brother
+___ - father
+
+ 
+Physical ___:
+ADMISSION EXAM:
+VITALS: T 97.6, HR 68, BP 115/76, RR 16, SpO2 98% on RA
+___: Alert, NAD, breathing room air comfortably
+EYES: Icteric sclera, PERRL
+ENT: MMM, sublingual jaundice, OP clear
+CV: NR/RR, no m/r/g
+RESP: CTAB, no wheezes, crackles, or rhonchi
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: Jaundiced
+NEURO: Alert, oriented to hospital, city, date; able to recite
+the days of the week backwards, face symmetric, gaze conjugate
+with EOMI, speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+T 97.9, HR 70, BP 143/79, RR 18, SpO2 97% on RA
+___: Alert, NAD, breathing room air comfortably
+EYES: Icteric sclera
+ENT: MMM, OP clear
+CV: NR/RR, no m/r/g
+RESP: CTAB, no wheezes, crackles, or rhonchi
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: Jaundiced (but improved)
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 05:43AM BLOOD WBC-3.4* RBC-2.48* Hgb-8.4* Hct-24.9* 
+MCV-100* MCH-33.9* MCHC-33.7 RDW-16.8* RDWSD-61.6* Plt ___
+___ 05:43AM BLOOD Glucose-95 UreaN-24* Creat-1.5* Na-138 
+K-4.4 Cl-106 HCO3-18* AnGap-14
+___ 05:55AM BLOOD Albumin-2.5* Calcium-8.1* Phos-3.5 Mg-1.9 
+Iron-18*
+___ 05:43AM BLOOD Albumin-2.8*
+___ 05:55AM BLOOD calTIBC-160* Hapto-230* Ferritn-990* 
+TRF-123*
+___ 05:43AM BLOOD ALT-97* AST-71* AlkPhos-214* TotBili-7.6* 
+DirBili-5.6* IndBili-2.0
+
+MICRO:
+BCx ___: NGTD
+Blood culture (___):
+STREPTOCOCCUS ANGINOSUS (___) GROUP
+                             |   
+CEFTRIAXONE-----------   0.5 S
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.12 S
+PENICILLIN G----------<=0.06 S
+VANCOMYCIN------------   0.5 S
+
+PATHOLOGY/CYTOLOGY:
+Biliary mass biopsy (___): Minute fragment of highly 
+atypical cells with sclerotic stroma consistent with 
+adenocarcinoma
+Common bile duct stricture brushings (___):
+POSITIVE FOR MALIGNANT CELLS. - Adenocarcinoma.
+
+IMAGING:
+RUQ US (___):
+IMPRESSION: 
+1. Persistent mild left intrahepatic biliary dilation in 
+presence
+of a partially visualized CBD stent raises concern for stent
+malfunction.  Compared to the prior ultrasound, the degree of
+intrahepatic biliary dilation has not changed significantly. 
+2. Persistent gallbladder sludge. 
+
+ERCP ___:
+removal of the old stent and placement of a new stent over a 2cm 
+malignant-appearing stricture
+of the distal CBD. Cytology brushings were sampled.
+
+EUS ___:
+1.8 x 1.1 cm ill-defined hypoechoic area around the distal CBD. 
+FNB was performed x3
+
+CT torso ___:
+IMPRESSION: 
+Non obstructive pneumonia, left upper lobe.
+Minimal residual pulmonary edema and pleural effusions 
+attributable to heart failure.
+Atherosclerotic coronary calcification.
+Left PICC line ends just above the superior cavoatrial junction.
+IMPRESSION:
+1. No evidence of local recurrence or metastatic disease in the 
+abdomen and
+pelvis.
+2. Mild intrahepatic and extrahepatic biliary ductal dilatation, 
+with CBD
+stent in place.
+3. Known nonocclusive main portal vein thrombus appears 
+increased in size,
+though difficult to directly compare to MR due to differences in 
+imaging
+technique.
+
+ERCP ___: Biliary plastic stent removed with a snare. A 
+metal stent was placed over 2cm long malignant appearing 
+stricture in the distal CBD. 
+
+TTE ___:
+IMPRESSION: Adequate image quality. Mild symmetric left 
+ventricular hypertrophy with normal cavity size and 
+regional/global left ventricular systolic function. No 2D 
+echocardiographic evidence for endocarditis. If clinically 
+suggested, the absence of a discrete vegetation on 
+echocardiography does not exclude the diagnosis of endocarditis.
+
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT:   
+Mr. ___ is a ___ male with IDDM, HTN, BPH, and 
+metastatic clear cell RCC s/p radical L nephrectomy (___) on 
+chemotherapy (sunitinib), with recent admission (___) for 
+biliary stricture s/p ERCP with plastic stent placement (CBD 
+brushing cytology non-diagnostic) and non-occlusive portal vein 
+thrombus started on enoxaparin who presented to the ED with 
+fever, jaundice, and confusion, found to have persistent 
+intrahepatic biliary dilation and gallbladder sludge on ___ US 
+s/p ERCP x2 with placement of plastic, then metal biliary stent 
+and EUS with pathology from FNB of CBD mass consistent with new 
+pancreatobiliary adenocardinoma. 
+
+ACUTE/ACTIVE PROBLEMS:
+# Cholangitis
+# Strep spp. (likely Enterococcus) bacteremia
+# Adenocarcinoma pancreaticobiliary origin
+He presented with fever, jaundice, and mental status changes. 
+RUQ US also showed persistent left intrahepatic biliary dilation 
+and gallbladder sludge despite the presence of CBD stent, 
+suggesting that the stent was non-functioning/occluded or there 
+was some other source of obstruction. The CBD brushing cytology 
+from his prior ERCP was non-diagnostic. He had no apparent mass 
+in the head of the pancreas on imaging but there remained some 
+concern for a primary pancreatobiliary tumor so he was planned 
+to have a repeat ERCP and EUS the week he was admitted.
+Blood culture at ___ is growing Strep spp. He was treated with 
+Unasyn for cholangitis as well as Strep bacteremia. BCx here 
+grew Strep anginosus. He had an ERCP on ___ with removal of the 
+old stent and placement of a new stent over a 2cm 
+malignant-appearing stricture of the distal CBD. Cytology 
+brushings were sampled. EUS was completed on which they 
+visualized a 1.8 x 1.1 cm ill-defined hypoechoic area around the 
+distal CBD. FNB was performed x3. Pathology was consistent with 
+adenocarcinoma.  
+After the plastic stent placement, his LFTs did not improve and 
+bilirubin continued to rise. A repeat ERCP was done on ___ with 
+removal of the plastic stent and placement of a metal stent. 
+After this, his LFTs started to improve. His Unasyn was changed 
+to ceftriaxone and metronidazole for ease of dosing to complete 
+a 2 week course ___ - ___. A PICC was placed prior to 
+discharge. TTE did not show evidence of endocarditis.
+
+# ___ on CKD
+Cr peaked at 1.8 from baseline 1.2. Most likely this was 
+prerenal in the setting of cholangitis. It improved after ERCP, 
+antibiotics, and fluid resuscitation. 
+
+# PVT
+He was found to have a non-occlusive portal vein thrombus on 
+MRCP during his recent hospital admission and was started on 
+enoxaparin. HIs home enoxaparin was initially held for ERCP, 
+then resumed. 
+
+# Macrocytic anemia
+Macrocytic anemia is chronic. Baseline H/H appears to be ___, 
+so he is lower than baseline. He had no signs of bleeding.  
+Recent TSH, folate, B12, ferritin, and TIBC were wnl. Bilirubin 
+is predominantly direct, so less likely hemolysis. Other 
+hemolysis labs were not consistent with hemolysis. Acute on 
+chronic anemia is perhaps ___ bone marrow suppression from 
+sepsis. He was given 1 unit pRBCs for Hgb 7.6. 
+
+# Metastatic clear cell RCC on chemotherapy
+He is followed at ___ by Dr. ___. He was diagnosed in 
+___ in workup of gross hematuria and flank pain. He underwent a 
+laparoscopic radical right nephrectomy in ___. He was found 
+to have metastases to the lungs, mediastinal lymph nodes, and 
+hilar lymph nodes in ___. In ___ he was enrolled in an 
+experimental trial and started on sunatinib. His most recent CT 
+showed clinical response. He is currently in his regularly
+scheduled two weeks off on sunatinib. He had a surveillance CT 
+on ___ which showed  no evidence of local recurrence of 
+metastatic disease in the abdomen/pelvis. 
+
+# LUL pneumonia
+He was found to have LUL opacity on CT chest ordered for 
+surveillance. He was also complaining of cough. He was on Unasyn 
+while inpatient, then transitioned to ceftriaxone and 
+metronidazole for 2 weeks total, which should cover him for 
+pneumonia.
+
+# HTN
+Initially his home atenolol dose was halved due to concern for 
+cholangitis/impending sepsis. His home amlodipine 10 mg and 
+lisinopril 40 mg daily were also initially held. These were 
+resumed prior to or at discharge. 
+
+# Insulin-dependent DM type II
+At home he takes glargine 16 units qhs if his FSBG is <170 and 
+he takes 18 units qhs if his FBSG is >170. While inpatient, he 
+was given glaring 8 units qhs as he was not taking much PO as 
+well as lispro SSI. 
+
+CHRONIC/STABLE PROBLEMS:
+# Hypothyroidism - continued home levothyroxine
+
+# Depression and anxiety - continued home fluoxetine; held home
+cariprazine as it is non-formulary
+
+Mr. ___ is clinically stable for discharge. The total time 
+spent today on discharge planning, counseling and coordination 
+of care was greater than 30 minutes.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Enoxaparin Sodium 120 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+2. amLODIPine 10 mg PO DAILY 
+3. Ascorbic Acid ___ mg PO DAILY 
+4. Atenolol 100 mg PO DAILY 
+5. cariprazine 1.5 mg oral DAILY 
+6. FLUoxetine 20 mg PO DAILY 
+7. Gabapentin 100 mg PO BID 
+8. GlipiZIDE 2.5 mg PO BID 
+9. Glargine 16 Units Bedtime
+10. Levothyroxine Sodium 100 mcg PO DAILY 
+11. Lisinopril 40 mg PO DAILY 
+12. LORazepam 0.5 mg PO DAILY:PRN anxiety 
+13. Omeprazole 20 mg PO DAILY 
+14. Ondansetron 4 mg PO Q8H:PRN nausea 
+15. Prochlorperazine 5 mg PO Q8H:PRN nausea 
+16. Tamsulosin 0.4 mg PO QHS 
+17. Vitamin D 5000 UNIT PO DAILY 
+18. Multivitamins 1 TAB PO DAILY 
+19. Fenofibrate 48 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  CefTRIAXone 2 gm IV Q24H 
+RX *ceftriaxone in dextrose,iso-os 2 gram/50 mL 2 gm IV once a 
+day Disp #*9 Intravenous Bag Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*27 Tablet Refills:*0 
+3.  Glargine 16 Units Bedtime 
+4.  amLODIPine 10 mg PO DAILY  
+5.  Ascorbic Acid ___ mg PO DAILY  
+6.  Atenolol 100 mg PO DAILY  
+7.  cariprazine 1.5 mg oral DAILY  
+8.  Enoxaparin Sodium 120 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time  
+9.  Fenofibrate 48 mg PO DAILY  
+10.  FLUoxetine 20 mg PO DAILY  
+11.  Gabapentin 100 mg PO BID  
+12.  GlipiZIDE 2.5 mg PO BID  
+13.  Levothyroxine Sodium 100 mcg PO DAILY  
+14.  Lisinopril 40 mg PO DAILY  
+15.  LORazepam 0.5 mg PO DAILY:PRN anxiety  
+16.  Multivitamins 1 TAB PO DAILY  
+17.  Omeprazole 20 mg PO DAILY  
+18.  Ondansetron 4 mg PO Q8H:PRN nausea  
+19.  Prochlorperazine 5 mg PO Q8H:PRN nausea  
+20.  Tamsulosin 0.4 mg PO QHS  
+21.  Vitamin D 5000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Cholangitis 
+Bacteremia 
+Adenocarcinoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after you were found to have a 
+blockage of your bile ducts causing a serious infection called 
+cholangitis. You were also found to have bacteria in your blood 
+stream.  You underwent an ERCP with a plastic stent placed. 
+After the procedure your bilirubin continued to rise and you 
+underwent a second ERCP to place a metal stent. 
+
+For your serious infection you were started on IV antibiotics 
+and will need to continue this for two weeks. 
+
+This blockage in the bile duct was caused by a stricture. 
+Samples of the stricture were taken and found to be cancer 
+(adenocarcinoma). You were seen by the oncology team and have 
+follow up with them in a few days to talk about treatment 
+options. 
+
+It was a pleasure caring for you,
+Your ___ Team 
+ 
+Followup Instructions:
+___

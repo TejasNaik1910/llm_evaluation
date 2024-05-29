@@ -1,0 +1,83 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Chest pain
+
+**Major Surgical or Invasive Procedures:**
+- Cardiac catheterization
+- Flexible sigmoidoscopy
+
+**History of Present Illness:**
+- The patient, a [Redacted] year-old male with a history of coronary artery disease (CAD) and multiple stents, presented with chest pain post-laparoscopic cholecystectomy. He had experienced biliary colic and underwent an ERCP with sphincterotomy and stone removal. Post-surgery, he developed chest pain relieved by dilaudid, with ECG showing ST depressions and elevations. Bedside echo indicated left ventricular ejection fraction (LVEF) with posterior wall hypokinesis and mitral regurgitation. He was treated with heparin IV, beta-blocker, aspirin, and nitroglycerin, which stabilized his condition.
+
+**Past Medical History:**
+- Prostate cancer (T3b N0M0, Gleason 4+3, Stage III) treated with radiation and argon therapy
+- CAD with multiple percutaneous coronary interventions (PCIs)
+- Paroxysmal atrial fibrillation (PAF)
+- Hypertension (HTN)
+- Type 2 diabetes mellitus (DM2)
+- Parkinson's disease
+- Cholelithiasis
+- Migraine and cluster headaches
+- Gout
+- Chronic kidney disease (CKD)
+- History of hip replacement with multiple dislocations
+- Childhood hepatitis
+
+**Physical Exam:**
+- General: Well-developed, well-nourished male in pain, oriented x3
+- HEENT: No significant findings
+- Neck: Supple, no jugular venous pressure (JVP)
+- Cardiac: Normal S1, S2, no murmurs/rubs/gallops
+- Lungs: Clear to auscultation bilaterally
+- Abdomen: Soft, tender in LLQ, post-surgical steristrips present
+- Extremities: No cyanosis, clubbing, or edema
+- Pulses: Normal
+
+**Pertinent Results:**
+- Blood tests showed elevated cardiac enzymes (CK, CK-MB, Troponin T)
+- ECG: Sinus rhythm with atrial premature beats, non-specific ST-T wave changes
+- Echo: Mild to moderate left ventricular systolic dysfunction, mild mitral and aortic regurgitation
+- Cardiac Cath: One-vessel significant coronary artery disease with late stent thrombosis of LCX, successful thrombectomy, PTCA, and drug-eluting stenting
+
+**Brief Hospital Course:**
+- **Coronary Artery Disease:** Presented with STEMI, underwent successful thrombectomy and stenting of LCX. Continued on aspirin and Plavix, experienced occasional mild chest discomfort without significant EKG changes.
+- **Atrial Fibrillation:** Converted to normal sinus rhythm with amiodarone, discharged on amiodarone and metoprolol.
+- **Lower GI Bleeding:** Reactivated radiation proctitis, treated with Carafate enemas and successful argon plasma coagulation.
+- **Acute Renal Failure:** Likely pre-renal, improved with hydration and holding Lasix.
+- **Cholecystectomy:** Post-operative elevated white count resolved, tolerated low-fat diet.
+- **Hypertension:** Managed with home medications.
+- **Acute Systolic Congestive Heart Failure:** Managed with Lasix.
+- **Diabetes Mellitus:** Controlled with insulin sliding scale and glipizide.
+- **Other Conditions:** Continued home medications for Parkinson's, gout, and headaches.
+
+**Medications on Admission:**
+- Included atorvastatin, colchicine, cyclobenzaprine, furosemide, glipizide, isosorbide mononitrate, leuprolide, metoprolol, nitroglycerin, selegiline, valsartan, warfarin, docusate sodium, and sodium chloride spray.
+
+**Discharge Medications:**
+- Adjusted medications including increased atorvastatin, added Plavix and aspirin, decreased metoprolol, started amiodarone, and stopped coumadin.
+
+**Discharge Disposition:**
+- Extended care facility
+
+**Discharge Diagnosis:**
+- ST Elevation Myocardial Infarction
+- Acute Systolic Dysfunction
+- Atrial Fibrillation
+- Acute Blood Loss Anemia
+- Acute Renal Failure
+- Status Post Laparoscopic Cholecystectomy
+- Hypertension
+
+**Discharge Instructions:**
+- Emphasized the importance of continuing aspirin and Plavix for one year, monitoring weight, adhering to a low-sodium diet, and follow-up care.

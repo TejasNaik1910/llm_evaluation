@@ -1,0 +1,87 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Penicillins, Erythromycin Base, Streptomycin, Citric Acid, Atenolol
+
+**Chief Complaint:**
+- Melena (dark stools)
+
+**Major Surgical or Invasive Procedure:**
+- Esophagogastroduodenoscopy (EGD)
+
+**History of Present Illness:**
+- An elderly male with a significant past medical history including coronary artery disease (CAD) with bare metal stents, systolic dysfunction (EF 35%), chronic atrial fibrillation on warfarin, ventricular fibrillation arrest with pacemaker and ICD placement, and rectal cancer status post resection, presented with melena. He noticed darker stools in his ostomy bag ten days prior to presentation. He denied other gastrointestinal symptoms and was hemodynamically stable upon presentation.
+
+**Review of Systems:**
+- Reported mild dyspnea on exertion, weight loss over the last week, and denied other systemic symptoms.
+
+**Past Medical History:**
+- CAD with bare metal stents
+- Hypertension
+- Systolic dysfunction (EF 35%)
+- Dual chamber pacemaker
+- History of ventricular fibrillation with ICD placement
+- Chronic atrial fibrillation
+- Rectal cancer with neoadjuvant chemotherapy, resection, and adjuvant chemotherapy
+- Benign prostatic hyperplasia (BPH)
+- History of stroke with residual right-hand dysthesia
+- Cervical spondylosis
+- Sleep apnea on CPAP
+
+**Family History:**
+- Father died of myocardial infarction, mother died of pulmonary embolism, twin sister died of colitis. No family history of colon, breast, uterine, or ovarian cancer.
+
+**Physical Exam:**
+- On presentation: Vital signs stable, no acute distress, distant heart sounds, clear lungs, well-healed abdominal scars, no active bleeding from ostomy site.
+- On discharge: Vital signs stable, no significant changes from presentation.
+
+**Pertinent Results:**
+- **Laboratory Results:**
+  - On presentation: Anemia (Hgb 8.4, Hct 26.1), mild renal impairment (Creat 1.4), elevated glucose (161)
+  - On discharge: Persistent anemia (Hgb 8.1, Hct 25.2), improved renal function (Creat 1.0)
+- **EGD Findings:**
+  - Erythema and erosion in the stomach body (erosive gastritis)
+  - Erythema in the duodenum (mild duodenitis)
+  - Polyp in the fundus
+
+**Brief Hospital Course:**
+1. **Anemia/GI Bleed:**
+   - Presented with anemia and melena, hemodynamically stable. Managed with IV fluids, BID PPI therapy, and holding anticoagulants. Hematocrit stabilized without transfusion. EGD revealed gastritis and duodenitis without active bleeding. Discharged on BID PPI and reduced anticoagulant regimen.
+2. **CAD:**
+   - History of CAD with bare metal stents. Anticoagulants held initially, restarted on warfarin and aspirin at discharge. Clopidogrel discontinued with cardiologist's approval.
+3. **Systolic Heart Failure:**
+   - EF 35%, no signs of acute volume overload. Medications held initially, restarted before discharge.
+4. **Hypertension:**
+   - Managed with antihypertensives, held initially, restarted before discharge.
+5. **Chronic Atrial Fibrillation:**
+   - Managed with metoprolol and warfarin. Warfarin held initially, restarted after EGD. INR remained therapeutic.
+
+**Medications on Admission:**
+- Clopidogrel, Aspirin, Warfarin, Furosemide, Lisinopril, Metoprolol, Amitriptyline
+
+**Discharge Medications:**
+- Lisinopril, Metoprolol, Furosemide, Pantoprazole, Amitriptyline, Aspirin, Warfarin
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- **Primary:** Acute blood loss anemia, Gastritis with bleeding
+- **Secondary:** Coronary Artery Disease, Chronic Systolic Heart Failure, Hypertension
+
+**Discharge Condition:**
+- Good, tolerating oral intake, stable hematocrit
+
+**Discharge Instructions:**
+- Continue medications as prescribed, avoid alcohol, follow up in GI clinic, monitor INR, and contact doctor for any concerning symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]

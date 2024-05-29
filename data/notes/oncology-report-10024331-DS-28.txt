@@ -1,0 +1,352 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Persantine / Allopurinol / Cipro I.V.
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac cath- ___
+Flex Sigmoidoscopy- ___
+ 
+History of Present Illness:
+The patient is a ___ year old man with pmh significant for CAD 
+s/p multiple stents to LAD, RCA, and LCX presenting with chest 
+pain while recovering in the PACU from Laparascopic 
+cholecystectomy.  The patient had been experiencing symptoms of 
+biliary colic for a week.  He had an ERCP on ___ during which he 
+underwent sphincterotomy with removal of multiple stones.  The 
+patient then returned on ___ with similar abdominal pain and 
+underwent laparascopic cholecystectomy today.  While in the PACU 
+he developed chest pain which was relieved by dilaudid.  ECG at 
+this time showed ST depressions in V1-V4, and ST elevations in 
+I, II, and III.  Bedside echo showed LVEF of ___ with 
+posterior wall hypokinesis and mitral regurgitation.  The 
+patient was started on heparin IV, beta blocker, and aspirin.  
+He was also hypertensive during this episode with blood 
+pressures 160/100.  He was started on nitro and had foley 
+placed, after which his blood pressure dropped to 130/80's, his 
+pain resolved and his ekg changes resolved as well.
+
+On admission to the CCU the patient is in noticable discomfort.  
+he was reporting epigastric burning pain with nausea.  He 
+reported the pain was unlike his anginal episodes.  His anginal 
+episodes usually present as substernal pressure.  The patient 
+was on 5mcg of nitro gtt at the time without resolution of pain. 
+ an ekg taken at this time did not show ischemic ekg changes. 
+
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.   
+
+ 
+Past Medical History:
+h/o transaminitis
+Prostate CA T3b N0M0 ___ 4+3 stage III s/p radiation and 
+argon tx
+CAD s/p mulitple PCIs with stents
+PAF 
+HTN
+DM 2 on oral agent
+Parkinsons with UE tremor, R>L
+Cholelithiasis
+Migraine and Cluster HA
+Gout with chronic B knee pain 
+CKD baseline Cr ___
+S/p hip replacement with multiple dislocations
+H/o childhood hepatitis
+
+ 
+Social History:
+___
+Family History:
+Father had MI at age ___, DM, HTN. Brother with CAD s/p CABG at a 
+young age.
+Mother with cancer, unknown type.
+
+ 
+Physical Exam:
+GENERAL: WDWN male in pain. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with no JVP. 
+CARDIAC:  normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS:  CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, LLQ tenderness. obese. Steristrips covering 
+umbilicus and three other areas over RUQ and epigastric area. 
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Popliteal 2+ DP 2+ ___ 2+  
+Left:  Popliteal 2+ DP 2+ ___ 2+  
+
+ 
+Pertinent Results:
+___ 02:10AM BLOOD WBC-5.3 RBC-3.23* Hgb-10.1* Hct-30.0* 
+MCV-93 MCH-31.2 MCHC-33.6 RDW-13.0 Plt ___
+___ 02:10AM BLOOD Neuts-66.0 ___ Monos-8.9 Eos-3.1 
+Baso-1.0
+___ 02:10AM BLOOD Plt ___
+___ 02:21AM BLOOD ___ PTT-26.5 ___
+___ 04:49PM BLOOD ___
+___ 02:10AM BLOOD Glucose-202* UreaN-31* Creat-1.8* Na-139 
+K-4.0 ___ 02:10AM BLOOD ALT-31 AST-22 AlkPhos-94 
+TotBili-0.3
+___ 01:21PM BLOOD CK(CPK)-2140*
+___ 02:10AM BLOOD Lipase-43
+___ 04:14AM BLOOD CK-MB-143* MB Indx-7.7* cTropnT-3.88*
+___ 05:10AM BLOOD WBC-7.5 RBC-3.34* Hgb-9.6* Hct-29.9* 
+MCV-90 MCH-28.8 MCHC-32.1 RDW-14.0 Plt ___
+___ 05:10AM BLOOD Plt ___
+___ 05:10AM BLOOD Glucose-141* UreaN-18 Creat-1.2 Na-138 
+K-4.2 Cl-106 HCO3-23 AnGap-13
+___ 05:10AM BLOOD WBC-7.5 RBC-3.34* Hgb-9.6* Hct-29.9* 
+MCV-90 MCH-28.8 MCHC-32.1 RDW-14.0 Plt ___
+___ 05:10AM BLOOD Plt ___
+___ 05:10AM BLOOD Glucose-141* UreaN-18 Creat-1.2 Na-138 
+K-4.2 Cl-106 HCO3-23 AnGap-13
+
+EKG ___- Sinus rhythm with atrial premature beats. Non-specific 
+ST-T wave changes. 
+Consider myocardial ischemia. Compared to the previous tracing 
+of ___ 
+ST-T wave changes and atrial premature beats are new. 
+
+ECHO ___- The left ventricular cavity size is top 
+normal/borderline dilated. There is mild to moderate regional 
+left ventricular systolic dysfunction with inferior and lateral 
+hypokinesis. Right ventricular chamber size appears normal with 
+preserved free wall motion in focused views. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. Very mild (1+) aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. There is a trivial/physiologic pericardial effusion.
+
+Cardiac Cath ___. One-vessel significant coronary artery 
+disease with very late stent thrombosis of LCX 
+2. Successful thrombectomy, PTCA, and drug-eluting stenting of 
+the LCX. 
+
+ECHO ___- The left atrium is mildly dilated. Left ventricular 
+wall thicknesses and cavity size are normal. There is moderate 
+regional left ventricular systolic dysfunction with severe 
+hypokinesis of the inferior and inferolateral walls and distal 
+lateral wall. The remaining segments contract well (LVEF 
+35-40%). Right ventricular chamber size and free wall motion are 
+normal. The ascending aorta is mildly dilated. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. Mild [1+] aortic regurgitation is seen. The mitral 
+valve leaflets are structurally normal. Mild (1+) mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is high normal. There is an anterior space which most 
+likely represents a fat pad. 
+
+ 
+Brief Hospital Course:
+The patient is a ___ year old man with diabetes, coronary artery 
+disease, presenting with a STEMI in the setting of hypertension 
+while recovering from laparoscopic cholecystectomy, s/p 
+thrombectomy with DES to LCX at cath lab with hospital course 
+complicated by lower GI bleeding.
+.
+# CORONARIES: Patient has a history of significant cortonary 
+artery disease s/p multiple percutaneous coronary interventions. 
+ His chest pain was accompanied by EKG changes and a newly 
+depressed ejection fraction to 35-40%, along with posterior wall 
+hypokinesis.  He continued to have chest pain with CE elevation 
+and was taken to the cath lab on ___.  The cath showed 
+two-vessel disease.  The LCx had moderate in-stent restensosis 
+and thrombus extending from the proximal portion to the middle 
+of the vessel.  The RCA had diffuse mild disease and minimal 
+in-stent restenosis and a moderate discrete lesion in the mid 
+PDA. He had a successful thrombectomy, PTCA, and stenting of the 
+proximal and mid LCx with a 2.5 x 28mm Xience drug eluting stent 
+which was postdilated to 3.0mm. Final angiography revealed no 
+angiographically apparent dissection, no residual stenosis, and 
+TIMI 3 flow. His CEs showed a peak CK=2140 with Trop 3.88 and MB 
+143 on ___.  Patient was continued on aspirin and plavix upon 
+return to the unit.  Experienced occasional chest discomfort 
+while in-house but each episode was mild and lasted no more than 
+10 seconds.  No EKG changes.  Upon discharge, patient was 
+comfortable.  Denied any chest pain, shortness of breath, 
+palpitations, edema.  He will need to be continued on aspirin 
+325mg indefinitely as well as Plavix 75mg daily for at least one 
+year. He is also on metoprolol succinate 25 mg daily and high 
+dose Atorvastatin. 
+.
+# Atrial fibrillation: The patient has a history of paroxysmal 
+atrial fibrillation.  He converted to normal sinus rhythm after 
+amiodarone was started and he was amiodarone loaded with 400mg 
+BID for 1 week.  He will be discharged on amiodarone 400mg daily 
+for 1 week and then amiodarone 200mg daily indefinitely.  
+Coumadin was held in the setting of his lower GI bleed and he 
+will continue on metoprolol succinate 25 mg daily
+.
+# BRBPR: The patient has known radiation proctitis s/p XRT for 
+prostate cancer.  He had a colonoscopy with argon plasma 
+coagulation in early ___ for a GI bleed then.  His GI bleed was 
+reactivated once anticoagulation was restarted before his 
+cardiac cath.  His hematocrit dropped significantly and he 
+required 5 units of pRBCs during his hospital course to maintain 
+his hematocrit.  GI was consulted and at first recommended 
+Carafate enemas to help coat his known radiation proctitis 
+ulcers.  These enemas seemed to induce bowel movements which 
+further irritated his GI bleed.  They were discontinued and the 
+patient was scheduled for a repeat flex sig with argon plasma 
+coagulation in an attempt to stop the bleeding source.  This 
+took place ___ and was successful, although GI reports that he 
+will likely rebleed and need a repeat procedure as an 
+outpatient. 
+.
+# Acute renal failure: His baseline creatinine was around 1.2, 
+but was 1.8 on admission.  It was likely of pre-renal etiology 
+and his creatinine improved with increased PO intake and holding 
+his Lasix. Low dose Lasix was restarted on discharge as his 
+creatinine had normalized.  
+.
+# Cholecystectomy: He initially had an elevated white count s/p 
+procedure which resolved. Surgery followed him throughout his 
+admission. He was able to tolerate a low fat diet prior to 
+discharge. He is scheduled to see his surgeon after discharge. 
+.  
+# Hypertension: He did have some hypotension early on in his 
+admission.  His home metoprolol and valsartan were continued on 
+discharge. 
+.  
+# Acute Systolic Congestive heart failure: His clinical exam was 
+monitored closely to evaluate his fluid status and his home dose 
+lasix of Lasix was restarted at discharge.   
+.  
+# Diabetes mellitis: Blood sugars were well controlled on an 
+insulin sliding scale in addition to glipizide.
+.  
+# ___ disease: His home selegiline was continued.
+.  
+# Gout: His home colchicine was continued on discharge after 
+being held in the setting of his acute coronary syndrome.
+.  
+# Migraine and cluster headaches: Pain was treated with Percocet 
+PRN and his home cyclobenzaprine with good effect.
+.
+CODE: The patient's code status was confirmed as full code.  
+.
+COMM: ___ wife, ___ home, ___
+
+ 
+Medications on Admission:
+Atorvastatin [Lipitor] 40 mg Tablet one Tablet(s) by mouth daily 
+  
+Colchicine 0.6 mg Tablet 1 Tablet(s) by mouth once a day   
+Cyclobenzaprine 10 mg Tablet 1 Tablet(s) by mouth three times a 
+day as needed for back pain   
+Furosemide 20 mg Tablet 1 Tablet(s) by mouth daily   
+Glipizide 5 mg Tablet 0.5 (One half) Tablet(s) by mouth once a 
+day   
+Isosorbide Mononitrate 10 mg Tablet 1.5 Tablet(s) by mouth twice 
+a day 15 mg twice a day 
+Leuprolide [Lupron Depot] Dosage uncertain Metoprolol Succinate 
+100 mg Tablet Sustained Release 24 hr 
+___ Tablet(s) by mouth once a day   
+Nitroglycerin 0.4 mg Tablet, Sublingual 1 (One) Tablet(s) 
+sublingually as needed   
+Selegiline HCl 5 mg Capsule 1 Capsule(s) by mouth DAILY (Daily)  
+
+Valsartan 80 mg Tablet 1 Tablet(s) by mouth DAILY (Daily)   
+Warfarin 5 mg Tablet 1 Tablet(s) by mouth as directed   
+Docusate Sodium 100 mg Capsule 1 Capsule(s) by mouth twice a day 
+hold for diarrhea   
+Sodium Chloride 0.65 % Aerosol, Spray ___ Aerosol(s) 
+intranasally four times a day as needed for nasal dryness 
+ 
+Discharge Medications:
+1. Selegiline HCl 5 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+2. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) as needed for pain.  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+4. Glipizide 2.5 mg Tablet Extended Rel 24 hr (b) Sig: One (1) 
+Tablet Extended Rel 24 hr (b) PO DAILY (Daily).  
+5. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed for pain.  
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily): Do not discontinue unless Dr. ___ you to.  
+8. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+9. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO QID (4 times a day) as needed for flatus.  
+11. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+12. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.  
+13. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day: 
+Take for one week until ___, then decrease to 200 mg daily.  
+14. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed for constipation.  
+15. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+ST Elevation Myocardial Infarction
+Acute Systolic Dysfunction
+Atrial fibrillation
+Acute Blood Loss Anemia
+Acute Renal Failure
+Status Post Laproscopic Cholecystectomy
+Hypertension
+
+ 
+Discharge Condition:
+Hct= 29.4
+
+ 
+Discharge Instructions:
+You had a heart attack during your gall bladder removal. A 
+cardiac catheterization was done and found a blockage in your 
+left circumflex artery. A drug eluting stent was placed in this 
+artery to keep it open. You will need to take aspirin and plavix 
+for one full year. Do not stop taking Plavix unless Dr. ___ 
+___ you to. You had some bleeding from your urinary tract that 
+was because of the blood thinners your received. You also had 
+some bleeding from the area in your rectum that was the 
+proctitis you had before. 
+.
+Medication changes:
+1. Increase Atorvastatin for your coronary artery disease to 80 
+mg
+2. Plavix: to take every day for one year to keep the stent open
+3. Take aspirin every day for one year to keep the stent open
+4. Stop taking Imdur
+5. Decrease your Metoprolol Succinate to 25 mg daily
+6. Start Amiodarone to keep you in a normal rhythm. 
+7. Stop taking coumadin
+.
+Weigh yourself every morning, call MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+ 
+Followup Instructions:
+___
