@@ -1,0 +1,18 @@
+﻿(1c) Symptoms/Diagnosis/Surgical Procedures
+Inconsistencies found in the patient's current visit details. It could be symptoms, diagnosis, or procedures.
+Positive Examples:
+
+
+Omission Example Explanation 1: Hallucination detected. The summary states that the patient was diagnosed with pneumonia and bacteremia. However, the source document specifies "Staph Bacteremia" as the discharge diagnosis, not just general bacteremia. This omission of the specific type of bacteremia, "Staph," is significant because it provides crucial information about the type of bacterial infection, which is important for understanding the patient's condition and for determining the appropriate treatment. The summary's omission fails to capture this critical detail, leading to an incomplete and less precise account of the patient's diagnosis.
+
+
+Incorrect Example Explanation 1: Hallucination detected.  The summary states that the patient denied "leg swelling," whereas the source document mentions that the patient denied "edema." While "leg swelling" and "edema" can be clinically synonymous, the terminology used in medical documentation is crucial for accuracy. The source document's use of "edema" is more specific and clinically precise. The summary's use of "leg swelling" introduces a minor but significant inconsistency in medical terminology. This requires clinical knowledge to understand that they refer to the same symptom, but for clarity and precision in medical records, the exact term used in the source should be maintained.
+
+
+Negative Examples:
+
+
+Explanation 1: Hallucination not detected. The summary accurately reflects the patient's symptoms and the major surgical procedure as detailed in the source document. The patient presented with severe back pain radiating down her right leg and underwent lumbar decompression with fusion surgery, which is consistent with the information provided in the EHR. There is no discrepancy or omission in the summary regarding the patient's symptoms or surgical procedure, indicating that the summary is accurate and complete in this regard.
+
+
+Explanation 2: Hallucination not detected. The summary correctly identifies the patient's symptoms and diagnosis of pancreatitis, as well as the imaging findings that indicate a large infiltrative pancreatic head tumor with metastases. The patient's presentation with progressive epigastric abdominal pain, nausea, and vomiting, along with the elevated lipase levels and imaging results, are accurately documented in the summary. The diagnosis of acute pancreatitis and pancreatic cancer is correctly reflected from the EHR, ensuring there is no hallucination. The summary provides a precise and accurate account of the patient's condition as documented in the source.

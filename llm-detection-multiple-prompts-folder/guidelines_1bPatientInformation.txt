@@ -1,0 +1,23 @@
+﻿(1b) Patient History
+This section tells us about the history of illness of the patient. It is prone to hallucination when the summary incorrectly states the illness or altogether brings newly introduced health conditions. 
+
+
+Positive Examples:
+
+
+Omission Example Explanation 1: Hallucination detected. The summary's oversimplification from "coil embolization" to simply "embolization" neglects crucial specifics of the procedure performed. The term "coil embolization" indicates a specific technique used to block blood flow to the tumor by inserting coils into the blood vessels, which is a more precise intervention than the general term "embolization." Including these relevant details provides important information about the method used, aiding in an accurate understanding of the intervention's intricacies and ensuring that the patient's medical history is thoroughly documented.
+
+
+Omission Example Explanation 2: Hallucination detected. The summary's use of the term "heart disease" fails to capture the complexity of the patient's cardiac history as detailed in the EHR. The EHR specifies a history of coronary artery disease (CAD), dilated cardiomyopathy, ventricular tachycardia, and a cardiac arrest with subsequent dual chamber ICD placement. These details are critical for understanding the patient's overall health condition and managing future treatments. The oversimplification to "heart disease" obscures these critical clinical details, which could lead to incomplete or inaccurate medical records and potentially impact patient care.
+
+
+Incorrect Example Explanation 1:  Hallucination detected. The summary incorrectly states that the patient has "GI cancer," while the EHR specifies "rectal cancer." Clinical knowledge is needed to understand that rectal cancer is a subset of gastrointestinal (GI) cancer. However, the EHR explicitly mentions rectal cancer, not general GI cancer. This specificity is important for accurate medical documentation and treatment. The incorrect generalization from rectal cancer to GI cancer represents a misstatement of the patient's condition. Therefore, the summary inaccurately reflects the patient's medical history, leading to an incorrect reasoning hallucination. The summary should maintain the specific condition stated in the EHR to avoid misinterpretation and ensure precise medical records.
+
+
+Negative Examples:
+
+
+Explanation 1: Hallucination not detected. All the health conditions stated in the summary, including coronary artery disease (CAD), systolic dysfunction, chronic atrial fibrillation, and rectal cancer, are present in the EHR's History of Present Illness and Past Medical History sections. The summary accurately reflects the patient's significant medical history without omitting or incorrectly stating any conditions. This alignment between the summary and the EHR ensures that there is no hallucination present, maintaining consistency and accuracy in the patient's medical documentation.
+
+
+Explanation 2: Hallucination not detected. The summary lists the patient's health conditions, including coronary artery disease (CAD), hypertension (HTN), hyperlipidemia (HLD), type 2 diabetes mellitus (T2DM), chronic kidney disease stage IV (CKD stage IV), and peripheral vascular disease (PVD), all of which are mentioned in the EHR's History of Present Illness section. Additionally, the summary correctly states the patient's presenting symptoms and diagnosis of bilateral deep vein thrombosis (DVT) and an upper gastrointestinal (GI) bleed. The summary accurately reflects the patient's medical history as documented in the EHR, indicating no hallucination and ensuring comprehensive and precise medical records.
