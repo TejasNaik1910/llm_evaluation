@@ -1,0 +1,30 @@
+```json
+{
+  "Incorrect Patient Information": [],
+  "Omitted Patient Information": [],
+  "Incorrect Patient History": [],
+  "Omitted Patient History": [],
+  "Incorrect Symptoms/Diagnosis/Surgical Procedures": [],
+  "Omitted Symptoms/Diagnosis/Surgical Procedures": [
+    {
+      "text": "History of Present Illness",
+      "omittedDetails": "thought to be complicated of recent TAH/BSO, radical cystectomy and pelvic lymph node biopsy"
+    }
+  ],
+  "Incorrect Medicine related instructions": [],
+  "Omitted Medicine related instructions": [],
+  "Incorrect Followup": [
+    {
+      "text": "Follow up with urology is mentioned only once in the discharge instructions; however, the patient will need multiple follow-ups and imaging, including urology, per the transitional issues section in the EHR Note."
+    }
+  ],
+  "Omitted Followup": [
+    {
+      "text": "Follow-up with urology",
+      "omittedDetails": "Will need outpatient follow-up with urology"
+    }
+  ],
+  "Incorrect Reasoning": [],
+  "Chronological Inconsistency": []
+}
+```

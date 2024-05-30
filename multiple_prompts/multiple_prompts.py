@@ -1,5 +1,6 @@
 import os
 import json
+import re
 from openai import AzureOpenAI
 
 # Initialize Azure OpenAI client
@@ -16,6 +17,22 @@ def use_azureai(text):
     )
     return response.choices[0].message.content
 
+def extract_json(response):
+    stack = []
+    json_str = ""
+    in_json = False
+    for char in response:
+        if char == '{':
+            stack.append(char)
+            in_json = True
+        if in_json:
+            json_str += char
+        if char == '}':
+            stack.pop()
+            if not stack:
+                break
+    return json_str if json_str else None
+
 # List of note IDs
 # note_ids = ["10001401-DS-20", "10054464-DS-17", 
 #     "10002221-DS-12", "10003299-DS-10", "10056223-DS-14", "10004401-DS-26", 
@@ -28,8 +45,8 @@ note_ids = ["10001401-DS-20"]
 # Process each note_id
 for note_id in note_ids:
     # Load the EHR note and summary content based on note_id
-    ehr_note_file = f'../data/notes/oncology-report-{note_id}.txt'
-    summary_file = f'../data/summaries/gpt4o-doc-{note_id}.txt'
+    ehr_note_file = f'data/notes/oncology-report-{note_id}.txt'
+    summary_file = f'data/summaries/gpt4o-doc-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()
@@ -37,15 +54,15 @@ for note_id in note_ids:
     with open(summary_file, 'r') as file:
         summary_content = file.read()
     
-    # Initialize the response dictionary
-    response_dict = {}
+    # Initialize the list to store responses
+    all_responses = []
 
     # Process each guideline category
     for i in range(8):
-        with open(f"""guidelines/guidelines_{i}.txt""", 'r') as file:
+        with open(f"""multiple_prompts/guidelines/guidelines_{i}.txt""", 'r') as file:
             guideline_content = file.read()
 
-        with open(f"""op_files/op_{i}.json""", 'r') as file:
+        with open(f"""multiple_prompts/op_files/op_{i}.json""", 'r') as file:
             output_format_content = file.read()
 
         prompt = f"""
@@ -72,7 +89,21 @@ for note_id in note_ids:
         """
 
         response = use_azureai(prompt)
-        output_file = f'llm-annotated-gpt4o-{note_id}_op_{i}.json'
-        with open(output_file, 'w') as file:
-            file.write(response)
-            print("Done")
+
+        # Extract JSON from the response
+        json_content = extract_json(response)
+
+        if json_content:
+            try:
+                response_dict = json.loads(json_content)
+                all_responses.append(response_dict)
+                print(f"Guideline {i} Done")
+            except json.JSONDecodeError:
+                print(f"Error decoding JSON for guideline {i}: {json_content}")
+        else:
+            print(f"No JSON found for guideline {i}: {response}")
+    
+    # Save all responses to a single JSON file after processing all guidelines
+    output_file = f'multiple_prompts/llm-annotated-gpt4o-{note_id}_all.json'
+    with open(output_file, 'w') as file:
+        json.dump(all_responses, file, indent=4)
