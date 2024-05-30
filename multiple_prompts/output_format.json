@@ -1,0 +1,68 @@
+{
+    "Incorrect Patient Information": [
+      {
+        "text": ""
+      }
+    ],
+    "Omitted Patient Information": [
+        {
+          "text": "",
+          "omittedDetails": ""
+        }
+      ],
+    "Incorrect Patient History": [
+        {
+          "text": ""
+        }
+      ],
+    "Omitted Patient History": [
+      {
+        "text": "",
+        "omittedDetails": ""
+      }
+    ],
+    "Incorrect Symptoms/Diagnosis/Surgical Procedures": [
+        {
+          "text": ""
+        }
+      ],
+    "Omitted Symptoms/Diagnosis/Surgical Procedures": [
+      {
+        "text": "",
+        "omittedDetails": ""
+      }
+    ],
+    "Incorrect Medicine related instructions": [
+        {
+          "text": ""
+        }
+      ],
+    "Omitted Medicine related instructions": [
+      {
+        "text": "",
+        "omittedDetails": ""
+      }
+    ],
+    "Incorrect Followup": [
+        {
+          "text": ""
+        }
+      ],
+    "Omitted Followup": [
+      {
+        "text": "",
+        "omittedDetails": ""
+      }
+    ],
+    
+    "Incorrect Reasoning": [
+      {
+        "text": ""
+      }
+    ],
+    "Chronological Inconsistency": [
+      {
+        "text": ""
+      }
+    ] 
+  }

@@ -1,0 +1,13 @@
+{
+    "Incorrect Patient Information": [
+      {
+        "text": ""
+      }
+    ],
+    "Omitted Patient Information": [
+        {
+          "text": "",
+          "omittedDetails": ""
+        }
+      ]
+}

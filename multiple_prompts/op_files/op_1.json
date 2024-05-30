@@ -1,0 +1,13 @@
+{
+  "Incorrect Patient History": [
+    {
+      "text": ""
+    }
+  ],
+"Omitted Patient History": [
+  {
+    "text": "",
+    "omittedDetails": ""
+  }
+]
+}

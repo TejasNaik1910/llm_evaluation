@@ -1,0 +1,13 @@
+{
+  "Incorrect Symptoms/Diagnosis/Surgical Procedures": [
+    {
+      "text": ""
+    }
+  ],
+"Omitted Symptoms/Diagnosis/Surgical Procedures": [
+  {
+    "text": "",
+    "omittedDetails": ""
+  }
+]
+}

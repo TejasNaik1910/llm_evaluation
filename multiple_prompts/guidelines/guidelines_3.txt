@@ -1,0 +1,20 @@
+﻿(1d) Medicine Related Instructions
+
+
+This section focuses on identifying and addressing any disparities or discrepancies noted between the medication instructions documented in the summary and those found in the EHR note.
+
+
+Positive Examples:
+Omission Example Explanation 1: Hallucination detected. The source document clearly mentions specific medications to avoid, including Aspirin, Ibuprofen, Plavix, and Coumadin. However, the summary generalizes this instruction to "avoid blood thinners" without listing the specific medications. This omission of detailed medication names and their generalization to a broad category (blood thinners) can lead to ambiguity and potential misunderstanding regarding which exact medications the patient needs to avoid. Precise medication instructions are crucial for patient safety and effective care. By omitting the specific names, the summary fails to provide the detailed guidance present in the source document, resulting in a medicational instructions hallucination by omission.
+
+
+Incorrect Example Explanation 1: Hallucination detected. The summary states that the patient was discharged with medications for thyroid cancer, high blood pressure, and breast cancer, as well as for pain management. However, the EHR does not explicitly mention specific discharge medications for thyroid or breast cancer. The medications listed in the EHR include Amlodipine, Anastrozole, and Latanoprost, with dosages for some being uncertain and no direct mention of discharge medications for thyroid cancer. This inference in the summary introduces a potential misunderstanding about the medications the patient is expected to take post-discharge. It is critical for the summary to accurately and clearly reflect the discharge medications as documented in the EHR to avoid confusion and ensure the patient follows the correct medication regimen.
+
+
+Negative Examples:
+
+
+Explanation 1: Hallucination not detected. The summary correctly reflects the medication instructions provided in the EHR. The EHR lists Hydrocodone-Acetaminophen for breakthrough pain and Docusate Sodium for constipation as the discharge medications. The summary mentions these medications and clearly states their purpose, aligning with the EHR. By accurately detailing the prescribed medicines and their intended use, the summary ensures that there is no misunderstanding or omission in the medication-related instructions. Therefore, there is no hallucination in this instance, as the summary provides a faithful and precise representation of the EHR’s medication instructions.
+
+
+Explanation 2: Hallucination not detected. The summary accurately conveys the medication instructions as specified in the EHR. The EHR details the patient's admission with difficulty breathing and low blood pressure, leading to a diagnosis of pneumonia and an MRSA infection. The patient was treated with antibiotics, and the EHR instructs that antibiotics should be continued for a total of 2 weeks. The summary repeats this instruction, specifying that the antibiotics should be continued for 2 weeks, matching the EHR’s details. The summary ensures that the duration for the antibiotics is explicitly stated, providing clear and precise medication-related instructions. Consequently, there is no hallucination here, as the summary maintains consistency with the EHR regarding the prescribed medications and their duration.
