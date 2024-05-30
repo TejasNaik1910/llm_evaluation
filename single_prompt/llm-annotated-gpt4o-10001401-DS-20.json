@@ -1,22 +1,22 @@
 {
     "Incorrect Patient Information": [],
-    "Omitted Patient Information": [],
-    "Incorrect Patient History": [],
-    "Omitted Patient History": [
+    "Omitted Patient Information": [
         {
-            "text": "History of LLE DVT and PE on lovenox",
-            "omittedDetails": "s/p lap chole, s/p left knee replacement, s/p laminectomy of L5-S1 at age ___"
+            "text": "___ year old women with a history of bladder cancer s/p cystectomy, hysterectomy, and BSO now with ileal conduit",
+            "omittedDetails": "Patient age is not mentioned in the Summary."
         }
     ],
+    "Incorrect Patient History": [
+        {
+            "text": "Bladder cancer (high-grade TCC, T1, then T4 staging)"
+        }
+    ],
+    "Omitted Patient History": [],
     "Incorrect Symptoms/Diagnosis/Surgical Procedures": [],
     "Omitted Symptoms/Diagnosis/Surgical Procedures": [
         {
-            "text": "The patient presented with 2 days of malaise and 1 day of fevers.",
-            "omittedDetails": "subjective fevers, lethargy, and bloody drain output"
-        },
-        {
-            "text": "CT and CTA showed changes in pelvic fluid collections and severe bilateral hydronephrosis.",
-            "omittedDetails": "No new fluid collection identified"
+            "text": "Subjective fevers, lethargy, and bloody drain output",
+            "omittedDetails": "The summary does not mention the Tmax 101.5 at home."
         }
     ],
     "Incorrect Medicine related instructions": [],
@@ -24,8 +24,12 @@
     "Incorrect Followup": [],
     "Omitted Followup": [
         {
-            "text": "Follow-up Instructions: Weekly lab draws and follow-up appointments as specified.",
-            "omittedDetails": "Weekly lab draws of the following: CBC with differential, BUN, Cr, AST, ALT, TB, ALK PHOS. All lab requests should be annotated with: **ATTN: ___ CLINIC - FAX: ___"
+            "text": "- Repeat CT scan before ID appointment.",
+            "omittedDetails": "The summary does not explicitly mention that the CT scan should be done in the week of ___."
+        },
+        {
+            "text": "- Weekly lab draws and follow-up appointments as specified.",
+            "omittedDetails": "The summary does not explicitly mention the lab draws should include CBC with differential, BUN, Cr, AST, ALT, TB, ALK PHOS."
         }
     ],
     "Incorrect Reasoning": [],
