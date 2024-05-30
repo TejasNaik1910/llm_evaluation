@@ -1,3 +1,0 @@
-﻿(3) Incorrect Other Inconsistency:
-Any other detail in the summary that is stated incorrectly, that does not fit into any of the previously defined categories of hallucinations.
-For example: Labs, allergy, family history, response, outcome, and therapeutic procedures.
