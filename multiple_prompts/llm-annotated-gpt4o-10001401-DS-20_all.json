@@ -1,102 +1,87 @@
-[
-    {
-        "Incorrect Patient Information": [],
-        "Omitted Patient Information": [
-            {
-                "text": "Ms. ___ is an ___ with PMH of hypertension and bladder cancer (high grade invasive urothelial carcinoma pT2b) s/p TAH/BSO, radical cystectomy w/ileal conduit c/b intra-abdominal infection and pelvic fluid collection s/p ___ guided drain placement ___ who presents with 2 days of generalized malaise and 1 day of fevers.",
-                "omittedDetails": "The EHR note specifies the patient as 'Ms.' which implies a female identity, and her gender is mentioned as 'Female' under 'Patient Information' in the EHR. The summary provides all relevant patient information, maintaining consistency without any omissions regarding her gender."
-            }
-        ]
-    },
-    {
-        "Incorrect Patient History": [
-            {
-                "text": "Bladder cancer (high-grade TCC, T1, then T4 staging)"
-            }
-        ],
-        "Omitted Patient History": [
-            {
-                "text": "Bladder cancer (high-grade TCC, T1, then T4 staging)",
-                "omittedDetails": "Bladder cancer (high grade invasive urothelial carcinoma pT2b)"
-            },
-            {
-                "text": "s/p hysterectomy and bilateral oophorectomy",
-                "omittedDetails": "s/p hysterectomy and bilateral oophorectomy for large uterus with fibroid"
-            },
-            {
-                "text": "s/p radical cystectomy and anterior vaginectomy with ileal conduit creation",
-                "omittedDetails": "s/p radical cystectomy and anterior vaginectomy with vaginal reconstruction with ileal conduit creation"
-            }
-        ]
-    },
-    {
-        "Incorrect Symptoms/Diagnosis/Surgical Procedures": [
-            {
-                "text": "The summary lists 'Hypokalemia: Managed with oral KCl' as part of the brief hospital course. This is inconsistent with the EHR note, which mentions that hypokalemia was addressed but does not state that hypokalemia was a significant issue during the hospital stay requiring specific management as part of the acute issues. This is not mentioned under the 'Acute Issues' section in the EHR note."
-            }
-        ],
-        "Omitted Symptoms/Diagnosis/Surgical Procedures": [
-            {
-                "text": "Hypokalemia: Managed with oral KCl",
-                "omittedDetails": "The EHR note does mention 'Hypokalemia: was hypokalemic and was repleted with oral KCl PRN,' but this detail is relatively minor and does not appear under the 'Acute Issues' section where major hospital course issues are enumerated. Thus, it does not qualify as a significant omission."
-            }
-        ]
-    },
-    {
-        "Incorrect Medicine related instructions": [
-            {
-                "text": "Transitioned to IV ertapenem for 4 weeks."
-            }
-        ],
-        "Omitted Medicine related instructions": [
-            {
-                "text": "Transitioned to IV ertapenem for 4 weeks.",
-                "omittedDetails": "Ertapenem was recommended for approximately 4 weeks, but the final length of treatment was to be determined by fluid collection changes on repeat imaging on an outpatient basis. Additionally, it was advised that ertapenem be administered at nighttime to avoid interference with daily activities."
-            }
-        ]
-    },
-    {
-        "Incorrect Followup": [
-            {
-                "text": "Follow up with infectious disease and urology."
-            }
-        ],
-        "Omitted Followup": [
-            {
-                "text": "Repeat CT scan before ID appointment.",
-                "omittedDetails": "Assure that Mrs ___ has her CT abdomen & pelvis with contrast in the week of ___. The ID appointment needs to be AFTER her CT abdomen/pelvis has already been done."
-            },
-            {
-                "text": "IV antibiotics for several weeks as determined by ID team.",
-                "omittedDetails": "If the infectious disease doctor has not contacted you by ___, please call the following number to set up an appointment: ___. Please make sure you have a repeat CT scan done BEFORE your appointment with the infectious disease doctor. Tentatively, she will be receiving ertapenem for ___ weeks but with final treatment length determined by the infectious disease team."
-            },
-            {
-                "text": "Weekly lab draws and follow-up appointments as specified.",
-                "omittedDetails": "She should get weekly lab draws of the following: CBC with differential, BUN, Cr, AST, ALT, TB, ALK PHOS. ALL LAB REQUESTS SHOULD BE ANNOTATED WITH: **ATTN: ___ CLINIC - FAX: ___."
-            }
-        ]
-    },
-    {
-        "Incorrect Reasoning": [
-            {
-                "text": "The History of Present Illness in the summary indicates that the patient was started on zosyn and vancomycin and then transferred for further management. However, the EHR note specifies that the patient was initially evaluated at an Outside Hospital (OSH) where she was started on zosyn and vancomycin, and was subsequently transferred to the current hospital for further management. This detail of being initially evaluated at an OSH before being transferred is missing in the summary, which creates a slight chronological inconsistency."
-            }
-        ]
-    },
-    {
-        "Chronological Inconsistency": []
-    },
-    {
-        "Incorrect Other Inconsistency": [
-            {
-                "text": "Fluid culture was negative for infection. Transitioned to IV ertapenem for 4 weeks."
-            }
-        ],
-        "Omitted Other Inconsistency": [
-            {
-                "text": "Cultures came back positive for MSSA.",
-                "omittedDetails": "BID - N cultures for the aforementioned fluid collection came back positive for MSSA but per ID, does not reflect true intra-abdominal infection."
-            }
-        ]
-    }
-]
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "The summary does not include the patient's age.",
+            "omittedDetails": "The exact age of the patient is redacted in the EHR note, which signifies it's an important detail usually documented. This necessary demographic piece is omitted from the summary."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Bladder cancer (high-grade TCC, T1, then T4 staging)"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "s/p TAH/BSO, radical cystectomy with ileal conduit, complicated by intra-abdominal infection and pelvic fluid collection",
+            "omittedDetails": "The summary does not mention the details of the radical cystectomy and anterior vaginectomy with vaginal reconstruction, along with the development and management of intra-abdominal fluid collections and associated bacteremia."
+        },
+        {
+            "text": "Bladder cancer (high-grade invasive urothelial carcinoma (pT2b))",
+            "omittedDetails": "The summary omits the detail that the bladder cancer is specifically described as high-grade invasive urothelial carcinoma pT2b."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis/Surgical Procedures": [
+        {
+            "text": "The summary states that the patient underwent TAH/BSO, radical cystectomy with ileal conduit, complicated by intra-abdominal infection and pelvic fluid collection. However, the EHR note specifies that the bladder cancer (initially high-grade TCC stage T1) further staged to T4 involving invasion into the bladder wall, perivesical soft tissue, and anterior vaginal wall. This progression of cancer staging is significant and is not explicitly mentioned in the summary."
+        }
+    ],
+    "Omitted Symptoms/Diagnosis/Surgical Procedures": [
+        {
+            "text": "The summary mentions 'Left breast mass (BI-RADS 5)' and 'No current plan for chemo/radiation for invasive high-grade urothelial carcinoma,' but it fails to include detailed considerations about the risk and current findings.",
+            "omittedDetails": "- The EHR note specifies that the PET scan shows concerning foci of metastatic disease in the lung and peritoneum, which is missing in the summary. This detail is critical for understanding the complete extent of the patient's cancer.\n- The summary mentions high-grade urothelial carcinoma but omits the significant detail of the deep muscularis propria invasion. This provides important context regarding tumor behavior.\n- The EHR note indicates the patient's son is involved in discussions for managing the breast lesion and lung/peritoneum lesions, which was not mentioned in the summary. Including caregivers or family involvement is vital information for comprehensive patient care."
+        }
+    ],
+    "Incorrect Medicine related instructions": [
+        {
+            "text": "Transitioned to IV ertapenem for 4 weeks."
+        }
+    ],
+    "Omitted Medicine related instructions": [
+        {
+            "text": "Ertapenem",
+            "omittedDetails": "The EHR specifies that the final length of treatment with ertapenem is to be determined by the infectious disease team based on changes in fluid collection observed in repeat imaging on an outpatient basis. The summary only mentions a standard duration of 4 weeks without referencing the conditional aspect of the treatment duration."
+        },
+        {
+            "text": "Enoxaparin",
+            "omittedDetails": "The EHR specifies that enoxaparin should be taken at a lower dose per weight dosing (70 mg q12H) upon discharge. The summary does not provide this specific detail."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Follow up with infectious disease and urology."
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Follow-up appointments as specified.",
+            "omittedDetails": "1. Infectious disease follow-up is to be scheduled after the patient\u2019s CT abdomen/pelvis. The contact information should also be included if the ID appointment has not been contacted by a specific date. 2. Weekly lab draws instructions should be added including details to ensure labs are annotated with: **ATTN: ___ CLINIC - FAX: ___."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Patient underwent CT-guided JP drain placement for intra-abdominal fluid collection."
+        },
+        {
+            "text": "Decision was made to place a drain per ID. Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid. This new drain was subsequently removed per ___ as fluid collection was completely drained."
+        },
+        {
+            "text": "ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Patient underwent ___ guided JP drain placement for intra-abdominal fluid collection and infection, thought to be complicated of recent TAH/BSO, radical cystectomy, and pelvic lymph node biopsy. This procedure was done on ___."
+        },
+        {
+            "text": "Mrs.___ remained afebrile, and leukocytosis resolved."
+        },
+        {
+            "text": "Patient was discharged with Hgb of 8.3 per hem/onc recommendation for threshold Hgb>8 as patient feels and functionally performs better with higher blood counts."
+        }
+    ]
+}

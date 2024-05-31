@@ -1,0 +1,93 @@
+Category: Incorrect Patient Information
+Text All: 
+Text Single: 
+N-gram Overlap: 0.0
+
+Category: Omitted Patient Information
+Omitted All: The exact age of the patient is redacted in the EHR note, which signifies it's an important detail usually documented. This necessary demographic piece is omitted from the summary.
+Omitted Single: 
+Similarity Score: 0.0
+
+Category: Incorrect Patient History
+Text All: Bladder cancer (high-grade TCC, T1, then T4 staging)
+Text Single: 
+N-gram Overlap: 0.0
+
+Category: Omitted Patient History
+Omitted All: The summary does not mention the details of the radical cystectomy and anterior vaginectomy with vaginal reconstruction, along with the development and management of intra-abdominal fluid collections and associated bacteremia.
+Omitted Single: omitted details about bladder cancer diagnosis stages T1 and T4.
+Similarity Score: 0.3051922917366028
+
+Omitted All: The summary omits the detail that the bladder cancer is specifically described as high-grade invasive urothelial carcinoma pT2b.
+Omitted Single: omitted details about bladder cancer diagnosis stages T1 and T4.
+Similarity Score: 0.6370083093643188
+
+Category: Incorrect Symptoms/Diagnosis/Surgical Procedures
+Text All: The summary states that the patient underwent TAH/BSO, radical cystectomy with ileal conduit, complicated by intra-abdominal infection and pelvic fluid collection. However, the EHR note specifies that the bladder cancer (initially high-grade TCC stage T1) further staged to T4 involving invasion into the bladder wall, perivesical soft tissue, and anterior vaginal wall. This progression of cancer staging is significant and is not explicitly mentioned in the summary.
+Text Single: 
+N-gram Overlap: 0.0
+
+Category: Omitted Symptoms/Diagnosis/Surgical Procedures
+Omitted All: - The EHR note specifies that the PET scan shows concerning foci of metastatic disease in the lung and peritoneum, which is missing in the summary. This detail is critical for understanding the complete extent of the patient's cancer.
+- The summary mentions high-grade urothelial carcinoma but omits the significant detail of the deep muscularis propria invasion. This provides important context regarding tumor behavior.
+- The EHR note indicates the patient's son is involved in discussions for managing the breast lesion and lung/peritoneum lesions, which was not mentioned in the summary. Including caregivers or family involvement is vital information for comprehensive patient care.
+Omitted Single: CTA also revealed a tiny hepatic lesion segment, requiring attention on subsequent follow-ups
+Similarity Score: 0.4818481206893921
+
+Omitted All: - The EHR note specifies that the PET scan shows concerning foci of metastatic disease in the lung and peritoneum, which is missing in the summary. This detail is critical for understanding the complete extent of the patient's cancer.
+- The summary mentions high-grade urothelial carcinoma but omits the significant detail of the deep muscularis propria invasion. This provides important context regarding tumor behavior.
+- The EHR note indicates the patient's son is involved in discussions for managing the breast lesion and lung/peritoneum lesions, which was not mentioned in the summary. Including caregivers or family involvement is vital information for comprehensive patient care.
+Omitted Single: The duration of IV ertapenem should also be determined by fluid collection changes on repeat imaging outpatient basis
+Similarity Score: 0.28778183460235596
+
+Omitted All: - The EHR note specifies that the PET scan shows concerning foci of metastatic disease in the lung and peritoneum, which is missing in the summary. This detail is critical for understanding the complete extent of the patient's cancer.
+- The summary mentions high-grade urothelial carcinoma but omits the significant detail of the deep muscularis propria invasion. This provides important context regarding tumor behavior.
+- The EHR note indicates the patient's son is involved in discussions for managing the breast lesion and lung/peritoneum lesions, which was not mentioned in the summary. Including caregivers or family involvement is vital information for comprehensive patient care.
+Omitted Single: the summary did not mention that the serosanguinous fluid was from both admission and discharge exams.
+Similarity Score: 0.33451375365257263
+
+Category: Incorrect Medicine related instructions
+Text All: Transitioned to IV ertapenem for 4 weeks.
+Text Single: 
+N-gram Overlap: 0.0
+
+Category: Omitted Medicine related instructions
+Omitted All: The EHR specifies that the final length of treatment with ertapenem is to be determined by the infectious disease team based on changes in fluid collection observed in repeat imaging on an outpatient basis. The summary only mentions a standard duration of 4 weeks without referencing the conditional aspect of the treatment duration.
+Omitted Single: Transition to IV ertapenem with final length of treatment determined by fluid collection changes on repeat imaging.
+Similarity Score: 0.738109827041626
+
+Omitted All: The EHR specifies that the final length of treatment with ertapenem is to be determined by the infectious disease team based on changes in fluid collection observed in repeat imaging on an outpatient basis. The summary only mentions a standard duration of 4 weeks without referencing the conditional aspect of the treatment duration.
+Omitted Single: Weekly lab draws should include CBC with differential, BUN, Cr, AST, ALT, TB, ALK PHOS.
+Similarity Score: 0.13527265191078186
+
+Omitted All: The EHR specifies that enoxaparin should be taken at a lower dose per weight dosing (70 mg q12H) upon discharge. The summary does not provide this specific detail.
+Omitted Single: Transition to IV ertapenem with final length of treatment determined by fluid collection changes on repeat imaging.
+Similarity Score: 0.44421693682670593
+
+Omitted All: The EHR specifies that enoxaparin should be taken at a lower dose per weight dosing (70 mg q12H) upon discharge. The summary does not provide this specific detail.
+Omitted Single: Weekly lab draws should include CBC with differential, BUN, Cr, AST, ALT, TB, ALK PHOS.
+Similarity Score: 0.12325696647167206
+
+Category: Incorrect Followup
+Text All: Follow up with infectious disease and urology.
+Text Single: 
+N-gram Overlap: 0.0
+
+Category: Omitted Followup
+Omitted All: 1. Infectious disease follow-up is to be scheduled after the patient’s CT abdomen/pelvis. The contact information should also be included if the ID appointment has not been contacted by a specific date. 2. Weekly lab draws instructions should be added including details to ensure labs are annotated with: **ATTN: ___ CLINIC - FAX: ___.
+Omitted Single: Infectious disease follow-up needs to be after her CT abdomen/pelvis has already been done. Also, follow-up with hem/onc regarding breast and lung/peritoneum lesions.
+Similarity Score: 0.5697749853134155
+
+Category: Incorrect Reasoning
+Text All: Patient underwent CT-guided JP drain placement for intra-abdominal fluid collection.
+Text Single: 
+N-gram Overlap: 0.0
+
+Text All: Decision was made to place a drain per ID. Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid. This new drain was subsequently removed per ___ as fluid collection was completely drained.
+Text Single: 
+N-gram Overlap: 0.0
+
+Text All: ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.
+Text Single: 
+N-gram Overlap: 0.0
+

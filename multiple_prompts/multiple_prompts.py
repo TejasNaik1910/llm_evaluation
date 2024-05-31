@@ -33,13 +33,31 @@ def extract_json(response):
                 break
     return json_str if json_str else None
 
+def initialize_output_format():
+    return {
+        "Incorrect Patient Information": [],
+        "Omitted Patient Information": [],
+        "Incorrect Patient History": [],
+        "Omitted Patient History": [],
+        "Incorrect Symptoms/Diagnosis/Surgical Procedures": [],
+        "Omitted Symptoms/Diagnosis/Surgical Procedures": [],
+        "Incorrect Medicine related instructions": [],
+        "Omitted Medicine related instructions": [],
+        "Incorrect Followup": [],
+        "Omitted Followup": [],
+        "Incorrect Reasoning": [],
+        "Chronological Inconsistency": []
+    }
+
+def merge_responses(all_responses):
+    merged_output = initialize_output_format()
+    for response in all_responses:
+        for key in response:
+            if key in merged_output:
+                merged_output[key].extend(response[key])
+    return merged_output
+
 # List of note IDs
-# note_ids = ["10001401-DS-20", "10054464-DS-17", 
-#     "10002221-DS-12", "10003299-DS-10", "10056223-DS-14", "10004401-DS-26", 
-#     "10056612-DS-8", "10006029-DS-16", "10006431-DS-24", "10006580-DS-21", 
-#     "10006820-DS-18", "10007795-DS-13", "10008628-DS-3", "10010440-DS-5", 
-#     "10011938-DS-16", "10012292-DS-9", "10014354-DS-23", "10016142-DS-19", 
-#     "10017285-DS-3", "10018052-DS-16", "10057126-DS-7", "10020306-DS-9"]
 note_ids = ["10001401-DS-20"]
 
 # Process each note_id
@@ -103,7 +121,10 @@ for note_id in note_ids:
         else:
             print(f"No JSON found for guideline {i}: {response}")
     
-    # Save all responses to a single JSON file after processing all guidelines
+    # Merge all responses into the specified format
+    final_output = merge_responses(all_responses)
+    
+    # Save the final output to a single JSON file after processing all guidelines
     output_file = f'multiple_prompts/llm-annotated-gpt4o-{note_id}_all.json'
     with open(output_file, 'w') as file:
-        json.dump(all_responses, file, indent=4)
+        json.dump(final_output, file, indent=4)

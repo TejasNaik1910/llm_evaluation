@@ -1,0 +1,136 @@
+{
+  "Omitted Other Inconsistency": [
+    {
+      "text": "Discharge",
+      "startOffset": 1620,
+      "endOffset": 1629,
+      "startWordIndex": 220,
+      "endWordIndex": 221,
+      "omittedDetails": "Some On-Discharge Physical exam findings are missing from the summary"
+    },
+    {
+      "text": "Admission",
+      "startOffset": 1479,
+      "endOffset": 1488,
+      "startWordIndex": 199,
+      "endWordIndex": 200,
+      "omittedDetails": "Some On-Admission Physical exam findings are missing from the summary"
+    },
+    {
+      "text": "Admission ",
+      "startOffset": 1740,
+      "endOffset": 1750,
+      "startWordIndex": 234,
+      "endWordIndex": 235,
+      "omittedDetails": "Some admission labs are missing from the summary"
+    },
+    {
+      "text": "Discharge ",
+      "startOffset": 1847,
+      "endOffset": 1857,
+      "startWordIndex": 252,
+      "endWordIndex": 253,
+      "omittedDetails": "Some discharge labs are missing from the summary"
+    },
+    {
+      "text": "Imaging",
+      "startOffset": 0,
+      "endOffset": 7,
+      "startWordIndex": 0,
+      "endWordIndex": 0,
+      "omittedDetails": "Pigtail catheter is missing from the summary."
+    },
+    {
+      "text": "Hospital ",
+      "startOffset": 2122,
+      "endOffset": 2131,
+      "startWordIndex": 289,
+      "endWordIndex": 290,
+      "omittedDetails": "Some lab findings are missing from the summaryy"
+    },
+    {
+      "text": "ch",
+      "startOffset": 3178,
+      "endOffset": 3180,
+      "startWordIndex": 408,
+      "endWordIndex": 408,
+      "omittedDetails": "Discharge condition is missing from the summary"
+    }
+  ],
+  "Incorrect Reasoning": [
+    {
+      "text": "Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record\t",
+      "startOffset": "",
+      "endOffset": "",
+      "startWordIndex": 0,
+      "endWordIndex": 0
+    },
+    {
+      "text": "'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record\t",
+      "startOffset": "",
+      "endOffset": "",
+      "startWordIndex": 0,
+      "endWordIndex": 0
+    }
+  ],
+  "Omitted Symptoms/Diagnosis": [
+    {
+      "text": "Imaging",
+      "startOffset": 2011,
+      "endOffset": 2018,
+      "startWordIndex": 274,
+      "endWordIndex": 275,
+      "omittedDetails": "Superimposed infection is not mentioned in the summary"
+    },
+    {
+      "text": ":*",
+      "startOffset": 2018,
+      "endOffset": 2020,
+      "startWordIndex": 275,
+      "endWordIndex": 275,
+      "omittedDetails": "Some Imaging findings are missing from the summary"
+    },
+    {
+      "text": "Brief ",
+      "startOffset": 2116,
+      "endOffset": 2122,
+      "startWordIndex": 288,
+      "endWordIndex": 289,
+      "omittedDetails": "Some Diseases in the brief hospital course are missing from the summary"
+    },
+    {
+      "text": "evaluation",
+      "startOffset": 2786,
+      "endOffset": 2796,
+      "startWordIndex": 374,
+      "endWordIndex": 375,
+      "omittedDetails": "Mammogram is missing from the summary"
+    }
+  ],
+  "Omitted Medicinal Instructions": [
+    {
+      "text": "Medications ",
+      "startOffset": 2896,
+      "endOffset": 2908,
+      "startWordIndex": 384,
+      "endWordIndex": 385,
+      "omittedDetails": "All admission medications are lacking doses, frequencies and durations"
+    },
+    {
+      "text": "Discharge ",
+      "startOffset": 2996,
+      "endOffset": 3006,
+      "startWordIndex": 392,
+      "endWordIndex": 393,
+      "omittedDetails": "All discharge medications are lacking doses, frequencies and durations"
+    },
+    {
+      "text": "up ",
+      "startOffset": 3758,
+      "endOffset": 3761,
+      "startWordIndex": 487,
+      "endWordIndex": 488,
+      "omittedDetails": "Ertapenem, Atorvastatin follow up instructions are missing from the summary"
+    }
+  ]
+}
