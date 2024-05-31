@@ -1,5 +1,11 @@
 COMPARISON OF HUMAN ANNOTATION WITH LLM MULTIPLE PROMPT DETECTION:
 
+CATEGORY: Omitted Symptoms/Diagnosis
+Human annotation is present but Multiple_prompt annotation is missing for this category.
+
+CATEGORY: Omitted Medicinal Instructions
+Human annotation is present but Multiple_prompt annotation is missing for this category.
+
 CATEGORY: Omitted Other Inconsistency
 Human: Some On-Discharge Physical exam findings are missing from the summary
 Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
@@ -102,22 +108,10 @@ Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinen
 Text All: The History of Present Illness section in the Summary states that the patient presented with 2 days of malaise and 1 day of fevers, and initial management included CT-guided JP drain placement for intra-abdominal fluid collection. However, the EHR Note shows that the patient initially presented to an outside hospital (OSH), where she was evaluated with blood cultures, drain culture, started on zosyn and vancomycin, and given acetaminophen before being transferred for further management. The summary omits the initial management at the OSH.
 Similarity Score (Human vs All): 0.2854635715484619
 
-CATEGORY: Omitted Symptoms/Diagnosis
-Human annotation is present but Multiple_prompt annotation is missing for this category.
-
-CATEGORY: Omitted Medicinal Instructions
-Human annotation is present but Multiple_prompt annotation is missing for this category.
-
 
 ######################################################################################################################################
 
 COMPARISON OF HUMAN ANNOTATION WITH LLM SINGLE PROMPT DETECTION:
-
-CATEGORY: Omitted Other Inconsistency
-Human annotation is present but Single_prompt annotation is missing for this category.
-
-CATEGORY: Incorrect Reasoning
-Human annotation is present but Single_prompt annotation is missing for this category.
 
 CATEGORY: Omitted Symptoms/Diagnosis
 Human: Superimposed infection is not mentioned in the summary
@@ -148,4 +142,10 @@ Similarity Score (Human vs Single): 0.4135730266571045
 Human: Ertapenem, Atorvastatin follow up instructions are missing from the summary
 Omitted Single: ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis
 Similarity Score (Human vs Single): 0.48075103759765625
+
+CATEGORY: Omitted Other Inconsistency
+Human annotation is present but Single_prompt annotation is missing for this category.
+
+CATEGORY: Incorrect Reasoning
+Human annotation is present but Single_prompt annotation is missing for this category.
 

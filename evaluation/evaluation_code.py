@@ -88,7 +88,7 @@ try:
         json_all = json.load(file)
     with open('single_prompt/llm-annotated-gpt4o-10001401-DS-20.json', 'r') as file:
         json_single = json.load(file)
-    with open('data/human-annotations/annotations-gpt4o-10001401-DS-20.json', 'r') as file:
+    with open('data/processed-human-annotations/annotations-gpt4o-10001401-DS-20.json', 'r') as file:
         json_human_annotation = json.load(file)
 except FileNotFoundError as e:
     logging.error(f"File not found: {e}")
