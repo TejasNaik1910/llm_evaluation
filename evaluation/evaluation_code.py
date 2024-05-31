@@ -129,47 +129,53 @@ def process_category(category, human_texts, json_all, json_single):
     similarity_scores_all = []
     similarity_scores_single = []
 
-    if category.startswith("Incorrect"):
-        # Compare with llm_all
+    if category.startswith("Incorrect") and category != "Incorrect Reasoning":
         texts_all = json_all.get(category, [])
+        texts_single = json_single.get(category, [])
         for human_data in human_texts:
             human_text = human_data.get('text', "")
             for text_data in texts_all:
                 text_all = text_data.get('text', "")
                 overlap_all_vs_human = ngram_overlap(human_text, text_all)
                 overlap_scores_all.append((human_text, text_all, overlap_all_vs_human))
-        analysis_all[category] = overlap_scores_all
-
-        # Compare with llm_single
-        texts_single = json_single.get(category, [])
-        for human_data in human_texts:
-            human_text = human_data.get('text', "")
             for text_single_data in texts_single:
                 text_single = text_single_data.get('text', "")
                 overlap_single_vs_human = ngram_overlap(human_text, text_single)
                 overlap_scores_single.append((human_text, text_single, overlap_single_vs_human))
+        analysis_all[category] = overlap_scores_all
         analysis_single[category] = overlap_scores_single
 
     elif category.startswith("Omitted"):
-        # Compare with llm_all
         omitted_all = json_all.get(category, [])
+        omitted_single = json_single.get(category, [])
         for human_omitted_data in human_texts:
             human_omitted_text = human_omitted_data.get('omittedDetails', "")
             for omitted_data in omitted_all:
                 omitted_all_text = omitted_data.get('omittedDetails', "")
                 similarity_all_vs_human = sentence_bert_similarity(human_omitted_text, omitted_all_text)
                 similarity_scores_all.append((human_omitted_text, omitted_all_text, similarity_all_vs_human))
-        analysis_all[category] = similarity_scores_all
-
-        # Compare with llm_single
-        omitted_single = json_single.get(category, [])
-        for human_omitted_data in human_texts:
-            human_omitted_text = human_omitted_data.get('omittedDetails', "")
             for omitted_single_data in omitted_single:
                 omitted_single_text = omitted_single_data.get('omittedDetails', "")
                 similarity_single_vs_human = sentence_bert_similarity(human_omitted_text, omitted_single_text)
                 similarity_scores_single.append((human_omitted_text, omitted_single_text, similarity_single_vs_human))
+        analysis_all[category] = similarity_scores_all
         analysis_single[category] = similarity_scores_single
+        
+    elif category.startswith("Incorrect Reasoning") or category.startswith("Chronological Inconsistency"):
+        annotation_all = json_all.get(category, [])
+        annotation_single = json_single.get(category, [])
+        for human_data in human_texts:
+            human_text = human_data.get('text', "")
+            for text_data in annotation_all:
+                text_all = text_data.get('text', "")
+                overlap_all_vs_human = sentence_bert_similarity(human_text, text_all)
+                overlap_scores_all.append((human_text, text_all, overlap_all_vs_human))
+            for text_single_data in annotation_single:
+                text_single = text_single_data.get('text', "")
+                overlap_single_vs_human = sentence_bert_similarity(human_text, text_single)
+                overlap_scores_single.append((human_text, text_single, overlap_single_vs_human))
+        analysis_all[category] = overlap_scores_all
+        analysis_single[category] = overlap_scores_single
 
 # Process each category
 for category in json_human_annotation.keys():
@@ -184,32 +190,38 @@ try:
     with open('evaluation/gpt4o-10001401-DS-20_analysis.txt', 'w') as file:
         file.write("COMPARISON OF HUMAN ANNOTATION WITH LLM MULTIPLE PROMPT DETECTION:\n\n")
         for category, results in analysis_all.items():
-            file.write(f"Category: {category}\n")
+            file.write(f"CATEGORY: {category}\n")
             if results:
                 for result in results:
-                    if category.startswith("Incorrect"):
+                    if category.startswith("Incorrect") and category != "Incorrect Reasoning":
                         human_text, text_all, overlap_all_vs_human = result
                         file.write(f"Human: {human_text}\nText All: {text_all}\nN-gram Overlap (Human vs All): {overlap_all_vs_human}\n\n")
                     elif category.startswith("Omitted"):
                         human_omitted_text, omitted_all_text, similarity_all_vs_human = result
                         file.write(f"Human: {human_omitted_text}\nOmitted All: {omitted_all_text}\nSimilarity Score (Human vs All): {similarity_all_vs_human}\n\n")
+                    elif category.startswith("Incorrect Reasoning") or category.startswith("Chronological Inconsistency"):
+                        human_text, text_all, similarity_all_vs_human = result
+                        file.write(f"Human: {human_text}\nText All: {text_all}\nSimilarity Score (Human vs All): {similarity_all_vs_human}\n\n")
             else:
-                file.write("No human annotations found for this category.\n\n")
+                file.write("Human annotation is present but Multiple_prompt annotation is missing for this category.\n\n")
 
-        file.write("\n######################################################################################################################################\n")
+        file.write("\n######################################################################################################################################\n\n")
         file.write("COMPARISON OF HUMAN ANNOTATION WITH LLM SINGLE PROMPT DETECTION:\n\n")
         for category, results in analysis_single.items():
-            file.write(f"Category: {category}\n")
+            file.write(f"CATEGORY: {category}\n")
             if results:
                 for result in results:
-                    if category.startswith("Incorrect"):
+                    if category.startswith("Incorrect") and category != "Incorrect Reasoning":
                         human_text, text_single, overlap_single_vs_human = result
                         file.write(f"Human: {human_text}\nText Single: {text_single}\nN-gram Overlap (Human vs Single): {overlap_single_vs_human}\n\n")
                     elif category.startswith("Omitted"):
                         human_omitted_text, omitted_single_text, similarity_single_vs_human = result
                         file.write(f"Human: {human_omitted_text}\nOmitted Single: {omitted_single_text}\nSimilarity Score (Human vs Single): {similarity_single_vs_human}\n\n")
+                    elif category.startswith("Incorrect Reasoning") or category.startswith("Chronological Inconsistency"):
+                        hhuman_text, text_single, similarity_single_vs_human = result
+                        file.write(f"Human: {human_text}\nText All: {text_all}\nSimilarity Score (Human vs Single): {similarity_single_vs_human}\n\n")
             else:
-                file.write("No human annotations found for this category.\n\n")
+                file.write("Human annotation is present but Single_prompt annotation is missing for this category.\n\n")
 
     logging.info("Analysis completed and written to gpt4o-10001401-DS-20_analysis.txt")
 except Exception as e:

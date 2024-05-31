@@ -1,6 +1,6 @@
 COMPARISON OF HUMAN ANNOTATION WITH LLM MULTIPLE PROMPT DETECTION:
 
-Category: Omitted Other Inconsistency
+CATEGORY: Omitted Other Inconsistency
 Human: Some On-Discharge Physical exam findings are missing from the summary
 Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
 Similarity Score (Human vs All): 0.35209354758262634
@@ -85,40 +85,41 @@ Human: Discharge condition is missing from the summary
 Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
 Similarity Score (Human vs All): 0.23212963342666626
 
-Category: Incorrect Reasoning
+CATEGORY: Incorrect Reasoning
 Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
 Text All: The Brief Hospital Course section of the Summary mentions that the patient was transitioned to IV ertapenem for 4 weeks. However, the EHR Note indicates that the length of treatment with ertapenem will be determined by fluid collection changes on repeat outpatient imaging. The mention of '4 weeks' in the Summary is therefore not supported by the EHR Note.
-N-gram Overlap (Human vs All): 0.5
+Similarity Score (Human vs All): 0.24801358580589294
 
 Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
 Text All: The History of Present Illness section in the Summary states that the patient presented with 2 days of malaise and 1 day of fevers, and initial management included CT-guided JP drain placement for intra-abdominal fluid collection. However, the EHR Note shows that the patient initially presented to an outside hospital (OSH), where she was evaluated with blood cultures, drain culture, started on zosyn and vancomycin, and given acetaminophen before being transferred for further management. The summary omits the initial management at the OSH.
-N-gram Overlap (Human vs All): 0.5
+Similarity Score (Human vs All): 0.3549138009548187
 
 Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
 Text All: The Brief Hospital Course section of the Summary mentions that the patient was transitioned to IV ertapenem for 4 weeks. However, the EHR Note indicates that the length of treatment with ertapenem will be determined by fluid collection changes on repeat outpatient imaging. The mention of '4 weeks' in the Summary is therefore not supported by the EHR Note.
-N-gram Overlap (Human vs All): 0.5
+Similarity Score (Human vs All): 0.21447929739952087
 
 Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
 Text All: The History of Present Illness section in the Summary states that the patient presented with 2 days of malaise and 1 day of fevers, and initial management included CT-guided JP drain placement for intra-abdominal fluid collection. However, the EHR Note shows that the patient initially presented to an outside hospital (OSH), where she was evaluated with blood cultures, drain culture, started on zosyn and vancomycin, and given acetaminophen before being transferred for further management. The summary omits the initial management at the OSH.
-N-gram Overlap (Human vs All): 0.5
+Similarity Score (Human vs All): 0.2854635715484619
 
-Category: Omitted Symptoms/Diagnosis
-No human annotations found for this category.
+CATEGORY: Omitted Symptoms/Diagnosis
+Human annotation is present but Multiple_prompt annotation is missing for this category.
 
-Category: Omitted Medicinal Instructions
-No human annotations found for this category.
+CATEGORY: Omitted Medicinal Instructions
+Human annotation is present but Multiple_prompt annotation is missing for this category.
 
 
 ######################################################################################################################################
+
 COMPARISON OF HUMAN ANNOTATION WITH LLM SINGLE PROMPT DETECTION:
 
-Category: Omitted Other Inconsistency
-No human annotations found for this category.
+CATEGORY: Omitted Other Inconsistency
+Human annotation is present but Single_prompt annotation is missing for this category.
 
-Category: Incorrect Reasoning
-No human annotations found for this category.
+CATEGORY: Incorrect Reasoning
+Human annotation is present but Single_prompt annotation is missing for this category.
 
-Category: Omitted Symptoms/Diagnosis
+CATEGORY: Omitted Symptoms/Diagnosis
 Human: Superimposed infection is not mentioned in the summary
 Omitted Single: generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home
 Similarity Score (Human vs Single): 0.2866993546485901
@@ -135,7 +136,7 @@ Human: Mammogram is missing from the summary
 Omitted Single: generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home
 Similarity Score (Human vs Single): 0.09366965293884277
 
-Category: Omitted Medicinal Instructions
+CATEGORY: Omitted Medicinal Instructions
 Human: All admission medications are lacking doses, frequencies and durations
 Omitted Single: ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis
 Similarity Score (Human vs Single): 0.3308972120285034
