@@ -49,12 +49,12 @@ LLM_DETECTION/
 
 ## Installation Instructions
 
-1. Clone the repository:
-   git clone <repository_url>
-   cd LLM_DETECTION
+1. Clone the repository:\
+   git clone <repository_url>\
+   cd llm_evaluation
 
-2. Create and activate a virtual environment:
-   python3 -m venv myenv
+2. Create and activate a virtual environment:\
+   python3 -m venv myenv\
    source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
 
 3. Install the required dependencies:
