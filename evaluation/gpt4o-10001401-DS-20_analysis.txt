@@ -1,0 +1,150 @@
+COMPARISON OF HUMAN ANNOTATION WITH LLM MULTIPLE PROMPT DETECTION:
+
+Category: Omitted Other Inconsistency
+Human: Some On-Discharge Physical exam findings are missing from the summary
+Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
+Similarity Score (Human vs All): 0.35209354758262634
+
+Human: Some On-Discharge Physical exam findings are missing from the summary
+Omitted All: Original EHR_NOTE under 'Brief Hospital Course': 'ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.'
+Similarity Score (Human vs All): 0.29690492153167725
+
+Human: Some On-Discharge Physical exam findings are missing from the summary
+Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
+Similarity Score (Human vs All): 0.14461784064769745
+
+Human: Some On-Admission Physical exam findings are missing from the summary
+Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
+Similarity Score (Human vs All): 0.13615727424621582
+
+Human: Some On-Admission Physical exam findings are missing from the summary
+Omitted All: Original EHR_NOTE under 'Brief Hospital Course': 'ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.'
+Similarity Score (Human vs All): 0.1661364734172821
+
+Human: Some On-Admission Physical exam findings are missing from the summary
+Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
+Similarity Score (Human vs All): 0.03456968441605568
+
+Human: Some admission labs are missing from the summary
+Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
+Similarity Score (Human vs All): 0.14828550815582275
+
+Human: Some admission labs are missing from the summary
+Omitted All: Original EHR_NOTE under 'Brief Hospital Course': 'ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.'
+Similarity Score (Human vs All): 0.2505101263523102
+
+Human: Some admission labs are missing from the summary
+Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
+Similarity Score (Human vs All): 0.1829228550195694
+
+Human: Some discharge labs are missing from the summary
+Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
+Similarity Score (Human vs All): 0.3978884518146515
+
+Human: Some discharge labs are missing from the summary
+Omitted All: Original EHR_NOTE under 'Brief Hospital Course': 'ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.'
+Similarity Score (Human vs All): 0.4067223072052002
+
+Human: Some discharge labs are missing from the summary
+Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
+Similarity Score (Human vs All): 0.33250921964645386
+
+Human: Pigtail catheter is missing from the summary.
+Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
+Similarity Score (Human vs All): 0.3503364026546478
+
+Human: Pigtail catheter is missing from the summary.
+Omitted All: Original EHR_NOTE under 'Brief Hospital Course': 'ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.'
+Similarity Score (Human vs All): 0.26099279522895813
+
+Human: Pigtail catheter is missing from the summary.
+Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
+Similarity Score (Human vs All): 0.250458687543869
+
+Human: Some lab findings are missing from the summaryy
+Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
+Similarity Score (Human vs All): 0.1396380513906479
+
+Human: Some lab findings are missing from the summaryy
+Omitted All: Original EHR_NOTE under 'Brief Hospital Course': 'ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.'
+Similarity Score (Human vs All): 0.22810561954975128
+
+Human: Some lab findings are missing from the summaryy
+Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
+Similarity Score (Human vs All): 0.3075495958328247
+
+Human: Discharge condition is missing from the summary
+Omitted All: Original EHR_NOTE under 'Discharge Instructions': 'We placed a PICC (a long IV) so that you can receive antibiotics after you get discharged from the hospital.'
+Similarity Score (Human vs All): 0.4628950357437134
+
+Human: Discharge condition is missing from the summary
+Omitted All: Original EHR_NOTE under 'Brief Hospital Course': 'ID was consulted for the fevers, leukocytosis and fluid collections and was deemed to need antibiotics and transitioned from broad spectrum to IV ertapenem at discharge.'
+Similarity Score (Human vs All): 0.3537483811378479
+
+Human: Discharge condition is missing from the summary
+Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
+Similarity Score (Human vs All): 0.23212963342666626
+
+Category: Incorrect Reasoning
+Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
+Text All: The Brief Hospital Course section of the Summary mentions that the patient was transitioned to IV ertapenem for 4 weeks. However, the EHR Note indicates that the length of treatment with ertapenem will be determined by fluid collection changes on repeat outpatient imaging. The mention of '4 weeks' in the Summary is therefore not supported by the EHR Note.
+N-gram Overlap (Human vs All): 0.5
+
+Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
+Text All: The History of Present Illness section in the Summary states that the patient presented with 2 days of malaise and 1 day of fevers, and initial management included CT-guided JP drain placement for intra-abdominal fluid collection. However, the EHR Note shows that the patient initially presented to an outside hospital (OSH), where she was evaluated with blood cultures, drain culture, started on zosyn and vancomycin, and given acetaminophen before being transferred for further management. The summary omits the initial management at the OSH.
+N-gram Overlap (Human vs All): 0.5
+
+Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
+Text All: The Brief Hospital Course section of the Summary mentions that the patient was transitioned to IV ertapenem for 4 weeks. However, the EHR Note indicates that the length of treatment with ertapenem will be determined by fluid collection changes on repeat outpatient imaging. The mention of '4 weeks' in the Summary is therefore not supported by the EHR Note.
+N-gram Overlap (Human vs All): 0.5
+
+Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
+Text All: The History of Present Illness section in the Summary states that the patient presented with 2 days of malaise and 1 day of fevers, and initial management included CT-guided JP drain placement for intra-abdominal fluid collection. However, the EHR Note shows that the patient initially presented to an outside hospital (OSH), where she was evaluated with blood cultures, drain culture, started on zosyn and vancomycin, and given acetaminophen before being transferred for further management. The summary omits the initial management at the OSH.
+N-gram Overlap (Human vs All): 0.5
+
+Category: Omitted Symptoms/Diagnosis
+No human annotations found for this category.
+
+Category: Omitted Medicinal Instructions
+No human annotations found for this category.
+
+
+######################################################################################################################################
+COMPARISON OF HUMAN ANNOTATION WITH LLM SINGLE PROMPT DETECTION:
+
+Category: Omitted Other Inconsistency
+No human annotations found for this category.
+
+Category: Incorrect Reasoning
+No human annotations found for this category.
+
+Category: Omitted Symptoms/Diagnosis
+Human: Superimposed infection is not mentioned in the summary
+Omitted Single: generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home
+Similarity Score (Human vs Single): 0.2866993546485901
+
+Human: Some Imaging findings are missing from the summary
+Omitted Single: generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home
+Similarity Score (Human vs Single): 0.14298079907894135
+
+Human: Some Diseases in the brief hospital course are missing from the summary
+Omitted Single: generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home
+Similarity Score (Human vs Single): 0.38211944699287415
+
+Human: Mammogram is missing from the summary
+Omitted Single: generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home
+Similarity Score (Human vs Single): 0.09366965293884277
+
+Category: Omitted Medicinal Instructions
+Human: All admission medications are lacking doses, frequencies and durations
+Omitted Single: ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis
+Similarity Score (Human vs Single): 0.3308972120285034
+
+Human: All discharge medications are lacking doses, frequencies and durations
+Omitted Single: ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis
+Similarity Score (Human vs Single): 0.4135730266571045
+
+Human: Ertapenem, Atorvastatin follow up instructions are missing from the summary
+Omitted Single: ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis
+Similarity Score (Human vs Single): 0.48075103759765625
+

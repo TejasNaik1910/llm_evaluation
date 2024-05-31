@@ -39,12 +39,14 @@ def initialize_output_format():
         "Omitted Patient Information": [],
         "Incorrect Patient History": [],
         "Omitted Patient History": [],
-        "Incorrect Symptoms/Diagnosis/Surgical Procedures": [],
-        "Omitted Symptoms/Diagnosis/Surgical Procedures": [],
-        "Incorrect Medicine related instructions": [],
-        "Omitted Medicine related instructions": [],
+        "Incorrect Symptoms/Diagnosis": [],
+        "Omitted Symptoms/Diagnosis": [],
+        "Incorrect Medicinal Instructions": [],
+        "Omitted Medicinal Instructions": [],
         "Incorrect Followup": [],
         "Omitted Followup": [],
+        "Incorrect Other Inconsistency": [],
+        "Omitted Other Inconsistency": [],
         "Incorrect Reasoning": [],
         "Chronological Inconsistency": []
     }

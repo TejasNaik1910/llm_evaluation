@@ -1,79 +1,31 @@
 {
-    "Incorrect Patient Information": [
+    "Incorrect Patient Information": [],
+    "Omitted Patient Information": [],
+    "Incorrect Patient History": [],
+    "Omitted Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [
         {
-            "text": ""
+            "text": "malaise and 1 day of fevers",
+            "omittedDetails": "generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home"
         }
     ],
-    "Omitted Patient Information": [
-        {
-            "text": "",
-            "omittedDetails": ""
-        }
-    ],
-    "Incorrect Patient History": [
-        {
-            "text": ""
-        }
-    ],
-    "Omitted Patient History": [
-        {
-            "text": "The patient, with a history of hypertension and high-grade invasive urothelial carcinoma (pT2b)",
-            "omittedDetails": "omitted details about bladder cancer diagnosis stages T1 and T4."
-        }
-    ],
-    "Incorrect Symptoms/Diagnosis/Surgical Procedures": [
-        {
-            "text": ""
-        }
-    ],
-    "Omitted Symptoms/Diagnosis/Surgical Procedures": [
-        {
-            "text": "CT and CTA showed changes in pelvic fluid collections and severe bilateral hydronephrosis.",
-            "omittedDetails": "CTA also revealed a tiny hepatic lesion segment, requiring attention on subsequent follow-ups"
-        },
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [
         {
             "text": "Transitioned to IV ertapenem for 4 weeks.",
-            "omittedDetails": "The duration of IV ertapenem should also be determined by fluid collection changes on repeat imaging outpatient basis"
-        },
-        {
-            "text": "Serosanguinous fluid from LLQ drain",
-            "omittedDetails": "the summary did not mention that the serosanguinous fluid was from both admission and discharge exams."
+            "omittedDetails": "ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis"
         }
     ],
-    "Incorrect Medicine related instructions": [
-        {
-            "text": ""
-        }
-    ],
-    "Omitted Medicine related instructions": [
-        {
-            "text": "IV antibiotics for several weeks as determined by ID team.",
-            "omittedDetails": "Transition to IV ertapenem with final length of treatment determined by fluid collection changes on repeat imaging."
-        },
-        {
-            "text": "Weekly lab draws and follow-up appointments as specified.",
-            "omittedDetails": "Weekly lab draws should include CBC with differential, BUN, Cr, AST, ALT, TB, ALK PHOS."
-        }
-    ],
-    "Incorrect Followup": [
-        {
-            "text": ""
-        }
-    ],
+    "Incorrect Followup": [],
     "Omitted Followup": [
         {
-            "text": "Follow up with infectious disease and urology.",
-            "omittedDetails": "Infectious disease follow-up needs to be after her CT abdomen/pelvis has already been done. Also, follow-up with hem/onc regarding breast and lung/peritoneum lesions."
+            "text": "Repeat CT scan before ID appointment.",
+            "omittedDetails": "Assure that Mrs ___ has her CT abdomen & pelvis with contrast in the week of ___"
         }
     ],
-    "Incorrect Reasoning": [
-        {
-            "text": ""
-        }
-    ],
-    "Chronological Inconsistency": [
-        {
-            "text": ""
-        }
-    ]
+    "Incorrect Other Inconsistency": [],
+    "Omitted Other Inconsistency": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
 }

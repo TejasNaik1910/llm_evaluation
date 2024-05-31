@@ -21,23 +21,23 @@
         "omittedDetails": ""
       }
     ],
-    "Incorrect Symptoms/Diagnosis/Surgical Procedures": [
+    "Incorrect Symptoms/Diagnosis": [
         {
           "text": ""
         }
       ],
-    "Omitted Symptoms/Diagnosis/Surgical Procedures": [
+    "Omitted Symptoms/Diagnosis": [
       {
         "text": "",
         "omittedDetails": ""
       }
     ],
-    "Incorrect Medicine related instructions": [
+    "Incorrect Medicinal Instructions": [
         {
           "text": ""
         }
       ],
-    "Omitted Medicine related instructions": [
+    "Omitted Medicinal Instructions": [
       {
         "text": "",
         "omittedDetails": ""
@@ -54,7 +54,18 @@
         "omittedDetails": ""
       }
     ],
-    
+    "Incorrect Other Inconsistency": [
+      {
+        "text": "",
+        "omittedDetails": ""
+      }
+    ],
+    "Omitted Other Inconsistency": [
+      {
+        "text": "",
+        "omittedDetails": ""
+      }
+    ],
     "Incorrect Reasoning": [
       {
         "text": ""
