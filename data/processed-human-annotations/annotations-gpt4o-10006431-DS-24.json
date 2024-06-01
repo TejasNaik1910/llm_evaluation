@@ -77,54 +77,6 @@
     {
       "text": "Illness",
       "omittedDetails": "missing hospitalized with diarrhea,anorexia and neutropenia"
-    },
-    {
-      "text": "DVT",
-      "omittedDetails": "Ruptured ___ cyst."
-    },
-    {
-      "text": "esophagogastroduodenoscopy (EGD), colonoscopy,",
-      "omittedDetails": "showed mild distal esophagitis, hiatal hernia, single tiny possible early ___ lesion and friability of the duodenal bulb"
-    },
-    {
-      "text": "Recent GI Bleed:",
-      "omittedDetails": "His last bloody bowel movement was 4 days prior to admission"
-    },
-    {
-      "text": "CT torso",
-      "omittedDetails": "missing rest of the impression"
-    },
-    {
-      "text": "Mr",
-      "omittedDetails": "patient complaining of nausea and poor PO intake"
-    },
-    {
-      "text": "Illness",
-      "omittedDetails": "missing microcytic anemia,LUL pneumonia,hypothyrodism,depression and anxiety"
-    },
-    {
-      "text": "history of",
-      "omittedDetails": "missing hyperlipidemia"
-    },
-    {
-      "text": "Cancer",
-      "omittedDetails": "missing details of past oncologic history and TNM stage"
-    },
-    {
-      "text": "Imaging",
-      "omittedDetails": "Superimposed infection is not mentioned in the summary"
-    },
-    {
-      "text": ":*",
-      "omittedDetails": "Some Imaging findings are missing from the summary"
-    },
-    {
-      "text": "Brief ",
-      "omittedDetails": "Some Diseases in the brief hospital course are missing from the summary"
-    },
-    {
-      "text": "evaluation",
-      "omittedDetails": "Mammogram is missing from the summary"
     }
   ],
   "Incorrect Medicinal Instructions": [
@@ -180,30 +132,6 @@
     {
       "text": "oxycontin",
       "omittedDetails": "missing dose"
-    },
-    {
-      "text": "dabigatran.",
-      "omittedDetails": "discontinued during that admission (approximately two weeks prior to current admission"
-    },
-    {
-      "text": "iron.",
-      "omittedDetails": "iron at his prior hospitalization and that was continued."
-    },
-    {
-      "text": "Medications",
-      "omittedDetails": "missing medications on admission and their doses"
-    },
-    {
-      "text": "Medications ",
-      "omittedDetails": "All admission medications are lacking doses, frequencies and durations"
-    },
-    {
-      "text": "Discharge ",
-      "omittedDetails": "All discharge medications are lacking doses, frequencies and durations"
-    },
-    {
-      "text": "up ",
-      "omittedDetails": "Ertapenem, Atorvastatin follow up instructions are missing from the summary"
     }
   ],
   "Incorrect Followup": [
@@ -219,10 +147,6 @@
     {
       "text": "Discharge Instructions",
       "omittedDetails": "missing rest of discharge instructions"
-    },
-    {
-      "text": "GI evaluation.",
-      "omittedDetails": "to find the source of bleeding."
     }
   ],
   "Incorrect Other Inconsistency": [],
@@ -246,54 +170,6 @@
     {
       "text": "Labs",
       "omittedDetails": "some labs are missing with their results"
-    },
-    {
-      "text": "Follow-up",
-      "omittedDetails": "will need cancer screening given possibly unprovoked DVT."
-    },
-    {
-      "text": "Findings",
-      "omittedDetails": "missing admission and discharge physical exams"
-    },
-    {
-      "text": "Tests",
-      "omittedDetails": "missing admission labs"
-    },
-    {
-      "text": "Blood Cultures",
-      "omittedDetails": "missing rest of values"
-    },
-    {
-      "text": "Patient Information",
-      "omittedDetails": "missing family history"
-    },
-    {
-      "text": "Discharge",
-      "omittedDetails": "Some On-Discharge Physical exam findings are missing from the summary"
-    },
-    {
-      "text": "Admission",
-      "omittedDetails": "Some On-Admission Physical exam findings are missing from the summary"
-    },
-    {
-      "text": "Admission ",
-      "omittedDetails": "Some admission labs are missing from the summary"
-    },
-    {
-      "text": "Discharge ",
-      "omittedDetails": "Some discharge labs are missing from the summary"
-    },
-    {
-      "text": "Imaging",
-      "omittedDetails": "Pigtail catheter is missing from the summary."
-    },
-    {
-      "text": "Hospital ",
-      "omittedDetails": "Some lab findings are missing from the summaryy"
-    },
-    {
-      "text": "ch",
-      "omittedDetails": "Discharge condition is missing from the summary"
     }
   ],
   "Incorrect Reasoning": [
@@ -305,15 +181,6 @@
     },
     {
       "text": "olanzapine didn't cause drowsiness, it made her very sleepy"
-    },
-    {
-      "text": "In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record"
-    },
-    {
-      "text": "Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record\t"
-    },
-    {
-      "text": "'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record\t"
     }
   ],
   "Chronological Inconsistency": []

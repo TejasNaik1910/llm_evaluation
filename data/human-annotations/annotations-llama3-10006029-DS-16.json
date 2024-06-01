@@ -1,0 +1,138 @@
+{
+  "Omitted Symptoms/Diagnosis": [
+    {
+      "text": "RCC",
+      "startOffset": 241,
+      "endOffset": 244,
+      "startWordIndex": 33,
+      "endWordIndex": 34,
+      "omittedDetails": "missing radical L nephrectomy"
+    },
+    {
+      "text": "Presented",
+      "startOffset": 436,
+      "endOffset": 445,
+      "startWordIndex": 55,
+      "endWordIndex": 56,
+      "omittedDetails": "missing nausea, poor PO intake"
+    },
+    {
+      "text": "cytology",
+      "startOffset": 911,
+      "endOffset": 919,
+      "startWordIndex": 116,
+      "endWordIndex": 117,
+      "omittedDetails": "missing findings"
+    },
+    {
+      "text": "RUQ US",
+      "startOffset": 970,
+      "endOffset": 976,
+      "startWordIndex": 126,
+      "endWordIndex": 128,
+      "omittedDetails": "missing impression"
+    },
+    {
+      "text": "CT torso",
+      "startOffset": 959,
+      "endOffset": 967,
+      "startWordIndex": 124,
+      "endWordIndex": 126,
+      "omittedDetails": "missing impression"
+    },
+    {
+      "text": "Diagnostic Tests",
+      "startOffset": 878,
+      "endOffset": 894,
+      "startWordIndex": 112,
+      "endWordIndex": 114,
+      "omittedDetails": "missing TTE and its finding"
+    },
+    {
+      "text": "History",
+      "startOffset": 194,
+      "endOffset": 201,
+      "startWordIndex": 27,
+      "endWordIndex": 28,
+      "omittedDetails": "missing details of past oncologic history"
+    },
+    {
+      "text": "Current Illness",
+      "startOffset": 414,
+      "endOffset": 429,
+      "startWordIndex": 53,
+      "endWordIndex": 55,
+      "omittedDetails": "missing depression,hypothyrodism,LUL pneumonia,macrocytic anemia"
+    },
+    {
+      "text": "not provided",
+      "startOffset": 1120,
+      "endOffset": 1132,
+      "startWordIndex": 147,
+      "endWordIndex": 149,
+      "omittedDetails": "TNM stage provided under past oncologic history section"
+    }
+  ],
+  "Omitted Other Inconsistency": [
+    {
+      "text": "Patient Information",
+      "startOffset": 43,
+      "endOffset": 62,
+      "startWordIndex": 8,
+      "endWordIndex": 10,
+      "omittedDetails": "missing family history"
+    },
+    {
+      "text": "**",
+      "startOffset": 63,
+      "endOffset": 65,
+      "startWordIndex": 10,
+      "endWordIndex": 10,
+      "omittedDetails": "missing admission and discharge physical exam"
+    },
+    {
+      "text": "Blood cultures",
+      "startOffset": 979,
+      "endOffset": 993,
+      "startWordIndex": 128,
+      "endWordIndex": 130,
+      "omittedDetails": "missing values"
+    },
+    {
+      "text": ":",
+      "startOffset": 894,
+      "endOffset": 895,
+      "startWordIndex": 114,
+      "endWordIndex": 114,
+      "omittedDetails": "missing admission labs"
+    }
+  ],
+  "Omitted Medicinal Instructions": [
+    {
+      "text": "Various medications",
+      "startOffset": 815,
+      "endOffset": 834,
+      "startWordIndex": 105,
+      "endWordIndex": 107,
+      "omittedDetails": "missing medication names and their doses"
+    },
+    {
+      "text": "for 2 weeks",
+      "startOffset": 701,
+      "endOffset": 712,
+      "startWordIndex": 91,
+      "endWordIndex": 94,
+      "omittedDetails": "patient started on IV antibiotics and need to continue for 2 weeks"
+    }
+  ],
+  "Omitted Followup": [
+    {
+      "text": "Discharge",
+      "startOffset": 1285,
+      "endOffset": 1294,
+      "startWordIndex": 169,
+      "endWordIndex": 170,
+      "omittedDetails": "missing discharge condition"
+    }
+  ]
+}

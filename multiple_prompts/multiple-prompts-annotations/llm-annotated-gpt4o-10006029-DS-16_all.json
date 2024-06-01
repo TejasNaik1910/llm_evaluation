@@ -1,0 +1,114 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "",
+            "omittedDetails": "Date of birth is redacted in the EHR note but should be mentioned in the summary as it constitutes part of the demographic information."
+        },
+        {
+            "text": "",
+            "omittedDetails": "Social History is completely missing from the summary. The EHR note contains a section on social history, which should be reflected in the summary for completeness."
+        },
+        {
+            "text": "",
+            "omittedDetails": "Family History is also absent from the summary. The EHR note contains pertinent family history of cancer which is important to document in the summary."
+        },
+        {
+            "text": "",
+            "omittedDetails": "Race and ethnicity are important demographic details that should be mentioned when available. Although not specified in the given EHR note, their absence in the summary should be noted if they exist in the complete EHR."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Incorrect statement in the summary's 'History of Present Illness': 'non-occlusive portal vein thrombus.' In the EHR Note, it is specified as 'nonocclusive main portal vein thrombus' which indicates a more specific tumor-related thrombus."
+        },
+        {
+            "text": "Incorrect statement in the summary's 'History of Present Illness': 'He presented to the ED with fever, jaundice, and confusion.' The EHR Note specifies additional symptoms such as restlessness, mild confusion, and chills."
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "ERCP details: 'Removal of the old stent and placement of a new stent over a 2cm malignant-appearing stricture in the distal common bile duct (CBD),' and 'EUS: Visualized a 1.8 x 1.1 cm ill-defined hypoechoic area around the distal CBD. Fine needle biopsy (FNB) was performed x3.'",
+            "omittedDetails": "ERCP detail omitted: 'The plastic stent was initially placed during his recent admission, and a metal stent was placed during the second ERCP due to rising bilirubin.' EUS detail omitted: 'The hypoechoic area around the distal CBD was not fully described in terms of its potential cause and the impact of FNB sampling x3.'"
+        },
+        {
+            "text": "Social and Family History not included in the summary.",
+            "omittedDetails": "Social History - unspecified; Family Medical History - colorectal cancer in mother, ___ cancer in sister (dx at age ___), liver cancer in brother, ___ cell leukemia in brother, and ___ in father."
+        },
+        {
+            "text": "Detailed oncological findings not fully provided.",
+            "omittedDetails": "Details regarding the multiple instances of partial response by RECIST 1.1 and the timeline of these responses showing a detailed improvement over time."
+        },
+        {
+            "text": "The full history of mild confusion, chills, and restlessness just before ED presentation.",
+            "omittedDetails": "Details about his symptoms worsening over the week leading to the ED visit, including nocturnal symptoms like chills, restlessness, and mild confusion."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [
+        {
+            "text": "Scheduled follow-up with the oncology team to discuss treatment options for the newly diagnosed adenocarcinoma."
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Scheduled follow-up with the oncology team to discuss treatment options for the newly diagnosed adenocarcinoma.",
+            "omittedDetails": "The EHR note mentions that the patient has a follow-up with the oncology team 'in a few days' to discuss treatment options. This is a more specific timeframe than what is mentioned in the summary. The summary should include this specific detail to ensure clear communication of follow-up instructions."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "Antibiotics: Initially treated with Unasyn for cholangitis and Streptococcus bacteremia, later switched to ceftriaxone and metronidazole for ease of dosing."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Physical exam findings and specific vital signs have been omitted from the summary.",
+            "omittedDetails": "ADMISSION EXAM: VITALS: T 97.6, HR 68, BP 115/76, RR 16, SpO2 98% on RA. EYES: Icteric sclera, PERRL. ENT: MMM, sublingual jaundice, OP clear. CV: NR/RR, no m/r/g. RESP: CTAB, no wheezes, crackles, or rhonchi. GI: Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. No HSM. MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. SKIN: Jaundiced. NEURO: Alert, oriented to hospital, city, date; able to recite the days of the week backwards, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs. PSYCH: pleasant, appropriate affect."
+        },
+        {
+            "text": "Detailed family history is not included in the summary.",
+            "omittedDetails": "Colorectal cancer - mother. ___ cancer - sister (dx at age ___. Liver cancer - brother. ___ cell leukemia - brother. ___ - father."
+        },
+        {
+            "text": "Specific lab results were omitted in the summary.",
+            "omittedDetails": "WBC 3.4, AST/ALT 71/97, AP 214, Tbili 7.6, lipase 148, lactate 1.4."
+        },
+        {
+            "text": "Specific imaging results, particularly those concerning RUQ ultrasound findings, were omitted or generalized in the summary.",
+            "omittedDetails": "Persistent mild left intrahepatic biliary dilation and persistent gallbladder sludge."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary accurately notes that the patient was initially treated with Unasyn for cholangitis and Streptococcus bacteremia and later switched to ceftriaxone and metronidazole for ease of dosing. However, it does not mention that the antibiotics switch was in part due to LFTs not improving and bilirubin continuing to rise, prompting a repeat ERCP with metal stent placement after which his LFTs improved."
+        },
+        {
+            "text": "The EHR note outlines that the patient presented to the ED with fever, jaundice, and confusion, but no fevers/chills since presenting to the hospital. The summary does not make this time sequence clear. This should be rectified to avoid any chronological inconsistencies."
+        },
+        {
+            "text": "The summary accurately states initial and subsequent ERCP interventions, but it fails to clarify that the imaging showed persistent left intrahepatic biliary dilation and gallbladder sludge despite the CBD stent, which was pivotal in the decision for repeated ERCP."
+        },
+        {
+            "text": "The summary states that blood cultures grew Streptococcus anginosus but it omits that the initial blood culture at another facility grew Strep spp., which was initially treated with Unasyn, a significant step in the patient\u2019s diagnosis and treatment timeline."
+        },
+        {
+            "text": "The summary mentions diagnostic tests and findings, including ERCP and EUS findings, but lacks the initial RUQ US details, which are essential in understanding the patient's ongoing biliary issues."
+        },
+        {
+            "text": "The summary accurately states the patient's conditions, diagnostic findings, and treatment plans but misinterprets the sequence and timing of the stent placement. The EHR note mentions that the patient initially received a plastic stent which was later replaced with a metal stent due to rising bilirubin levels. However, the summary does not clearly convey this progressive course of action. This misrepresentation of the sequence of interventions constitutes incorrect reasoning as it potentially alters the understanding of the patient's treatment course."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": ""
+        }
+    ]
+}

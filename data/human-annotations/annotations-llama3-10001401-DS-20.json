@@ -1,0 +1,213 @@
+{
+  "Omitted Symptoms/Diagnosis": [
+    {
+      "text": ":**",
+      "startOffset": 1209,
+      "endOffset": 1212,
+      "startWordIndex": 170,
+      "endWordIndex": 170,
+      "omittedDetails": "Some Surgical interventions are missing from the summary"
+    },
+    {
+      "text": ":**",
+      "startOffset": 578,
+      "endOffset": 581,
+      "startWordIndex": 83,
+      "endWordIndex": 83,
+      "omittedDetails": "All diagnosis in the Past medical history is missing from the summary"
+    },
+    {
+      "text": "os",
+      "startOffset": 941,
+      "endOffset": 943,
+      "startWordIndex": 135,
+      "endWordIndex": 135,
+      "omittedDetails": "The summary lacks all Imaging results (CT) which is mentioned in the patient record"
+    },
+    {
+      "text": "g",
+      "startOffset": 939,
+      "endOffset": 940,
+      "startWordIndex": 135,
+      "endWordIndex": 135,
+      "omittedDetails": "Some Diagnosis in the Brief Hospital Course are missing from the summary"
+    },
+    {
+      "text": "**",
+      "startOffset": 1397,
+      "endOffset": 1399,
+      "startWordIndex": 192,
+      "endWordIndex": 192,
+      "omittedDetails": "Discharge diagnosis is missing from the summary"
+    },
+    {
+      "text": "te",
+      "startOffset": 549,
+      "endOffset": 551,
+      "startWordIndex": 80,
+      "endWordIndex": 81,
+      "omittedDetails": "All diagnosis in the Past medical history is missing from the summary except bladder cancer"
+    },
+    {
+      "text": "no",
+      "startOffset": 547,
+      "endOffset": 549,
+      "startWordIndex": 80,
+      "endWordIndex": 80,
+      "omittedDetails": "All current (present) symptoms are missing from the summary"
+    },
+    {
+      "text": "Te",
+      "startOffset": 948,
+      "endOffset": 950,
+      "startWordIndex": 136,
+      "endWordIndex": 136,
+      "omittedDetails": "Mammogram is missing from the summary"
+    }
+  ],
+  "Omitted Other Inconsistency": [
+    {
+      "text": "*",
+      "startOffset": 555,
+      "endOffset": 556,
+      "startWordIndex": 81,
+      "endWordIndex": 81,
+      "omittedDetails": "Family History is missing from the summary"
+    },
+    {
+      "text": "*",
+      "startOffset": 954,
+      "endOffset": 955,
+      "startWordIndex": 137,
+      "endWordIndex": 137,
+      "omittedDetails": "On-admission physical exam is missing from the summary"
+    },
+    {
+      "text": "n",
+      "startOffset": 1207,
+      "endOffset": 1208,
+      "startWordIndex": 169,
+      "endWordIndex": 169,
+      "omittedDetails": "On-dischagre physical exam is missing from the summary"
+    },
+    {
+      "text": "sts",
+      "startOffset": 949,
+      "endOffset": 952,
+      "startWordIndex": 136,
+      "endWordIndex": 137,
+      "omittedDetails": "Pertinent results ( admission labs ) are missing from the summary"
+    },
+    {
+      "text": "ic ",
+      "startOffset": 944,
+      "endOffset": 947,
+      "startWordIndex": 135,
+      "endWordIndex": 136,
+      "omittedDetails": "Discharge labs are missing from the summary"
+    },
+    {
+      "text": "iag",
+      "startOffset": 1,
+      "endOffset": 4,
+      "startWordIndex": 0,
+      "endWordIndex": 1,
+      "omittedDetails": "Some labs and their findings in the Brief Hospital Course are missing from the summary"
+    },
+    {
+      "text": "ca",
+      "startOffset": 571,
+      "endOffset": 573,
+      "startWordIndex": 82,
+      "endWordIndex": 82,
+      "omittedDetails": "PICC line is missing from the summary"
+    },
+    {
+      "text": "ati",
+      "startOffset": 1400,
+      "endOffset": 1403,
+      "startWordIndex": 192,
+      "endWordIndex": 192,
+      "omittedDetails": "Discharge condition is missing from the summary"
+    },
+    {
+      "text": "es",
+      "startOffset": 1408,
+      "endOffset": 1410,
+      "startWordIndex": 193,
+      "endWordIndex": 193,
+      "omittedDetails": "Discharge instructions are missing from the summary"
+    },
+    {
+      "text": ".",
+      "startOffset": 551,
+      "endOffset": 552,
+      "startWordIndex": 81,
+      "endWordIndex": 81,
+      "omittedDetails": "Allergies are missing from the summary"
+    }
+  ],
+  "Omitted Medicinal Instructions": [
+    {
+      "text": "Di",
+      "startOffset": 936,
+      "endOffset": 938,
+      "startWordIndex": 135,
+      "endWordIndex": 135,
+      "omittedDetails": "Some Symptoms in the Brief Hospital Course are missing from the summary"
+    },
+    {
+      "text": "ag",
+      "startOffset": 938,
+      "endOffset": 940,
+      "startWordIndex": 135,
+      "endWordIndex": 135,
+      "omittedDetails": "Some Medications in the Brief Hospital Course are missing from the summary"
+    },
+    {
+      "text": "on",
+      "startOffset": 575,
+      "endOffset": 577,
+      "startWordIndex": 82,
+      "endWordIndex": 82,
+      "omittedDetails": "Medications on admission are missing from the summary"
+    }
+  ],
+  "Incorrect Reasoning": [
+    {
+      "text": "all medications are mentioned as they're given for a certain disease which is an overinterpretation as its not stated in the original patient record except Lorazepam and Milk of Magensia\t",
+      "startOffset": "",
+      "endOffset": "",
+      "startWordIndex": 0,
+      "endWordIndex": 0
+    }
+  ],
+  "Omitted Followup": [
+    {
+      "text": "tm",
+      "startOffset": 1423,
+      "endOffset": 1425,
+      "startWordIndex": 195,
+      "endWordIndex": 195,
+      "omittedDetails": "Ertapenem, Atorvastatin follow up instructions are missing from the summary"
+    },
+    {
+      "text": "re",
+      "startOffset": 1421,
+      "endOffset": 1423,
+      "startWordIndex": 195,
+      "endWordIndex": 195,
+      "omittedDetails": "Weekly follow-up Lab draws (CBC...) are missing from the summary"
+    }
+  ],
+  "Incorrect Other Inconsistency": [
+    {
+      "text": "improved ",
+      "startOffset": 1515,
+      "endOffset": 1524,
+      "startWordIndex": 209,
+      "endWordIndex": 210,
+      "omittedDetails": ""
+    }
+  ]
+}

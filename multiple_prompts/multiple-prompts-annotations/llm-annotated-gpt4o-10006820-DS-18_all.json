@@ -1,0 +1,72 @@
+{
+    "Incorrect Patient Information": [],
+    "Omitted Patient Information": [],
+    "Incorrect Patient History": [
+        {
+            "text": "presented with left lower extremity pain. During a routine cardiology appointment, he was found to have a deep vein thrombosis (DVT) in the left gastrocnemius vein via ultrasound."
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "He developed GI bleeding 6 weeks ago, leading to the discontinuation of dabigatran.",
+            "omittedDetails": "The patient experiences BRBPR along with some black/tarry stool, denied abdominal pain, constipation/straining, or NSAID use before the bleeding and underwent several procedures during hospitalization for GI bleeding, including EGD, colonoscopy, and a failed capsule endoscopy."
+        },
+        {
+            "text": "Despite treatment for hemorrhoids, the bleeding persisted, and he was hospitalized, receiving 4 units of packed red blood cells (PRBCs), an esophagogastroduodenoscopy (EGD), colonoscopy, and a failed capsule endoscopy.",
+            "omittedDetails": "Symptoms like bloody stools occurred once daily and the history of the patient's attempts to treat hemorrhoids, with no abdominal pain, constipation/straining, or NSAID use before the bleeding."
+        },
+        {
+            "text": "The patient noticed left lower extremity pain and swelling 6 days prior to this admission.",
+            "omittedDetails": "He had been active since the previous hospitalization with exercise including cardio and weights. He had no history of clots prior to this and denied a family history of VTE."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Omitted Followup": [
+        {
+            "text": "Appointments with PCP, cardiologist for IVC filter removal, hematologist for hypercoagulable workup, and gastroenterologist for further GI evaluation.",
+            "omittedDetails": "The summary did not mention the specific timing for the follow-up appointments, such as the IVC filter removal scheduled in 3 months from discharge, the PCP appointment to arrange hematology and GI referrals, and the cardiology appointment for filter retrieval scheduled in 1 month."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "He developed GI bleeding 6 weeks ago, leading to the discontinuation of dabigatran."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "History of Present Illness",
+            "omittedDetails": "During his recent hospitalization for a GI bleed, he did not receive heparin SQ or DVT prophylaxis, but he was ambulating multiple times daily."
+        },
+        {
+            "text": "Brief Hospital Course - Left Gastroc DVT",
+            "omittedDetails": "Our concern is that he may have an irreversible etiology for his DVT, such as a malignancy, especially in the setting of this GI bleed."
+        },
+        {
+            "text": "Discharge Plan - Medications",
+            "omittedDetails": "Information was obtained from Patient."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that 'he was hospitalized, receiving 4 units of packed red blood cells (PRBCs), an esophagogastroduodenoscopy (EGD), colonoscopy, and a failed capsule endoscopy' without clearly noting the chronological sequence of these events, which happened during a separate earlier hospitalization for GI bleeding. This can cause confusion about the timeline of events. The EHR NOTE clarifies that these procedures occurred during a previous hospitalization (4 days total), not during the current admission."
+        },
+        {
+            "text": "The summary mentions that the patient 'noticed left lower extremity pain and swelling 6 days prior to this admission,' which is correct, but misses to delineate that this observation was made after his previous hospitalization for GI bleeding."
+        },
+        {
+            "text": "In the 'Brief Hospital Course' section, the summary blends the present treatment plan with past events without clearly specifying the transitions. For example, while discussing the recent GI bleed, it does not mention explicitly that the 'dabigatran was discontinued during that admission (approximately two weeks prior to the current admission).' This omission can create a misunderstanding of the sequence of medical interventions."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary mentions 'leading to the discontinuation of dabigatran,' which correctly reflects the EHR note. However, it concludes without a logical step that the dabigatran discontinuation directly led to the DVT formation, which isn't explicitly stated in the EHR note."
+        },
+        {
+            "text": "The summary states 'The patient noticed left lower extremity pain and swelling 6 days prior to this admission.' Although this timeline matches the EHR note, it does not clarify that the DVT diagnosis was made at a routine cardiology appointment. The summary's implied reasoning that the DVT was immediately diagnosed following symptom onset does not align with the detailed sequence in the EHR."
+        }
+    ]
+}

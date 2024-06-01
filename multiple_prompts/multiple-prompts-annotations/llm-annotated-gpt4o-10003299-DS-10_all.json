@@ -1,0 +1,89 @@
+{
+    "Incorrect Patient Information": [],
+    "Omitted Patient Information": [
+        {
+            "text": "She was transferred for continuity of care after presenting with confusion and worsening left upper extremity (LUE) weakness.",
+            "omittedDetails": "The EHR note specifies that Ms. [Redacted] was transferred from a different facility for continuity of care. However, the specific details about her daughter being her HCP, daughter's observations about dementia, and history of increased confusion were omitted."
+        },
+        {
+            "text": "Episodes of confusion possibly due to dehydration, pain, and poor sleep.",
+            "omittedDetails": "The summary mentions potential causes of confusion but omits important details about the patient locking herself in the bathroom, leaving the stove on, possibly thinking of dementia, and the involvement of geriatrics. It also does not mention the administration of high-dose thiamine and folic acid."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "stage IIA squamous cell carcinoma of the lung"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "Gastric biopsy showed H. pylori.",
+            "omittedDetails": "The EHR notes mention that H. pylori was found in the gastric biopsy, but this detail isn't explicitly mentioned in the summary."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [
+        {
+            "text": "Specific follow-up for esophageal manometry and potential bisphosphonate therapy if osseous metastases are confirmed."
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Continue all medications and keep follow-up appointments.",
+            "omittedDetails": "The summary does not specify detailed follow-up instructions for various conditions listed in the EHR note. For example, it omits detailed follow-up instructions related to outpatient esophageal manometry to further work up her dysphagia/odynophagia and consideration for starting a bisphosphonate therapy if osseous metastases are confirmed."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "MRI brain not revealing metastases or new stroke",
+            "omittedDetails": "The detailed results of the MRI brain not showing any metastases or new stroke were omitted in the Summary."
+        },
+        {
+            "text": "Specific lab findings",
+            "omittedDetails": "Details of specific lab results, such as low platelet count, glucose, urea, and electrolyte levels."
+        },
+        {
+            "text": "Family history details",
+            "omittedDetails": "Family history of cancer and strokes involving multiple family members."
+        },
+        {
+            "text": "Consultations and specific management plans",
+            "omittedDetails": "Consulting geriatrics, recommendation for rehabilitation, and specific details on the goals of care discussions."
+        },
+        {
+            "text": "Opioid risks education",
+            "omittedDetails": "Discharge instructions about the education on opioid risks and treatment resources."
+        },
+        {
+            "text": "Other chronic/resolved issues",
+            "omittedDetails": "Specific mention of tobacco abuse and resolved nutritional issues."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The EHR_NOTE describes that 'Ms. ___ is a ___ w/ stage IIIA squamous cell carcinoma of lung, s/p completion of concurrent ___ ___, also w/ a h/o multiple strokes w/ residual left hemiparesis, HTN, DL, and prior colon cancer s/p hemicolectomy who is transferred from ___ for continuity of care.' The SUMMARY accurately reflects this information in the 'History of Present Illness' section, stating 'Ms. [Redacted] is a patient with stage IIIA squamous cell carcinoma of the lung, post completion of concurrent chemotherapy and radiation therapy. She has a history of multiple strokes with residual left hemiparesis, hypertension (HTN), dyslipidemia (DL), and prior colon cancer status post hemicolectomy. She was transferred for continuity of care after presenting with confusion and worsening left upper extremity (LUE) weakness. Imaging revealed bilateral scapular metastases but no new stroke.' There is no chronological inconsistency here, as the sequence of events is correctly presented: patient's completion of cancer treatment, her multiple strokes history, and the transfer for continuity of care after presenting with confusion and worsening weakness. Therefore, no hallucination is detected in this instance."
+        },
+        {
+            "text": "The EHR_NOTE details in its 'History of Present Illness' section that 'Dr ___, the oncology service resident, called me for signout. She presented there on ___ with subacute worsening of her chronic L-sided hemiparesis and confusion.' The SUMMARY captures this sequence in its 'History of Present Illness' by indicating 'She was transferred for continuity of care after presenting with confusion and worsening left upper extremity (LUE) weakness. Imaging revealed bilateral scapular metastases but no new stroke.' Although the exact dates are redacted, the order of events (presenting with confusion and worsening LUE weakness, and subsequent imaging findings) is preserved, indicating there is no chronological inconsistency."
+        },
+        {
+            "text": "In the EHR_NOTE, under 'Past Medical History,' it is mentioned that the patient 'was seen by neurology and her head CT and brain MRI did not reveal any new/acute stroke or other acute process.' The SUMMARY correctly reflects this in the 'History of Present Illness' and 'Hospital Course' sections without reversing the order. Thus, the progression from presenting symptoms (throat pain, confusion, worsening L hemiparesis) to the neurological work-up is consistent and not presented out of chronological order."
+        },
+        {
+            "text": "The EHR_NOTE lists 'Admission Date: ___ Discharge Date: ___' and details the patient\u2019s hospital journey including diagnostic tests, treatments, and final discharge plans. The SUMMARY mirrors this format, capturing diagnostic efforts (various CTs, MRIs, X-rays) and treatment plans (medication administration and nutritional support) in a coherent sequence. The final discharge condition and instructions in the SUMMARY match the natural hospitalized sequence confirmed in the EHR_NOTE. There\u2019s no indication events are out of order or misrepresented chronologically."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Her hospital course included management of odynophagia, failure to thrive, and a nonocclusive thrombus."
+        }
+    ]
+}

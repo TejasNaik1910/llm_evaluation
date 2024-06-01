@@ -27,6 +27,9 @@
   "Incorrect Symptoms/Diagnosis": [
     {
       "text": "stage IIIA"
+    },
+    {
+      "text": "normal left ventricular function"
     }
   ],
   "Omitted Symptoms/Diagnosis": [
@@ -125,6 +128,58 @@
     {
       "text": "evaluation",
       "omittedDetails": "Mammogram is missing from the summary"
+    },
+    {
+      "text": " pelvic pain",
+      "omittedDetails": "r/o endomitriosis"
+    },
+    {
+      "text": "peripancreatic fluid collections",
+      "omittedDetails": "argest discrete fluid collections as detailed above, 1 of which contains 3 drains extending into the stomach and enteric contrast material. Smaller rim enhancing fluid collections in the left upper quadrant of the abdomen are too small to drain. Superinfection of these collections is likely the source of the patient's fever."
+    },
+    {
+      "text": "splenic vein occlusion",
+      "omittedDetails": "Chronic"
+    },
+    {
+      "text": "compression ",
+      "omittedDetails": "Subacute"
+    },
+    {
+      "text": " and ",
+      "omittedDetails": "bibasilar atelectasis on the left greater than the right"
+    },
+    {
+      "text": "and",
+      "omittedDetails": "Elevated LV filling pressure"
+    },
+    {
+      "text": " borderline",
+      "omittedDetails": ""
+    },
+    {
+      "text": " reaction.",
+      "omittedDetails": ""
+    },
+    {
+      "text": " stent placement. ",
+      "omittedDetails": "4 double-pigtail stents were placed."
+    },
+    {
+      "text": " fluid aspiration ",
+      "omittedDetails": "4 liters of fluid"
+    },
+    {
+      "text": "Developed ",
+      "omittedDetails": "abdominal pain"
+    },
+    {
+      "text": " CT-guided drain placement. ",
+      "omittedDetails": "in the right flank fluid collection"
+    },
+    {
+      "text": "EUS drainage",
+      "omittedDetails": "removal of stents on"
     }
   ],
   "Incorrect Medicinal Instructions": [
@@ -204,6 +259,94 @@
     {
       "text": "up ",
       "omittedDetails": "Ertapenem, Atorvastatin follow up instructions are missing from the summary"
+    },
+    {
+      "text": "duloxetine,",
+      "omittedDetails": "60 mg PO DAILY"
+    },
+    {
+      "text": " insulin",
+      "omittedDetails": "SC Sliding Scale using REG Insulin"
+    },
+    {
+      "text": "pantoprazole",
+      "omittedDetails": "40 mg IV Q12H"
+    },
+    {
+      "text": "tamoxifen",
+      "omittedDetails": "20 mg PO DAILY"
+    },
+    {
+      "text": "nicotine patch,",
+      "omittedDetails": "14 mg TD DAILY"
+    },
+    {
+      "text": "multivitamins",
+      "omittedDetails": "1 TAB PO DAILY"
+    },
+    {
+      "text": "gemfibrozil",
+      "omittedDetails": "600 mg PO BID"
+    },
+    {
+      "text": "acetaminophen",
+      "omittedDetails": "650 mg PO Q6H:PRN pain"
+    },
+    {
+      "text": "hydromorphone",
+      "omittedDetails": "0.5-1 mg IV Q3H:PRN pain"
+    },
+    {
+      "text": "heparin.",
+      "omittedDetails": "5000 UNIT SC TID"
+    },
+    {
+      "text": "gabapentin",
+      "omittedDetails": "300 mg PO TID"
+    },
+    {
+      "text": "nicotine patch,",
+      "omittedDetails": "14 mg TD DAILY"
+    },
+    {
+      "text": "tamoxifen",
+      "omittedDetails": "20 mg PO DAILY"
+    },
+    {
+      "text": "acetaminophen",
+      "omittedDetails": "650 mg PO Q6H:PRN pain"
+    },
+    {
+      "text": "duloxetine,",
+      "omittedDetails": "60 mg PO DAILY"
+    },
+    {
+      "text": "heparin",
+      "omittedDetails": "5000 UNIT SC TID"
+    },
+    {
+      "text": "insulin",
+      "omittedDetails": "Insulin SC Sliding Scale using REG Insulin"
+    },
+    {
+      "text": "hydromorphone",
+      "omittedDetails": "mg PO Q3H:PRN pain"
+    },
+    {
+      "text": "morphine",
+      "omittedDetails": "15 mg PO Q8H"
+    },
+    {
+      "text": "pantoprazole",
+      "omittedDetails": "40 mg PO Q12H"
+    },
+    {
+      "text": "gemfibrozil",
+      "omittedDetails": "600 mg PO BID"
+    },
+    {
+      "text": " multivitamins.",
+      "omittedDetails": "1 TAB PO DAILY"
     }
   ],
   "Incorrect Followup": [
@@ -223,6 +366,14 @@
     {
       "text": "GI evaluation.",
       "omittedDetails": "to find the source of bleeding."
+    },
+    {
+      "text": "Discharge Instructions",
+      "omittedDetails": "Please get plenty of rest, continue to ambulate several times per day, and drink adequate amounts of fluids."
+    },
+    {
+      "text": "drain and ostomy care instructions",
+      "omittedDetails": "Please look at the site every day for signs of infection (increased redness or pain, swelling, odor, yellow or bloody discharge, warm to touch, fever). *If the drain is connected to a collection container, please note color, consistency, and amount of fluid in the drain. Call the doctor, ___, or ___ nurse if the amount increases significantly or changes in character. Be sure to empty the drain frequently. Record the output, if instructed to do so. *Drain will flushed by RNs daily with 10 cc of sterile NS. *Wash the area gently with warm, soapy water or ___ strength hydrogen peroxide followed by saline rinse, pat dry, and place a drain sponge. Change daily and as needed. *Keep the insertion site clean and dry otherwise. *Avoid swimming, baths, hot tubs; do not submerge yourself in water."
     }
   ],
   "Incorrect Other Inconsistency": [],
@@ -294,6 +445,30 @@
     {
       "text": "ch",
       "omittedDetails": "Discharge condition is missing from the summary"
+    },
+    {
+      "text": "elevated WBC",
+      "omittedDetails": "WBC-17.1"
+    },
+    {
+      "text": "low Hgb",
+      "omittedDetails": "Hgb-7.6"
+    },
+    {
+      "text": "Hct.",
+      "omittedDetails": "Hct-24.3"
+    },
+    {
+      "text": "Blood tests",
+      "omittedDetails": "MCV-85 MCH-26.5* MCHC-31.2 RDW-15.7* Plt ___ ___ 04:08AM BLOOD Neuts-78* Bands-0 Lymphs-3* Monos-15* Eos-1 Baso-1 ___ Metas-1* Myelos-1* ___ 06:45AM BLOOD Glucose-170* UreaN-10 Creat-0.7 Na-133 K-4.2 Cl-99 HCO3-24 AnGap-14 ___ 07:10AM BLOOD ALT-16 AST-16 AlkPhos-120* TotBili-0.2 ___ 06:45AM BLOOD Calcium-8.1* Phos-3.2 Mg-1.7"
+    },
+    {
+      "text": "**Pertinent Results:**",
+      "omittedDetails": "GRAM STAIN (Final ___: NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 3+ ___ per 1000X FIELD): BUDDING YEAST WITH PSEUDOHYPHAE."
+    },
+    {
+      "text": "cultures",
+      "omittedDetails": "ANAEROBIC CULTURE (Final ___: NO ANAEROBES ISOLATED"
     }
   ],
   "Incorrect Reasoning": [
@@ -314,6 +489,18 @@
     },
     {
       "text": "'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record\t"
+    },
+    {
+      "text": "WBC interpreted as elevated in summary while not interpreted in patient document"
+    },
+    {
+      "text": "HGB interpreted as low in summary while not interpreted in patient document"
+    },
+    {
+      "text": "HGB interpreted as low in summary while not interpreted in patient document"
+    },
+    {
+      "text": "In summary :needs oncology follow up for pulmonary nodule, in medical record its mentioned that the patient doesn't have history of a nodule"
     }
   ],
   "Chronological Inconsistency": []

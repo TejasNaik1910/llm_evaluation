@@ -1,0 +1,50 @@
+{
+    "Incorrect Patient Information": [],
+    "Omitted Patient Information": [
+        {
+            "text": "None listed",
+            "omittedDetails": "missing allergy information"
+        }
+    ],
+    "Incorrect Patient History": [],
+    "Omitted Patient History": [
+        {
+            "text": "Currently on an experimental chemotherapy trial with sunitinib",
+            "omittedDetails": "sunitinib dosage adjustments"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Fatigue",
+            "omittedDetails": "Additional symptoms: fever, jaundice, chills, restlessness, mild confusion"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Take glargine 16 units at bedtime",
+            "omittedDetails": "Glargine 16 units at bedtime if FSBG is <170, 18 units if FSBG is >170"
+        },
+        {
+            "text": "ERCP interventions",
+            "omittedDetails": "Timeline of ERCP plastic followed by metal stent placement"
+        }
+    ],
+    "Incorrect Followup": [],
+    "Omitted Followup": [
+        {
+            "text": "Follow up with oncology for treatment options",
+            "omittedDetails": "Specific follow-up instructions and timeline with oncology"
+        }
+    ],
+    "Incorrect Other Inconsistency": [],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Gi",
+            "omittedDetails": "Specific imaging results detailing liver function and stent placements"
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

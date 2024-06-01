@@ -1,0 +1,82 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "No inaccuracies detected in the patient information."
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "The patient's exact date of birth is omitted in both the summary and the EHR note.",
+            "omittedDetails": "Patient's Date of Birth"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Developed fever and persistent fluid collections, requiring repeat EUS drainage and CT-guided drain placement."
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "Fluid cultures indicated Candida albicans.",
+            "omittedDetails": "Fluid culture from the drain placed in the right fluid collection grew Candida albicans."
+        },
+        {
+            "text": "Imaging (MRCP, CT ABD) revealed multiple peripancreatic fluid collections, splenic vein occlusion, left pleural effusion, and T11 vertebral body compression fracture.",
+            "omittedDetails": "MRCP and CT ABD also showed hepatic steatosis and bilateral atelectasis, with the left being more affected than the right."
+        },
+        {
+            "text": "ECHO showed normal left ventricular function, borderline right ventricular function, moderate mitral regurgitation, and mild pulmonary hypertension.",
+            "omittedDetails": "ECHO showed normal global and regional left ventricular systolic dysfunction, but the summary should mention borderline right ventricular systolic function, moderate functional mitral regurgitation, and elevated LV filling pressure."
+        },
+        {
+            "text": "Needs oncology follow-up for pulmonary nodule.",
+            "omittedDetails": "Summary omits that there was noted moderate height loss of T11."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "The summary does not mention the detailed follow-up instructions provided for drain care, which is an important part of the patient's ongoing management.",
+            "omittedDetails": "The EHR note provides specific instructions for drain care, including daily site inspection for signs of infection, noting the color, consistency, and amount of fluid in the drain, emptying the drain frequently, flushing the drain with 10 cc of sterile NS daily, washing the area gently with warm, soapy water or hydrogen peroxide followed by a saline rinse, keeping the site clean and dry, avoiding submerging in water, and securely attaching the drain to the body. These detailed instructions are crucial for preventing infection and proper drain management but are missing in the summary."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "The patient developed fever post-EUS, treated with Vancomycin and Zosyn."
+        },
+        {
+            "text": "Blood tests showed elevated WBC, low Hgb, and Hct. Fluid cultures indicated Candida albicans."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Discharge Summary section should include that Vanc and Zosyn were continued after the fever developed post-EUS and then stopped again later.",
+            "omittedDetails": "#PNEUMONIA: The patient developed fever to 102 on ___ following the EUS.  Although concerning for abdominal source CXR with pneumonia (and patient with cough x 3 days).  Vanc/Zosyn started to cover HCAP and abdominal infection to be completed ___, but these were resumed on ___ given ongoing infectious concerns."
+        },
+        {
+            "text": "Brief Hospital Course section should include specific reasons for stopping Vanc and Zosyn, and the details of the patient's continued clinical follow-up by Infectious Diseases.",
+            "omittedDetails": "ID: The patient's white blood count was monitored and continued to trend downward throughout her hospital course. The infectious disease service continued to follow. Vanc and Zosyn were discontinued on ___ per their recommendations after cyst cultures were positive only for budding yeast. On ___ her Micafungin was also discontinued due to the continued decreasing white blood cell count and the fact that her drain was putting out minimal purulent drainage. The patient remained afebrile with mild elevated WBC prior discharge. WBC will be continued to follow as outpatient. ID was contacted prior patient discharge, and ID agreed with the plan to discharge without antibiotics treatment. PICC line was removed prior discharge."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary contains a chronological inconsistency regarding the patient's history and admission details. In the EHR Note's History of Present Illness section, it's stated that the patient was treated conservatively with bowel rest, IV dilaudid, and started on TPN before being transferred for EUS-guided drainage due to the development of abdominal pain. However, in the summary's History of Present Illness, it states that the development of abdominal pain led to the transfer for EUS-guided drainage without mentioning the conservative treatment that occurred prior to this transfer. This suggests a mix-up in the patient's treatment timeline."
+        },
+        {
+            "text": "The brief hospital course in the summary also exhibits a chronological inconsistency. The EHR Note explains that the patient underwent an initial EUS-guided cyst gastrostomy, followed by a period of abdominal pain and fever, then requiring a repeat EUS drainage and CT-guided drainage catheter placement. However, the summary does not clearly follow this timeline, as it mentions the patient's fever and fluid collections while discussing the management of the pancreatic pseudocyst without a clear chronological sequence of these events. The summary alternatively highlights different treatment responses without indicating the progression from initial to subsequent treatments."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Negative Example Explanation 1: Hallucination not detected. The summary accurately reflects the patient's history and treatment as described in the EHR. It correctly states the patient's conditions (alcoholic hepatitis and pancreatitis), the surgical procedure (endoscopic ultrasound-guided drainage of a pseudocyst), subsequent complications (fever and possible candidal infection), and the treatment received (Micafungin). The discharge instructions to resume regular medications, ambulate, and follow up with the surgeon and primary care provider are also consistent with the EHR. There is no incorrect reasoning present, as the summary provides a clear, factual account based on the provided medical information without any speculative or inaccurate conclusions."
+        }
+    ]
+}

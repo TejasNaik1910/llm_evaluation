@@ -60,13 +60,14 @@ def merge_responses(all_responses):
     return merged_output
 
 # List of note IDs
-note_ids = ["10001401-DS-20"]
+note_ids = ["10001401-DS-20", "10003299-DS-10", "10006029-DS-16", "10006431-DS-24", "10006820-DS-18", "10007795-DS-13"]
 
 # Process each note_id
 for note_id in note_ids:
     # Load the EHR note and summary content based on note_id
     ehr_note_file = f'data/notes/oncology-report-{note_id}.txt'
-    summary_file = f'data/summaries/gpt4o-doc-{note_id}.txt'
+    summary_file = f'data/summaries/gpt4o-doc-{note_id}.txt'    #need to change summary file for Ilama
+    # summary_file = f'data/summaries/llama3-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()
@@ -127,6 +128,7 @@ for note_id in note_ids:
     final_output = merge_responses(all_responses)
     
     # Save the final output to a single JSON file after processing all guidelines
-    output_file = f'multiple_prompts/llm-annotated-gpt4o-{note_id}_all.json'
+    output_file = f'multiple_prompts/multiple-prompts-annotations/llm-annotated-gpt4o-{note_id}_all.json'  #need to change output file for Ilama
+    # output_file = f'multiple_prompts/multiple-prompts-annotations/llm-annotated-llama3-{note_id}_all.json'
     with open(output_file, 'w') as file:
         json.dump(final_output, file, indent=4)

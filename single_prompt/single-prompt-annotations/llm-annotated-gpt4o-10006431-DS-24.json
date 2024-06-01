@@ -1,0 +1,25 @@
+{
+    "Incorrect Patient Information": [],
+    "Omitted Patient Information": [],
+    "Incorrect Patient History": [],
+    "Omitted Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "CT a/p reportedly showed 'large infiltrative pancreatic head tumor along with tumor infiltrate and/or pancreatitis in the lesser sac and about the celiac axis'.",
+            "omittedDetails": "Detailed description of imaging results, including the involvement of lesser sac and celiac axis, the attenuation of the portal vein and splenic vein due to tumor, and significant stool in the right colon."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "RX *magnesium citrate  300 ml by mouth q3 days Refills:*0"
+        }
+    ],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Omitted Followup": [],
+    "Incorrect Other Inconsistency": [],
+    "Omitted Other Inconsistency": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

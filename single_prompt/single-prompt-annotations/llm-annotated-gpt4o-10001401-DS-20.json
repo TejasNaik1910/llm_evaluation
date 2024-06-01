@@ -1,0 +1,79 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "Negative for bladder CA.",
+            "omittedDetails": "Family history is mentioned as negative for bladder CA in the EHR note but it is omitted in the summary."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "s/p lap chole, s/p left knee replacement, s/p laminectomy of L5-S1 at age ___, bladder cancer diagnosed in ___, then ___ pelvic MRI w/invasion into bladder wall, perivesical soft tissue and anterior vaginal wall c/w T4 staging",
+            "omittedDetails": "The history of bladder cancer chronology, specific procedures such as the lap chole, left knee replacement, and L5-S1 laminectomy with timeline, are omitted in the summary."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "denies diarrhea, BRBPR, rash, cough, headache, neck stiffness",
+            "omittedDetails": "The patient's denial of several symptoms related to their condition is not included in the summary."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Ertapenem Sodium 1 g IV 1X Duration: 1 Dose",
+            "omittedDetails": "The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "[ ] Will need ongoing discussion with outpatient PCP and hem/onc regarding how to manage new breast lesion and lung/peritoneum lesions, Reevaluate need for atorvastatin",
+            "omittedDetails": "The follow-up instructions for ongoing discussion with PCP and hem/onc regarding the management of new breast and lung/peritoneum lesions are omitted."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "",
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Blood cultures x3 pending, FINAL FLUID CULTURE: NO GROWTH, ANAEROBIC CULTURE (Preliminary): NO GROWTH.",
+            "omittedDetails": "The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": ""
+        }
+    ]
+}

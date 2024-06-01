@@ -1,0 +1,39 @@
+{
+    "Incorrect Patient Information": [],
+    "Omitted Patient Information": [],
+    "Incorrect Patient History": [],
+    "Omitted Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "CT Fluoroscopy-Guided Drainage Catheter Exchange: Upsize from 14 to 20 chest tube"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "CT fluoroscopy-guided upsize and exchange over the wire of a previously placed 14 ___ with a 20 ___ chest tube drainage catheter",
+            "omittedDetails": "exchange over the wire of a previously placed 14 ___ with a 20 ___ chest tube drainage catheter"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Omitted Followup": [
+        {
+            "text": "Please follow-up with your surgeon and Primary Care Provider (PCP) as advised.",
+            "omittedDetails": "NEEDS ONC F/U FOR OSH PULM NODULE"
+        }
+    ],
+    "Incorrect Other Inconsistency": [],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Blood tests showed elevated WBC, low Hgb, and Hct. Fluid cultures indicated Candida albicans. Imaging (MRCP, CT ABD) revealed multiple peripancreatic fluid collections, splenic vein occlusion, left pleural effusion, and T11 vertebral body compression fracture. ECHO showed normal left ventricular function, borderline right ventricular function, moderate mitral regurgitation, and mild pulmonary hypertension.",
+            "omittedDetails": "Superinfection of these collections is likely the source of the patient's fever."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Pneumonia: Developed fever post-EUS"
+        }
+    ],
+    "Chronological Inconsistency": []
+}

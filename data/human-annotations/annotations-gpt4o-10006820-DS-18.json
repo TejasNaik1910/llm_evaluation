@@ -1,0 +1,59 @@
+{
+  "Omitted Symptoms/Diagnosis": [
+    {
+      "text": "DVT",
+      "startWordIndex": 401,
+      "endWordIndex": 402,
+      "omittedDetails": "Ruptured ___ cyst."
+    },
+    {
+      "text": "esophagogastroduodenoscopy (EGD), colonoscopy,",
+      "startWordIndex": 149,
+      "endWordIndex": 152,
+      "omittedDetails": "showed mild distal esophagitis, hiatal hernia, single tiny possible early ___ lesion and friability of the duodenal bulb"
+    },
+    {
+      "text": "Recent GI Bleed:",
+      "startWordIndex": 446,
+      "endWordIndex": 449,
+      "omittedDetails": "His last bloody bowel movement was 4 days prior to admission"
+    }
+  ],
+  "Incorrect Reasoning": [
+    {
+      "text": "In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record",
+      "startWordIndex": 0,
+      "endWordIndex": 0
+    }
+  ],
+  "Omitted Medicinal Instructions": [
+    {
+      "text": "dabigatran.",
+      "startWordIndex": 127,
+      "endWordIndex": 128,
+      "omittedDetails": "discontinued during that admission (approximately two weeks prior to current admission"
+    },
+    {
+      "text": "iron.",
+      "startWordIndex": 470,
+      "endWordIndex": 471,
+      "omittedDetails": "iron at his prior hospitalization and that was continued."
+    }
+  ],
+  "Omitted Other Inconsistency": [
+    {
+      "text": "Follow-up",
+      "startWordIndex": 564,
+      "endWordIndex": 566,
+      "omittedDetails": "will need cancer screening given possibly unprovoked DVT."
+    }
+  ],
+  "Omitted Followup": [
+    {
+      "text": "GI evaluation.",
+      "startWordIndex": 526,
+      "endWordIndex": 528,
+      "omittedDetails": "to find the source of bleeding."
+    }
+  ]
+}

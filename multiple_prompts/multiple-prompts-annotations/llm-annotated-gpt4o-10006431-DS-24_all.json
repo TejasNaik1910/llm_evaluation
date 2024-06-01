@@ -1,0 +1,81 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "No incorrect patient information details detected."
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "The patient's adherence to DNR/DNI status is missing from the summary.",
+            "omittedDetails": "DNR/DNI status of the patient is not mentioned in the summary, while it is explicitly stated in the EHR note."
+        },
+        {
+            "text": "Patient's use of American Sign Language (ASL) for communication is not indicated in the summary.",
+            "omittedDetails": "The EHR note mentions that the patient uses ASL and her son assisted in communication, but this detail is omitted from the summary."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Diagnostic tests in the ED revealed elevated lipase (2800), and a CT scan showed a large infiltrative pancreatic head tumor with associated pancreatitis and liver metastases."
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "Initial treatment included olanzapine for nausea, which caused drowsiness.",
+            "omittedDetails": "The EHR specifies that the olanzapine was prescribed due to worsening nausea on a specific date, which led to significant drowsiness and subsequently poor oral intake with emesis. These details about the medication's side effects and their progression are crucial but omitted in the summary."
+        },
+        {
+            "text": "The patient, a [Redacted]-year-old woman with metastatic pancreatic cancer, was admitted due to progressive epigastric abdominal pain over one week. She is deaf and uses ASL, with her son assisting in communication.",
+            "omittedDetails": "The summary omits additional symptoms such as nausea, dry heaves, poor oral intake, and emesis. It also omits her pain score reaching up to 10, and the use of home medications like oxycodone and tramadol that provided minimal relief."
+        },
+        {
+            "text": "The patient, a [Redacted]-year-old woman with metastatic pancreatic cancer, was admitted due to progressive epigastric abdominal pain over one week.",
+            "omittedDetails": "The summary omits that the patient's pancreatic head tumor was identified in the initial CT scan and that subsequent scans showed liver metastases during later interventions."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [
+        {
+            "text": "Follow up with oncology and palliative care."
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Follow up with oncology and palliative care.",
+            "omittedDetails": "Additionally, the SUMMARY omitted \"f/u w/ palliative care being arranged\" and \"chemo on hold for this week\" from the EHR Note."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "The summary states that the patient's lipase level was 293, while the EHR note shows multiple instances of lipase levels: 2800 in the initial ED, 508 in the initial labs at the second ED, and 293 in a subsequent blood test."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "The summary includes the discharge medications but omits some details related to them.",
+            "omittedDetails": "The specific dosages, administration instructions for some medications, and the lack of refills for each discharge medication are omitted. For example, 'Ondansetron ODT ___ mg PO Q8H:PRN nausea' is listed but the dosage is not specified."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient was initially treated with neoadjuvant chemotherapy and planned for a Whipple procedure, which was aborted due to liver metastases. This implies a past sequence of events accurately matching the EHR. Therefore, no chronological inconsistency here."
+        },
+        {
+            "text": "The summary accurately states that the patient's current treatment of palliative gemcitabine was paused until the patient regains strength, as noted in the EHR. This reflects the current treatment status without any chronological inconsistency."
+        },
+        {
+            "text": "The EHR notes that the celiac plexus neurolysis procedure was performed recently to manage pain. The summary mentions this procedure without altering its place in the patient's timeline, maintaining chronological consistency."
+        },
+        {
+            "text": "The EHR documents the patient's presenting symptoms as beginning after a course of chemotherapy, with progressive pain and associated nausea, supporting findings in the ED such as elevated lipase levels. The summary mirrors this sequence of events accurately, reinforcing the consistency."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states 'Discharge Instructions: You were admitted because of worsening abdominal pain,' whereas the EHR note does not explicitly link this to the immediate reason for admission but describes progressive epigastric abdominal pain over one week as part of an ongoing issue related to metastatic pancreatic cancer. This interpretation suggests a potential inconsistency in the immediate cause of the admission."
+        }
+    ]
+}

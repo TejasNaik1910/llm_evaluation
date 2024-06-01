@@ -1,0 +1,80 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "The SUMMARY correctly mentions the patient's demographic information, matching the EHR_NOTE."
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "The SUMMARY omits specific age-related information of the patient, which could be inferred from phrases like 'Ms.' and '___ year old woman' in the EHR_NOTE.",
+            "omittedDetails": "The patient\u2019s exact age is omitted. The EHR_NOTE repeatedly makes reference to 'Ms.' and mentions '___ year old woman,' signifying the presence of some age-related information which is absent in the summary."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Summary states 'underwent TAH/BSO, radical cystectomy with ileal conduit, complicated by intra-abdominal infection and pelvic fluid collection.' The correct sequence is 'TAH/BSO, radical cystectomy, ileal conduit, intra-abdominal infection, and pelvic fluid collection,' indicating two separate procedures: 'radical cystectomy' and 'TAH/BSO.'"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "Bladder cancer (high-grade TCC, T1, then T4 staging)",
+            "omittedDetails": "High-grade invasive urothelial carcinoma pT2b"
+        },
+        {
+            "text": "Chronic issues: Invasive high-grade urothelial carcinoma with no current plan for chemo/radiation.",
+            "omittedDetails": "PET scan shows concerning foci of metastatic disease in the lung and peritoneum, ongoing discussion with outpatient hem/onc regarding management."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Omitted Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Followup": [
+        {
+            "text": "Repeat CT scan before ID appointment."
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Weekly lab draws and follow-up appointments as specified.",
+            "omittedDetails": "The summary mentions the need for weekly lab draws and follow-up appointments, but does not specify the exact labs to be drawn such as CBC with differential, BUN, Cr, AST, ALT, TB, and ALK PHOS. It also does not mention that lab requests should be annotated with attention to a specific clinic and fax number."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "The summary incorrectly states that 'Transitioned to IV ertapenem for 4 weeks' under the 'Pelvic Fluid Collections' section."
+        },
+        {
+            "text": "The summary incorrectly states 'Repeat CT scan before ID appointment' under 'Discharge Instructions'."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "The summary omits the detail of 'Dr. ___ (son, ___ physician)' under 'Chronic Issues: HCP'.",
+            "omittedDetails": "Dr. ___ (son, ___ physician)"
+        },
+        {
+            "text": "The summary omits the specifics of the fluid collection findings: 'Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid' under 'Pelvic Fluid Collections' in the 'Brief Hospital Course' section.",
+            "omittedDetails": "Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary notes that the patient's condition related to pelvic fluid collections was managed with drain placement and repositioning, with cultures negative for infection, and that the patient was transitioned to IV ertapenem for 4 weeks. The EHR Note specifies that the patient arrived with one anterior drain putting out serosanguinous fluid, had a new drain placed due to an enlarging left fluid collection, and that the new drain's fluid showed no evidence of infection. However, it also mentions that she was initially started on a broader spectrum of antibiotics (zosyn and vancomycin) which were later tapered to intravenous zosyn and then transitioned to ertapenem. This discrepancy in the timeline and detailed antibiotic management creates a chronological inconsistency in the summary."
+        },
+        {
+            "text": "The summary describes the patient's 'acute renal injury' as having resolved during the hospital stay. The EHR Note indicates that the patient's creatinine level improved from 1.1 to 0.8 during the hospital stay, suggesting improvement rather than full resolution. This oversimplification and finality presented in the summary cause a chronological inconsistency."
+        },
+        {
+            "text": "The summary mentions that 'severe bilateral hydronephrosis' was stable with 'no immediate intervention required,' but there is no mention of the consideration of percutaneous nephrostomy tubes as discussed in the EHR Note. The EHR Note details the team's decision-making process regarding the possible intervention due to persistent severe hydronephrosis, which is not accurately reflected in the summary and thus represents a chronological inconsistency."
+        },
+        {
+            "text": "While the summary correctly states the discharge diagnosis of pelvic fluid collection infection and acute blood loss anemia, the reasoning behind the IV ertapenem treatment for 4 weeks is not fully correct. The EHR note indicates that the specific duration of IV ertapenem therapy is to be determined based on outpatient follow-up and repeat imaging results, which means the exact length of treatment is flexible and not definitively set for 4 weeks. Therefore, stating an exact duration of 4 weeks is speculative and reflects incorrect reasoning."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "No chronological inconsistency detected."
+        }
+    ]
+}

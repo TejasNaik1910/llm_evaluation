@@ -109,22 +109,6 @@
     {
       "text": "Cancer",
       "omittedDetails": "missing details of past oncologic history and TNM stage"
-    },
-    {
-      "text": "Imaging",
-      "omittedDetails": "Superimposed infection is not mentioned in the summary"
-    },
-    {
-      "text": ":*",
-      "omittedDetails": "Some Imaging findings are missing from the summary"
-    },
-    {
-      "text": "Brief ",
-      "omittedDetails": "Some Diseases in the brief hospital course are missing from the summary"
-    },
-    {
-      "text": "evaluation",
-      "omittedDetails": "Mammogram is missing from the summary"
     }
   ],
   "Incorrect Medicinal Instructions": [
@@ -192,18 +176,6 @@
     {
       "text": "Medications",
       "omittedDetails": "missing medications on admission and their doses"
-    },
-    {
-      "text": "Medications ",
-      "omittedDetails": "All admission medications are lacking doses, frequencies and durations"
-    },
-    {
-      "text": "Discharge ",
-      "omittedDetails": "All discharge medications are lacking doses, frequencies and durations"
-    },
-    {
-      "text": "up ",
-      "omittedDetails": "Ertapenem, Atorvastatin follow up instructions are missing from the summary"
     }
   ],
   "Incorrect Followup": [
@@ -266,34 +238,6 @@
     {
       "text": "Patient Information",
       "omittedDetails": "missing family history"
-    },
-    {
-      "text": "Discharge",
-      "omittedDetails": "Some On-Discharge Physical exam findings are missing from the summary"
-    },
-    {
-      "text": "Admission",
-      "omittedDetails": "Some On-Admission Physical exam findings are missing from the summary"
-    },
-    {
-      "text": "Admission ",
-      "omittedDetails": "Some admission labs are missing from the summary"
-    },
-    {
-      "text": "Discharge ",
-      "omittedDetails": "Some discharge labs are missing from the summary"
-    },
-    {
-      "text": "Imaging",
-      "omittedDetails": "Pigtail catheter is missing from the summary."
-    },
-    {
-      "text": "Hospital ",
-      "omittedDetails": "Some lab findings are missing from the summaryy"
-    },
-    {
-      "text": "ch",
-      "omittedDetails": "Discharge condition is missing from the summary"
     }
   ],
   "Incorrect Reasoning": [
@@ -308,12 +252,6 @@
     },
     {
       "text": "In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record"
-    },
-    {
-      "text": "Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record\t"
-    },
-    {
-      "text": "'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record\t"
     }
   ],
   "Chronological Inconsistency": []

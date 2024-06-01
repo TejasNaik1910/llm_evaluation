@@ -39,13 +39,14 @@ def extract_json(response):
     return json_str if json_str else None
 
 # List of note IDs
-note_ids = ["10001401-DS-20"]
+note_ids = ["10001401-DS-20", "10003299-DS-10", "10006029-DS-16", "10006431-DS-24", "10006820-DS-18", "10007795-DS-13"]
 
 # Process each note_id
 for note_id in note_ids:
     # Load the EHR note and summary content based on note_id
     ehr_note_file = f'data/notes/oncology-report-{note_id}.txt'
-    summary_file = f'data/summaries/gpt4o-doc-{note_id}.txt'
+    summary_file = f'data/summaries/gpt4o-doc-{note_id}.txt'    #need to change summary file for Ilama
+    # summary_file = f'data/summaries/llama3-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()
@@ -96,7 +97,8 @@ for note_id in note_ids:
         try:
             response_dict = json.loads(json_content)
             # Save the response
-            output_file = f'single_prompt/llm-annotated-gpt4o-{note_id}.json'
+            output_file = f'single_prompt/single-prompt-annotations/llm-annotated-gpt4o-{note_id}.json' #need to change output file for Ilama
+            # output_file = f'single_prompt/single-prompt-annotations/llm-annotated-llama3-{note_id}.json'
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)
             print("Done")

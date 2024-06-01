@@ -1,0 +1,88 @@
+{
+  "Omitted Other Inconsistency": [
+    {
+      "text": "Findings",
+      "startOffset": 1033,
+      "endOffset": 1041,
+      "startWordIndex": 135,
+      "endWordIndex": 136,
+      "omittedDetails": "missing admission and discharge physical exams"
+    },
+    {
+      "text": "Tests",
+      "startOffset": 1023,
+      "endOffset": 1028,
+      "startWordIndex": 133,
+      "endWordIndex": 134,
+      "omittedDetails": "missing admission labs"
+    },
+    {
+      "text": "Blood Cultures",
+      "startOffset": 1713,
+      "endOffset": 1727,
+      "startWordIndex": 239,
+      "endWordIndex": 241,
+      "omittedDetails": "missing rest of values"
+    },
+    {
+      "text": "Patient Information",
+      "startOffset": 25,
+      "endOffset": 44,
+      "startWordIndex": 2,
+      "endWordIndex": 4,
+      "omittedDetails": "missing family history"
+    }
+  ],
+  "Omitted Symptoms/Diagnosis": [
+    {
+      "text": "CT torso",
+      "startOffset": 1152,
+      "endOffset": 1160,
+      "startWordIndex": 148,
+      "endWordIndex": 150,
+      "omittedDetails": "missing rest of the impression"
+    },
+    {
+      "text": "Mr",
+      "startOffset": 415,
+      "endOffset": 417,
+      "startWordIndex": 43,
+      "endWordIndex": 44,
+      "omittedDetails": "patient complaining of nausea and poor PO intake"
+    },
+    {
+      "text": "Illness",
+      "startOffset": 404,
+      "endOffset": 411,
+      "startWordIndex": 42,
+      "endWordIndex": 43,
+      "omittedDetails": "missing microcytic anemia,LUL pneumonia,hypothyrodism,depression and anxiety"
+    },
+    {
+      "text": "history of",
+      "startOffset": 447,
+      "endOffset": 457,
+      "startWordIndex": 50,
+      "endWordIndex": 52,
+      "omittedDetails": "missing hyperlipidemia"
+    },
+    {
+      "text": "Cancer",
+      "startOffset": 1886,
+      "endOffset": 1892,
+      "startWordIndex": 260,
+      "endWordIndex": 261,
+      "omittedDetails": "missing details of past oncologic history and TNM stage"
+    }
+  ],
+  "Omitted Medicinal Instructions": [
+    {
+      "text": "Medications",
+      "startOffset": 2727,
+      "endOffset": 2738,
+      "startWordIndex": 367,
+      "endWordIndex": 368,
+      "omittedDetails": "missing medications on admission and their doses"
+    }
+  ]
+}
