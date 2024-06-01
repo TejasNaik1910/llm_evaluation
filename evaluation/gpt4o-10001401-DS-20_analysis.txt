@@ -1,10 +1,59 @@
 COMPARISON OF HUMAN ANNOTATION WITH LLM MULTIPLE PROMPT DETECTION:
 
+
+CATEGORY: Incorrect Patient Information
+Human: 
+Text All: 
+N-gram Overlap (Human vs All): 0.0
+
+
+CATEGORY: Omitted Patient Information
+Human: 
+Omitted All: The summary does not mention the patient's race, ethnicity, or address. Although these details are not provided in the EHR note and their omission in the summary is therefore not strictly a hallucination, including such details when they are available can help provide a more complete demographic profile of the patient.
+Similarity Score (Human vs All): 0.0
+
+
+CATEGORY: Incorrect Patient History
+Human: 
+Text All: Bladder cancer (high-grade TCC, T1, then T4 staging)
+N-gram Overlap (Human vs All): 0.0
+
+
+CATEGORY: Omitted Patient History
+Human: 
+Omitted All: Disclosure about high-grade invasive urothelial carcinoma being at pT2b should be mentioned, and its full complications like bacteremia.
+Similarity Score (Human vs All): 0.0
+
+
+CATEGORY: Incorrect Symptoms/Diagnosis
+
 CATEGORY: Omitted Symptoms/Diagnosis
-Human annotation is present but Multiple_prompt annotation is missing for this category.
+
+CATEGORY: Incorrect Medicinal Instructions
 
 CATEGORY: Omitted Medicinal Instructions
-Human annotation is present but Multiple_prompt annotation is missing for this category.
+
+CATEGORY: Incorrect Followup
+
+CATEGORY: Omitted Followup
+Human: 
+Omitted All: Infectious disease follow-up is conditional upon the patient not being contacted by the ID doctor by a given date. The patient is advised to call a specified number if the infectious disease doctor has not contacted her. Additionally, the ID appointment should be scheduled after a repeat CT abdomen/pelvis scan has been done.
+Similarity Score (Human vs All): 0.0
+
+Human: 
+Omitted All: For her lung and breast lesions, the patient is advised to continue seeing the doctors that are managing these conditions. There's a need for ongoing discussion with outpatient PCP and hem/onc regarding managing the new breast lesion and concerning foci of metastatic disease in the lung and peritoneum.
+Similarity Score (Human vs All): 0.0
+
+Human: 
+Omitted All: The patient needs weekly lab draws for CBC with differential, BUN, Cr, AST, ALT, TB, and ALK PHOS. All lab requests should be annotated with **ATTN: ___ CLINIC - FAX: ___.
+Similarity Score (Human vs All): 0.0
+
+
+CATEGORY: Incorrect Other Inconsistency
+Human: 
+Text All: 
+N-gram Overlap (Human vs All): 0.0
+
 
 CATEGORY: Omitted Other Inconsistency
 Human: Some On-Discharge Physical exam findings are missing from the summary
@@ -91,6 +140,7 @@ Human: Discharge condition is missing from the summary
 Omitted All: Original EHR_NOTE under 'MICROBIOLOGY': 'GRAM STAIN (Final ___): 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. FLUID CULTURE (Final ___): NO GROWTH. ANAEROBIC CULTURE (Preliminary): NO GROWTH.'
 Similarity Score (Human vs All): 0.23212963342666626
 
+
 CATEGORY: Incorrect Reasoning
 Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
 Text All: The Brief Hospital Course section of the Summary mentions that the patient was transitioned to IV ertapenem for 4 weeks. However, the EHR Note indicates that the length of treatment with ertapenem will be determined by fluid collection changes on repeat outpatient imaging. The mention of '4 weeks' in the Summary is therefore not supported by the EHR Note.
@@ -109,9 +159,30 @@ Text All: The History of Present Illness section in the Summary states that the 
 Similarity Score (Human vs All): 0.2854635715484619
 
 
+CATEGORY: Chronological Inconsistency
+Human: 
+Text All: Initial management included CT-guided JP drain placement for intra-abdominal fluid collection. She was started on zosyn and vancomycin and transferred for further management.
+Similarity Score (Human vs All): 0.0
+
+Human: 
+Text All: Transitioned to IV ertapenem for 4 weeks.
+Similarity Score (Human vs All): 0.0
+
+
 ######################################################################################################################################
 
 COMPARISON OF HUMAN ANNOTATION WITH LLM SINGLE PROMPT DETECTION:
+
+
+CATEGORY: Incorrect Patient Information
+
+CATEGORY: Omitted Patient Information
+
+CATEGORY: Incorrect Patient History
+
+CATEGORY: Omitted Patient History
+
+CATEGORY: Incorrect Symptoms/Diagnosis
 
 CATEGORY: Omitted Symptoms/Diagnosis
 Human: Superimposed infection is not mentioned in the summary
@@ -130,6 +201,9 @@ Human: Mammogram is missing from the summary
 Omitted Single: generalized malaise and 1 day of fever w/rigors to Tmax 101.5 at home
 Similarity Score (Human vs Single): 0.09366965293884277
 
+
+CATEGORY: Incorrect Medicinal Instructions
+
 CATEGORY: Omitted Medicinal Instructions
 Human: All admission medications are lacking doses, frequencies and durations
 Omitted Single: ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis
@@ -143,9 +217,19 @@ Human: Ertapenem, Atorvastatin follow up instructions are missing from the summa
 Omitted Single: ertapenem for approximately 4 weeks with final length of treatment to be determined by fluid collection changes on repeat imaging on outpatient basis
 Similarity Score (Human vs Single): 0.48075103759765625
 
+
+CATEGORY: Incorrect Followup
+
+CATEGORY: Omitted Followup
+Human: 
+Omitted Single: Assure that Mrs ___ has her CT abdomen & pelvis with contrast in the week of ___
+Similarity Score (Human vs Single): 0.0
+
+
+CATEGORY: Incorrect Other Inconsistency
+
 CATEGORY: Omitted Other Inconsistency
-Human annotation is present but Single_prompt annotation is missing for this category.
 
 CATEGORY: Incorrect Reasoning
-Human annotation is present but Single_prompt annotation is missing for this category.
 
+CATEGORY: Chronological Inconsistency
