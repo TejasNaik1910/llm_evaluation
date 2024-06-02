@@ -128,7 +128,7 @@ for note_id in note_ids:
     final_output = merge_responses(all_responses)
     
     # Save the final output to a single JSON file after processing all guidelines
-    output_file = f'multiple_prompts/multiple-prompts-annotations/llm-annotated-gpt4o-{note_id}_all.json'  #need to change output file for Ilama
+    output_file = f'multiple_prompts/multiple-prompts-annotations/llm-annotated-gpt4o-{note_id}-multiple.json'  #need to change output file for Ilama
     # output_file = f'multiple_prompts/multiple-prompts-annotations/llm-annotated-llama3-{note_id}_all.json'
     with open(output_file, 'w') as file:
         json.dump(final_output, file, indent=4)

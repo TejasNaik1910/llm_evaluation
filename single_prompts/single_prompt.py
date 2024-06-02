@@ -97,7 +97,7 @@ for note_id in note_ids:
         try:
             response_dict = json.loads(json_content)
             # Save the response
-            output_file = f'single_prompt/single-prompt-annotations/llm-annotated-gpt4o-{note_id}.json' #need to change output file for Ilama
+            output_file = f'single_prompt/single-prompt-annotations/llm-annotated-gpt4o-{note_id}-single.json' #need to change output file for Ilama
             # output_file = f'single_prompt/single-prompt-annotations/llm-annotated-llama3-{note_id}.json'
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)
