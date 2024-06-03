@@ -153,54 +153,6 @@ N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Other Inconsistency
-Human: Family history is completely omitted from the summary
-Omitted All: ADMISSION EXAM: VITALS: T 97.6, HR 68, BP 115/76, RR 16, SpO2 98% on RA. EYES: Icteric sclera, PERRL. ENT: MMM, sublingual jaundice, OP clear. CV: NR/RR, no m/r/g. RESP: CTAB, no wheezes, crackles, or rhonchi. GI: Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. No HSM. MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. SKIN: Jaundiced. NEURO: Alert, oriented to hospital, city, date; able to recite the days of the week backwards, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs. PSYCH: pleasant, appropriate affect.
-Similarity Score (Human vs All): 0.07167084515094757
-
-Human: Family history is completely omitted from the summary
-Omitted All: Colorectal cancer - mother. ___ cancer - sister (dx at age ___. Liver cancer - brother. ___ cell leukemia - brother. ___ - father.
-Similarity Score (Human vs All): 0.22015248239040375
-
-Human: Family history is completely omitted from the summary
-Omitted All: WBC 3.4, AST/ALT 71/97, AP 214, Tbili 7.6, lipase 148, lactate 1.4.
-Similarity Score (Human vs All): 0.20196925103664398
-
-Human: Family history is completely omitted from the summary
-Omitted All: Persistent mild left intrahepatic biliary dilation and persistent gallbladder sludge.
-Similarity Score (Human vs All): 0.16137343645095825
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: ADMISSION EXAM: VITALS: T 97.6, HR 68, BP 115/76, RR 16, SpO2 98% on RA. EYES: Icteric sclera, PERRL. ENT: MMM, sublingual jaundice, OP clear. CV: NR/RR, no m/r/g. RESP: CTAB, no wheezes, crackles, or rhonchi. GI: Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. No HSM. MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. SKIN: Jaundiced. NEURO: Alert, oriented to hospital, city, date; able to recite the days of the week backwards, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs. PSYCH: pleasant, appropriate affect.
-Similarity Score (Human vs All): 0.1757916510105133
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Colorectal cancer - mother. ___ cancer - sister (dx at age ___. Liver cancer - brother. ___ cell leukemia - brother. ___ - father.
-Similarity Score (Human vs All): 0.0725976824760437
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: WBC 3.4, AST/ALT 71/97, AP 214, Tbili 7.6, lipase 148, lactate 1.4.
-Similarity Score (Human vs All): 0.1358390897512436
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Persistent mild left intrahepatic biliary dilation and persistent gallbladder sludge.
-Similarity Score (Human vs All): 0.0798569917678833
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: ADMISSION EXAM: VITALS: T 97.6, HR 68, BP 115/76, RR 16, SpO2 98% on RA. EYES: Icteric sclera, PERRL. ENT: MMM, sublingual jaundice, OP clear. CV: NR/RR, no m/r/g. RESP: CTAB, no wheezes, crackles, or rhonchi. GI: Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. No HSM. MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. SKIN: Jaundiced. NEURO: Alert, oriented to hospital, city, date; able to recite the days of the week backwards, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs. PSYCH: pleasant, appropriate affect.
-Similarity Score (Human vs All): 0.10607340186834335
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Colorectal cancer - mother. ___ cancer - sister (dx at age ___. Liver cancer - brother. ___ cell leukemia - brother. ___ - father.
-Similarity Score (Human vs All): 0.1795453131198883
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: WBC 3.4, AST/ALT 71/97, AP 214, Tbili 7.6, lipase 148, lactate 1.4.
-Similarity Score (Human vs All): 0.15057164430618286
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Persistent mild left intrahepatic biliary dilation and persistent gallbladder sludge.
-Similarity Score (Human vs All): 0.09817755222320557
-
 Human: missing ED test results
 Omitted All: ADMISSION EXAM: VITALS: T 97.6, HR 68, BP 115/76, RR 16, SpO2 98% on RA. EYES: Icteric sclera, PERRL. ENT: MMM, sublingual jaundice, OP clear. CV: NR/RR, no m/r/g. RESP: CTAB, no wheezes, crackles, or rhonchi. GI: Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. No HSM. MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. SKIN: Jaundiced. NEURO: Alert, oriented to hospital, city, date; able to recite the days of the week backwards, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs. PSYCH: pleasant, appropriate affect.
 Similarity Score (Human vs All): 0.19181659817695618
@@ -482,10 +434,6 @@ Human: size is omitted
 Omitted Single: Additional symptoms: fever, jaundice, chills, restlessness, mild confusion
 Similarity Score (Human vs Single): -0.0616908073425293
 
-Human: possible wernicke's encepalopathy were omitted from the summary
-Omitted Single: Additional symptoms: fever, jaundice, chills, restlessness, mild confusion
-Similarity Score (Human vs Single): 0.1707441359758377
-
 Human: location of the pain is omitted from the summary
 Omitted Single: Additional symptoms: fever, jaundice, chills, restlessness, mild confusion
 Similarity Score (Human vs Single): 0.1953974962234497
@@ -682,18 +630,6 @@ Similarity Score (Human vs Single): 0.23816139996051788
 CATEGORY: Incorrect Other Inconsistency
 
 CATEGORY: Omitted Other Inconsistency
-Human: Family history is completely omitted from the summary
-Omitted Single: Specific imaging results detailing liver function and stent placements
-Similarity Score (Human vs Single): -0.0313529372215271
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted Single: Specific imaging results detailing liver function and stent placements
-Similarity Score (Human vs Single): 0.07673761248588562
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted Single: Specific imaging results detailing liver function and stent placements
-Similarity Score (Human vs Single): 0.1929575353860855
-
 Human: missing ED test results
 Omitted Single: Specific imaging results detailing liver function and stent placements
 Similarity Score (Human vs Single): 0.19345544278621674

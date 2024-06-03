@@ -3,10 +3,10 @@ import json
 from openai import AzureOpenAI
 
 # Load the content from files
-with open('single_prompt/guidelines.txt', 'r') as file:
+with open('single_prompts/guidelines.txt', 'r') as file:
     guidelines_content = file.read()
 
-with open('single_prompt/output_format.json', 'r') as file:
+with open('single_prompts/output_format.json', 'r') as file:
     output_format_content = file.read()
 
 client = AzureOpenAI(
@@ -97,7 +97,7 @@ for note_id in note_ids:
         try:
             response_dict = json.loads(json_content)
             # Save the response
-            output_file = f'single_prompt/single-prompt-annotations/llm-annotated-gpt4o-{note_id}-single.json' #need to change output file for Ilama
+            output_file = f'single_prompts/single-prompts-annotations/llm-annotated-gpt4o-{note_id}-single.json' #need to change output file for Ilama
             # output_file = f'single_prompt/single-prompt-annotations/llm-annotated-llama3-{note_id}.json'
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)

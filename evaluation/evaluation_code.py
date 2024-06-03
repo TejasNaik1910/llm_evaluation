@@ -14,11 +14,11 @@ gpt4o_note_ids = ["gpt4o-10001401-DS-20", "gpt4o-10003299-DS-10", "gpt4o-1000602
 for note_id in gpt4o_note_ids:
         # Load JSON files
         try:
-            with open(f'multiple_prompts/multiple-prompts-annotations/llm-annotated-{note_id}_all.json', 'r') as file:
+            with open(f'multiple_prompts/multiple-prompts-annotations/llm-annotated-{note_id}-multiple.json', 'r') as file:
                 json_all = json.load(file)
-            with open(f'single_prompt/single-prompt-annotations/llm-annotated-{note_id}.json', 'r') as file:
+            with open(f'single_prompts/single-prompts-annotations/llm-annotated-{note_id}-single.json', 'r') as file:
                 json_single = json.load(file)
-            with open(f'data/processed-human-annotations/annotations-{note_id}.json', 'r') as file:
+            with open(f'data/cleaned_annotations/annotations-{note_id}.json', 'r') as file:
                 json_human_annotation = json.load(file)
         except FileNotFoundError as e:
             logging.error(f"File not found: {e}")

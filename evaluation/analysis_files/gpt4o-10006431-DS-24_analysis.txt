@@ -117,18 +117,6 @@ N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Other Inconsistency
-Human: Family history is completely omitted from the summary
-Omitted All: The specific dosages, administration instructions for some medications, and the lack of refills for each discharge medication are omitted. For example, 'Ondansetron ODT ___ mg PO Q8H:PRN nausea' is listed but the dosage is not specified.
-Similarity Score (Human vs All): 0.13772130012512207
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: The specific dosages, administration instructions for some medications, and the lack of refills for each discharge medication are omitted. For example, 'Ondansetron ODT ___ mg PO Q8H:PRN nausea' is listed but the dosage is not specified.
-Similarity Score (Human vs All): 0.295891672372818
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: The specific dosages, administration instructions for some medications, and the lack of refills for each discharge medication are omitted. For example, 'Ondansetron ODT ___ mg PO Q8H:PRN nausea' is listed but the dosage is not specified.
-Similarity Score (Human vs All): 0.31115245819091797
-
 Human: missing ED test results
 Omitted All: The specific dosages, administration instructions for some medications, and the lack of refills for each discharge medication are omitted. For example, 'Ondansetron ODT ___ mg PO Q8H:PRN nausea' is listed but the dosage is not specified.
 Similarity Score (Human vs All): 0.28991347551345825
@@ -233,10 +221,6 @@ Similarity Score (Human vs Single): 0.016120286658406258
 Human: size is omitted
 Omitted Single: Detailed description of imaging results, including the involvement of lesser sac and celiac axis, the attenuation of the portal vein and splenic vein due to tumor, and significant stool in the right colon.
 Similarity Score (Human vs Single): 0.016120286658406258
-
-Human: possible wernicke's encepalopathy were omitted from the summary
-Omitted Single: Detailed description of imaging results, including the involvement of lesser sac and celiac axis, the attenuation of the portal vein and splenic vein due to tumor, and significant stool in the right colon.
-Similarity Score (Human vs Single): 0.2001132071018219
 
 Human: location of the pain is omitted from the summary
 Omitted Single: Detailed description of imaging results, including the involvement of lesser sac and celiac axis, the attenuation of the portal vein and splenic vein due to tumor, and significant stool in the right colon.

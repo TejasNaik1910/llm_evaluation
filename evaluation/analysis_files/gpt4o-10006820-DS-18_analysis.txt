@@ -104,42 +104,6 @@ N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Other Inconsistency
-Human: Family history is completely omitted from the summary
-Omitted All: During his recent hospitalization for a GI bleed, he did not receive heparin SQ or DVT prophylaxis, but he was ambulating multiple times daily.
-Similarity Score (Human vs All): 0.14030803740024567
-
-Human: Family history is completely omitted from the summary
-Omitted All: Our concern is that he may have an irreversible etiology for his DVT, such as a malignancy, especially in the setting of this GI bleed.
-Similarity Score (Human vs All): 0.03263380378484726
-
-Human: Family history is completely omitted from the summary
-Omitted All: Information was obtained from Patient.
-Similarity Score (Human vs All): 0.0697631686925888
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: During his recent hospitalization for a GI bleed, he did not receive heparin SQ or DVT prophylaxis, but he was ambulating multiple times daily.
-Similarity Score (Human vs All): 0.12744919955730438
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Our concern is that he may have an irreversible etiology for his DVT, such as a malignancy, especially in the setting of this GI bleed.
-Similarity Score (Human vs All): 0.006243862211704254
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Information was obtained from Patient.
-Similarity Score (Human vs All): 0.07359717041254044
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: During his recent hospitalization for a GI bleed, he did not receive heparin SQ or DVT prophylaxis, but he was ambulating multiple times daily.
-Similarity Score (Human vs All): 0.06421282142400742
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Our concern is that he may have an irreversible etiology for his DVT, such as a malignancy, especially in the setting of this GI bleed.
-Similarity Score (Human vs All): 0.06797634810209274
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Information was obtained from Patient.
-Similarity Score (Human vs All): 0.1220611184835434
-
 Human: missing ED test results
 Omitted All: During his recent hospitalization for a GI bleed, he did not receive heparin SQ or DVT prophylaxis, but he was ambulating multiple times daily.
 Similarity Score (Human vs All): 0.2325325608253479

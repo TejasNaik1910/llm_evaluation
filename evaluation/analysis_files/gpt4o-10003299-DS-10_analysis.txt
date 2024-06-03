@@ -69,77 +69,29 @@ N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Other Inconsistency
-Human: Family history is completely omitted from the summary
+Human: 
 Omitted All: The detailed results of the MRI brain not showing any metastases or new stroke were omitted in the Summary.
-Similarity Score (Human vs All): 0.3230274021625519
+Similarity Score (Human vs All): 0.0
 
-Human: Family history is completely omitted from the summary
+Human: 
 Omitted All: Details of specific lab results, such as low platelet count, glucose, urea, and electrolyte levels.
-Similarity Score (Human vs All): 0.0783664807677269
+Similarity Score (Human vs All): 0.0
 
-Human: Family history is completely omitted from the summary
+Human: 
 Omitted All: Family history of cancer and strokes involving multiple family members.
-Similarity Score (Human vs All): 0.3269181251525879
+Similarity Score (Human vs All): 0.0
 
-Human: Family history is completely omitted from the summary
+Human: 
 Omitted All: Consulting geriatrics, recommendation for rehabilitation, and specific details on the goals of care discussions.
-Similarity Score (Human vs All): -0.010822500102221966
+Similarity Score (Human vs All): 0.0
 
-Human: Family history is completely omitted from the summary
+Human: 
 Omitted All: Discharge instructions about the education on opioid risks and treatment resources.
-Similarity Score (Human vs All): -0.08520346879959106
+Similarity Score (Human vs All): 0.0
 
-Human: Family history is completely omitted from the summary
+Human: 
 Omitted All: Specific mention of tobacco abuse and resolved nutritional issues.
-Similarity Score (Human vs All): 0.10188109427690506
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: The detailed results of the MRI brain not showing any metastases or new stroke were omitted in the Summary.
-Similarity Score (Human vs All): 0.47760194540023804
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Details of specific lab results, such as low platelet count, glucose, urea, and electrolyte levels.
-Similarity Score (Human vs All): 0.2097397744655609
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Family history of cancer and strokes involving multiple family members.
-Similarity Score (Human vs All): 0.013181986287236214
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Consulting geriatrics, recommendation for rehabilitation, and specific details on the goals of care discussions.
-Similarity Score (Human vs All): 0.029006343334913254
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Discharge instructions about the education on opioid risks and treatment resources.
-Similarity Score (Human vs All): 0.1544792801141739
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Specific mention of tobacco abuse and resolved nutritional issues.
-Similarity Score (Human vs All): 0.049921903759241104
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: The detailed results of the MRI brain not showing any metastases or new stroke were omitted in the Summary.
-Similarity Score (Human vs All): 0.4833766222000122
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Details of specific lab results, such as low platelet count, glucose, urea, and electrolyte levels.
-Similarity Score (Human vs All): 0.3231579065322876
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Family history of cancer and strokes involving multiple family members.
-Similarity Score (Human vs All): 0.039636850357055664
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Consulting geriatrics, recommendation for rehabilitation, and specific details on the goals of care discussions.
-Similarity Score (Human vs All): 0.042840901762247086
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Discharge instructions about the education on opioid risks and treatment resources.
-Similarity Score (Human vs All): 0.03410669416189194
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Specific mention of tobacco abuse and resolved nutritional issues.
-Similarity Score (Human vs All): 0.1147286519408226
+Similarity Score (Human vs All): 0.0
 
 
 CATEGORY: Incorrect Reasoning
@@ -237,10 +189,6 @@ Similarity Score (Human vs Single): 0.2914488911628723
 Human: size is omitted
 Omitted Single: Specific instances of confusion and encephalopathy symptoms mentioned in the EHR note (e.g., locking herself in the bathroom and leaving the stove on) were omitted.
 Similarity Score (Human vs Single): 0.2914488911628723
-
-Human: possible wernicke's encepalopathy were omitted from the summary
-Omitted Single: Specific instances of confusion and encephalopathy symptoms mentioned in the EHR note (e.g., locking herself in the bathroom and leaving the stove on) were omitted.
-Similarity Score (Human vs Single): 0.44812366366386414
 
 Human: location of the pain is omitted from the summary
 Omitted Single: Specific instances of confusion and encephalopathy symptoms mentioned in the EHR note (e.g., locking herself in the bathroom and leaving the stove on) were omitted.

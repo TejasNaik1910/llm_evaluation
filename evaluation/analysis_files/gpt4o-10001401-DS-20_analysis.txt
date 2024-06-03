@@ -101,30 +101,6 @@ N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Other Inconsistency
-Human: Family history is completely omitted from the summary
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.11306007206439972
-
-Human: Family history is completely omitted from the summary
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.20298194885253906
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.15175369381904602
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.1807277798652649
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.1630197912454605
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.220631405711174
-
 Human: missing ED test results
 Omitted All: Dr. ___ (son, ___ physician)
 Similarity Score (Human vs All): 0.15702903270721436
@@ -418,10 +394,6 @@ Human: size is omitted
 Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
 Similarity Score (Human vs Single): 0.20169584453105927
 
-Human: possible wernicke's encepalopathy were omitted from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.44300252199172974
-
 Human: location of the pain is omitted from the summary
 Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
 Similarity Score (Human vs Single): 0.5802291631698608
@@ -477,10 +449,6 @@ Similarity Score (Human vs Single): 0.09753963351249695
 Human: Superimposed infection is not mentioned in the summary
 Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
 Similarity Score (Human vs Single): 0.4729517102241516
-
-Human: Some Imaging findings are missing from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.4820842444896698
 
 Human: Some Diseases in the brief hospital course are missing from the summary
 Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
@@ -599,18 +567,6 @@ N-gram Overlap (Human vs Single): 0.0
 
 
 CATEGORY: Omitted Other Inconsistency
-Human: Family history is completely omitted from the summary
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.4535099267959595
-
-Human: Both admission and discharge physical exams are completely omitted from the summary
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.47730979323387146
-
-Human: Labs findings are completely omitted and some labs are omitted 
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.6132166385650635
-
 Human: missing ED test results
 Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
 Similarity Score (Human vs Single): 0.2813289165496826
