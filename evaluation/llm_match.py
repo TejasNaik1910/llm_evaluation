@@ -22,10 +22,10 @@ def use_azureai(text):
 #     "10011938-DS-16", "10012292-DS-9", "10014354-DS-23", "10016142-DS-19", 
 #     "10017285-DS-3", "10018052-DS-16", "10057126-DS-7", "10020306-DS-9"]
 
-note_ids= ["10001401-DS-20", "10003299-DS-10", "10006029-DS-16", "10006431-DS-24", "10006820-DS-18", "10007795-DS-13"]
+note_ids= ["10001401-DS-20", "10003299-DS-10", "10006029-DS-16"]
 
 def compute(prompt_meth, note_id):
-    with open(f"""../data/processed-human-annotations/annotations-gpt4o-{note_id}.json""", 'r') as file:
+    with open(f"""../data/cleaned_annotations/annotations-gpt4o-{note_id}.json""", 'r') as file:
             human_json = json.load(file)
 
     with open(f"""../{prompt_meth}_prompts/{prompt_meth}-prompts-annotations/llm-annotated-gpt4o-{note_id}-{prompt_meth}.json""", 'r') as file:
@@ -33,11 +33,11 @@ def compute(prompt_meth, note_id):
 
     def compare(human_text,llm_text):
 
-        prompt = f"""Please compare these 2 texts and if they have the same meaning, give the response else give 0
-        Text 1:
+        prompt = f"""Please compare the two texts given below under Text1 and Text2. If they have the same meaning, respond with 1; otherwise, respond with 0.
+        Text1:
         {human_text}
 
-        Text 2:
+        Text2:
         {llm_text}
 
         Please respond in binary values only."""
@@ -91,7 +91,7 @@ tot_human={}
 tot_llm={}
      
 for note_id in note_ids:
-    results, num_human, num_llm = compute("single",note_id) # change to "multiple" for other prompting method
+    results, num_human, num_llm = compute("multiple",note_id) # change to "single" for other prompting method
     for key in results:
         if key not in tot_mat:
             tot_mat[key] = 0
