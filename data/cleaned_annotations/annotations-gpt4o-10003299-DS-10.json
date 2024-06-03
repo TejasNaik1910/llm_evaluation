@@ -1,0 +1,119 @@
+{
+    "Incorrect Patient Information": [],
+    "Omitted Patient Information": [],
+    "Incorrect Patient History": [],
+    "Omitted Patient History": [
+        {
+            "text": "bronchoscopy",
+            "omittedDetails": "all lymph nodes related findings are completely omitted from the summary"
+        },
+        {
+            "text": "PET",
+            "omittedDetails": "all the findings are omitted from the summary"
+        },
+        {
+            "text": "lymph node",
+            "omittedDetails": "lymph node locations are omitted from the summary"
+        },
+        {
+            "text": "Oncologic History",
+            "omittedDetails": "radition is omitted from the summary"
+        },
+        {
+            "text": "strokes",
+            "omittedDetails": "specific locations of strokes are omitted from the summary"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "stage IIIA"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Imaging",
+            "omittedDetails": "all the findings are completely omitted from the summary"
+        },
+        {
+            "text": "Odynophagia/Dysphagia",
+            "omittedDetails": "Gastric Biopsy and its finding is omitted from the summary"
+        },
+        {
+            "text": "Nonocclusive Thrombus in Right IJ",
+            "omittedDetails": "Score and the cause of the thrombus is omitted from the summary"
+        },
+        {
+            "text": "imaging",
+            "omittedDetails": "CT scan is omitted"
+        },
+        {
+            "text": "right hilar mass",
+            "omittedDetails": "Size is omitted"
+        },
+        {
+            "text": "new hepatic",
+            "omittedDetails": "size is omitted"
+        },
+        {
+            "text": "Stable left-sided weakness",
+            "omittedDetails": "location of the pain is omitted from the summary"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "chemotherapy and radiation therapy"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "On Admission",
+            "omittedDetails": "all doses, frequencies and route of adminstrations are completely omitted"
+        },
+        {
+            "text": "Discharge Medications",
+            "omittedDetails": "all doses, frequencies and route of adminstrations are completely omitted"
+        },
+        {
+            "text": " PPI",
+            "omittedDetails": "dose is missing"
+        },
+        {
+            "text": "pain control",
+            "omittedDetails": "specific pain control agents are omitted from the summary."
+        },
+        {
+            "text": "Managed with enoxaparin",
+            "omittedDetails": "Aspirin/plavix are omitted from the summary"
+        },
+        {
+            "text": "pain control",
+            "omittedDetails": "medication is omitted from the summary"
+        },
+        {
+            "text": "Encephalopathy",
+            "omittedDetails": "high dose thiamine and folic acid were omitted from the summary "
+        },
+        {
+            "text": "history of CVA",
+            "omittedDetails": "Aspirin, plavix and atorvastatin were omitted from the summary"
+        },
+        {
+            "text": "severe protein-calorie malnutrition",
+            "omittedDetails": "managment were omitted from the summary"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "**Follow-up:**\n- Home with service, code status DNR/DNI, emergency contact is the patient's daughter. "
+        }
+    ],
+    "Omitted Followup": [],
+    "Incorrect Other Inconsistency": [],
+    "Omitted Other Inconsistency": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "under labs results GPT interprets the findings which isn't not mentioned in the original document "
+        }
+    ],
+    "Chronological Inconsistency": []
+}
