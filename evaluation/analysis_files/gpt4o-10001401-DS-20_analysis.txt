@@ -3,62 +3,62 @@ COMPARISON OF HUMAN ANNOTATION WITH LLM MULTIPLE PROMPT DETECTION:
 
 CATEGORY: Incorrect Patient Information
 Human: 
-Text All: The SUMMARY correctly mentions the patient's demographic information, matching the EHR_NOTE.
+Text All: SUMMARY correctly mentions patient 's demographic information , matching EHR_NOTE .
 N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Patient Information
 Human: 
-Omitted All: The patient’s exact age is omitted. The EHR_NOTE repeatedly makes reference to 'Ms.' and mentions '___ year old woman,' signifying the presence of some age-related information which is absent in the summary.
+Omitted All: patient ’ exact age omitted . EHR_NOTE repeatedly makes reference 'Ms . ' mentions '___ year old woman , ' signifying presence age-related information absent summary .
 Similarity Score (Human vs All): 0.0
 
 
 CATEGORY: Incorrect Patient History
 Human: 
-Text All: Summary states 'underwent TAH/BSO, radical cystectomy with ileal conduit, complicated by intra-abdominal infection and pelvic fluid collection.' The correct sequence is 'TAH/BSO, radical cystectomy, ileal conduit, intra-abdominal infection, and pelvic fluid collection,' indicating two separate procedures: 'radical cystectomy' and 'TAH/BSO.'
+Text All: Summary states 'underwent TAH/BSO , radical cystectomy ileal conduit , complicated intra-abdominal infection pelvic fluid collection . ' correct sequence 'TAH/BSO , radical cystectomy , ileal conduit , intra-abdominal infection , pelvic fluid collection , ' indicating two separate procedures : 'radical cystectomy ' 'TAH/BSO . '
 N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Patient History
-Human: all lymph nodes related findings are completely omitted from the summary
+Human: lymph nodes related findings completely omitted summary
 Omitted All: High-grade invasive urothelial carcinoma pT2b
-Similarity Score (Human vs All): 0.16787397861480713
+Similarity Score (Human vs All): 0.2694825232028961
 
-Human: all lymph nodes related findings are completely omitted from the summary
-Omitted All: PET scan shows concerning foci of metastatic disease in the lung and peritoneum, ongoing discussion with outpatient hem/onc regarding management.
-Similarity Score (Human vs All): 0.2577139437198639
+Human: lymph nodes related findings completely omitted summary
+Omitted All: PET scan shows concerning foci metastatic disease lung peritoneum , ongoing discussion outpatient hem/onc regarding management .
+Similarity Score (Human vs All): 0.2823636531829834
 
-Human: all the findings are omitted from the summary
+Human: findings omitted summary
 Omitted All: High-grade invasive urothelial carcinoma pT2b
-Similarity Score (Human vs All): 0.027673503383994102
+Similarity Score (Human vs All): 0.08818861097097397
 
-Human: all the findings are omitted from the summary
-Omitted All: PET scan shows concerning foci of metastatic disease in the lung and peritoneum, ongoing discussion with outpatient hem/onc regarding management.
-Similarity Score (Human vs All): 0.16110268235206604
+Human: findings omitted summary
+Omitted All: PET scan shows concerning foci metastatic disease lung peritoneum , ongoing discussion outpatient hem/onc regarding management .
+Similarity Score (Human vs All): 0.18615630269050598
 
-Human: lymph node locations are omitted from the summary
+Human: lymph node locations omitted summary
 Omitted All: High-grade invasive urothelial carcinoma pT2b
-Similarity Score (Human vs All): 0.24541589617729187
+Similarity Score (Human vs All): 0.2628103494644165
 
-Human: lymph node locations are omitted from the summary
-Omitted All: PET scan shows concerning foci of metastatic disease in the lung and peritoneum, ongoing discussion with outpatient hem/onc regarding management.
-Similarity Score (Human vs All): 0.19618350267410278
+Human: lymph node locations omitted summary
+Omitted All: PET scan shows concerning foci metastatic disease lung peritoneum , ongoing discussion outpatient hem/onc regarding management .
+Similarity Score (Human vs All): 0.22059422731399536
 
-Human: radition is omitted from the summary
+Human: radition omitted summary
 Omitted All: High-grade invasive urothelial carcinoma pT2b
-Similarity Score (Human vs All): 0.174158975481987
+Similarity Score (Human vs All): 0.1603490561246872
 
-Human: radition is omitted from the summary
-Omitted All: PET scan shows concerning foci of metastatic disease in the lung and peritoneum, ongoing discussion with outpatient hem/onc regarding management.
-Similarity Score (Human vs All): 0.07985597848892212
+Human: radition omitted summary
+Omitted All: PET scan shows concerning foci metastatic disease lung peritoneum , ongoing discussion outpatient hem/onc regarding management .
+Similarity Score (Human vs All): 0.09098897874355316
 
-Human: specific locations of strokes are omitted from the summary
+Human: specific locations strokes omitted summary
 Omitted All: High-grade invasive urothelial carcinoma pT2b
-Similarity Score (Human vs All): 0.04363003000617027
+Similarity Score (Human vs All): 0.03643769025802612
 
-Human: specific locations of strokes are omitted from the summary
-Omitted All: PET scan shows concerning foci of metastatic disease in the lung and peritoneum, ongoing discussion with outpatient hem/onc regarding management.
-Similarity Score (Human vs All): 0.1412588506937027
+Human: specific locations strokes omitted summary
+Omitted All: PET scan shows concerning foci metastatic disease lung peritoneum , ongoing discussion outpatient hem/onc regarding management .
+Similarity Score (Human vs All): 0.11869274079799652
 
 
 CATEGORY: Incorrect Symptoms/Diagnosis
@@ -70,251 +70,250 @@ CATEGORY: Incorrect Medicinal Instructions
 CATEGORY: Omitted Medicinal Instructions
 
 CATEGORY: Incorrect Followup
-Human: **Follow-up:**
-- Home with service, code status DNR/DNI, emergency contact is the patient's daughter. 
-Text All: Repeat CT scan before ID appointment.
+Human: * * Follow-up : * * - Home service , code status DNR/DNI , emergency contact patient 's daughter .
+Text All: Repeat CT scan ID appointment .
 N-gram Overlap (Human vs All): 1.0
 
 
 CATEGORY: Omitted Followup
 Human: missing discharge condition
-Omitted All: The summary mentions the need for weekly lab draws and follow-up appointments, but does not specify the exact labs to be drawn such as CBC with differential, BUN, Cr, AST, ALT, TB, and ALK PHOS. It also does not mention that lab requests should be annotated with attention to a specific clinic and fax number.
-Similarity Score (Human vs All): 0.11102673411369324
+Omitted All: summary mentions need weekly lab draws follow-up appointments , specify exact labs drawn CBC differential , BUN , Cr , AST , ALT , TB , ALK PHOS . also mention lab requests annotated attention specific clinic fax number .
+Similarity Score (Human vs All): 0.07600086182355881
 
-Human: missing rest of discharge instructions
-Omitted All: The summary mentions the need for weekly lab draws and follow-up appointments, but does not specify the exact labs to be drawn such as CBC with differential, BUN, Cr, AST, ALT, TB, and ALK PHOS. It also does not mention that lab requests should be annotated with attention to a specific clinic and fax number.
-Similarity Score (Human vs All): 0.1948426216840744
+Human: missing rest discharge instructions
+Omitted All: summary mentions need weekly lab draws follow-up appointments , specify exact labs drawn CBC differential , BUN , Cr , AST , ALT , TB , ALK PHOS . also mention lab requests annotated attention specific clinic fax number .
+Similarity Score (Human vs All): 0.16152144968509674
 
-Human: to find the source of bleeding.
-Omitted All: The summary mentions the need for weekly lab draws and follow-up appointments, but does not specify the exact labs to be drawn such as CBC with differential, BUN, Cr, AST, ALT, TB, and ALK PHOS. It also does not mention that lab requests should be annotated with attention to a specific clinic and fax number.
-Similarity Score (Human vs All): 0.18987874686717987
+Human: find source bleeding .
+Omitted All: summary mentions need weekly lab draws follow-up appointments , specify exact labs drawn CBC differential , BUN , Cr , AST , ALT , TB , ALK PHOS . also mention lab requests annotated attention specific clinic fax number .
+Similarity Score (Human vs All): 0.2341754138469696
 
 
 CATEGORY: Incorrect Other Inconsistency
 Human: 
-Text All: The summary incorrectly states that 'Transitioned to IV ertapenem for 4 weeks' under the 'Pelvic Fluid Collections' section.
+Text All: summary incorrectly states 'Transitioned IV ertapenem 4 weeks ' 'Pelvic Fluid Collections ' section .
 N-gram Overlap (Human vs All): 0.0
 
 Human: 
-Text All: The summary incorrectly states 'Repeat CT scan before ID appointment' under 'Discharge Instructions'.
+Text All: summary incorrectly states 'Repeat CT scan ID appointment ' 'Discharge Instructions ' .
 N-gram Overlap (Human vs All): 0.0
 
 
 CATEGORY: Omitted Other Inconsistency
 Human: missing ED test results
-Omitted All: Dr. ___ (son, ___ physician)
+Omitted All: Dr. ___ ( son , ___ physician )
 Similarity Score (Human vs All): 0.15702903270721436
 
 Human: missing ED test results
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.034664154052734375
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.02365286275744438
 
-Human: some labs are missing with their results
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.1360466629266739
+Human: labs missing results
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.11859577149152756
 
-Human: some labs are missing with their results
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.19564014673233032
+Human: labs missing results
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.16030725836753845
 
-Human: will need cancer screening given possibly unprovoked DVT.
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.22997844219207764
+Human: need cancer screening given possibly unprovoked DVT .
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.2396862804889679
 
-Human: will need cancer screening given possibly unprovoked DVT.
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.24461635947227478
+Human: need cancer screening given possibly unprovoked DVT .
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.2466879040002823
 
-Human: missing admission and discharge physical exams
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.1666639745235443
+Human: missing admission discharge physical exams
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.11438298225402832
 
-Human: missing admission and discharge physical exams
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.1474166214466095
+Human: missing admission discharge physical exams
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.10218934714794159
 
 Human: missing admission labs
-Omitted All: Dr. ___ (son, ___ physician)
+Omitted All: Dr. ___ ( son , ___ physician )
 Similarity Score (Human vs All): 0.027026627212762833
 
 Human: missing admission labs
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.12543226778507233
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.07288147509098053
 
-Human: missing rest of values
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.0402093306183815
+Human: missing rest values
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.015519523993134499
 
-Human: missing rest of values
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): -0.06961759924888611
+Human: missing rest values
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): -0.004233628511428833
 
 Human: missing family history
-Omitted All: Dr. ___ (son, ___ physician)
+Omitted All: Dr. ___ ( son , ___ physician )
 Similarity Score (Human vs All): 0.1551833301782608
 
 Human: missing family history
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.10253772139549255
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.05575809255242348
 
-Human: Some On-Discharge Physical exam findings are missing from the summary
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.21231229603290558
+Human: On-Discharge Physical exam findings missing summary
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.2129773497581482
 
-Human: Some On-Discharge Physical exam findings are missing from the summary
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.23783431947231293
+Human: On-Discharge Physical exam findings missing summary
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.17668341100215912
 
-Human: Some On-Admission Physical exam findings are missing from the summary
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.16286659240722656
+Human: On-Admission Physical exam findings missing summary
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.1474808007478714
 
-Human: Some On-Admission Physical exam findings are missing from the summary
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.10846392810344696
+Human: On-Admission Physical exam findings missing summary
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.02618064358830452
 
-Human: Some admission labs are missing from the summary
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.08288905024528503
+Human: admission labs missing summary
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.07157158106565475
 
-Human: Some admission labs are missing from the summary
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.16350102424621582
+Human: admission labs missing summary
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.08336006850004196
 
-Human: Some discharge labs are missing from the summary
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.1775859147310257
+Human: discharge labs missing summary
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.1762658953666687
 
-Human: Some discharge labs are missing from the summary
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.3221976161003113
+Human: discharge labs missing summary
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.2682132422924042
 
-Human: Pigtail catheter is missing from the summary.
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.10234285891056061
+Human: Pigtail catheter missing summary .
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.15038397908210754
 
-Human: Pigtail catheter is missing from the summary.
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.25201335549354553
+Human: Pigtail catheter missing summary .
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.19921953976154327
 
-Human: Some lab findings are missing from the summaryy
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.14379005134105682
+Human: lab findings missing summaryy
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.13150472939014435
 
-Human: Some lab findings are missing from the summaryy
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.2600792646408081
+Human: lab findings missing summaryy
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.19264079630374908
 
-Human: Discharge condition is missing from the summary
-Omitted All: Dr. ___ (son, ___ physician)
-Similarity Score (Human vs All): 0.12916713953018188
+Human: Discharge condition missing summary
+Omitted All: Dr. ___ ( son , ___ physician )
+Similarity Score (Human vs All): 0.15081477165222168
 
-Human: Discharge condition is missing from the summary
-Omitted All: Fluid was sent and revealed: negative cultures, negative malignant cells, no evidence of lymphatic or urinary fluid.
-Similarity Score (Human vs All): 0.28985267877578735
+Human: Discharge condition missing summary
+Omitted All: Fluid sent revealed : negative cultures , negative malignant cells , evidence lymphatic urinary fluid .
+Similarity Score (Human vs All): 0.2654918134212494
 
 
 CATEGORY: Incorrect Reasoning
-Human: under labs results GPT interprets the findings which isn't not mentioned in the original document 
-Text All: The summary notes that the patient's condition related to pelvic fluid collections was managed with drain placement and repositioning, with cultures negative for infection, and that the patient was transitioned to IV ertapenem for 4 weeks. The EHR Note specifies that the patient arrived with one anterior drain putting out serosanguinous fluid, had a new drain placed due to an enlarging left fluid collection, and that the new drain's fluid showed no evidence of infection. However, it also mentions that she was initially started on a broader spectrum of antibiotics (zosyn and vancomycin) which were later tapered to intravenous zosyn and then transitioned to ertapenem. This discrepancy in the timeline and detailed antibiotic management creates a chronological inconsistency in the summary.
-Similarity Score (Human vs All): 0.28477752208709717
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: summary notes patient 's condition related pelvic fluid collections managed drain placement repositioning , cultures negative infection , patient transitioned IV ertapenem 4 weeks . EHR Note specifies patient arrived one anterior drain putting serosanguinous fluid , new drain placed due enlarging left fluid collection , new drain 's fluid showed evidence infection . However , also mentions initially started broader spectrum antibiotics ( zosyn vancomycin ) later tapered intravenous zosyn transitioned ertapenem . discrepancy timeline detailed antibiotic management creates chronological inconsistency summary .
+Similarity Score (Human vs All): 0.27390313148498535
 
-Human: under labs results GPT interprets the findings which isn't not mentioned in the original document 
-Text All: The summary describes the patient's 'acute renal injury' as having resolved during the hospital stay. The EHR Note indicates that the patient's creatinine level improved from 1.1 to 0.8 during the hospital stay, suggesting improvement rather than full resolution. This oversimplification and finality presented in the summary cause a chronological inconsistency.
-Similarity Score (Human vs All): 0.3367733657360077
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: summary describes patient 's 'acute renal injury ' resolved hospital stay . EHR Note indicates patient 's creatinine level improved 1.1 0.8 hospital stay , suggesting improvement rather full resolution . oversimplification finality presented summary cause chronological inconsistency .
+Similarity Score (Human vs All): 0.3841317296028137
 
-Human: under labs results GPT interprets the findings which isn't not mentioned in the original document 
-Text All: The summary mentions that 'severe bilateral hydronephrosis' was stable with 'no immediate intervention required,' but there is no mention of the consideration of percutaneous nephrostomy tubes as discussed in the EHR Note. The EHR Note details the team's decision-making process regarding the possible intervention due to persistent severe hydronephrosis, which is not accurately reflected in the summary and thus represents a chronological inconsistency.
-Similarity Score (Human vs All): 0.4114990830421448
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: summary mentions 'severe bilateral hydronephrosis ' stable 'no immediate intervention required , ' mention consideration percutaneous nephrostomy tubes discussed EHR Note . EHR Note details team 's decision-making process regarding possible intervention due persistent severe hydronephrosis , accurately reflected summary thus represents chronological inconsistency .
+Similarity Score (Human vs All): 0.36790722608566284
 
-Human: under labs results GPT interprets the findings which isn't not mentioned in the original document 
-Text All: While the summary correctly states the discharge diagnosis of pelvic fluid collection infection and acute blood loss anemia, the reasoning behind the IV ertapenem treatment for 4 weeks is not fully correct. The EHR note indicates that the specific duration of IV ertapenem therapy is to be determined based on outpatient follow-up and repeat imaging results, which means the exact length of treatment is flexible and not definitively set for 4 weeks. Therefore, stating an exact duration of 4 weeks is speculative and reflects incorrect reasoning.
-Similarity Score (Human vs All): 0.21417060494422913
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: summary correctly states discharge diagnosis pelvic fluid collection infection acute blood loss anemia , reasoning behind IV ertapenem treatment 4 weeks fully correct . EHR note indicates specific duration IV ertapenem therapy determined based outpatient follow-up repeat imaging results , means exact length treatment flexible definitively set 4 weeks . Therefore , stating exact duration 4 weeks speculative reflects incorrect reasoning .
+Similarity Score (Human vs All): 0.25449544191360474
 
-Human: interpreted reason for bupivacine and dehydrated alcohol injection
-Text All: The summary notes that the patient's condition related to pelvic fluid collections was managed with drain placement and repositioning, with cultures negative for infection, and that the patient was transitioned to IV ertapenem for 4 weeks. The EHR Note specifies that the patient arrived with one anterior drain putting out serosanguinous fluid, had a new drain placed due to an enlarging left fluid collection, and that the new drain's fluid showed no evidence of infection. However, it also mentions that she was initially started on a broader spectrum of antibiotics (zosyn and vancomycin) which were later tapered to intravenous zosyn and then transitioned to ertapenem. This discrepancy in the timeline and detailed antibiotic management creates a chronological inconsistency in the summary.
-Similarity Score (Human vs All): 0.2882593870162964
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: summary notes patient 's condition related pelvic fluid collections managed drain placement repositioning , cultures negative infection , patient transitioned IV ertapenem 4 weeks . EHR Note specifies patient arrived one anterior drain putting serosanguinous fluid , new drain placed due enlarging left fluid collection , new drain 's fluid showed evidence infection . However , also mentions initially started broader spectrum antibiotics ( zosyn vancomycin ) later tapered intravenous zosyn transitioned ertapenem . discrepancy timeline detailed antibiotic management creates chronological inconsistency summary .
+Similarity Score (Human vs All): 0.2718612849712372
 
-Human: interpreted reason for bupivacine and dehydrated alcohol injection
-Text All: The summary describes the patient's 'acute renal injury' as having resolved during the hospital stay. The EHR Note indicates that the patient's creatinine level improved from 1.1 to 0.8 during the hospital stay, suggesting improvement rather than full resolution. This oversimplification and finality presented in the summary cause a chronological inconsistency.
-Similarity Score (Human vs All): 0.15510573983192444
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: summary describes patient 's 'acute renal injury ' resolved hospital stay . EHR Note indicates patient 's creatinine level improved 1.1 0.8 hospital stay , suggesting improvement rather full resolution . oversimplification finality presented summary cause chronological inconsistency .
+Similarity Score (Human vs All): 0.13709592819213867
 
-Human: interpreted reason for bupivacine and dehydrated alcohol injection
-Text All: The summary mentions that 'severe bilateral hydronephrosis' was stable with 'no immediate intervention required,' but there is no mention of the consideration of percutaneous nephrostomy tubes as discussed in the EHR Note. The EHR Note details the team's decision-making process regarding the possible intervention due to persistent severe hydronephrosis, which is not accurately reflected in the summary and thus represents a chronological inconsistency.
-Similarity Score (Human vs All): 0.16861671209335327
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: summary mentions 'severe bilateral hydronephrosis ' stable 'no immediate intervention required , ' mention consideration percutaneous nephrostomy tubes discussed EHR Note . EHR Note details team 's decision-making process regarding possible intervention due persistent severe hydronephrosis , accurately reflected summary thus represents chronological inconsistency .
+Similarity Score (Human vs All): 0.15048706531524658
 
-Human: interpreted reason for bupivacine and dehydrated alcohol injection
-Text All: While the summary correctly states the discharge diagnosis of pelvic fluid collection infection and acute blood loss anemia, the reasoning behind the IV ertapenem treatment for 4 weeks is not fully correct. The EHR note indicates that the specific duration of IV ertapenem therapy is to be determined based on outpatient follow-up and repeat imaging results, which means the exact length of treatment is flexible and not definitively set for 4 weeks. Therefore, stating an exact duration of 4 weeks is speculative and reflects incorrect reasoning.
-Similarity Score (Human vs All): 0.20127585530281067
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: summary correctly states discharge diagnosis pelvic fluid collection infection acute blood loss anemia , reasoning behind IV ertapenem treatment 4 weeks fully correct . EHR note indicates specific duration IV ertapenem therapy determined based outpatient follow-up repeat imaging results , means exact length treatment flexible definitively set 4 weeks . Therefore , stating exact duration 4 weeks speculative reflects incorrect reasoning .
+Similarity Score (Human vs All): 0.23534798622131348
 
-Human: olanzapine didn't cause drowsiness, it made her very sleepy
-Text All: The summary notes that the patient's condition related to pelvic fluid collections was managed with drain placement and repositioning, with cultures negative for infection, and that the patient was transitioned to IV ertapenem for 4 weeks. The EHR Note specifies that the patient arrived with one anterior drain putting out serosanguinous fluid, had a new drain placed due to an enlarging left fluid collection, and that the new drain's fluid showed no evidence of infection. However, it also mentions that she was initially started on a broader spectrum of antibiotics (zosyn and vancomycin) which were later tapered to intravenous zosyn and then transitioned to ertapenem. This discrepancy in the timeline and detailed antibiotic management creates a chronological inconsistency in the summary.
-Similarity Score (Human vs All): 0.24451115727424622
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: summary notes patient 's condition related pelvic fluid collections managed drain placement repositioning , cultures negative infection , patient transitioned IV ertapenem 4 weeks . EHR Note specifies patient arrived one anterior drain putting serosanguinous fluid , new drain placed due enlarging left fluid collection , new drain 's fluid showed evidence infection . However , also mentions initially started broader spectrum antibiotics ( zosyn vancomycin ) later tapered intravenous zosyn transitioned ertapenem . discrepancy timeline detailed antibiotic management creates chronological inconsistency summary .
+Similarity Score (Human vs All): 0.1992366760969162
 
-Human: olanzapine didn't cause drowsiness, it made her very sleepy
-Text All: The summary describes the patient's 'acute renal injury' as having resolved during the hospital stay. The EHR Note indicates that the patient's creatinine level improved from 1.1 to 0.8 during the hospital stay, suggesting improvement rather than full resolution. This oversimplification and finality presented in the summary cause a chronological inconsistency.
-Similarity Score (Human vs All): 0.17626060545444489
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: summary describes patient 's 'acute renal injury ' resolved hospital stay . EHR Note indicates patient 's creatinine level improved 1.1 0.8 hospital stay , suggesting improvement rather full resolution . oversimplification finality presented summary cause chronological inconsistency .
+Similarity Score (Human vs All): 0.17506058514118195
 
-Human: olanzapine didn't cause drowsiness, it made her very sleepy
-Text All: The summary mentions that 'severe bilateral hydronephrosis' was stable with 'no immediate intervention required,' but there is no mention of the consideration of percutaneous nephrostomy tubes as discussed in the EHR Note. The EHR Note details the team's decision-making process regarding the possible intervention due to persistent severe hydronephrosis, which is not accurately reflected in the summary and thus represents a chronological inconsistency.
-Similarity Score (Human vs All): 0.1961984932422638
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: summary mentions 'severe bilateral hydronephrosis ' stable 'no immediate intervention required , ' mention consideration percutaneous nephrostomy tubes discussed EHR Note . EHR Note details team 's decision-making process regarding possible intervention due persistent severe hydronephrosis , accurately reflected summary thus represents chronological inconsistency .
+Similarity Score (Human vs All): 0.12300767004489899
 
-Human: olanzapine didn't cause drowsiness, it made her very sleepy
-Text All: While the summary correctly states the discharge diagnosis of pelvic fluid collection infection and acute blood loss anemia, the reasoning behind the IV ertapenem treatment for 4 weeks is not fully correct. The EHR note indicates that the specific duration of IV ertapenem therapy is to be determined based on outpatient follow-up and repeat imaging results, which means the exact length of treatment is flexible and not definitively set for 4 weeks. Therefore, stating an exact duration of 4 weeks is speculative and reflects incorrect reasoning.
-Similarity Score (Human vs All): 0.18476036190986633
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: summary correctly states discharge diagnosis pelvic fluid collection infection acute blood loss anemia , reasoning behind IV ertapenem treatment 4 weeks fully correct . EHR note indicates specific duration IV ertapenem therapy determined based outpatient follow-up repeat imaging results , means exact length treatment flexible definitively set 4 weeks . Therefore , stating exact duration 4 weeks speculative reflects incorrect reasoning .
+Similarity Score (Human vs All): 0.1514582335948944
 
-Human: In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record
-Text All: The summary notes that the patient's condition related to pelvic fluid collections was managed with drain placement and repositioning, with cultures negative for infection, and that the patient was transitioned to IV ertapenem for 4 weeks. The EHR Note specifies that the patient arrived with one anterior drain putting out serosanguinous fluid, had a new drain placed due to an enlarging left fluid collection, and that the new drain's fluid showed no evidence of infection. However, it also mentions that she was initially started on a broader spectrum of antibiotics (zosyn and vancomycin) which were later tapered to intravenous zosyn and then transitioned to ertapenem. This discrepancy in the timeline and detailed antibiotic management creates a chronological inconsistency in the summary.
-Similarity Score (Human vs All): 0.41527092456817627
+Human: summary dabigatran stated stopped due GI bleeding although mentioned medical record
+Text All: summary notes patient 's condition related pelvic fluid collections managed drain placement repositioning , cultures negative infection , patient transitioned IV ertapenem 4 weeks . EHR Note specifies patient arrived one anterior drain putting serosanguinous fluid , new drain placed due enlarging left fluid collection , new drain 's fluid showed evidence infection . However , also mentions initially started broader spectrum antibiotics ( zosyn vancomycin ) later tapered intravenous zosyn transitioned ertapenem . discrepancy timeline detailed antibiotic management creates chronological inconsistency summary .
+Similarity Score (Human vs All): 0.43802642822265625
 
-Human: In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record
-Text All: The summary describes the patient's 'acute renal injury' as having resolved during the hospital stay. The EHR Note indicates that the patient's creatinine level improved from 1.1 to 0.8 during the hospital stay, suggesting improvement rather than full resolution. This oversimplification and finality presented in the summary cause a chronological inconsistency.
-Similarity Score (Human vs All): 0.26030826568603516
+Human: summary dabigatran stated stopped due GI bleeding although mentioned medical record
+Text All: summary describes patient 's 'acute renal injury ' resolved hospital stay . EHR Note indicates patient 's creatinine level improved 1.1 0.8 hospital stay , suggesting improvement rather full resolution . oversimplification finality presented summary cause chronological inconsistency .
+Similarity Score (Human vs All): 0.2886214256286621
 
-Human: In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record
-Text All: The summary mentions that 'severe bilateral hydronephrosis' was stable with 'no immediate intervention required,' but there is no mention of the consideration of percutaneous nephrostomy tubes as discussed in the EHR Note. The EHR Note details the team's decision-making process regarding the possible intervention due to persistent severe hydronephrosis, which is not accurately reflected in the summary and thus represents a chronological inconsistency.
-Similarity Score (Human vs All): 0.3196454644203186
+Human: summary dabigatran stated stopped due GI bleeding although mentioned medical record
+Text All: summary mentions 'severe bilateral hydronephrosis ' stable 'no immediate intervention required , ' mention consideration percutaneous nephrostomy tubes discussed EHR Note . EHR Note details team 's decision-making process regarding possible intervention due persistent severe hydronephrosis , accurately reflected summary thus represents chronological inconsistency .
+Similarity Score (Human vs All): 0.3062261939048767
 
-Human: In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record
-Text All: While the summary correctly states the discharge diagnosis of pelvic fluid collection infection and acute blood loss anemia, the reasoning behind the IV ertapenem treatment for 4 weeks is not fully correct. The EHR note indicates that the specific duration of IV ertapenem therapy is to be determined based on outpatient follow-up and repeat imaging results, which means the exact length of treatment is flexible and not definitively set for 4 weeks. Therefore, stating an exact duration of 4 weeks is speculative and reflects incorrect reasoning.
-Similarity Score (Human vs All): 0.3387651741504669
+Human: summary dabigatran stated stopped due GI bleeding although mentioned medical record
+Text All: summary correctly states discharge diagnosis pelvic fluid collection infection acute blood loss anemia , reasoning behind IV ertapenem treatment 4 weeks fully correct . EHR note indicates specific duration IV ertapenem therapy determined based outpatient follow-up repeat imaging results , means exact length treatment flexible definitively set 4 weeks . Therefore , stating exact duration 4 weeks speculative reflects incorrect reasoning .
+Similarity Score (Human vs All): 0.40311485528945923
 
-Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
-Text All: The summary notes that the patient's condition related to pelvic fluid collections was managed with drain placement and repositioning, with cultures negative for infection, and that the patient was transitioned to IV ertapenem for 4 weeks. The EHR Note specifies that the patient arrived with one anterior drain putting out serosanguinous fluid, had a new drain placed due to an enlarging left fluid collection, and that the new drain's fluid showed no evidence of infection. However, it also mentions that she was initially started on a broader spectrum of antibiotics (zosyn and vancomycin) which were later tapered to intravenous zosyn and then transitioned to ertapenem. This discrepancy in the timeline and detailed antibiotic management creates a chronological inconsistency in the summary.
-Similarity Score (Human vs All): 0.24493975937366486
+Human: Fever , Tachycardia , afebrile stable ( vital signs ) overinterpretation 're mentioned original patient record
+Text All: summary notes patient 's condition related pelvic fluid collections managed drain placement repositioning , cultures negative infection , patient transitioned IV ertapenem 4 weeks . EHR Note specifies patient arrived one anterior drain putting serosanguinous fluid , new drain placed due enlarging left fluid collection , new drain 's fluid showed evidence infection . However , also mentions initially started broader spectrum antibiotics ( zosyn vancomycin ) later tapered intravenous zosyn transitioned ertapenem . discrepancy timeline detailed antibiotic management creates chronological inconsistency summary .
+Similarity Score (Human vs All): 0.3303971290588379
 
-Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
-Text All: The summary describes the patient's 'acute renal injury' as having resolved during the hospital stay. The EHR Note indicates that the patient's creatinine level improved from 1.1 to 0.8 during the hospital stay, suggesting improvement rather than full resolution. This oversimplification and finality presented in the summary cause a chronological inconsistency.
-Similarity Score (Human vs All): 0.30772098898887634
+Human: Fever , Tachycardia , afebrile stable ( vital signs ) overinterpretation 're mentioned original patient record
+Text All: summary describes patient 's 'acute renal injury ' resolved hospital stay . EHR Note indicates patient 's creatinine level improved 1.1 0.8 hospital stay , suggesting improvement rather full resolution . oversimplification finality presented summary cause chronological inconsistency .
+Similarity Score (Human vs All): 0.36752715706825256
 
-Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
-Text All: The summary mentions that 'severe bilateral hydronephrosis' was stable with 'no immediate intervention required,' but there is no mention of the consideration of percutaneous nephrostomy tubes as discussed in the EHR Note. The EHR Note details the team's decision-making process regarding the possible intervention due to persistent severe hydronephrosis, which is not accurately reflected in the summary and thus represents a chronological inconsistency.
-Similarity Score (Human vs All): 0.3857252597808838
+Human: Fever , Tachycardia , afebrile stable ( vital signs ) overinterpretation 're mentioned original patient record
+Text All: summary mentions 'severe bilateral hydronephrosis ' stable 'no immediate intervention required , ' mention consideration percutaneous nephrostomy tubes discussed EHR Note . EHR Note details team 's decision-making process regarding possible intervention due persistent severe hydronephrosis , accurately reflected summary thus represents chronological inconsistency .
+Similarity Score (Human vs All): 0.3223434090614319
 
-Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
-Text All: While the summary correctly states the discharge diagnosis of pelvic fluid collection infection and acute blood loss anemia, the reasoning behind the IV ertapenem treatment for 4 weeks is not fully correct. The EHR note indicates that the specific duration of IV ertapenem therapy is to be determined based on outpatient follow-up and repeat imaging results, which means the exact length of treatment is flexible and not definitively set for 4 weeks. Therefore, stating an exact duration of 4 weeks is speculative and reflects incorrect reasoning.
-Similarity Score (Human vs All): 0.24838027358055115
+Human: Fever , Tachycardia , afebrile stable ( vital signs ) overinterpretation 're mentioned original patient record
+Text All: summary correctly states discharge diagnosis pelvic fluid collection infection acute blood loss anemia , reasoning behind IV ertapenem treatment 4 weeks fully correct . EHR note indicates specific duration IV ertapenem therapy determined based outpatient follow-up repeat imaging results , means exact length treatment flexible definitively set 4 weeks . Therefore , stating exact duration 4 weeks speculative reflects incorrect reasoning .
+Similarity Score (Human vs All): 0.3433389663696289
 
-Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
-Text All: The summary notes that the patient's condition related to pelvic fluid collections was managed with drain placement and repositioning, with cultures negative for infection, and that the patient was transitioned to IV ertapenem for 4 weeks. The EHR Note specifies that the patient arrived with one anterior drain putting out serosanguinous fluid, had a new drain placed due to an enlarging left fluid collection, and that the new drain's fluid showed no evidence of infection. However, it also mentions that she was initially started on a broader spectrum of antibiotics (zosyn and vancomycin) which were later tapered to intravenous zosyn and then transitioned to ertapenem. This discrepancy in the timeline and detailed antibiotic management creates a chronological inconsistency in the summary.
-Similarity Score (Human vs All): 0.2297419309616089
+Human: 'Elevated WBC , Anemia , Low albumin , improved normalized ' ( pertinent results ( labs ) considered overinterpretation 're mentioned original patient record
+Text All: summary notes patient 's condition related pelvic fluid collections managed drain placement repositioning , cultures negative infection , patient transitioned IV ertapenem 4 weeks . EHR Note specifies patient arrived one anterior drain putting serosanguinous fluid , new drain placed due enlarging left fluid collection , new drain 's fluid showed evidence infection . However , also mentions initially started broader spectrum antibiotics ( zosyn vancomycin ) later tapered intravenous zosyn transitioned ertapenem . discrepancy timeline detailed antibiotic management creates chronological inconsistency summary .
+Similarity Score (Human vs All): 0.29390716552734375
 
-Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
-Text All: The summary describes the patient's 'acute renal injury' as having resolved during the hospital stay. The EHR Note indicates that the patient's creatinine level improved from 1.1 to 0.8 during the hospital stay, suggesting improvement rather than full resolution. This oversimplification and finality presented in the summary cause a chronological inconsistency.
-Similarity Score (Human vs All): 0.41573312878608704
+Human: 'Elevated WBC , Anemia , Low albumin , improved normalized ' ( pertinent results ( labs ) considered overinterpretation 're mentioned original patient record
+Text All: summary describes patient 's 'acute renal injury ' resolved hospital stay . EHR Note indicates patient 's creatinine level improved 1.1 0.8 hospital stay , suggesting improvement rather full resolution . oversimplification finality presented summary cause chronological inconsistency .
+Similarity Score (Human vs All): 0.4643024504184723
 
-Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
-Text All: The summary mentions that 'severe bilateral hydronephrosis' was stable with 'no immediate intervention required,' but there is no mention of the consideration of percutaneous nephrostomy tubes as discussed in the EHR Note. The EHR Note details the team's decision-making process regarding the possible intervention due to persistent severe hydronephrosis, which is not accurately reflected in the summary and thus represents a chronological inconsistency.
-Similarity Score (Human vs All): 0.4313591718673706
+Human: 'Elevated WBC , Anemia , Low albumin , improved normalized ' ( pertinent results ( labs ) considered overinterpretation 're mentioned original patient record
+Text All: summary mentions 'severe bilateral hydronephrosis ' stable 'no immediate intervention required , ' mention consideration percutaneous nephrostomy tubes discussed EHR Note . EHR Note details team 's decision-making process regarding possible intervention due persistent severe hydronephrosis , accurately reflected summary thus represents chronological inconsistency .
+Similarity Score (Human vs All): 0.3609309792518616
 
-Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
-Text All: While the summary correctly states the discharge diagnosis of pelvic fluid collection infection and acute blood loss anemia, the reasoning behind the IV ertapenem treatment for 4 weeks is not fully correct. The EHR note indicates that the specific duration of IV ertapenem therapy is to be determined based on outpatient follow-up and repeat imaging results, which means the exact length of treatment is flexible and not definitively set for 4 weeks. Therefore, stating an exact duration of 4 weeks is speculative and reflects incorrect reasoning.
-Similarity Score (Human vs All): 0.2569591701030731
+Human: 'Elevated WBC , Anemia , Low albumin , improved normalized ' ( pertinent results ( labs ) considered overinterpretation 're mentioned original patient record
+Text All: summary correctly states discharge diagnosis pelvic fluid collection infection acute blood loss anemia , reasoning behind IV ertapenem treatment 4 weeks fully correct . EHR note indicates specific duration IV ertapenem therapy determined based outpatient follow-up repeat imaging results , means exact length treatment flexible definitively set 4 weeks . Therefore , stating exact duration 4 weeks speculative reflects incorrect reasoning .
+Similarity Score (Human vs All): 0.313598096370697
 
 
 CATEGORY: Chronological Inconsistency
 Human: 
-Text All: No chronological inconsistency detected.
+Text All: chronological inconsistency detected .
 Similarity Score (Human vs All): 0.0
 
 
@@ -331,7 +330,7 @@ N-gram Overlap (Human vs Single): 0.0
 
 CATEGORY: Omitted Patient Information
 Human: 
-Omitted Single: Family history is mentioned as negative for bladder CA in the EHR note but it is omitted in the summary.
+Omitted Single: Family history mentioned negative bladder CA EHR note omitted summary .
 Similarity Score (Human vs Single): 0.0
 
 
@@ -342,25 +341,25 @@ N-gram Overlap (Human vs Single): 0.0
 
 
 CATEGORY: Omitted Patient History
-Human: all lymph nodes related findings are completely omitted from the summary
-Omitted Single: The history of bladder cancer chronology, specific procedures such as the lap chole, left knee replacement, and L5-S1 laminectomy with timeline, are omitted in the summary.
-Similarity Score (Human vs Single): 0.39306578040122986
+Human: lymph nodes related findings completely omitted summary
+Omitted Single: history bladder cancer chronology , specific procedures lap chole , left knee replacement , L5-S1 laminectomy timeline , omitted summary .
+Similarity Score (Human vs Single): 0.33401069045066833
 
-Human: all the findings are omitted from the summary
-Omitted Single: The history of bladder cancer chronology, specific procedures such as the lap chole, left knee replacement, and L5-S1 laminectomy with timeline, are omitted in the summary.
-Similarity Score (Human vs Single): 0.4202072024345398
+Human: findings omitted summary
+Omitted Single: history bladder cancer chronology , specific procedures lap chole , left knee replacement , L5-S1 laminectomy timeline , omitted summary .
+Similarity Score (Human vs Single): 0.3354383707046509
 
-Human: lymph node locations are omitted from the summary
-Omitted Single: The history of bladder cancer chronology, specific procedures such as the lap chole, left knee replacement, and L5-S1 laminectomy with timeline, are omitted in the summary.
-Similarity Score (Human vs Single): 0.4648634195327759
+Human: lymph node locations omitted summary
+Omitted Single: history bladder cancer chronology , specific procedures lap chole , left knee replacement , L5-S1 laminectomy timeline , omitted summary .
+Similarity Score (Human vs Single): 0.3513926863670349
 
-Human: radition is omitted from the summary
-Omitted Single: The history of bladder cancer chronology, specific procedures such as the lap chole, left knee replacement, and L5-S1 laminectomy with timeline, are omitted in the summary.
-Similarity Score (Human vs Single): 0.44566187262535095
+Human: radition omitted summary
+Omitted Single: history bladder cancer chronology , specific procedures lap chole , left knee replacement , L5-S1 laminectomy timeline , omitted summary .
+Similarity Score (Human vs Single): 0.32226330041885376
 
-Human: specific locations of strokes are omitted from the summary
-Omitted Single: The history of bladder cancer chronology, specific procedures such as the lap chole, left knee replacement, and L5-S1 laminectomy with timeline, are omitted in the summary.
-Similarity Score (Human vs Single): 0.40228888392448425
+Human: specific locations strokes omitted summary
+Omitted Single: history bladder cancer chronology , specific procedures lap chole , left knee replacement , L5-S1 laminectomy timeline , omitted summary .
+Similarity Score (Human vs Single): 0.2577704191207886
 
 
 CATEGORY: Incorrect Symptoms/Diagnosis
@@ -370,194 +369,193 @@ N-gram Overlap (Human vs Single): 0.0
 
 
 CATEGORY: Omitted Symptoms/Diagnosis
-Human: all the findings are completely omitted from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.49689602851867676
+Human: findings completely omitted summary
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.4963721036911011
 
-Human: Gastric Biopsy and its finding is omitted from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.4433332681655884
+Human: Gastric Biopsy finding omitted summary
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.4107328951358795
 
-Human: Score and the cause of the thrombus is omitted from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.4435928761959076
+Human: Score cause thrombus omitted summary
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.4108957350254059
 
-Human: CT scan is omitted
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.40084731578826904
+Human: CT scan omitted
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.32366251945495605
 
-Human: Size is omitted
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.20169584453105927
+Human: Size omitted
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.1617451012134552
 
-Human: size is omitted
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.20169584453105927
+Human: size omitted
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.1617451012134552
 
-Human: location of the pain is omitted from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.5802291631698608
+Human: location pain omitted summary
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.47395360469818115
 
-Human: missing with ocassional radiation into RUQ and LUQ
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.1488109976053238
+Human: missing ocassional radiation RUQ LUQ
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.19520264863967896
 
-Human: missing ERCP, CT angiogram with their findings and biopsy showing adenocarcinoma
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.3239474594593048
+Human: missing ERCP , CT angiogram findings biopsy showing adenocarcinoma
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.334997296333313
 
 Human: missing celiac plexus block
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.25352829694747925
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.2644367814064026
 
-Human: missing hospitalized with diarrhea,anorexia and neutropenia
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.356706440448761
+Human: missing hospitalized diarrhea , anorexia neutropenia
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.4301620125770569
 
-Human: Ruptured ___ cyst.
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.14250105619430542
+Human: Ruptured ___ cyst .
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.1992131918668747
 
-Human: showed mild distal esophagitis, hiatal hernia, single tiny possible early ___ lesion and friability of the duodenal bulb
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.2220209836959839
+Human: showed mild distal esophagitis , hiatal hernia , single tiny possible early ___ lesion friability duodenal bulb
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.30700311064720154
 
-Human: His last bloody bowel movement was 4 days prior to admission
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.16454771161079407
+Human: last bloody bowel movement 4 days prior admission
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.23429378867149353
 
-Human: missing rest of the impression
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.08443314582109451
+Human: missing rest impression
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.3145819902420044
 
-Human: patient complaining of nausea and poor PO intake
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.27262449264526367
+Human: patient complaining nausea poor PO intake
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.44729024171829224
 
-Human: missing microcytic anemia,LUL pneumonia,hypothyrodism,depression and anxiety
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.24260996282100677
+Human: missing microcytic anemia , LUL pneumonia , hypothyrodism , depression anxiety
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.36143699288368225
 
 Human: missing hyperlipidemia
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.2393549382686615
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.22759197652339935
 
-Human: missing details of past oncologic history and TNM stage
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.09753963351249695
+Human: missing details past oncologic history TNM stage
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.1402479112148285
 
-Human: Superimposed infection is not mentioned in the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.4729517102241516
+Human: Superimposed infection mentioned summary
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.39569202065467834
 
-Human: Some Diseases in the brief hospital course are missing from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.49283984303474426
+Human: Diseases brief hospital course missing summary
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.5117225646972656
 
-Human: Mammogram is missing from the summary
-Omitted Single: The patient's denial of several symptoms related to their condition is not included in the summary.
-Similarity Score (Human vs Single): 0.33358871936798096
+Human: Mammogram missing summary
+Omitted Single: patient 's denial several symptoms related condition included summary .
+Similarity Score (Human vs Single): 0.25054261088371277
 
 
 CATEGORY: Incorrect Medicinal Instructions
-Human: chemotherapy and radiation therapy
+Human: chemotherapy radiation therapy
 Text Single: 
 N-gram Overlap (Human vs Single): 0.0
 
 
 CATEGORY: Omitted Medicinal Instructions
-Human: all doses, frequencies and route of adminstrations are completely omitted
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.3655807673931122
+Human: doses , frequencies route adminstrations completely omitted
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.36189568042755127
 
-Human: all doses, frequencies and route of adminstrations are completely omitted
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.3655807673931122
+Human: doses , frequencies route adminstrations completely omitted
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.36189568042755127
 
-Human: dose is missing
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.46481895446777344
+Human: dose missing
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.4181565046310425
 
-Human: specific pain control agents are omitted from the summary.
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.3358103036880493
+Human: specific pain control agents omitted summary .
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.2671929895877838
 
-Human: Aspirin/plavix are omitted from the summary
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.2635824680328369
+Human: Aspirin/plavix omitted summary
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.1595897525548935
 
-Human: medication is omitted from the summary
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.41793060302734375
+Human: medication omitted summary
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.34108927845954895
 
-Human: high dose thiamine and folic acid were omitted from the summary 
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.4037128686904907
+Human: high dose thiamine folic acid omitted summary
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.3956249952316284
 
-Human: Aspirin, plavix and atorvastatin were omitted from the summary
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.23685729503631592
+Human: Aspirin , plavix atorvastatin omitted summary
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.1499837040901184
 
-Human: managment were omitted from the summary
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.2785806655883789
-
-Human: missing doses
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.4732253849506378
+Human: managment omitted summary
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.18215414881706238
 
 Human: missing doses
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.4732253849506378
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.45728954672813416
+
+Human: missing doses
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.45728954672813416
 
 Human: missing dose
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.45473337173461914
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.4298529624938965
 
-Human: discontinued during that admission (approximately two weeks prior to current admission
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.26133060455322266
+Human: discontinued admission ( approximately two weeks prior current admission
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.22862422466278076
 
-Human: iron at his prior hospitalization and that was continued.
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.12910306453704834
+Human: iron prior hospitalization continued .
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.19942834973335266
 
-Human: missing medications on admission and their doses
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.3683865964412689
+Human: missing medications admission doses
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.4041377902030945
 
-Human: All admission medications are lacking doses, frequencies and durations
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.41544291377067566
+Human: admission medications lacking doses , frequencies durations
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.4962649643421173
 
-Human: All discharge medications are lacking doses, frequencies and durations
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.45739442110061646
+Human: discharge medications lacking doses , frequencies durations
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.5542142987251282
 
-Human: Ertapenem, Atorvastatin follow up instructions are missing from the summary
-Omitted Single: The summary does not specify that the ertapenem dose is for one time daily, preferably at nighttime as mentioned in the EHR.
-Similarity Score (Human vs Single): 0.41470879316329956
+Human: Ertapenem , Atorvastatin follow instructions missing summary
+Omitted Single: summary specify ertapenem dose one time daily , preferably nighttime mentioned EHR .
+Similarity Score (Human vs Single): 0.36718225479125977
 
 
 CATEGORY: Incorrect Followup
-Human: **Follow-up:**
-- Home with service, code status DNR/DNI, emergency contact is the patient's daughter. 
+Human: * * Follow-up : * * - Home service , code status DNR/DNI , emergency contact patient 's daughter .
 Text Single: 
 N-gram Overlap (Human vs Single): 0.0
 
 
 CATEGORY: Omitted Followup
 Human: missing discharge condition
-Omitted Single: The follow-up instructions for ongoing discussion with PCP and hem/onc regarding the management of new breast and lung/peritoneum lesions are omitted.
-Similarity Score (Human vs Single): 0.21575674414634705
+Omitted Single: follow-up instructions ongoing discussion PCP hem/onc regarding management new breast lung/peritoneum lesions omitted .
+Similarity Score (Human vs Single): 0.17010334134101868
 
-Human: missing rest of discharge instructions
-Omitted Single: The follow-up instructions for ongoing discussion with PCP and hem/onc regarding the management of new breast and lung/peritoneum lesions are omitted.
-Similarity Score (Human vs Single): 0.23482359945774078
+Human: missing rest discharge instructions
+Omitted Single: follow-up instructions ongoing discussion PCP hem/onc regarding management new breast lung/peritoneum lesions omitted .
+Similarity Score (Human vs Single): 0.191823348402977
 
-Human: to find the source of bleeding.
-Omitted Single: The follow-up instructions for ongoing discussion with PCP and hem/onc regarding the management of new breast and lung/peritoneum lesions are omitted.
-Similarity Score (Human vs Single): 0.15164412558078766
+Human: find source bleeding .
+Omitted Single: follow-up instructions ongoing discussion PCP hem/onc regarding management new breast lung/peritoneum lesions omitted .
+Similarity Score (Human vs Single): 0.1685308814048767
 
 
 CATEGORY: Incorrect Other Inconsistency
@@ -568,84 +566,84 @@ N-gram Overlap (Human vs Single): 0.0
 
 CATEGORY: Omitted Other Inconsistency
 Human: missing ED test results
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.2813289165496826
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.2553974390029907
 
-Human: some labs are missing with their results
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.48396527767181396
+Human: labs missing results
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.39826226234436035
 
-Human: will need cancer screening given possibly unprovoked DVT.
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.14702467620372772
+Human: need cancer screening given possibly unprovoked DVT .
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.13113147020339966
 
-Human: missing admission and discharge physical exams
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.31697332859039307
+Human: missing admission discharge physical exams
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.24077199399471283
 
 Human: missing admission labs
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.3224599361419678
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.26940351724624634
 
-Human: missing rest of values
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.20395755767822266
+Human: missing rest values
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.18667778372764587
 
 Human: missing family history
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.19864946603775024
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.13877694308757782
 
-Human: Some On-Discharge Physical exam findings are missing from the summary
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.3795509934425354
+Human: On-Discharge Physical exam findings missing summary
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.305908739566803
 
-Human: Some On-Admission Physical exam findings are missing from the summary
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.37177109718322754
+Human: On-Admission Physical exam findings missing summary
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.277427613735199
 
-Human: Some admission labs are missing from the summary
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.40943485498428345
+Human: admission labs missing summary
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.3239777088165283
 
-Human: Some discharge labs are missing from the summary
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.44891244173049927
+Human: discharge labs missing summary
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.36597487330436707
 
-Human: Pigtail catheter is missing from the summary.
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.38433942198753357
+Human: Pigtail catheter missing summary .
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.30782145261764526
 
-Human: Some lab findings are missing from the summaryy
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.5123778581619263
+Human: lab findings missing summaryy
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.4535149335861206
 
-Human: Discharge condition is missing from the summary
-Omitted Single: The detailed information about pending blood cultures and negative results for fluid and anaerobic cultures are omitted.
-Similarity Score (Human vs Single): 0.3695729970932007
+Human: Discharge condition missing summary
+Omitted Single: detailed information pending blood cultures negative results fluid anaerobic cultures omitted .
+Similarity Score (Human vs Single): 0.2892175614833832
 
 
 CATEGORY: Incorrect Reasoning
-Human: under labs results GPT interprets the findings which isn't not mentioned in the original document 
+Human: labs results GPT interprets findings n't mentioned original document
 Text Single: 
 Similarity Score (Human vs Single): 0.0
 
-Human: interpreted reason for bupivacine and dehydrated alcohol injection
+Human: interpreted reason bupivacine dehydrated alcohol injection
 Text Single: 
 Similarity Score (Human vs Single): 0.0
 
-Human: olanzapine didn't cause drowsiness, it made her very sleepy
+Human: olanzapine n't cause drowsiness , made sleepy
 Text Single: 
 Similarity Score (Human vs Single): 0.0
 
-Human: In summary dabigatran stated that it stopped due to GI bleeding although it is not mentioned in medical record
+Human: summary dabigatran stated stopped due GI bleeding although mentioned medical record
 Text Single: 
 Similarity Score (Human vs Single): 0.0
 
-Human: Fever, Tachycardia, afebrile and stable  (in vital signs) is an overinterpretation as they're not mentioned in the original patient record	
+Human: Fever , Tachycardia , afebrile stable ( vital signs ) overinterpretation 're mentioned original patient record
 Text Single: 
 Similarity Score (Human vs Single): 0.0
 
-Human: 'Elevated WBC, Anemia, Low albumin, improved and normalized' (in pertinent results (labs) are considered an overinterpretation as they're not mentioned in the original patient record	
+Human: 'Elevated WBC , Anemia , Low albumin , improved normalized ' ( pertinent results ( labs ) considered overinterpretation 're mentioned original patient record
 Text Single: 
 Similarity Score (Human vs Single): 0.0
 

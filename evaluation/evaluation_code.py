@@ -2,14 +2,27 @@ import json
 from sklearn.feature_extraction.text import CountVectorizer
 from sentence_transformers import SentenceTransformer, util
 import logging
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # List of note IDs
-gpt4o_note_ids = ["gpt4o-10001401-DS-20", "gpt4o-10003299-DS-10", "gpt4o-10006029-DS-16", "gpt4o-10006431-DS-24", "gpt4o-10006820-DS-18"]
+gpt4o_note_ids = ["gpt4o-10001401-DS-20"]
+# gpt4o_note_ids = ["gpt4o-10001401-DS-20", "gpt4o-10003299-DS-10", "gpt4o-10006029-DS-16", "gpt4o-10006431-DS-24", "gpt4o-10006820-DS-18"]
 # gpt4o_note_ids = ["gpt4o-10007795-DS-13"]   #throws ValueError: empty vocabulary, need to analyze
-                  
+
+stop_words = set(stopwords.words('english'))
+
+def remove_stopwords(text):
+    if not text.strip():
+        return text
+    words = word_tokenize(text)
+    filtered_text = ' '.join(word for word in words if word.lower() not in stop_words)
+    return filtered_text
+              
 # Process each note_id
 for note_id in gpt4o_note_ids:
         # Load JSON files
@@ -63,13 +76,16 @@ for note_id in gpt4o_note_ids:
                 texts_all = json_all.get(category, [])
                 texts_single = json_single.get(category, [])
                 for human_data in human_texts:
-                    human_text = human_data.get('text', "")
+                    # human_text = human_data.get('text', "")
+                    human_text = remove_stopwords(human_data.get('text', ""))
                     for text_data in texts_all:
-                        text_all = text_data.get('text', "")
+                        # text_all = text_data.get('text', "")
+                        text_all = remove_stopwords(text_data.get('text', ""))
                         overlap_all_vs_human = ngram_overlap(human_text, text_all)
                         overlap_scores_all.append((human_text, text_all, overlap_all_vs_human))
                     for text_single_data in texts_single:
-                        text_single = text_single_data.get('text', "")
+                        # text_single = text_single_data.get('text', "")
+                        text_single = remove_stopwords(text_single_data.get('text', ""))
                         overlap_single_vs_human = ngram_overlap(human_text, text_single)
                         overlap_scores_single.append((human_text, text_single, overlap_single_vs_human))
                 analysis_all[category] = overlap_scores_all
@@ -79,13 +95,16 @@ for note_id in gpt4o_note_ids:
                 omitted_all = json_all.get(category, [])
                 omitted_single = json_single.get(category, [])
                 for human_omitted_data in human_texts:
-                    human_omitted_text = human_omitted_data.get('omittedDetails', "")
+                    # human_omitted_text = human_omitted_data.get('omittedDetails', "")
+                    human_omitted_text = remove_stopwords(human_omitted_data.get('omittedDetails', ""))
                     for omitted_data in omitted_all:
-                        omitted_all_text = omitted_data.get('omittedDetails', "")
+                        # omitted_all_text = omitted_data.get('omittedDetails', "")
+                        omitted_all_text = remove_stopwords(omitted_data.get('omittedDetails', ""))
                         similarity_all_vs_human = sentence_bert_similarity(human_omitted_text, omitted_all_text)
                         similarity_scores_all.append((human_omitted_text, omitted_all_text, similarity_all_vs_human))
                     for omitted_single_data in omitted_single:
-                        omitted_single_text = omitted_single_data.get('omittedDetails', "")
+                        # omitted_single_text = omitted_single_data.get('omittedDetails', "")
+                        omitted_single_text = remove_stopwords(omitted_single_data.get('omittedDetails', ""))
                         similarity_single_vs_human = sentence_bert_similarity(human_omitted_text, omitted_single_text)
                         similarity_scores_single.append((human_omitted_text, omitted_single_text, similarity_single_vs_human))
                 analysis_all[category] = similarity_scores_all
@@ -95,13 +114,16 @@ for note_id in gpt4o_note_ids:
                 annotation_all = json_all.get(category, [])
                 annotation_single = json_single.get(category, [])
                 for human_data in human_texts:
-                    human_text = human_data.get('text', "")
+                    # human_text = human_data.get('text', "")
+                    human_text = remove_stopwords(human_data.get('text', ""))
                     for text_data in annotation_all:
-                        text_all = text_data.get('text', "")
+                        # text_all = text_data.get('text', "")
+                        text_all = remove_stopwords(text_data.get('text', ""))
                         overlap_all_vs_human = sentence_bert_similarity(human_text, text_all)
                         overlap_scores_all.append((human_text, text_all, overlap_all_vs_human))
                     for text_single_data in annotation_single:
-                        text_single = text_single_data.get('text', "")
+                        # text_single = text_single_data.get('text', "")
+                        text_single = remove_stopwords(text_single_data.get('text', ""))
                         overlap_single_vs_human = sentence_bert_similarity(human_text, text_single)
                         overlap_scores_single.append((human_text, text_single, overlap_single_vs_human))
                 analysis_all[category] = overlap_scores_all
@@ -151,6 +173,6 @@ for note_id in gpt4o_note_ids:
                             human_text, text_single, similarity_single_vs_human = result
                             file.write(f"Human: {human_text}\nText Single: {text_single}\nSimilarity Score (Human vs Single): {similarity_single_vs_human}\n\n")
 
-            logging.info(f"Analysis completed and written to {note_id}_analysis.txt")
+            logging.info(f"Analysis completed and written to {note_id}.txt")
         except Exception as e:
             logging.error(f"Error writing analysis to file: {e}")
