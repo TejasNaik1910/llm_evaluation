@@ -1,0 +1,263 @@
+COMPARISON OF HUMAN ANNOTATION WITH LLM MULTIPLE PROMPT DETECTION:
+
+
+CATEGORY: Incorrect Patient Information
+Human: 
+Text All: incorrect patient information details detected .
+N-gram Overlap (Human vs All): 0.0
+
+
+CATEGORY: Omitted Patient Information
+Human: 
+Omitted All: DNR/DNI status patient mentioned summary , explicitly stated EHR note .
+Similarity Score (Human vs All): 0.0
+
+Human: 
+Omitted All: EHR note mentions patient uses ASL son assisted communication , detail omitted summary .
+Similarity Score (Human vs All): 0.0
+
+
+CATEGORY: Incorrect Patient History
+Human: 
+Text All: Diagnostic tests ED revealed elevated lipase ( 2800 ) , CT scan showed large infiltrative pancreatic head tumor associated pancreatitis liver metastases .
+N-gram Overlap (Human vs All): 0.0
+
+
+CATEGORY: Omitted Patient History
+Human: lymph nodes related findings completely omitted summary
+Omitted All: EHR specifies olanzapine prescribed due worsening nausea specific date , led significant drowsiness subsequently poor oral intake emesis . details medication 's side effects progression crucial omitted summary .
+Similarity Score (Human vs All): 0.01573268324136734
+
+Human: lymph nodes related findings completely omitted summary
+Omitted All: summary omits additional symptoms nausea , dry heaves , poor oral intake , emesis . also omits pain score reaching 10 , use home medications like oxycodone tramadol provided minimal relief .
+Similarity Score (Human vs All): 0.13585707545280457
+
+Human: lymph nodes related findings completely omitted summary
+Omitted All: summary omits patient 's pancreatic head tumor identified initial CT scan subsequent scans showed liver metastases later interventions .
+Similarity Score (Human vs All): 0.32337453961372375
+
+Human: findings omitted summary
+Omitted All: EHR specifies olanzapine prescribed due worsening nausea specific date , led significant drowsiness subsequently poor oral intake emesis . details medication 's side effects progression crucial omitted summary .
+Similarity Score (Human vs All): 0.1928592324256897
+
+Human: findings omitted summary
+Omitted All: summary omits additional symptoms nausea , dry heaves , poor oral intake , emesis . also omits pain score reaching 10 , use home medications like oxycodone tramadol provided minimal relief .
+Similarity Score (Human vs All): 0.3260681629180908
+
+Human: findings omitted summary
+Omitted All: summary omits patient 's pancreatic head tumor identified initial CT scan subsequent scans showed liver metastases later interventions .
+Similarity Score (Human vs All): 0.28576499223709106
+
+Human: lymph node locations omitted summary
+Omitted All: EHR specifies olanzapine prescribed due worsening nausea specific date , led significant drowsiness subsequently poor oral intake emesis . details medication 's side effects progression crucial omitted summary .
+Similarity Score (Human vs All): -0.026058580726385117
+
+Human: lymph node locations omitted summary
+Omitted All: summary omits additional symptoms nausea , dry heaves , poor oral intake , emesis . also omits pain score reaching 10 , use home medications like oxycodone tramadol provided minimal relief .
+Similarity Score (Human vs All): 0.0663851723074913
+
+Human: lymph node locations omitted summary
+Omitted All: summary omits patient 's pancreatic head tumor identified initial CT scan subsequent scans showed liver metastases later interventions .
+Similarity Score (Human vs All): 0.2743358016014099
+
+Human: radition omitted summary
+Omitted All: EHR specifies olanzapine prescribed due worsening nausea specific date , led significant drowsiness subsequently poor oral intake emesis . details medication 's side effects progression crucial omitted summary .
+Similarity Score (Human vs All): 0.09094312787055969
+
+Human: radition omitted summary
+Omitted All: summary omits additional symptoms nausea , dry heaves , poor oral intake , emesis . also omits pain score reaching 10 , use home medications like oxycodone tramadol provided minimal relief .
+Similarity Score (Human vs All): 0.22833357751369476
+
+Human: radition omitted summary
+Omitted All: summary omits patient 's pancreatic head tumor identified initial CT scan subsequent scans showed liver metastases later interventions .
+Similarity Score (Human vs All): 0.1535538136959076
+
+Human: specific locations strokes omitted summary
+Omitted All: EHR specifies olanzapine prescribed due worsening nausea specific date , led significant drowsiness subsequently poor oral intake emesis . details medication 's side effects progression crucial omitted summary .
+Similarity Score (Human vs All): 0.09049715846776962
+
+Human: specific locations strokes omitted summary
+Omitted All: summary omits additional symptoms nausea , dry heaves , poor oral intake , emesis . also omits pain score reaching 10 , use home medications like oxycodone tramadol provided minimal relief .
+Similarity Score (Human vs All): 0.2093038409948349
+
+Human: specific locations strokes omitted summary
+Omitted All: summary omits patient 's pancreatic head tumor identified initial CT scan subsequent scans showed liver metastases later interventions .
+Similarity Score (Human vs All): 0.1739797741174698
+
+
+CATEGORY: Incorrect Symptoms/Diagnosis
+
+CATEGORY: Omitted Symptoms/Diagnosis
+
+CATEGORY: Incorrect Medicinal Instructions
+
+CATEGORY: Omitted Medicinal Instructions
+
+CATEGORY: Incorrect Followup
+Human: * * Follow-up : * * - Home service , code status DNR/DNI , emergency contact patient 's daughter .
+Text All: Follow oncology palliative care .
+N-gram Overlap (Human vs All): 1.0
+
+
+CATEGORY: Omitted Followup
+Human: missing discharge condition
+Omitted All: Additionally , SUMMARY omitted `` f/u w/ palliative care arranged '' `` chemo hold week '' EHR Note .
+Similarity Score (Human vs All): 0.1576872318983078
+
+Human: missing rest discharge instructions
+Omitted All: Additionally , SUMMARY omitted `` f/u w/ palliative care arranged '' `` chemo hold week '' EHR Note .
+Similarity Score (Human vs All): 0.23239421844482422
+
+
+CATEGORY: Incorrect Other Inconsistency
+Human: 
+Text All: summary states patient 's lipase level 293 , EHR note shows multiple instances lipase levels : 2800 initial ED , 508 initial labs second ED , 293 subsequent blood test .
+N-gram Overlap (Human vs All): 0.0
+
+
+CATEGORY: Omitted Other Inconsistency
+Human: missing ED test results
+Omitted All: specific dosages , administration instructions medications , lack refills discharge medication omitted . example , 'Ondansetron ODT ___ mg PO Q8H : PRN nausea ' listed dosage specified .
+Similarity Score (Human vs All): 0.276153028011322
+
+Human: labs missing results
+Omitted All: specific dosages , administration instructions medications , lack refills discharge medication omitted . example , 'Ondansetron ODT ___ mg PO Q8H : PRN nausea ' listed dosage specified .
+Similarity Score (Human vs All): 0.18603982031345367
+
+
+CATEGORY: Incorrect Reasoning
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: summary states patient initially treated neoadjuvant chemotherapy planned Whipple procedure , aborted due liver metastases . implies past sequence events accurately matching EHR . Therefore , chronological inconsistency .
+Similarity Score (Human vs All): 0.4042189121246338
+
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: summary accurately states patient 's current treatment palliative gemcitabine paused patient regains strength , noted EHR . reflects current treatment status without chronological inconsistency .
+Similarity Score (Human vs All): 0.33095425367355347
+
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: EHR notes celiac plexus neurolysis procedure performed recently manage pain . summary mentions procedure without altering place patient 's timeline , maintaining chronological consistency .
+Similarity Score (Human vs All): 0.14494438469409943
+
+Human: labs results GPT interprets findings n't mentioned original document
+Text All: EHR documents patient 's presenting symptoms beginning course chemotherapy , progressive pain associated nausea , supporting findings ED elevated lipase levels . summary mirrors sequence events accurately , reinforcing consistency .
+Similarity Score (Human vs All): 0.411130428314209
+
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: summary states patient initially treated neoadjuvant chemotherapy planned Whipple procedure , aborted due liver metastases . implies past sequence events accurately matching EHR . Therefore , chronological inconsistency .
+Similarity Score (Human vs All): 0.0954565703868866
+
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: summary accurately states patient 's current treatment palliative gemcitabine paused patient regains strength , noted EHR . reflects current treatment status without chronological inconsistency .
+Similarity Score (Human vs All): 0.12698984146118164
+
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: EHR notes celiac plexus neurolysis procedure performed recently manage pain . summary mentions procedure without altering place patient 's timeline , maintaining chronological consistency .
+Similarity Score (Human vs All): 0.10779275000095367
+
+Human: interpreted reason bupivacine dehydrated alcohol injection
+Text All: EHR documents patient 's presenting symptoms beginning course chemotherapy , progressive pain associated nausea , supporting findings ED elevated lipase levels . summary mirrors sequence events accurately , reinforcing consistency .
+Similarity Score (Human vs All): 0.1448439508676529
+
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: summary states patient initially treated neoadjuvant chemotherapy planned Whipple procedure , aborted due liver metastases . implies past sequence events accurately matching EHR . Therefore , chronological inconsistency .
+Similarity Score (Human vs All): 0.043499626219272614
+
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: summary accurately states patient 's current treatment palliative gemcitabine paused patient regains strength , noted EHR . reflects current treatment status without chronological inconsistency .
+Similarity Score (Human vs All): 0.2807261049747467
+
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: EHR notes celiac plexus neurolysis procedure performed recently manage pain . summary mentions procedure without altering place patient 's timeline , maintaining chronological consistency .
+Similarity Score (Human vs All): 0.19034993648529053
+
+Human: olanzapine n't cause drowsiness , made sleepy
+Text All: EHR documents patient 's presenting symptoms beginning course chemotherapy , progressive pain associated nausea , supporting findings ED elevated lipase levels . summary mirrors sequence events accurately , reinforcing consistency .
+Similarity Score (Human vs All): 0.3239937126636505
+
+
+CATEGORY: Chronological Inconsistency
+Human: 
+Text All: summary states 'Discharge Instructions : admitted worsening abdominal pain , ' whereas EHR note explicitly link immediate reason admission describes progressive epigastric abdominal pain one week part ongoing issue related metastatic pancreatic cancer . interpretation suggests potential inconsistency immediate cause admission .
+Similarity Score (Human vs All): 0.0
+
+
+######################################################################################################################################
+
+COMPARISON OF HUMAN ANNOTATION WITH LLM SINGLE PROMPT DETECTION:
+
+
+CATEGORY: Incorrect Patient Information
+
+CATEGORY: Omitted Patient Information
+
+CATEGORY: Incorrect Patient History
+
+CATEGORY: Omitted Patient History
+
+CATEGORY: Incorrect Symptoms/Diagnosis
+
+CATEGORY: Omitted Symptoms/Diagnosis
+Human: findings completely omitted summary
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.1368478238582611
+
+Human: Gastric Biopsy finding omitted summary
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.2667018175125122
+
+Human: Score cause thrombus omitted summary
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.155522882938385
+
+Human: CT scan omitted
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.27399584650993347
+
+Human: Size omitted
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): -0.0049977973103523254
+
+Human: size omitted
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): -0.0049977973103523254
+
+Human: location pain omitted summary
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.253547340631485
+
+Human: missing ocassional radiation RUQ LUQ
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.1864301562309265
+
+Human: missing ERCP , CT angiogram findings biopsy showing adenocarcinoma
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.35155606269836426
+
+Human: missing celiac plexus block
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.2982613444328308
+
+Human: missing hospitalized diarrhea , anorexia neutropenia
+Omitted Single: Detailed description imaging results , including involvement lesser sac celiac axis , attenuation portal vein splenic vein due tumor , significant stool right colon .
+Similarity Score (Human vs Single): 0.18410462141036987
+
+
+CATEGORY: Incorrect Medicinal Instructions
+Human: chemotherapy radiation therapy
+Text Single: RX * magnesium citrate 300 ml mouth q3 days Refills : * 0
+N-gram Overlap (Human vs Single): 1.0
+
+
+CATEGORY: Omitted Medicinal Instructions
+
+CATEGORY: Incorrect Followup
+
+CATEGORY: Omitted Followup
+
+CATEGORY: Incorrect Other Inconsistency
+
+CATEGORY: Omitted Other Inconsistency
+
+CATEGORY: Incorrect Reasoning
+
+CATEGORY: Chronological Inconsistency
