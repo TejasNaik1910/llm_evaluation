@@ -22,6 +22,10 @@ def use_azureai(text):
     )
     return response.choices[0].message.content
 
+#update this to use gpt4o for the detection task. Once done, update the method name at Line 148.
+def use_gpt4o(text): 
+    return
+
 def extract_json(response):
     stack = []
     json_str = ""
@@ -141,8 +145,7 @@ for note_id in note_ids:
     Use this as the SUMMARY:
     {summary_content}
     """
-    
-    response = use_azureai(prompt)
+    response = use_azureai(prompt) # replace this with use_gpt4o method for gpt4o detections
     
     # Extract JSON from the response
     json_content = extract_json(response)
@@ -151,7 +154,7 @@ for note_id in note_ids:
         try:
             response_dict = json.loads(json_content)
             # Save the response
-            output_file = f'single_prompts/single-prompts-annotations/gpt4o/{note_id}.json' #need to change output file for Ilama
+            output_file = f'single_prompts/annotations/gpt4o/{note_id}.json' #need to change output file for Ilama
             # output_file = f'single_prompt/single-prompt-annotations/llama/{note_id}.json'
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)
