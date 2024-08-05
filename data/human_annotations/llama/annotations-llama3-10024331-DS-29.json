@@ -1,0 +1,141 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Discharge",
+            "startOffset": 1752,
+            "endOffset": 1761,
+            "startWordIndex": 242,
+            "endWordIndex": 243,
+            "omittedDetails": "Improved"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "Gallstones",
+            "startOffset": 524,
+            "endOffset": 534,
+            "startWordIndex": 66,
+            "endWordIndex": 67,
+            "omittedDetails": "missing causing biliary obstruction, s/p ERCP and sphincterotomy"
+        },
+        {
+            "text": "Radiation proctitis",
+            "startOffset": 502,
+            "endOffset": 521,
+            "startWordIndex": 64,
+            "endWordIndex": 66,
+            "omittedDetails": "missing s/p argon laser treatment"
+        },
+        {
+            "text": "Osteoarthritis",
+            "startOffset": 476,
+            "endOffset": 490,
+            "startWordIndex": 62,
+            "endWordIndex": 63,
+            "omittedDetails": "missing knees"
+        },
+        {
+            "text": "edical History",
+            "startOffset": 268,
+            "endOffset": 282,
+            "startWordIndex": 37,
+            "endWordIndex": 39,
+            "omittedDetails": "Cholelithiasis"
+        },
+        {
+            "text": "aroxysmal atrial fibrillation",
+            "startOffset": 1,
+            "endOffset": 30,
+            "startWordIndex": 0,
+            "endWordIndex": 6,
+            "omittedDetails": "anticoagulated in the past"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "filling defect in the bladder likely representing debris, possibly due to blood clot",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Renal ultrasound",
+            "startOffset": 863,
+            "endOffset": 879,
+            "startWordIndex": 111,
+            "endWordIndex": 113,
+            "omittedDetails": "missing rest of renal ultrasound findings and impression"
+        },
+        {
+            "text": "deep vein thrombosis",
+            "startOffset": 1099,
+            "endOffset": 1119,
+            "startWordIndex": 148,
+            "endWordIndex": 151,
+            "omittedDetails": "missing in the left or right lower extremities"
+        },
+        {
+            "text": "Hip replacement",
+            "startOffset": 537,
+            "endOffset": 552,
+            "startWordIndex": 67,
+            "endWordIndex": 69,
+            "omittedDetails": "Right hip missed"
+        },
+        {
+            "text": "Diabetes mellitus",
+            "startOffset": 424,
+            "endOffset": 441,
+            "startWordIndex": 56,
+            "endWordIndex": 58,
+            "omittedDetails": "T2DB"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Paroxysmal atrial fibrillation",
+            "startOffset": 376,
+            "endOffset": 406,
+            "startWordIndex": 52,
+            "endWordIndex": 55,
+            "omittedDetails": "missing metoprolol tartrate"
+        },
+        {
+            "text": "Diabetes mellitus",
+            "startOffset": 0,
+            "endOffset": 17,
+            "startWordIndex": 0,
+            "endWordIndex": 4,
+            "omittedDetails": "Meds for diabetes missing"
+        },
+        {
+            "text": "Paroxysmal atrial fibrillation",
+            "startOffset": 0,
+            "endOffset": 30,
+            "startWordIndex": 0,
+            "endWordIndex": 6,
+            "omittedDetails": "Missing amiodarone (cont)"
+        },
+        {
+            "text": "Gout",
+            "startOffset": 451,
+            "endOffset": 455,
+            "startWordIndex": 59,
+            "endWordIndex": 59,
+            "omittedDetails": "Cont colchicine missing"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "chronic",
+            "startOffset": 1862,
+            "endOffset": 1869,
+            "startWordIndex": 253,
+            "endWordIndex": 253,
+            "omittedDetails": ""
+        }
+    ]
+}

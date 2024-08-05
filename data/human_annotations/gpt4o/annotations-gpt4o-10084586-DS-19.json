@@ -1,0 +1,81 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Redacted",
+            "startOffset": 1385,
+            "endOffset": 1393,
+            "startWordIndex": 168,
+            "endWordIndex": 169,
+            "omittedDetails": "Pap Smear finding is missing from the summary"
+        },
+        {
+            "text": "fever",
+            "startOffset": 3407,
+            "endOffset": 3412,
+            "startWordIndex": 422,
+            "endWordIndex": 423,
+            "omittedDetails": "Fever Above 100.4 is generalized as \"Fever'"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Exam",
+            "startOffset": 1494,
+            "endOffset": 1498,
+            "startWordIndex": 179,
+            "endWordIndex": 180,
+            "omittedDetails": "Some physical exam findings are missing from the summary"
+        },
+        {
+            "text": "Blood ",
+            "startOffset": 2039,
+            "endOffset": 2045,
+            "startWordIndex": 242,
+            "endWordIndex": 243,
+            "omittedDetails": "Some lab results are missing from the summary"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Elevated WBC is considered an over interpretation as it's not mentioned in the original patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "low RBC is considered an over interpretation as it's not mentioned in the original patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Abnormal glucose is considered an over interpretation as it's not mentioned in the original patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "Course",
+            "startOffset": 2189,
+            "endOffset": 2195,
+            "startWordIndex": 263,
+            "endWordIndex": 264,
+            "omittedDetails": "Patien'ts smoking status is missing from the summary"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "incision ",
+            "startOffset": 3521,
+            "endOffset": 3530,
+            "startWordIndex": 437,
+            "endWordIndex": 438,
+            "omittedDetails": "Redness and warmth is generalized as issues"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "\"Abnormal, Anemia, Thrombocytopenia\" in Lab results is an incorrect reasoning",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary interpreted lab results as elevated, anemia and thrombocytopenia which is an over interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "medications",
+            "startOffset": 1381,
+            "endOffset": 1392,
+            "startWordIndex": 199,
+            "endWordIndex": 200,
+            "omittedDetails": "Oxycodone is generalized as pain medication"
+        },
+        {
+            "text": "History",
+            "startOffset": 517,
+            "endOffset": 524,
+            "startWordIndex": 79,
+            "endWordIndex": 80,
+            "omittedDetails": "Percocet is missing from the summary"
+        },
+        {
+            "text": "Follow-up",
+            "startOffset": 1902,
+            "endOffset": 1911,
+            "startWordIndex": 263,
+            "endWordIndex": 265,
+            "omittedDetails": "Changes to medications in discharge instructions are missing"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "monitor his blood pressure and oxygen saturation at home",
+            "startOffset": 2105,
+            "endOffset": 2161,
+            "startWordIndex": 296,
+            "endWordIndex": 305,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "ultrasound",
+            "startOffset": 1152,
+            "endOffset": 1162,
+            "startWordIndex": 166,
+            "endWordIndex": 167,
+            "omittedDetails": "RUQ Ultrasound is generalized as ultrasound"
+        },
+        {
+            "text": "Tests",
+            "startOffset": 906,
+            "endOffset": 911,
+            "startWordIndex": 133,
+            "endWordIndex": 134,
+            "omittedDetails": "CXR and its findings are missing from the summary"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "admission",
+            "startOffset": 669,
+            "endOffset": 678,
+            "startWordIndex": 102,
+            "endWordIndex": 103,
+            "omittedDetails": "Some Physical exams are missing from the summary"
+        },
+        {
+            "text": "discharge",
+            "startOffset": 784,
+            "endOffset": 793,
+            "startWordIndex": 119,
+            "endWordIndex": 120,
+            "omittedDetails": "Some physical exams are missing from the summary"
+        },
+        {
+            "text": "Lab ",
+            "startOffset": 915,
+            "endOffset": 919,
+            "startWordIndex": 134,
+            "endWordIndex": 135,
+            "omittedDetails": "Some Labs and their findings are missing from the summary"
+        },
+        {
+            "text": "Diagnostic ",
+            "startOffset": 895,
+            "endOffset": 906,
+            "startWordIndex": 132,
+            "endWordIndex": 133,
+            "omittedDetails": "Blood/Fluid culture is missing from the summary"
+        },
+        {
+            "text": "results ",
+            "startOffset": 919,
+            "endOffset": 927,
+            "startWordIndex": 135,
+            "endWordIndex": 136,
+            "omittedDetails": "Discharge labs are missing from the summary"
+        },
+        {
+            "text": "patient",
+            "startOffset": 349,
+            "endOffset": 356,
+            "startWordIndex": 54,
+            "endWordIndex": 55,
+            "omittedDetails": "Missing ROS in HPI"
+        },
+        {
+            "text": "Past ",
+            "startOffset": 504,
+            "endOffset": 509,
+            "startWordIndex": 77,
+            "endWordIndex": 78,
+            "omittedDetails": "Missed RPR in PMI"
+        },
+        {
+            "text": "Discharge ",
+            "startOffset": 1766,
+            "endOffset": 1776,
+            "startWordIndex": 247,
+            "endWordIndex": 248,
+            "omittedDetails": "Discharge labs are missing"
+        },
+        {
+            "text": "hemothorax",
+            "startOffset": 1887,
+            "endOffset": 1897,
+            "startWordIndex": 262,
+            "endWordIndex": 263,
+            "omittedDetails": "Missing outcome (recurrence)"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "past syphilis infection",
+            "startOffset": 621,
+            "endOffset": 644,
+            "startWordIndex": 96,
+            "endWordIndex": 99,
+            "omittedDetails": "Treated syphilis"
+        }
+    ]
+}

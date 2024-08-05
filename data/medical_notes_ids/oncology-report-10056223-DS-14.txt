@@ -1,0 +1,298 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+No paracentesis
+ 
+History of Present Illness:
+___ yo ___ speaking M with HCV, EtOH cirrhosis, ___ s/p TACE 
+x2 and RFA, current MELD score 9, on transplant list recurrent 
+C. diff presents with abdominal pain and hepatic encephalopathy. 
+ 
+Of note, patient was admitted to ___ (___) x 8 days for 
+increased hepatic encephalopathy and supposed discharged on 
+___. However, he was noted to have abdominal pain with 
+tremulousness. The abdominal pain started about 1 day ago. He 
+endorses subjective fever and chill but it is not documented. He 
+thinks that his encephalopathy is improving. He reports having 
+3BM a day.  
+In the ED, initial vitals were 98.4 81 118/52 20 100% ra. Exam 
+was notable for A&Ox3, + abdominal distention with + fluid wave. 
+However, ultrasound did not show drainable pocket. Paracentesis 
+was not done. Blood culture x 1 was sent. Labs are notable for 
+normal WBC, 10.1/31.6, Plt 123, normal neutrophils %, ALT 51, 
+AST 77, TBili 0.5, AP 163, Albumin 2.8, normal creatinine 0.7, 
+normal electroltyes, normal lactate. INR is 1.3. RUQ U/S showed 
+patent portal vein, patent umbilical vein, an ecogenic focus ~ 2 
+cm at the right lobe correlating with previous RFA site, a 1.5 
+cm echogenic site along the medial right lobe without clear 
+correlate compared to prior images. Patient was given zofran 2 
+mg x1 IV, lactulose 30 mL x 1. Upon transfer, VS 98.0 76 104/67 
+16 100%  
+
+ 
+Past Medical History:
+1. HCC s/p TACEx 2 with CT in ___ negative for recurrence
+2. HCV
+3. H/O ETOH abuse with resulting cirrhosis
+4. Hypertension
+5. Thrombocytopenia.
+6. s/p chole ___
+7. 3 episodes of C diff infection: ___
+ 
+Social History:
+___
+Family History:
+ He is divorced, has two kids in ___. There is no 
+known liver cancer or liver disease in his family.  
+
+ 
+Physical Exam:
+ADMISSION
+VS: 97.5 130/83, 72, 100% RA respiratory rate is not labored or 
+fast,  
+GENERAL: NAD, slightly jaundiced  
+HEENT: Sclera icteric. PERRL, EOMI.  
+NECK: Supple with low JVP  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, S1 S2 clear and of good quality without murmurs, rubs 
+or gallops. No S3 or S4 appreciated.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use, moving air well and 
+symmetrically. CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Distended but Soft, tender to palpation R>L, no 
+guarding. + fluid wave shift.  
+EXTREMITIES: Warm and well perfused, no clubbing or cyanosis. 2+ 
+___ bilaterally to knees.  
+
+DISCHARGE
+VS: Tc 98.3 Tmax 99.2 BP 107/83 (101-113) HR 69 (69-82) RR 18 
+100% RA
+GENERAL: NAD, slightly jaundiced  
+HEENT: Sclera icteric. PERRL, EOMI.  
+NECK: Supple with low JVP  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, S1 S2 clear and of good quality without murmurs, rubs 
+or gallops. No S3 or S4 appreciated.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use, moving air well and 
+symmetrically. CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Distended but Soft, tender to palpation R>L, no 
+guarding. Dull to percussion.
+EXTREMITIES: Warm and well perfused, no clubbing or cyanosis. 2+ 
+___ bilaterally to knees.  
+ 
+Pertinent Results:
+___ 08:20PM BLOOD WBC-5.3 RBC-3.51* Hgb-10.1* Hct-31.6* 
+MCV-90 MCH-28.7 MCHC-31.9 RDW-15.8* Plt ___
+___ 08:37PM BLOOD ___ PTT-35.1 ___
+___ 08:20PM BLOOD Glucose-160* UreaN-12 Creat-0.7 Na-133 
+K-3.9 Cl-101 HCO3-27 AnGap-9
+___ 08:20PM BLOOD ALT-51* AST-77* AlkPhos-163* TotBili-0.5
+___ 08:20PM BLOOD Albumin-2.8*
+___ 06:33AM BLOOD Albumin-4.3 Calcium-8.7 Phos-1.9* Mg-1.9
+___ 08:30PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+IMAGING
+U/S ___
+1.  Patent main portal vein with hepatopetal flow.  Recanalized 
+umbilical 
+vein. 
+2.  Echogenic focus in the right lobe of the liver, most likely 
+correlates to 
+patient's RFA site.  Additional 1.5 cm echogenic focus along the 
+medial edge 
+of the right lobe of the liver, difficult to discern whether 
+intra- or 
+extra-hepatic, no clear correlate on recent prior CT/MRI.  
+Correlate with 
+nonurgent, multiphase CT or MRI for better characterization. 
+3.  Status post cholecystectomy.  Common bile duct not 
+identified. 
+
+MRI ___ Prelim
+1. Stable size of the previously RF ablated lesion within the 
+right lobe of the liver. Perilesional hyperenhancement is again 
+noted which may be 
+perfusional in nature; however continued surveillance is 
+advised. 
+2. No lesions suspicious for hepatocellular carcinoma. 
+3. Features consistent with cirrhosis and portal hypertension. 
+4. Replaced left hepatic artery arising from the left gastric 
+artery and 
+replaced right hepatic artery arising from the superior 
+mesenteric artery.  
+5. Stable left retroperitoneal cystic lesion, likely 
+lymphangioma. 
+
+DISCHARGE
+___ 06:25AM BLOOD WBC-4.5 RBC-3.47* Hgb-10.1* Hct-31.3* 
+MCV-90 MCH-29.0 MCHC-32.1 RDW-15.7* Plt ___
+___ 06:25AM BLOOD ___ PTT-40.9* ___
+___ 06:25AM BLOOD Glucose-138* UreaN-16 Creat-0.8 Na-131* 
+K-4.6 Cl-98 HCO3-23 AnGap-15
+___ 06:25AM BLOOD ALT-39 AST-61* AlkPhos-131* TotBili-0.9
+___ 06:25AM BLOOD Calcium-9.3 Phos-4.0 Mg-1.7
+___ 11:51AM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-0 Polys-14 
+___ ___ 11:51AM CEREBROSPINAL FLUID (CSF) TotProt-28 Glucose-72
+ 
+Brief Hospital Course:
+HOSPIAL COURSE
+___ yo ___ speaking M with HCV, EtOH cirrhosis, HCC s/p TACE 
+x2 and RFA, current MELD score 9, on transplant list recurrent 
+C. diff presents with abdominal pain and possible hepatic 
+encephalopathy. RUQ U/S showed patent portal vein and a new 
+echogenic area in the medial aspect of the right lobe. We 
+treated empirically for SBP with CTX and gave albumin, however 
+repeat attempt at para found nothing to drain. CTX discontinued 
+after one dose and patient remained afebrile. MRI done ___ to 
+assess for the mass seen on RUQ did not show changes concerning 
+for HCC and AFP was wnl. Lipase/Amylase also normal. Pt was 
+maintained on lac/rif. On ___ patient developed headache and 
+neck pain. Was afebrile. Given a dose of acyclovir overnight. LP 
+in AM showed no evidence of bacterial or viral meningitis. RPR 
+negative, C.diff negative. Discharged with lab draw to take 
+place on ___ with results to be faxed to Dr. ___ in 
+transplant clinic where he has follow up on ___. Sent out on 
+home meds (furosemide 40, spironolactone 150, nadolol 20, 
+omeprazole 40bid).
+
+ACTIVE ISSUES 
+# Abdominal Pain. RUQ U/S did not show obstructive pathology as 
+portal vein and umbilical veins are patent. However, it did show 
+a new echogenic area in the medial aspect of the right lobe that 
+is unable to get correlated with previous scans. In addition, 
+given recent report of worsening mental status and abdominal 
+pain, we are treating empirically for SBP, however repeat 
+attempt at ___ found nothing to drain. Records from ___ 
+___ show he did not have a tap then. MRI showed no changes 
+concerning for HCC. 
+ 
+# AMS. Likely ___ hepatic encephalopathy vs. infectious (such as 
+SBP). UA is unremarkable. RUQ U/S without portal vein 
+thrombosis. Lung exam is benign. He denied any respiratory 
+symptoms. Continued on lac/rif. Developed headache on ___. 
+Initial LP unsuccessful. Overnightw as given a dose of acyclovir 
+but LP on ___ showed no signs of meningitis.   
+
+# HCV/EtOH cirrhosis and HCC w/p TACE and RFA. On transplant 
+list. RUQ initially concerning for new mass, but AFP wnl and MRI 
+did not show changes concerning for new cancer.
+
+# Hct Drop: On ___ had a hematocit drop. Guiaic negative. Pt 
+did not endorse melena. Repeat Hct stable. Continued omeprazole 
+and nadalol.
+
+INACTIVE ISSUES  
+# Ascites. No tapable pocket found on repeat U/S. Initially held 
+home lasix and spironolactone, but restarted him on home dose of 
+furosemide 40mg and spironolactone 150. 
+
+# RENAL: Crt stable at 0.7  
+
+TRANSITIONAL ISSUES
+# f/u CSF HSV PCR, BCX data (NGTD), Lyme serology, EBV IgG, IgM
+# f/u ___ lab draw for LFTs, CBC, ___, Chem 7
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from Patient discharge summary from 
+___.
+1. Clotrimazole 1 TROC PO 5X/DAY 
+2. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 
+3. Furosemide 40 mg PO DAILY 
+4. Nadolol 20 mg PO DAILY 
+5. Omeprazole 40 mg PO BID 
+6. Spironolactone 150 mg PO DAILY 
+7. Lactulose 30 mL PO QID 
+8. Rifaximin 550 mg PO BID 
+
+ 
+Discharge Medications:
+1. Clotrimazole 1 TROC PO 5X/DAY 
+RX *clotrimazole 10 mg 1 troche five times a day Disp #*150 Unit 
+Refills:*2
+2. Lactulose 30 mL PO QID 
+RX *lactulose 20 gram/30 mL 30 mL by mouth four times a day Disp 
+#*1 Bottle Refills:*0
+3. Nadolol 20 mg PO DAILY 
+RX *nadolol 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*2
+4. Omeprazole 40 mg PO BID 
+RX *omeprazole 40 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Tablet Refills:*2
+5. Simethicone 80 mg PO QID:PRN gas pain 
+RX *simethicone 80 mg 1 tab by mouth four times a day Disp #*120 
+Tablet Refills:*2
+6. Rifaximin 550 mg PO BID 
+RX *rifaximin [Xifaxan] 550 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*2
+7. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 
+RX *ergocalciferol (vitamin D2) [Vitamin D2] 50,000 unit 1 
+capsule(s) by mouth QWeek Disp #*4 Capsule Refills:*2
+8. Furosemide 40 mg PO DAILY 
+RX *furosemide 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*2
+9. Spironolactone 150 mg PO DAILY 
+RX *spironolactone 50 mg 3 tablet(s) by mouth daily Disp #*90 
+Tablet Refills:*2
+10. Outpatient Lab Work
+Please draw LFTs, CBC, ___, Chem 7 on ___ and fax to 
+liver transplant clinic ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Alcoholic Cirrhosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure participating in your care. You were admitted 
+for abdominal pain and some confusion. Initially we were 
+concerned about infection of the fluid in your abdomen. We tried 
+to sample fluid from your abdomen to look for infection but 
+found none to drain. You remained without signs of infection 
+after we stopped antibiotics.
+
+An ultrasound also showed a new mass in your liver, so we did an 
+MRI to better assess this mass, and currently we are NOT 
+concerned about recurrence of liver cancer.
+
+Please have laboratory studies drawn on ___ and they will 
+fax your results to the Transplant Clinic.
+
+Also please keep your appointment with Dr. ___ 
+primary care doctor. 
+
+We have given you a medicine, SIMETHICONE for gas pain. 
+Otherwise we have not made any changes to your medicines from 
+admission. We have given you a prescription for all your 
+medicines so that you can be sure of what you should be taking.
+ 
+Followup Instructions:
+___

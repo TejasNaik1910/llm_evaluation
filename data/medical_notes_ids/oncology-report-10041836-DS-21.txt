@@ -1,0 +1,284 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine / Ciprofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+C. Diff Colitis, Pathologic Fracture Femur
+ 
+Major Surgical or Invasive Procedure:
+External Beam Radiation
+ 
+History of Present Illness:
+___ year old female with hx of endometrial cancer with mets to 
+bone and resulting pathologic fracture L hip, s/p recent 
+admission to medicine service with Ortho pinning of L hip, now 
+presents with primary complaints of fevers, abdominal pain and 
+diarrhea.  
+
+Pt states that she was generally doing well after discharge on 
+___, after which she went to acute rehab x 5 days. However, 
+after returning home from rehab, pt notes that she had very poor 
+appetite with poor po intake of food/hydration. She developed 
+diarrhea soon after returning home from rehab with avg ___ 
+loose, watery, foul odored BM's per day. Pt also notes that she 
+had signif lower abdominal cramping pain, with lots of excess 
+gas. She had been discharged on senna considering prior history 
+of constipation, however she self-d/c'd this approx 5 days ago 
+d/t diarrhea without signif improvement in symptoms. Abdominal 
+pain has been ___ at it's worst.  
+
+Pt states that her L hip/leg pain has been stable since 
+dishcarge, and at times can get to be ___, but this is not 
+signif different from prior. No new worsening of pain. No 
+erythema, drainage, swelling, warmth, etc.  
+
+ED course:  
+pt given NS 1 liter with 40 meq KCl, Ceftriaxone 1 gm IV x1  
+Ortho consulted in the ED, and images were obtained of 
+knee/femur, and Ortho did not believe that hip site shows any 
+e/o infection.  
+
+ROS:  
++: as per hpi, plus: fevers, chills, night sweats, anorexia, 
+occas heart palpitations (she attributes to poor po intake), abd 
+pain, occas nausea, diarrhea, occas confusion with pain rx.  
+
+Denies:  
+ROS otherwise negative.  
+
+ 
+Past Medical History:
+# endometrial CA s/p resection ___ in staging 
+lap found colon lesion that was removed and was a primary colon 
+ca  
+# PE (___) on coumadin  
+# Hx pathologic fracture L hip  
+- s/p intramedullary nailing of intertrochanteric femur ___  
+- pathology with metastatic carcinoma; probable endometrial  
+# Hypertension  
+
+ 
+Social History:
+___
+Family History:
+mother - died "blood cancer"  
+father - died CVA  
+
+ 
+Physical Exam:
+VS: 99.7 115/60 87 20 96RA  
+GEN: AAOx3. Pleant elderly female. Non-toxic, somewhat 
+uncomfortable.  
+HEENT: eomi, MM extremely dry. Orange plaque on tongue.  
+Neck: No LAD. JVP flat.  
+RESP: CTA B. No WRR.  
+CV: RRR. ___ soft SEM max at apex.  
+ABD: +BS. Soft, NT/ND.  
+Ext: No CEE. L hip incisions healing well, CDI. Some local pain 
+on deep palpation at L hip operative site.  
+Neuro: CN ___ grossly intact.  
+
+ 
+Pertinent Results:
+___ 07:15AM BLOOD WBC-10.2 RBC-3.25* Hgb-8.1* Hct-24.6* 
+MCV-76* MCH-25.1* MCHC-33.2 RDW-17.9* Plt ___
+___ 08:30AM BLOOD WBC-13.4* RBC-3.69* Hgb-8.7* Hct-27.7* 
+MCV-75* MCH-23.7* MCHC-31.6 RDW-17.5* Plt ___
+___ 05:10PM BLOOD WBC-17.8*# RBC-3.65* Hgb-8.9* Hct-27.8* 
+MCV-76* MCH-24.3* MCHC-31.9 RDW-16.2* Plt ___
+___ 05:10PM BLOOD Neuts-85.0* Lymphs-12.3* Monos-2.4 
+Eos-0.1 Baso-0.2
+___ 06:53AM BLOOD Hypochr-1+ Anisocy-OCCASIONAL 
+Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-OCCASIONAL 
+Polychr-OCCASIONAL Ovalocy-OCCASIONAL Schisto-OCCASIONAL Tear 
+Dr-OCCASIONAL
+___ 07:15AM BLOOD ___ PTT-38.7* ___
+___ 07:10AM BLOOD ___ PTT-35.4* ___
+___ 06:25AM BLOOD ___ PTT-32.7 ___
+___ 06:53AM BLOOD ___
+___ 06:45AM BLOOD ___ PTT-35.9* ___
+___ 05:10PM BLOOD ___ PTT-38.6* ___
+___ 06:45AM BLOOD ESR-35*
+___ 07:15AM BLOOD Glucose-132* UreaN-3* Creat-0.4 Na-136 
+K-3.3 Cl-101 HCO3-23 AnGap-15
+___ 07:10AM BLOOD Glucose-133* UreaN-4* Creat-0.5 Na-136 
+K-3.2* Cl-102 HCO3-22 AnGap-15
+___ 06:25AM BLOOD Glucose-118* UreaN-5* Creat-0.5 Na-140 
+K-3.7 Cl-106 HCO3-22 AnGap-16
+___ 05:10PM BLOOD Glucose-114* UreaN-8 Creat-0.6 Na-133 
+K-3.0* Cl-98 HCO3-24 AnGap-14
+___ 05:10PM BLOOD ALT-9 AST-20 CK(CPK)-42 AlkPhos-129* 
+TotBili-0.2
+___ 06:25AM BLOOD ALT-6 AST-17 AlkPhos-102 TotBili-0.2
+___ 05:10PM BLOOD Lipase-61*
+___ 05:10PM BLOOD cTropnT-<0.01
+___ 07:15AM BLOOD Calcium-8.4 Phos-2.0* Mg-1.4*
+___ 07:10AM BLOOD Calcium-8.8 Phos-2.6* Mg-1.5*
+___ 05:10PM BLOOD Albumin-3.0* Calcium-8.9 Phos-2.0* Mg-1.7
+___ 06:25AM BLOOD Albumin-2.4* Calcium-8.7 Phos-2.7 Mg-1.6
+___ 06:45AM BLOOD CRP-104.8*
+___ 05:24PM BLOOD Lactate-1.5 K-2.9*
+___ 06:20PM URINE Color-Yellow Appear-Clear Sp ___
+___ 06:20PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-15 Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+
+___ 5:10 pm BLOOD CULTURE
+**FINAL REPORT ___
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 6:20 pm URINE     Site: CLEAN CATCH
+**FINAL REPORT ___
+URINE CULTURE (Final ___:    NO GROWTH.
+
+___ 6:38 am STOOL     CONSISTENCY: LOOSE      Source: 
+Stool. 
+**FINAL REPORT ___
+FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final ___: 
+      REPORTED BY PHONE TO ___ @ 11:10P ___. 
+      CLOSTRIDIUM DIFFICILE. 
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA. 
+           (Reference Range-Negative). 
+         A positive result in a recently treated patient is of 
+uncertain
+         significance unless the patient is currently 
+symptomatic
+         (relapse). 
+VIRAL CULTURE (Final ___: 
+      UNABLE TO RECOVER VIRUS DUE TO PRESENCE OF C.DIFFICILE 
+TOXIN IN
+      SAMPLE. 
+
+ 
+Brief Hospital Course:
+# C. diff colitis
+- 14 Day course of Flagyl initiated
+- Patient was diarhea free at time of discharge, and had no 
+further symptoms
+
+# Dehydration/hypovolemia  
+- likely ___ to diarrhea, cont IVFs. DC IVFs once diarrhea slows 
+down
+
+# Metastatic endometrial cancer w recent met to bone, 
+Intratronchanteric Femur Fracture - Pathologic
+- Plain xrays in ED initially read as negative but called by 
+radadiology that there is a new intratrochanteric fx. Pt placed 
+on bedrest, orthopedics was consulted. Orthopedics states that 
+she was weight bearing, and would require ___ and pain control 
+and she was evaluated by ___ who deemed her safe for discharge to 
+home. 
+- Radiation oncology consult called, and XRT was initiated 
+during the admission and will continue through the following 
+week with a total of 5 cycles.
+- continued Megestrol  
+- Pt states she has Onc appt at ___ on ___ with Dr. 
+___
+
+# Hx of PE, on coumadin, Coagulopathy
+- slightly supratherapeutic INR, likely due to poor nutrition 
+and antibiotics
+- continue Coumadin at slightly reduced dose: 3 mg  
+- follow INR  
+
+# Hypertension  
+- COntinue home atenolol, nifedipine
+
+# Moderate Malnutrition
+- Seen by nutrition consult
+- Ensure supplements
+
+FEN: heart healthy diet, ensure supplements, IVF hydration  
+PPx: on coumadin, ppi  
+CODE: DNR/DNI, discussed with patient  
+DISPO: pending further evaluation, likely to home  
+Communication: Nephew, Dr. ___: ___, ___ 
+___
+ 
+Medications on Admission:
+Senna 1 tab po q day prn  
+Ativan 0.5 mg po q Hs  
+atenolol 12.5 mg po q day  
+Nifedipine ER 30 mg po q day  
+Paroxetine 10 mg po q day  
+Warfarin 6 mg po q day  
+Voltaren 1% gel 1 app q day  
+Megestrol 40 mg po BID  
+Omeprazole 20 mg po q day 
+
+ 
+Discharge Medications:
+1. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for insomnia.  
+2. Atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+3. Nifedipine 30 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO DAILY (Daily).  
+4. Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Megestrol 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q6H (every 6 hours) as needed for pain.  
+8. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours) for 5 days.
+Disp:*15 Tablet(s)* Refills:*0*
+9. Warfarin 3 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___.
+Disp:*30 Tablet(s)* Refills:*0*
+10. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1) 
+Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12 hr(s)* Refills:*0*
+11. Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+C diff colitis
+Intratrochanteric Femur Fracture (Pathologic)
+Malignant Neoplasm - Endometrial
+Metastises to Bone
+Metastises to Lung
+Coagulopathy NOS
+Pulmonary Embolism
+Thrombocythemia
+Dehydration
+Constipation
+ 
+Discharge Condition:
+good
+ 
+Discharge Instructions:
+Return to the hospital with fevers, chills, nausea/vomitting, 
+diarhea.
+
+You should not consume any alcohol containing products while on 
+the antibiotic metronidazole, or you will experience violent 
+vomitting.
+
+You are on radiation oncology service, and will be continuing 
+radiation therapy after discharge
+ 
+Followup Instructions:
+___

@@ -1,0 +1,268 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, jaundice
+ 
+Major Surgical or Invasive Procedure:
+ERCP/EUS with biopsies and Biliary stenting ___ 
+ 
+History of Present Illness:
+___ yo M with seizure disorder and chronic low back pain who
+presents with abdominal pain and jaundice. Pt reports abdominal
+pain that started in the LUQ on ___ and progressed to
+include the RUQ over the following day. He noticed that he was
+jaundiced on ___ w/ tea colored urine and pale stools. He also
+endorses pruritus. He went to the ED at ___ on ___ and
+reportedly was found to have a mass at the head of the pancreas
+and hepatic lesions. He saw his PCP today who referred him to
+___ for evaluation. 
+
+In the ED, pt afebrile w/ WBC 8.5k. Labs notable for ALT 79, AST
+43, Alk 829, Tb 22.6. ERCP was consulted who recommended NPO for
+ERCP tomorrow and antibiotic ppx w/ cipro/flagyl. 
+
+Pt otherwise denies any weight loss, chronic abdominal pain, or
+diarrhea. 
+
+ROS: As above. Denies headache, lightheadedness, dizziness, sore
+throat, sinus congestion, chest pain, heart palpitations,
+shortness of breath, cough, nausea, vomiting, diarrhea,
+constipation, urinary symptoms, muscle or joint pains, focal
+numbness or tingling, skin rash. The remainder of the ROS was
+negative.
+
+ 
+Past Medical History:
+PMHx:
+- Distant ex-lap ___ stabbing
+- chronic back pain w/ prior lumbar discectomy
+- seizure disorder, currently off meds 
+- HTN
+- depression
+ 
+Social History:
+___
+Family History:
+No family history of GI illness or malignancy.
+
+ 
+Pertinent Results:
+HBsAg: NEG 
+HBs Ab: NEG 
+HBc Ab: NEG 
+HAV Ab: NEG 
+Hep C Ab: POS** --> Viral load negative
+
+*Cytology Pending
+
+___ 
+ ALT: 48* AST: 37 AlkPhos: 649* TotBili: 24.4*
+
+___
+ ALT: 46* AST: 51* AlkPhos: 587* TotBili: 23.9* 
+
+MRCP ___: Results
+IMPRESSION:   
+1. 6.0 cm centrally necrotic mass in the tail the pancreas
+obliterating the splenic vein, intimately associated with the
+splenic artery, and abutting but not clearly involving the
+inferior aspect of the stomach, consistent with primary
+pancreatic neoplasm. No extension to the splenic hilum. 
+2. Numerous hepatic metastases including to the hepatic hilum
+causing diffuse intrahepatic biliary ductal dilation and
+multifocal areas of intrahepatic iliary ductal tree stricturing,
+including involving the left and right anterior and posterior
+hepatic ducts as well as more distal segmental biliary 
+tree branches. 
+3. Peribiliary enhancement is concerning for superimposed
+cholangitis. 
+4. Enlarged periportal lymph nodes are concerning for nodal
+metastases. 
+5. Right portal vein is occluded. Patent left and main portal
+vein. Patent SMV. 
+6. Upper abdominal varices are noted including along the lesser
+curvature of the stomach. No splenomegaly or ascites. 
+7. 2 cm right adrenal adenoma. Other incidental findings, as
+above. 
+
+ERCP ___
+The scout film was normal. 
+There was mild duodenitis. 
+The bile duct was deeply cannulated with the sphincterotome. 
+Contrast was injected and there was brisk flow through the
+ducts. 
+Contrast extended to the entire biliary tree. The CBD was 6 mm
+in diameter. 
+Opacification of the gallbladder was incomplete. 
+There was evidence of a hilar stricture involving both the CHD,
+as well as left and right main intrahepatic ducts. 
+The total length of the stricture was 3 cm. 
+This is compatible with a Type IV hilar stricture. 
+A biliary sphincterotomy was made with a sphincterotome. 
+There was no post-sphincterotomy bleeding. 
+Both the right and left IHD were cannulated with wires using
+standard double-wire technique. 
+A 6 mm hurricane dilation balloon was used to dilaton the right
+and left main ducts as well as CHD. Cytology brushings of the
+hilum were performed. 
+A ___ x 15 cm biliary plastic straight stent was placed into 
+the
+right IHD. 
+An 8.5 F x 14 cm biliary plastic straight stent was attempted 
+to
+be placed into the left IHD but was unable to traverse the
+stricture and thus was removed with a snare. 
+A ___ x 14 cm biliary plastic straight stent was then placed 
+into
+the left main IHD successfully after repeat hurricane dilation
+with 6 mm balloon. 
+Excellent bile and contrast drainage was seen endoscopically 
+and
+fluoroscopically. 
+Otherwise normal ercp to third part of the duodenum
+
+EUS ___
+Impression: A focused EUS was performed using a linear
+echoendoscope at ___ MHz frequency: The head and uncinate
+pancreas were imaged from the duodenal bulb and the second /
+third duodenum. The body and tail [partially] were imaged from
+the gastric body and fundus.
+Pancreas Tail Mass: A 6 cm X 7 cm ill-defined mass was noted in
+the tail of the pancreas. The mass was hypoechoic and
+heterogenous in echotexture. The borders of the mass were
+irregular and poorly defined.
+FNB was performed of the mass. Color doppler was used to
+determine an avascular path for needle aspiration. A 22-gauge
+Sharkcore needle with a stylet was used to perform biopsy. Four
+needle passes were made into the mass. 
+25 gauge FNA was also performed of the mass with two passes.
+No appreciable liver lesions were identified for biopsy.
+Otherwise normal upper eus to third part of the duodenum
+ 
+Brief Hospital Course:
+___ yo M with h/o HTN, chronic back pain, who presents with
+jaundice and outside imaging with finding of mass within the
+pancreas
+
+# Necrotic Pancreatic Mass - Pancreatic tail mass with possible 
+metastasis to liver and regional lymph nodes. EUS/ERCP done on 
+___ and obtained FNA of tumor and cytology brushings of bile 
+duct for pathology (with preliminary findings of adenocarcinoma; 
+Onc aware and will be followed up outpatient). At time of 
+discharge d/c'd home with  PO oxycodone for moderate pain 
+(increased from home dose of 10mg to 15mg)
+
+# Hyperbilirubinemia and Elevated LFTs - Most likely from mass
+and obstruction from lymph notes. Stenting ___. To follow up 
+with
+ERCP team in 4 weeks
+
+# Periportal enhancement on MRCP - Possible Cholangitis? Will
+treat for duration of Cholangitis course ___ days -
+intervention on ___.  Cipro/flagyl  - End date ___
+
+# Portal vein thrombosis as above - STarted on heparin ggt due 
+to thrombosis. Restarted on Subcutaneous lovenox prior to 
+discharge. 
+
+# Hep C Ab + - Viral Load negative
+
+# HTN - continue metoprolol 50 daily. Restart losartan and 
+chlorthalidone on discharge
+
+# Depression/Anxiety - continue sertraline. Started Alprazolam 
+inpatient due to overwhelming anxiety during diagnosis stage of 
+his pancreatic cancer 
+
+# Adrenal Adenoma - Incidental 2cm mass. If indicated, repeat 
+imaging in ___ months
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Chlorthalidone 25 mg PO DAILY 
+2. Losartan Potassium 25 mg PO DAILY 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. OxyCODONE (Immediate Release) 10 mg PO Q6H:PRN Pain - 
+Moderate 
+5. Sertraline 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  ALPRAZolam 1 mg PO TID:PRN Anxiety 
+RX *alprazolam 1 mg 1 tablet(s) by mouth Three times a day as 
+needed for anxiety Disp #*15 Tablet Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth Every 
+12 hours Disp #*12 Tablet Refills:*0 
+3.  Enoxaparin Sodium 110 mg SC Q12H 
+RX *enoxaparin 100 mg/mL 110 mg Subcutaneous injecton Every 12 
+hours Disp #*60 Syringe Refills:*0 
+4.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth Every 8 
+hours Disp #*18 Tablet Refills:*0 
+5.  Nicotine Lozenge 2 mg PO Q4H:PRN Cravings 
+RX *nicotine (polacrilex) [Nicorette] 2 mg Every 4 hours as 
+needed for craving Every 4 hours as needed for craving Disp #*60 
+Lozenge Refills:*0 
+6.  Nicotine Patch 21 mg TD DAILY 
+RX *nicotine 21 mg/24 hour 1 patch daily for smoking cravings 1 
+patch daily for smoking cravings Disp #*30 Patch Refills:*0 
+7.  Chlorthalidone 25 mg PO DAILY  
+8.  Losartan Potassium 25 mg PO DAILY  
+9.  Metoprolol Succinate XL 50 mg PO DAILY  
+10.  OxyCODONE (Immediate Release) 10 mg PO Q6H:PRN Pain - 
+Moderate  
+11.  Sertraline 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pancreatic Cancer
+Hyperbilirubinemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr ___,
+
+You were admitted for abdominal pain and jaundice. It was found 
+that you had a large mass in your pancreas that looks like it 
+had spread to your lymph nodes and to your liver. During you 
+stay you had an MRI of your biliary system and also a procedure 
+called an ERCP in which we took biopsies of your lesion and also 
+brushings of your bile duct. We stented your bile duct so it 
+should be draining OK. 
+
+The ERCP team want to see you back in 4 weeks to re-evaluate and 
+pull the stent.
+
+The final results of the brushings and samples taken will be 
+followed up by oncology. Please expect a call from them or call 
+them within 1 week of discharge.
+You were also started on Lovenox for a clot in your right portal 
+vein.
+
+It was a pleasure  being part of your care
+Your ___ Team
+ 
+Followup Instructions:
+___

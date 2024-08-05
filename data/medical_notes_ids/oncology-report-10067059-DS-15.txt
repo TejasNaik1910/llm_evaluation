@@ -1,0 +1,232 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right parasagittal frontal mass
+ 
+Major Surgical or Invasive Procedure:
+___: Right craniotomy resection of dural lesion 
+ 
+History of Present Illness:
+___ female who presents with previous small cell lung 
+cancer and a right parasagittal frontal mass, which was 
+discovered on surveillance scan. The patient was initially 
+diagnosed with non-small cell lung cancer of the left lung and 
+was treated with lobectomy in ___, at ___.  
+Right upper lobe lung nodules were negative, and she has been 
+monitored with serial scans.  Recent MRI demonstrated a probable 
+parasagittal meningioma. Imaging revealed right parasagittal 
+frontal mass, which is approximately 8 x 8 x 12 mm.  This is 
+likely meningioma, however, given her history, it is possible 
+that it could be a dural based metastasis.
+
+ 
+Past Medical History:
+- smoking
+- lung cancer which was treated ___ 
+- significant claustrophobia.
+
+ 
+Social History:
+___
+Family History:
+Unknown 
+ 
+Physical Exam:
+ON DISCHARGE: 
+============
+Exam:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+Pupils:  PERRL 3-2mm bilaterally 
+EOM: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+___
+
+IPQuadHamATEHLGast
+___
+Left5       5       5       5       5       5
+[x]Sensation intact to light touch
+
+Wound: 
+[x]Clean, dry, intact 
+[x]Staples
+ 
+Pertinent Results:
+Please refer to OMR for pertinent imaging and lab results 
+ 
+Brief Hospital Course:
+___ is a ___ year old female who had routine imaging 
+done for her history of lung cancer, and found to have a right 
+dural based lesion. She presents for elective surgical 
+intervention. 
+
+#Right Brain Tumor
+Patient presented to pre-op area, was assessed by anesthesia and 
+taken to the OR on ___ for Right craniotomy for resection of 
+dural based lesion. Patient tolerated the procedure well. Please 
+refer to formal op report in OMR for further intra operative 
+details. She was successfully extubated in the OR and taken to 
+the PACU for post op where. She remained stable in PACU and was 
+later transferred to the ___. Post op MRI was on POD1 and 
+showed no residual tumor. She was discharged on POD2. At time of 
+discharge, she remained neurologically intact, her pain was well 
+controlled, she was eating/drinking at baseline, and she was 
+ambulating in the hallways with steady gait with no 
+difficulties. 
+ 
+Medications on Admission:
+- alprazolam 0.25 mg tablet - (2 pills in AM, 1 at night)
+- cyclobenzaprine 10 mg tablet - 1 tab PO BID
+- fluoxetine 20 mg capsule - 1 cap PO BID
+- levothyroxine 25 mcg tablet - 1 tab PO daily
+- levothyroxine 88 mcg tablet - 1 tab PO daily
+- simvastatin 40 mg tablet - 1 tab PO QPM
+- Ambien 5 mg tablet - 1 tab PO QHS
+- multivitamin tablet - 1 tab PO daily
+- Fish Oil 360 mg-1,200 mg capsule - 1 cap PO daily 
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Dexamethasone 4 mg PO Q12H Duration: 3 Doses  
+3.  Dexamethasone 2 mg PO Q12H Duration: 4 Doses 
+Tapered dose - DOWN 
+RX *dexamethasone 2 mg 1 tablet(s) by mouth see taper Disp #*7 
+Tablet Refills:*0 
+4.  Dexamethasone 2 mg PO DAILY Duration: 2 Doses 
+Tapered dose - DOWN  
+5.  Docusate Sodium 100 mg PO BID  
+6.  Famotidine 20 mg PO BID 
+RX *famotidine 20 mg 1 tablet(s) by mouth twice a day Disp #*14 
+Tablet Refills:*0 
+7.  LevETIRAcetam 1000 mg PO BID 
+RX *levetiracetam 1,000 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*1 
+8.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Post op orders
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four hours as 
+needed Disp #*10 Tablet Refills:*0 
+9.  ALPRAZolam 0.25 mg PO BID:PRN anxiety   
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Brain Tumor 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Surgery
+
+*** You underwent surgery to remove a brain lesion from your 
+brain. 
+* Please keep your incision dry until your staples are removed. 
+* You may shower at this time but keep your incision dry.
+* It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+* Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+
+* We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+* You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+* No driving while taking any narcotic or sedating medication. 
+* If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+* No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+
+***Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+
+* You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+***You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+** Please follow-up with Dr ___ length of duration to take 
+this medication.
+
+** You were started on Dexamethasone to help with post-operative 
+swelling. 
+Please take 4mg once the night of discharge
+Pleas take 2mg twice a day for two days
+Please take 2mg once a day for two days
+
+Please take Famotidine twice a day to protect your stomach while 
+taking steroids. 
+
+What You ___ Experience:
+
+* You may experience headaches and incisional pain. 
+* You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+* You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+* Feeling more tired or restlessness is also common.
+* Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+
+* Severe pain, swelling, redness or drainage from the incision 
+site. 
+* Fever greater than 101.5 degrees Fahrenheit
+* Nausea and/or vomiting
+* Extreme sleepiness and not being able to stay awake
+* Severe headaches not relieved by pain relievers
+* Seizures
+* Any new problems with your vision or ability to speak
+* Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+
+* Sudden numbness or weakness in the face, arm, or leg
+* Sudden confusion or trouble speaking or understanding
+* Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+* Sudden severe headaches with no known reason
+ 
+Followup Instructions:
+___

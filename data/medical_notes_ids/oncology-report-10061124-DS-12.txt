@@ -1,0 +1,418 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine; Iodine Containing
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CC: dyspnea
+reason for transfer: IP evaluation
+
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy
+ 
+History of Present Illness:
+___ yo M with CAD, PAD, RAS, CHF (EF 20%) initially admitted to 
+___ for dyspnea x 2 weeks. Pt described symptoms of orthopnea 
+and PND. CXR demonstrated a large L pleural effusion. Subsequent 
+CT chest demonstrated a large central lung mass with bronchial 
+occlusion, mediastinal adenopathy, and a large pleural effusion. 
+The pt was admitted to the medical floor. Thorscentesis was 
+performed and 800 ccs of fluid were removed. Cytology c/w with 
+NSCLC (later revised to small cell) (suspect stage IV given 
+clinical picture). Bronch on ___ showed obstruction of L upper 
+and lower bronchi. On ___ a CT was placed by thoracic surgery. 
+1500 ccs total drained on ___. Oncology (Dr. ___ was 
+consulted. A discussion amongst the consultants and the primary 
+team led to the conclusion that a pulmonay stent for improved 
+respiratory comfort might be indicated. Pt is now being 
+transferred to ___ for evaluation by interventional 
+pulmonology.
+
+ 
+Past Medical History:
+1.  Hypertension.
+2.  Hyperlipidemia.
+3.  CAD with occlusion of RCA, LC circumflex, and noncritical 
+disease of the LAD.
+4.  Hypertensive/ischemic cardiomyopathy with ejection fraction 
+of 15%-20% in ___.
+5.  Peripheral vascular arterial disease status post an 
+abdominal aortic aneurysm with aortobifemoral bypass with acute 
+occlusion in the right common RCA status post PTCA initially by 
+Dr. ___  ___ post right PTCA by Dr. ___, good 
+result.
+6.  Status post right total hip arthroplasty.
+7.  Status post right carotid endarterectomy.
+8.  Status post right total hip arthroplasty.
+9.  Status post cholecystectomy as noted.
+CRI (baseline cr 1.4-1.7)
+s/p recent cataract surgery
+
+ 
+Social History:
+___
+Family History:
+no known h/o lung CA
+ 
+Physical Exam:
+Temp 97.2
+BP 136/74
+Pulse 70
+Resp 16
+O2 sat 95% 3L NC
+Gen - Alert, no acute distress 
+HEENT - anicteric, mucous membranes moist 
+Neck - no JVD, no cervical lymphadenopathy 
+Chest - crackles on bases, diminished L base, drain dressing 
+c/d/i
+CV - Normal S1/S2, RRR, no murmurs appreciated
+Abd - Soft, nontender, nondistended, with normoactive bowel 
+sounds 
+Extr - trace edema. 2+ DP pulses bilaterally 
+Neuro - Alert and oriented x 3
+
+ 
+Pertinent Results:
+___ 07:30PM   UREA N-16 CREAT-1.3* SODIUM-141 POTASSIUM-4.4 
+CHLORIDE-106 TOTAL CO2-28 ANION GAP-11
+___ 07:30PM   estGFR-Using this
+___ 06:21AM BLOOD WBC-0.8*# RBC-3.19* Hgb-9.4* Hct-27.8* 
+MCV-87 MCH-29.4 MCHC-33.7 RDW-13.4 Plt Ct-61*
+___ 07:25AM BLOOD WBC-7.3 RBC-3.67* Hgb-10.8*# Hct-32.8* 
+MCV-89# MCH-29.3 MCHC-32.8 RDW-13.9 Plt ___
+___ 07:30PM BLOOD UreaN-16 Creat-1.3* Na-141 K-4.4 Cl-106 
+HCO3-28 AnGap-11
+___ 06:21AM BLOOD Glucose-102 UreaN-30* Creat-1.3* Na-139 
+K-4.6 Cl-111* HCO3-20* AnGap-13
+___ 07:40AM BLOOD ALT-33 AST-57* LD(LDH)-319* AlkPhos-229* 
+TotBili-0.8
+___ 06:21AM BLOOD Calcium-7.6* Phos-3.5 Mg-1.8
+___ 07:25AM BLOOD Calcium-8.8 Phos-3.5 Mg-2.1
+.
+EKG: 
+Normal sinus rhythm with atrial premature complexes 
+Left axis deviation - left anterior fascicular block 
+Consider anterior myocardial infarction - age undetermined 
+Nonspecific lateral ST-T changes 
+Nonspecific intraventricular conduction delay 
+Since previous tracing of the same date, ventricular premature 
+complexes are 
+absent 
+ 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+75 0 ___ 0 -52 115 
+.
+CT CHEST W/O CONTRAST  ___ 8:___HEST W/O CONTRAST
+
+Reason: please evaluate pleural space and airways 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old man with new diagnosis of L NSCLC here for IP eval 
+REASON FOR THIS EXAMINATION:
+please evaluate pleural space and airways 
+CONTRAINDICATIONS for IV CONTRAST: pt is allergic to contrast 
+dye
+
+PROCEDURE: CT chest without contrast on ___.
+
+COMPARISON: None similar are available.
+
+TECHNIQUE: Contiguous axial images were obtained from the 
+thoracic inlet to the subdiaphragmatic area without contrast. 
+Thinner slice 5 mm and 1.25 mm images were reconstructed in the 
+axial plane at different window algorithms. Sagittal/coronal 
+reformatted images were also obtained for further evaluation.
+
+HISTORY: ___ man with new diagnosis of left non-small 
+cell lung cancer here for evaluation. Evaluate pleural space and 
+airways.
+
+FINDINGS: 7 x 9 x 10-cm lobulated heterogeneous soft tissue mass 
+with multiple areas of low attenuation likely necrosis are seen 
+involving the left lung with endoluminal involvement of the left 
+main bronchus before its bifurcation causing almost complete 
+collapse of the left lung and leftward shift of the 
+cardiomediastinal structures. The non-collapsed part of the left 
+lung base demonstrates peribronchovesicular thickening. The 
+adjacent pleural space is invaded with presence of a loculated 
+pleural effusion superiorly and multiple soft tissue nodularity. 
+The effusion is mainly confined to the left upper hemithorax 
+lateral compartment. There is a left chest drainage catheter 
+introduced from the left chest wall close to the base with the 
+tip terminating at the level of the carina.
+
+Subpleural lucencies are seen along the right margin of the 
+right upper lobe indicative of mild paraseptal emphysema. A 
+clustered area of lucency is seen in the right upper lobe 
+adjacent to the fissure with adjacent ground-glass opacity and 
+another area is noted in the right lower lobe likely 
+pneumatoceles, sequelae of prior infection.
+
+A solid nodule in the right lobe of the lung (3:45) measures 4.5 
+mm.
+
+There is no right pleural effusion. There is minimal pericardial 
+effusion confined to the left pericardial space with associated 
+nodularity and infiltration of the mediastinal fat. Extensive 
+atherosclerotic calcifications are seen involving the origin of 
+the major vessels including the brachiocephalic trunk, the 
+carotid and the left subclavian artery, in addition, extensive 
+atherosclerotic calcifications are seen involving the coronary 
+arteries both right and left, left more than right. A focus of 
+calcification is seen involving the chorda tendineae of the left 
+ventricle, a sequela of prior old myocardial infarction.
+
+Within the mediastinum, mainly to the left are multiple 
+non-fat-containing pathologically enlarged lymph nodes; 2 cm 
+left prevascular lymph node, 1.4 cm left prevascular lymph node, 
+1.5 cm subcarinal lymph node, 8 mm right hilar lymph node.
+
+The bony structures do not show any lesions suspicious for 
+malignancy and/or infection.
+
+The limited evaluation of the abdomen demonstrates multiple 
+rounded hypodense lesions of the liver. Atherosclerotic 
+calcifications are seen involving the aorta. A portion of the 
+descending thoracic aorta measures 5 cm in maximum dimension.
+
+Adrenal glands are normal. The bony structures do not show any 
+lesions suspicious for malignancy and/or infection; significant 
+degenerative spine disease.
+
+IMPRESSION:
+
+1. Large left lung mass with endobronchial invasion of the left 
+bronchus starting approximately 3.5 cm from the carinal 
+bifurcation with complete occlusion of the left main bronchus. 
+Lymphangitic spread of portion of the left lower lobe, multiple 
+pathologically enlarged left mediastinal lymph nodes , pleural 
+metastatic implant and loculated effusion and liver lesions are 
+highly suggestive of an advanced primary lung cancer. However, 
+liver MRI examination is recommended for better evaluation of 
+the liver.
+
+2. The descending thoracic aorta is aneurysmally dilated 
+measuring 5 cm with extensive atherosclerotic calcification of 
+its wall. This requires a contrast-enhanced CT angiogram 
+examination for evaluation of the aorta.
+
+3. Extensive atherosclerotic calcification of the coronarys and 
+the major vessels of the aortic arch. Mild paraseptal emphysema. 
+Prior areas of infection are seen in the right lung 
+characterized by small pneumatoceles and associated ground-glass 
+opacities.
+
+4. 4.5-mm single nodule is seen in the right lower lobe of the 
+liver which by itself is non-specific; however, can be followed 
+up on multiple future chest CT scan examinations.
+.
+CHEST (PA & LAT)  ___ 3:06 ___
+
+CHEST (PA & LAT)
+
+Reason: interval change, infilrate? 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old man with NSCLC, SOB, s/p thoracentesis 
+REASON FOR THIS EXAMINATION:
+interval change, infilrate? 
+TYPE OF EXAMINATION: Chest PA and lateral.
+
+INDICATION: Non-small-cell lung cancer, shortness of breath, 
+status post thoracocentesis. Evaluate for interval change.
+
+FINDINGS: AP and lateral chest views obtained with patient in 
+sitting upright position is analyzed in direct comparison with a 
+preceding single AP chest view of ___. The previously 
+described almost total opacification of the left hemithorax 
+persists. There is some evidence of partial re-aeartion of the 
+left lung consistent with some removal of pleural effusion and 
+corresponding volume increase of aerated lung tissue. No 
+pneumothorax has developed. The right-sided lung remains 
+unaltered without evidence of pulmonary vascular congestion or 
+acute infiltrates. For detail of original left-sided lung mass 
+see report on corresponding chest CT report of ___.
+.
+Name:  ___            ___ No:  ___
+
+Service:  OME                     Date:  ___
+
+Date of Birth:  ___        Sex:  M
+
+Surgeon:  ___, ___
+
+PROCEDURE PERFORMED:  Flexible bronchoscopy.
+
+INDICATION:  Newly diagnosed non-small cell lung carcinoma
+with airway obstruction.
+
+PROCEDURE IN DETAIL:  Informed consent was obtained from the
+patient after explaining the risks and benefits. Conscious
+sedation was initiated with intravenous Versed and fentanyl.
+One percent lidocaine was sprayed with an atomizer in the
+hypopharynx and over the larynx. A flexible bronchoscope was
+advanced via the oral route. Vocal cord movement appeared to
+be normal. After instilling 1% lidocaine on the vocal cords,
+the bronchoscope was advanced into the trachea. Evaluation of
+the airways revealed mild to moderate tracheomalacia
+involving the distal trachea and moderate bronchomalacia
+involving the right mainstem bronchus. The left main-stem
+bronchus appeared to be compressed by extrinsic tumor.
+Bronchoscope could be advanced into the distal left main-stem
+bronchus. Intrinsic tumor was then seen at the secondary
+carina with no normal airways identifiable distal to this.
+Following this the procedure was terminated. The bronchoscope
+was withdrawn. The right upper lobe, bronchus intermedius,
+right middle and lower lobe segmental bronchi all appeared to
+be normal.
+
+The patient tolerated the procedure well without any
+complications.
+
+ 
+
+ 
+Brief Hospital Course:
+Hospital Course: ___ yo M with CAD, PAD, RAS, CHF (EF 20%) 
+initially admitted to ___ for dyspnea, found to have malignant 
+pleural effusion, now with new diagnosis of small cell lung 
+cancer.
+.
+lung cancer: The patient was admitted for evaluation by 
+interventional pulmonology. A bronchoscopy demonstrated 
+extensive luminal infiltration precluding stent placement. The 
+patient's final pathology report demonstrated small cell lung 
+cancer. It was decided to initiate both radiation therapy and 
+chemotherapy.  He completed carboplatin etoposide without 
+complicaitons.  He was begun on epogen and received his first 
+dose of neupogen on ___. he underwent 4 doses of radiation. he 
+will resume chemotherpay on ___.  he will require 6 more 
+sessions of radiation.
+.
+CAD: The patient was continued on his home aspirin, metoprolol 
+and statin.
+.
+Acute on CRI: The patient's creatinine was at his baseline at 
+around 1.3 on admission. It became elevated to 1.7 in the 
+subsequent days. His FENa demonstrated a pre-renal pattern. He 
+was given gentle IVF and his lisinopril was discontinued per his 
+cardiologist with improvement.
+.
+CHF: He was continued on his home metoprolol. His lisinopril was 
+discontinued per his home cardiologist given his renal failure. 
+Lisinopril will be restarted at discharge.
+.
+hyperlipidemia: He was continued on his home statin.
+.
+s/p cataract surgery: He was continued on home xalatan.
+.
+ppx: He was placed on heparin sc and a po diet.
+.
+FEN: He was placed on a low sodium, cardiac diet.
+.
+full code
+
+ 
+Medications on Admission:
+meds on transfer:
+Tylenol ___ Q6 hours prn PO fever and pain
+aspirin 81mg PO daily
+Allopurinol ___ mg PO daily
+Lipitor 40mg PO daily
+metoprolol 25 mg PO bid
+Xalatan 0.005% ophthalmic solution Qhs
+Noxitaren 30mg sub-q Q am
+DuoNeb 1 vial Q4 hours prn
+Colace 100mg PO tid
+Lisinopril 50mg PO daily
+.
+meds at home:
+lisinopril 15 mg daily
+metoprolol 25 mg bid
+asa 325 mg daily
+allopurinol ___ mg daily
+folate
+B6
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+2. Allopurinol ___ mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+7. Megestrol 400 mg/10 mL Suspension Sig: One (1)  PO DAILY 
+(Daily).  
+8. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+10. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3 
+times a day).  
+11. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed.  
+12. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1)  Injection 
+QMOWEFR (___).  
+13. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: 
+One (1)  Inhalation Q4H (every 4 hours).  
+14. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Small Cell Lung Cancer 
+Hypertension'Hyperlipidemia 
+CAD 
+
+ 
+Discharge Condition:
+Good, ambulating.
+
+ 
+Discharge Instructions:
+You were admitted for evaluation for pulmonary stenting of your 
+bronchus after being diagnosed with Small Cell Lung Cancer.
+.
+You will undergo a second cycle of chemotherapy on ___. Please 
+speak with Dr. ___ in regards to the scheduling of this 
+chemotherapy.  
+.
+
+.
+You will also need to undergo six more sessions of radiation 
+therapy, scheduled ___ through ___. These sessions will be 
+at 1:45pm, and will start ___  ___.
+.
+You can call ___, from Interventional Pulmonology, at 
+___, for questions regarding the pleurex catheter.
+.
+Please call your doctor or return to the hospital with any 
+concerning symptoms.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,277 @@
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+atrial clot
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+ 
+History of Present Illness:
+HPI: This is a ___ year-old female with a history of non-small 
+cell lung carcinoma on study drug (protocol ___ Kinase 
+inhibitor) since ___ who went for routine CT torso per study 
+drug protocol and was found to have a right atrial tumor 
+thrombus and right common iliac artery clot. Patient was called 
+by her oncologist and advised to go to the nearest ED. She first 
+went to ___ and was transferred to ___ since she 
+gets most of her care here. In our ED, patient was continued on 
+heparin gtt. Her initial vs were: T 98.1, HR 112, BP 115/75, R 
+20, O2 sat 93% 4 L NC (baseline). Her exam was notable for a 
+cool right lower extremity with dopplerable pulses, normal 
+strength and sensation. Vascular surgery was consulted and 
+recommended continuing the heparin gtt and monitoring her 
+neurovasc status overnight but did not think intervention was 
+necessary at this time given no symptoms and dopplerable pulses 
+on the right foot. ___ was made aware of the patient and will see 
+patient in the am unless condition changes. Currently, patient's 
+vital signs on arrival to the ICU are P ___, BP 110/75, RR 24, 
+O2 sat 93% 4 L NC. She reports that she did notice some pain in 
+her right leg starting at the hip and radiating to her anterior 
+thigh over the last week. She usually has cold feet and has not 
+noticed one is more cold than the other. She denies dizziness, 
+LH, HA or CP. She does have DOE but has not noticed any change 
+from her baseline. She often coughs up blood-tinged sputum which 
+has not changed. Denies abd pain, nausea, vomiting, melena, 
+hematochezia, dysuria, difficulty ambulating, etc. 
+.  
+ROS: see HPI
+
+ 
+Past Medical History:
+metastatic non-small cell lung cancer dx ___, multiple 
+chemortherapeutic regimens
+cavernous sinus thrombosis (___)
+s/p TAH/BSO 
+
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+Vitals: T: 98.2 BP: 110/75 HR: 101-115 RR: ___ O2Sat: 93% 4 l 
+nc 
+GEN: Well-appearing, well-nourished, no acute distress  
+HEENT: NCAT, EOMI, PERRL, sclera anicteric, no epistaxis or 
+rhinorrhea, MMM, OP Clear  
+NECK: No JVD, no lymphadenopathy, trachea midline  
+COR: RR, tacchycardic, no M/G/R, normal S1 S2, radial pulses +2  
+
+PULM: bronchial breath sounds b/l, RUL crackles 
+ABD: Soft, NT, ND, +BS, no HSM, no masses  
+EXT: No C/C/E, no palpable cords, Right DP and ___ dopplerable 
+and left 2+ DP and ___, right foot is cool, normal sensaiton  
+NEURO: alert, oriented to person, place, and time. CN II  XII 
+intact. Strength ___ in upper and lower extremities. Sensation 
+intact. 
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses. 
+ 
+ 
+Pertinent Results:
+___ 10:30PM BLOOD 
+WBC-9.5 RBC-4.76 Hgb-11.5* Hct-35.9* MCV-75*
+MCH-24.1* MCHC-31.9 RDW-14.3 Plt ___
+Neuts-68.8 ___ Monos-3.9 Eos-3.9 Baso-0.7
+___ PTT->150* ___
+Plt ___
+Glucose-98 UreaN-8 Creat-0.6 Na-140 K-3.6 Cl-104 HCO3-27 
+AnGap-13
+Calcium-8.8 Phos-3.5 Mg-1.9
+
+CT Torso W&W/O C Study Date of ___ 11:03 AM 
+1. Sizeable filling defect in the left atrium, consistent with 
+tumor 
+thrombosis. Evidence of arterial thrombosis at the right common 
+iliac artery. 
+2. Stable, extensive and diffuse bilateral airspace 
+consolidation consistent with the bronchoalveolar cell cancer. 
+3. No abdominal or pelvic lymphadenopathy. 
+4. Interval resolution of the large right adnexal cyst. 
+Stable-appearing 
+small right adnexal cyst. 
+
+___ PROCEDURE:  Flexible bronchoscopy.
+ A full airway survey was
+performed down to the subsegmental bronchi. There were no
+evidence of endobronchial lesions or evidence of recent or
+old bleeding. There were no blood clots noted. Therapeutic
+aspiration of clear thin secretions was performed mainly in
+the right lower lobe but also in the left upper lobe as well.
+There were no purulent secretions noted. The flexible
+bronchoscope was removed. The patient was transferred to the
+postprocedure holding area in stable condition.
+
+Portable TTE (Complete) Done ___ at 3:27:22 ___ 
+The left atrium is normal in size. A nonmobile globular mass 
+(1.6 by 0.8 cm) is seen (in subcostal window only) projecting 
+into the body of the left atrium. Its attachment site is not 
+defined but may be in or around one of the right pulmonary 
+veins. Left ventricular wall thickness, cavity size and 
+regional/global systolic function are normal (LVEF 60%). Tissue 
+Doppler imaging suggests a normal left ventricular filling 
+pressure (PCWP<12mmHg). There is no ventricular septal defect. 
+Right ventricular chamber size and free wall motion are normal. 
+The aortic valve leaflets (3) appear structurally normal with 
+good leaflet excursion and no aortic regurgitation. The mitral 
+valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. There is 
+moderate pulmonary artery systolic hypertension. There is no 
+pericardial effusion. If clinically indicated, a transesophageal 
+echocardiographic examination is recommended to more clearly 
+define the apparent left atrial mass.
+IMPRESSION: left atrial mass   
+
+___ 06:50AM BLOOD 
+WBC-11.3* RBC-4.66 Hgb-11.5* Hct-35.2* 
+MCV-76* MCH-24.7* MCHC-32.7 RDW-13.8 Plt ___
+Neuts-79.7* Lymphs-12.2* Monos-4.4 Eos-3.6 Baso-0.1
+___ PTT-54.0* ___
+Glucose-99 UreaN-4* Creat-0.7 Na-139 K-4.3 Cl-98 HCO3-28 
+AnGap-17
+Calcium-9.3 Phos-3.4 Mg-1.9
+ 
+Brief Hospital Course:
+This is a ___ year-old female with a history of non-small cell 
+lung cancer who presents with left atrial tumor thrombus and 
+right common iliac clot admitted to the ICU for frequent neuro 
+checks of cool extremity.  
+.  
+# Arterial thrombus: Patient has left atrial clot and right 
+common iliac clot. She had a cool distal extremity on the right 
+with dopplerable pulses. Vascular surgery consulted in the ED. 
+The patient was admitted to the ICU for monitoring and then 
+transferred to the OMED service. The patient was placed on a 
+heparin drip and transitioned to lovenox prior to discharge.  No 
+further intervention was made. 
+.
+# Lung cancer: The patient had known metastatic NSCLC. The 
+patient was hypoxic but at her baseline home O2 requirement.  
+She was continued on cough suppressants and albuterol as needed 
+as well as vicodin for pain control.  She was discharged home 
+with ___ services and instructed to follow-up with her 
+hematologist.
+.
+# Hemoptysis:  Following initiation of heparin, the patient was 
+noted to have blood tinged sputum. A bronchoscopy was performed 
+which was without evidence of endotracheal bleed.  Her 
+hematocrit was stable and her symptoms improved.  No further 
+interventions were made.
+.  
+# Tachycardia: The patient was noted to be tachycardic on 
+admission and this was felt to be due to her previously 
+documented atrial thrombus and hypoxia.  EKG was normal and 
+there was no JVD or muffled heart sounds to suggest tamponade. 
+She was monitored on telemetry without any events.  Echo 
+demonstrated the left atrial mass which appeared to originate 
+from the pulmonary vessels.  CT surgery was aware of the patient 
+and felt given the extent of her disease, surgical intervention 
+would not be of benefit.  The patient was stable upon discharge 
+and was to return for a follow-up ECHO in ___ weeks.  
+ 
+Medications on Admission:
+ALBUTEROL - 90 mcg Aerosol - 1 puff INH q8-12hrs as needed for  
+cough, wheezing - No Substitution  
+BENZONATATE [TESSALON PERLES] - 100 mg Capsule - one to two  
+Capsule(s) by mouth three times a day  
+COD-BUTALBITAL-ACETAMINOP-CAF [FIORICET-CODEINE] - (Prescribed  
+by Other Provider) - 30 mg-50 mg-325 mg-40 mg Capsule - ___  
+Capsule(s) by mouth every 4 hours as needed  
+CODEINE-GUAIFENESIN - (Prescribed by Other Provider) - Dosage  
+uncertain  
+FLURAZEPAM - (Prescribed by Other Provider) - 15 mg Capsule - 1  
+
+Capsule(s) by mouth at bedtime as needed for insomnia  
+HYDROCODONE-ACETAMINOPHEN [VICODIN] - 5 mg-500 mg Tablet - 1  
+Tablet(s) by mouth four times a day as needed for pain  
+LORAZEPAM [ATIVAN] - (Prescribed by Other Provider) - 0.5 mg  
+Tablet - ___ Tablet(s) by mouth prn anxiety, insomnia  
+OXYGEN - - ___ via nasal cannula daily. As needed with  
+exertion and at rest  
+PROCHLORPERAZINE EDISYLATE [COMPAZINE] - 10 mg Tablet - 1  
+Tablet(s) by mouth three times a day as needed for nausea  
+TRAZODONE - (Prescribed by Other Provider) - 50 mg Tablet - 2  
+Tablet(s) by mouth at bedtime as needed for insomnia  
+LOPERAMIDE [IMODIUM A-D] - (OTC) - 2 mg Tablet - ___ Tablet(s)  
+by mouth ever 4 hours as needed for diarrhea  
+OMEPRAZOLE - 20 mg Tablet, Delayed Release (E.C.) - 1 Tablet(s)  
+
+by mouth once a day  
+
+ 
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: One (1) puff 
+Inhalation every ___ hours as needed for shortness of breath or 
+wheezing.  
+2. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+3. Codeine-Guaifenesin ___ mg/5 mL Syrup Sig: ___ MLs PO Q6H 
+(every 6 hours) as needed.  
+4. Flurazepam 15 mg Capsule Sig: One (1) Capsule PO at bedtime.  
+
+5. Oxygen
+Oxygen titrated to O2 sat > 90% and for comfort
+6. Trazodone 100 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed.  
+7. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+8. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H 
+(every 6 hours) as needed for pruritis.  
+9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+10. Hydrocodone-Acetaminophen ___ mg Tablet Sig: One (1) 
+Tablet PO Q6H (every 6 hours) as needed.  
+11. Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) syringe 
+Subcutaneous Q12H (every 12 hours).
+Disp:*60 syringe* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Metastatic Non-small cell lung cancer
+Left atrial thrombus
+Right common iliac artery thrombus
+
+ 
+Discharge Condition:
+Stable, with O2 sats in the low 90's on 4L nasal cannula
+
+ 
+Discharge Instructions:
+You were admitted after a routine CT scan showed a clot in your 
+heart and in your leg. You were put on a blood thinner called 
+heparin, which can be taken at home in a form called Lovenox. 
+
+You should continue the same medications you have been on at 
+home; in addition, you should start taking Lovenox as directed. 
+
+You have a follow up appointment scheduled with Dr. ___ on 
+___ in addition, you should see your oncologist in ___ at your convenience for follow up. You will have an 
+echocardiogram done in ___ weeks to evaluate the thrombus in the 
+heart; this will be arranged by Dr. ___ Dr. ___. 
+
+If you develop any concerning symptoms, such as sudden worsening 
+of your breathing, coughing up large amounts of blood, or 
+worsening chest pain, or severe pain in your leg, please seek 
+medical attention immediately. 
+ 
+Followup Instructions:
+___

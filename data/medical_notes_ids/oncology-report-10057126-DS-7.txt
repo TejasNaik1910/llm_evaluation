@@ -1,0 +1,466 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+s/p ___ 3 TAVR ___
+
+ 
+History of Present Illness:
+___ is a ___ year old man with severe aortic
+stenosis, coronary artery disease, hypertension, multiple 
+myeloma
+(well-controlled), and obesity. He has had intermittent
+exertional chest pain and shortness of breath for the last
+several months but has reliably resolved with rest. His PCP
+obtained ___ stress test which was abnormal and he was admitted to
+___ from ___ to ___. He had a cardiac catheterization, which
+showed unchanged coronary artery disease. His symptoms were
+largely related to his severe aortic stenosis. He was seen by
+Cardiac surgery and deemed an intermediate surgical risk for
+aortic valve replacement. He presents today for TAVR. 
+
+NYHA Class: III
+
+ 
+Past Medical History:
+1. Severe aortic stenosis
+2. Multiple myeloma (well controlled)
+3. Hypertension
+4. Obesity
+5. Coronary artery disease (BMS to LAD ___
+6. Neuropathy 
+ 
+Social History:
+___
+Family History:
+No history of familial disease
+
+ 
+Physical Exam:
+ADMISSION PE:
+===============
+VS: BP 99/59, HR 52, RR 14, O2 sat 94% on room air
+Weight: 253.99 lbs
+Tele: ___, SB
+EKG: rate 49, SB
+
+Gen: Lying in bed, in no distress 
+Neuro: Awake and alert. Orinted on first exam. NP was called in
+to see pt with c/o memory deficits. Patient could not remember
+month, date or year. Does not know the President of ___.S. PERRLA.
+Tongue midline. Strength equal in all extremities. No other
+deficits noted other than memory deficit. Balance could not be
+checked due to bedrest post-op. 
+Neck: No LAD, no JVD 
+CV: RRR. Nl S1S2. Soft SEM.
+Chest: Respirations unlabored. CTA anteriorly 
+ABD: Soft, NT, ND 
+Extr: MAE. Trace ___ edema 
+Skin: No rashes or ulcers noted 
+Access sites: ___ groin sites soft without ooze, ecchymosis or
+hematoma. Left groin had a small ooze, 5 mins manual pressure
+applied. ___ palpable
+
+DISCHARGE PE:
+==============
+Weight:
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 03:47PM BLOOD WBC-2.6* RBC-3.76* Hgb-11.9* Hct-35.3* 
+MCV-94 MCH-31.6 MCHC-33.7 RDW-14.7 RDWSD-50.7* Plt ___
+___ 03:47PM BLOOD ___ PTT-31.9 ___
+___ 03:47PM BLOOD Glucose-101* UreaN-13 Creat-1.1 Na-139 
+K-4.1 Cl-103 HCO3-25 AnGap-11
+___ 03:47PM BLOOD Calcium-8.1* Phos-2.8 Mg-1.7
+Discharge Labs:
+===================
+___ 07:22AM BLOOD WBC-4.3 RBC-3.81* Hgb-12.0* Hct-36.5* 
+MCV-96 MCH-31.5 MCHC-32.9 RDW-14.8 RDWSD-51.8* Plt ___
+___ 05:51AM BLOOD UreaN-14 Creat-1.1 Na-142 K-3.7 Cl-102 
+HCO3-23 AnGap-17
+___ 07:22AM BLOOD Mg-1.8
+___ 05:51AM BLOOD Triglyc-250* HDL-42 CHOL/HD-2.7 
+LDLcalc-23
+
+                          IMAGING:
+                          ========
+TTE ___:
+=============
+CONCLUSION:
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is mild symmetric left ventricular 
+hypertrophy with a normal cavity size. There is normal regional 
+and global left ventricular systolic function. Quantitative 
+biplane left ventricular ejection fraction is 69 % (normal 
+54-73%). Left ventricular cardiac index is normal (>2.5 
+L/min/m2). There is no resting left ventricular outflow tract 
+gradient. No ventricular septal defect is seen. Tissue Doppler 
+suggests an increased left ventricular filling pressure (PCWP 
+greater than 18 mmHg). Normal right ventricular cavity size with 
+normal free wall motion. The aortic sinus diameter is normal for 
+gender with a mildly dilated ascending aorta. The aortic arch is 
+mildly dilated with a normal descending aorta diameter. A ___ 
+3 aortic valve bioprosthesis is present. The prosthesis is well 
+seated with Leaflets not well seen with high gradient. There is 
+trace aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is 
+trivial mitral regurgitation. The pulmonic valve leaflets are 
+normal. The tricuspid valve leaflets appear structurally normal. 
+There is physiologic tricuspid regurgitation. The estimated 
+pulmonary artery systolic pressure is borderline elevated. There 
+is no pericardial effusion.
+Compared with the prior TTE (images not available for review) of 
+___ , gradient is higher.
+TTE: ___ (intra operative)
+CONCLUSION:
+Pre-TAVR: There is SEVERE aortic valve stenosis (valve area 1.0 
+cm2 or less). There is mild [1+] aortic regurgitation.
+Post-TAVR: The ___ 3 TAVR prosthesis is well seated 
+with normal leaflet motion and normal gradient. There is a 
+paravalvular jet of trace aortic regurgitation is seen.
+
+MEASUREMENTS:
+AORTIC VALVE
+Peak Velocity: 1.6m/sec (nl<=2.0)
+Peak Gradient: 10mmHg
+Mean Gradient: 4mmHg
+AV VTI: 35cm
+Post TAVR Peak Velocity: 1.6m/sec
+Post TAVR Peak Gradient: 10mmHg
+Post TAVR Mean Gradient:4mmHg
+***CT HEAD W/O CONTRAST: ___
+FINDINGS:  
+There is no evidence of recent territorial infarct,intracranial 
+hemorrhage,edema,or mass. There is mild prominence of the 
+ventricles and 
+sulci suggestive of involutional changes. No evidence of 
+calvarial fracture.  Mild mucosal thickening of the ethmoidal 
+air cells. The maxillary sinuses and mastoid air cells are 
+clear. The orbits  are unremarkable. 
+  
+IMPRESSION: 
+1. No evidence of recent territorial infarct.  No acute 
+intracranial process. 
+
+***EEG: (DATE) pending
+  
+MRI BRAIN: ___
+There are multiple scattered foci of slow diffusion involving 
+the bilateral 
+frontal, left parietal, and left occipital lobes with multiple 
+foci of slow 
+diffusion in the right cerebellar hemisphere.  There are mild 
+periventricular 
+and subcortical foci of white matter T2/FLAIR signal 
+hyperintensity, 
+nonspecific but likely sequelae of chronic small vessel disease. 
+ There is no evidence of hemorrhage,edema,masses, mass effect,or 
+midline shift.   The ventricles and sulci are mildly prominent 
+suggesting age-related involutional changes. 
+  
+The major intracranial vascular flow voids are preserved.  
+Orbits and 
+visualized extracranial soft tissues are unremarkable. 
+  
+MRA BRAIN: Images are significantly motion degraded. 
+There is possible multifocal narrowing of the bilateral 
+posterior cerebral 
+arteries with a fetal type origin of the right posterior 
+cerebral artery, with assessment limited by motion artifact.  
+However, this is not verified on the postcontrast MRA of the 
+neck which includes the proximal posterior 
+circulation..  There is mild atheromatous narrowing of the 
+bilateral 
+intracranial ICA and the distal MCA branches.  The intracranial 
+vertebral and internal carotid arteries and their major branches 
+otherwise appear normal without evidence of 
+stenosis,occlusion,or aneurysm formation. 
+  
+MRA NECK: 
+The right vertebral artery is diffusely small in caliber, 
+anatomic variant, with dominant left vertebral artery.  There is 
+possibly mild narrowing in the A1 segment at the right vertebral 
+artery origin.  Otherwise, both vertebral 
+arteries appear patent with no significant stenosis 
+demonstrated.  Narrowing.  
+There is irregular narrowing at the bilateral common carotid 
+artery 
+bifurcations with mild stenosis at the origin of the left 
+internal carotid 
+artery and moderate stenosis at the origin of the right external 
+carotid 
+artery.  The origins of the great vessels, subclavian and 
+vertebral arteries otherwise appear patent bilaterally.  The 
+common, internal and external carotid arteries otherwise appear 
+patent. 
+  
+IMPRESSION: 
+  
+  
+1. Multiple scattered acute to subacute infarcts right 
+cerebellar hemisphere, bilateral frontal, left parietal and left 
+occipital lobes suspicious for a cardioembolic etiology.. 
+2. Significantly motion degraded images of the intracranial 
+arteries. 
+3. Within the above-mentioned confines, there is mild 
+atheromatous narrowing of the bilateral intracranial ICA and 
+distal MCA branches with some areas of possible narrowing of the 
+bilateral posterior cerebral arteries, which appear less 
+pronounced on the postcontrast images and therefore probably 
+exaggerated by motion artifact.. 
+4. Otherwise patent circle of ___ without evidence of 
+stenosis,occlusion,or aneurysm. 
+5. Mild atheromatous narrowing the bilateral common carotid 
+bifurcations with mild stenosis of the left internal carotid 
+artery origin. 
+6. Mild multifocal narrowing of the right cervical vertebral 
+artery. 
+7. Small caliber right vertebral artery and dominant left 
+vertebral artery, anatomic variant. 
+8. Otherwise patent bilateral cervical carotid and vertebral 
+arteries without evidence of stenosis, occlusion, or dissection. 
+
+PROCEDURE:
+==========
+TAVR: ___
+Gradients: Pre-Procedure
+AV mean grad 47mmHg
+
+Interventional Details
+The patient was counseled extensively regarding the risks, 
+benefits, and alternatives to the procedure and after answering 
+all questions, the patient yielded informed consent. The patient 
+was thereafter brought to
+the catheterization laboratory and monitored anesthesia care was 
+delivered. Preprocedural antibiotic was administered 
+intravenously. The nature of this procedure required 
+multidisciplinary planning and
+management with the cardiac surgery, interventional cardiology 
+and anesthesia physicians. All members of the heart team were 
+present for the following key components of the procedure 
+according ___ guidelines: Vascular access Catheter placement, 
+Device implantation, Vascular closure, Intraprocedural 
+medication ordering. Sterile technique was used throughout the 
+case. All vascular access was obtained using modified Seldinger 
+technique and ultrasound guidance. An ___ sheath was placed in 
+the left
+femoral vein and ___ sheaths were placed in the right and left 
+femoral artery. The ___ sheath in the right femoral artery was 
+removed and the arteriotomy was measured with the Manta device, 
+and the access
+site was upsized to an ___ sheath. A ___ Angled Pigtail catheter 
+was advanced to the aortic root via the left femoral artery 
+sheath and aortic root angiography was performed. A temporary 
+pacing wire was placed in the right ventricle via the left 
+femoral vein sheath. Next, the ___ sheath in the right femoral 
+artery was exchanged over an Amplatz Extrastiff for the ___ 
+sheath. A pigtail catheter was advanced to the aortic root. 
+Using a 0.035" straight wire, the aortic valve was crossed. Over 
+the wire, the angled pigtail catheter was advanced across the 
+valve. Baseline hemodynamics (left heart catheterization) were 
+obtained. A preshaped curved wire was advanced into the LV and 
+the Al-1 catheter was removed. Next, the ___ delivery system 
+was delivered to the descending aorta and the balloon positioned 
+within the valve. We then proceeded to advance the ___ valve 
+to the ascending aorta and to cross the aortic valve in a 
+retrograde fashion. After confirming appropriate placement 
+across the aortic valve using aortic root angiogaphy, the ___ 
+valve was deployed with rapid ventricular pacing at 180 bpm.
+Complications
+There were no clinically significant complications.
+
+ 
+Brief Hospital Course:
+Assessment/Plan: ___ with severe symptomatic aortic stenosis,
+admitted s/p TAVR c/b small punctate scattered acute embolic
+stroke. 
+
+# ___: Patient awake, alert and oriented post-op. Patient had
+transient memory deficit for 45 mins post-op in pacu. Could not
+recall surgery, why he is here, what's being done, month, year,
+president of the country etc. Neuro exam stable except for 
+memory
+deficit yesterday. CT head negative for bleed. Neuro exam
+completely stable today. Memory generally intact. See above for
+MRI/MRA results. Pt and wife updated at bedside and neurology
+team informed. 
+- Swallow evel done by RN, all ok
+- lipid panel at goal
+- A1C nl
+- neuro checks stable. 
+- ___ ordered and found no deficits
+- EEG results pending
+- Continue daily aspirin and Plavix
+- Continue high dose statin
+
+ # Severe aortic stenosis: S/P ___ 3 TAVR. 
+Pre-echo peak/mean gradient 74/47mmHg; ___ 1.0cm2. 
+Post TAVR PG/MG: ___, ___ 2.0
+-AC plan: Aspirin 81 mg/Plavix 75 mg
+-SBE instructions on discharge 
+-F/u Echo and SH appt in 1 month to be scheduled
+
+ # Coronary artery disease: no chest pain
+-Continue aspirin, statin
+-Resumed metoprolol
+
+Chronic issues
+==============
+#Leukopenia
+Patient with ANC of 1130. Likely in the setting of ongoing 
+treatment of multiple myeloma. 
+
+#Multiple myeloma
+Patient receives cancer care at ___. On 
+Revlimid. 
+
+#HSV/VZV suppression
+- On acyclovir 
+
+#Depression
+- Continue home paroxetine 
+
+#Neuropathy
+- Continue home gabapentin
+
+#Obstructive sleep apnea uses CPAP
+
+#Hypertension: Well controlled on HCTZ and amlodipine. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. sod phos di, mono-K phos mono ___ mg oral TID 
+2. Gabapentin 600 mg PO TID 
+3. Lenalidomide 10 mg po EVERY ___ 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. colestipol 1 gram oral BID 
+6. amLODIPine 10 mg PO DAILY 
+7. Atorvastatin 80 mg PO QPM 
+8. rOPINIRole 0.5 mg PO QAM 
+9. rOPINIRole 0.25 mg PO QPM 
+10. ValACYclovir 1000 mg PO Q24H 
+11. Clopidogrel 75 mg PO DAILY 
+12. Omeprazole 20 mg PO DAILY 
+13. Aspirin 81 mg PO DAILY 
+14. PARoxetine 40 mg PO DAILY 
+15. Hydrochlorothiazide 12.5 mg PO DAILY 
+16. Cyanocobalamin 500 mcg PO DAILY 
+17. FoLIC Acid 1 mg PO DAILY 
+18. Pyridoxine 50 mg PO DAILY 
+19. Vitamin D ___ UNIT PO 1X/WEEK (MO) 
+20. Furosemide 40 mg PO DAILY:PRN weight gain 
+21. Pregabalin 50 mg PO TID 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q24H  
+2.  Furosemide 40 mg PO DAILY weight gain 
+Take every day for now after the TAVR  
+3.  amLODIPine 10 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Clopidogrel 75 mg PO DAILY  
+7.  colestipol 1 gram oral BID  
+8.  Cyanocobalamin 500 mcg PO DAILY  
+9.  FoLIC Acid 1 mg PO DAILY  
+10.  Gabapentin 600 mg PO TID  
+11.  Hydrochlorothiazide 12.5 mg PO DAILY  
+12.  Lenalidomide 10 mg po EVERY ___  
+13.  Metoprolol Succinate XL 25 mg PO DAILY  
+14.  PARoxetine 40 mg PO DAILY  
+15.  Pregabalin 50 mg PO TID  
+16.  Pyridoxine 50 mg PO DAILY  
+17.  rOPINIRole 0.25 mg PO QPM  
+18.  rOPINIRole 0.5 mg PO QAM  
+19.  sod phos di, mono-K phos mono ___ mg oral TID  
+20.  ValACYclovir 1000 mg PO Q24H  
+21.  Vitamin D ___ UNIT PO 1X/WEEK (MO)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Severe AS s/p TAVR
+HTN
+CAD
+Embolic stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for a trans catheter aortic valve replacement 
+(TAVR) to treat your aortic valve stenosis which was done on 
+___. By repairing the valve your heart can pump blood more 
+easily and your chest pain should improve. 
+ 
+ It is very important to take all of your heart healthy 
+medications. In particular, you are now taking Aspirin and 
+Clopidogrel (Plavix). These medications help to prevent blood 
+clots from forming on the new valve. If you stop these 
+medications or miss ___ dose, you risk causing a blood clot 
+forming on your new valve. This could cause it to malfunction 
+and it may be life threatening. Please do not stop taking 
+Aspirin or Plavix without taking to your heart doctor, even if 
+another doctor tells you to stop the medications.  
+
+ You will need prophylactic antibiotics prior to any dental 
+procedure. Please inform your dentist about your recent cardiac 
+procedure, and obtain a prescription from your doctor before any 
+procedure.  
+
+ Please weigh yourself every day in the morning after you go to 
+the bathroom and before you get dressed. If your weight goes up 
+by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please 
+call your heart doctor or your primary care doctor and alert 
+them to this change. Your weight at discharge is 252 pounds.  
+ 
+ We may have made changes to your medication list, so please 
+make sure to take your medications as directed. You will also 
+need to have close follow up with your heart doctor and your 
+primary care doctor.  
+
+ If you were given any prescriptions on discharge, any future 
+refills will need to be authorized by your outpatient providers, 
+primary care or cardiologist.  
+
+ The Structural Heart team should be calling you with a follow 
+up/echo in 1 month if you don't have one scheduled already. If 
+you don't hear from them by next week, please call ___. 
+ 
+
+ If you have any urgent questions that are related to your 
+recovery from your procedure or are experiencing any symptoms 
+that are concerning to you and you think you may need to return 
+to the hospital, please call the ___ Heart Line at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.  
+
+ It has been a pleasure to have participated in your care and we 
+wish you the best with your health.  
+
+ 
+Followup Instructions:
+___

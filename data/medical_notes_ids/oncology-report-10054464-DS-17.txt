@@ -1,0 +1,379 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+jaw pain
+ 
+Major Surgical or Invasive Procedure:
+Core biopsy of lesion on back
+
+ 
+History of Present Illness:
+This is a ___ yo M with a history of HTN, hyperlipidemia, and CAD 
+who presents with 6 weeks of increasing jaw pain, found to have 
+a R temporal mass on outside hospital imaging and 
+lung/adrenal/back masses on imaging here. The patient noted jaw 
+pain starting in his R temporal region 6 weeks ago.  He was seen 
+by his dentist for this pain who then referred him to an oral 
+surgeon for further evaluation. He was seen by an oral surgeon 4 
+weeks ago, where he had xrays of his teeth performed. The oral 
+surgeon thought the pt may have decay of one of his wisdom 
+teeth, so he removed the pts wisdom tooth 2 weeks ago. The 
+patient continued to have R jaw pain after the extraction, so 
+the oral surgeon arranged for the pt to have a head CT 1 week 
+ago. This head CT showed swelling of the right temporalis muscle 
+and underlying destruction of the temporal bone. Differential 
+diagnosis included lymphoma, metastatic disease, and 
+rhabdomyosarcoma. His PCP arranged for him to have an MRI of his 
+facial bones this week, but over the past week the patient has 
+had increasing R jaw pain. He notes a sharp constant R TMJ pain 
+that radiates up to his temple, to the back of his head, and 
+down his R jawline.  He has been taking vicodin every ___ hours 
+with only minimal relief of symptoms. The pt has been having 
+increasing difficulty with opening his mouth due to pain, and 
+has had difficulty eating/drinking. He has lost 13 lbs over the 
+past ___ weeks, and does endorse mildly decreased appetite. He 
+has been mainly only able to tolerate liquids, applesauce, 
+pudding, etc. 
+.
+The patient also notes a mass on his back which he noted also 
+about 6 months ago. He presented to his PCP and was told this 
+was likely a sebaceous cyst. He notes that this mass has been 
+enlarging, but is not tender.
+.
+The patient denies any nightsweats, lymph node enlargement, 
+fevers, chills, rectal bleeding, shortness of breath, chest 
+pain, abdominal pain, diarrhea, constipation, nausea, vomiting, 
+or loss of energy. He does admit to ___ months of a 
+nonproductive cough. However, over the past 2 weeks since the 
+extraction of his wisdom tooth he has been coughing up phlegm 
+mixed with a small amount of blood when he awakens in the 
+morning.
+. 
+In the ED, the pts vitals were: T 98.7 BP 168/87 P 90 R 18 Sat 
+97%RA. He was given Vicodin ___ mg tablets x2, morphine 4 mg 
+IV x2, dilaudid 2 mg IV x1 with no relief of his pain. He also 
+received zofran 4 mg IV x1. He was noted to have a lesion on his 
+back, and ultrasound revealed this to be a 5 x 5 x3 cm vascular 
+mass. He then had a CT of his chest, abdomen, and pelvis which 
+showed a 5 cm mass in the left lower lobe with multiple necrotic 
+left hilar and left axillary nodes. He was noted to have a 4.3 
+cm right adrenal mass, a 2 cm x 1.7 cm enlarged lymph node in 
+the right axilla, and a 5 x 7 cm subcutanous mass of the mid 
+back. He was admitted for further malignancy work up and 
+treatment of his pain. 
+.
+
+ROS:
+-Constitutional: []WNL [x]Weight loss []Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightsweats [x]Anorexia
+-Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena
+-Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]DIscharge []Menorrhagia
+-Skin: [x]WNL []Rash []Pruritus
+-Endocrine: [x]WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain
+-Neurological: [] WNL []Numbness of extremities []Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[]Confusion [x]Headache
+-Psychiatric: [x]WNL []Depression []Suicidal Ideation
+-Allergy/Immunological: [x] WNL []Seasonal Allergies
+
+ 
+Past Medical History:
+#. HTN
+#. Hyperlipidemia
+#. CAD with MI ___ years ago (not on ASA)
+#. s/p tonsillectomy
+ 
+Social History:
+___
+Family History:
+Cancer: sister had breast cancer
+ 
+Physical Exam:
+Appearance: NAD
+Vitals: T 97.9 BP 126/78 HR 93 R 18 Sat 94%RA
+Eyes: EOMI, PERRL, conjunctiva clear, noninjected, anicteric, no 
+exudate
+ENT: Moist, a 1.5 x 2 cm fixed nodule over the R maxilla 
+adjacent to the R ear, nontender; no noted fluctuance or pus 
+over the extracted R upper wisdom tooth pocket
+Neck: No JVD, no LAD, no thyromegaly, no carotid bruits 
+Cardiovascular: RRR, nl S1/S2, no m/r/g
+Respiratory: faint LLL rales, comfortable, no wheezing, no 
+ronchi
+Gastrointestinal: soft, non-tender, non-distended, no 
+hepatosplenomegaly, normal bowel sounds
+Musculoskeletal/Extremities: no clubbing, no cyanosis, no joint 
+swelling, 1+ pitting ___ ankles
+Neurological: Alert and oriented x3, ambulating to the bathroom
+Integument: a 5 cm x 7 cm hard purpuric, blanching nodule 
+(fixed) noted to the right of the midline of the upper thoracic 
+vertebrae
+Psychiatric: appropriate, pleasant
+Hematological/Lymphatic: No cervical, supraclavicular, axillary, 
+or inguinal lymphadenopathy palpable
+
+ 
+Pertinent Results:
+Labs on admission:
+___ 11:30PM   GLUCOSE-97 UREA N-16 CREAT-1.0 SODIUM-137 
+POTASSIUM-4.1 CHLORIDE-98 TOTAL CO2-28 ANION GAP-15
+___ 11:30PM   estGFR-Using this
+___ 11:30PM   ALT(SGPT)-12 AST(SGOT)-16 LD(LDH)-217 ALK 
+PHOS-75 TOT BILI-0.4
+___ 11:30PM   ALBUMIN-3.5 CALCIUM-10.8* PHOSPHATE-2.7 
+MAGNESIUM-1.9
+___ 11:30PM   WBC-19.4* RBC-3.30* HGB-9.9* HCT-28.9* MCV-88 
+MCH-30.0 MCHC-34.3 RDW-16.2*
+___ 11:30PM   NEUTS-92.0* LYMPHS-4.2* MONOS-3.8 EOS-0 
+BASOS-0
+___ 11:30PM   PLT COUNT-347
+.
+Imaging:
+OSH CT facial bones ___: There is swelling and prominence of 
+the right temporalis muscle. There is underlying permeative 
+destruction of the temporal squamosa. The process involves the 
+temporalis muscle eccentrically along the external aspect of the 
+temporal bone. Differential considerations inculde lymphoma or 
+rhabdomyosarcoma. Metastatic disease cannot be excluded. The 
+maxilla and mandible are unremarkable. 
+.
+___ Ultrasound of lesion on back:
+FINDINGS: Solid mass is located on the midline in the upper 
+thoracic region measuring approximately 2.9 x 5.3 x 5.4 cm. The 
+mass is extremely vascular. The differential diagnosis includes 
+metastic disease and soft tissue sarcomas. 
+.
+___ Chest/Abdomen/Pelvis CT scan:
+IMPRESSION:  
+1. Left lower lobe lung mass is associated with multiple left 
+hilar necrotic nodes and left axillary node. Left pleural mass, 
+right adrenal mass and a subcutaneous mass within the upper 
+thoracic region are noted. Findings are compatible with 
+metastatic disease most likely from primary lung cancer. 
+Metastatic melanoma is another likely possiblity. 
+2. Small bilateral pleural effusions. 
+3. Cholelithiasis with no evidence of cholecystitis. 
+.
+___ MRI head:
+IMPRESSION: 
+Dominant enhancing lesion involving squamous and mastoid areas 
+of the right temporal bone, right temporalis muscle, with 
+associated dural component and enhancement, with mass effect on 
+the subjacent right temporal gyri. Enhancing left frontal 
+parenchymal lesion, most likely metastasis. Additional small 
+enhancing focus in the posterior right occipital lobe, too small 
+to definitely characterize as intra- or extra-axial, but given 
+presence of disruption of the inner table of the occipital bone, 
+probably represents osseous metastasis with dural involvement. 
+
+Labs on discharge:
+***********
+ 
+Brief Hospital Course:
+This is a ___ yo M with a history of HTN, CAD, and hyperlipidemia 
+who presents with 6 weeks of increasing jaw pain, found to have 
+a R temporal mass on outside hospital imaging and 
+lung/adrenal/back masses on imaging here. He was admitted for 
+further malignancy work up and pain control.
+.
+# Lung/Back/Adrenal/R temporal/brain masses, Lung Cancer: CT 
+prelim read here notes a 5 cm mass in the left lower lobe with 
+multiple necrotic left hilar and left axillary nodes, a 4 cm 
+right adrenal mass, and a 5 cm subcutanous mass of the mid back. 
+OSH CT of the facial bones revealed R temporalis muscle 
+enlargement and underlying destruction of the R temporal bone. 
+MRI ___ shows extensive R temporal mass, 2x2cm frontal brain 
+lesion, possible occipital lobe lesion as well, all consistent 
+with malignancy.  
+Surgery was able to perform biopsy on back on ___ - pathology 
+returned poorly differentiated carcinoma, likely non-small cell 
+lung cancer.  Plan to: 
+- oncology  was consulted and ___ appt was set up after 
+completion of xRT.
+- rad-onc consulted and pt received ___ treatment day of dc, 
+which he tolerated well. Pt would get 10 total fraction M-F 
+(total 2weeks)
+- Per Radonc, no plans for XRT to brain lesions for now. Will 
+need ___ scans. Pt and family told to report new neurological sx 
+to oncologist
+
+.
+# R jaw pain: Due to malignant destructive process. Pt responded 
+well to dilaudid in the ED.
+- pt was initially given IV dilaudid and later transitioned to 
+fentanly patch 75mcg Q72 and oral dilaudid 8mg Q4hrs prn which 
+appeared to be reducing his pain to a reasonable level. Since pt 
+was taking large amounts of oral dilaudid, at ___, fentanyl patch 
+dose was titrated up to 100mcg Q72hrs. Pt was advised to not 
+drive or operate heavy machinary. Pt was counseled on using 
+stool softeners to avoid constipation. Pt had regular BMs during 
+hospital stay on prescribed stool softeners.
+.
+# Hypercalcemia:  Pt had mild hyercalcemia, which was treated 
+with IVFS and one time dose of pamidronate 60mg given on ___
+- Pt's home meds of calcium carbonate and HCTZ were discontinued
+- Pt's repeat calcium levels were WNL.
+- Pt is in the process of changing PCP, so was asked to remind 
+Med Onc to check BMP during next visit
+.
+# Leukocytosis: The patient has no obvious evidence of 
+infection. He has 92% PMN/left shift, but no bands, no atypical 
+cells. No apparent current dental infection is noted on exam. Pt 
+had low grade temps but no true fever and UA/Cxr/Blood Cx were 
+neg. His leukocytosis was likely reactive and was downtrending 
+at ___
+.
+# Hemoptysis:  Patient had been coughing up blood mixed with 
+mucous.  ?posterior nasopharynx bleeding versus from lung mass :
+- SQ heparin was discontinued and pt had minimal hemoptysis 
+thereafter.
+.
+# Dyspnea: Pt had one episode of subjective dyspnea; likely 
+related to anxiety. Pt was initially placed on oxygen for 
+comfort but later weaned to off and sats were >95% on RA at dc. 
+Pt was started on low dose lorazepam for anxiety and was 
+scarcely using it
+
+.
+# Hyperkalemia:  Mild.  Unclear etiology.  Tumor lysis labs 
+negative, so unlikely this.  Resolved with kayexalate x 1.  
+.
+# HTN: Pt's HCTZ was discontinued ___ hypercalcemia and diovan 
+discontinued ___ to mild hyperkalemia. Pt was continued on home 
+dose of atenolol and SBP was in 100-110 range.
+.
+# Hyperlipidemia: Continued on simvastatin
+.
+# CAD: Per report, pt had an MI ___ years ago. He has never been 
+on ASA, and is unable to explain why.  Also was told he has a 
+"stiff heart".
+- ASA was held given presentation w large necrotic lung mass and 
+scant hemoptysis
+- pt continued on atenolol and simvastatin
+.
+# Anemia: Normocytic, stable, likely of chronic disease in 
+setting of malignancy.
+. 
+# FEN: reg diet with ensure, pt was not eating much solid food 
+___ jaw pain but taking in plenty of liquid food (soups, juice 
+ensure). Pt was strongly encouraged to drink plenty of fluids 
+and remain hydrated
+.
+# PPX: SC heparin d/ced given hemoptysis, pt was ambulating with 
+family.
+.
+# Contact: daughter ___: ___ (home); ___ 
+(cell); ___ (w)
+.
+
+ 
+Medications on Admission:
+Atenolol 50 mg daily
+Diovan 320 mg daily
+Simvastatin 20 mg daily
+HCTZ 12.5 mg daily --pt has not taken it for ___ days
+Xalatan eye drops--1 drop each eye daily
+ 
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours).  
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*60 Capsule(s)* Refills:*2*
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*1*
+8. Hydromorphone 4 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 
+hours) as needed for pain: take only if needed for severe pain.
+Disp:*180 Tablet(s)* Refills:*0*
+9. Simethicone 80 mg Tablet, Chewable Sig: ___ Tablet, Chewables 
+PO QID (4 times a day) as needed for bloated sensation/feeling.
+Disp:*60 Tablet, Chewable(s)* Refills:*0*
+10. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day 
+as needed for anxiety: this medication is for anxiety, only take 
+it if you absolutely need it.
+Disp:*15 Tablet(s)* Refills:*0*
+12. Ranitidine HCl 150 mg Capsule Sig: One (1) Capsule PO twice 
+a day: this medication is for heartburn.
+Disp:*60 Capsule(s)* Refills:*0*
+13. Fentanyl 100 mcg/hr Patch 72 hr Sig: One (1) transdermal 
+Transdermal every ___ (72) hours.
+Disp:*10 patches* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Non small cell lung cancer, with lesions in lung, lymph nodes, 
+back, right temporal ___, and adrenal gland
+
+ 
+Discharge Condition:
+Stable.  Pain under improved control.  
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with jaw pain, as well as to 
+work up masses noted in your jaw, back, lung, adrenal gland, and 
+brain.  Biopsy of the back lesion showed Non-small cell lung 
+cancer.  Oncology and radiation oncology were involved during 
+your hospital course.
+You are on strong pain medications, please do not drive or 
+operate heavy machinary while taking these medications
+Please take medications as directed.  You were started on 
+fentanyl patch for your jaw pain. Please change the fentanyl 
+patch every 3 days (72hrs) and take dilaudid only if you need 
+for pain. The pain medications can make you constipated and 
+inorder to prevent that we have prescribed you stool softeners 
+colace and senna, take them every day; if you are still 
+constipated, please take dulcolax too. If you are having loose 
+stools or diarrhea, hold the stool softeners.  
+
+We have discontinued your tums, diovan and HCTZ 
+(hydrochlorothiazide). Please do not take them anymore
+
+Please follow up with appointments as directed.
+
+Please contact physician if have recurrent severe pain, 
+fevers/chills, shortness of breath, any other questions or 
+concerns.
+ 
+Followup Instructions:
+___

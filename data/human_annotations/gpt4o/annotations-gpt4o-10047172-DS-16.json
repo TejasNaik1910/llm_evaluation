@@ -1,0 +1,172 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Morphology",
+            "startOffset": 1106,
+            "endOffset": 1116,
+            "startWordIndex": 139,
+            "endWordIndex": 140,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "BP stated with its value 160/80 while in medical record only value is mentioned without BP stated",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "HR stated with its value 80 while in medical record only value is mentioned without HR stated",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "RR stated with its value 18 while in medical record only value is mentioned without RR stated",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "elevated liver enzymes interpretation in summary while in medical record values are mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": " sub-cm",
+            "startOffset": 1185,
+            "endOffset": 1192,
+            "startWordIndex": 154,
+            "endWordIndex": 156,
+            "omittedDetails": "missing specific size from summary"
+        },
+        {
+            "text": "2.4 cm hemorrhagic cyst",
+            "startOffset": 2136,
+            "endOffset": 2159,
+            "startWordIndex": 278,
+            "endWordIndex": 283,
+            "omittedDetails": "MRI is not mentioned in summary"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": " FOLFIRINOX",
+            "startOffset": 1276,
+            "endOffset": 1287,
+            "startWordIndex": 166,
+            "endWordIndex": 167,
+            "omittedDetails": "specific cycles not mentioned in summary"
+        },
+        {
+            "text": " modified FOLFIRINOX",
+            "startOffset": 1673,
+            "endOffset": 1693,
+            "startWordIndex": 218,
+            "endWordIndex": 220,
+            "omittedDetails": "missing specific dose cycles and medications held from regimen"
+        },
+        {
+            "text": " hyperglycemia",
+            "startOffset": 3611,
+            "endOffset": 3625,
+            "startWordIndex": 490,
+            "endWordIndex": 491,
+            "omittedDetails": "specified treatment missing from summary"
+        },
+        {
+            "text": " manage medications ",
+            "startOffset": 4262,
+            "endOffset": 4282,
+            "startWordIndex": 556,
+            "endWordIndex": 558,
+            "omittedDetails": "dose adjusments to specific medications not mentioned "
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "rising CA levels ",
+            "startOffset": 1303,
+            "endOffset": 1320,
+            "startWordIndex": 170,
+            "endWordIndex": 173,
+            "omittedDetails": "missing specific lab value from summary"
+        },
+        {
+            "text": "slight decrease",
+            "startOffset": 1390,
+            "endOffset": 1405,
+            "startWordIndex": 182,
+            "endWordIndex": 184,
+            "omittedDetails": "stable disease in pancreas response not mentioned"
+        },
+        {
+            "text": " elevated liver enzymes",
+            "startOffset": 3150,
+            "endOffset": 3173,
+            "startWordIndex": 429,
+            "endWordIndex": 432,
+            "omittedDetails": "lab values missing from summary"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "pneumobilia",
+            "startOffset": 3292,
+            "endOffset": 3303,
+            "startWordIndex": 444,
+            "endWordIndex": 445,
+            "omittedDetails": null
+        },
+        {
+            "text": "bleeding",
+            "startOffset": 3483,
+            "endOffset": 3491,
+            "startWordIndex": 471,
+            "endWordIndex": 472,
+            "omittedDetails": "anemia and specific GI bleeding not mentioned in summary"
+        },
+        {
+            "text": " Retained food",
+            "startOffset": 3335,
+            "endOffset": 3349,
+            "startWordIndex": 448,
+            "endWordIndex": 450,
+            "omittedDetails": "specifically ERCP was done is not mentioned in summary"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": " ambulatory",
+            "startOffset": 4123,
+            "endOffset": 4134,
+            "startWordIndex": 539,
+            "endWordIndex": 540,
+            "omittedDetails": "missing a discharge condition from summary"
+        },
+        {
+            "text": "Continue TPN",
+            "startOffset": 4166,
+            "endOffset": 4178,
+            "startWordIndex": 542,
+            "endWordIndex": 544,
+            "omittedDetails": "specific instruction not mentioned"
+        },
+        {
+            "text": "monitor weight,",
+            "startOffset": 4180,
+            "endOffset": 4195,
+            "startWordIndex": 544,
+            "endWordIndex": 546,
+            "omittedDetails": "specific instruction not mentioned"
+        }
+    ]
+}

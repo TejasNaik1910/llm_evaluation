@@ -1,0 +1,379 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Influenza Virus Vaccines
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Headache, dizziness, nausea.
+ 
+Major Surgical or Invasive Procedure:
+There were no major surgical or invasive procedures during 
+hospitalization. 
+
+ 
+History of Present Illness:
+___ year who was sent in by ___ on ___ after 
+experiencing headache and emesis. The headache was acute in 
+onset however no headstrike or injuries were reported. She also 
+developed bilateral lower extremity weakness requiring her to 
+have to walk as she was unsteady on her feet. There was concern 
+regarding her presentation as she experienced similar symptoms 
+when she had a prior stroke. 
+
+In the ED, initial vitals were: Pain 8, Temperature 96.8, HR 
+101, BP 155/93, RR 16, Pulse Ox 99% on RA. Urine/serum 
+toxicology screen was negative. UA was negative.  Chemistry 
+panel was normal except for a BUN of 24. LFT's were normal 
+except for an alk phos of 144. CBC was within normal limits. 
+
+She underwent a CTA head and neck with preliminary reading 
+showing "no flow limiting stenosis in the intracranial and 
+cervical vessels. No evidence of aneurysm greater than 3 mm or 
+dissection. Patent stent graft in the right common carotid 
+artery. Calcified and non-calcified plaque at the left carotid 
+bifurcation causing mild narrowing. Atherosclerotic 
+calcification involving the left greater than right cervical 
+vertebral arteries. Severe atherosclerotic disease of the aortic 
+arch and descending aorta with both calcified and non-calcified 
+plaque. Unchanged 8 mm right upper lobe pulmonary nodule, follow 
+up per prior chest CT's." The patient was evaluated by neurology 
+who suspected that the patient's current presentation was due to 
+sub-acute spinal pathology coupled with ongoing medical illness 
+and stress due to home situation. The patient was evaluated by 
+___ in the ED who recommended ___ visits or discharge to rehab. 
+The patient was admitted to medicine for coordination of care 
+and symptomatic management. 
+
+On the floor, the patient reports improvement in her nausea and 
+abdominal pain. She has some persistent left lower extremity 
+weakness compared to right. She reports intermittent dizziness 
+which she describes as the sensation that the room is spinning 
+around her. She reports stress regarding her son and his issues 
+with addiction, which she has dealt with for some time. She 
+reported headache on presentation bi-temporal, which has 
+improved. The patient does not remember the exact events when 
+she was walking to her closet yesterday morning, but she did not 
+experience any prodromal symptoms, nor changes in vision. 
+ 
+Past Medical History:
+? CVA, ? MI   
+ANEMIA   
+APPENDECTOMY   
+BACK PAIN, RIGHT SCIATICA   
+CATARACTS   
+HYPERTENSION   
+HYPOTHYROIDISM S/p thyroidectomy ___ years ago, now on 
+levothyroxine. 
+RIGHT ANKLE SURG/PINS   
+THROAT CANCER ___, FOLLOWED AT ___   
+THROAT CANCER SURGERY,   
+THYROIDECTOMY   
+TOBACCO ABUSE   
+TONSILECTOMY   
+STENOSIS R CAROTID ARTERY/DEVICE PLACED AND ? REMOVED, ___   
+BRAIN TUMOR   
+ADENOID CYSTIC CARCINOMA   
+DEPRESSION   
+DYSPNEA ON EXERTION   
+RECHECK CHEST CT ___   
+? SEASONAL AFFECTIVE D/O 
+___: Admitted to ___ for dizziness, thought to be 
+secondary to Benign Paroxysmal Positional Vertigo. Also thought 
+that symptoms exacerbated by stress due to verbal abuse 
+experienced at home from her son. 
+ 
+Social History:
+___
+Family History:
+- Strong family history of malignancy.  One brother deceased in
+his ___ with liver malignancy, another in his ___ with Lung
+Cancer.  Mother deceased (reportedly at ___) in the setting of
+multiple medical problems plus a stroke.  Her father died at ___.
+- Patient denies other neurologic family history other than the
+above.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vital Signs: 97.1, 138/70, 64, 18, 98% on RA 
+General: alert, oriented, tearful when discussing son, otherwise 
+not in acute distress  
+HEENT: pale conjunctiva, JVP not visualized, hard 
+post-surgical/post-radiation changes in left submandibular area, 
+left cheek not tender to light palpation, no oropharnygeal 
+lesions visualized
+CV: RRR, nl S1 S2, no murmurs, rubs, gallops; no carotid bruit 
+b/l   
+Lungs: CTA b/l, no wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no edema  
+Neuro: CNII-XII intact (though patient refuses to extend tongue 
+for testing of CN12), ___ strength upper/lower extremities, 
+grossly normal sensation, upgoing babinskin on left, downgoing 
+on right, gait deferred, ___ negative b/l, mild left 
+lateral end-gaze nystagmus 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: 98.2 ___ 44-70 18 95-100%RA
+General: AOx3, lying in bed, appears comfortable, very pleasant
+HEENT: MMM, hard post-surgical/post-radiation changes in left 
+submandibular area, left cheek not tender to light palpation
+CV: RRR, normal S1 and S2 no m/r/g.   
+Lungs: Clear to auscultation bilaterally. 
+Abdomen: soft, nt, nd, no rebound or guarding. 
+Ext: Warm, well perfused, no edema.  
+Neuro: AOx3, EOMI, CNII-XII intact, strength/sensation grossly 
+intact
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:45PM BLOOD WBC-4.6 RBC-5.18 Hgb-13.8 Hct-43.4 MCV-84 
+MCH-26.6 MCHC-31.8* RDW-16.2* RDWSD-49.3* Plt ___
+___ 01:45PM BLOOD Neuts-67.6 ___ Monos-7.4 Eos-0.4* 
+Baso-0.7 Im ___ AbsNeut-3.10 AbsLymp-1.08* AbsMono-0.34 
+AbsEos-0.02* AbsBaso-0.03
+___ 01:45PM BLOOD Glucose-99 UreaN-24* Creat-1.1 Na-140 
+K-3.8 Cl-101 HCO3-29 AnGap-14
+___ 01:45PM BLOOD Albumin-4.4 Calcium-9.6 Phos-3.9 Mg-2.1
+___ 01:45PM BLOOD ALT-31 AST-26 AlkPhos-144* TotBili-0.4
+
+DISCHARGE LABS
+==============
+___ 07:32AM BLOOD WBC-3.8* RBC-5.17 Hgb-13.7 Hct-42.5 
+MCV-82 MCH-26.5 MCHC-32.2 RDW-16.2* RDWSD-48.2* Plt ___
+___ 07:32AM BLOOD Glucose-95 UreaN-17 Creat-0.9 Na-139 
+K-3.7 Cl-101 HCO3-29 AnGap-13
+___ 07:32AM BLOOD Calcium-9.3 Phos-3.8 Mg-2.0
+
+SERUM TOXICOLOGY
+================
+___ 01:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+URINE TOXICOLOGY
+================
+___ 03:00PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+
+URINE STUDIES
+=============
+___ 03:00PM URINE Color-Straw Appear-Clear Sp ___
+___ 03:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+
+IMAGING
+=======
+___: CTA HEAD AND CTA NECK
+IMPRESSION:
+1. Extensive periventricular and subcortical white matter 
+hypodensities,
+relatively unchanged compared to the prior MRI allowing for the 
+differences in technique.  Please note that evaluation for an 
+underlying acute infarct is limited given the extensive 
+hypodensities.  MRI of the brain can be performed for further 
+evaluation as clinically indicated.
+2. Vasogenic edema in the inferior right temporal lobe.  The 
+previously known enhancing lesion in the right temporal lobe is 
+not well visualized on the CT scan.
+3. Patent right internal and common carotid artery stent.
+4. Atherosclerosis involving the left carotid bifurcation 
+without any stenosis by NASCET criteria.
+5. Atherosclerosis involving V2 segment of left vertebral artery 
+causing focal areas of mild luminal narrowing.
+6. Stable 9 mm nodule in the right upper lobe.  Further 
+evaluation with
+dedicated CT of the chest can be performed as clinically 
+indicated.
+
+___: PELVIS (AP ONLY)
+FINDINGS: 
+No fracture or dislocation.  Bilateral hip joint spaces are 
+relatively well
+preserved with only minimal degenerative change.  Pubic 
+symphysis and SI
+joints are preserved.  No radiopaque foreign body.  Contrast is 
+seen within
+the bladder.
+ 
+IMPRESSION: 
+No fracture or dislocation.
+
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: ___ with PMH of HTN, hypothyroidism, head 
+and neck cancer s/p neck dissection x2 who presented with 
+complaints of vertigo and leg weakness after fall with complex 
+social situation concerning for abuse. 
+
+# Vertigo secondary to BPPV versus Social Stressors/Anxiety: Ms. 
+___ presented with nausea and dizziness. Based on description 
+it appeared the vertigo appeared to be position in nature. Given 
+her history of carotid stenosis, a CTA head and neck was 
+obtained which did not show any evidence of new acute stroke. 
+Neurology was consulted during hospitalization who did not 
+believe symptoms could be explained by an acute stroke. Rather, 
+they believed the symptoms were consistent with benign 
+paroxysmal positional vertigo as neurologic exam was completely 
+benign.
+
+During hospitalization, it was also noted that Ms. ___ 
+symptoms occurred when she was talking about her stressful home 
+situation (a son at home who has a drug addiction and is 
+verbally abusive to her). When talking to her son on the phone, 
+Ms. ___ would experience the dizziness and nausea. She also 
+experienced these symptoms when she described her stressful home 
+situation to the medical team. These symptoms would resolve 
+after she had time to relax.
+
+Neurology did not believe any further work-up was necessary as 
+an inpatient and recommended follow up with her Neurologist, Dr. 
+___. 
+
+# Social Stressors/Verbal Abuse: Ms. ___ described her 
+stressful home situation with her son. She describes her son as 
+addicted to crack. She also described numerous episodes of 
+verbal abuse to her. She denied any physical abuse. Elder 
+services had been involved in the past. Given this description, 
+social work was heavily involved during this hospitalization and 
+initial mandated reporting was done upon admission. She was 
+hesitant to be discharged from the hospital until ___ 
+discharge plan was in place. Social work attempted to find other 
+places for her to stay, however, patient elected to be 
+discharged home. To facilitate a safe discharge plan, plans were 
+made with ___ Police if any abuse at home (plan would be 
+contact Police at Precinct B2 with ___ ___ 
+___ cell). These plans were also communicated with 
+patient's daughter (___) to instruct on when to call the 
+police. Prior to her discharge, Elder Protective Services were 
+called for wellness and home safety evaluations to occur at 
+home. Ms. ___ was able to voice back the safety plan that was 
+developed and reported she felt comfortable with the safety 
+plan. Attempts were made to locate safe housing prior to 
+discharge,but patient denied further services.
+
+# Bacterial pneumonia: patient recently diagnosed with atypical 
+pneumonia at PCP, started on course of levofloxacin ___. 
+She completed her 10 day course of levofloxacin on ___. She 
+was not experience cough or fever, and remained hemodynamically 
+stable during hospitalization. 
+
+# Hypertension: Continued atenolol, chlorthalidone, and aspirin 
+during hospitalization.
+
+# Hypothyroidism: Continued levothyroxine during 
+hospitalization. 
+
+TRANSITIONAL ISSUES
+===================
+- Stable 9 mm nodule in the right upper lobe. Further evaluation 
+with dedicated CT of the chest can be performed as clinically 
+indicated. Of note, this lesion has been documented on previous 
+CT scans of the chest.
+- CTA Head and Neck: Marked atherosclerosis involving the aortic 
+arch with penetrating atherosclerotic ulcer as seen on image 
+5:27. Further evaluation with dedicated CT of the chest can be 
+performed as clinically indicated.
+- Please continue to follow up with patient's safety situation 
+at home
+- If further concerns for elder abuse, please contact Elder 
+Services.
+- Patient was noted to have mild leukopenia on labs. Please 
+consider repeat CBC as outpatient and consider further 
+evaluation.
+-Code Status: DNR/DNI. 
+- Safety Plan: Patient will be calling Officer ___ 
+___ cell) if there are any further 
+safety issues. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 100 mg PO DAILY 
+2. Chlorthalidone 25 mg PO QAM 
+3. Levofloxacin 500 mg PO Q24H 
+4. Aspirin 81 mg PO DAILY 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Acetaminophen 1000 mg PO Q4H:PRN headache/cold 
+7. Fish Oil (Omega 3) ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q4H:PRN headache/cold 
+2. Aspirin 81 mg PO DAILY 
+3. Atenolol 100 mg PO DAILY 
+4. Chlorthalidone 25 mg PO QAM 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Fish Oil (Omega 3) ___ mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+-Benign Paroxysmal Positional Vertigo
+-Post-traumatic stress disorder thought to be secondary to 
+verbal abuse at home.
+
+Secondary Diagnosis
+===================
+-Hypertension
+-Hypothyroidism
+-Prior CVA
+-Throat Cancer ___
+-s/p Thyroidectomy
+-Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ ___ due to 
+nausea and dizziness. You were seen by the Neurologists who 
+recommended you undergo a CT scan of your head and neck. This 
+did NOT show evidence of a new stroke.
+
+The dizziness you experienced seemed to be related to the 
+movement of your head. This is known as "Benign positional 
+vertigo." This usually resolves on its own.
+
+We also noticed that your symptoms of nausea/dizziness occurred 
+when you were talking about your very stressful home situation. 
+Stressors can make your symptoms worse. To help find a safe 
+place for you to be discharged to, you were seen by Social Work. 
+Their recommendations included a safety plan to contact the 
+Police if you feel unsafe at home. Your friend, Officer ___ 
+___, can be reached at ___ cell), and 
+was contacted to ensure you have more safety checks at home. 
+Further, Elder Services were also contacted so that they can see 
+you at home to ensure that it is a safe environment. 
+
+Please follow up with your primary care physician and your 
+specialists upon discharge from the hospital. It was a pleasure 
+taking care of your during your hospitalization! We wish you all 
+the best in the upcoming new year!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

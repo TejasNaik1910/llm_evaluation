@@ -1,0 +1,61 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "47",
+            "startOffset": 69,
+            "endOffset": 71,
+            "startWordIndex": 10,
+            "endWordIndex": 11,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "hyponatremia",
+            "startOffset": 974,
+            "endOffset": 986,
+            "startWordIndex": 127,
+            "endWordIndex": 128,
+            "omittedDetails": "Omitted lab results"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Illness",
+            "startOffset": 312,
+            "endOffset": 319,
+            "startWordIndex": 45,
+            "endWordIndex": 46,
+            "omittedDetails": "Omitted some symptoms and procedures"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "blood thinning medications",
+            "startOffset": 1611,
+            "endOffset": 1637,
+            "startWordIndex": 201,
+            "endWordIndex": 204,
+            "omittedDetails": "Omitted mentioned medications"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Some of the medications' indented uses were predicted, despite not being mentioned in the document ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Call doctor",
+            "startOffset": 1742,
+            "endOffset": 1753,
+            "startWordIndex": 216,
+            "endWordIndex": 218,
+            "omittedDetails": "Omitted some symptoms"
+        }
+    ]
+}

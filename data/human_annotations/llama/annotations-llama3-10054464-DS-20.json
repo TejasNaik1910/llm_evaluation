@@ -1,0 +1,102 @@
+{
+    "Omitted Patient Information": [
+        {
+            "text": "patient ",
+            "startOffset": 98,
+            "endOffset": 106,
+            "startWordIndex": 18,
+            "endWordIndex": 19,
+            "omittedDetails": "The gender (male) is missing from the summary"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "docusate ",
+            "startOffset": 747,
+            "endOffset": 756,
+            "startWordIndex": 96,
+            "endWordIndex": 97,
+            "omittedDetails": ""
+        },
+        {
+            "text": "bisacodyl",
+            "startOffset": 764,
+            "endOffset": 773,
+            "startWordIndex": 98,
+            "endWordIndex": 99,
+            "omittedDetails": ""
+        },
+        {
+            "text": "prochlorperazine",
+            "startOffset": 775,
+            "endOffset": 791,
+            "startWordIndex": 99,
+            "endWordIndex": 100,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "improved",
+            "startOffset": 1424,
+            "endOffset": 1432,
+            "startWordIndex": 188,
+            "endWordIndex": 189,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "ot",
+            "startOffset": 419,
+            "endOffset": 421,
+            "startWordIndex": 63,
+            "endWordIndex": 63,
+            "omittedDetails": "Initial vital signs are missing from the summary"
+        },
+        {
+            "text": "ti",
+            "startOffset": 1210,
+            "endOffset": 1212,
+            "startWordIndex": 156,
+            "endWordIndex": 156,
+            "omittedDetails": "Symptoms in oncologic history are missing from the summary"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "and ",
+            "startOffset": 357,
+            "endOffset": 361,
+            "startWordIndex": 54,
+            "endWordIndex": 55,
+            "omittedDetails": "Taxotere is missing from the summary"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Diagnostic ",
+            "startOffset": 865,
+            "endOffset": 876,
+            "startWordIndex": 107,
+            "endWordIndex": 108,
+            "omittedDetails": "EKF and findings are missing from the summary"
+        },
+        {
+            "text": "Medical ",
+            "startOffset": 1594,
+            "endOffset": 1602,
+            "startWordIndex": 218,
+            "endWordIndex": 219,
+            "omittedDetails": "Depression is missing from the summary"
+        },
+        {
+            "text": "myocardial infarction",
+            "startOffset": 1712,
+            "endOffset": 1733,
+            "startWordIndex": 234,
+            "endWordIndex": 236,
+            "omittedDetails": "NSTEMI is generalized as MI"
+        }
+    ]
+}

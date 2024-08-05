@@ -1,0 +1,46 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "\"necessitating a tracheostomy\" wasn't mentioned the reason for tracheostomy",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "95.7\u00b0F unit not mentioned",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "biopsy ",
+            "startOffset": 2015,
+            "endOffset": 2022,
+            "startWordIndex": 246,
+            "endWordIndex": 247,
+            "omittedDetails": "18-gauge core biopsy x 2"
+        },
+        {
+            "text": "Biopsy ",
+            "startOffset": 2282,
+            "endOffset": 2289,
+            "startWordIndex": 280,
+            "endWordIndex": 281,
+            "omittedDetails": "ultrasound-guided biopsy"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Pertinent Results:",
+            "startOffset": 1680,
+            "endOffset": 1698,
+            "startWordIndex": 207,
+            "endWordIndex": 209,
+            "omittedDetails": "labs are missing"
+        }
+    ]
+}

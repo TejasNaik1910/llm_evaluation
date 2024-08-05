@@ -1,0 +1,91 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Complete Blood Count (CBC)",
+            "startOffset": 611,
+            "endOffset": 637,
+            "startWordIndex": 81,
+            "endWordIndex": 85,
+            "omittedDetails": "omitted labs"
+        },
+        {
+            "text": "Urine",
+            "startOffset": 845,
+            "endOffset": 850,
+            "startWordIndex": 120,
+            "endWordIndex": 121,
+            "omittedDetails": "omitted labs"
+        },
+        {
+            "text": "ED",
+            "startOffset": 529,
+            "endOffset": 531,
+            "startWordIndex": 66,
+            "endWordIndex": 67,
+            "omittedDetails": "omitted vitals and lab "
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "no interpretation for CBC was mentions",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "also no interpretation for urine analysis was mentioned",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Dyslipidemia (on atorvastatin) not mentioned the use for atorvastatin",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "French ",
+            "startOffset": 989,
+            "endOffset": 996,
+            "startWordIndex": 140,
+            "endWordIndex": 141,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Bowel regimen",
+            "startOffset": 1236,
+            "endOffset": 1249,
+            "startWordIndex": 173,
+            "endWordIndex": 175,
+            "omittedDetails": "(senna/Colace/Miralax)"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": " Imaging studies",
+            "startOffset": 873,
+            "endOffset": 889,
+            "startWordIndex": 124,
+            "endWordIndex": 126,
+            "omittedDetails": "some imaging findings are omitted"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Instructions",
+            "startOffset": 1549,
+            "endOffset": 1561,
+            "startWordIndex": 206,
+            "endWordIndex": 207,
+            "omittedDetails": "some discharge instructions are omitted"
+        }
+    ]
+}

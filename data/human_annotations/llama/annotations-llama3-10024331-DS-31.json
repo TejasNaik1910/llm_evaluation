@@ -1,0 +1,91 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Blood cultures",
+            "startOffset": 1009,
+            "endOffset": 1023,
+            "startWordIndex": 133,
+            "endWordIndex": 135,
+            "omittedDetails": "missing results for blood culture"
+        },
+        {
+            "text": "Urine culture",
+            "startOffset": 1026,
+            "endOffset": 1039,
+            "startWordIndex": 135,
+            "endWordIndex": 137,
+            "omittedDetails": "missing results for urine culture"
+        },
+        {
+            "text": "Cardiac enzymes",
+            "startOffset": 1042,
+            "endOffset": 1057,
+            "startWordIndex": 137,
+            "endWordIndex": 139,
+            "omittedDetails": "missing results for cardiac enzymes"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "with ",
+            "startOffset": 303,
+            "endOffset": 308,
+            "startWordIndex": 41,
+            "endWordIndex": 42,
+            "omittedDetails": "s/p multiple stents"
+        },
+        {
+            "text": "with ",
+            "startOffset": 552,
+            "endOffset": 557,
+            "startWordIndex": 70,
+            "endWordIndex": 71,
+            "omittedDetails": "missing s/p ERCP and sphincterotomy"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "and",
+            "startOffset": 909,
+            "endOffset": 912,
+            "startWordIndex": 116,
+            "endWordIndex": 117,
+            "omittedDetails": "missing morphine"
+        },
+        {
+            "text": "vitamin D",
+            "startOffset": 1217,
+            "endOffset": 1226,
+            "startWordIndex": 154,
+            "endWordIndex": 156,
+            "omittedDetails": "missing vitamin D repletion with 50,000 units vitamin D x2 days"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "bone health",
+            "startOffset": 1231,
+            "endOffset": 1242,
+            "startWordIndex": 157,
+            "endWordIndex": 159,
+            "omittedDetails": "missing osteoporosis "
+        },
+        {
+            "text": "Coronary artery disease",
+            "startOffset": 279,
+            "endOffset": 302,
+            "startWordIndex": 38,
+            "endWordIndex": 41,
+            "omittedDetails": "missing in stent thrombosis, resolving chest pain"
+        },
+        {
+            "text": "Paroxysmal atrial fibrillation",
+            "startOffset": 346,
+            "endOffset": 376,
+            "startWordIndex": 45,
+            "endWordIndex": 48,
+            "omittedDetails": "misisng CHADs2 score 4"
+        }
+    ],
+    "Omitted Followup": []
+}

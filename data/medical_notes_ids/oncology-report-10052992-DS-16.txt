@@ -1,0 +1,299 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+s/p TACE
+ 
+Major Surgical or Invasive Procedure:
+Transarterial chemoembolization ___
+FINDINGS:  
+  
+1. Conventional celiac and hepatic arterial anatomy. 
+2. Pre-embolization arteriogram and cone beam CT showing tumor 
+blush in 
+segment VI. 
+4. Post-embolization showing staining of tumor in segment VI 
+with inflow 
+arterial stasis. 
+  
+IMPRESSION:  
+  
+Successful left greater artery approach trans-arterial 
+chemoembolization of 
+HCC located in segment VI. 
+
+ 
+History of Present Illness:
+This is a ___ male with colon cancer (T3 N1 M0) s/p 
+resection on ___ and FOLFOX, HCV/HBV cirrhosis (compensated) 
+with hepatocellular carcinoma, status post multiple RFA, 
+admitted s/p TACE for 2.2-cm segment VI HCC recurrence.
+
+He presented today for planned transcatheter arterial 
+chemoembolization with left radial access. He received 1L NS, 
+fentanyl and oxycodone. He tolerated the procedure well. In the 
+PACU, he was note to be wheezing and was given a neb from which 
+he improved.
+
+On arrival to the floor, he reports feeling well. History is 
+obtained with interpreter and son's assistance. The patient is 
+not able to confirm the date or specify which hospital he is in, 
+which the son reports is his usual. He reports no pain, no 
+trouble with breathing, no chest discomfort.
+
+ROS:
+Per hpi, otherwise rest of 10pt review negative.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: 
+Hepatocellular carcinoma in the setting of HCV, HBV, and 
+possible
+alcoholic cirrhosis
+- ___ Resection of a primary HCC by report
+- ___ Presented with worsening abdominal pain. 
+- ___ EGD revealed grade I varices and a gastric ulcer
+- ___ MR liver revealed a cirrhotic liver with 1.8 cm
+lesion in segment VII suspicious for HCC but not meeting strict
+OPTN 5a criteria as well as possible cholecystitis
+- ___ MR liver showed a 1.7 x 1.3 cm segment VII hepatic
+lesion is unchanged in size since ___, however now meets OPTN 
+5a
+criteria for HCC. New 1.2 x 1 cm arterially hyperenhancing
+segment VIII lesion does not meet strict OPTN-5 criteria but is
+suspicious for HCC.  
+- ___ RFA of the larger segment VIII lesion
+- ___ MR liver showed full treatment of the segment VIII
+lesion, stable segment VII lesion
+- ___ CT torso showed the arterial hyperenhancing lesion
+in segment VIII does not demonstrate washout and does not meet
+criteria for an OPTN 5 lesion, however has grown in size 
+compared
+with the prior study measuring 2.6 cm, previously 1.7 cm.
+Interval increase size of a low-density lymph node with internal
+calcification posterior to the IVC and a small aortocaval lymph
+node.  PET scan is recommended. 
+- ___ PET ___
+- ___ CT torso showed a 3.0 cm arterially enhancing 
+lesion
+within segment VII shows subtle washout on delayed imaging and 
+is
+consistent with hepatocellular carcinoma (OPTN class 5B).  New
+portal vein thrombosis and evidence of portal hypertension. No
+metastatic disease. 
+- ___ RFA to his recurrent HCC
+- ___ CT abdomen showed a 2.2 cm segment VI HCC by OPTN
+- ___ MR liver revealed a cirrhotic liver with 1.8 cm
+lesion in segment VII suspicious for HCC but not meeting strict
+OPTN 5a criteria as well as possible cholecystitis
+- ___ Presented with BRBPR
+- ___ Colonoscopy revealed a 5 cm bleeding mass at 25 cm
+in the sigmoid colon. 
+- ___ Underwent sigmoid colectomy and CCY. 
+- ___ C1D1 FOLFOX6 
+- ___ C2D1 modified FOLFOX (no bolus ___, LV 200 mg/m2,
+oxaliplatin 65 mg/m2) + Neulasta delayed and reduced for
+cytopenias and liver injury
+- ___ dose of chemotherapy held for diarrheal illness
+attributed to food poisoning v viral infection
+- ___ Holding further chemo for past toxicity
+- ___ CT torso ___
+- ___ MR liver showed a 1.7 x 1.3 cm segment VII hepatic
+lesion is unchanged in size since ___, however now meets OPTN 
+5a
+criteria for HCC. 
+- ___ Colonoscopy with poor prep, at least one adenoma
+identified and removed
+- ___ CT torso showed the arterial hyperenhancing lesion
+in segment VIII does not demonstrate washout and does not meet
+criteria for an OPTN 5 lesion, however has grown in size 
+compared
+with the prior study measuring 2.6 cm, previously 1.7 cm.
+Interval increase size of a low-density lymph node with internal
+calcification posterior to the IVC and a small aortocaval lymph
+node.  PET scan is recommended. 
+- ___ PET ___
+- ___ CT torso showed a 3.0 cm arterially enhancing 
+lesion
+within segment VII shows subtle washout on delayed imaging and 
+is
+consistent with hepatocellular carcinoma (OPTN class 5B).  New
+portal vein thrombosis and evidence of portal hypertension. No
+metastatic disease. 
+- ___ Colonoscopy showed 2 polyps, GI recommended repeat
+in ___ years
+- ___ CT abdomen showed a 2.2 cm segment VI HCC by OPTN
+criteria, no metastatic disease
+
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+T 100.6 BP 117/66 HR 93 RR 18 O2 96%RA
+GEN: Elderly man in no acute distress, breathing slightly 
+labored
+HEENT: Moist membranes, anicteric
+NECK: No masses
+HEART: RRR, no murmurs
+LUNGS: Insp/expiratory wheeze, slightly labored breathing but 
+comfortable 
+ABD: Soft, nontender, nondistended, no fluid wave
+GU: No foley
+EXT: Warm, no edema
+NEURO: Prominent asterixis, alert, oriented to self and hospital 
+only
+
+DISCHARGE PE
+VS: T 98.8 BP  113 / 66 HR 87 RR 18 O2 sat 94 ra 
+Gen: NAD, resting, ___ interpretation with son
+Eyes: ___, no scleral icterus
+HENT: NCAT, trachea midline
+CV: RRR, S1-S2, no m/r/r/g, no edema, 2+ ___ BLE
+Lungs: CTA B, no w/r/r/c
+GI: +BS, soft, NTTP, ND, no grimace to palpation with RUQ 
+GU: No foley
+MSK: ___ strength bilaterally, intact ROM
+Neuro: Moving all extremities, no focal deficits, A+O to place, 
+___, hospital but not year (never knows year), knows ___ 
+time but not exact date which is baseline, knows birthday and 
+oriented to situation/person. 
+Skin: No rash or ecchymosis
+Psych: Congruent affect, good judgment
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 09:45PM BLOOD WBC-7.5# RBC-3.24* Hgb-10.1* Hct-30.8* 
+MCV-95 MCH-31.2 MCHC-32.8 RDW-15.6* RDWSD-54.3* Plt Ct-55*
+___ 09:45PM BLOOD ___
+___ 09:45PM BLOOD Glucose-192* UreaN-9 Creat-1.0 Na-142 
+K-2.5* Cl-107 HCO3-21* AnGap-17
+___ 10:40AM BLOOD ALT-36 AST-61* AlkPhos-218* TotBili-2.4*
+___ 10:40AM BLOOD CEA-2.9 AFP-1437.0*
+
+DISCHARGE LABS:
+___ 08:50AM BLOOD WBC-5.1 RBC-3.06* Hgb-9.6* Hct-29.6* 
+MCV-97 MCH-31.4 MCHC-32.4 RDW-15.7* RDWSD-55.7* Plt Ct-55*
+___ 07:30AM BLOOD Glucose-100 UreaN-10 Creat-0.9 Na-141 
+K-3.5 Cl-111* HCO3-19* AnGap-15
+___ 07:30AM BLOOD ALT-64* AST-121* AlkPhos-183* 
+TotBili-1.9*
+
+CT a/p ___ Pending read will f/u with hepatologist for 
+results
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN:
+This is a ___ male with colon cancer (T3 N1 M0) s/p 
+resection on ___ and FOLFOX, HCV/HBV cirrhosis (compensated) 
+with hepatocellular carcinoma, status post multiple RFA, 
+admitted s/p TACE for 2.2-cm segment VI HCC recurrence.
+
+# s/p TACE
+# HCC, recurrent
+Tolerated TACE well, minimal pain at present, abd exam benign. 
+- noncontrast CT done pending read - will f/u with hepatologist 
+on results
+- Pain and nausea is controlled at time of discharge
+
+# Acute encephalopathy - post procedure but resolved with sleep 
+overnight. Pt is at baseline orientation per family (knows 
+place, situation, DOB, people, location, but not date/year/month 
+which is normal)
+
+# Wheeze
+# Active smoker
+CXR without evidence of aspiration or fluid overload from IVF 
+during procedure, breathing comfortably.
+- f/u with PCP ___ ?if COPD is a possibility and PFTs
+
+# Hypokalemia
+K 2.5. repleted with 120 mEq and 40 mEq IV with discharge K 3.5.
+
+# HCV/HBC cirrhosis
+Has asterixis, unclear if this is baseline or triggered by 
+anesthesia, not on hepatic encephalopathy meds. Improved in am 
+likely post anesthesia effect.
+- cont tenofovir 300mg daily
+
+# Essential HTN- controlled
+- restart losartan 100mg daily
+
+CODE-  presumed full
+Discharge to home without services
+
+Pt met inpatient criteria with K 2.5 and encephalopathy post 
+procedure. He improved faster than expected. >30 minutes was 
+spent on this discharge with coordinating follow-up, discussing 
+with son, interpretation, and communication with ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID 
+2. Multivitamins 1 TAB PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Senna 8.6 mg PO BID:PRN Constipation 
+5. Tenofovir Disoproxil (Viread) 300 mg PO DAILY 
+6. Losartan Potassium 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID  
+2.  Losartan Potassium 100 mg PO DAILY  
+3.  Multivitamins 1 TAB PO DAILY  
+4.  Omeprazole 20 mg PO DAILY  
+5.  Senna 8.6 mg PO BID:PRN Constipation  
+6.  Tenofovir Disoproxil (Viread) 300 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Post TACE/HCC
+2. Acute Encephalopathy resolved
+3. Hypokalemia - resolved
+4. Wheezing - no O2 requirements
+5. Abdominal Pain - resolved
+6. HBV/HCV Cirrhosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted for a transarterial chemoembolization of your 
+liver cancer. The procedure went well. You were slightly 
+confused after the procedure but that has cleared this morning. 
+
+You could expect to have low grade fevers, abdominal pain in 
+your right upper abdomen, and nausea/vomiting post this 
+procedure. Please check in with your hepatologist if these occur 
+for instructions. 
+
+You had a CT scan of your belly to see the end results of your 
+embolization. You will have the results when you follow-up with 
+your hepatologist. 
+ 
+Followup Instructions:
+___

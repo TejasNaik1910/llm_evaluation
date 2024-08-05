@@ -1,0 +1,474 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+oxycodone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+Perc chole tube placement ___
+ERCP ___
+
+ 
+History of Present Illness:
+___ with stage IV pancreatic adenocarcinoma, liver mets, PE in 
+___, acalculous cholecystitis with biliary stent placed at 
+___ last admission, recent STEMI and PCI, presents as transfer 
+from ___ with 2 2 days of upper abdominal pain different 
+from usual pain and found to have acute acalculous cholecystitis 
+seen on CT scan yesterday evening. Complicated stay
+at ___ summarized below, admitted initially ___ with GIB and 
+profound anemia
+
+On arrival, pt describes pain as having been RUQ under rib for 
+several weeks. Now worsened and moved to epigastrum for about a 
+week. Sharp, constant, worse with deep breaths. Nausea limiting 
+PO intake. No pain related to intake. Intermittent emesis. 
+Having regular BM, last yesterday. No blood. Home pain regimen 
+Oxycontin + dilaudid for breakthrough with some mild nausea 
+associated with these meds. Denies f/c. SOB when exertin self 
+too much but no change recently; known PE. No CP, urinary 
+frequ/pain.
+
+Prior records including OSH reviewed and summarized as follows: 
+Panc ca Dx in ___. Care appears to be at ___. Had ERCP here 
+at ___ w/ biliary stent about a month ago; LFTs better since 
+then; is scheduled for ERCP w/ stent re-eval next week. ___ 
+with new PE, and IVC filtedr placement. Recently seen atrial 
+thrombus vs. mass, on xarelto (this was restarted at home about 
+a week ago). Recent MI on aspirin & Plavix (2 stents placed in 
+___ at ___. Transfer initiated for ___ eval of perc chole 
+tube vs surgical CCY. Pt has expressed high interest in celiac 
+plexus block for her abdominal pain, but unclear what discussion 
+has actually been undertaken, or who has offered this therapy.
+
+Admit to ___ on ___.
+Acute UGIB on arrival with Hb reportedly 3. Multiple blood 
+transfions. Gastric ulcer. Surgery consulted re cholecystits but 
+not considered acceptable risk for anesthesia given MI and DAPT, 
+AC. Oncologist ___ consulted; planned to defer chemo 
+scheduled for this past week pending plan re abdominal pain and
+aclaculous cholecystitis; subsequent notes imply that no more 
+palliative chemo to be pursued. Cards also consulted for typical 
+CP following her stenting; there was missing info regarding type 
+of stent placed (done at ___. Also notes a right atrial 
+mass that may be thrombus on CT. No echo report is included. IV 
+zosyn was started on day prior to DC though unclear evidence of
+cholangitis. There was a plan for biliary stent removal around 
+this week (placed at ___. tbili down from 10 to 3.5
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All 
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+- Left ACL repair (___)
+- Hysterectomy / BSO for uterine fibroids (___)
+- Pancreatic Adenocarcinoma 
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for 
+hospitalization.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: Afebrile and vital signs WNL
+GENERAL: Alert and in minimal distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD. 1+ ___ edema 
+to mid shins
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended.  Bowel sounds present.  Mild 
+TTP in RUQ, epigastrum.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE PHYSICAL EXAM:
+VS: 98.6 PO 106/64 75 18 96 2L NC 
+GEN: sleepy, intermittently uncomfortabel 
+Eyes: mild scleral icterus, non-injected
+HEENT: MM dry, grossly nl OP
+CV: RRR nl S1/S2 no g/r/m
+CHEST: crackles at bases, some rhonchi in upper lung fields
+Abd: soft, mild ttp throughout without rebound. 
+GU: No suprapubic fullness or tenderness to palpation
+Ext: WWP. TEDS in place with thin legs, 2+ pitting edema at hips
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: mildly anxious
+
+ 
+Pertinent Results:
+OSH LABS:
+last wbc 12, hb 7.4 (reported as low as 3), plt 212
+Na 138, K 3.6 bcb 24, Cr 0.6, alb 2.5, tbili 3.6, direct 2.5, AP 
+801, AST 44, ALT 20, INR 1.7, trop neg (last on ___, 
+
+ADMISSION LABS:
+___ 05:17AM BLOOD WBC-11.4* RBC-2.35* Hgb-7.1* Hct-22.8* 
+MCV-97 MCH-30.2 MCHC-31.1* RDW-19.9* RDWSD-66.7* Plt ___
+___ 05:17AM BLOOD ___
+___ 05:17AM BLOOD Glucose-105* UreaN-10 Creat-0.4 Na-138 
+K-3.8 Cl-101 HCO3-24 AnGap-13
+___ 05:17AM BLOOD ALT-19 AST-37 LD(LDH)-427* AlkPhos-779* 
+TotBili-3.6*
+___ 05:17AM BLOOD Albumin-2.3* Calcium-7.6* Phos-3.5 Mg-1.8
+
+IMAGING:
+- KUB ___: Pancreatic duct stent in appropriate positioning
+
+- TTE ___: Suspicion for malignant thrombotic process with 
+masses on the mitral valve (marantic endocarditis) not seen on 
+prior study from less than one month ago, possible thrombus
+in the coronary sinus (likley same mass seen on eustachian valve 
+but could be two masses), recent pulmonary embolism, and recent 
+STEMI in the context of underlying malignant pancreatic cancer.
+Moderate pulmoanry hypertension. TEE recommended.
+
+- LENIS (___): 1. Superficial occlusive thrombus in the right 
+greater saphenous vein within 1cm of its junction with the 
+common femoral vein. 2. No deep venous thrombosis in the right 
+or left lower extremity veins. 
+
+- CTV (IVCF study) (___): 1. Appropriately positioned IVC 
+filter. No evidence of central venous thrombosis. 2. 
+Redemonstrated pancreatic head mass and extensive hepatic 
+metastasis. 3. Interval placement of a cholecystostomy tube, 
+appropriately position. 4. Stable small volume ascites in the 
+pelvis and anasarca. 5. Stable small right pleural effusion with 
+adjacent atelectasis. 
+
+-Liver US ___: 1. Gallbladder similar in appearance compared 
+to most recent CT with intraluminal sludge and partially 
+visualized cholecystostomy tube.  Tube traverses into the 
+gallbladder, but tip of the tube is not well visualized.  There 
+is no new dilation of the gallbladder to suggest any 
+obstruction.  No adjacent collection. 
+2. Unchanged hepatic metastases with expected pneumobilia.  No 
+biliary 
+dilation. 
+3. Unchanged dilation of the main pancreatic duct to 6 mm in 
+size. 
+
+-CT Abd/pelvis ___:
+1. No significant change in pancreatic head mass or extensive 
+hepatic 
+metastatic disease. 
+2. CBD stent, pancreatic duct stent, and percutaneous 
+cholecystostomy tube 
+appears appropriately position. 
+3. Stable small volume ascites and anasarca. 
+4. New, small splenic infarct. 
+5. Slight interval increase in size of small right greater than 
+left pleural effusions. 
+
+-ERCP ___ with removal of PD stent and metal biliary stent. 
+Cholangiogram with distal CBD stricture upstream dilation. 
+plastic biliar stent placed. Suspect retroperitoneal 
+extravasation of contrast during procedure, likely through 
+necrotic tumor. Tumor ingrowth noted into the third portion of 
+the duodenum
+
+-CT chest ___. Bilateral upper lobe predominant multifocal ground-glass 
+opacities can be concerning for the mild-to-moderate pulmonary 
+edema.  Superimposed infection is not excluded in the 
+appropriate clinical setting. 
+2. Linear areas of filling defects in multiple bilateral 
+subsegmental branches are compatible with chronic appearing 
+known pulmonary emboli. 
+
+Discharge labs:
+==============
+___ 06:50AM BLOOD WBC-31.7* RBC-2.82* Hgb-8.4* Hct-26.9* 
+MCV-95 MCH-29.8 MCHC-31.2* RDW-22.9* RDWSD-72.8* Plt ___
+___ 06:50AM BLOOD Glucose-60* UreaN-11 Creat-0.8 Na-134* 
+K-4.2 Cl-96 HCO3-25 AnGap-13
+___ 06:50AM BLOOD ALT-13 AST-47* LD(LDH)-993* AlkPhos-829* 
+TotBili-3.4* DirBili-2.5* IndBili-0.9
+___ 06:50AM BLOOD Calcium-7.3* Phos-2.4* Mg-1.8
+___ 06:50AM BLOOD Hapto-140
+
+Micro:
+========
+Bile culture ___:
+GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   FLUID CULTURE (Final ___: 
+      ENTEROBACTER CLOACAE COMPLEX.    SPARSE GROWTH. 
+         Cefepime MIC <=2 MCG/ML . 
+         Cefepime test result performed by Microscan. 
+      ENTEROBACTER CLOACAE COMPLEX.    SPARSE GROWTH.  SECOND 
+MORPHOLOGY. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROBACTER CLOACAE COMPLEX
+                             |          ENTEROBACTER CLOACAE 
+COMPLEX
+                             |          |   
+CEFEPIME--------------       S      <=1 S
+CEFTAZIDIME-----------     4 S      <=1 S
+CEFTRIAXONE-----------     8 R      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------     4 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN/TAZO-----    16 S        8 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+   ANAEROBIC CULTURE (Final ___: 
+      CLOSTRIDIUM PERFRINGENS.    MODERATE GROWTH. 
+
+ 
+Brief Hospital Course:
+___ is a ___ year old woman with a history of 
+metastatic pancreatic adenocarcinoma with liver metastaasis, 
+recent PE (___) and recent STEMI (___), prior ERCP metal 
+PD and plastic stenting ___ ___. She has been hospitalized 
+continuously at ___ for 3 weeks with originally admission 
+to ___ in mid ___, with transfer to BI late in the ___ 
+for GI bleeding and ERCP/stent placement. She was subsequently 
+transferred back to ___ on ___ where she remained hospitalized 
+until she was returned to ___ for management of acalculous 
+cholecystitis. Her hospital course was notable for diagnosis of 
+marantic endocarditis and acute right heart failure with 
+anasarca and marked leukocytosis. After family meeting held 
+___, the decision was made to transition to ___ focused 
+care with transfer to ___ for hospice care.
+
+#Goals of care: Ms. ___ was newly diagnosed with metastatic 
+pancreatic cancer in ___ of this year with complications 
+including hypercoaguability manifesting in bilateral PEs, 
+marantic endocarditis, STEMI and superficial venous 
+thromboembolism as well as acalculous cholecystitis, GI bleeding 
+and anasarca. She has been in and out of the hospital since 
+diagnosis with prolonged hospitalization on this presentation. 
+She has been supported by her family (5 siblings) throughout her 
+journey. On ___, we met at the bedside with Ms. ___, her 
+sister and 3 of her brothers as well as the palliative care team 
+and myself (hospitalist) to discuss her care and her goals 
+moving forward. ___ was clear that she is at the end of life 
+and understands her diagnosis is terminal. Her family expressed 
+a desire to have her closer to home and to focus on comfort and 
+___ agreed that this was her goal, to not be in a hospital 
+setting. As such, the decision was made to transition toward a 
+focus on comfort with discharge to hospice at ___. As I 
+discussed with Ms. ___, we can continue oral abx for her 
+acalculous cholecystitis and anticoagulation for her clots which 
+can be stopped at whatever point she desires. Her family and the 
+patient were comfortable with this plan. 
+
+# Acalculous Cholecystitis: Patient admitted with severe RUQ 
+abdominal pain and CT imaging concerning for acalculous 
+cholecystitis. She was managed with IV narcotics and unasyn 
+antibiotic therapy. Hepatobiliary surgery felt patient was not a 
+surgical candidate, and ERCP felt intraluminal options were 
+limited, so patient proceed with high risk PTC (as triple 
+therapy could not safely be held, see below). Post-operatively, 
+her abdominal pain symptoms initially improved dramataically, 
+although she did experience transient drain site pain. Bile 
+cultures grew Clostrium perfringens and GNRs. She was initially 
+treated with broad abx which were narrowed to cipro/augmentin at 
+discharge to continue at least through ___ or based on patient 
+comfort. Drain will remain in place indefinitely for ongoing 
+drainage of her gallbladder. 
+
+# Marantic Endocarditis: 
+# Pulmonary Embolism
+# Intracardiac Mass:
+# Right Superficial Venous Thrombosis: Patient's pre-hospital 
+course had been marked by a constellation of multiple thrombobic 
+events (STEMI, PE, DVT). TTE on admission (originally ordered to 
+evaluate for persistence of previously seen intracardiac mass) 
+notable for the development of extensive mitral valve 
+thrombosis, concerning for marantic endocarditis. Platelets and 
+fibrinogen were wnl, arguing against malignancy related chronic 
+DIC. Vascular cardiology recommended anticoagulation be changed 
+to lovenox. LENIS notable for superficial thrombosis. Serial TTE 
+also noted increasing PASP, concerning for ongoing VTE/PE events 
+causing CHF symptoms (below). Ms. ___ was discharged on 
+lovenox once daily (1.5mg/kg daily). 
+
+# Acute Right Sided Congestive Heart Failure
+# Acute hypoxemic respiratory failure
+# Anasarca: Patient noted to have ___ edema on admission that 
+appeared to worsen during her course likely related to fluids 
+received while NPO, low albumin and elevated PASP on serial TTE 
+(increased from 27-->52 this admission) suggesting ongoing 
+VTE/CTEPH and subsequent right heart failure. She also had new 
+hypoxia felt to be due to fluid though could be component of 
+atypical infection based on CT read (afebrile). She was diuresed 
+with some improvement. 
+
+# Leukocytosis: Patient developed worsening leukocytosis after 
+placement of perc chole tube. She underwent ERCP without e/o 
+cholangitis though with evidence of necrotic tumor invading into 
+duodenum. CT abdomen without source of infection. CT chest with 
+likely pulmonary edema though cannot rule out infection. Cdiff 
+sent and pending. ID consulted and felt that there was a 
+possibility of suprainfection of one of her necrotic mets 
+however given her high risk of bleeding and goals of care, 
+further investigation of infection of her metastates was not 
+deem in her goals of care. 
+
+# Metastatic Pancreatic Cancer: With liver metastasis found to 
+have new splenic metastases while here. ___ oncologist: ___ 
+___ was contacted and case discussed. She reported that 
+patient was s/p folfirinox x1 cycle and then trialed briefly on 
+gemcitabine however at this time is no longer a candidate for 
+treatment. Palliative care was consulted and assisted with 
+ongoing ___ conversation. As above, patient is being discharged 
+to hospice.  
+
+# Coronary Artery Disease
+# Recent Inferior STEMI: Patient has PCI with BMS to RCA > 1 
+month prior to admission, vascular cardiology recommended 
+continuing clopidogrel, but stopping aspirin.
+
+# Anemia
+# GI Bleeding: EGD (___) ___ with oozing from superficial 
+erosions in hiatal hernia and duodenum. Pt reports no bleeding 
+since last transfer. ___ Hb with gradual downtrend from 8.8 
+since ___. She received 1u pRBC on ___ with appropriate bump 
+in hgb and no e/o bleeding on exam. 
+
+# Depression: Continued home buproprion and sertraline. 
+# GERD: Continued pantoprazole
+
+Time spent coordinating discharge > 30 minutes
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Aspirin 81 mg PO DAILY 
+3. BuPROPion XL (Once Daily) 300 mg PO DAILY 
+4. Clopidogrel 75 mg PO DAILY 
+5. HYDROmorphone (Dilaudid) 2 mg PO DAILY:PRN Pain - Moderate 
+6. LORazepam 0.5 mg PO Q6H:PRN anxiety 
+7. Morphine SR (MS ___ 60 mg PO Q12H 
+8. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+9. Senna 8.6 mg PO DAILY 
+10. Sertraline 150 mg PO DAILY 
+11. Pantoprazole 40 mg PO Q12H 
+12. Metoprolol Tartrate 12.5 mg PO BID 
+13. Ondansetron 4 mg PO Q6H:PRN Nausea/Vomiting - First Line 
+14. Rivaroxaban 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H  
+2.  Ciprofloxacin HCl 500 mg PO Q12H  
+3.  Enoxaparin Sodium 110 mg SC QAM  
+4.  Fentanyl Patch 37 mcg/h TD Q72H  
+5.  Heparin Flush (10 units/ml) 5 mL IV DAILY and PRN, line 
+flush  
+6.  Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port  
+7.  HYDROmorphone (Dilaudid) 0.5 mg IV Q6H:PRN BREAKTHROUGH PAIN 
+ 
+8.  Ondansetron 4 mg IV Q8H:PRN Nausea/Vomiting - First Line 
+  Reason for PRN duplicate override: canceling other order 
+9.  Polyethylene Glycol 17 g PO DAILY  
+10.  Sodium Chloride 0.9%  Flush 10 mL IV DAILY and PRN, line 
+flush  
+11.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+12.  HYDROmorphone (Dilaudid) ___ mg PO Q3H:PRN Pain - Moderate  
+
+13.  Senna 8.6 mg PO BID  
+14.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+15.  Clopidogrel 75 mg PO DAILY  
+16.  LORazepam 0.5 mg PO Q6H:PRN anxiety  
+17.  Pantoprazole 40 mg PO Q12H  
+18.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+19.  Sertraline 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acalculous cholecystitis
+Marantic endocarditis
+Pulmonary embolism
+Anasarca
+Leukocytosis
+Acute on chronic anemia
+Metastatic pancreatic cancer
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ for management of an infection in 
+your gallbladder. You had a tube placed in your gallbladder to 
+drain your infection and were treated with antibiotics. 
+
+Due to progression of your pancreatic cancer, you have decided 
+to focus on your comfort. You are being transferred to ___ 
+house which is a hospice house that specializes in managing 
+symptoms related to advanced cancer. They will help manage your 
+nausea, pain and confusion. 
+
+You will continue to take blood thinners to prevent progression 
+of your clots and antibiotics for your infection. You can stop 
+these at any time if it becomes too difficult to take 
+medications or if you decide you do not want additional 
+injections. 
+
+It was a pleasure taking care of you. We wish you all the best. 
+Your ___ Care Team
+ 
+Followup Instructions:
+___

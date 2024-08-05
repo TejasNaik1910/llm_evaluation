@@ -1,0 +1,33 @@
+{
+    "Omitted Other Inconsistency": [],
+    "Omitted Patient History": [],
+    "Omitted Medicinal Instructions": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary concluded that the patient has an Elevated WBC, low sodium, chloride, and bicarbonate, normal creatinine, calcium, magnesium, and phosphate which is not mentioned directly in the summary.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "CT",
+            "startOffset": 1755,
+            "endOffset": 1757,
+            "startWordIndex": 225,
+            "endWordIndex": 226,
+            "omittedDetails": "Some of the CT neck findings are not mentioned like now demonstrating an area of necrosis"
+        },
+        {
+            "text": "fiberoptic exam",
+            "startOffset": 2533,
+            "endOffset": 2548,
+            "startWordIndex": 315,
+            "endWordIndex": 317,
+            "omittedDetails": "Some of the fiberoptic exam findings are missing like that there is no visible ulceration "
+        }
+    ],
+    "Omitted Followup": []
+}

@@ -1,0 +1,22 @@
+{
+    "Omitted Symptoms/Diagnosis": [        
+    {
+        "text": " Nonocclusive filling defect in suprahepatic IVC",
+        "startOffset": 2392,
+        "endOffset": 2440,
+        "startWordIndex": 301,
+        "endWordIndex": 307,
+        "omittedDetails": "Moderate sized."
+    },
+    {
+        "text": "AFP",
+        "startOffset": 3052,
+        "endOffset": 3055,
+        "startWordIndex": 391,
+        "endWordIndex": 392,
+        "omittedDetails": "prior AFP = 19. (missing under hospital course)"
+    }],
+    "Omitted Medicinal Instructions": [],
+    "Omitted Other Inconsistency": [],
+    "Omitted Followup": []
+}

@@ -1,0 +1,387 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Vicodin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dsypnea
+ 
+Major Surgical or Invasive Procedure:
+Bronchial and esophageal stent placement 
+
+ 
+History of Present Illness:
+___ y/o female with history of recent diagnosis of adenocarcinoma 
+of the lung now s/p bronchial stenting (___), depression, 
+anxiety, fibromyalgia, and sciatica.
+
+In ___ she was diagnosed with ___ at ___, with 
+tumor compressing her main stem bronchi, and thus she was 
+admitted here at ___ ___ thru ___ for tumor debulking and 
+bronchial stenting. Upon discharge she was feeling well and 
+breathing well on room air.
+
+She then presented to ___ on ___ with increased 
+work of breathing which was somewhat acute in onset. On 
+admission there, she was initially trialled on NIPPV, though did 
+not tolerate this and she was placed on 6L nasal cannula. She 
+was able to do okay on nasal cannula. She had a CTA which was 
+negative for PE, but did show mass effect on the pulmonary 
+arteries and central airway. There was also nodular opacities at 
+the lung bases bilaterally. She was put on moxifloxacin and 
+vancomycin for coverage for pneumonia. Respiratory panel, 
+legionella antigen, and pneumococcal antigen were negative. She 
+was transferred to ___ for IP evaluation and potential 
+intervention.
+
+Per their discharge paperwork, the patient has been set up for 
+Radiation Oncology/Palliative radiation at ___, though this 
+has not occurred yet.
+
+Upon arrival here she notes stable dyspnea, but feels okay at 
+rest. She is able to lie flat without any issues. She ___ 
+cough but notes that she frequently chokes on food/drink. She 
+also has dysphagia. She notes low-grade temperatures at home 
+(highest 100.4). She denies abdominal pain, nausea, vomiting, 
+diarrhea.
+
+She has pain across her chest which is constant and has been 
+present for several weeks. The pain is not made worse by 
+movement or inspiration. It is somewhat worse with swallowing.
+
+ROS:  
+No night sweats. No changes in vision or hearing, no changes in 
+balance. No cough. No palpitations. No nausea or vomiting. No 
+diarrhea or constipation. No dysuria or hematuria. No 
+hematochezia, no melena. No numbness or weakness, no focal 
+deficits. 
+ 
+Past Medical History:
+Adenocarcinoma of the lung (diagnosed ___
+Depression  
+Anxiety  
+Fibromyalgia  
+Sciatica 
+s/p tubal ligation
+s/p venous stripping
+ 
+Social History:
+___
+Family History:
+Mother: DM, dementia, schizophrenia NOS, bipolar  
+Father: deceased from subdural hematoma  
+Brother: schizophrenia NOS, bipolar
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+=============================================
+Vitals: 97.6  125/87  60  90% on 5L NC
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Diffuse inspiratory and expiratory wheeze throughout.
+CV: RRR, no murmur
+Abdomen: soft, NT/ND bowel sounds present, no rebound tenderness 
+or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CN2-12 intact, no focal deficits 
+
+PHYSICAL EXAM ON DISCHARGE:
+=============================================
+Afeb VSS on room air
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Diffuse inspiratory and expiratory wheeze throughout.
+CV: RRR, no murmur
+Abdomen: soft, NT/ND bowel sounds present   
+Ext: no e/c/c
+ 
+Pertinent Results:
+Admission Labs
+==============
+___ 03:45PM BLOOD WBC-15.0*# RBC-4.07 Hgb-11.6 Hct-36.3 
+MCV-89 MCH-28.5 MCHC-32.0 RDW-13.5 RDWSD-44.1 Plt ___
+___ 03:45PM BLOOD Neuts-69 Bands-2 Lymphs-18* Monos-9 Eos-0 
+Baso-0 ___ Metas-1* Myelos-1* AbsNeut-10.65* AbsLymp-2.70 
+AbsMono-1.35* AbsEos-0.00* AbsBaso-0.00*
+___ 03:45PM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+___ 03:45PM BLOOD ___ PTT-29.3 ___
+___ 03:45PM BLOOD Glucose-119* UreaN-14 Creat-0.6 Na-137 
+K-4.5 Cl-98 HCO3-29 AnGap-15
+___ 03:45PM BLOOD ALT-25 AST-17 LD(LDH)-185 AlkPhos-72 
+TotBili-0.2
+___ 03:45PM BLOOD proBNP-255*
+___ 03:45PM BLOOD Albumin-3.0* Calcium-9.2 Phos-3.9 Mg-2.1
+
+Discharge Labs
+==============
+
+IMAGING
+=======
+___: CT CHEST WTIHOUT CONTRAST
+IMPRESSION:  
+Overall similar appearance of the large posterior mediastinal 
+mass resulting in esophageal obstruction, as well as invasion of 
+the carina and bilateral mainstem bronchi. There is 
+approximately 50% narrowing of bilateral main stem bronchi 
+proximal to the endobronchial stents. 
+  
+Interval increase in the left lower lobe bronchial obstruction, 
+with 
+associated worsening left lower lobe consolidation and 
+atelectasis. 
+
+___: CHEST PORTABLE (AP)
+IMPRESSION:  
+In comparison with the scout radiograph of the CT examination 
+dated ___, there is again bilateral hilar prominence 
+consistent with invasion of the carina and mainstem bronchi from 
+a large posterior mediastinal mass.  The bronchial stents are 
+not definitely appreciated on the current study. 
+Increased opacification at the lung left base was shown to 
+represent a combination of lower lobe atelectasis and 
+consolidation. 
+
+___: CHEST (PORTABLE AP)
+IMPRESSION:  
+Comparison to ___, 05:05.  The right paramediastinal 
+mass appears 
+slightly larger than on the previous examination.  Moreover, 
+there is a new opacity projecting over the aortopulmonary 
+window.  Lung volumes have 
+decreased.  The newly placed endobronchial stent is not directly 
+visualized.
+
+___: CHEST (PORTABLE AP)
+IMPRESSION:  
+As compared to the previous image from ___, 22:22, the 
+paramediastinal and perihilar opacities have improved and the 
+lung has 
+increased in transparent see.  Also improved is a retrocardiac 
+atelectasis.  
+The tracheal stent is not directly visualized.  Borderline size 
+of the heart.  
+No pneumothorax.
+
+___: CHEST PORTABLE
+Comparison to ___.  Status post esophageal stent 
+placement.  The 
+paramediastinal opacity on the right is stable.  Mild elevation 
+of the left hemidiaphragm is unchanged.  There currently is no 
+evidence for the presence of pneumonia or pneumothorax.  A small 
+retrocardiac atelectasis is stable in extent and severity. 
+
+___. New ground-glass opacity of the right upper lobe and 
+increased 
+peribronchiolar nodularity at the right lung base, compatible 
+with sequela of aspiration and/or hemorrhage after bronchoscopy. 
+ Improvement of left lower lobe consolidation. 
+2. Unchanged posterior mediastinal mass, now with patent airways 
+after 
+tracheal stenting. 
+
+MICROBIOLOGY
+============
+___: BLOOD CULTURE: pending.
+___: BLOOD CULTURE: pending.
+___: BRONCHIAL WASHINGS
+Time Taken Not Noted     Log-In Date/Time: ___ 9:19 pm
+      BRONCHIAL WASHINGS      LEFT BRONCHIAL WASH. 
+GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI IN 
+CLUSTERS. 
+
+RESPIRATORY CULTURE (Preliminary): 
+      10,000-100,000 ORGANISMS/ML. Commensal Respiratory Flora. 
+      STAPH AUREUS COAG +.    10,000-100,000 ORGANISMS/ML.. 
+
+ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+ACID FAST CULTURE (Preliminary): 
+
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+SURGICAL PATHOLOGY:
+===================
+Left mainstem endobronchial lesion:
+-Focal poorly differentiated carcinoma.
+-Bronchial mucosa with squamous metaplasia, acute and chronic 
+inflammation and fibrinous exudate.
+
+___ 07:00AM BLOOD WBC-12.7* RBC-4.26 Hgb-12.1 Hct-37.5 
+MCV-88 MCH-28.4 MCHC-32.3 RDW-14.6 RDWSD-46.5* Plt ___
+___ 07:00AM BLOOD Glucose-85 UreaN-5* Creat-0.6 Na-135 
+K-4.3 Cl-98 HCO3-25 AnGap-16
+___ 07:00AM BLOOD Calcium-8.4 Phos-3.4 Mg-2.0
+ 
+Brief Hospital Course:
+PRIMARY REASON FOR HOSPITALIZATION:
+====================================================
+___ y/o female with history of recent (___) diagnosis of 
+adenocarcinoma of the lung now s/p bronchial stenting (at ___ 
+___, depression, anxiety, fibromyalgia, and sciatica. She 
+was initially seen at ___ where she has been seeing 
+Dr. ___ and Dr. ___ with plan for 
+initiation of palliative chemo and radiation. She was admitted 
+for acute hypoxemic respiratory failure and was found to have 
+increased bronchus narrowing due to increased size of mass. She 
+was transferred to ___ for stenting. She underwent tracheal 
+(___) and esophageal (___) stent placements. She requests 
+transfer back to ___ for urgent initiation of 
+chemotherapy and radiation therapy. 
+
+ACTIVE ISSUES:
+====================================================
+#) Hypoxemia Secondary to Lung Adenocarcinoma and 
+Post-Obstructive Pneumonia: 
+- s/p tracheal Y stenting ___ with improvement in symptoms. 
+However, developed recurrent SOB requiring another bronchoscopy 
+on ___ showing occlusion requiring re-stenting. Following this, 
+she had stabilization of dyspnea and hypoxia (on room air at 
+discharge)
+- continued on Vanc/MTZ for concern of post-obstructive PNA. 
+MRSA isolated from bronchial washings. Continue a 10 day course 
+(___)
+
+#) Non-small cell lung cancer: Recent diagnosis with mapping and 
+plan for palliative chemo and radiation at ___. She 
+was evaluated by Heme Onc and ___ Onc at ___, who recommended 
+initiation of therapy as soon as possible given rapid growth and 
+obstructive complications. Therapy was offered here at ___, 
+but patient prefers transfer back to ___, so that 
+her sister/HCP can have ease of travel. She is followed by Dr. 
+___ (Radiation Oncologist) and Dr. ___ 
+(Oncology) at ___. She was maintained on a diluadid 
+PCA for pain control.
+
+#) Dysphagia: She has dysphagia secondary to esophageal 
+compression by mass. She was seen by the ERCP team at ___ and 
+underwent esophageal stent placement on ___ with improvement in 
+symptoms. She was started on BID PPI due to pain related to the 
+stent. She should continue on a dysphagia soft diet due to her 
+stent.
+
+#) Tachycardia: Patient was noted to have episodes of 
+tachycardia with bigeminy/trigeminy vs Afib that was 
+asymptomatic. Blood pressures stable during periods of 
+tachycardia. Likely secondary to mediastinal mass burden. 
+- started on low dose metoprolol which will likely need to be 
+titrated up.
+ 
+#) Oral candidiasis: Patient was started on nystatin (day 1: 
+___
+
+CHRONIC ISSUES:
+====================================================
+#) Depression/Anxiety/Fibromyalgia: She was continued on her 
+home alprazolam, buspirone, and escitalopram. 
+
+TRANSITIONAL ISSUES: 
+- initiation of palliative XRT and chemotherapy
+- Continue Vanc/MTZ through ___
+- uptitration of metoprolol as needed for tachycardia
+- transition to oral pain regimen
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetylcysteine 20% 3 mL NEB Q6H 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q8H 
+3. ALPRAZolam 1 mg PO BID 
+4. ALPRAZolam 2 mg PO QHS 
+5. BusPIRone 15 mg PO BID 
+6. Enoxaparin Sodium 40 mg SC DAILY 
+7. Escitalopram Oxalate 20 mg PO DAILY 
+8. Gabapentin 200 mg PO Q8H 
+9. MethylPREDNISolone Sodium Succ 40 mg IV Q8H 
+10. Morphine SR (MS ___ 30 mg PO Q8H 
+11. Moxifloxacin 400 mg Other DAILY 
+12. Nicotine Patch 21 mg TD DAILY 
+13. ___ ___ UNIT PO Q8H 
+14. nystatin 100,000 unit/gram topical BID 
+15. Vancomycin 1250 mg IV Q 12H 
+16. guaiFENesin AC (codeine-guaifenesin) ___ mg/5 mL oral 
+Q6H:PRN cough 
+17. Morphine Sulfate (Oral Solution) 2 mg/mL 7.5 mg PO Q3H:PRN 
+pain 
+18. Morphine Sulfate 4 mg IV Q2H:PRN pain 
+19. Lorazepam 0.5-1 mg IV Q6H:PRN anxiety 
+
+ 
+Discharge Medications:
+1. Acetylcysteine 20% 3 mL NEB Q6H 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q8H 
+3. ALPRAZolam 1 mg PO BID 
+4. ALPRAZolam 2 mg PO QHS 
+5. BusPIRone 15 mg PO BID 
+6. Escitalopram Oxalate 20 mg PO DAILY 
+7. Gabapentin 200 mg PO Q8H 
+8. Morphine SR (MS ___ 30 mg PO Q8H 
+9. Morphine Sulfate (Oral Solution) 2 mg/mL 7.5 mg PO Q3H:PRN 
+pain 
+10. Nicotine Patch 21 mg TD DAILY 
+11. ___ ___ UNIT PO Q8H 
+12. guaiFENesin AC (codeine-guaifenesin) ___ mg/5 mL oral 
+Q6H:PRN cough 
+13. Vancomycin 1250 mg IV Q 12H 
+14. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+15. Docusate Sodium 100 mg PO BID 
+16. Levofloxacin 750 mg IV Q24H Duration: 2 Days 
+17. MetRONIDAZOLE (FLagyl) 500 mg IV Q8H 
+18. Metoprolol Tartrate 12.5 mg PO QID 
+19. HYDROmorphone (Dilaudid) 0.24 mg IVPCA Lockout Interval: 6 
+minutes  Basal Rate: 0 mg(s)/hour 1-hr Max Limit: 2.4 mg(s) 
+Start: Today - ___ @ 1700 
+20. LORazepam 0.5-1 mg PO Q4H:PRN anxiety 
+21. Sodium Chloride 3% Inhalation Soln 15 mL NEB TID:PRN 
+rhonchi, shortness of breath 
+22. Ipratropium Bromide Neb 1 NEB IH Q4H 
+23. HYDROmorphone (Dilaudid) ___ mg IV Q2H:PRN severe pain 
+24. Pantoprazole 40 mg PO Q12H 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Lung adenocarcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+It was a pleasure taking care of you at ___ ___ 
+___. You were transferred here for difficulty 
+breathing. You had procedures performed to place stents in you 
+esophagus and your airways.  You had good improvement in your 
+symptoms. 
+
+You were seen by our Medical and Radiation Oncologists, who 
+recommended that you transfer back to ___ Hospital to pursue 
+radiation therapy and chemotherapy as planned.  
+
+ 
+Followup Instructions:
+___

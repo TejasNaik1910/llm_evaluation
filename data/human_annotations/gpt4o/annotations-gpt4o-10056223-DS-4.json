@@ -1,0 +1,178 @@
+{
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "No family history of liver disease or colon cancer",
+            "startOffset": 1300,
+            "endOffset": 1350,
+            "startWordIndex": 157,
+            "endWordIndex": 166,
+            "omittedDetails": ""
+        },
+        {
+            "text": "no recurrence",
+            "startOffset": 2358,
+            "endOffset": 2371,
+            "startWordIndex": 292,
+            "endWordIndex": 294,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Vital signs were interpreted as Stable which is incorrect reasoning",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Anemia, Thrombocytopenia and elevated liver enzymes and billirubin is incorrect reasoning as it's not stated in the patient record\n",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Summary interpreted that an MRI showed 2 lesion suspicious for HCC while the medical record stated no such thing",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Improved liver enz, stable HCT, and no infections were interpreted by the summary in discharge labs",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "no distress",
+            "startOffset": 1480,
+            "endOffset": 1491,
+            "startWordIndex": 182,
+            "endWordIndex": 184,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Admission",
+            "startOffset": 1444,
+            "endOffset": 1453,
+            "startWordIndex": 178,
+            "endWordIndex": 179,
+            "omittedDetails": "Admission Vital signs are missing from the summary"
+        },
+        {
+            "text": "Admission",
+            "startOffset": 0,
+            "endOffset": 9,
+            "startWordIndex": 0,
+            "endWordIndex": 0,
+            "omittedDetails": "Some admission physical exams and vital signs are missing from the summary"
+        },
+        {
+            "text": "Labs",
+            "startOffset": 1756,
+            "endOffset": 1760,
+            "startWordIndex": 215,
+            "endWordIndex": 216,
+            "omittedDetails": "Some labs are missing from the summary"
+        },
+        {
+            "text": "Pertinent ",
+            "startOffset": 1838,
+            "endOffset": 1848,
+            "startWordIndex": 224,
+            "endWordIndex": 225,
+            "omittedDetails": "Blood/Fluid cultures are missing from the summary"
+        },
+        {
+            "text": "Studies",
+            "startOffset": 1848,
+            "endOffset": 1855,
+            "startWordIndex": 225,
+            "endWordIndex": 226,
+            "omittedDetails": "U/S RUQ is missing from the summary"
+        },
+        {
+            "text": "Labs",
+            "startOffset": 2127,
+            "endOffset": 2131,
+            "startWordIndex": 261,
+            "endWordIndex": 262,
+            "omittedDetails": "Some labs are missing from the summary"
+        },
+        {
+            "text": "Hematocrit",
+            "startOffset": 1019,
+            "endOffset": 1029,
+            "startWordIndex": 125,
+            "endWordIndex": 126,
+            "omittedDetails": "Missing lab values that were stated in the patient's record"
+        },
+        {
+            "text": "Discharge",
+            "startOffset": 1586,
+            "endOffset": 1595,
+            "startWordIndex": 196,
+            "endWordIndex": 197,
+            "omittedDetails": "Missing O2 desat in discharge PE"
+        },
+        {
+            "text": "showed",
+            "startOffset": 2040,
+            "endOffset": 2046,
+            "startWordIndex": 250,
+            "endWordIndex": 251,
+            "omittedDetails": "Missed response in CXR (improved)"
+        },
+        {
+            "text": "Post-RFA",
+            "startOffset": 2392,
+            "endOffset": 2400,
+            "startWordIndex": 296,
+            "endWordIndex": 298,
+            "omittedDetails": "Missed vitals"
+        },
+        {
+            "text": "cultures",
+            "startOffset": 2638,
+            "endOffset": 2646,
+            "startWordIndex": 331,
+            "endWordIndex": 332,
+            "omittedDetails": "Urine, blood, and ascitis fluid analysis"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "History",
+            "startOffset": 503,
+            "endOffset": 510,
+            "startWordIndex": 48,
+            "endWordIndex": 49,
+            "omittedDetails": "Missing symptoms in HPI (abdominal pain, nasuea, etc..)"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Post-procedure",
+            "startOffset": 831,
+            "endOffset": 845,
+            "startWordIndex": 98,
+            "endWordIndex": 100,
+            "omittedDetails": "Doses for the following meds are missing including IV boluses"
+        },
+        {
+            "text": "medications",
+            "startOffset": 3623,
+            "endOffset": 3634,
+            "startWordIndex": 471,
+            "endWordIndex": 472,
+            "omittedDetails": "Changes to medications on discharge were missing"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "no interpretation was mentioned for vital signs",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "admission and discharge lab has  no interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "mild tenderness at PCN site",
+            "startOffset": 1173,
+            "endOffset": 1200,
+            "startWordIndex": 142,
+            "endWordIndex": 147,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Admission Exam",
+            "startOffset": 1095,
+            "endOffset": 1109,
+            "startWordIndex": 131,
+            "endWordIndex": 133,
+            "omittedDetails": "missing admission physical exam"
+        },
+        {
+            "text": "Discharge Exam",
+            "startOffset": 1237,
+            "endOffset": 1251,
+            "startWordIndex": 153,
+            "endWordIndex": 155,
+            "omittedDetails": "omitted discharge physical exam "
+        },
+        {
+            "text": "Admission Labs",
+            "startOffset": 1374,
+            "endOffset": 1388,
+            "startWordIndex": 172,
+            "endWordIndex": 174,
+            "omittedDetails": "omitted admission pertinent labs"
+        },
+        {
+            "text": "Discharge Labs",
+            "startOffset": 1661,
+            "endOffset": 1675,
+            "startWordIndex": 210,
+            "endWordIndex": 212,
+            "omittedDetails": "omitted discharge labs"
+        },
+        {
+            "text": "Acute Kidney Injury",
+            "startOffset": 1913,
+            "endOffset": 1932,
+            "startWordIndex": 243,
+            "endWordIndex": 246,
+            "omittedDetails": "omitted lab"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "nephrostomy",
+            "startOffset": 1630,
+            "endOffset": 1641,
+            "startWordIndex": 207,
+            "endWordIndex": 208,
+            "omittedDetails": "left"
+        },
+        {
+            "text": "nephrostomy ",
+            "startOffset": 1840,
+            "endOffset": 1852,
+            "startWordIndex": 234,
+            "endWordIndex": 235,
+            "omittedDetails": "left 8"
+        },
+        {
+            "text": "Pyuria and Leukocytosis",
+            "startOffset": 2028,
+            "endOffset": 2051,
+            "startWordIndex": 260,
+            "endWordIndex": 263,
+            "omittedDetails": "omitted symptoms"
+        },
+        {
+            "text": "Nausea/Vomiting",
+            "startOffset": 2266,
+            "endOffset": 2281,
+            "startWordIndex": 290,
+            "endWordIndex": 292,
+            "omittedDetails": "omitted symptoms"
+        },
+        {
+            "text": "Constipation",
+            "startOffset": 2745,
+            "endOffset": 2757,
+            "startWordIndex": 347,
+            "endWordIndex": 348,
+            "omittedDetails": "likely secondary to narcotics"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "bowel regimen",
+            "startOffset": 2776,
+            "endOffset": 2789,
+            "startWordIndex": 351,
+            "endWordIndex": 353,
+            "omittedDetails": "(senna/Colace/Miralax)"
+        },
+        {
+            "text": "Ritalin ",
+            "startOffset": 2590,
+            "endOffset": 2598,
+            "startWordIndex": 331,
+            "endWordIndex": 332,
+            "omittedDetails": "omitted dose"
+        },
+        {
+            "text": "Hypertension",
+            "startOffset": 2628,
+            "endOffset": 2640,
+            "startWordIndex": 335,
+            "endWordIndex": 336,
+            "omittedDetails": "omitted that lisinopril was discontinued"
+        },
+        {
+            "text": "Ondansetron",
+            "startOffset": 2824,
+            "endOffset": 2835,
+            "startWordIndex": 356,
+            "endWordIndex": 357,
+            "omittedDetails": "for nausea"
+        },
+        {
+            "text": "Prochlorperazine",
+            "startOffset": 2837,
+            "endOffset": 2853,
+            "startWordIndex": 357,
+            "endWordIndex": 358,
+            "omittedDetails": "for nausea"
+        },
+        {
+            "text": "Oxycodone ",
+            "startOffset": 2872,
+            "endOffset": 2882,
+            "startWordIndex": 360,
+            "endWordIndex": 361,
+            "omittedDetails": "for pain"
+        },
+        {
+            "text": "Senna",
+            "startOffset": 2910,
+            "endOffset": 2915,
+            "startWordIndex": 365,
+            "endWordIndex": 366,
+            "omittedDetails": "for constipation"
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "startOffset": 3004,
+            "endOffset": 3023,
+            "startWordIndex": 373,
+            "endWordIndex": 375,
+            "omittedDetails": "for constipation"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Scheduled follow-up with Dr. [Redacted] on [Redacted]",
+            "startOffset": 3678,
+            "endOffset": 3731,
+            "startWordIndex": 446,
+            "endWordIndex": 454,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Instructions",
+            "startOffset": 3449,
+            "endOffset": 3461,
+            "startWordIndex": 418,
+            "endWordIndex": 419,
+            "omittedDetails": "some follow up instructions are omitted"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Healthcare Associated Pneumonia",
+            "startOffset": 2655,
+            "endOffset": 2686,
+            "startWordIndex": 376,
+            "endWordIndex": 379,
+            "omittedDetails": "some of the symptoms mentioned in EHR is omitted from summary"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "fever",
+            "startOffset": 1125,
+            "endOffset": 1130,
+            "startWordIndex": 139,
+            "endWordIndex": 140,
+            "omittedDetails": "Fever value is mentioned In the EHR and omitted in the summary"
+        },
+        {
+            "text": "325mg",
+            "startOffset": 1497,
+            "endOffset": 1502,
+            "startWordIndex": 197,
+            "endWordIndex": 198,
+            "omittedDetails": "review of systems mentioned in the EHR is omitted from the summary"
+        },
+        {
+            "text": "Sacral Decubitus Ulcer",
+            "startOffset": 2921,
+            "endOffset": 2943,
+            "startWordIndex": 412,
+            "endWordIndex": 415,
+            "omittedDetails": "response to medication is omitted from the summary"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Vancomycin",
+            "startOffset": 1187,
+            "endOffset": 1197,
+            "startWordIndex": 149,
+            "endWordIndex": 150,
+            "omittedDetails": "instructions of adminstration is omitted from the summary"
+        },
+        {
+            "text": "Oxycodone",
+            "startOffset": 3009,
+            "endOffset": 3018,
+            "startWordIndex": 425,
+            "endWordIndex": 426,
+            "omittedDetails": "instruction of adminstration is omitted from the summary "
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "ASA",
+            "startOffset": 3126,
+            "endOffset": 3129,
+            "startWordIndex": 438,
+            "endWordIndex": 439,
+            "omittedDetails": "Some of the patient history mentioned under coronary artery disease mentioned in the EHR is omitted from the summary"
+        }
+    ]
+}

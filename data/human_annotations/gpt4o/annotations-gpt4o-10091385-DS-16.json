@@ -1,0 +1,38 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "pelvis",
+            "startOffset": 1169,
+            "endOffset": 1175,
+            "startWordIndex": 174,
+            "endWordIndex": 175,
+            "omittedDetails": "Pain has worsened was missing (bad response)"
+        },
+        {
+            "text": "one pending result",
+            "startOffset": 2537,
+            "endOffset": 2555,
+            "startWordIndex": 372,
+            "endWordIndex": 375,
+            "omittedDetails": "Specifically CA was pending"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "minimal pain",
+            "startOffset": 2489,
+            "endOffset": 2501,
+            "startWordIndex": 365,
+            "endWordIndex": 367,
+            "omittedDetails": "Pain in puncture site omitted"
+        },
+        {
+            "text": "anxious",
+            "startOffset": 2619,
+            "endOffset": 2626,
+            "startWordIndex": 385,
+            "endWordIndex": 386,
+            "omittedDetails": "Likely cancer diagnosis missing"
+        }
+    ]
+}

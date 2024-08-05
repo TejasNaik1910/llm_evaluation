@@ -1,0 +1,196 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "present",
+            "startOffset": 1815,
+            "endOffset": 1822,
+            "startWordIndex": 229,
+            "endWordIndex": 230,
+            "omittedDetails": "missing covering umbilicus and three other areas over RUQ and epigastric area"
+        },
+        {
+            "text": "Extremities",
+            "startOffset": 1825,
+            "endOffset": 1836,
+            "startWordIndex": 230,
+            "endWordIndex": 231,
+            "omittedDetails": "missing no femoral bruits"
+        },
+        {
+            "text": "Bleeding",
+            "startOffset": 2695,
+            "endOffset": 2703,
+            "startWordIndex": 344,
+            "endWordIndex": 345,
+            "omittedDetails": "missing his hematocrit dropped"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "interpreted gleason score",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted elevated cardiac enzymes",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted no significant findings for HEENT",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted normal pulses",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted low sodium diet",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "CAD s/p multiple PCIs with stents not with ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "reactivated lower GI bleeding and known radiation proctitis",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "depressions",
+            "startOffset": 772,
+            "endOffset": 783,
+            "startWordIndex": 94,
+            "endWordIndex": 95,
+            "omittedDetails": "missing in V1-V4"
+        },
+        {
+            "text": "elevations",
+            "startOffset": 788,
+            "endOffset": 798,
+            "startWordIndex": 96,
+            "endWordIndex": 97,
+            "omittedDetails": "missing in I, II and III"
+        },
+        {
+            "text": "Parkinson's disease",
+            "startOffset": 1308,
+            "endOffset": 1327,
+            "startWordIndex": 163,
+            "endWordIndex": 166,
+            "omittedDetails": "missing with UE tremor"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "ECG",
+            "startOffset": 1983,
+            "endOffset": 1986,
+            "startWordIndex": 251,
+            "endWordIndex": 252,
+            "omittedDetails": "missing consider myocardial ischemia"
+        },
+        {
+            "text": "LVEF",
+            "startOffset": 859,
+            "endOffset": 863,
+            "startWordIndex": 104,
+            "endWordIndex": 105,
+            "omittedDetails": "missing 35-40%"
+        },
+        {
+            "text": "Carafate enemas",
+            "startOffset": 2753,
+            "endOffset": 2768,
+            "startWordIndex": 350,
+            "endWordIndex": 352,
+            "omittedDetails": "missing enemas induce bowel movements irritated GI bleed and were discontinued"
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "Normal",
+            "startOffset": 1880,
+            "endOffset": 1886,
+            "startWordIndex": 237,
+            "endWordIndex": 238,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "aspirin and Plavix",
+            "startOffset": 2466,
+            "endOffset": 2484,
+            "startWordIndex": 316,
+            "endWordIndex": 319,
+            "omittedDetails": "missing doses"
+        },
+        {
+            "text": "amiodarone",
+            "startOffset": 2629,
+            "endOffset": 2639,
+            "startWordIndex": 336,
+            "endWordIndex": 337,
+            "omittedDetails": "missing dose"
+        },
+        {
+            "text": "metoprolol",
+            "startOffset": 2670,
+            "endOffset": 2680,
+            "startWordIndex": 341,
+            "endWordIndex": 342,
+            "omittedDetails": "missing metoprolol succinate 25 mg daily"
+        },
+        {
+            "text": "home medications",
+            "startOffset": 3024,
+            "endOffset": 3040,
+            "startWordIndex": 383,
+            "endWordIndex": 385,
+            "omittedDetails": "missing metoprolol and valsartan"
+        },
+        {
+            "text": "low",
+            "startOffset": 4109,
+            "endOffset": 4112,
+            "startWordIndex": 500,
+            "endWordIndex": 501,
+            "omittedDetails": "missing 2 gm sodium diet"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Reactivated",
+            "startOffset": 2707,
+            "endOffset": 2718,
+            "startWordIndex": 345,
+            "endWordIndex": 346,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Followup": []
+}

@@ -1,0 +1,117 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "lung",
+            "startOffset": 1821,
+            "endOffset": 1825,
+            "startWordIndex": 258,
+            "endWordIndex": 259,
+            "omittedDetails": "In the patient record it is mentioned that \"Lung Nodule Resection\" however in the summary generalized it to \"Lung Resection\"."
+        },
+        {
+            "text": "Liver biopsy",
+            "startOffset": 2035,
+            "endOffset": 2047,
+            "startWordIndex": 284,
+            "endWordIndex": 286,
+            "omittedDetails": "In the patient record it is mentioned that \"Ultrasound guided liver biopsy\" was done, However in the summary it is generalized to \"Liver biopsy\" only."
+        },
+        {
+            "text": "CT Head",
+            "startOffset": 922,
+            "endOffset": 929,
+            "startWordIndex": 112,
+            "endWordIndex": 114,
+            "omittedDetails": "A \"non neoplastic problem\" was observed by CT of the head is omitted."
+        },
+        {
+            "text": "without",
+            "startOffset": 2354,
+            "endOffset": 2361,
+            "startWordIndex": 322,
+            "endWordIndex": 323,
+            "omittedDetails": "Negated Diseases are omitted."
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "insulin",
+            "startOffset": 2592,
+            "endOffset": 2599,
+            "startWordIndex": 353,
+            "endWordIndex": 354,
+            "omittedDetails": "it is mentioned in the patient record that Hyperglycemia treated by \"Lantus\" however in the summary \"insulin\""
+        },
+        {
+            "text": "Decadron",
+            "startOffset": 730,
+            "endOffset": 738,
+            "startWordIndex": 86,
+            "endWordIndex": 87,
+            "omittedDetails": "The concentration and dose of this drug are omitted."
+        },
+        {
+            "text": "jaundice",
+            "startOffset": 781,
+            "endOffset": 789,
+            "startWordIndex": 93,
+            "endWordIndex": 94,
+            "omittedDetails": "A medication that was used in the treatment of this case is omitted."
+        },
+        {
+            "text": "Metoprolol",
+            "startOffset": 2744,
+            "endOffset": 2754,
+            "startWordIndex": 370,
+            "endWordIndex": 371,
+            "omittedDetails": "The Concentration of the medication is omitted."
+        },
+        {
+            "text": "Discharge Medications",
+            "startOffset": 2768,
+            "endOffset": 2789,
+            "startWordIndex": 372,
+            "endWordIndex": 374,
+            "omittedDetails": "The Concentrations and Doses of All \"Discharge Medications\" are omitted."
+        },
+        {
+            "text": "Albuterol, Ipratropium",
+            "startOffset": 2922,
+            "endOffset": 2944,
+            "startWordIndex": 386,
+            "endWordIndex": 388,
+            "omittedDetails": "The Summary mentions these two medications as their parent form, however in the medical record more detailed."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "fluids",
+            "startOffset": 2525,
+            "endOffset": 2531,
+            "startWordIndex": 344,
+            "endWordIndex": 345,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "brain metastases",
+            "startOffset": 600,
+            "endOffset": 616,
+            "startWordIndex": 68,
+            "endWordIndex": 70,
+            "omittedDetails": "The \"Diagnostic Procedure\" made to diagnose this metastases is omitted."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "AST",
+            "startOffset": 1335,
+            "endOffset": 1338,
+            "startWordIndex": 182,
+            "endWordIndex": 183,
+            "omittedDetails": "It was mentioned in the medical record that the level of LFTs and ammonia are \"Elevated\" and this point is omitted from the summary."
+        }
+    ],
+    "Omitted Followup": []
+}

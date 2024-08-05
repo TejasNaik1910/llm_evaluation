@@ -1,0 +1,452 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Nutrasweet Aspartame / Sulfa (Sulfonamide 
+Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+
+ 
+Major Surgical or Invasive Procedure:
+___   CT-guided L4-L5 spine biopsy 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old female with medical  history 
+notable for stroke (right sided weakness), rheumatoid arthritis 
+on prednisone, leukocytoclastic vasculitis, venous insufficiency 
+and hypothyroidism who was recently admitted from ___ for 
+abdominal pain with course with concern for pylenephritis, 
+presented on ___ from rehab with acute onset abdominal pain. 
+
+The patient reported diffuse abdominal pain that increases with 
+food intake. She reports a ___ periumbilical pain, similar to 
+her last admission. The pain is relieved by not eating. She 
+reports 15 lb unintentional weight loss over the last month 
+which concerns her.  She has her usual chronic back pain but 
+this is no worse. She denies any problems urinating or with her 
+bowel movements; specifically she denies black/bloody bowel 
+movements, diarrhea or constipation. 10 point ROS otherwise 
+negative. 
+
+ 
+Past Medical History:
+Chronic pain 30+ years back, hands
+Rheumatic fever
+Rheumatoid arthritis
+HTN
+HLD
+Type 2 DM
+Asthma
+?cervical CA s/p hysterectomy ___
+?uterine CA
+Hypothyroidism
+Venous stasis
+Depression
+Anxiety            
+HTN
+Hypothyroidism
+Chronic venous stasis ulcers
+Recurrent UTIs 
+Intermittent urinary retention
+Chronic pain
+Back injury NOS
+Asthma 
+COPD
+?rheumatoid arthritis
+T2DM 
+ 
+Social History:
+___
+Family History:
+Patient previously stated her family had "medical conditions" 
+but she cannot describe more specifically. 
+ 
+Physical Exam:
+=============================
+ADMISSION PHYSICAL EXAMINATION 
+=============================
+VITALS:  98.5 187/94 54 18 99 RA  
+General: Alert, oriented, sleepy but arousable, intermittently 
+groaning and grabbing her abdomen near her umbilicus
+HEENT: MMM with upper dentures in place  
+CV: Mild bradycardia, no murmurs
+Lungs: Clear anteriorly, pt did not want to sit up for posterior 
+lung exam
+Abdomen: Soft, +moderate tenderness along periumbilicus and 
+epigastrum, voluntary guarding but no rebound, no masses
+GU: No foley 
+Ext: Warm, well perfused, 2+ pulses, wrapped in clean/dry guaze 
+Neuro: AOx3, mild right sided facial droop (present on d/c 
+exam), moving extremities with purpose, decreased power in her 
+right arm and leg ___. 
+Back: would not sit up for proper back exam
+
+=============================
+DISCHARGE PHYSICAL EXAMINATION
+=============================
+
+PHYSICAL EXAM:  
+VITALS: 98.4   144/79   76   18   98
+GEN: Older woman lying in bed asleep; easily roused; in NAD
+HEENT: NC/AT, MMM
+NECK: supple
+HEART: RRR, no m/r/g
+LUNGS: CTAB 
+EXTR: chronic skin changes on shins, 1+ pitting edema BLE
+NEURO: alert, moving all extremities
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 08:07AM BLOOD WBC-6.6 RBC-3.75* Hgb-11.0* Hct-32.0* 
+MCV-85 MCH-29.3 MCHC-34.4 RDW-15.0 RDWSD-46.0 Plt ___
+___ 05:40AM BLOOD ___
+___ 08:07AM BLOOD Glucose-156* UreaN-16 Creat-0.8 Na-141 
+K-4.6 Cl-100 HCO3-26 AnGap-15
+___ 08:07AM BLOOD ALT-25 AST-21 AlkPhos-99 TotBili-0.4
+___ 08:07AM BLOOD Lipase-17
+___ 05:40AM BLOOD TotProt-6.9 Calcium-9.3 Phos-4.8* Mg-2.0
+___ 05:40AM BLOOD TSH-98*
+___ 08:07AM BLOOD T3-37* Free T4-0.7*
+___ 05:40AM BLOOD CRP-3.7 antiTPO-LESS THAN 
+___ 08:07AM BLOOD PEP-M-SPIKE NO FreeKap-25.9* FreeLam-14.8 
+Fr K/L-1.8* IgG-1076 IgA-288 IgM-214 IFE-VERY FAINT
+
+==============
+RELEVANT LABS: 
+==============
+___ 08:07AM BLOOD Lipase-17
+___ 01:10PM BLOOD hsCRP-89.1
+___ 05:20AM BLOOD TSH-33*
+___ 11:10AM BLOOD TSH-46*
+___ 05:40AM BLOOD TSH-98*
+___ 05:20AM BLOOD T4-5.4 T3-47* calcTBG-1.07 TUptake-0.93 
+T4Index-5.0
+___ 11:10AM BLOOD T3-37* Free T4-0.9*
+___ 05:40AM BLOOD T3-39* Free T4-0.6*
+___ 08:07AM BLOOD T3-37* Free T4-0.7*
+___ 05:40AM BLOOD Cortsol-9.3
+___ 03:30PM BLOOD CRP-12.6*
+___ 01:10PM BLOOD CRP-90.9*
+___ 05:40AM BLOOD CRP-3.7 antiTPO-LESS THAN 
+___ 08:07AM BLOOD CRP-4.4
+___ 05:40AM BLOOD PEP-NO M-SPIKE FreeKap-27.9* FreeLam-15.5 
+Fr K/L-1.8* IgG-1014 IgA-296 IgM-198 IFE-FAINT FREE
+___ 08:07AM BLOOD PEP-M-SPIKE NO FreeKap-25.9* FreeLam-14.8 
+Fr K/L-1.8* IgG-1076 IgA-288 IgM-214 IFE-VERY FAINT
+
+==============
+DISCHARGE LABS
+==============
+Not obtained
+
+=======
+IMAGING 
+=======
+CXR - ___
+No acute radiographic cardiopulmonary process.
+
+CT ABDOMEN WITH CONTRAST - ___
+1.   Endplate irregularity of L4/5 is similar to the most recent 
+examination
+but MRI of the lumbar spine must be performed to exclude 
+osteomyelitis.
+2.  Similar severe scoliosis of the lumbar spine secondary to 
+L3-L4 and L4-L5
+lateral subluxation.
+3.   Similar severe lower lumbar spine degenerative disc disease 
+and facet
+arthropathy.
+
+======
+MICRO 
+======
+Blood Culture, Routine (Final ___: 
+      VIRIDANS STREPTOCOCCI. 
+         Isolated from only one set in the previous five days. 
+Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS. 
+Blood Culture, Routine (Final ___:    NO GROWTH.
+URINE CULTURE (Final ___:    NO GROWTH.
+
+___ 3:30 pm TISSUE
+      Source: surgical - vertebral/intervertebral biopsy. 
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Pending): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN:  
+=====================  
+___ year old lady with complex medical history including chronic 
+pain/rheumatoid arthritis on prednisone, leukocytoclastic 
+vasculitis, uterine cancer s/p hysterectomy, recent CVA in 
+___, recently admitted for abdominal pain concerning for 
+pyelonephritis, who represented with worsening of her 
+periumbilical abdominal pain and back pain. She was found to 
+have an abnormal lucency on L4/L5 on CT scan with c/f chronic 
+osteomyelitis/discitis vs severe degenerative joint disease. She 
+underwent ___ spine biopsy of the lesion, with cultures negative 
+to date. 
+ 
+ACUTE/ACTIVE PROBLEMS:  
+======================
+# Back pain
+# L4/L5 lesion 
+Due to complaints of back pain and abdominal pain (as below), 
+patient underwent CT A/P  that noted a lucency on L4/L5 c/f 
+chronic discitis/osteomyelitis vs severe DJD. This was in the 
+setting of one positive blood culture with strep viridans. MRI 
+was recommended for further evaluation; however, patient 
+refused. Repeat blood cultures were all negative; it is possible 
+strep viridans could have represented contaminant. However, 
+repeat CRP obtained this admission elevated at 90 (WNL at 
+presentation, and also normalized later this admission without 
+intervention).  ID was consulted and recommended intervertebral 
+disc biopsy and cultures. We deferred MRI based on ID and 
+radiology recommendations that a negative MRI would not 
+definitively rule out osteomyelitis (would also show 
+inflammation even if it were DJD). We proceeded with ___ spine 
+biopsy on ___ with both the patient and the patient's HCP 
+agreeing with the procedure; the patient did not require 
+chemical sedation prior to the procedure. Gram stain 
+demonstrated 3+ polymorphonuclear cells. Cultures are negative, 
+though acid fast culture and fungal culture are still 
+preliminary results.  Patient was discharged afebrile and 
+clinically stable to a rehabilitation facility with plan to 
+follow up on final culture results. ID (attending Dr. ___ 
+___ was aware of discharge plan and in agreement; ID has 
+low suspicion for infection at this point and recommend no 
+antibiotics. Plan is for ongoing monitoring of her symptoms and 
+clinical status at rehab/as an outpatient; if there is any 
+recurrent concern for infection (fevers, worsening symptoms, 
+persistently elevated CRP, etc), she should be referred to see 
+Dr. ___ (ID fellow) as an outpatient. 
+
+# Hypothyroidism: 
+Patient exhibited symptoms of depression and withdrawal in the 
+setting of hypothyroidism (___: 98). Of note, the patient is 
+known to have hypothyroidism non-compliant on levothyroxine. 
+Last hospital admission (___), TSH: 43, fT4: 0.7. On this 
+hospital admission, TSH was initially found to be 98. She was 
+continued on 150 mcg daily. IV levothyroxine was considered; 
+however, patient was unwilling to undergo pIV placement and HCP 
+was not established at that time. ___ on ___ was 33 and 
+patient was continued on PO regimen at 137 mcg daily, with 
+endocrinology input. She will need to follow up with 
+endocrinology ___ weeks after discharge for repeat TFTs at that 
+time. 
+
+# Abdominal pain
+Patient complained of diffuse abdominal pain that increased with 
+food intake and decreased when applying heat. Patient underwent 
+CT A/P in ED due to abdominal pain. Imaging noted possible 
+lucency on L4/L5 c/f discitis/osteomyelitis (see back pain/GPC 
+bacteremia above). The patient refused MRI and IV medications. 
+Bowel regimen was initiated with patient demonstrating relief 
+from abdominal pain after bowel movements. Abdominal pain was 
+possibly related to constipation. She did not have abdominal 
+pain by discharge. 
+
+# Health care proxy (HCP)
+# Patient refusal of care 
+The patient declined  IV therapy during the majority of her 
+hospitalization. She also refused most blood tests.  The patient 
+has one biological child: ___, and two step children: 
+___ and ___. In ___, ___ was the health care proxy 
+but was changed one month later to son ___ was 
+contacted but stated she did not wish to serve the role of HCP.  
+Following meeting with ___, we filed for HCP affirmation. 
+___ was established as HCP on ___ and was kept informed of 
+all medical decision making throughout the patient's 
+hospitalization. 
+
+# Weight loss
+Endorses unintentional weight loss. Per OMR sheets, her standard 
+bed weight was 193 lbs on ___ and down to 171 lbs on ___. 
+Nutrition was consulted but it was felt that tube feeds would be 
+unfeasible given patient's failure to comply with medical 
+interventions and refusal to discuss nutritional intervention. 
+We encouraged PO intake throughout the hospitalization, provided 
+a multivitamin with minerals and initiated mirtazapine to 
+stimulate the patient's appetite. She will need to follow up 
+with her PCP outpatient regarding this weight loss. 
+
+CHRONIC/STABLE PROBLEMS: 
+=======================
+# Prediabetes: HbA1c 6.1% on last admission.
+Patient's home metformin was held while inpatient and restarted 
+for discharge. 
+ 
+# Hyperlipidemia: 
+# History of CVA:
+Patient was continued home atorvastatin  and aspirin.
+
+# Rheumatoid arthritis: 
+Patient was continued on home prednisone 5 mg daily, home 
+tylenol, home methadone. 
+
+# Depression and anxiety
+Patient was continued on home sertraline 200 mg daily 
+
+TRANSITIONAL ISSUES:
+==================
+[] Outpatient endocrinology follow up in ___ weeks post 
+discharge is being arranged with ___ MD. ___ will 
+need repeat TFTs at that time. Endocrinology was notified of 
+discharge and is working on an appointment. Please call ___ 
+endocrinology department if you do not hear back with an 
+appointment time within the next 3 days. 
+[] Needs ongoing monitoring of her back pain and vitals at 
+rehab/as an outpatient; if there is any recurrent concern for 
+infection (fevers, worsening symptoms, persistently elevated 
+CRP, leukocytosis, etc.), she should be referred to see Dr. 
+___ ___ ID fellow) as an outpatient. 
+[] Follow up on finalized spine biopsy cultures (fungal cultures 
+and acid fast cultures were still preliminary negative at time 
+of discharge) ___
+[] Needs ___ at rehab to regain mobility/strength. 
+[] After rehab discharge, should f/u with PCP regarding weight 
+loss and consider referral to outpatient nutrition if patient 
+amenable
+[] Recheck labs including CBC and CRP in ___ weeks post 
+discharge, to assess if any ongoing c/f infection. 
+[] Upon discharge from rehab, please write HCP son ___ 
+work letter to allow him to time off to care for the patient. 
+[] Please give ___ son ___ of the HCP affirmation 
+form and also the discharge summary, which are being sent with 
+the patient to rehab, as son requested this. 
+
+Code status: DNR/DNI
+Contact: ___ (___): ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Levothyroxine Sodium 125 mcg PO DAILY 
+5. Methadone 10 mg PO TID:PRN moderate-severe pain 
+6. Omeprazole 20 mg PO DAILY 
+7. PredniSONE 5 mg PO DAILY 
+8. Senna 8.6 mg PO BID 
+9. Sertraline 200 mg PO DAILY 
+10. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+11. Docusate Sodium 100 mg PO BID 
+12. Polyethylene Glycol 17 g PO DAILY 
+13. Simethicone 80 mg PO QID dyspepsia, gas 
+14. MetFORMIN (Glucophage) 500 mg PO DAILY 
+15. Bisacodyl ___AILY:PRN Constipation - First Line 
+16. Methadone 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Mirtazapine 15 mg PO DAILY  
+2.  Multivitamins W/minerals 1 TAB PO DAILY  
+3.  Mupirocin Ointment 2% 1 Appl TP TID  
+4.  Levothyroxine Sodium 137 mcg PO DAILY  
+5.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+6.  amLODIPine 10 mg PO DAILY  
+7.  Aspirin 81 mg PO DAILY  
+8.  Atorvastatin 80 mg PO QPM  
+9.  Bisacodyl ___AILY:PRN Constipation - First Line  
+10.  Docusate Sodium 100 mg PO BID  
+11.  MetFORMIN (Glucophage) 500 mg PO DAILY  
+12.  Methadone 10 mg PO TID:PRN moderate-severe pain  
+13.  Methadone 10 mg PO DAILY 
+Consider prescribing naloxone at discharge  
+14.  Omeprazole 20 mg PO DAILY  
+15.  Polyethylene Glycol 17 g PO DAILY  
+16.  PredniSONE 5 mg PO DAILY  
+17.  Senna 8.6 mg PO BID  
+18.  Sertraline 200 mg PO DAILY  
+19.  Simethicone 80 mg PO QID dyspepsia, gas  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+=================
+PRIMARY DIAGNOSIS
+=================
+Degenerative joint disease - severe
+Back pain 
+
+===================
+SECONDARY DIAGNOSIS
+===================
+Hypothyroidism 
+Rheumatoid arthritis  
+Depression 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear ___,
+It was a pleasure to care for you at the ___ 
+___.  
+
+Why did you come to the hospital?  
+-  You came to the hospital because you experienced belly and 
+back pains. You also complained of poor appetite and weight 
+loss. 
+
+What did you receive in the hospital?  
+-  You underwent CT imaging for your abdomen and back. You were 
+found to have a lesion in your lower spine 
+- You underwent a bone biopsy of the spine lesion. 
+- Biopsy showed no evidence of infection in the bone; however, 
+we are awaiting final results and will inform you when they are 
+available.
+- You were also found to have low levels of thyroid hormones. 
+You were seen by a specialized doctor in thyroid diseases 
+(endocrinologist). The dose of thyroid hormone was set at 137 
+mcg.
+
+What should you do once you leave the hospital?  
+- Please  work at rehab to regain your strength. 
+- Please take all your medication as advised. 
+- Please follow-up with your doctors ___ below) 
+ 
+We wish you the best!  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,394 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+confusion, shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+- Bronchoscopy and lymph node biopsy
+
+ 
+History of Present Illness:
+History is taken from patient and somewhat limited by mental 
+status.
+
+Ms. ___ is a ___ y/o F with PMHx significant for multiple 
+AVM and a seizure disorder who presented with hypoxia and AMS.  
+Per the patient, she states her SOB started on ___ but has 
+been progressing over the past year. Over the weekend she was 
+not feeling like herself.  Her son had been trying to convince 
+her to go to the hospital.  Apparently she had routine labs 
+drawn at her PCPs office last week after starting ACEI for her 
+hypertension and he had tried to contact her but she did not 
+hear her voicemail.  Her son was increasingly concerned that she 
+was confused and reportedly got in touch with her PCP who 
+recommended that she come to the emergency room.
+
+In the ED, initial vitals were 96.6 93 169/78 32 50% RA.  
+She placed on nasal cannula and then facemask with improvement 
+in her oxygenation. Labs were notable for negative troponin and 
+elevated BNP. CXR was notable for engorged pulmonary vasculator 
+and she received 20mg IV lasix in the ED. Her mental status 
+reportedly improved while in the ED after receiving oxygen 
+therapy. 
+
+On arrival to the floor, initial vitals were T 98.3, BP 172/67, 
+HR 85, RR 26, O2 sat 90% on 12L ___ mask.  She was triggered 
+shortly thereafter for continued hypoxia and concern for 
+somnolence.   Respiratory therapy was called for possible 
+initiation of BiPAP or CPAP given likely underlying obstructive 
+lung disease and possible OSA.  Prior to transfer to the ICU, 
+patient was alert and oriented x3.  She was satting 100% and 
+repeat ABG showed ___.  
+
+In the MICU, she was put on BiPAP.  She was intermittently 
+desatting to low ___ and having apneic episodes as long as ten 
+seconds.  When alert, she noted that she has had a cough 
+productive of gray sputum.  She denies hemoptysis.  She has had 
+no weight loss, fevers or nightsweats.  She has no chest pain. 
+
+ 
+Past Medical History:
+- Epilepsy, complex-partial; followed by Dr. ___ seizures  
+characterized by head turn to the right with impaired ability to 
+speak but maintains awareness; this lasts for ___ minutes,  
+followed by emotional crying, and then headache and nausea. Last 
+seizure was > ___ years ago.  
+- AVM, Left frontal, s/p Proton beam radiation at ___ in ___  
+and  
+again ___  
+- PCom aneurysm s/p clipping at ___ in ___  
+- HLD  
+- Lumbar disc herniation, presented with left sciatic pain but  
+none recently  
+
+ 
+Social History:
+___
+Family History:
+Both parents alive with COPD.  Father with colon cancer.   
+
+ 
+Physical Exam:
+ON ADMISSION TO THE MICU
+
+Vitals- T: 99.5 BP: 160/71 P: 84 R: 20 O2: 92% on 3L BiPAP ___  
+
+GENERAL: Alert, oriented, no acute distress 
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP difficult to assess given body habitus but 
+does not appear grossly distended, no LAD  
+LUNGS:  significant prolonged expiratory phase with end 
+expiratory wheezes.  Rhonchorous sounds also heard throughout 
+lungs bilaterally.  No rales.
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: multiple excoriations on bilateral lower extremities, no 
+active bleeding or prurulence
+NEURO:   A&Ox3, CN II-XII grossly intact, exam nonfocal. 
+
+DISCHARGE PHYSICAL EXAM: 
+Vitals: 98.7 143-152/57-61 ___ 18 >94 on 3L  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, moist mucous membranes, oropharynx 
+clear. Poor dentition.  
+Neck: Supple, JVP not elevated, no tonsillar or cervical 
+lymphadenopathy  
+Lungs: soft expiratory wheezes (R>L) with prolonged expiration 
+good air movement. non-labored.  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+Abdomen: Soft, obese, non-tender, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly. No appreciable 
+inguinal adenopathy.  
+Ext: No edema. Warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis.  
+Skin: Multiple erythematous, indurated patches with linear 
+excoriations on the bilateral arms, back, and left lower 
+extremity.  
+Neuro: Alert, oriented to name, place, month. Multiple parphasic 
+errors. Difficulty maintaining train of thought. No obvious 
+sensory or motor or cranial nerve deficits  
+
+ 
+Pertinent Results:
+ON ADMISSION
+
+___ 04:25PM BLOOD WBC-12.9* RBC-4.93 Hgb-15.0 Hct-48.4* 
+MCV-98 MCH-30.4 MCHC-31.0 RDW-14.9 Plt ___
+___ 04:25PM BLOOD Neuts-72.9* Lymphs-15.6* Monos-7.1 
+Eos-3.0 Baso-1.4
+___ 04:25PM BLOOD ___ PTT-27.1 ___
+___ 04:25PM BLOOD Glucose-111* UreaN-32* Creat-1.3* Na-133 
+K-5.6* Cl-95* HCO3-29 AnGap-15
+___ 04:25PM BLOOD cTropnT-0.01
+___ 12:01AM BLOOD cTropnT-0.01
+___ 03:48AM BLOOD Calcium-8.6 Phos-5.4* Mg-2.2
+
+BLOOD GASES 
+pCO2 
+___ 15:37    72*1 
+___ 09:53    71*1 
+___ 06:42    73*2 
+___ 04:10    74*1 
+___ 03:05    76*3 
+___ 16:38    62*3 
+pO2 
+___ 15:37    52*1 V NC
+___ 09:53    63*  A Neb
+___ 06:42    128* A BiPAP
+___ 04:10    62*  A BiPAP
+___ 03:05    88   A VM
+___ 16:38    173* A
+
+KEY RESULTS
+
+___ 04:25PM BLOOD ___
+___ 03:16PM BLOOD proBNP-8061*
+___ 06:02AM BLOOD proBNP-2275*
+
+___ 04:25PM BLOOD Phenyto-5.3*
+___ 03:48AM BLOOD Phenoba-15.9
+
+___ 04:31PM BLOOD Lactate-1.8 
+___ 06:42AM BLOOD Lactate-0.9
+___ 09:53AM BLOOD Lactate-1.2
+
+MICROBIOLOGY:
+
+IMAGING:
+CXR ___
+IMPRESSION:  
+Slight prominence of the hila suggest pulmonary vascular 
+engorgement without overt pulmonary edema.  Basilar atelectasis 
+without definite focal consolidation. 
+
+CTA Chest ___
+IMPRESSION:  
+1. No evidence of pulmonary embolism. 
+2. Sclerotic lesions in the T11 vertebral body as well as the 
+manubrium on the left.  8 mm the right upper lobe pulmonary 
+opacity. 5 mm left lower lobe pulmonary nodule. Moderate 
+mediastinal and hilar lymph node enlargement.  These findings 
+are concerning for possible malignancy. Given the sclerotic 
+nature of the bony lesions, occult lung or breast malignancy or 
+lymphoma should be considered. Alternatively the central lymph 
+node enlargement can be seen in sarcoidosis or possibly 
+lymphoma. 
+3. Bilateral adrenal thickening, indeterminate but no focal 
+lesions; most 
+likely hyperplasia. 
+
+CT Head noncontrast ___
+IMPRESSION:  
+The previously seen AVM is grossly similar in size compared to 
+___. Since this scan was done recently after a CTA of the 
+chest, residual IV contrast is seen within the head, and a small 
+hemorrhage cannot accordingly be ruled out. No evidence of new 
+mass effect or midline shift. 
+
+ECHO ___
+Conclusions  
+The left atrium is mild to moderately dilated. No atrial septal 
+defect is seen by 2D or color Doppler. The estimated right 
+atrial pressure is at least 15 mmHg. There is mild symmetric 
+left ventricular hypertrophy with normal cavity size and global 
+systolic function (LVEF>65%). Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. The right ventricular cavity appears dilated with 
+normal free wall contractility. The aortic valve leaflets (?#) 
+appear structurally normal with good leaflet excursion. There is 
+no aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. The estimated pulmonary artery systolic pressure 
+is normal. There is an anterior space which most likely 
+represents a prominent fat pad. 
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with normal cavity size and global 
+systolic function. Right ventricular cavity mildly dilated with 
+normal systolic function. 
+
+Compared with the prior study (images reviewed) of ___ 
+the right ventricle now appears dilated in the subcostal views 
+(not well seen in the apical views). Other findings are similar. 
+  
+
+DISCHARGE LABS:
+___ 06:35AM BLOOD WBC-8.6 RBC-4.38 Hgb-13.2 Hct-42.8 MCV-98 
+MCH-30.1 MCHC-30.8* RDW-14.2 Plt ___
+___ 05:56AM BLOOD Neuts-57.0 ___ Monos-8.0 
+Eos-12.8* Baso-0.6
+___ 06:35AM BLOOD Glucose-90 UreaN-20 Creat-0.9 Na-138 
+K-5.2* Cl-98 HCO3-37* AnGap-8
+___ 06:35AM BLOOD Glucose-89 UreaN-20 Creat-1.0 Na-139 
+K-4.9 Cl-98 HCO3-36* AnGap-10
+___ 06:35AM BLOOD Calcium-8.5 Phos-4.1 Mg-2.1
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o F with PMHx significant for multiple 
+AVM and a seizure disorder who presented with hypoxia and AMS, 
+triggered on floor for continued hypoxia and lethargy.  
+
+# AECOPD and ACUTE DIASTOLIC HEART FAILURE:  Patient presented 
+with acute hypoxia, confusion.  The etiology of her hypoxia was 
+thought to be multifactorial.  The elevated BNP on presentation 
+was concerning for heart failure and pulmonary edema. She was 
+diuresed with small lasix bolus in the ED and did show some 
+improvement in oxygenation.  Her heavy smoking history, evidence 
+of chronic bronchitis and emphsyematous changes on CT, lack of 
+significant pulmonary consolidation, wheezing and hypercarbia 
+were concerning for obstructive lung process leading to CO2 
+retention and hypoxia.  Her body habitus and witnessed apneic 
+events (both central and obstructive) are concerning for both 
+sleep apnea.  She was ruled out for PE by CTA.  As she was 
+diuresed and received BiPAP her oxygenation and mental status 
+improved. She was able to be weaned off to a Venturi mask with 
+FiO2 of 50%. Albuterol and ipratropium nebulizations as well as 
+a 5 day course of azythromycin and prednisone were started for a 
+COPD exacerbation.  Her oxygen requirements continued to 
+decrease without further diuresis until she was on nasal 
+cannula.  She was then called out to the floor where she was 
+continued on oxygen but noted clinical and subjective 
+improvement in respiratory status. She was evaluated by physical 
+therapy who felt that she would benefit from ___ rehab for 
+oxygen teaching and gait training in setting of using home O2.
+
+# PULMONARY NODULES AND MEDIASTINAL LYMPHADENOPATHY AND BONE 
+LESIONS:Concerning for a malignancy with metastatic disease.  
+Differential includes lung primary vs. lymphoma vs. metastatic 
+disease from another site such as breast.  Patient was informed 
+of the findings. Her LDH was normal, and reported no B-symptoms. 
+Her heavy smoking history puts her at increased risk of lung 
+cancer but also other malignancies.  She reports that her 
+colonoscopy was up to date but that she has not had a mammogram 
+in many years.  She underwent transbronchial biopsy of hula 
+lymph node, which returned negative for malignant cells. She has 
+outpatient follow-up with Pulmonary at which time a decision 
+will need to be made about the need for further imaging or 
+tissues sampling.
+
+# ACUTE RENAL FAILURE:  Creatinine elevated to 1.3 on 
+presentation compared to baseline of 1.0 less than a year prior. 
+ She may have pre-renal azotemia due to HF or medication side 
+effect (recent initiation of lisinopril)  Patient was diuresed 
+and lisinopril was held.  Her creatinine returned to baseline of 
+0.9-1.0.
+
+# HYPERTENSION:  Not well controlled on presentation.  ACEI held 
+on presentation given her hyperkalemia and ___.  She was started 
+on Amlodipine 5mg daily and uptitrated to 10mg daily with good 
+response.
+
+# COMPLEX SEIZURE DISORDER:  Patient on admission had her 
+medications with her, which were further confirmed with her 
+outpatient Neurologist.  She had a phenytoin level on admission 
+that was low but her outpatient Neurologist recommended no 
+adjustments to her current medication regimen.  She continued 
+her home medications and had no evidence of seizure this 
+admission. 
+
+TRANSITIONAL ISSUES:
+- Outpatient Dermatology evaluation for pruritis.
+- F/U flow cytometry to rule out T cell lymphoma and 
+histiocytosis.
+- Evaluate volume status restart Lasix PRN.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LaMOTrigine 300 mg PO BID 
+2. LeVETiracetam 1000 mg PO BID 
+3. Lisinopril 10 mg PO DAILY 
+4. Lorazepam 1 mg PO DAILY:PRN anxiety 
+5. PHENObarbital 129.6 mg PO QAM 
+6. Phenytoin Sodium Extended 200 mg PO BID 
+
+ 
+Discharge Medications:
+1. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+daily 
+2. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation daily 
+3. LaMOTrigine 300 mg PO BID 
+4. LeVETiracetam 1000 mg PO BID 
+5. PHENObarbital 129.6 mg PO QAM 
+6. Phenytoin Sodium Extended 200 mg PO BID 
+7. Amlodipine 10 mg PO DAILY 
+8. DiphenhydrAMINE 25 mg PO Q8H:PRN itch  
+9. Sarna Lotion 1 Appl TP QID:PRN pruritis 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+- Acute exacerbation of COPD
+- Acute diastolic heart failure
+- RUL 8 mm and LLL 5 mm nodules
+- Sclerotic lesions T11 vertebral body and manubrium
+- Moderate mediastinal and hilar lymphadenopathy
+
+Secondary:
+- Epilepsy; complex-partial seizure disorder
+- Left frontal AVM s/p proton beam radiation at ___ ___ and 
+___
+- Posterior communicating artery aneurysm s/p clipping ___ 
+(___)
+- Lumbar disc herniation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ was a pleasure meeting you and taking care of you during your 
+hospitalization. You were admitted for difficulty breathing that 
+we think was caused by a problem called "Chronic Obstructive 
+Pulmonary Disease" or COPD. This is usually caused by a history 
+of smoking and causes the airways to narrow when irritated, 
+making breathing difficult. We gave you an antibiotic and 
+steroids to decreased inflammation in your lungs. We also gave 
+you inhaled medications to open your airways. You were kept on 
+oxygen during your hospitalization and will need to go home on 
+home oxygen therapy. You should followup with your new 
+pulmonologist for further treatment. While you are on oxygen it 
+is very very important that you do not smoke as this can be very 
+dangerous. 
+
+During your hospitalization, you were noted to have enlarged 
+lymph nodes and nodules in your lungs. We biopsied the lymph 
+nodes in your lungs but at the time of discharge, the pathology 
+results were not back on this tissue. There results will be back 
+when you followup with your new pulmonologist.  
+
+We wish you the best, 
+
+Your ___ team 
+ 
+Followup Instructions:
+___

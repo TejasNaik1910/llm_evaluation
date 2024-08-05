@@ -1,0 +1,49 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "co-morbidities",
+            "startOffset": 140,
+            "endOffset": 154,
+            "startWordIndex": 25,
+            "endWordIndex": 27,
+            "omittedDetails": "Vitals under HPI in the EHR is omitted from the summary"
+        },
+        {
+            "text": "sacral decubitus",
+            "startOffset": 958,
+            "endOffset": 974,
+            "startWordIndex": 138,
+            "endWordIndex": 140,
+            "omittedDetails": "Interventions mentioned under Sacral decubitis ulcer in the EHR is omitted from the summary"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "patient",
+            "startOffset": 94,
+            "endOffset": 101,
+            "startWordIndex": 16,
+            "endWordIndex": 17,
+            "omittedDetails": "Some of the symptoms and diagnostic procedures under HPI in the EHR is omitted from the summary"
+        },
+        {
+            "text": "atrial fibrillation",
+            "startOffset": 1046,
+            "endOffset": 1065,
+            "startWordIndex": 151,
+            "endWordIndex": 153,
+            "omittedDetails": "Some of the symptoms mentioned in the EHR is omitted from the summary"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "antibiotics",
+            "startOffset": 881,
+            "endOffset": 892,
+            "startWordIndex": 127,
+            "endWordIndex": 128,
+            "omittedDetails": "Some of the medications and medications instructions mentioned in EHR is omitted from the summary"
+        }
+    ],
+    "Omitted Followup": []
+}

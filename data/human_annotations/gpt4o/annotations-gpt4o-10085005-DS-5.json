@@ -1,0 +1,69 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary mentions that patient was \"diagnosed\" with irritable bowel syndrome, however in the patient record it only mentions that patient has only been \"thought\" to have IBS, which falls under incorrect reasoning since diagnosis was never certain. ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Clear lungs bilaterally",
+            "startOffset": 1524,
+            "endOffset": 1547,
+            "startWordIndex": 185,
+            "endWordIndex": 188,
+            "omittedDetails": "missing from physical exam auscaltation"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Bupivacaine",
+            "startOffset": 2290,
+            "endOffset": 2301,
+            "startWordIndex": 308,
+            "endWordIndex": 309,
+            "omittedDetails": "specific instruction infusion not mentioned in summary"
+        },
+        {
+            "text": "Oxycodone-Acetaminophen",
+            "startOffset": 2722,
+            "endOffset": 2745,
+            "startWordIndex": 369,
+            "endWordIndex": 371,
+            "omittedDetails": "intended use for oxycodone-acetaminophen is missing from summary"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Present Illness",
+            "startOffset": 490,
+            "endOffset": 505,
+            "startWordIndex": 50,
+            "endWordIndex": 52,
+            "omittedDetails": "Appendicitis was omitted under HPI."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": " 120 mg",
+            "startOffset": 2644,
+            "endOffset": 2651,
+            "startWordIndex": 358,
+            "endWordIndex": 360,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Discharge Instructions:",
+            "startOffset": 3055,
+            "endOffset": 3078,
+            "startWordIndex": 412,
+            "endWordIndex": 414,
+            "omittedDetails": "some discharge instructions are missing."
+        }
+    ]
+}

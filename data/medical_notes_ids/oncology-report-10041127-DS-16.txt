@@ -1,0 +1,351 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+___ Endoscopy with banding of esophageal varices
+
+ 
+History of Present Illness:
+___ gentleman with hepatocellular versus intrahepatic 
+cholangiocarcinoma with massive disease progression on reduced 
+dose sorafenib therapy comes in with syncope and coffee ground 
+emesis. UGIB, NG lavage cleared after 1 liter. 20 point 
+hematocrit drop, hematocrit 16.7 from 35. WBC 22. Negative 
+cardiac enzymes. 2 units blood, 4 liters of fluid. 
+Vanco/levo/flagyl. Liver fellow was contacted and they plan on 
+scoping him early this morning. 
+
+CT abd/pelvis prelim read shows advanced, infiltrative HCC with 
+unchanged occulssion right portal vein seen on ___ scan, 
+increase in ascites now moderate to large in volume. Diffuse 
+hyperenhancement of small bowel wall which may reflect ischemia 
+related to GIB, small perf cannot be excluded. Surgery did not 
+think this was in vascular distribution, attribute ___ low flow 
+state, do not think clot for them to retrieve or immediate 
+surgical issue at the current time.
+
+ED vitals: 98.9, ___, 97 ra
+Exam: guaic +, NG lavage +
+Access:16 and 18 in place
+
+Mr. ___ first noted early satiety, bloating in ___.  His 
+liver function tests were abnormal. Right upper quadrant 
+ultrasound revealed a 7.3 x 6.4 x 9 cm mass in the right lobe of 
+the liver, extending in to the left lobe. 
+
+___, a biopsy was performed, which revealed a neuroendocrine 
+carcinoma positive for CK7 and 20, chromogranins and 
+synaptophysin and S-100.  In ___, a CT scan showed the mass 
+was enlarging and causing biliary obstruction.  He had a 
+negative octreotide scan at that time.  However, on ___ 
+an AFP was over 3000.  On ___ he had an exploratory 
+laparotomy and nodule biopsy along with intraoperative 
+ultrasound which suggested that the carcinoma was unresectable. 
+Since that time he has had seven cycles of gemcitabine and 
+cisplatin as well as sorafenib who has continued to have disease 
+progression on those therapies. 
+
+.  
+ROS: The patient denies any fevers, chills, weight change, 
+nausea, vomiting, abdominal pain, diarrhea, constipation, 
+melena, hematochezia, chest pain, shortness of breath, 
+orthopnea, PND, lower extremity oedema, cough, urinary 
+frequency, urgency, dysuria, lightheadedness, gait unsteadiness, 
+focal weakness, vision changes, headache, rash or skin changes.  
+
+
+ 
+Past Medical History:
+MVA in ___ with head trauma and diminished near vision 
+and occasional low back pain. 
+recent +PPD
+ 
+Social History:
+___
+Family History:
+His mother is alive at ___ without any medical
+problems.  His father has heart palpitations and is ___.  He has
+six brothers and four sisters, none of whom have any medical
+problems.
+
+ 
+Physical Exam:
+Vitals: 99.0 124/90 81 16  
+GENERAL:  Thin, NAD, appears chronically ill. 
+HEENT:  NCAT. Anicteric sclerae.  PERRL. EOMI. OP clear, dry MM. 
+ 
+NECK:  supple, no cervical or periclavicular LAD
+CARDIOVASCULAR:  RRR, no M/R/G
+RESPIRATORY:  CTA bilaterally. no W/R/C
+ABDOMEN:  Soft, nontender, and moderately distended.  Liver is 
+not palpable. Ascites present. Fluid wave is present.
+EXTREMITIES:  No edema.
+NEUROLOGIC:  A+Ox3.  CN II-XII grossly normal. Steady gait. 
+Strength full in all major muscle groups. 
+ 
+Pertinent Results:
+LABS
+Admission ___ Hct 16.7
+Discharge ___ Hct 31.0
+.
+ENZYMES & BILIRUBIN    ALT AST   LDH  AlkPhos TBili 
+___ 05:05AM    122* 241* 205   203*   4.4*   
+___ 05:05AM    165* 330* 244   220*   3.5*   
+___ 05:22AM    197* 393* 261*   234*   3.3*   
+___ 07:01AM    133* 296* 264*   247*   2.4*   
+___ 10:00PM    138* 299*        288*   1.4   
+*SPECIMEN SLIGHTLY HEMOLYZED 
+.
+___ 4:10 am BLOOD CULTURE      # 2. 
+.
+   Blood Culture, Routine (Preliminary): 
+      VIRIDANS STREPTOCOCCI.    ISOLATED FROM ONE SET ONLY.  
+         PRELIMINARY SENSITIVITY. 
+_____________________________________________________
+                             VIRIDANS STREPTOCOCCI
+                             |   
+CLINDAMYCIN-----------       S
+ERYTHROMYCIN----------       S
+VANCOMYCIN------------       S
+.
+IMAGING
+CT abdomen/pelvis with contrast ___ 
+Large amount of pelvic ascites is present. The rectum and 
+sigmoid colon appear grossly unremarkable. The bladder is also 
+unremarkable. 
+Bone windows demonstrate no suspicious lytic or blastic lesions. 
+
+IMPRESSION: 
+1. Advanced infiltrate of hepatocellular carcinoma with probable 
+occlusion of the right portal vein as described on previous CT. 
+New interval increase in large volume ascites likely indicates 
+disease progression. 
+2. Diffuse hyperenhancement of the small and large bowel likely 
+related to 
+occlusion of the portal system. Lack of progression of oral 
+contrast material beyond the stomach despite two-hour interval 
+of administration. There is no definite obstruction as there are 
+no dilated loops of small bowel or air-fluid levels. NG tube 
+terminates within the stomach. 
+3. No definite free intraperitoneal air. 
+.
+CXR ___ 
+FINDINGS: The heart is normal in size. The mediastinal and hilar 
+contours 
+are normal. There is no subdiaphragmatic free air. The lungs are 
+clear. The visualized osseous structures appear within normal 
+limits. 
+IMPRESSION: No radiographic evidence of free air. 
+.
+KUB ___
+No gross evidence of change. Contrast now in the colon thus no 
+obstruction. No supine evidence of free air. 
+.
+EGD ___
+Findings: 
+Esophagus: Protruding Lesions 4 cords of grade II varices were 
+seen in the lower third of the esophagus. The varices were not 
+bleeding. 4 bands were successfully placed.  
+Stomach:  Mucosa: Diffuse continuous erythema, congestion and 
+mosaic appearance of the mucosa with no bleeding were noted in 
+the whole stomach. These findings are compatible with mild 
+portal hypertensive gastropathy. Small ammout of dark blood was 
+seen in the stomach.   
+Duodenum:  Mucosa: Normal mucosa was noted.  
+*Impression*: Varices at the lower third of the esophagus 
+(ligation)
+Erythema, congestion and mosaic appearance in the whole stomach 
+compatible with mild portal hypertensive gastropathy
+-Normal mucosa in the duodenum
+-Otherwise normal EGD to third part of the duodenum 
+.
+------------------
+CT Torso ___
+CT Chest
+Thyroid and thoracic inlet appear unremarkable. Paraseptal blebs 
+are present. No discrete metastases of note. 
+. 
+CT ABDOMEN AND PELVIS. 
+There is a massive confluent infiltrative hepatocellular 
+carcinoma . This has substantially increased in size, and now 
+involves the entire liver. Ascites is now present. This is a new 
+finding. Focal areas of Ethiodol uptake are identified within 
+the more central necrotic parts of this tumor. Aneurysmal 
+dilatation of the left portal vein. Hepatic right portal vein 
+appears occluded. The hepatic veins appear patent, although 
+parts of the middle hepatic vein are grossly attenuated. 
+Enlargement and recruitment of the hepatic artery is seen. There 
+is infiltration into the anterior omentum, which may represent 
+tumor spread. No definite metastatic disease is seen. 
+. 
+CT PELVIS  
+Ascites as before. Prostate is normal. Bladder appears normal. 
+Large and small bowel appear grossly unremarkable. 
+. 
+CT BONES AND SOFT TISSUES: 
+No suspicious lytic or sclerotic lesion. 
+There are degenerative changes, possibly represent old trauma, 
+along the right inferior pubic ramus.   
+CONCLUSION: 
+Massive disease progression with right portal vein and possibly 
+middle hepatic veins are occluded. No definitive extra-hepatic 
+spread. 
+.
+
+ 
+Brief Hospital Course:
+# UGIB
+
+Given his history of right portal vein thrombosis there is 
+concern he may have back up of blood flow to the esophageal and 
+gastric veins which may have ruptured and led to his UGIB.
+- Pt transfused 6 units of pRBCs (Hct on presentation 16.7). He 
+was also placed on octreotide gtt and PPI BID. GI performed EGD 
+with banding of 4 cords of non-bleeding, grade II varices that 
+were seen in the lower third of the esophagus. Carafate was 
+begun with a plan for 5-day course. Repeat EGD in 2 weeks was 
+recommended by GI. 
+- After EGD pt was transferred from the ICU to the floor where 
+his Hct was followed closely. Pt maintained stable Hct 
+post-transfusion throughout hospitalization (Hct 31.0). 
+- Pt was started on cipro ppx given UGIB and ascites. 
+- AST/ALT slightly elevated above baseline, however his alk phos 
+is lower and t/bili only slightly elevated when compared to b/l. 
+Given these findings it is less likely he has developed a 
+recurrent common hepatic duct stricture (s/p removal pigtail 
+stent on ___.
+.
+# GPC in ED blood culture, ___ bottles
+- possibly contaminant, however, pt was started on vancomycin 
+while speciation and sensitivities were pending. Final culture 
+revealed S. viridans.  Cultures were obtained prior to EGD and 
+pt has no lines of concern for infection. Pt underwent Echo 
+which showed no vegetations or signs of SBE.  Because all follow 
+up cultures were negative and pt was afebrile and asymptomatic 
+during his hospitalization the vancomycin was discontinued and 
+he was startd on a two week course of clindamycin.
+.
+# Anion gap metabolic acidosis
+Secondary to elevated lactate in setting UGIB with 
+hypoperfussion. Resolved with blood products and IVF.
+.
+# Hypercalcemia
+- On transfer to the floor pt was found to have elevated serum 
+calcium (Ca ___, Alb 3.0).  Pt was started on continuous IVF 
+and lasix. Pt responded well and had calcium of 9.1 on 
+discharge.
+.
+# Liver cancer
+- Patient off treatment since early ___.  Pt was not restarted 
+on any chemotherapy during hospitalization.  ___ benefit from 
+palliative care.
+
+ 
+Medications on Admission:
+MEGESTROL [MEGACE ORAL] - 400 mg/10 mL Suspension - 10 ml daily  
+
+ONDANSETRON - 4 mg Tablet, Rapid Dissolve - 1 Tablet, Rapid  
+Dissolve(s) by mouth every twelve (12) hours as needed for 
+nausea  
+OXYCODONE - 5 mg Tablet - ___ Tablet(s) by mouth q3h as needed  
+PROCHLORPERAZINE EDISYLATE [COMPAZINE] - 10 mg Tablet - 1  
+Tablet(s) by mouth q4-6h as needed for nausea  
+OMEPRAZOLE MAGNESIUM [PRILOSEC OTC] - 20 mg Tablet daily  
+ 
+Discharge Medications:
+1. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times 
+a day) for 2 days.
+Disp:*8 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+5. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H 
+(every 8 hours) as needed for constipation.
+Disp:*1 bottle* Refills:*0*
+6. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q6H (every 6 hours) 
+as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+7. Compazine 10 mg Tablet Sig: One (1) Tablet PO every ___ hours 
+as needed for nausea.  
+8. Megace Oral 400 mg/10 mL Suspension Sig: Ten (10) cc PO once 
+a day.  
+9. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every twelve (12) hours as needed for nausea.  
+
+10. Clindamycin HCl 150 mg Capsule Sig: Three (3) Capsule PO Q8H 
+(every 8 hours) for 14 days.
+Disp:*126 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hepatocellular vs intrahepatic cholangiocarcinoma with portal 
+vein occlusion
+UGIB secondary to portal HTN
+Anemia secondary to blood loss
+Hypercalcemia
+
+ 
+Discharge Condition:
+stable; Hct stable > 48 hrs; no active bleeding; does not 
+require supplemental oxygen; ambulating without assistance; 
+tolerating po diet and meds
+
+ 
+Discharge Instructions:
+You were admitted to the ICU after you experienced upper GI 
+bleeding requiring multiple units of blood. During the 
+admission, an endoscopy was performed in which you had multiple 
+blood vessels banded in your esophagus to try to stop the 
+bleeding.  You tolerated the procedure well and were transferred 
+out of the ICU.  We continued to watch your blood counts and 
+monitor you for signs of repeat bleeding.  During your 
+hospitalization you were found to have high calcium levels in 
+your blood.  To lower the calcium we gave you IV fluids and IV 
+medications.  When your calcium decreased to normal range and 
+your blood counts were stable you were cleared for discharge.
+.
+We were also concerned about a possible infection in your blood, 
+and so we did an ultrasound of your heart to make sure there was 
+no infection there. The study showed no signs of any infection. 
+However, we are sending you home with a 2 week course of an 
+antibiotic called clindamycin.
+.
+There are several other new medicines you should take: the first 
+is called Protonix (pantoprazole). You should take this pill 
+twice per day, to prevent more bleeding. The next is called 
+ciprofloxacin, another antibiotic. You only need to take this 
+pill for 2 days. Another is called sucralfate, which you should 
+take for 1 more day. Finally, we are giving you prescriptions 
+for laxatives to help you move your bowels.
+.
+Please take all of your medicines as prescribed. Please follow 
+up with you primary care physician within the next week to check 
+your blood counts and your calcium level.  Please notify your 
+physician or return to the emergency department in you have any 
+return of blood in your stool or vomit.   
+ 
+Followup Instructions:
+___

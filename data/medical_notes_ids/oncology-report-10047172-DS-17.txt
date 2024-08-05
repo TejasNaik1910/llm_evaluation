@@ -1,0 +1,357 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+sitagliptin / fesoterodine / Statins-Hmg-Coa Reductase 
+Inhibitors / saxagliptin / pioglitazone / canagliflozin / 
+fenofibrate
+ 
+Attending: ___.
+ 
+Chief Complaint:
+anasarca
+ 
+Major Surgical or Invasive Procedure:
+therapeutic paracentesis with ___
+
+ 
+History of Present Illness:
+Professor ___ is a pleasant ___ w/ T2DM, HTN, DL and
+pancreatic cancer metastatic to the liver (biopsy proven), dx
+___, currently on C1D10 Gemcitabine and erlotinib, who p/w
+leaking paracentesis site on his LLQ, increased abdominal
+distention, increased b/l ___. His last paracentesis was ___,
+and 3L removed. He denied any F/CP/SOB but found to have new
+small b/l pleural effusions 
+ 
+Past Medical History:
+ONCOLOGIC HISTORY:
+Mr. ___ was diagnosed pancreatic adenocarcinoma metastatic to
+the liver in ___ when he was admitted for painless
+jaundice. CT showed 3.3cm pancreatic head mass and MRI
+showed a 1.8cm left kidney lesion concerning for RCC as well as 
+2
+sub-cm liver masses. FNA of pancreas showed 'suspicious' cells.
+His pancreatic mass was deemed unresectable due to abutting the
+SMV and portal vein. He was treated with three cycles of
+FOLFIRINOX ___ which was halted due to rising CA 
+___
+and increased size of liver metastases. In ___,  CA
+___ elevated to 23K and considered potentially related to left
+finger infection in setting of diabetes. Imaging shows increased
+size of liver metastases. In ___ he started
+gemcitabine/Abraxane. Imaging ___ showing slight decrease 
+in
+the size of the liver metastases with stable disease at the
+pancreas. Course complicated by right thigh muscle infarct
+presumed ___ diabetes in ___. Primary chemotherapy side
+effect has been neuropathy on the bottoms of b/l feet without
+impairment of ADLs. Has required multiple dose and schedule
+adjustments in order to maximize quality of life, minimize 
+marrow
+toxicity and maintain control over tumor (primarily assessed by
+tumor marker). Imaging has showed mixed response in early ___:
+given discordance with ___, unclear if true progression vs
+variations due to reduced chemotherapy exposure at various time
+points for various toxicity and scheduling reasons. In setting 
+of
+increasing side effects and  mixed response by imaging/markers,
+changed to CapOx on ___ scans show a mixed response to treatment, regimen
+changed to modified FOLFIRINOX 
+-___: Began modified FOLFIRINOX with dose reduction ___
+IVP and Leucovorin held from regimen) (Per OMR, patient
+previously given this regimine at ___ for 3 cycles ___ ago)
+-___: CT scan showed progression of disease with an interval
+increase in size of the innumerable  hepatic masses, increased
+abnormal soft tissue in the retroperitoneum, and 
+increasing ascites.
+-___: Patient started on erlotinib with plan for C1D1 of
+gemcitabine on ___.
+-Admitted to ___ on ___ for hyperbilirubinemia, fevers, 
+n/v,
+and acute urinary retention.
+
+OTHER PAST MEDICAL HISTORY :
+- T2DM
+- Hypertension
+- Hyperlipidemia
+- s/p L hip replacement
+- heart murmur
+- s/p nose fracture
+- kidney lesion determined to be 2.4cm hemmorhagic cyst on MRI
+___ 
+ 
+Social History:
+___
+Family History:
+Mother:  dementia
+Father:  bladder cancer at older age
+Cancers in the family:  paternal cousin with primary liver 
+cancer
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITAL SIGNS: 97.8F 156/72 91 18 97% 158 lbs
+General:  NAD, Resting in bed comfortably, well nourished
+HEENT:  MM dry, + mild thrush along the mandible folds
+CV:  RR, NL S1S2 no ___ apical SEM
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, distended, dressing over LLQ saturated
+LIMBS: WWP, 2+ pitting ___, no tremors
+SKIN:  No rashes on the extremities, port site looks well, skin
+overlying left picc intact
+NEURO:  Grossly normal
+
+DISCHARGE PHYSICAL EXAM:
+VITAL SIGNS: 97.5 Axillary 140 / 70 92 19 95 RA 
+General:  NAD, Resting in bed comfortably, evidence of wasting
+though with distended abdomen
+HEENT:  MM dry, + mild thrush along the mandible folds
+CV:  RR, NL S1S2 no ___ apical SEM
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, notably distended, LLQ suture in place
+LIMBS: WWP, 2+ pitting ___, no tremors
+SKIN:  No rashes on the extremities, port site looks well, skin
+overlying left picc intact
+NEURO:  Grossly normal
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 12:08PM BLOOD WBC-2.4*# RBC-2.47* Hgb-8.0* Hct-23.6* 
+MCV-96 MCH-32.4* MCHC-33.9 RDW-19.1* RDWSD-65.4* Plt ___
+___ 12:08PM BLOOD AbsNeut-1.57*#
+___ 12:08PM BLOOD Plt ___
+___ 09:35PM BLOOD Glucose-172* UreaN-35* Creat-1.1 Na-137 
+K-4.1 Cl-102 HCO3-23 AnGap-16
+___ 09:35PM BLOOD ALT-38 AST-76* LD(LDH)-321* AlkPhos-949* 
+TotBili-1.4
+___ 09:35PM BLOOD TotProt-6.1* Albumin-2.6* Globuln-3.5
+___ 09:45PM BLOOD Lactate-2.7*
+
+DISCHARGE LABS
+___ 05:44AM BLOOD WBC-4.8 RBC-2.95* Hgb-9.2* Hct-27.7* 
+MCV-94 MCH-31.2 MCHC-33.2 RDW-19.1* RDWSD-62.6* Plt ___
+___ 09:35PM BLOOD Neuts-63 Bands-1 ___ Monos-10 Eos-0 
+Baso-0 ___ Myelos-0 Hyperse-3* AbsNeut-3.42 
+AbsLymp-1.17* AbsMono-0.51 AbsEos-0.00* AbsBaso-0.00*
+___ 09:35PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL 
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+___ 05:44AM BLOOD Plt ___
+___ 05:44AM BLOOD ___
+___ 05:44AM BLOOD Glucose-156* UreaN-32* Creat-1.0 Na-136 
+K-4.1 Cl-102 HCO3-23 AnGap-15
+___ 05:44AM BLOOD ALT-36 AST-74* LD(LDH)-305* AlkPhos-933* 
+TotBili-1.5
+___ 05:44AM BLOOD Albumin-2.4* Calcium-7.8* Phos-3.1 Mg-1.9
+
+IMAGING:
+MRI Liver ___
+Progression of disease with an interval increase in size of the
+innumerable hepatic masses, increased abnormal soft tissue in 
+the
+retroperitoneum, and increasing ascites.  Additionally, the
+primary pancreatic cancer in the pancreatic head is very
+minimally increased in size.
+
+CT CHEST w/ CON ___
+New irregular nodule in the right upper lobe and interval
+increase of the right lower lobe nodules concerning for
+progressive metastatic disease. 
+
+ERCP ___
+EUS was performed using a linear echoendoscope at ___ MHz
+frequency 
+The head and uncinate pancreas were imaged from the duodenal
+bulb and the second / third duodenum.  
+The body and tail [partially] were imaged from the gastric body
+and fundus. 
+Mass: A 3.5 cm X 4 cm ill-defined mass was noted in the head of
+the pancreas.  
+The mass was hypoechoic and heterogenous in echotexture.  
+The borders of the mass were irregular and poorly defined.  
+The mass is involving the confluence, especially the SMV with
+narrowing of vessel diameter.  
+FNB was performed. Color doppler was used to determine an
+avascular path for needle aspiration. A 22-gauge needle with a
+stylet was used to perform biopsy.  
+Six needle passes were made into the mass.  
+Biopsies were sent for pathology.  
+Scan of the left hepatic lobe reveled multiple hypoechoic
+lesions measured between 0.5-2cm, highly suspected for 
+metastatic
+disease, FNB was performed from 3 different hepatic lesions 
+Otherwise normal upper eus to third part of the duodenum
+
+CXR ___
+1. Left PICC tip in the low SVC.  No pneumothorax. 
+2. Small bilateral pleural effusions, new in the interval, with
+bibasilar atelectasis. 
+
+ 
+Brief Hospital Course:
+___ w/ T2DM, HTN, DL and pancreatic cancer metastatic to the 
+liver (biopsy proven), dx ___, currently on C1D10 
+Gemcitabine and erlotinib, recent biliary sepsis s/p 
+stent/completed abx
+course for klebsiella bacteremia (last dose zosyn ___ who p/w 
+leaking paracentesis site on his LLQ and increased anasarca with 
+___ edema and new asymptomatic ___ pleural effusions, patient 
+is now s/p therapeutic paracentesis ___. He was seen by his 
+primary oncologist and will follow up with her on ___ and 
+will continue with 1000 mg xeloda bid X 14 days, 7 days off and 
+tarceva continuously once home delivery complete. 
+
+# Increased Anasarca
+# Ascites
+# Leaking Paracentesis site
+Since ___, pt has gained 24 lbs. Likely multifactorial, but will 
+discuss w/ onc whether this maybe due to capillary leak syndrome 
+from gemcitabine. Other causes include pancreatic ca, 
+pseudocirrohsis from liver mets, protein calorie malnutrition, 
+iatrogenic fluid overload from TPN. INR and LFTs largely stable 
+w/o evidence of hepatic decompensation. He was started on lasix 
+on most recent admission.
+- home amlodipine, lisinopril held while patient was admitted so 
+that diuretic regimen could be increased. started on 50mg daily 
+and 20mg Lasix daily. TPN was held for contribution to fluid 
+overload.  Patient underwent ___ guided therapeutic para  ___ 
+
+# Pancreatic Ca
+Diagnosed ___ stage 4, progressed on modified FOLFIRINOX, C1 
+Gemzar ___ received erlotinib. Dr ___ followed 
+through inpatient admission. Did not administer Gemcitabine 
+while inpatient. pt will follow up as outpatient for 
+Gemcitabine, dosing schedule per Dr. ___.
+___ consider every other week dosing given significant fatigue, 
+weigh benefits and AEs of chemo.
+Continued Ritalin and Ativan prn, continued creon 2 caps w/ 
+break, 2 w/ lunch, 1 w/ dinner, 0 w/ snacks
+
+# Gastric/Duodenal outlet obstruction
+# Protein Calorie Malnutrition. 
+Per recent discharge note, he is not a candidate for duodenal 
+stent given high likelihood of migration. He was started on TPN. 
+SHould continue to evaluate contribution of TPN to fluid 
+overload. TPN held during hospitalization for diuresis.
+
+# Thrombocytopenia
+This is most likely due to his hepatic disease and splenomegaly, 
+as well as chemo. However there was c/f HIT on recent admission 
+but ruled out. avoided hsq for now until further clarified w/ Dr 
+___. continued TEDS
+
+# Normocytic Anemia: due to inflammatory block from neoplasm and 
+antineoplastic therapy
+
+# Recent Klebsiella bacteremia: completed treatment course with 
+Zosyn on ___. 
+
+# T2DM: At home takes metformin w/ Glargine 10U w/ breakfast and 
+ISS. Here will hold and keep only on ISS. Of note, he also has 
+insulin in his TPN. 
+
+# HTN: held amlodipine (which can cause ___ and lisinopril in 
+favor of lasix and aldactone 
+# Heart murmur: chronic x ___ years per his report
+# BPH: cont tamsulosin bid. 
+
+TRANSITIONAL ISSUES
+==================================
+-home amlodipine 10 mg and lisinopril 5 mg daily held for BP 
+room as patient started on spironolactone 50 mg for increased 
+diuresis
+-Please F/U BP, Cr and next apt; d/c weight 158 lbs; presumed 
+dry weight 136 lbs, d/c creatinine 1.0
+-Patient advised to call PCP and oncologist regarding extreme 
+weight changes
+-Left message for ___ TPN center to try to concentrate home 
+TPN to help reduce fluid overload 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Amlodipine 10 mg PO DAILY 
+2. Creon ___ CAP PO TID W/MEALS 
+3. DULoxetine 30 mg PO DAILY 
+4. Lisinopril 5 mg PO DAILY 
+5. MethylPHENIDATE (Ritalin) 20 mg PO DAILY:PRN fatigue, 
+decreased concentration 
+6. MethylPHENIDATE (Ritalin) 20 mg PO QAM 
+7. Pyridoxine 50 mg PO DAILY 
+8. Simethicone 80 mg PO TID:PRN gas 
+9. LORazepam 0.5 mg PO Q6H:PRN nausea or sleep 
+10. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+11. Nystatin Oral Suspension 5 mL PO QID 
+12. Tamsulosin 0.4 mg PO BID 
+13. Furosemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Creon ___ CAP PO TID W/MEALS 
+2. DULoxetine 30 mg PO DAILY 
+3. LORazepam 0.5 mg PO Q6H:PRN nausea or sleep 
+4. MethylPHENIDATE (Ritalin) 20 mg PO DAILY:PRN fatigue, 
+decreased concentration 
+5. MethylPHENIDATE (Ritalin) 20 mg PO QAM 
+6. Nystatin Oral Suspension 5 mL PO QID 
+7. Pyridoxine 50 mg PO DAILY 
+8. Simethicone 80 mg PO TID:PRN gas 
+9. Tamsulosin 0.4 mg PO BID 
+10. Spironolactone 50 mg PO DAILY 
+RX *spironolactone [Aldactone] 50 mg 1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0
+11. Furosemide 20 mg PO DAILY 
+12. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+13. Erlotinib ___ mg PO DAILY 
+dosing per outpatient oncologist 
+14. Capecitabine 1000 mg PO BID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+pancreatic cancer
+malignant ascites
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital for continued leakage after 
+undergoing paracentesis. You had stitches placed to good effect 
+to stop the leaking. While in the hospital, you underwent 
+paracentesis with the interventional radiology team and your 
+diuretics were increased to add spironolactone 50mg daily  on 
+top of your furosemide 20 mg daily to prevent fluid from 
+accumulating. You are now safe for discharge home with close 
+follow up. 
+
+We left a message with out TPN team to adjust and concentrate 
+your home TPN. You should also follow up with Dr. ___ in 
+___. You will continue your chemotherapy at home as planned 
+until you get home delivery of xeldoa (1000 mg twice a day for 
+two weeks on, then one week off) and Tarceva. 
+
+It was  a pleasure caring for you - we wish you well!
+Sincerely, 
+Your ___ Oncology Team
+ 
+Followup Instructions:
+___

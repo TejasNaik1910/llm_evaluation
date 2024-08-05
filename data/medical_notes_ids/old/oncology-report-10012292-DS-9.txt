@@ -1,0 +1,300 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, cough, nausea 
+ 
+Major Surgical or Invasive Procedure:
+Dilation of esophageal stricture
+ 
+History of Present Illness:
+Per admission note:
+Ms ___ is a ___ w h/o medullary thyroid carcinoma (s/p 
+thyroidectomy and chemo-XRT in ___ w recurrences (neck and 
+lung nodules in ___, h/o PNAs/aspiration, who now p/w 
+fever/cough/nausea.  
+
+Pt was in her USOH until about 2 weeks ago, when she began 
+experiencing subjective fevers, chills, and cough w increased 
+white phlegm, while on a cruise on the ___. Also reports 
+occasional N/V. Given her prior h/o PNAs she had azithromycin w 
+her (prescribed by oncologist Dr ___, which she took for 10 
+days (last dose on ___. She arrived back to ___ one 
+day prior to admission. No obvious sick contacts. No abd pain, 
+regular BMs, no urinary sxs. No CP/SOB.  
+  
+In the ED, pt's vitals were 99.1, 137/80, 98, 22, 96% on RA. Pt 
+appeared cachectic, but no acute distress. Exam notable for 
+dense, coarse breath sounds at R-base. Labs w no leukocytosis, 
+but 85% PMNs. CXR showed new retrocardiac opacity. Given azithro 
+and ceftriaxone for CAP, tylenol for fever of 100.7. Admitted to 
+medicine for further treatment. Vital signs upon transfer: 
+133/82, 64, 16, 95%ra.  
+
+ 
+Past Medical History:
+Medullary thyroid Ca s/p thyroidectomy and XRT in ___ with 
+elevated calcitonin treated with monthly octreotide  
+Papillary thyroid Ca,  
+Esophageal strictures secondary to radiation s/p esophageal 
+balloon dilatations appx q3months,  
+PEG tube placement,  
+recurrent aspiration PNA,  
+heart murmur,  
+lactose intolerance,  
+IBS,  
+s/p TAH,  
+basal cell carcinoma face/arms,  
+varicose veins s/p stripping,  
+eye surgery for strabismus as a child,  
+osteopenia 
+
+ 
+Social History:
+___
+Family History:
+Her father had stomach cancer and died from this, mom had 
+leukemia and died from this brother had skin cancer and daughter 
+also had papillary thyroid cancer. 
+ 
+Physical Exam:
+On discharge:
+ 
+GEN: pleasant, chronically ill-appearing woman, sitting up doing 
+neb treatment.  
+HEENT: MMM, OP clear  
+NECK: post-radiation wasting/fibrosis  
+CV: RRR, normal S1S2, no M/R/G  
+CHEST: diffuse ronchi and upper airway sounds, no wheezing  
+ABD: soft, NT/ND, no HSM, +BS  
+EXTR: WWP, no edema, 2+ DP/rad pulses b/l  
+NEURO: AOx3, answers questions and follows directions 
+appropriately 
+
+ 
+Pertinent Results:
+Imaging:
+--------------
+Video swallowing study:
+1. Penetration without frank aspiration. 
+2. Upper esophageal stricture. 
+
+CT chest:
+Multifocal consolidation in the right lung with mucoid impaction 
+
+and associated nodularity suggests an infectious process. 
+Coexistent 
+metastatic disease cannot be assessed. Recommend repeat chest CT 
+after treatment has been completed. 
+Left apical pulmonary nodules which can be evaluated on the 
+followup chest CT. 
+Indeterminate sclerotic apparently new focus in the mid thoracic 
+vertebrae. Uncharacteristic for a papillary thyroid metastasis. 
+Recommend attention to this area on followup. 
+
+CXR:
+Likely left lower lobe pneumonia.
+
+Labs:
+----------------
+___ 6:50 pm Nasopharyngeal swab 
+   DIRECT INFLUENZA A ANTIGEN TEST (Final ___: 
+      Negative for Influenza A viral antigen. 
+   DIRECT INFLUENZA B ANTIGEN TEST (Final ___: 
+      NEGATIVE FOR INFLUENZA B VIRAL ANTIGEN. 
+   Rapid Respiratory Viral Antigen Test (Final ___: 
+      Respiratory viral antigens not detected. 
+   SPECIMEN SCREENED FOR: ADENO,PARAINFLUENZA 1,2,3 INFLUENZA 
+A,B AND RSV. Refer to respiratory viral culture for further 
+information. 
+   Respiratory Viral Culture (Pending):
+
+Blood cultures negative
+
+___ 03:20PM BLOOD WBC-7.9 RBC-4.28 Hgb-12.3 Hct-36.8 MCV-86 
+MCH-28.8 MCHC-33.5 RDW-13.8 Plt ___
+___ 06:15AM BLOOD WBC-6.2 RBC-3.90* Hgb-11.1* Hct-33.5* 
+MCV-86 MCH-28.4 MCHC-33.1 RDW-13.4 Plt ___
+___ 03:20PM BLOOD Neuts-85.5* Lymphs-8.9* Monos-4.0 Eos-1.2 
+Baso-0.4
+___ 06:15AM BLOOD ___ PTT-28.4 ___
+___ 06:15AM BLOOD Glucose-95 UreaN-7 Creat-0.6 Na-140 K-4.2 
+Cl-98 HCO3-33* AnGap-13
+___ 06:15AM BLOOD Calcium-8.2* Phos-3.5 Mg-2.0
+___ 06:05AM BLOOD Calcium-7.8* Phos-3.4 Mg-1.8
+___ 12:10PM BLOOD PTH-67*
+___ 03:26PM BLOOD Lactate-1.0
+___ 12:25PM BLOOD freeCa-1.04*
+
+Calcitonin and Vitamin D levels pending
+ 
+Brief Hospital Course:
+___ w h/o recurrent medullary thyroid carcinoma (s/p 
+thyroidectomy and chemo-XRT in ___, h/o PNAs/aspiration due to 
+radiation induced esophageal strictures, who now p/w cough and 
+nausea.  
+
+# Cough: Pt's pulmonary process was thought to be 
+multifactorial, concerning for recurrent aspiration pneumonia vs 
+CAP vs flu vs CHF. Pt was initially imaged with CXR and followed 
+up with CT scan which showed infectious process with mucous 
+plugging and no evidence of progressed malignancy causing 
+obstruction. Pt was ruled out for flu and increased cough when 
+supine was thought to be more due to aspiration than CHF given 
+no other clinical finding of fluid overload. Pt had failed 
+azithromycin x 10 days as an outpt and was started on 
+Ceftriaxone and Flagyl. Pt did not receive 2 doses of 
+Ceftriaxone for unclear reasons without the primary team being 
+notified and was quickly restarted once error identified. During 
+this time, pt was febrile and sympomatically hypotensive, 
+concerning for sepsis. She responded well to 500ml bolus of IVF 
+and blood cultures remained negative. Pt was also treated with 
+standing nebs, aggressive chest physical therapy and insentive 
+spirometry. On discharge, pt was switched to oral regimen for 
+another 12 days (Flagyl and Cefpodoxime) as well as prescribed 
+inhaler treatments given her symptomatic improvement to nebs. 
+
+Regarding pt's aspiration and swallowing ability, pt underwent 
+video swallow study which confirmed pt's ability to prevent 
+aspiration with a strong cough. She was given recommendations 
+for tactics to avoid aspiration and PEG tube not recommended. Pt 
+was also evaluated by the GI team and underwent repeat dilation 
+of esophageal strictures without complication.  
+
+# Thyroid cancer, s/p thyroidectomy and radiation: Pt with 
+recurrence in ___.  No evidence of malignancy flair 
+contributing to current presentation. She was continued on 
+levothyroxine and PET scan will be done as an outpt once 
+infectious is resolved.  
+CT finding of pulm nodules and vertebral abnormalities can also 
+be evaluated by repeat imaging once infection cleared.
+
+# Hypocalcemia: Pt found to be hypocalcemic to 7.8 with ionized 
+calcium 1.04. She was repleted with IV calcium as well as 
+increased oral calcium and vitamin D. The cause of hypocalcemia 
+was unclear. PTH 67, Vit D and Calcitonin pending at time of 
+dischrage. 
+
+# Goals of care: Pt expressed exhaustion and frustration with 
+ongoing illness and recurrent admissions. She was seen by social 
+work and given prn ativan for insomnia. 
+Pt's mood improved with resolving symptoms and dyspnea. She was 
+assured that there was no current indication for hospice 
+approach but that hospice would be discussed should there be any 
+change in her disease or prognosis. 
+
+ Pulm nodules and vertebral abnormalities to be evaluated by 
+repeat imaging once infection cleared.   
+
+ 
+Medications on Admission:
+HCTZ 12.5mg PO daily  
+Pentoxifylline 400mg PO BID (w VitE)  
+Levothyroxin 112mcg PO daily x 6 days, 168mcg PO on ___  
+Octreotide 20mg IM 1 inj qmonthly (next dose reportedly on ___ 
+ 
+Ca-VitD3 500mg-200unit 1 tab PO daily  
+VitD 2000units daily  
+VitE 400units BID  
+MVI 1 tab dialy  
+Lorazepam 0.5mg PO qhs:prn insomnia  
+Zolpidem 0.5mg PO qhs:prn insomnia  
+
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+2. Pentoxifylline 400 mg Tablet Sustained Release Sig: One (1) 
+Tablet Sustained Release PO BID (2 times a day).  
+3. Vitamin E 400 unit Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+4. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily): except ___ take 1.5tablets (168mcg).  
+5. Octreotide Acetate 20 mg Kit Sig: One (1) injection 
+Intramuscular once a month: next dose ___.  
+6. Calcium 500 500 mg (1,250 mg) Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO three times a day.
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+7. Vitamin D 2,000 unit Capsule Sig: One (1) Capsule PO once a 
+day.  
+8. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+9. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed for insomnia.
+Disp:*15 Tablet(s)* Refills:*0*
+10. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ puffs Inhalation every ___ hours as needed for shortness of 
+breath or wheezing.
+Disp:*qs aerosol inhaler* Refills:*0*
+11. Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO twice a day 
+for 12 days: last day ___.
+Disp:*24 Tablet(s)* Refills:*0*
+12. Flagyl 500 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours for 12 days: last day ___.
+Disp:*36 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Bacterial aspiration pneumonia
+Hypertension
+esophageal stricture
+Hypocalcemia
+
+Secondary:
+Metastatic Medullary Thyroid Cancer
+Malnutrition
+
+ 
+Discharge Condition:
+Stable, afebrile
+
+ 
+Discharge Instructions:
+You were admitted with fevers, cough and difficulty swallowing. 
+You were found to have a pneumonia which may have been caught in 
+the community or a consequence of aspiration while eating. You 
+were treated with IV antibiotics and transitioned to oral 
+antibiotics which you will need to complete at home. We made 
+sure that you had no viral infections such as flu. 
+
+To prevent further infection, you had a video swallowing study 
+done by the speech and swallow specialists, who were able to 
+provide you with some recommendations on appropriate foods and 
+tactics to avoid aspiration. Please crush all of your 
+medications and take with food. 
+
+You also were evaluated by Dr ___ team to see if there 
+is a dilatable stricture which is causing your current 
+aspiration and you were dilated again.
+
+We made the following changes to your medications:
+1) Complete another 12 days of antibiotics (Cefpodoxime twice 
+daily, and Flagyl three times daily)
+2) Increase your calcium intake to three times a day
+3) Start using inhalers for symptoms of shortness of breath or 
+wheezing
+
+Please call Dr ___ return to the hospital if you develop 
+shortness of breath, chest pain, palpitations, fever ___, 
+shaking chills, or any other concerning symptoms. 
+
+It was a pleasure taking care of you, we wish you the best and a 
+happy belated birthday!
+ 
+Followup Instructions:
+___

@@ -1,0 +1,126 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Blood tests",
+            "startOffset": 635,
+            "endOffset": 646,
+            "startWordIndex": 88,
+            "endWordIndex": 90,
+            "omittedDetails": "missing blood tests values"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "CAD",
+            "startOffset": 149,
+            "endOffset": 152,
+            "startWordIndex": 23,
+            "endWordIndex": 24,
+            "omittedDetails": "missing s/p multipple PCIS with stents"
+        },
+        {
+            "text": "DM",
+            "startOffset": 164,
+            "endOffset": 166,
+            "startWordIndex": 26,
+            "endWordIndex": 27,
+            "omittedDetails": "missing DM 2"
+        },
+        {
+            "text": "Parkinson's disease",
+            "startOffset": 168,
+            "endOffset": 187,
+            "startWordIndex": 27,
+            "endWordIndex": 30,
+            "omittedDetails": "missing with UE tremor"
+        },
+        {
+            "text": "History of",
+            "startOffset": 99,
+            "endOffset": 109,
+            "startWordIndex": 15,
+            "endWordIndex": 17,
+            "omittedDetails": "missing hip replacement with multiple dislocations, childhood hepatitis"
+        },
+        {
+            "text": "depressions",
+            "startOffset": 424,
+            "endOffset": 435,
+            "startWordIndex": 59,
+            "endWordIndex": 60,
+            "omittedDetails": "missing in V1-V4"
+        },
+        {
+            "text": "elevations",
+            "startOffset": 440,
+            "endOffset": 450,
+            "startWordIndex": 61,
+            "endWordIndex": 62,
+            "omittedDetails": "missing in I, II and III"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "chest pain",
+            "startOffset": 346,
+            "endOffset": 356,
+            "startWordIndex": 49,
+            "endWordIndex": 51,
+            "omittedDetails": "relieved by dilaudid"
+        },
+        {
+            "text": "heparin",
+            "startOffset": 573,
+            "endOffset": 580,
+            "startWordIndex": 81,
+            "endWordIndex": 82,
+            "omittedDetails": "missing IV"
+        },
+        {
+            "text": "aspirin, Plavix, metoprolol succinate",
+            "startOffset": 1215,
+            "endOffset": 1252,
+            "startWordIndex": 171,
+            "endWordIndex": 175,
+            "omittedDetails": "missing doses"
+        },
+        {
+            "text": "GI bleeding",
+            "startOffset": 1134,
+            "endOffset": 1145,
+            "startWordIndex": 159,
+            "endWordIndex": 161,
+            "omittedDetails": "missing treated with carafate enemas"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Patient",
+            "startOffset": 323,
+            "endOffset": 330,
+            "startWordIndex": 46,
+            "endWordIndex": 47,
+            "omittedDetails": "missing reporting epigastric burning pain with nausea"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "interpreted elevation of CK, troponin and lipase levels",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Followup": [],
+    "Incorrect Followup": [
+        {
+            "text": "cardiologist",
+            "startOffset": 1719,
+            "endOffset": 1731,
+            "startWordIndex": 226,
+            "endWordIndex": 227,
+            "omittedDetails": ""
+        }
+    ]
+}

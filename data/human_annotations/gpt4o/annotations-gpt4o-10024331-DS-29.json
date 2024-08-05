@@ -1,0 +1,138 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "interpreted gleason score",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted stable vitals",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Discharge",
+            "startOffset": 3287,
+            "endOffset": 3296,
+            "startWordIndex": 417,
+            "endWordIndex": 418,
+            "omittedDetails": "Bleeding improved (response)"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "gallstones",
+            "startOffset": 1297,
+            "endOffset": 1307,
+            "startWordIndex": 170,
+            "endWordIndex": 171,
+            "omittedDetails": "missing causing biliary obstruction, s/p ERCP and sphincterotomy"
+        },
+        {
+            "text": "radiation proctitis",
+            "startOffset": 1309,
+            "endOffset": 1328,
+            "startWordIndex": 171,
+            "endWordIndex": 173,
+            "omittedDetails": "misisng s/p argon laser treatment"
+        },
+        {
+            "text": "hip replacements",
+            "startOffset": 1343,
+            "endOffset": 1359,
+            "startWordIndex": 175,
+            "endWordIndex": 177,
+            "omittedDetails": "on Rx3 with subsequent disloactions "
+        },
+        {
+            "text": "History",
+            "startOffset": 385,
+            "endOffset": 392,
+            "startWordIndex": 38,
+            "endWordIndex": 39,
+            "omittedDetails": "In stent thrombosis history missing"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "deep vein thrombosis",
+            "startOffset": 1907,
+            "endOffset": 1927,
+            "startWordIndex": 249,
+            "endWordIndex": 252,
+            "omittedDetails": "missing in the left or right lower extremities"
+        },
+        {
+            "text": "UTI",
+            "startOffset": 857,
+            "endOffset": 860,
+            "startWordIndex": 112,
+            "endWordIndex": 113,
+            "omittedDetails": "E. Faecalis UTI"
+        },
+        {
+            "text": "Physical",
+            "startOffset": 1363,
+            "endOffset": 1371,
+            "startWordIndex": 177,
+            "endWordIndex": 178,
+            "omittedDetails": "Missing lower ex edema"
+        },
+        {
+            "text": "Hematuria",
+            "startOffset": 1968,
+            "endOffset": 1977,
+            "startWordIndex": 257,
+            "endWordIndex": 258,
+            "omittedDetails": "cytology missing"
+        },
+        {
+            "text": "Lower Extremity Swelling:",
+            "startOffset": 2209,
+            "endOffset": 2234,
+            "startWordIndex": 290,
+            "endWordIndex": 293,
+            "omittedDetails": "Missed ultrasound"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "metoprolol",
+            "startOffset": 2526,
+            "endOffset": 2536,
+            "startWordIndex": 337,
+            "endWordIndex": 338,
+            "omittedDetails": "missing metoprolol tartrate while in patient 12.5 mg BID"
+        },
+        {
+            "text": "amiodarone",
+            "startOffset": 2541,
+            "endOffset": 2551,
+            "startWordIndex": 339,
+            "endWordIndex": 340,
+            "omittedDetails": "missing 200 mg daily"
+        },
+        {
+            "text": "was taking Plavix, aspirin, and warfarin",
+            "startOffset": 866,
+            "endOffset": 906,
+            "startWordIndex": 114,
+            "endWordIndex": 120,
+            "omittedDetails": "PCP Suggested to remain taking these medicartions"
+        },
+        {
+            "text": "Parkinson's Disease",
+            "startOffset": 2558,
+            "endOffset": 2577,
+            "startWordIndex": 341,
+            "endWordIndex": 344,
+            "omittedDetails": "Missed stopped carbidopa-levo "
+        }
+    ]
+}

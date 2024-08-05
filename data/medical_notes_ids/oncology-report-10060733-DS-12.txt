@@ -1,0 +1,254 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Painless Jaundice
+ 
+Major Surgical or Invasive Procedure:
+___ -- ERCP
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with h/o diabetes, HLD, HTN, bladder and
+prostate cancer s/p prostatectomy and cystectomy in ___
+with urostomy, who developed painless jaundice over one week. He
+was found to have elevated LFTs and D-bili at ___
+without obvious source of obstruction and was transferred to
+___. 
+
+Patient presented to his primary care physician for asymptomatic
+jaundice approx. 1 week ago. An abdominal CT was obtained and
+showed a gallbladder that was mildly distended without bile duct
+dilation in the liver and lymphadenopathy within the
+retroperitoneum concerning for recurrent bladder cancer below 
+the
+diaphragm. A Chest CT was normal. Jaundice persisted and he had
+repeat labs drawn 3 days ago, notable for CO2 of 14, bilirubin 
+of
+9.8, direct bilirubin of 6.3, alk phos of 1100, AST 145, ALT 
+261.
+He represented to ___ yesterday with persistant 
+lab
+abnormalities and a RUQUS showed extra and intra hepatic duct
+dilation without obvious source of obstruction. He was
+transferred to ___ for further eval. He denies abdominal pain,
+fever, diarrhea, nausea, vomiting, decrease in appetite,
+pruritus. Reports he has been losing weight and nausea. Denies
+any history of jaundice or liver disease previously. 
+
+In the ED, initial VS were: 97.1 82 111/70 16 99% RA 
+Labs showed: T bili 10.9, D bili 9.0, ALT 238 AP 1346, AST 187,
+Cr 1.9
+Received:
+___ 00:59 PO/NG Cephalexin 500 mg 
+___ 00:59 PO/NG Ciprofloxacin HCl 500 mg 
+Transfer VS were: 98.0 88 113/60 16 99% RA 
+
+On arrival to the floor, patient reports continuing to have
+completely asymptomatic jaundice. No pain or fevers. He does 
+note
+he was diagnosed with a UTI several days and started on
+cephalexin and ciprofloxacin on the ___ and ___. No other 
+acute
+complaints. 
+ 
+Past Medical History:
+Bladder cancer s/p Cystectomy in ___ with urostomy
+ - Follows with Dr. ___ in ___ on ___
+T2DM, diet controlled
+HLD
+HTN
+Prostate cancer s/p Prostatectomy in ___
+ 
+Social History:
+___
+Family History:
+Mother - lung ___
+Father - DM, cardiac problems
+ 
+Physical Exam:
+ADMISSION EXAM
+======================
+VS:  97.4 116/77 81 18 98 Ra 
+GENERAL: Adult male in NAD  
+HEENT: AT/NC, MMM, jaundiced
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, urostomy in place without discharge or 
+drainage
+
+DISCHARGE EXAM
+=======================
+Vitals:  97.7, HR 85, 128/85, RR 18, 99% RA   
+General: Alert, oriented, no acute distress, pleasant 
+HEENT: Sclerae icteric, Oropharynx jaundiced 
+Neck: suppl  
+Lungs: CTAB
+CV: RRR  
+Abdomen: soft, nontender, nondistended
+Ext: warm, no edema
+Neuro: answers questions appropriately
+Skin:  mild jaundice
+
+ 
+Pertinent Results:
+LABS ON ADMISSION
+==========================
+___ 11:42PM BLOOD WBC-5.1 RBC-4.70 Hgb-12.5* Hct-37.0* 
+MCV-79* MCH-26.6 MCHC-33.8 RDW-18.6* RDWSD-52.3* Plt ___
+___ 11:42PM BLOOD Neuts-64.6 Lymphs-15.4* Monos-8.9 
+Eos-8.9* Baso-1.2* Im ___ AbsNeut-3.27 AbsLymp-0.78* 
+AbsMono-0.45 AbsEos-0.45 AbsBaso-0.06
+___ 11:42PM BLOOD Glucose-168* UreaN-27* Creat-1.9* Na-133 
+K-3.6 Cl-100 HCO3-16* AnGap-17*
+___ 11:42PM BLOOD ALT-238* AST-187* AlkPhos-1346* 
+TotBili-10.9* DirBili-9.0* IndBili-1.9
+___ 11:42PM BLOOD Albumin-3.6 Calcium-9.0 Phos-3.1 Mg-2.3
+___ 09:30AM BLOOD %HbA1c-6.4* eAG-137*
+___ 09:30AM BLOOD calTIBC-289 Ferritn-360 TRF-222
+
+OTHER LABS
+==========================
+___ 06:00AM BLOOD CEA-11.8* (NORMAL ___
+
+DISCHARGE LABS
+==========================
+___ 06:00AM BLOOD WBC-5.6 RBC-4.15* Hgb-10.9* Hct-32.8* 
+MCV-79* MCH-26.3 MCHC-33.2 RDW-19.1* RDWSD-54.2* Plt ___
+___ 06:00AM BLOOD Glucose-175* UreaN-31* Creat-2.0* Na-136 
+K-3.8 Cl-106 HCO3-16* AnGap-14
+___ 06:00AM BLOOD ALT-157* AST-81* AlkPhos-1012* 
+TotBili-4.3* DirBili-2.8* IndBili-1.5
+___ 06:00AM BLOOD Calcium-8.2* Phos-2.9 Mg-2.1
+
+REPORTS
+==========================
+RUQUS at ___
+Right upper quadrant ultrasound showed moderate intrahepatic and
+extrahepatic biliary ductal dilation with cause not identified.
+Further evaluation with CT or MRI/MRCP recommended. Distended
+gallbladder containing small amount of sludge. No definite
+sonographic evidence of acute cholecystitis
+
+MRCP ___. 3.0 x 2.6 cm ill-defined mass-like region of hypointense 
+signal on T1 weighted imaging and hypoenhancement in the 
+pancreatic head with restricted diffusion.  Findings could 
+reflect lymphoma, especially in the setting extensive 
+retroperitoneal lymphadenopathy, or an inflammatory process such 
+as autoimmune pancreatitis.  Metastatic disease or primary 
+pancreatic malignancy are also considerations but the latter is 
+less likely given the absence of upstream pancreatic ductal 
+dilatation.  Correlate with biopsy/cytology.  Depending on the 
+results, short-term imaging follow-up may be helpful. 
+2. Extensive retroperitoneal adenopathy, differentials include 
+metastatic disease versus lymphoma. 
+3. Common bile duct stent in place.  Enhancement of the biliary 
+duct and pneumobilia, likely reflect post procedural change. 
+4. 6 mm pancreatic cystic lesion, likely a side-branch IPMN. 
+5. Pancreas divisum. 
+
+ERCP ___
+A single stricture that was 15 mm long was seen at the lower 
+third of the common bile duct. There was moderate 
+post-obstructive dilation.
+A sphincterotomy was performed in the 12 o'clock position using 
+a sphincterotome over an existing guidewire.
+Cytology samples were obtained using a brush in the lower third 
+of the common bile duct.
+A 8cm by ___ ___ biliary stent was placed successfully 
+in the main duct.
+ 
+Brief Hospital Course:
+___ year-old man with a history of bladder cancer with urostomy 
+who presents with acute onset of painless jaundice. CT at OSH 
+showed retroperitoneal lymphadenopathy.
+
+An ERCP was performed on ___ and a stent was placed. Brushings 
+were taken from the bile duct. The bilirubin downtrended after 
+stent was placed. An MRCP was performed, which showed a mass in 
+the head of the pancreas.
+
+OTHER PROBLEMS
+============================
+# RP Lymph Nodes:  Concern for malignancy.  Ongoing discussion 
+and workup as outpatient, consider LN Biopsy as outpatient
+
+# Microcytic anemia: Continue home iron
+
+# CKD:  Renal function at baseline and did not improve with IV 
+fluid
+  
+# Metabolic acidosis:  Likely due to CKD
+ 
+# T2DM:  A1C 6.4%.  Diet controlled.
+
+# Recent UTI:  No growth on urine culture on admission.  
+Antibiotics were stopped.
+
+TRANSITIONAL ISSUES
+=============================
+- Pt to be discussed at ___ pancreatic conference 
+during the evening of ___.  He will be contacted with the f/u 
+plan re: the pancreatic mass and painless jaundice
+- F/u cytology as outpatient, pending on discharge
+- F/u CA ___ as outpatient, pending on discharge
+- Consider RP Lymph Node Biopsy as outpatient
+- Repeat ERCP in 1 month for assessment of biliary tree and 
+stent removal.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ferrous Sulfate 325 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Cephalexin 500 mg PO Q12H 
+4. Ciprofloxacin HCl 500 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Ferrous Sulfate 325 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Obstructive jaundice d/t pancreatic head mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with jaundice (yellow skin), in the setting of 
+having known enlarged lymph nodes. You had an ERCP, a procedure 
+that evaluates your bile ducts. It showed that you had a 
+blockage, and a stent was placed to drain your bile. After the 
+stent was placed, your bilirubin (the chemical that makes your 
+skin yellow) dramatically decreased. You also had an MRI 
+performed, which showed a mass in the head of the pancreas, 
+likely the cause of the obstruction. During the ERCP, samples of 
+the cells in the bile ducts were taken to see if they are 
+cancerous, and what type of cancer they might be (cytology). You 
+will get a phone call about this within 10 days. If you do not 
+hear from anyone in 10 days, please call me at ___.
+ 
+Followup Instructions:
+___

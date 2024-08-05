@@ -1,0 +1,76 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary concludes that proBNP is \"Elevated\" without any evidence in the patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary concludes that hemoglobin is \"low\" without any evidence from the patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Cardiac enzymes and renal function results are mentioned as \"Normal\" with no evidence from patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary concludes that admission vital signs are \"Normal\" with no evidence from the medical record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The Summary concludes that the Discharge vital signs are \"Stable\" without any evidence from the medical record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "vital signs,",
+            "startOffset": 2056,
+            "endOffset": 2068,
+            "startWordIndex": 265,
+            "endWordIndex": 267,
+            "omittedDetails": "The details of the physical exams on admission are omitted"
+        },
+        {
+            "text": "vital signs",
+            "startOffset": 2156,
+            "endOffset": 2167,
+            "startWordIndex": 279,
+            "endWordIndex": 281,
+            "omittedDetails": "Some of the discharge vital signs are omitted."
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Oxycodone",
+            "startOffset": 3021,
+            "endOffset": 3030,
+            "startWordIndex": 406,
+            "endWordIndex": 407,
+            "omittedDetails": "The dose of this medication is omitted."
+        },
+        {
+            "text": "warfarin and colchicine",
+            "startOffset": 3635,
+            "endOffset": 3658,
+            "startWordIndex": 489,
+            "endWordIndex": 492,
+            "omittedDetails": "The concentration of this two medications are omitted."
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+ 
+Name:  ___.                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea on Exertion
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy (___)
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old gentleman with AML s/p BMTallo 
+(d+258) with a course complicated by mild GVHD of the skin and 
+male breast cancer s/p mastectomy (___) who presents with 
+dyspnea on exertion X 1 week and diffuse bilateral pulmonary 
+opacities on imaging, concerning for organizing pneumonia versus 
+an atypical infection. 
+
+Mr. ___ reports that he was feeling well until one week prior 
+to this admission when he woke up during the night with a 
+feeling of tightness in his chest. This passed but he 
+subsequently has had a daily feeling of crackles or rattling in 
+his lungs when he breathes in the early morning. This weekend, 
+he was playing tennis and felt short of breath while running. He 
+attributed this to deconditioning but reports he continued to 
+feel mildly dyspneic on exertion and thus decided to present to 
+his outpatient oncologist. 
+
+A review of systems was notable for fatigue, dyspnea on exertion 
+and mild irritation with deep inspiration. He denies fever, 
+chills, chest pain, N/V/D and dysuria.
+
+ 
+Past Medical History:
+AML, Intermediate risk (normal cytogenetics, FLT3/NPM1 neg, 
+diagnosed in ___. Enrolled in ___ 2906, received indection 
+with 7+3 with ___, consolidation with midAC x 1. MRD AlloSCT 
+with reduced intensity flu/bu on ECOG 2906, d0 ___. 
+Received 4.62 x 10^6 CD34+/kg cells.
+Male Breast Cancer s/p Mastectomy (___)
+Aspergillosis (___)
+Prostatitis (___) 
+Seizure vs. Syncope (___) - Holter/MRI/MRA/EEG all negative
+Lyme Disease (___)
+ 
+Social History:
+___
+Family History:
+Mr. ___ has one brother with history of stroke. His father 
+died of lung cancer at age ___. His mother died at age ___.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+GEN: well-appearing man in no acute distress, pleasant and 
+interactive, lying in bed
+HEENT: anicteric, EOMI
+CARDIO: regular rate and rhythm, no murmurs, rubs or gallops
+PULM: mild coarsing of breath sounds at the L base, no wheezes
+ABD: non-tender, non-distended, normoactive bowel sounds, no 
+rebound tenderness or guarding
+EXT: no ___ edema
+SKIN: mild facial erythema in the malar distribution
+NEURO: CN II-VII grossly intact
+
+DISCHARGE PHYSICAL EXAM
+VS: 98.6 104/60 70 18 93% RA  
+GEN: no acute distress, lying in bed
+HEENT: anicteric, EOMI
+CARDIO: RRR, no m/r/g
+PULM: clear to auscultation bilaterally
+ABD: soft, non-tender, non-distended, normoactive bowel sounds, 
+no rebound tenderness or guarding
+EXT: no ___ edema or ulcers
+NEURO: CN II-VII grossly intact
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 10:00PM   WBC-8.4 RBC-3.83* HGB-13.3* HCT-38.8* 
+MCV-101* MCH-34.8* MCHC-34.4 RDW-12.6
+___ 10:00PM   NEUTS-66.8 LYMPHS-11.1* MONOS-10.3 EOS-11.2* 
+BASOS-0.6
+___ 10:00PM   PLT COUNT-296
+___ 10:00PM   ___ PTT-27.4 ___
+___ 10:40AM   UREA N-15 CREAT-1.0 SODIUM-139 POTASSIUM-3.6 
+CHLORIDE-102 TOTAL CO2-29 ANION GAP-12
+___ 10:40AM   ALT(SGPT)-176* AST(SGOT)-98* ALK PHOS-302* 
+TOT BILI-0.5
+
+SIGNIFICANT LABS
+HAV AB - NEGATIVE
+HBS AB - NEGATIVE
+HCV AB - NEGATIVE
+___ - NEGATIVE
+ANTI-SMOOTH MUSCLE - NEGATIVE
+GALACTOMANNAN - NEGATIVE
+B-GLUCAN - NEGATIVE
+
+DISCHARGE LABS
+WBC 8.4 RBC 3.88 HB 13.3 HCT 40.2 PLT 290
+NA 136 K 4.9 CL 101 HCO3 30 BUN 11 CR 0.9 GLUCOSE 122 
+ALT 101 AST 43 LDH 174 ALK PHOS 264 TBILI 0.5 
+
+BAL RESULT
+___ 4:00 pm BRONCHOALVEOLAR LAVAGE
+RVA & RVC ADDED ON ___ PER FAX. 
+
+GRAM STAIN (Final ___: 
+NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+NO MICROORGANISMS SEEN. 
+RESPIRATORY CULTURE (Final ___: 
+10,000-100,000 ORGANISMS/ML. Commensal Respiratory Flora. 
+ACID FAST SMEAR (Final ___: 
+NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+ACID FAST CULTURE (Preliminary): 
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+WORK-UP REQUESTED BY ___ (___) ON ___. 
+This is a low yield procedure based on our in-house studies. 
+NO FUNGAL ELEMENTS SEEN. 
+
+Respiratory Viral Antigen Screen (Final ___: 
+Less than 60 columnar epithelial cells;. 
+Specimen inadequate for detecting respiratory viral infection by 
+___ testing. Interpret all negative results from this specimen 
+with caution. 
+Negative results should not be used to discontinue precautions. 
+Refer to respiratory viral culture for further information. 
+Reported to and read back by ___. ___ 11:59AM 
+___. 
+Respiratory Viral Culture (Pending): 
+
+BRONCHOSCOPY TISSUE RESULT
+___ 4:10 pm TISSUE LUL TRANSBOCHIAL. 
+GRAM STAIN (Final ___: 
+NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+NO MICROORGANISMS SEEN. 
+TISSUE (Preliminary):    NO GROWTH. 
+ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+ACID FAST SMEAR (Final ___: 
+NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+ACID FAST CULTURE (Preliminary): 
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+NO FUNGAL ELEMENTS SEEN. 
+
+RUQ ULTRASOUND
+FINDINGS:  
+The liver echotexture is normal. No concerning hepatic mass is 
+detected. The main portal vein is patent, demonstrating proper 
+hepatopetal flow. There is no intrahepatic bile duct dilation. 
+The gallbladder is normal. The CBD is normal in caliber, 
+measuring 3 mm. 
+  
+The pancreas is normal. There is no ascites. Included views of 
+the IVC and aorta are within normal limits. The right and left 
+kidneys measure 11.3 and 9.3 cm, respectively, without stone, 
+mass, or hydronephrosis. The spleen is not enlarged, measuring 
+10.5 cm. 
+  
+IMPRESSION:  
+Normal ultrasound appearance of the liver, gallbladder, and 
+spleen. 
+
+CXR ON ___
+IMPRESSION: 
+Heart size and mediastinum are stable. Multifocal mainly mid and 
+lower lobe opacities are present on both PA and lateral view, 
+with some peripheral and basal for disposition. There is no 
+appreciable pleural effusion. There is no pneumothorax. 
+  
+The findings although potentially representing infectious 
+process, can 
+represent other etiologies for example cryptogenic organizing 
+pneumonia or drug reaction. Giving the patient history, further 
+assessment with chest CT is required. There is no pneumothorax. 
+There is no evidence of pulmonary edema 
+
+CHEST CT ON ___
+IMPRESSION:  
+Diffuse bilateral pulmonary opacities predominantly in the lower 
+lobes and at the periphery of the lungs, which may be seen with 
+multifocal infection, such as a viral infection. In the setting 
+of allogeneic bone marrow transplant and minimal patient 
+symptoms, cryptogenic organizing pneumonia, a diagnosis of 
+exclusion, may be most likely in this situation. 
+  
+
+ 
+Brief Hospital Course:
+#SHORTNESS OF BREATH: Mr. ___ presented with dyspnea on 
+exertion and findings on a CT of the Chest notable for diffuse 
+bilateral opacities. Based on the imaging findings and his 
+clinical status, the leading differential under consideration 
+includes aspergillosis versus an organizing pneumonia, though 
+atypical infectious etiologies such as a viral PNA or PCP are 
+also being considered. Of note, he had discontinued prophylaxis 
+with voriconazole about 3 weeks prior to this admission due to a 
+transaminitis. He remained afebrile throughout the admission 
+with an ambulatory oxygen saturation of 94%. He underwent a 
+bronchoscopy on ___. Due to concern for aspergillosis as 
+the cause of his symptoms, an ID Consult was requested. The 
+patient had to leave the hospital before the ID recommendations 
+could be finalized but their preliminary recommendation was that 
+the patient be discharged on voriconazole 450 q12hrs X 1 day 
+followed by 350mg q12hrs. They recommended this or another 
+acceptable treatment for aspergillosis be continued until there 
+is evidence of response or an alterative diagnosis had been 
+identified. The biopsy results from his bronchoscopy were 
+pending at the time of discharge. The Interventional Pulmonary 
+Team recommended that Mr. ___ remain on lifelong prophylaxis 
+for aspergillosis regardless of his final diagnosis.
+
+#TRANSAMINITIS: Mr. ___ has had a transaminitis of uncertain 
+etiology with an ALT and AST on this admission of 176 and 98, 
+respectively. The differential for this problem may include GVHD 
+of the liver, drug toxicity second to voriconazole or other 
+biliary etiologies. Hepatology was consulted and recommended an 
+abdominal ultrasound that showed a normal liver, gallbladder and 
+spleen. Iron studies, Hepatitis labs and several Rheumatologic 
+labs were ordered on their team's recommendation. Transaminitis 
+downtrended without any intervention and on the day of discharge 
+ALT was 101, AST was 43 and Alk Phos was 264. The plan was for 
+Mr. ___ to follow-up on this problem in the outpatient 
+___ clinic.
+
+#MALE BREAST CANCER: Mr. ___ has male breast cancer ___ s/p 
+mastectomy with a plan for tamoxifen. This was not started 
+during his admission due to transaminitis.
+
+#AML s/p alloBMT (day+261): Mr. ___ is s/p a matched related 
+donor alloBMT for AML. While inpatient his Tacrolimus was 
+continued at 0.5mg twice weekly (M/Th).  Acyclovir prophylaxis 
+was also continued at 400mg q8hrs.
+
+TRANSITIONAL ISSUES:
+- Please follow-up bronchoscopy results including final BAL ___, 
+galactomannan and Respiratory Viral Antigen Panel as well as 
+final pulm tissue pathology
+- Follow-up with ___ regarding appropriate 
+- Plan to follow-up with Pulmonary regarding final results and 
+treatment planning
+- Plan to follow-up with Hepatology for further work-up of 
+Transaminitis
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acyclovir 400 mg PO Q8H 
+2. FoLIC Acid 1 mg PO DAILY 
+3. Tamoxifen Citrate 20 mg PO DAILY 
+4. Tacrolimus 0.5 mg PO 2X/WEEK (MO,TH) 
+
+ 
+Discharge Medications:
+1. Acyclovir 400 mg PO Q8H 
+2. FoLIC Acid 1 mg PO DAILY 
+3. Tacrolimus 0.5 mg PO 2X/WEEK (MO,TH) 
+4. Voriconazole 350 mg PO Q12H 
+Start after 450mg doses are completed. 
+RX *voriconazole 50 mg 7 tablet(s) by mouth every 12 hours Disp 
+#*196 Tablet Refills:*0
+5. Voriconazole 450 mg PO Q12H Duration: 1 Day 
+RX *voriconazole 50 mg 9 tablet(s) by mouth every 12 hours Disp 
+#*18 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Dyspnea
+Secondary Diagnosis: Transaminitis
+Secondary Diagnosis: Male Breast Cancer
+Secondary Diagnosis: AML s/p Allogeneic Transplant
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a privilege caring for you at ___. You came into the 
+hospital because of shortness of breath while exercising. We did 
+a procedure to biopsy your lung during your admission and were 
+still awaiting the final results of this test at the time of 
+your discharge.
+
+You will continue follow-up with your oncologist and with a 
+pulmonologist for the results of your biopsy and subsequent 
+treatment.
+
+All the Best!
+
+Your ___ Team.
+
+ 
+Followup Instructions:
+___

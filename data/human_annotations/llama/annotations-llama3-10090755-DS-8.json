@@ -1,0 +1,57 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "HCC",
+            "startOffset": 110,
+            "endOffset": 113,
+            "startWordIndex": 15,
+            "endWordIndex": 16,
+            "omittedDetails": "tumor infiltrated the diaphragmatic muscle. (missing under HPI)"
+        },
+        {
+            "text": "CT-guided",
+            "startOffset": 1018,
+            "endOffset": 1027,
+            "startWordIndex": 126,
+            "endWordIndex": 128,
+            "omittedDetails": "lymphocytic exudative effusion. (missing under HPI)"
+        },
+        {
+            "text": "Surgical ",
+            "startOffset": 907,
+            "endOffset": 916,
+            "startWordIndex": 115,
+            "endWordIndex": 116,
+            "omittedDetails": "surgery was complicated by transient hypotension and blood loss. (missing under hospital course)"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Diagnostic",
+            "startOffset": 679,
+            "endOffset": 689,
+            "startWordIndex": 83,
+            "endWordIndex": 84,
+            "omittedDetails": "TB rule out."
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Prescribed",
+            "startOffset": 446,
+            "endOffset": 456,
+            "startWordIndex": 63,
+            "endWordIndex": 64,
+            "omittedDetails": "Glucerna shakes supplement and mirtazapine to assist with appetite."
+        },
+        {
+            "text": "Medications",
+            "startOffset": 457,
+            "endOffset": 468,
+            "startWordIndex": 64,
+            "endWordIndex": 65,
+            "omittedDetails": "all doses are missing."
+        }
+    ],
+    "Omitted Followup": []
+}

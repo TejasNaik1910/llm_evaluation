@@ -1,0 +1,361 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy ___
+Percutaneous cholecystostomy tube placement ___
+
+ 
+History of Present Illness:
+___ yo M, ___ dialect) speaking, w/ hx of HBV/HCV 
+cirrhosis (c/b portal HTN, no varices; c/b HCC s/p resection 
+___, HTN presenting with BRBPR.  
+
+He was admitted last week ___ an incidental 
+finding of acute cholecystitis found on an MRI that was 
+performed to assess for HCC recurrence. He was treated 
+non-operatively with abx (unasyn -> cipro/flagyl); discharged 
+___ to complete 14 day course.  
+
+He now re-presents with 2 days of bright red blood per rectum. 
+History is obtained from the patient's son via an interpreter. 
+The patient's son reports that he has been newly passing bright 
+red blood mixed with stool. He estimates the quantity at ___ 
+tbsp per episode. He has not had any melena, and further denies 
+abdominal or rectal pain. His son was concerned because this 
+reminded him of a prior episode in which his father had bloody 
+emesis; however, he denies that his father has had any emesis 
+since discharge. ROS further negative for fever/chills, nausea, 
+diarrhea.  
+
+ED COURSE:  
+- VS 97.9; HR 63-68; BP 97/67-122/71; RR 18; 99% on RA  
+- Initial exam: well-appearing, minimal epigastric tenderness, 
+guiac positive stool in vault  
+
+On admission to the floor he is well-appearing, in no distress, 
+and has not yet had a bowel movement.  
+ 
+Past Medical History:
+HBV, HCV, h/o hepatitis E infection
+HCC (presumed) s/p resection in ___
+Cirrhosis c/b UGIB ___ (EGD: portal hypertensive gastropathy,
+no varices)
+HTN
+HLD
+GERD
+Hearing loss
+Resection of HCC (segment V/VI) in ___ ___
+ 
+Social History:
+___
+Family History:
+No liver disease, problems with bleeding or anesthesia.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=
+=
+================================================================
+VS - 97.3; 119/71; 63; 18; 96% on RA (beta blocked)  
+Gen - very pleasant elderly M in no distress; lying comfortably 
+in bed with his home blankets; ___ speaking; hard of 
+hearing  
+HEENT - anicteric, PERRL, MMM, upper dentures; erythema in the 
+posterior oropharynx  
+Cor - regular, no MRG  
+Pulm - comfortable on room air; clear throughout  
+Abd - soft, normoactive bowel sounds, non-tender throughout  
+Rectal - deferred, guiac positive in ED, known hemorrhoids  
+Extrem - warm, no edema  
+Neuro - no asterixis  
+
+DISCHARGE PHYSICAL EXAM:
+=
+=
+=
+================================================================
+Vitals - T 97.7  120/78  51  18  99%RA, PTBD output 100 cc 
+overnight
+General - Lying in bed in NAD, speaking with interpreter in 
+___
+HEENT - Conjunctiva clear/sclera anicteric, EOMI, MMM. 
+Heart - S1/S2 no m/r/g.
+Pulm - CTAB, normal respiratory effort
+___ - Soft, no tenderness in RUQ, negative ___ sign, 
+nondistended, normoactive bowel sounds, no peritoneal signs or 
+palpable organomegaly, PTBD in place, draining thick sanguineous 
+fluid 
+Extr - warm, no edema  
+Neuro - A/Ox3, awake/appropriate, no asterixis 
+Skin - non-jaundiced, no spider angiomata or distension of 
+abdominal wall vessels 
+ 
+Pertinent Results:
+ADMISSION LABS:
+=
+================================================================
+___ 06:24PM BLOOD WBC-10.0 RBC-4.39* Hgb-15.0 Hct-43.0 
+MCV-98 MCH-34.1* MCHC-34.8 RDW-13.6 Plt ___
+___ 06:24PM BLOOD Neuts-73.8* ___ Monos-6.3 Eos-1.4 
+Baso-0.3
+___ 06:24PM BLOOD ___ PTT-41.7* ___
+___ 06:24PM BLOOD Glucose-113* UreaN-12 Creat-0.9 Na-134 
+K-4.1 Cl-101 HCO3-24 AnGap-13
+___ 06:24PM BLOOD ALT-40 AST-61* AlkPhos-115 TotBili-0.7
+___ 06:24PM BLOOD Albumin-3.4*
+___ 06:40AM BLOOD Albumin-3.0* Calcium-8.2* Phos-2.7 Mg-2.1
+___ 06:26PM BLOOD Lactate-2.1*
+
+INTERVAL STUDIES & IMAGING:
+=
+================================================================
+___ ECG
+Sinus rhythm. Respiratory variation in QRS morphology. Compared 
+to the 
+previous tracing of ___ the rate is slower. Computed QRS 
+duration is 
+slightly narrower. Q waves are no longer seen in leads III and 
+aVF arguing against prior myocardial infarction. Previously 
+described non-specific repolarization abnormalities have 
+improved with taller T wave amplitudes throughout.  
+
+___ COLONOSCOPY
+Findings:  
+ Protruding Lesions A circumferential mildly bleeding 5 cm mass 
+was found in the sigmoid colon at around 25cm. The scope could 
+not traverse the lesion and the examination was interrupted. 
+Cold forceps biopsies were performed for histology at the 
+sigmoid mass.  
+Impression: Mass in the sigmoid colon (biopsy)
+Otherwise normal colonoscopy to sigmoid colon 
+Recommendations: - Differential diagnosis includes neoplastic, 
+ischemic, or inflammatory process which explains patient's 
+hematochezia. Most likely and concerning diagnosis is 
+malignancy. 
+- Recommend CT torso and CEA for staging
+- Pathology results will be rushed and patient informed as soon 
+as they become available
+- Follow-up with inpatient Liver team 
+
+___ CT ABDOMEN + PELVIS
+1. Interval development of a lobulated fluid collection inferior 
+to the inflamed gallbladder consistent with perforated 
+cholecystitis, with gallstones layering within the collection. 
+2. Approximately 2.5-3 cm partly circumferential mass in the 
+sigmoid colon consistent with the reported malignancy. Lymph 
+nodes in the adjacent mesocolon do not meet CT criteria for 
+pathologic enlargement and mesenteric stranding is nonspecific. 
+No definite evidence of metastatic disease in the abdomen or 
+pelvis. 
+3. Re- demonstration of 1.5 cm lesion in hepatic segment 7, 
+better depicted on previous MRI, but with probable observation 
+of washout on today's study. This remains suspicious for ___ 
+although today's examination does not meet criteria to assess 
+OPTN features. 
+4. 7 mm nodularity of the right adrenal gland, which might 
+represent a tiny adenoma, is stable. Nonenhancing possible 
+chronic hematoma inferior to the right adrenal gland is also 
+stable. 
+5. Stranding along the inferior mesenteric artery distribution. 
+Given thickwalled appearance of the inferior mesenteric artery, 
+superimposed vasculitis is not excluded. 
+
+___ CT CHEST
+1. Moderate to severe centrilobular and paraseptal emphysema. No 
+metastatic lesions within the lungs. 
+
+MICROBIOLOGY
+=
+================================================================
+___ 12:00 pm FLUID,OTHER     Site: GALLBLADDER
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+DISCHARGE LABS:
+=
+================================================================
+___ 06:45AM BLOOD WBC-7.1 RBC-4.06* Hgb-13.7* Hct-40.9 
+MCV-101* MCH-33.6* MCHC-33.4 RDW-13.7 Plt ___
+___ 06:45AM BLOOD Glucose-95 UreaN-9 Creat-1.1 Na-136 K-4.0 
+Cl-103 HCO3-27 AnGap-10
+___ 06:45AM BLOOD Calcium-8.6 Phos-3.2 Mg-2.0
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M, ___ 
+speaking, with history of HBV/HCV cirrhosis (c/b grade 1 
+esophageal varices, and ___ s/p resection ___, now presenting 
+with painless BRBPR. 
+
+Active issues. 
+# Ruptured gallbladder: The patient presented for a recent 
+hospitalization (___) where he was found to have 
+cholecystitis. He was managed medically with a 14 day course of 
+ciprofloxacin and metronidazole. While in house for this current 
+admission (CC: ___, he underwent colonscopy, where he was 
+discovered to have a sigmoid mass. He underwent CT imaging of 
+the torso for staging, given his new sigmoid adenocarcinoma, and 
+was incidentally found to have a perforated gallbladder (see 
+IMAGING reports above). He complained of ___ pain in the RUQ 
+and remained hemodynamically stable, with a rather benign 
+abdominal exam, and afebrile. He is s/p PTBD on ___, with 
+tube in place, draining well. The patient will retain the PTBD 
+for decompression and plan for an interval cholecystectomy with 
+Dr. ___. Continue ciprofloxacin 500mg BID, Flagyl 500mg q8h 
+until seen by Dr. ___ as outpatient.
+
+# Sigmoid colon mass: on colonoscopy yesterday, a partially 
+obstructing, circumferential mass was identified in the sigmoid 
+colon. Hemoglobin is stable and within normal limits (14.3 
+mg/dL). Staging torso scan showed no evidence of pulmonary or 
+intra-abdominal metastases. Pathology report of the mass biopsy 
+is consistent with adenocarcinoma. At this point, the patient is 
+still having bowel movements and has a non-distended abdomen; 
+therefore he does not appear to be clinically obstructed. The 
+patient is OK to have a regular diet, but was educated about 
+warning signs of obstruction. It is planned that is to have an 
+interval laparoscopic resection of the mass and interval 
+management of the perforated gallbladder as well. 
+
+# HBV/HCV cirrhosis:  history of decompensated cirrhosis in the 
+setting of upper GI bleed. Currently, MELD 9, ___ class A 
+cirrhosis. No thrombocytopenia, mild elevation of INR to 1.3. 
+Continued home tenofovir for HBV and propranolol for variceal 
+hemorrhage prophylaxis.
+
+# Dizziness: the patient reported dizziness, that was improved 
+when sitting. He did not endorse any signs/symptoms of vertigo. 
+His orthostatic vital signs were negative. He denied headache, 
+difficulty hearing, otorrhea or instability. He had no focal 
+neurologic findings. His dizziness/lightheadedness was 
+attributed to fluid status, infection and concomittant use of 
+antibiotics. 
+
+Inactive issues.
+# LGIB: Resolved. He remained hemodynamically stable and found 
+on admission to have H/H ___ mg/dL range), which is above his 
+baseline without coagulopathy. He did not require any 
+transfusion of blood products or fluid resuscitation while in 
+house. The etiology of the LGIB was determined to be the sigmoid 
+adenocarcinoma. 
+
+# HCC: He has history of ___ s/p excision in ___ in ___, now 
+with suspicious 1.8cm lesion seen on repeat liver MRI; this will 
+need to be followed in the outpatient ___ clinic.
+- Outpatient hepatology follow up 
+
+# HTN: Currently normotensive, so holding home antihypertensives 
+other than propanolol. Given reports of dizziness, propranolol 
+was held, withotu change in his dizziness. His orthostatic vital 
+signs were negative and he appeared well hydrated. 
+
+# Portal Hypertensive Gastropathy: discovered on EGD in early 
+___. Currently managed on propranolol. Plan for 3 month 
+interval EGD to follow up. Outpatient hepatology follow up in 
+___ for EGD and evaluation of PHG.
+
+****TRANSITIONAL ISSUES:*****
+- He will continue on cipro 500mg BID, flagyl 500mg q8h (D1 ABX 
+___ - originally planned for 14 day course, however 
+continued given GB rupture & PTBD placement 
+- He will need outpatient management for laparoscopic 
+cholecystectomy after completion of his antibiotic course
+- He will need outpatient management for laparoscopic resection 
+of his sigmoid cancer
+- He has history of ___ s/p excision, now with suspicious 1.8cm 
+lesion seen on repeat liver MRI; this will need to be followed 
+in the outpatient ___ clinic.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Tenofovir Disoproxil (Viread) 300 mg PO DAILY 
+3. Ciprofloxacin HCl 500 mg PO Q12H 
+4. Docusate Sodium 100 mg PO BID 
+5. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 
+6. Acetaminophen 500 mg PO Q6H:PRN pain or fever  
+7. Gemfibrozil 600 mg PO DAILY 
+8. Losartan Potassium 100 mg PO DAILY 
+9. Omeprazole 20 mg PO DAILY 
+10. Potassium Chloride 10 mEq PO DAILY 
+11. Propranolol 20 mg PO BID 
+12. Pantoprazole 40 mg PO Q24H 
+
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg PO Q6H:PRN pain or fever  
+2. Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*28 Tablet Refills:*0
+3. Docusate Sodium 100 mg PO BID 
+4. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*42 Tablet Refills:*0
+5. Pantoprazole 40 mg PO Q24H 
+6. Propranolol 20 mg PO BID 
+7. Tenofovir Disoproxil (Viread) 300 mg PO DAILY 
+8. Amlodipine 10 mg PO DAILY 
+9. Gemfibrozil 600 mg PO DAILY 
+10. Losartan Potassium 100 mg PO DAILY 
+11. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis: lower GI bleed secondary to mass in the colon
+Secondary diagnoses: cholecystitis, HBV + HCV cirrhosis, HCC s/p 
+partial resection, HTN, portal hypertensive gastropathy 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure being part of your care at ___. You were 
+admitted to the hospital due to blood in your stools. You 
+underwent a colonoscopy which showed a mass in your colon. You 
+were also continued on antibiotics for cholecystitis 
+(inflammation of the gallbladder).
+
+After discharge, please follow up with your outpatient providers 
+as described below, including your liver doctor, and the 
+surgeons for your gallbladder and colon mass.
+
+It was a pleasure caring for you! We wish you a speedy recovery.
+- Your team at ___ 
+ 
+Followup Instructions:
+___

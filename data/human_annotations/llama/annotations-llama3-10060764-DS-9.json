@@ -1,0 +1,65 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Complete blood count",
+            "startOffset": 556,
+            "endOffset": 576,
+            "startWordIndex": 72,
+            "endWordIndex": 75,
+            "omittedDetails": "It goes from various blood tests to CBC"
+        },
+        {
+            "text": "electrolyte panel",
+            "startOffset": 578,
+            "endOffset": 595,
+            "startWordIndex": 75,
+            "endWordIndex": 77,
+            "omittedDetails": "in the EHR it is mentioned the components of the electrolytes without mentioning the word electrolyte."
+        },
+        {
+            "text": "liver function tests",
+            "startOffset": 597,
+            "endOffset": 617,
+            "startWordIndex": 77,
+            "endWordIndex": 80,
+            "omittedDetails": "in the EHR it is mentioned the components of the Liver Function Tests without mentioning the word itself."
+        },
+        {
+            "text": "Blood tests",
+            "startOffset": 543,
+            "endOffset": 554,
+            "startWordIndex": 70,
+            "endWordIndex": 72,
+            "omittedDetails": "Omitted exact labs names and it's findings."
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": " coagulation studies",
+            "startOffset": 622,
+            "endOffset": 642,
+            "startWordIndex": 81,
+            "endWordIndex": 83,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Imaging studies",
+            "startOffset": 646,
+            "endOffset": 661,
+            "startWordIndex": 83,
+            "endWordIndex": 85,
+            "omittedDetails": "The findings and the details of this section is omitted "
+        },
+        {
+            "text": "Procedures",
+            "startOffset": 757,
+            "endOffset": 767,
+            "startWordIndex": 93,
+            "endWordIndex": 94,
+            "omittedDetails": "The findings and the details of this section is omitted."
+        }
+    ],
+    "Omitted Followup": []
+}

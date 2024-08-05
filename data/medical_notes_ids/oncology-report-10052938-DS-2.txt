@@ -1,0 +1,287 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+sepsis, choalngiocarcinoma, bile duct obstruction
+ 
+Major Surgical or Invasive Procedure:
+ERCP (Endoscopic Retrograde Cholangiopancreatography)
+Percutaneous biliary drain placement
+ 
+History of Present Illness:
+___ year old Female from ___ here for ERCP, due to 
+bile duct obstruction from invasive metastatic 
+cholangiocarcinoma. The patient had resection of the tumor with 
+positive margins, with liver metastases, ultimately required a 
+hepaticoduodenostmy. She previously had a uncovered metal stent 
+placed due to biliary obstruction from the tumor. On this 
+admission she presented to ___ with fever, hypotension, 
+bilirubin of 3.7 and ultimately had positive blood cultures with 
+gram negative rods. Sent over for restenting via ERCP here at 
+___ initially planned as round-trip. However ERCP failed due 
+to inability to pass the wire past the tumor which has grown 
+through the stent. 
+
+She is now admitted to ___ does not have an ___ service that can 
+do a PTBD placement in this acutely ill a patient. On arrival to 
+the floor she presents hypotensive. Prior to transfer she was 
+given flagyl, Vancomycin, cefepime. Per the CHA notes she was 
+rigoring with a Tmax 102.4.
+
+The patient was initially diagnosed with cholangiocarcinoma in 
+___. 2 weeks prior to this admission she was admitted to ___ 
+with 2 weeks of abdominal pain, nausea/vomiting,, elevated 
+lipase, which showed a mass at the pancreatic head likely 
+obstructing, along with CT demonstrating liver and lung mets 
+(new), the patient was ultimately discharged after her pain 
+improved and referred to hospice. 
+
+On this presentation to ___ she presents with fever, 
+nausea/vomiting and RUQ pain. She also notes worsened cough 
+productive of white sputum. Initial vitals there were T102.4, HR 
+140s, BP 91/59. An initial CXR concerning for possible LLL 
+pneumonia. And she was given vancomycin/cefepime for HCAP.
+ 
+Past Medical History:
+COPD on 2L Home O2
+Type 2 Diabetes
+Primary Hypertension
+Cholangiocarcinoma metastatic to liver/lung
+Right Sided CHF
+Hyponatremia
+ 
+Social History:
+___
+Family History:
+Son: DM
+Mother: CAD->sudden cardiac death
+ 
+Physical Exam:
+Admission Physical Exam:
+========================
+VSS: 97.6, 88/58, 92, 18, 95%2LNC
+GEN: NAD
+Pain: ___
+HEENT: EOMI, MMM, - OP Lesions
+PUL: Crackled to mid lung on left
+COR: RRR, S1/S2, - MRG
+ABD: Moderate RUQ TTP, - Rebound, - Guarding, ND, +BS, - CVAT
+EXT: - CCE
+NEURO: CAOx3, Non-Focal
+
+Discharge Physical Exam:
+========================
+Vitals: see Eflowsheets
+General: Alert, oriented x3. No acute distress. Wearing NC. 
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI  
+CV: Mild tachycardia, regular rhythm, normal S1 + S2, no 
+murmurs,
+rubs, gallops  
+Lungs: Bibasilar lower lobe crackles, no wheezes, rales, rhonchi 
+
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+GU: No foley, perc site bandage c/d/I, drain capped
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: Face grossly symmetric. Moving all limbs with purpose
+against gravity. Not dysarthric. 
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 05:39AM BLOOD WBC-5.5 RBC-2.57* Hgb-7.4* Hct-23.6* 
+MCV-92 MCH-28.8 MCHC-31.4* RDW-15.7* RDWSD-53.1* Plt Ct-89*
+___ 05:39AM BLOOD Neuts-86.6* Lymphs-6.0* Monos-6.0 
+Eos-0.5* Baso-0.2 Im ___ AbsNeut-4.79 AbsLymp-0.33* 
+AbsMono-0.33 AbsEos-0.03* AbsBaso-0.01
+___ 05:39AM BLOOD Glucose-137* UreaN-9 Creat-0.7 Na-140 
+K-3.5 Cl-110* HCO3-22 AnGap-8*
+___ 05:39AM BLOOD ALT-92* AST-105* AlkPhos-189* 
+TotBili-2.2*
+___ 05:39AM BLOOD Calcium-8.2* Phos-2.7 Mg-2.1
+
+Discharge Labs:
+===============
+___ 05:49AM BLOOD WBC-6.4 RBC-2.97* Hgb-8.4* Hct-26.2* 
+MCV-88 MCH-28.3 MCHC-32.1 RDW-15.6* RDWSD-50.4* Plt ___
+___ 05:49AM BLOOD Glucose-130* UreaN-6 Creat-0.5 Na-141 
+K-3.6 Cl-103 HCO3-23 AnGap-15
+___ 05:49AM BLOOD ALT-31 AST-14 AlkPhos-148* TotBili-0.9
+___ 05:49AM BLOOD Calcium-8.2* Phos-2.5* Mg-1.5*
+ 
+Brief Hospital Course:
+___ with a history of metastatic cholangiocarcinoma who 
+presented with hypotension, fevers, chills, found to have 
+cholangitis with GNR and group D strep bacteremia in the setting 
+of biliary duct obstruction, now s/p ___ guided perc biliary 
+drain placement.
+
+# Gram Negative Sepsis due to Cholangitis
+# Cholangiocarcinoma metastatic to liver/Lung
+# Bacteremia:
+Hx of cholangiocarcinoma, s/p extrahepatic biliary tree 
+resection with hepaticoduodenostomy at ___ in late ___. Had 
+recent admission for abdominal pain, ultimately found to have 
+imaging findings consistent with progression of 
+cholangiocarcinoma.
+She re-presented to ___ and was found to have likely 
+cholangitis.
+Blood cultures grew E.Coli (sensitive to cefepime) and Group D 
+Strep species. Re-presented to ___. She was transferred to ___ 
+for ERCP. Had failed ERCP done ___: GI unable to gain access to 
+proximal biliary tree as prior stent clogged with tumor
+ingrowth. She underwent ___ percutaneous biliary drain 
+placement with ___.
+TTE was obtained given group D strep bacteremia and was negative 
+for vegetations. ID did not feel that TEE was necessary, given 
+known source of infection and rapid clearance of blood cultures.
+She was initially treated with vanc/cefepime/flagyl, and 
+transitioned to levofloxacin/flagyl at discharge per ID 
+recommendations. She will require a two week total antibiotic 
+course for bacteremia (day 14 = ___.
+Drains were capped by ___ prior to discharge. She will require ___ 
+follow up in four weeks for cholangiocarcinoma and possible 
+stenting.
+
+# Hypotension: secondary to sepsis. Required brief ICU stay post 
+drain placement. She received 1L of IV fluid with resolution of 
+hypotension. Home anti-hypertensives were initially held. 
+Metoprolol and torsemide were restarted prior to discharge. 
+Continued to hold 2.5mg of lisinopril as blood pressures 
+remained in the low-normal range 
+
+# ? Pneumonia
+CXR on ___ with patchy opacities (atelectasis v PNA). This was 
+felt to be likely atelectasis due to splinting in the setting of 
+abdominal pain. She did complete > 5 days of antibiotics as 
+above which also covered for any concurrent pneumonia.
+
+# Acute on Chronic Anemia (resolving)
+Hgb on admission 7.4, decreased to 6.8 post-procedure.
+Transfused 1 unit pRBCs with appropriate Hgb response to 9.1. 
+She had no signs of active bleeding and Hg remained stable for 
+remainder of hospital course
+
+# Cholangiocarcinoma: metastatic, with progression on recent 
+imaging. She will follow up with her outpatient oncologist next 
+week for discussion of palliative chemotherapy vs. transition to 
+hospice
+
+#Transitional Issue
+[ ] Subcentimeter pulmonary nodules which were not present on 
+the previous exam. These are nonspecific, though metastatic 
+disease is not excluded in this patient with cholangiocarcinoma. 
+Further evaluation/follow-up per oncologic protocol. She will 
+follow up with oncology as above, but per patient's sign plan is 
+to likely decline chemotherapy
+
+# Diabetes: held home metformin. Placed on ISS while 
+hospitalized
+
+# COPD (on 2L O2 at home, former smoker): continued home 
+inhalers and 2L oxygen
+
+# HFpEF
+Hx of R side HF, not volume overloaded on exam. Restarted home 
+torsemide after hypotension resolved.
+
+> 30 minutes spent on discharge coordination and planning
+
+Transitional Issues:
+====================
+- discharged on levofloxacin/flagyl for 14 day course for 
+cholangitis/bacteremia (day ___ = ___
+- needs ___ follow up in four weeks for cholangigram, discussion 
+of possible stent
+- she will follow up with oncology as an outpatient for 
+discussion of palliative chemotherapy vs. transition to hospice
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 500 mg PO BID 
+2. Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+3. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing 
+4. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+5. Tiotropium Bromide 1 CAP IH DAILY 
+6. Ursodiol 300 mg PO BID 
+7. Sulfameth/Trimethoprim DS 1 TAB PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. Lisinopril 2.5 mg PO DAILY 
+10. Torsemide 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  LevoFLOXacin 500 mg PO Q24H *AST Approval Required*
+RX *levofloxacin 500 mg 1 tablet(s) by mouth once a day Disp #*9 
+Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*28 Tablet Refills:*0 
+3.  Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing  
+4.  Aspirin 81 mg PO DAILY  
+5.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+6.  MetFORMIN (Glucophage) 500 mg PO BID  
+7.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+8.  Sulfameth/Trimethoprim DS 1 TAB PO DAILY  
+9.  Tiotropium Bromide 1 CAP IH DAILY  
+10.  Torsemide 10 mg PO DAILY  
+11.  Ursodiol 300 mg PO BID  
+12. HELD- Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First 
+Line  This medication was held. Do not restart Ondansetron until 
+you finish taking levofloxacin (these medications can interact)
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Cholangitis
+Metastatic cholangiocarcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came into the hospital because you were having fevers and 
+abdominal pain. We found that you had an infection in your 
+abdomen that had spread to your blood. This infection was caused 
+by a blockage in your bile duct. You had a drain placed to open 
+the blockage, and you were treated with antibiotics.
+
+It will be very important to continue taking the antibiotics 
+until ___. If you stop taking the antibiotics then 
+the infection may come back.
+The drain in your abdomen will have to stay in place until you 
+follow up with the radiologists in clinic. Someone should call 
+you with an appointment. If you do not hear from anyone within a 
+week, please call the ___ clinic at 
+___ to schedule an appointment.
+
+It will also be important to follow up with Dr. ___ Dr. 
+___. Dr. ___ office is working on rescheduling your 
+appointment.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

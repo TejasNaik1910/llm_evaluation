@@ -1,0 +1,72 @@
+{
+    "Omitted Patient History": [
+        {
+            "text": "Rectal cancer with neoadjuvant chemotherapy, resection, and adjuvant chemotherapy",
+            "startOffset": 1341,
+            "endOffset": 1422,
+            "startWordIndex": 162,
+            "endWordIndex": 171,
+            "omittedDetails": "Positive LNs found at surgery is mentioned in EHR and omitted in the summary"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Physical Exam On presentation Vital signs are interpreted in the summary and only the values are mentioned in EHR with no interpretation ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Physical Exam On Discharge Vital signs are interpreted in the summary and only the values are mentioned in EHR with no interpretation ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Labs and their findings on presentation are mentioned in the EHR without any interpretation while they are interpreted in the summary",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Labs and their findings on discharge are mentioned in the EHR without any interpretation while they are interpreted in the summary",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "elderly",
+            "startOffset": 509,
+            "endOffset": 516,
+            "startWordIndex": 50,
+            "endWordIndex": 51,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "no active bleeding",
+            "startOffset": 1891,
+            "endOffset": 1909,
+            "startWordIndex": 235,
+            "endWordIndex": 238,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "EGD",
+            "startOffset": 3306,
+            "endOffset": 3309,
+            "startWordIndex": 421,
+            "endWordIndex": 422,
+            "omittedDetails": ""
+        }
+    ]
+}

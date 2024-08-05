@@ -1,0 +1,457 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Pepcid / Sulfasalazine / metronidazole / azathioprine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, diarrhea
+ 
+Major Surgical or Invasive Procedure:
+Flexible Sigmoidoscopy ___
+Colonoscopy ___ 
+ 
+History of Present Illness:
+___ with Crohn's since ___ h/o fistula/abscess on 10mg QD 
+prednisone and infliximab, HTN, with recent travel to ___ 
+returned last ___ when she started experiencing crampy 
+abdominal pain and multiple episodes of diarrhea, low grade 
+fevers, general unwell feeling and poor PO intake. Nausea, no 
+vomiting. Denies any CP or cough. Also p/w chest discomfort and 
+dyspnea, hourly loose stools with some red blood/clots since 
+last night ___. Triggered for tachycardia on arrival to ER, 
+tympanic temp 100.4 per EMS. She is fairly confident that her 
+abdominal symptoms are c/w her Crohn's. She also believes that 
+she may have had a DVT in the past.  
+ In the ED, initial vitals were: Pain 10 99.9 144 ___ 95% 
+RA  
+ Had bloody stools in ED  
+ - Labs were significant for D-Dimer: 1630, WBC 19.6, PLT 472, 
+Lactate 1.9.  
+ - Imaging CTA chest revealed no e/o PE.  
+ - The patient was given 2L NS with improvement in tachycardia. 
+Given Hydrocortisone Na Succ. 100 mg and morphine IV.  
+ Vitals prior to transfer were: Pain 5 98.0 104 117/70 16 100% 
+RA  
+ Upon arrival to the floor, pt says still has some abdom pain 
+and mild nausea. Had bloody BM (some bright red blood) a few hrs 
+ago in ER; none since. Feels exactly like her prior Crohn's 
+flares. Not hungry; no PO intake for about a day. Denies recent 
+raw/uncooked or unusual foods. Denies HA, CP, SOB.  
+ Of note, per OMR, pt's prior treatments have included 
+budesonide, and MTX in the distant past. Pt was admitted in ___ 
+for Crohn's flare, treated with PO liquid prednisone, and d/c'd 
+with possible plan to start infliximab. Had GI visit on ___, 
+when she was feeling like she was having a Crohn's flare in 
+setting of travel. She has had several infliximab infusions to 
+date with some infusion reaction difficulties. On ___ she was to 
+get stool cultures and stay at her prednisone dose 5 mg per day; 
+those Cx's were negative for bacterial infxn and cdif. Plan was 
+that if her cultures were negative, then would increase her 
+steroids to 10 mg and will have to get Remicade levels with 
+antibodies. She had also had some bacterial vaginosis 
+complaints, but did not use clinda suppositories lately. 
+Currently on 10mg pred/day.  
+ REVIEW OF SYSTEMS:  
+ Per HPI  
+ 
+Past Medical History:
+ -history of latent TB and completed treatment course with 
+rifampin early ___  
+ -Crohn's - diagnosed in ___, never on biologics, h/o 
+fistula/abscess  
+ -HTN  
+ 
+Social History:
+___
+Family History:
+No family history of Crohn's
+ 
+Physical Exam:
+Admission Exam
+============
+Vitals: 97.7 112/69 95 18 100%RA  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MM dry, white deposits on tongue and 
+buccal mucosae  
+ Neck: Supple, JVP not elevated, no LAD  
+ CV: fast rate but regular rhythm, normal S1 + S2, no murmurs  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender other than mild tenderness RLQ, 
+non-distended, bowel sounds diminished but present, no 
+organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, no edema  
+
+Discharge Exam
+=============
+Vitals: 97.6 BP 132/70 HR 82 RR20 100% RA 
+General: Alert, in no acute distress 
+HEENT: Sclera anicteric. 
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen: soft, non tender to palpation, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused. TEDs in place on bilateral lower 
+extremities. L wrist without clear swelling or increased warmth. 
+No tenderness to palpation of L lower back.   
+Neuro: Clear speech, grossly moving all extremities. 
+ 
+Pertinent Results:
+Admission Labs
+=============
+___ 05:15PM BLOOD WBC-19.6* RBC-4.19 Hgb-10.4* Hct-33.1* 
+MCV-79* MCH-24.8* MCHC-31.4* RDW-15.7* RDWSD-44.5 Plt ___
+___ 05:15PM BLOOD Neuts-81.3* Lymphs-9.9* Monos-7.2 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-15.90* AbsLymp-1.94 
+AbsMono-1.41* AbsEos-0.01* AbsBaso-0.07
+___ 05:15PM BLOOD Plt ___
+___ 05:50AM BLOOD Plt ___
+___ 05:15PM BLOOD Glucose-163* UreaN-23* Creat-1.2* Na-136 
+K-4.5 Cl-95* HCO3-26 AnGap-20
+___ 05:15PM BLOOD ALT-13 AST-31 AlkPhos-78 TotBili-0.2
+___ 05:15PM BLOOD Albumin-3.6 Calcium-9.5 Phos-3.4 Mg-1.7
+___ 05:15PM BLOOD D-Dimer-1630*
+___ 05:15PM BLOOD HCG-<5
+___ 05:15PM BLOOD CRP-153.5*
+___ 05:16PM BLOOD Lactate-1.9
+
+Imaging
+=======
+___ CXR No acute intrathoracic process.
+___ CTA Chest: 
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Sub 5 mm right upper and lower lobe pulmonary nodules for 
+which ___ year
+followup chest CT is recommended if the patient is at high risk 
+for lung
+cancer.
+ 
+RECOMMENDATION(S):  ___ year followup chest CT the patient is at 
+high risk for
+lung cancer.
+___ MRE
+1.  Diffuse wall edema and hyperenhancement throughout the 
+entire large bowel
+is compatible with pan-colitis, similar in distribution and 
+appearance to the
+prior CT from ___.
+2.  No evidence of focal inflammatory changes in the small 
+bowel.
+
+___ Sigmoidoscopy 
+Impression:The rectum had a few aphthae but was relatively 
+spared. The sigmoid had friability, extensive erythema, 
+scattered aphtae, a few deep serpiginous ulcerations. Biopsies 
+were taken in the sigmoid. (biopsy)
+Otherwise normal sigmoidoscopy to 20cm
+
+___ MR Pelvis: 
+IMPRESSION: 
+1.  Short branching transphincteric tract without a connection 
+to the skin, as
+described above.  No evidence of an abscess.
+2.  Low signal in the perineum and anterior well of the internal 
+sphincter
+suggests scarring, possibly from prior trauma, such as a vaginal 
+delivery, or
+prior inflammation.  No active inflammation is identified in 
+this region.
+3.  Active Crohn's disease is again noted in the imaged portions 
+of the large
+bowel.  This was better assessed on the recent MR enterography.
+4.  14 mm hemorrhagic cyst in the right ovary.  A follow-up 
+pelvic ultrasound
+is recommended in 6 weeks.
+5.  Small amount of free fluid in the pelvis.
+ 
+RECOMMENDATION(S):  Pelvic ultrasound in 6 weeks.
+
+___ Colonoscopy 
+Impression:Blood throughout the colon, most notably in the left 
+colon, less so in the right colon. Diffuse ulceration and 
+erythema from the sigmoid colon to the cecum. An ulcer with a 
+visible vessel was seen in the right colon and successfully 
+clipped. Underlying rectal mucosa was relatively spared.
+Terminal ileum was intubated and mucosa appeared normal without 
+blood.
+Otherwise normal sigmoidoscopy to cecum and terminal ileum
+
+___ CXR 
+No acute cardiopulmonary process seen.
+
+___ CXR
+Right PICC line tip terminates at the level of mid SVC.  Heart 
+size and
+mediastinum are stable.  There is questionable right lower lobe 
+opacity
+concerning for infectious process.  Alternatively it could be an 
+atelectasis. 
+Rest of the lungs are clear.  There is no pleural effusion or 
+pneumothorax.
+
+Microbiology
+========
+___ 5:15 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+___ 6:00 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+___ 6:20 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH.
+___ 8:48 am STOOL     CONSISTENCY: WATERY      Source: 
+Stool. 
+
+                            **FINAL REPORT ___
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND.
+___ 3:03 am STOOL     CONSISTENCY: NOT APPLICABLE
+      PRESENCE OF BLOOD.      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      NO E.COLI 0157:H7 FOUND. 
+___ 1:20 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH.
+
+Pathology
+======
+___:
+Sigmoid colon biopsy:
+Chronic mildly active colitis, see note.
+Note: No granulomata or dysplasia identified. 
+
+Discharge Labs:
+==========
+___ 05:06AM BLOOD WBC-14.3* RBC-3.27* Hgb-8.7* Hct-28.1* 
+MCV-86 MCH-26.6 MCHC-31.0* RDW-15.7* RDWSD-49.3* Plt ___
+___ 05:06AM BLOOD Plt ___
+___ 05:06AM BLOOD Glucose-137* UreaN-16 Creat-0.7 Na-141 
+K-4.8 Cl-102 HCO3-31 AnGap-13
+___ 05:06AM BLOOD ALT-19 AST-16 AlkPhos-56 TotBili-0.2
+___ 05:06AM BLOOD Phos-3.2 Mg-1.9
+ 
+Brief Hospital Course:
+SUMMARY:
+=======
+___ history of Crohn's x ___ years c/b fistula/abscess on 10mg 
+daily prednisone and infliximab admitted with one week of crampy 
+abdominal pain, low grade fevers, multiple episodes of daily 
+blood-streaked diarrhea concerning for Crohn's flare
+
+ACUTE ISSUES: 
+=========
+#Crohn's flare: Patient presented with crampy abdominal pain and 
+bloody diarrhea. Unclear trigger for current flare on admission. 
+Prior to admission patient was on prednisone recently increased 
+from 5 to 10mg) and infliximab. GI was consulted and patient was 
+started on Augmentin per GI due to history of ___ 
+abscess. Patient was initially treated with IV steroids, po 
+augmentin, and bowel rest. Her bowel was imaged with an MRE 
+which demonstrated pancolitis. Attempts to advance her diet 
+resulted in bloody diarrhea requiring blood transfusion and 
+which was concerning for persistent steroid refractory disease 
+versus alternative bleeding source. Additional imaging was thus 
+performed that demonstrated persistent disease despite treatment 
+with IV steroids, po augmentin, and bowel rest. Patient was 
+recommended to undergo total colectomy but refused due to 
+possibility of permanent ileostomy. She was amenable to IV 
+cyclosporine and was treated with it from ___ before 
+transitioning to po cyclosporine that was continued upon 
+discharge. At the time of her discharge her IV methylprednisone 
+was changed to po prednisone. During her hospital stay she was 
+very briefly placed on TPN (___) due to her prolonged low 
+dietary intake in the setting of bowel rest, but was able to 
+advance to BRAT diet with IV cyclosporine initiation and was 
+advised to advance her diet as tolerated at the time of 
+discharge. Given the multiple immunosuppressing regimens the 
+patient was on, she was also started on bactrim for PCP 
+prophylaxis during this hospital stay which was continued at 
+discharge. 
+
+Unclear trigger for this flare, although pt reports more recent 
+stress in setting of starting new BA 
+-Pneumoboots + TEDs, previously counseled patient on importance 
+of using SCDs and additionally encouraged ambulation during the 
+day, particularly given her increased risk of thromboembolism 
+due to Crohn's. Holding heparin in setting of patient refusal to 
+heparin. 
+-continue augmentin 
+-per GI, avoid NSAIDs/narcotics as this may cause Crohn's to 
+flare 
+-per GI, ___ genotype and level results, pending 
+
+#Lower extremity edema: Patient developed bilateral trace to 1+ 
+lower extremity edema near the end of her hospital admission. 
+While she is at increased risk of DVT given her Crohn's disease 
+and given patient's refusal of heparin, DVT was felt to be lower 
+on differential due to bilateral nature and the fact that the 
+patient was ambulating and wearing ___ stockings. Swelling was 
+thought to be due to IVF, high dose steroids, and holding home 
+hctz in setting of prior diarrhea. 
+
+#Anemia: Patient required 1u pRBC transfusion on ___ and 
+required 3U PRBCs on ___ with appropriate response in 
+hemoglobin. 
+
+___: On admission creatinine was elevated to 1.2 from baseline 
+of 0.7. Cr returned to baseline with IVF. 
+
+CHRONIC ISSUES: 
+===========
+#HTN: Home HCTZ was held in the setting of diarrhea.
+  
+#Thrush: Continued nystatin swish/swallow  
+
+TRANSITIONAL ISSUES: 
+===================
+#) Crohn's flare: Pt. to continue on prednisone 40mg for 1 week. 
+Dose will decrease by 10mg/weekly. GI to guide taper. Pt. to 
+continue neoral 200mg PO BID. Pt. to hold infliximab.
+#) Outpt Labs: Will require CBC, Chem 10, LFTs, cyclosporine 
+level. These should be done in the morning, PRIOR to AM 
+cyclosporine dose, on ___. 
+#Future Labs: Pt. to have CBC, Chem 10, LFTs, and trough AM 
+cyclosporine level prior to AM dose twice weekly starting 
+___.
+#) PCP ___: Patient started on Bactrim for PCP 
+prophylaxis given ongoing cyclosporin 
+#) Nutrition: Advanced as tolerated per GI. 
+#) HTN: BP 130/70 on day of discharge. Home hctz was held due to 
+diarrhea on presentation. Please follow up electrolytes as 
+outpatient and restart as clinically warranted. 
+#) Lower extremity edema: Patient developed 1+ bilateral ___ 
+edema in setting of holding hctz and IV steroids per above. 
+Please follow up and adjust medications as clinically warranted. 
+
+
+#) *****Pulmonary nodules: CTA performed in ED due to initial 
+concern for PE and positive D-dimer. No evidence of PE noted. 
+However, incidental finding of sub 5 mm right upper and lower 
+lobe pulmonary nodules for which ___ year follow-up chest CT is 
+recommended if the patient is at high risk for lung cancer.***
+#) ***** Pelvic ultrasound: On MR pelvis ___, a 14 mm 
+hemorrhagic cyst was noted in the right ovary.  A follow-up 
+pelvic ultrasoundis recommended in 6 weeks *******
+
+#Code: Full
+#Contact: ___son), ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nystatin Oral Suspension 10 mL PO QID:PRN thrush 
+2. predniSONE 10 mg ORAL DAILY 
+3. Acetaminophen w/Codeine 1 TAB PO Q6H:PRN pain 
+4. Fluticasone Propionate NASAL 1 SPRY NU BID 
+5. Hydrochlorothiazide 25 mg PO DAILY 
+6. Cyclobenzaprine Dose is Unknown  PO Frequency is Unknown 
+7. Infliximab 100 mg IV Q8WEEKS 
+8. Naproxen 500 mg PO Q12H:PRN pain 
+9. Cetirizine 10 mg PO DAILY 
+10. Lactaid (lactase) 3,000 unit oral PRN 
+
+ 
+Discharge Medications:
+1. CycloSPORINE (Neoral) MODIFIED 200 mg PO Q12H 
+RX *cyclosporine modified [Neoral] 100 mg 2 capsule(s) by mouth 
+twice a day Disp #*120 Capsule Refills:*0
+2. Acetaminophen w/Codeine 1 TAB PO Q6H:PRN pain 
+RX *acetaminophen-codeine 300 mg-30 mg 1 tablet(s) by mouth 
+every six (6) hours Disp #*20 Tablet Refills:*0
+3. Cetirizine 10 mg PO DAILY 
+4. Nystatin Oral Suspension 10 mL PO QID:PRN thrush 
+5. Fluticasone Propionate NASAL 1 SPRY NU BID 
+6. PredniSONE 40 mg PO DAILY 
+RX *prednisone 10 mg 4 tablet(s) by mouth Daily Disp #*90 Tablet 
+Refills:*0
+7. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+RX *sulfamethoxazole-trimethoprim 400 mg-80 mg 1 tablet(s) by 
+mouth Daily Disp #*30 Tablet Refills:*0
+8. Lactaid (lactase) 3,000 unit oral PRN 
+9. Outpatient Lab Work
+Dx: Crohns Disease on Cyclosporin
+ICD-9: 555
+Labs:  CBC, Chem 10, LFTs, and AM Trough Cyclosporin level 
+(prior to AM Dose)
+Interval:  Twice weekly starting ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+==================
+1. Crohn's flare 
+
+SECONDARY DIAGNOSIS: 
+==================
+1. Acute blood loss anemia 
+2. Acute kidney injury 
+3. Hypertension 
+4. Thrush 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure to take care of you during your admission to 
+___. You were admitted with 
+fever, diarrhea and abdominal pain that was felt to be due to a 
+flare of your Crohn's disease. We initially treated you with 
+antibiotics, steroids and bowel rest. We imaged your bowels and 
+felt that your Crohn's flare was not responding to steroids. 
+Surgery was offered but you chose continued medical treatment 
+instead. We then treated you with intravenous cyclosporine and 
+steroids which we transitioned to oral cyclosporine and steroids 
+on discharge. Please follow up closely with your GI doctor, ___. 
+___ to monitor this treatment regimen. You will need to get 
+labs drawn this ___ BEFORE you take you 
+morning cyclosporine dose.  The pt. will require labs twice 
+weekly moving forward.
+
+We wish you a speedy recovery! 
+- Your ___ Care Team  
+ 
+Followup Instructions:
+___

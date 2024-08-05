@@ -1,0 +1,293 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal distention
+ 
+Major Surgical or Invasive Procedure:
+___ - paracentesis with removal of 1L ascitic fluid
+
+ 
+History of Present Illness:
+___ year old female with metastatic ER/PR+ breast cancer, treated 
+in the past with tamoxifen/lupron, then femara/lupron, now 
+metastatic to liver, presents from home with abdominal fullness.
+Patient has recently established care with Dr. ___ 
+which time palliative chemotherapy was recommended; patient 
+declined. Patient reports that she presented to ___ ED for 
+help with drainage of fluid from her abdomen. She has undergone 
+extensive alternative therapies, see Dr. ___ OMR 
+note for details.
+Her disease has progressed despite hormonal therapies and 
+surgical oophorectomy. She is currently receving GC-MAF from Dr. 
+___, receiving first dose on ___. Her reason for seeking care 
+at ___ is for drainage of "fluid" which she believes will 
+optimize her response to this alternative therapy.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per Dr. ___ ___ Screening mammogram revealed an abnormality in the
+left breast
+___ Core need biopsy showed invasive ductal carcinoma that
+was ER/PR+ HER2-neu 1+.
+___ Lumpectomy confirmed invasive ductal carcinoma and
+DCIS. Grade II LVI. SNLN was negative. Focus of metastatic
+carcinoma in the perinodal adipose tissue was appreciated.
+___issection revealed ___ nodes 
+positive
+with tumor
+___ PET CT showed FDG avid liver lesions and biopsy
+confirmed metastatic disease
+___ Treated with tamoxifen and lupron, then later treated
+with lupron and femara
+___ Dr. ___ from ___ recommended starting
+Xeloda. Prescription was provided, but patient did not start the
+medication. Instead she started alternative treatments.
+___ Patient underwent laparoscopic b/l
+salpingo-oophorectomy and IUD removal by Dr. ___.
+Pathology was completely benign
+___ PET CT showed new FDG-avid mass in the left breast
+concerning for disease recurrence or metastases. Interval
+progression in the size and number of FDG-avid metastases in the
+liver with areas of course calcifications.
+___ Patient was seen by Dr. ___ at ___ who
+recommended either Xeloda, Avastin or Taxol as next steps in her
+care.
+___ Abdominal Ultrasound: Liver is enlarged and contains
+multiple lesions consistent with metastatic disease. There is no
+biliary dilation and the CBD measures 5 mm in caliber. The
+gallbladder is normal. There is no cholelithiasis, mural
+thickening, or sonographic ___ sign. There is trace
+intra-abdominal ascites noted near the inferior margin of the
+liver. The pancreas is obscured by midline gas. IVC and portal
+vein are patent. No hydronephrosis in the kidneys. Kidneys 
+appear
+normal. Spleen is grossly normal. There is trace intra-abdominal
+ascites.
+___ Abdominal Ultrasound: Findings consistent with 
+diffuse
+metastatic disease with an enlarged liver and borderline 
+enlarged
+spleen. Small amt of ascites is seen.
+ 
+Social History:
+___
+Family History:
+no family history breast or gyn malignancies
+ 
+Physical Exam:
+===================
+on admission
+===================
+VITALS: 97.9 104/58 HR 89 RR 18 100% RA
+General: pleasant, intermittently tearful, no distress
+HEENT: icteric sclerae, bitemporal wasting
+Neck: no lymphadenopathy
+CV: RRR, normal S1, S2, no murmurs
+Lungs: clear lungs bilaterally
+Abdomen: distended, massive hepatosplenomegaly, active bowel 
+sounds, no shifting dullness, no tenderness
+Ext: 2+ radial and DP pulses, 1+ bilateral ___ edema
+Neuro: CNs ___ intact, no asterixis, strength and sensation 
+grossly intact
+
+======================
+on discharge
+======================
+VITALS: 98.0 98/56 86 18 97% RA
+General: NAD, cachetic woman
+HEENT: temporal wasting bilaterally, icteric sclera
+Neck: no LAD
+Breast: left breast with multiple hard nodules, axilla with 
+palpable LAD
+CV: RRR, no m/r/g
+Lungs: CTAB
+Abdomen: +BS, distended, hepatic edge palpable 10cm below 
+ribcage, splenomegaly, + fluid wave
+GU: no foley
+Ext: trace pedal pitting edema, left port-a-cath site c/d/i
+Neuro: CN II-XII intact
+ 
+Pertinent Results:
+======================
+on admission
+======================
+
+___ 08:10PM BLOOD WBC-9.1 RBC-3.07* Hgb-7.6* Hct-25.2* 
+MCV-82 MCH-24.7* MCHC-30.2* RDW-16.8* Plt ___
+___ 08:10PM BLOOD Neuts-91* Bands-0 Lymphs-8* Monos-1* 
+Eos-0 Baso-0 ___ Myelos-0
+___ 08:10PM BLOOD Hypochr-3+ Anisocy-1+ Poiklo-1+ 
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL Target-1+
+___ 08:10PM BLOOD Plt Smr-NORMAL Plt ___
+___ 08:10PM BLOOD Glucose-115* UreaN-16 Creat-0.7 Na-132* 
+K-4.4 Cl-107 HCO3-22 AnGap-7*
+___ 08:10PM BLOOD ALT-85* AST-287* AlkPhos-906* 
+TotBili-5.8*
+___ 08:10PM BLOOD Albumin-2.2*
+___ 03:15AM BLOOD Calcium-8.5 Phos-3.4 Mg-2.0 UricAcd-8.4*
+
+=====================
+on discharge
+=====================
+
+___ 03:15AM BLOOD WBC-6.6 RBC-3.32* Hgb-8.1* Hct-27.1* 
+MCV-82 MCH-24.3* MCHC-29.8* RDW-16.7* Plt ___
+___ 08:15AM BLOOD Glucose-94 UreaN-17 Creat-0.6 Na-132* 
+K-4.3 Cl-104 HCO3-19* AnGap-13
+___ 08:15AM BLOOD ALT-80* AST-291* AlkPhos-786* 
+TotBili-6.1*
+
+====================
+relevant labs
+====================
+___ 03:15AM BLOOD Osmolal-295
+___ 06:13PM URINE Hours-RANDOM UreaN-492 Creat-58 Na-161 
+K-40 Cl-178
+___ 06:13PM URINE Osmolal-667
+
+===================
+imaging
+===================
+
+___ AB US
+IMPRESSION:
+ 
+1.  Ultrasound guided diagnostic and therapeutic paracentesis 
+yielding 1 L of
+straw-colored ascitic fluid.  Samples were sent to the lab for 
+analysis. 
+ 
+2.  Extensive hepatic metastatic disease.  
+
+___ CXR: 
+FINDINGS:
+Right-sided Port-A-Cath tip terminates at the junction of the 
+SVC and right
+atrium.  The heart size is normal.  The aorta is mildly 
+unfolded.  Mediastinal
+and hilar contours are otherwise unremarkable.  The pulmonary 
+vasculature is
+normal.  Lungs are clear.  No focal consolidation, pleural 
+effusion or
+pneumothorax is visualized.  Several clips are seen in the left 
+axilla.
+ 
+IMPRESSION:
+ 
+No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+___ yo F w/ metastatic breast cancer presents with worsening 
+abdominal distention and concern for progression of known 
+hepatic metastasis v. malignant ascitic fluid accumulation.
+
+# Malignant ascites- Has obvious disease progression on exam 
+with palpable hepatomegaly and nodules on her liver. Also with 
+evidence of a positive fluid wave. She underwent paracentesis 
+with 1L of fluid removal. The patient was concerned that her 
+fluid had already re-accumulated. She was informed that this is 
+likely but that the re-accumulation of fluid would be gradual. 
+
+# metastatic breast cancer - Refusing palliative chemotherapy. 
+Was planning on continuing alternative therapies with her 
+outside provider. 
+
+# hyponatremia - Urine lytes with inappropriately high Na+ 
+indicating likely etiology SIADH. Also, did not respond to 
+fluids.  
+
+# GERD - re-started omeprazole
+
+=====================
+transitional issues
+======================
+*At this point, she plans to continue with alternative 
+therapies.
+*This is not our medical advice to her. We advise chemotherapy
+*her primary provider, Dr. ___ follow patient closely. 
+She will visit him today and everyday this week, including next 
+week. Verbally confirmed that he felt comfortable managing her. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Vitamin D 800 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Vitamin D 800 UNIT PO DAILY 
+2. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+RX *prochlorperazine maleate 10 mg 1 tablet(s) by mouth q6hr 
+Disp #*30 Tablet Refills:*0
+3. HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN pain  
+RX *hydromorphone 2 mg ___ tablet(s) by mouth q4hr Disp #*30 
+Tablet Refills:*0
+4. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0
+5. Senna 1 TAB PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 by mouth twice a day Disp #*30 
+Capsule Refills:*0
+6. Outpatient Lab Work
+CHem 10, LFTS,uric acid, LDH, CBC by Dr ___ on ___ 
+___.
+
+DIAGNOSIS: hyponatremia, metastatic breast cancer
+ICD 9 code: ___.1, 174.9
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+PRIMARY: 
+1. metastatic breast cancer
+2. ascites
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___. You came into the hospital because you 
+noticed that your abdomen had been increasing in size over the 
+past few weeks. This was limiting your mobility. After you came 
+into the hospital, you had a procedure done to take fluid off 
+your abdomen. You had about one liter of fluid taken off. You 
+felt better after this. 
+
+Your sodium level was found to be low while you were in the 
+hospital. You were given fluids, which can help improve this. 
+You need to have a sodium level re-checked as an outpatient on 
+___.
+
+You are also anemic. We think this is related to your cancer but 
+should have this followed up as an outpatient. You have several 
+abnormalities on your lab values that we would like to manage 
+while you are in the hospital but since you want to go home, you 
+should have lab work done as an outpatient to follow up your 
+liver enzymes, uric acid, and LDH.   
+
+Thank you for choosing ___.
+ 
+Followup Instructions:
+___

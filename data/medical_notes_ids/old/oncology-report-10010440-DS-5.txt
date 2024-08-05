@@ -1,0 +1,471 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CODE CORD: Leg weakness, known T12 lesion 
+
+ 
+Major Surgical or Invasive Procedure:
+1. Anterior arthrodesis T11-L1.
+2. Application interbody cage T11-L1.
+3. Biopsy of T12 vertebral body.
+4. Posterior arthrodesis T10-L2.
+5. Posterolateral posterior instrumentation T10-L2 segmental.
+6. Open treatment fracture dislocation from metastatic disease 
+and destruction of the T12 vertebral body.
+7. Laminectomy of partial L1, all of T12, and the inferior 
+aspect of T11.
+8. Application of allograft.
+ANESTHESIA:  General endotracheal.
+ 
+History of Present Illness:
+History obtain largely from Daughter in law and PCP, ___ (___)
+
+History of Present Illness:  This is a ___ yo ___ female with a
+history of a ___ secondary to an aneurysm with residual aphasia,
+HTN, and hyperlipidemia and recent work-up initiated for 
+multiple
+myeloma who presents with leg weakness and multiple falls. 
+
+Per the patient's daughter in law on ___ the patient had a
+bad fall at home where she lives with her son and daughter in
+law. She was down for 4 hours. She reported to her PCP that her
+"legs gave out". She was seen at ___ where she had
+plain films and a head CT that were normal. She received 6 weeks
+of home ___ and was doing fairly well. When that concluded 
+though,
+she began a slow decline. She has had decreased appetite, a 
+rapid
+30 lbs weight loss and a few more falls.  She complains of back
+pain and it is unclear whether pain or weakness has been the
+cause of her falls. She also became incontinent of urine, but 
+not
+stool. Ultimately, 2 weeks ago when she could not even walk two
+steps she went back to the ED where Xrays were negative. She 
+went
+to rehab. A CT was not done. At the nursing home rehab she
+continued to have pain and weakness with not much improvement. 
+
+Last night the patient was much more quiet than usual. This AM
+she woke upset and in a lot of pain. She was screaming and
+refusing to take her medications. The daughter encouraged the
+rehab nursing home to send her to the ED. At the ___ ED she
+received a spine CT that revealed, "Findings consistent with
+multiple myeloma involving multiple levels and an associated 
+mass
+arising from T12 extending into the canal and compressing the
+thecal sac significantly." Of note the patient can not have an
+MRI due to the aneurysm clips. A left toes fracture was also
+found on plain films.  The patient was sent to ___ for further
+evaluation and treatment.
+
+In the ED now the patient is in some mild pain, but reports
+feeling ok.  Of note a year ago the patient began a w/u for
+multiple myeloma. She had a biopsy done of the T12 lytic lesion
+that was inconclusive. She then had a bone marrow biopsy that
+revealed pre Kappa light chains, but no conclusive evidence of
+multiple myeloma. 
+
+Review of systems: 
+(+) Per HPI 
+(-) Denies recent weight gain. Denies nausea, vomiting, 
+diarrhea,
+constipation or abdominal pain. No recent change in bowel 
+habits.
+No dysuria. Denies arthralgias. Ten point review of systems is
+otherwise negative. 
+
+On neuro ROS, No HA, visual aura. No loss of vision,
+lightheadedness, vertigo, diplopia, dizziness, dysarthria,
+dysphagia, tinnitus or hearing difficulty. Denies difficulties
+producing or comprehending speech.  Weakness of ___. No numbness,
+parasthesiae. Bladder incontinence, but no bowel incontinence. 
+Gait problems.
+ 
+Past Medical History:
+SAH, s/p b/l Aneurysm clipping.  With frontal craniotomy.
+Residual aphasia.
+HTN
+Hyperlipidemia
+Right knee replacement
+VP shunt
+ 
+Social History:
+___
+Family History:
+Multiple family members, particularly cousins
+with brain aneurysms requiring clipping, some of who had 
+strokes.
+No history of cancer in the family. 
+ 
+Physical Exam:
+Vitals: T 98.2, HR 90, BP 106/72, RR 18, O2 99 % RA
+General: Awake, cooperative, in NAD.  Obese.
+HEENT: NC/AT, no sclera icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted. No carotid bruits 
+Abdomen: soft, NT/ND
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally. 
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented to place, person, and year with
+choices (difficult exam as the patient's motor aphasia prevents
+answers to multiple questions). Naming impaired, perseverative.
+Follows commands, but again requires some mimicking to reliably
+follow. Per PCP and daughter in law this is her cognitive
+baseline.   
+ 
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 2.5 b/l, sluggishly reactive.  Visual fields are
+difficult to assess reliably. Appears to be some impairment in
+peripheral fields.
+III, IV, VI: EOMI without nystagmus. No diplopia.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.  
+VIII: Hearing intact to finger rub.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift. No
+tremor or other adventitious movements. No asterixis noted. Nml
+finger tapping.
+
+  Delt Bic Tri FFl FE IO  IP  Quad Ham TA ___
+L  5   5    ___  5   4-   4    ___-       3
+R  5   5    ___  5   2    4    4-  2  5-       5-
+
+-Sensory:  Intact and symmetric sensation to light touch, temp
+and pinprick, although patient has some trouble understanding 
+the
+questions.   
+Normal rectal tone. 
+
+- DTRs:
+    Bi Tri  ___ Pat Ach
+L  2   2     2     1   2 
+R  2   2     2     0*  2 
+Plantar response was extensor b/l. 
+* Knee replacement
+
+-Coordination:  No dysmetria on FNF. 
+
+-Gait:  Not assessed. Unable to sit or stand unassisted.  
+ 
+Pertinent Results:
+___ PATHOLOGY report from surgical resection (PRELIM): 
+Bone, T12 vertebra, lytic lesion; Bone and fibrous tissue with 
+dense plasma cell infiltrate, consistent with plasma cell 
+dyscrasia, see note.
+
+___ ANKLE (AP, LAT & OBLIQU) FINAL
+There are moderate degenerative changes of the tibiotalar joint 
+with narrowing and subchondral sclerosis. There is evidence of 
+prior avulsive injury arising off the medial malleolus and 
+likely the lateral malleolus as well. There is chronic deformity 
+of the lateral malleolus. No acute fracture is identified. There 
+is calcaneal enthesopathy. Soft tissue swelling is noted.
+IMPRESSION: Moderate tibiotalar joint degenerative change. No 
+acute fracture appreciated.
+
+___ CT HEAD
+IMPRESSION: 
+1.  No acute intracranial hemorrhage status post right 
+craniotomy and aneurysm clipping.    
+2.  Hyperdensity of the left posterior cerebral hemisphere not 
+corresponding to vascular territory could conceivably represent 
+retained contrast related to the patient's recent myelogram.  
+Attention on followup is recommended.  
+3.  Stable bifrontal encephalomalacia.  
+4. Unchanged position of a right parietal ventriculostomy 
+catheter.  
+
+___
+TECHNIQUE:  Thoracolumbar spine, five views.   
+FINDINGS:  The patient is status post posterior fusion from T10 
+through L2 with a T12 corpectomy including placement of a 
+vertical fusion spacer.  Moderate-to-severe degenerative changes 
+are incompletely characterized, but suspected, along the facet 
+joints along the mid through lower lumbar spine. Small anterior 
+osteophytes are present along the lower thoracic spine.  There 
+is no evidence for hardware loosening.  A PICC line terminates 
+in the upper right atrium.  A ventriculoperitoneal shunt is also 
+noted. 
+IMPRESSION:  Unremarkable post-operative appearance. 
+
+___ MRI SPINE
+IMPRESSION: 
+Status post T12 corpectomy and T10-L2 fusion. 
+Posterior and right-sided intraspinal fluid collection 
+communicates through the laminectomy defect and causes anterior 
+and left lateral displacement of the thecal sac.  This leads to 
+severe encroachment on the distal spinal cord. There are no 
+findings to suggest tumor in this location.  The signal 
+intensity characteristics are typical of simple fluid, rather 
+than hemorrhage. 
+
+___ 05:14AM BLOOD WBC-22.1* RBC-3.39* Hgb-10.2* Hct-30.8* 
+MCV-91 MCH-30.2 MCHC-33.3 RDW-17.6* Plt ___
+___ 12:06PM BLOOD Neuts-83.9* Lymphs-8.5* Monos-7.3 Eos-0.2 
+Baso-0.1
+___ 05:14AM BLOOD Plt ___
+___ 06:45AM BLOOD ___ PTT-30.2 ___
+___ 05:49AM BLOOD Glucose-113* UreaN-27* Creat-0.9 Na-138 
+K-6.6* (HEMOLYZED FROM PICC - falsely elevated) Cl-106 HCO3-28 
+AnGap-11
+___ 04:10AM BLOOD ALT-16 AST-29 LD(LDH)-425* AlkPhos-60 
+TotBili-0.3 DirBili-0.1 IndBili-0.2
+___ 04:10AM BLOOD Hapto-422*
+
+___ 9:01 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+Brief Hospital Course:
+___ w/ h/o of stroke ___ years ago with baseline of expressive 
+aphasia and RLE weakness, although family claims that she can 
+fully comprehend. Pt was found to have T12 mass concerning for 
+malignancy in ___, however bx of mass and BM was 
+inconclusive.  She was asymptomatic at that time and family 
+decided not to persue further work-up.  Pt now p/w with a 2.5 
+month h/o of progressive weakness and recurrent falls 
+unresponsive to ___, and weight loss from 250-->225.  Pt had CT 
+at OSH which demonstrated expanding lesion at T12 and was 
+subsequently given 10mg IV dexamethasone and transfered to ___ 
+for further management.  Patient arrived on the floor afebrile 
+and hemodynamically stable.  Immediate neurology and 
+neurosurgery consults were obtained.  Her hospitalization course 
+is as follows:
+
+# T12 lesion: Patient has profound lower extremity weakness 
+bilaterally, some of which is baseline from her previous CVA. 
+Her right sided neuro exam is notable for hyperreflexia and 
+clonus which is likely left over from her distant stroke. She 
+was continued on dexamethasone and ISS while on the high dose 
+steroids.  The patient was also given a TLSO brace for 
+ambulation (although initially in too much pain to ambulate), 
+and the head of her bed was kept at <45 degrees.  She received a 
+pre-op myelogram, consistent with an expanding T12 lesion from 
+prior imaging.  She was subsequently taken for decompression 
+surgery by Ortho-Spine Team (s/p T10-L2 fusion, T12 Corpectomy) 
+and transferred to the Ortho-Spine service for post-op 
+management for two days.  When she returned to the medicine 
+service on POD2, the patient was unable to move her lower 
+extremities bilaterally.  Ortho-spine service indicated that the 
+patient required additional pain control.  After consult with 
+Neuro-Onc, the patient was transitioned from dexamethasone 10mg 
+Q8 hours to dexamethasone 4mg BID on POD4.  She was transferred 
+to the Neurology service for better management of her leg 
+weakness.  It was felt this was likely due to post-op pain and 
+inability for her to express her pain level due to her aphasia.  
+Her medications were titrated and she did better on a higher 
+dose fentanyl patch with immediate release morphine and tylenol 
+for breaththrough pain.  Subsequently her leg movements improved 
+on better pain control.  She will require XRT for her other bony 
+lesions, and will need to follow up in ___ clinic 
+after XRT (to be arranged by XRT).
+  
+# FED/GI: Patient was found to initially have very mild 
+hypercalcemia on admission. She was NPO for procedure and 
+started on maintenence fluids overnight however did not require 
+agressive IVF. At the time of surgery, her hypercalcemia 
+resolved.  She was advanced to a dysphagia diet post-operatively 
+and did well on that for the rest of her course.  Electrolytes 
+were stable with the exception of potassium which kept returning 
+falsely elevated from hemolosis when drawn off her PICC.
+ 
+# Foot Fracture: The patient was found to have R foot fracture 
+involving the base of the fifth proximal phalanx with extension 
+to the fifth MTP joint.  This was consistent with repeat imaging 
+at ___.  Her L foot and ankles were also imaged because the pt 
+was complaining of additional pain, however, films did not 
+reveal any additional acute fractures.  The feet were vascularly 
+intact.  Orthopedics recommended a hard sole boot for when the 
+patient became ambulatory, otherwise, no intervention necessary. 
+
+
+# Pain: Patient was found in extreme pain when transfered back 
+to medicine service on POD2.  Unclear of origin as patient has 
+difficulty communicating due to her aphasia. Patient's pain was 
+controlled with standing acetaminophen, oxycodone, oxycontin, 
+fentanyl patch and dilaudid IV PRN.  The pain team was also 
+consulted to help manage her pain.  She was able to come off the 
+oxycontin on a higher dose of fentanyl patch, and had PO ___ 
+oxycodone and tylenol for break through pain.
+
+# Encephalopathy: On POD2, there was noted an increase in 
+aphasia, and confusion, which was difficult to assess given 
+baseline communication issues. HCHCT for acute bleed was 
+negative. The Pt was afebrile and infectious work-up including 
+UA was neg. Urine Ctx and blood ctx were negaitve for occult 
+infection.  Her mental status improved with better pain control. 
+ She got a little worse on ___ and was subsequently found to 
+have a new UTI (E Coli), which improved after treating with 
+first ceftriaxone and then Bactrim when sensitivies returned 
+pan-sensitive.
+
+# Hct Drop: The patient Hct dropped from 32 on POD1-->22 on 
+POD2, Hemavac drained only 185cc, pt responded appropriately to 
+2U PRBC.  Unclear where bleed is.  Patients Hct subsequent 
+remained stable after transfusion.  A T&L MRI revealed:
+"Posterior and right-sided intraspinal fluid collection 
+communicates through 
+the laminectomy defect and causes anterior and left lateral 
+displacement of 
+the thecal sac.  This leads to severe encroachment on the distal 
+spinal cord.  
+There are no findings to suggest tumor in this location.  The 
+signal intensity 
+characteristics are typical of simple fluid, rather than 
+hemorrhage."  Her Hct remained stable and the ultimate source of 
+her Hct drop was never identified but felt to be possibly due to 
+post-op hemolysis.  The fluid collection was discussed with 
+ortho spine service who felt it could be conservatively watched 
+for now (likely just post-surgical changes).
+
+# History of Stroke: The patient was continued on home dose of 
+aggrenox until the time of her surgery.  When the patient was 
+transfered back to Medicine on POD2, the aggrenox was held.  It 
+was restarted on ___ at the consent of orthopedics team.
+
+# HTN: The patient was continued on home dose of losartan, 
+diltiazem and atenolol  
+
+# HLD: The patient was continued on her home dose of pravastatin 
+
+
+# ID: UTI discovered ___eveloped foul smelling 
+urine and WBC bumped to 22 (but this was felt to partially be 
+due to her dexamethasone as well).  Treated with first 
+Ceftriaxone, then Bactrim, and culture grew out pan-sensitive E 
+Coli.  
+
+# Access: Pt had a PICC line placed and confirmed in good 
+position early on in her hopspitalization.  Due to initial 
+concerns with dysphagia and patient frequently spitting out her 
+meds, we decided to keep her steroids IV to ensure she received 
+this crucial medication post-operatively. Once she has started 
+radiation therapy, however, the PICC may come out and the IV 
+steroids may be converted to the PO form.
+
+ 
+Medications on Admission:
+Lasix 20 qd
+Pravastatin 80 qD
+Allopurinol ___ qD
+Colchicine PRN
+Aggrenox 25 BID
+Cozaar 50 qD
+Atenolol 25 BID
+
+ 
+Discharge Medications:
+1. Atenolol 25 mg PO DAILY 
+2. Diltiazem Extended-Release 240 mg PO DAILY 
+3. Furosemide 20 mg PO DAILY 
+4. Losartan Potassium 50 mg PO DAILY 
+5. Pravastatin 80 mg PO DAILY 
+6. Acetaminophen 650 mg PO Q6H:PRN pain 
+7. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+8. Docusate Sodium 100 mg PO BID 
+9. Fentanyl Patch 50 mcg/h TD Q72H 
+RX *fentanyl 50 mcg/hour place one patch on skin change every 72 
+hours Disp #*10 Transdermal Patch Refills:*0
+10. Heparin 5000 UNIT SC TID 
+11. Heparin Flush (10 units/ml) 2 mL IV PRN line flush 
+12. Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using REG Insulin
+13. OxycoDONE (Immediate Release)  10 mg PO Q4H 
+RX *oxycodone 10 mg 1 tablet(s) by mouth every 4 hours Disp 
+#*120 Tablet Refills:*0
+14. Polyethylene Glycol 17 g PO DAILY 
+15. Ranitidine 150 mg PO BID 
+16. Senna 1 TAB PO BID 
+17. Dipyridamole-Aspirin 1 CAP PO BID 
+18. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 2 Days 
+19. Allopurinol ___ mg PO DAILY 
+20. Dexamethasone 4 mg IV Q24H (may switch over to PO once 
+radiation therapy starts)
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+T12 destruction spinal lesion - resected
+Secondary diagnosis:
+Post-surgical leg weakness, likely related to pain and 
+deconditioning
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair - advance per ___ recs.
+
+TLSO brace to be worn with any and all attempts at ambulation.
+
+ 
+Discharge Instructions:
+You were admitted for surgery to remove a lesion in your 
+thoracic spine, and then was transferred to the Neurology 
+service for leg weakness after the surgery.  This did get better 
+with pain control and supportive care, and we did not find any 
+othe reason for your new leg weakness.  You likely have a 
+condition called multiple myeloma. This will require radiation 
+therapy for treatment, which have set up for you (see below).
+ 
+Followup Instructions:
+___

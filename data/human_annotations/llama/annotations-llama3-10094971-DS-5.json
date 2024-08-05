@@ -1,0 +1,53 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Complete blood count, electrolyte panel, liver function tests, renal function tests, and others",
+            "startOffset": 1411,
+            "endOffset": 1506,
+            "startWordIndex": 226,
+            "endWordIndex": 239,
+            "omittedDetails": "missing their values"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "RCC to brain",
+            "startOffset": 193,
+            "endOffset": 205,
+            "startWordIndex": 27,
+            "endWordIndex": 30,
+            "omittedDetails": "missing s/p cyberknife, HTN, HL and COPD"
+        }
+    ],
+    "Omitted Patient Information": [],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "antibiotics",
+            "startOffset": 1700,
+            "endOffset": 1711,
+            "startWordIndex": 265,
+            "endWordIndex": 266,
+            "omittedDetails": "vanco/cefepime"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "sacral decubitus ulcer",
+            "startOffset": 1575,
+            "endOffset": 1597,
+            "startWordIndex": 247,
+            "endWordIndex": 250,
+            "omittedDetails": "missing several stage I ulcers (left heel, right hip)"
+        }
+    ],
+    "Omitted Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "interpreted patient's mental status improvement due to IV fluids",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ]
+}

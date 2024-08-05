@@ -1,0 +1,412 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Tegaderm / Honey / adhesive tape / Oxycodone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, bradycardia
+ 
+Major Surgical or Invasive Procedure:
+___ Percutaneous liver abscess drainage
+
+ 
+History of Present Illness:
+___ yo F with metastatic pancreatic cancer (s/p ___ 
+with liver mets s/p RFA ___, with hepatic abscess at RFA 
+which was drained under CT guidance today, admitted for 
+continued pain at drain site and bradycardia after procedure.  
+The ___ had been complaining of RUQ pain, nausea, and chills 
+ever since her RFA.  RUS ultrasound was initially unremarkable, 
+but then CT on ___ showed an abscess at the site of her RFA.  
+She underwent a planned outpatient CT guided drainage today 
+under conscious sedation.  Given 100 mcg fentanyl, 2 mg versed 
+before the procedure.  Per radiology, the procedure was 
+uncomplicated and she tolerated it well.  Following the 
+procedure, however, she continued to have severe pain at the 
+drain site, requiring large amounts of dilaudid.  In all, she 
+recieved about 1.75 mg dilaudid IV then 2 mg PO dilaudid (? 
+unclear total dosage), and then began to feel clammy and sleepy. 
+ PACU staff saw that she was bradycardic to ___.  Per report, 
+bradycardia reversed on its own, and she was not given 
+naltrexone or any other medications.  At that point she said she 
+"felt better", but she was still in ___.  She want then 
+transferred directly to the medicine service for monitoring and 
+antibiotics overnight. 
+.
+Currently, the ___ is sleepy and complains of ___ pain at 
+her drain site.  She is able to tell most of her own history, 
+but her daughter (onc nurse) helps fill in details.
+.  
+ROS: Denies fever, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, nausea, vomiting, diarrhea, constipation, BRBPR, 
+melena, hematochezia, dysuria, hematuria.  
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+- She initially presented with painless jaundice in ___, and workup at that time with ultrasound and MRCP 
+demonstrated a pancreatic mass with diffuse intrahepatic and CBC 
+
+dilatation. She underwent a Whipple procedure performed in 
+___.  
+- Pathology at that time demonstrated moderately differentiated 
+adenocarcinoma of the pancreas metastatic to one lymph node.  
+- She then commenced adjuvant chemotherapy with gemcitabine in 
+___.  
+- She completed six cycles in ___.  
+- Most recently in ___, a new 1.1-cm lesion was seen 
+in the liver, with corresponding increase in ___.  
+- She underwent treatment with Xeloda starting in ___.  
+- She resumed Gemzar in ___ in the setting of disease 
+progression  and has remained on this chemotherapy to date (last 
+dose delivered ___.  
+- RFA of liver metastasis on ___ 
+.   
+PAST MEDICAL HISTORY:  
+-Bipolar disorder  
+-GERD  
+-Lap CCY approx ___ yrs ago  
+-___ ___ for pancreatic cancer  
+-rhinoplasty  
+-Factor V Leiden heterozygous-hx of neck clot for which she 
+remains on Lovenox  
+ 
+Social History:
+___
+Family History:
+No family history of pancreatic or GI malignancy. 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS - Temp 97.7F, BP 114/70, HR 79, R 18, O2-sat 100% RA  
+GENERAL - middle aged female in NAD, sleepy, comfortable
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, slightly dry MM, 
+OP clear  
+NECK - supple, no thyromegaly, no JVD  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - Large scar from whipple with ventral hernia.  Perc 
+drain in RUQ with scant bloody fluid draining. Decreased BS, 
+soft/ND, tender near drain site.
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout
+ 
+DISCHARGE PHYSICAL EXAM:
+VS - Tm 99.2, BP 100-120s/50-80s, HR 90-100s, R ___, O2sat 94% 
+2L
+GENERAL - middle aged female in minimal distress, lying in bed, 
+slow responses to questions, quite inattentive
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, no JVD  
+LUNGS - Improved inspiratory effort, scattered crackles in 
+bilateral bases
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - Large scar from whipple with ventral hernia.  Perc 
+drain in RUQ with scant pink purulent fluid draining. Decreased 
+BS, soft/ND, tender near drain site.  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions  
+NEURO - awake, A&Ox3 but extremely inattentive-- drifts off in 
+the middle of answering a question and when asked to recite the 
+months backwards can only say ___ unless helped along
+
+ 
+Pertinent Results:
+LABS:
+ 
+On admission:
+___ 05:45PM BLOOD WBC-6.9 RBC-2.80* Hgb-9.3* Hct-27.5* 
+MCV-98 MCH-33.3* MCHC-33.9 RDW-15.3 Plt ___
+___ 05:45PM BLOOD Neuts-67.0 ___ Monos-4.1 Eos-0.4 
+Baso-0.3
+___ 05:45PM BLOOD ___
+___ 05:45PM BLOOD ESR-108*
+___ 05:45PM BLOOD UreaN-16 Creat-0.7 Na-137 K-4.0 Cl-103 
+HCO3-24 AnGap-14
+___ 05:45PM BLOOD ALT-53* AST-27 AlkPhos-146* TotBili-0.2
+___ 05:45PM BLOOD Calcium-8.6 Phos-3.5 Mg-1.9
+___ 05:45PM BLOOD CRP-16.6*
+___ 05:45PM BLOOD CA ___ -PND
+ 
+On discharge:
+___ 05:18AM BLOOD WBC-7.8 RBC-2.45* Hgb-8.1* Hct-23.5* 
+MCV-96 MCH-33.1* MCHC-34.4 RDW-16.1* Plt ___
+___ 05:18AM BLOOD ALT-19 AST-19 AlkPhos-133* TotBili-0.5
+ 
+MICRO:
+___ CT GUIDED HEPATIC ABSCESS DRAINAGE. 
+      ADD-ON REQUEST FOR FUNGAL CULTURE FROM ___. ___ 
+ON ___
+      @1320. 
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+   WOUND CULTURE (Final ___: 
+      KLEBSIELLA PNEUMONIAE.    SPARSE GROWTH. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+      VIRIDANS STREPTOCOCCI.    SPARSE GROWTH. 
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+___ Urine culture: negative
+  
+IMAGING:
+ 
+___ CT abdomen with contrast:
+IMPRESSION:   
+1. 4.9-cm post RFA hypdensity with foci of air in the right 
+hepatic lobe with pigtail drainage catheter in place is 
+minimally decreased in size from preprocedure imaging. Given 
+poor output and minimal decrease in size, the findings were 
+discussed with the team, and it was decided to upsize the 
+catheter which will be performed tomorrow.   
+2. Stable post-Whipple appearance of the abdomen.  
+3. New small right pleural effusion and bilateral bibasilar 
+atelectasis. 
+
+ 
+Brief Hospital Course:
+___ yo F with metastatic pancreatic cancer (s/p ___ 
+with liver mets s/p RFA ___, with hepatic abscess at RFA 
+which was drained under CT guidance ___, admitted for continued 
+pain at drain site and bradycardia after procedure.
+ 
+ACTIVE ISSUES BY PROBLEM:
+# Bradycardia:  No history of arrhythmias in the past.  Question 
+if this could have been a medication effect, given that she had 
+received numerous narcotics throughout the day and the event was 
+preceded by multiple doses of dilaudid.  Her claminess also 
+suggests possibly a vasovagal reaction, which may have been in 
+response to the pain from her procedure.  Monitored on telemetry 
+with no further events other than PVCs. 
+ 
+# Liver abscess:  Studies on fluid were sent, and gram stain 
+positive for GNRs.  Started on meropenem on ___ per ID 
+recommendations. Abscess fluid grew pan-sensitive Klebsiella and 
+S. viridans, so her antibiotics were changed to ceftriaxone 1g 
+IV q24h and metronidazole 500mg q8h on ___.  Repeat CT 
+abdomen on ___ to assess abscess drainage showed minimal change 
+in size, so the catheter was exchanged for a larger catheter on 
+___.  She will need to keep the drain in with output recorded 
+every shift while at rehab.  Once the drain is putting out <5 
+cc/day for 2 days, she will be seen by ___ ___ NP) 
+to have her catheter checked and possibly pulled.  From an 
+infection standpoint, she will be followed by Infectious Disease 
+in the ___ clinic.  Course of antibiotics will be determined by 
+Dr. ___ and ___ depend on how well the abscess is 
+draining.  Weekly labs (CBC w diff, BMP, and LFTs) will be 
+obtained throughout the duration of her abx therapy and faxed to 
+ID RN at ___.  
+  
+# Pain:  complained of pain at drain site and occasional 
+referred right shoulder pain when lying down. Pain control was 
+an ongoing issue throughout her stay.  She would often not 
+request pain medication until she was in ___ pain, then she 
+would recieve stacked doses and become overly sedated. She never 
+required narcan, but she would complain of feeling "groggy" and 
+"out of it".  After consulting with palliative care, she was 
+started on a regimen of dilaudid 2 mg PO q3h standing with 
+strict instructions to hold when she was sleeping or overly 
+sedated.  This regimen seemed to work better for her although 
+she did have one dose held on the day of discharge due to some 
+"grogginess." She will be discharged to rehab on this regimen, 
+but she should be carefully monitored for pain and doses 
+titrated to her pain needs.  
+ 
+# Pleural effusion:  found to have tiny pleural effusion on 
+admission, which increased slightly while she was an inpatient.  
+She did not have radiographic or clinical evidence of pneumonia. 
+ She did, however, require 2L by NC to keep her O2 sats >91%.  
+We would expect this effusion to begain resolving as the 
+inflammation in her liver begins to go down.  She should 
+continue using incentive spirometry while in rehab to help with 
+the surrounding atelectasis.
+  
+CHRONIC, INACTIVE ISSUES:
+# Metastatic pancreatic cancer:  has a follow up appointment 
+scheduled for ___ with her primary oncologist 
+ 
+# Bipolar disorder: continued abilify, wellbutrin, lamotrigine, 
+klonipin
+  
+# DVT: continued lovenox 
+ 
+TRANSITION OF CARE ISSUES:
+- Antibiotics: will continue ceftriaxone and metronidazole for a 
+prolonged course, length to be determined by ID ___ to 
+follow - ___. She needs to have weekly CBC with diff, 
+chem panel, and liver function tests drawn and faxed to ID nurse 
+at ___. All questions regarding outpatient antibiotics 
+should be directed to the infectious disease R.Ns. at ___ or to on call MD in when clinic is closed 
+- Abscess perc drain: Please flush with 10cc NS with firm pull 
+back and record output q8hrs. If drain output is < 5 cc for at 
+least 2 days, call ___ NP ___ at ___ to arrange 
+follow up for possible drain removal. Please call ___ if 
+there is any concern about the management of the percutaneous 
+drain.
+- Pancreatic cancer: has follow up appointment with Heme/Onc on 
+___
+- Pain control: please give dilaudid every 3 hours, but may hold 
+while she is sleeping or if she is overly sedated. Please 
+titrate dosage to pain needs as her pain from the drain 
+improves. Monitor respiratory rate prior to each dose.
+- Provide oxygen supplement to maintain O2 Sat > 91%.
+- ___ was DNR/DNI this admission
+ 
+Medications on Admission:
+Enoxaparin Sodium 90 mg SC DAILY  
+Citalopram 40 mg PO/NG DAILY  
+BuPROPion (Sustained Release) 200 mg PO QAM  
+Multivitamins 1 TAB PO/NG DAILY   
+Vitamin D 1000 UNIT PO/NG DAILY  
+Lidocaine Viscous 2% 20 mL PO TID:PRN mouth pain   
+Lidocaine 5% Patch 1 PTCH TD DAILY (uses on RUQ)
+LaMOTrigine 100 mg PO/NG BID   
+Clonazepam 0.5 mg PO/NG DAILY 
+Aripiprazole 5 mg PO/NG DAILY  
+Ondansetron ___issolve tablet q8h PRN nausea 
+Senna 1 TAB PO/NG DAILY:PRN constipation   
+Docusate Sodium 100 mg PO BID:PRN constipation   
+Acetaminophen 625mg q6h PRN for rib pain
+ 
+Discharge Medications:
+1. enoxaparin 100 mg/mL Syringe Sig: Ninety (90) mg Subcutaneous 
+DAILY (Daily).  
+2. citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+3. bupropion HCl 100 mg Tablet Extended Release Sig: Two (2) 
+Tablet Extended Release PO QAM (once a day (in the morning)).  
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1) 
+Tablet PO once a day.  
+6. lidocaine HCl 2 % Solution Sig: Twenty (20) ML Mucous 
+membrane TID (3 times a day) as needed for mouth pain.  
+7. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): Use for 
+12 hours, then remove for 12 hours.  
+8. lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+9. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. aripiprazole 5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.  
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) as 
+needed for constipation.  
+13. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+14. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day).  
+15. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO every 3 
+hours: Please hold if sedated or RR <10.  ___ also hold 
+overnight if sleeping.  
+16. Outpatient Lab Work
+Please draw weekly CBC w/differential, basic metabolic panel, 
+and liver function tests, starting on ___. Results 
+should be sent by fax to ID RN at ___.
+17. ceftriaxone 1 gram Recon Soln Sig: One (1) gram Intravenous 
+every ___ hours: Course to be determined by Dr. ___ 
+___ (ID).  
+18. metronidazole 500 mg Tablet Sig: One (1) Tablet PO every 
+eight (8) hours: Course to be determined by Dr. ___ 
+(ID).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+Liver Abscess
+Bradycardia
+Acute post-procedural pain
+ 
+Secondary diagnoses:
+Metastatic pancreatic cancer
+Bipolar disorder
+Deep vein thrombosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+ 
+You were admitted to the hospital following drainage of your 
+liver abscess due to a slow heart rate (bradycardia) and 
+continued pain at your drain site.  We monitored you on 
+telemetry, and we found no more episodes of bradycardia.  We 
+think that this was cause either by some of the medications you 
+had been given or by your body's reaction to the pain from the 
+procedure.
+ 
+In order to treat the infection within your liver abscess, you 
+will need to continue taking intravenous antibiotic ceftriaxone 
+and metronidazole.  The Infectious Disease doctors ___ be 
+following along with you and will re-image your abscess at a 
+later date to help decide how long you need to stay on 
+antibiotics.
+ 
+Your drain will be left in until the draining slows down to less 
+than 5 ml per day for 2 days in a row.  The interventional 
+radiology nurse ___ call the rehab to check on the amount of 
+drainage to decide when the drain should be removed. 
+  
+Changes to your medications:
+START dilaudid 2 mg by mouth every 3 hours (may be held if you 
+are sleeping, feeling groggy, or completely pain free)
+START tylenol ___ mg every 8 hours
+START Ceftriaxone 1gm IV every 24 hours - duration to be 
+determined by Dr. ___ (Infectious Disease)  
+START Metronidazole 500mg by mouth every 8 hours - duration to 
+be determined by Dr. ___ (Infectious Disease) 
+ 
+It was a pleasure taking care of you at ___!
+ 
+Followup Instructions:
+___

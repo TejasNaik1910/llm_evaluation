@@ -1,0 +1,63 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "Vitals' Parameters are considered as overinterpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Blood and protein are stated as positive in the summary which is an interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "In Blood tests, Elevated, low and high are considered to be over interpretative as they're not stated in the patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "edema ",
+            "startOffset": 2447,
+            "endOffset": 2453,
+            "startWordIndex": 324,
+            "endWordIndex": 325,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "symptoms",
+            "startOffset": 4437,
+            "endOffset": 4445,
+            "startWordIndex": 553,
+            "endWordIndex": 554,
+            "omittedDetails": "Shortness of breath, fever, cough and chest pain is generalized as symptoms"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Tests",
+            "startOffset": 2724,
+            "endOffset": 2729,
+            "startWordIndex": 358,
+            "endWordIndex": 359,
+            "omittedDetails": "Some Lab tests are missing from the summary"
+        },
+        {
+            "text": "Analysis",
+            "startOffset": 2650,
+            "endOffset": 2658,
+            "startWordIndex": 349,
+            "endWordIndex": 350,
+            "omittedDetails": "Some urine analysis tests are missing from the summary"
+        }
+    ]
+}
