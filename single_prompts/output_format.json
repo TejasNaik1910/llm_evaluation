@@ -4,10 +4,9 @@
         "text": ""
       }
     ],
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
-          "text": "",
-          "omittedDetails": ""
+          "text": ""
         }
       ],
     "Incorrect Patient History": [
@@ -15,10 +14,9 @@
           "text": ""
         }
       ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
       {
-        "text": "",
-        "omittedDetails": ""
+        "text": ""
       }
     ],
     "Incorrect Symptoms/Diagnosis": [
@@ -26,10 +24,9 @@
           "text": ""
         }
       ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
       {
-        "text": "",
-        "omittedDetails": ""
+        "text": ""
       }
     ],
     "Incorrect Medicinal Instructions": [
@@ -37,10 +34,9 @@
           "text": ""
         }
       ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
       {
-        "text": "",
-        "omittedDetails": ""
+        "text": ""
       }
     ],
     "Incorrect Followup": [
@@ -48,32 +44,21 @@
           "text": ""
         }
       ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
       {
-        "text": "",
-        "omittedDetails": ""
-      }
-    ],
-    "Incorrect Other Inconsistency": [
-      {
-        "text": "",
-        "omittedDetails": ""
-      }
-    ],
-    "Omitted Other Inconsistency": [
-      {
-        "text": "",
-        "omittedDetails": ""
+        "text": ""
       }
     ],
     "Incorrect Reasoning": [
       {
-        "text": ""
+        "text": "",
+        "explanation":""
       }
     ],
     "Chronological Inconsistency": [
       {
-        "text": ""
+        "text": "",
+        "explanation":""
       }
     ] 
   }

@@ -39,14 +39,65 @@ def extract_json(response):
     return json_str if json_str else None
 
 # List of note IDs
-note_ids = ["10001401-DS-20", "10003299-DS-10", "10006029-DS-16", "10006431-DS-24", "10006820-DS-18", "10007795-DS-13"]
+note_ids = [
+    "10000935-DS-21",
+    "10000980-DS-23",
+    "10001401-DS-20",
+    "10054464-DS-17",
+    "10002221-DS-12",
+    "10003299-DS-10",
+    "10056223-DS-14",
+    "10004401-DS-26",
+    "10056612-DS-8",
+    "10006029-DS-16",
+    "10006431-DS-24",
+    "10006580-DS-21",
+    "10006820-DS-18",
+    "10007795-DS-13",
+    "10008628-DS-3",
+    "10010440-DS-5",
+    "10011938-DS-16",
+    "10012292-DS-9",
+    "10014354-DS-23",
+    "10016142-DS-19",
+    "10017285-DS-3",
+    "10018052-DS-16",
+    "10057126-DS-7",
+    "10020306-DS-9",
+    "10021312-DS-20",
+    "10021493-DS-18",
+    "10022373-DS-5",
+    "10057731-DS-7",
+    "10059192-DS-11",
+    "10024331-DS-30",
+    "10060733-DS-12",
+    "10025862-DS-12",
+    "10027957-DS-18",
+    "10032176-DS-14",
+    "10034049-DS-20",
+    "10035631-DS-12",
+    "10060764-DS-6",
+    "10061124-DS-12",
+    "10041127-DS-16",
+    "10062597-DS-7",
+    "10041408-DS-18",
+    "10062981-DS-5",
+    "10041836-DS-21",
+    "10043750-DS-6",
+    "10067059-DS-15",
+    "10067195-DS-13",
+    "10047172-DS-17",
+    "10052938-DS-2",
+    "10052992-DS-11",
+    "10052992-DS-16"
+]
 
 # Process each note_id
 for note_id in note_ids:
     # Load the EHR note and summary content based on note_id
-    ehr_note_file = f'data/notes/oncology-report-{note_id}.txt'
-    summary_file = f'data/summaries/gpt4o-doc-{note_id}.txt'    #need to change summary file for Ilama
-    # summary_file = f'data/summaries/llama3-{note_id}.txt'
+    ehr_note_file = f'data/medical_notes_ids/oncology-report-{note_id}.txt'
+    summary_file = f'data/summaries/gpt40/gpt4o-doc-{note_id}.txt'    #need to change summary file for Ilama
+    # summary_file = f'data/summaries/llama/llama3-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()
@@ -62,23 +113,25 @@ for note_id in note_ids:
 
     Instructions:
 
-    1. Your task is to provide phrases/words for the below-mentioned kinds of hallucinations. Each of these hallucinations has two sub-categories: OMITTED and INCORRECT. For OMITTED sub-categories, please provide a piece of the sentence from the EHR_NOTE or the SUMMARY. You do not need to provide the same for INCORRECT sub-categories.
+    1. Your task is to provide phrases/words for the below-mentioned kinds of hallucinations. 
         a) Patient Information
         b) Patient History
         c) Symptoms/Diagnosis/Surgical Procedures
         d) Medicine related instructions
         e) Followup
+    Each of these hallucinations has two sub-categories: SPECIFIC TO GENERAL and INCORRECT. Please map hallucinations with theor respective sub-categories based on their definitions below:
+    SPECIFIC TO GENERAL - Any detail within the clinical note that goes from specific to a more generalized description or if it is an oversimplification of medical events in the summary. 
+    INCORRECT - Any detail within the clinical note that is twisted or incorrectly stated in the summary (a discharge instruction stated wrongly). An incorrect condition would also mean that the information was generalized in EHR but was more specific in the summarized content.
 
-    2. Your task is to provide an explanation for the below-mentioned hallucination categories: 
+
+    2. Your task is to provide a phrase and a logical explanation for the below-mentioned hallucination categories: 
         a) Chronological Inconsistency
         b) Incorrect Reasoning
 
-    3. If you spot some other inconsistencies that do not fall into any of the above categories, mark it as OMITTED or INCORRECT “Other Inconsistency”. For the OMITTED sub-category, please provide a piece of the sentence from the EHR NOTE or the SUMMARY. You do not need to provide the same for the INCORRECT sub-category.
-
-    4. Use the GUIDELINES mentioned as follows:
+    3. Use the GUIDELINES mentioned as follows:
     {guidelines_content}
 
-    5. Please provide your response in the JSON_FORMAT as mentioned in this file:
+    4. Please provide your response in the JSON_FORMAT as mentioned in this file:
     {output_format_content}
 
     Use this EHR_NOTE:
@@ -97,8 +150,8 @@ for note_id in note_ids:
         try:
             response_dict = json.loads(json_content)
             # Save the response
-            output_file = f'single_prompts/single-prompts-annotations/llm-annotated-gpt4o-{note_id}-single.json' #need to change output file for Ilama
-            # output_file = f'single_prompt/single-prompt-annotations/llm-annotated-llama3-{note_id}.json'
+            output_file = f'single_prompts/single-prompts-annotations/gpt4o/llm-annotated-gpt4o-{note_id}.json' #need to change output file for Ilama
+            # output_file = f'single_prompt/single-prompt-annotations/llama/llm-annotated-llama3-{note_id}.json'
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)
             print("Done")
