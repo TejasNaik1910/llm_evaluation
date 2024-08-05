@@ -96,7 +96,7 @@ note_ids = [ "10000935-DS-21"]              #for testing code, uncomment below v
 # Process each note_id
 for note_id in note_ids:
     # Load the EHR note and summary content based on note_id
-    ehr_note_file = f'data/medical_notes_ids/oncology-report-{note_id}.txt'
+    ehr_note_file = f'data/ehrs/oncology-report-{note_id}.txt'
     summary_file = f'data/summaries/gpt4o/{note_id}.txt'    #need to change summary file for llama3
     # summary_file = f'data/summaries/llama3/{note_id}.txt'
     
