@@ -1,0 +1,39 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 65-year-old male
+* History of prostate cancer (T3b N0 M0, stage III), radiation proctitis, coronary artery disease, paroxysmal atrial fibrillation, hypertension, diabetes, and chronic kidney disease
+
+**Chief Complaint:**
+
+* Bright red blood per rectum (BRPBR)
+
+**History of Present Illness:**
+
+* Patient experienced streaks of blood on toilet paper a few weeks prior to admission, which progressed to bowel movements covered in bright-red blood
+* He reported dull, band-like lower abdominal pain and an episode of chest pain lasting 6 minutes
+* He denied diarrhea, constipation, nausea, vomiting, and fever
+
+**Admission:**
+
+* Initial vital signs: 97.8°C, 67 bpm, 123/95 mmHg, 18 breaths/min, 100% oxygen saturation
+* Labs: HCT 34.0, creatinine 1.5, INR 1.7
+* EKG: normal sinus rhythm with nonspecific lateral ST changes
+* CXR: minimal blunting of the right costophrenic angle, possibly due to a trace pleural effusion or pleural thickening
+* Sigmoidoscopy: findings consistent with radiation proctitis, treated with argon laser
+
+**Hospital Course:**
+
+* Patient remained hemodynamically stable throughout admission
+* Bleeding stopped after sigmoidoscopy and argon laser treatment
+* Discharged to home with follow-up instructions for repeat sigmoidoscopy in 4-6 weeks
+
+**Medications:**
+
+* Discharged on amiodarone, atorvastatin, carbidopa-levodopa, colchicine, cyclobenzaprine, furosemide, glipizide, metoprolol succinate, nitroglycerin, selegiline, aspirin, and dabigatran etexilate
+
+**Discharge Diagnosis:**
+
+* Primary diagnosis: Radiation proctitis
+* Secondary diagnoses: Chest pain, prostate cancer, coronary artery disease, paroxysmal atrial fibrillation, hypertension, diabetes, Parkinsonism, and chronic kidney disease

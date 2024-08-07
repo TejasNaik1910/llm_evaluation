@@ -1,0 +1,62 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Hypotension
+
+**Major Surgical or Invasive Procedure:**
+- PEG tube placement
+
+**History of Present Illness:**
+- The patient is an elderly female with a history of hypertension (HTN), hyperlipidemia (HLD), hypothyroidism, type II diabetes mellitus (DM), recent left middle cerebral artery (MCA) stroke, atrial fibrillation (AF) on dabigatran, and mixed systolic-diastolic congestive heart failure (CHF) with an ejection fraction (EF) of 42%. She was admitted due to orthostatic hypotension, fatigue, decreased appetite, and trouble swallowing. 
+
+**Past Medical History:**
+- Bilateral breast cancer, coronary artery disease (CAD), myocardial infarction (MI) in the 1980s, supraventricular tachycardia (SVT), CHF, urinary incontinence, rectal polyp and adenomas, positive PPD, osteopenia, carpal tunnel syndrome, multinodular goiter, paraganglioma.
+
+**Past Surgical History:**
+- Right mastectomy, left lumpectomy (with chemotherapy and radiation), right axillary mass excision, cardiac catheterization, thyroidectomy, left adrenalectomy for paraganglioma.
+
+**Family History:**
+- Multiple family members with breast cancer.
+
+**Physical Exam:**
+- **Admission:** Alert, interactive, no acute distress, irregularly irregular cardiac rhythm, clear lungs, non-tender abdomen, no edema, normal neurological function.
+- **Discharge:** Frail, talkative but confused, irregularly irregular cardiac rhythm, clear lungs, non-tender abdomen, right-sided hemiparesis.
+
+**Diagnostic Tests:**
+- **CT Head:** Hypodensity in left semi centrum ovale, encephalomalacia, atrophy, small vessel ischemic changes.
+- **CT A/P and Chest:** No evidence of malignancy or infection, 2.2 cm hypodense nodule in left thyroid lobe, mild superior endplate compression deformity of L1.
+- **RUQ U/S:** Gallbladder sludge, septated cyst in segment 4.
+- **Renal U/S:** No hydronephrosis.
+- **TTE:** Severe global hypokinesis, right ventricular dilation, moderate pulmonary artery systolic hypertension, moderate mitral and tricuspid regurgitation.
+- **KUB:** Non-obstructive bowel gas pattern.
+- **CXR:** No new pleural effusion or pneumothorax, right basal atelectasis.
+
+**Medications:**
+- **Admission:** Metformin, dabigatran, furosemide, glipizide, levothyroxine, atorvastatin, nitroglycerin, pantoprazole, diltiazem.
+- **Discharge:** Apixaban, captopril, digoxin, folic acid, hydrocortisone cream, insulin glargine, lansoprazole, lidocaine patch, metoprolol, mirtazapine, multivitamins, thiamine, atorvastatin, furosemide, glipizide, levothyroxine, metformin, nitroglycerin.
+
+**Hospital Course:**
+- The patient was admitted for orthostatic hypotension and failure to thrive. She experienced multietiology shock, which resolved with treatment. She was stabilized and underwent diuresis, improving her BNP and mental status. Persistent AF with rapid ventricular response (RVR) was managed with digoxin and low-dose metoprolol. A PEG tube was placed due to poor oral intake, and she was cleared for pureed foods by the speech team. She was discharged to rehab.
+
+**Discharge Diagnosis:**
+- **Primary:** Acute decompensated heart failure with reduced ejection fraction, atrial fibrillation.
+- **Secondary:** Dementia, C. diff colitis, hypernatremia, malnutrition.
+
+**Discharge Condition:**
+- Confused at times, alert and interactive, out of bed with assistance.
+
+**Discharge Instructions:**
+- Continue medications and follow-up appointments. The patient was treated for weight loss, poor intake, and weakness, and had a PEG tube placed for nutrition. Medications were adjusted for atrial fibrillation, and she was treated for C. diff infection.
+
+**Follow-up:**
+- [Redacted]

@@ -1,0 +1,50 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* 72-year-old female
+* Medical history: stroke, rheumatoid arthritis, leukocytoclastic vasculitis, venous insufficiency, hypothyroidism, and others
+
+**Chief Complaint:**
+
+* Abdominal pain
+
+**Hospital Course:**
+
+* Admitted for abdominal pain concerning for pyelonephritis
+* CT scan showed a lucency on L4/L5, suggesting chronic discitis/osteomyelitis vs severe degenerative joint disease
+* Underwent CT-guided L4-L5 spine biopsy, with cultures negative to date
+* Treated for hypothyroidism with levothyroxine
+* Managed for abdominal pain, back pain, and weight loss
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC) showed abnormal results, including low hemoglobin and hematocrit
+* Blood chemistry showed abnormal results, including elevated glucose and creatinine
+* Thyroid function tests (TFTs) showed abnormal results, including elevated TSH and low free T4
+* CRP (C-reactive protein) was elevated, suggesting inflammation
+
+**Imaging Results:**
+
+* CT scan of the abdomen showed no acute radiographic cardiopulmonary process
+* CT scan of the spine showed a lucency on L4/L5, suggesting chronic discitis/osteomyelitis vs severe degenerative joint disease
+
+**Diagnoses:**
+
+* Degenerative joint disease - severe (primary diagnosis)
+* Hypothyroidism, rheumatoid arthritis, depression (secondary diagnoses)
+
+**Medications:**
+
+* Levothyroxine for hypothyroidism
+* Mirtazapine for appetite stimulation
+* Multivitamins with minerals
+* Pain medications, including acetaminophen and methadone
+* Other medications for various conditions, including rheumatoid arthritis, hyperlipidemia, and depression
+
+**Discharge Instructions:**
+
+* Follow up with endocrinology in 2 weeks for repeat TFTs
+* Continue taking medications as prescribed
+* Follow up with primary care physician (PCP) for weight loss and nutritional counseling
+* Attend rehabilitation therapy to regain strength and mobility

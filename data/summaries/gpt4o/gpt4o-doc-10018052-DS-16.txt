@@ -1,0 +1,76 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Abdominal distention
+
+**Major Surgical or Invasive Procedure:**
+- Paracentesis with removal of 1L ascitic fluid
+
+**History of Present Illness:**
+- The patient is a female with metastatic ER/PR+ breast cancer, previously treated with tamoxifen/lupron and femara/lupron. The cancer has metastasized to the liver. She presented with abdominal fullness and has declined palliative chemotherapy, opting for alternative therapies instead. She sought care for fluid drainage to optimize her response to alternative therapy.
+
+**Past Medical History:**
+- **Breast Cancer:** Initially detected via screening mammogram, confirmed as invasive ductal carcinoma (ER/PR+ HER2-neu 1+). 
+- **Surgical Interventions:** Lumpectomy, laparoscopic bilateral salpingo-oophorectomy, and IUD removal.
+- **Metastasis:** PET CT showed FDG avid liver lesions, confirmed by biopsy. 
+- **Previous Treatments:** Tamoxifen, lupron, femara, and alternative therapies. Declined Xeloda, Avastin, and Taxol.
+- **Recent Imaging:** Abdominal ultrasound showed an enlarged liver with multiple metastatic lesions and trace ascites.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- No family history of breast or gynecological malignancies.
+
+**Physical Exam:**
+- **On Admission:** Vital signs stable, icteric sclerae, bitemporal wasting, no lymphadenopathy, clear lungs, distended abdomen with massive hepatosplenomegaly, and trace pedal edema.
+- **On Discharge:** Similar findings with cachectic appearance, palpable hepatic edge, splenomegaly, and fluid wave in the abdomen.
+
+**Pertinent Results:**
+- **Blood Tests:** Anemia (low Hgb and Hct), elevated liver enzymes (ALT, AST, AlkPhos), and high total bilirubin. Hyponatremia noted.
+- **Imaging:** Abdominal ultrasound confirmed extensive hepatic metastatic disease and trace ascites. Chest X-ray showed no acute cardiopulmonary process.
+
+**Brief Hospital Course:**
+- **Malignant Ascites:** Paracentesis performed, removing 1L of fluid. Patient informed about the likelihood of gradual fluid re-accumulation.
+- **Metastatic Breast Cancer:** Patient continues to refuse palliative chemotherapy, opting for alternative therapies.
+- **Hyponatremia:** Likely due to SIADH, did not respond to fluids.
+- **GERD:** Restarted on omeprazole.
+
+**Transitional Issues:**
+- Patient plans to continue alternative therapies despite medical advice for chemotherapy. Follow-up with primary provider Dr. [Redacted] arranged.
+
+**Medications on Admission:**
+- Vitamin D 800 UNIT PO DAILY
+
+**Discharge Medications:**
+1. Vitamin D 800 UNIT PO DAILY
+2. Prochlorperazine 10 mg PO Q6H PRN nausea
+3. HYDROmorphone (Dilaudid) 2 mg PO Q4H PRN pain
+4. Docusate Sodium 100 mg PO BID
+5. Senna 1 TAB PO BID PRN constipation
+
+**Discharge Diagnosis:**
+1. Metastatic breast cancer
+2. Ascites
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Follow-up for sodium levels, anemia, liver enzymes, uric acid, and LDH as an outpatient. Continue alternative therapies under the care of Dr. [Redacted].
+
+**Follow-up Instructions:**
+- [Redacted]

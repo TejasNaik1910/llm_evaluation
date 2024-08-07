@@ -1,0 +1,53 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Penicillins, NSAIDs, erythromycin base, soft cheeses
+
+**Chief Complaint:**
+- Epigastric pain
+
+**Major Surgical or Invasive Procedure:**
+- Endoscopy
+
+**History of Present Illness:**
+- The patient, a male with a history of chronic lymphocytic leukemia (CLL) on venetoclax, testicular cancer, insulin-dependent diabetes mellitus (IDDM), hypertension, hyperlipidemia, obesity, right subcortical stroke with residual left leg weakness, sick sinus syndrome post-pacemaker, and depression with psychotic features, presented with sudden onset of severe epigastric pain rated 9.5/10, radiating to the back, accompanied by nausea but no vomiting. He has a history of GERD managed with a daily PPI.
+
+**Diagnostic Tests:**
+- **Labs:** Elevated glucose (391), mild anemia (Hgb 10.0), mild hyponatremia (Na 133), elevated BUN (21), normal lipase (25), and elevated lactate (2.0).
+- **EKG:** Sinus tachycardia, no acute ischemic changes, QTc 505.
+- **CTA Abdomen/Pelvis:** No acute intra-abdominal process, no mesenteric ischemia.
+- **EGD:** Normal esophageal mucosa, esophageal hiatal hernia, healing ulcer of the proximal jejunum, and a fistula with mild erythema and food debris.
+
+**Past Medical History:**
+- **Oncologic History:** CLL, non-seminoma testicular germ cell tumor (GCT) post 4 cycles of EP.
+- **Other Conditions:** Sick sinus syndrome post-pacemaker, coronary artery disease (CAD) post-drug-eluting stent (DES) to mid-LAD, cerebrovascular accident (CVA) with residual weakness, type II diabetes on insulin, paroxysmal atrial fibrillation (pAF) on Xarelto, hypertension, hyperlipidemia, morbid obesity, obstructive sleep apnea, pancreatitis, hypothyroidism, peripheral neuropathy, chronic pain, osteoarthritis, major depression with psychotic features, anxiety, conversion disorder, benign paroxysmal positional vertigo, glaucoma.
+- **Surgeries:** Cholecystectomy, bilateral shoulder surgery, gastric bypass surgery.
+
+**Physical Exam:**
+- **Admission:** Obese, sitting comfortably, clear oropharynx, no JVD, no respiratory distress, soft and distended abdomen with tenderness on palpation, 2+ edema in RLE, trace pedal edema in LLE.
+- **Discharge:** Similar findings with non-tender abdomen.
+
+**Hospital Course:**
+- The patient was admitted for severe epigastric pain. Initial workup including CTA, labs, and cardiac evaluation were unrevealing. EGD revealed a healing jejunal ulcer and a fistula. His PPI was increased to BID, and he was given low-dose oxycodone for pain. The course was complicated by lethargy and delirium, managed by adjusting his levothyroxine and psychiatric medications. He also developed contrast-induced nephropathy, which resolved by discharge.
+
+**Medications:**
+- **On Admission:** Included acyclovir, atorvastatin, fenofibrate, furosemide, gabapentin, levothyroxine, lidocaine patch, losartan, pantoprazole, rivaroxaban, senna, sucralfate, topiramate, triamcinolone cream, carbamide peroxide, epinephrine, hydroxyzine, magnesium oxide, melatonin, metoprolol, nystatin-triamcinolone cream, venetoclax, docusate, acetaminophen, aspirin, colchicine, amitriptyline, escitalopram, metformin, insulin, risperidone, oxycodone.
+- **On Discharge:** Adjusted doses of allopurinol, gabapentin, insulin, levothyroxine, lidocaine patch, oxycodone, pantoprazole, risperidone, rivaroxaban, acetaminophen, acyclovir, aspirin, atorvastatin, carbamide peroxide, colchicine, docusate, epinephrine, escitalopram, fenofibrate, furosemide, hydroxyzine, losartan, magnesium oxide, melatonin, metformin, metoprolol, nystatin-triamcinolone cream, senna, sucralfate, topiramate, triamcinolone cream, venetoclax.
+
+**Discharge Diagnosis:**
+- Primary: Jejunal ulcer
+- Secondary: Fistula, lethargy, hypothyroidism, IDDM, delirium, contrast-induced nephropathy, depression with psychotic features, hyperuricemia, elevated LFTs.
+
+**Discharge Instructions:**
+- Continue medications as prescribed, follow up with all physicians, monitor blood sugars, and take pantoprazole BID for 8 weeks.
+
+**Follow-up:**
+- Scheduled follow-ups with primary care, GI, psychiatry, and bariatric surgery.

@@ -1,0 +1,60 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Iodine-Iodine Containing
+
+**Chief Complaint:**
+- Throat pain, confusion, worsening left hemiparesis
+
+**Major Surgical or Invasive Procedure:**
+- [Redacted] and biopsy
+
+**History of Present Illness:**
+- Ms. [Redacted] is a patient with stage IIIA squamous cell carcinoma of the lung, post completion of concurrent chemotherapy and radiation therapy. She has a history of multiple strokes with residual left hemiparesis, hypertension (HTN), dyslipidemia (DL), and prior colon cancer status post hemicolectomy. She was transferred for continuity of care after presenting with confusion and worsening left upper extremity (LUE) weakness. Imaging revealed bilateral scapular metastases but no new stroke.
+
+**Past Medical History:**
+- **Oncologic History:** Initially presented with hemoptysis, diagnosed with squamous cell carcinoma of the lung with lymph node involvement. Underwent bronchoscopy and PET scan confirming stage IIIA disease.
+- **Other Medical History:** History of strokes, hypertension, dyslipidemia, colon cancer (post hemicolectomy), cholecystectomy, diverticulosis, hemorrhoids, and tobacco abuse.
+
+**Diagnostic Tests:**
+- **Imaging:** CT chest, brain MRI, head CT, chest CT, EGD, x-rays of pelvis and femurs, right upper extremity ultrasound.
+- **Lab Results:** Elevated WBC, low hemoglobin, and hematocrit, elevated LDH and alkaline phosphatase, low albumin, and normal electrolytes.
+
+**Medications:**
+- **On Admission:** Nicotine patch, cyanocobalamin, multivitamins, lidocaine viscous, potassium chloride, aspirin, atorvastatin, oxybutynin, clopidogrel.
+- **Discharge Medications:** Enoxaparin, morphine sulfate, naloxone nasal spray, omeprazole, lidocaine viscous, nicotine patch, oxybutynin, potassium chloride.
+
+**Hospital Course:**
+- **Odynophagia/Dysphagia:** Likely due to radiation esophagitis and reflux esophagitis. Managed with viscous lidocaine, PPI, and fluids.
+- **Failure to Thrive:** Attributed to poor oral intake due to esophagitis. Managed with nutrition support, IV fluids, and pain control.
+- **Nonocclusive Thrombus in Right IJ:** Managed with enoxaparin.
+- **Stage IIIA Squamous Cell Lung Carcinoma:** Recent imaging showed a decrease in the right hilar mass but new hepatic and scapular lesions. Future PET scan planned.
+- **Encephalopathy:** Episodes of confusion possibly due to dehydration, pain, and poor sleep. Managed with hydration, nutrition, and pain control.
+- **Chronic/Resolved Issues:** Stable left-sided weakness, history of CVA, severe protein-calorie malnutrition, and tobacco abuse.
+
+**Discharge Condition:**
+- **Level of Consciousness:** Alert and interactive.
+- **Mental Status:** Clear and coherent.
+- **Activity Status:** Bedbound.
+
+**Discharge Instructions:**
+- Continue all medications and keep follow-up appointments.
+- Specific follow-up for esophageal manometry and potential bisphosphonate therapy if osseous metastases are confirmed.
+
+**Discharge Diagnosis:**
+- **Primary:** Odynophagia/Dysphagia, failure to thrive, H. pylori gastritis, stage IIIA squamous cell carcinoma of the lung, non-occlusive thrombus of the right IJ, severe protein-calorie malnutrition.
+- **Secondary:** History of CVA, tobacco abuse.
+
+**Follow-up:**
+- Home with service, code status DNR/DNI, emergency contact is the patient's daughter. 
+
+**Summary:**
+Ms. [Redacted] was admitted for throat pain, confusion, and worsening left hemiparesis. She has stage IIIA squamous cell carcinoma of the lung with recent imaging showing new metastases. Her hospital course included management of odynophagia, failure to thrive, and a nonocclusive thrombus. She was discharged with a comprehensive medication regimen and follow-up instructions, including hospice care.

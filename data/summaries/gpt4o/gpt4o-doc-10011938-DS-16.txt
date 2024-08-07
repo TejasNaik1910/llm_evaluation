@@ -1,0 +1,81 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Confusion
+- Shortness of breath
+
+**Major Surgical or Invasive Procedure:**
+- Bronchoscopy and lymph node biopsy
+
+**History of Present Illness:**
+- The patient, a female with a history of multiple arteriovenous malformations (AVM) and a seizure disorder, presented with hypoxia and altered mental status (AMS). Symptoms of shortness of breath (SOB) had been progressing over the past year. Initial emergency department (ED) vitals indicated hypoxia, and she was treated with oxygen therapy and diuretics. 
+
+**Past Medical History:**
+- Epilepsy (complex-partial)
+- AVM (left frontal, treated with proton beam radiation)
+- Posterior communicating artery aneurysm (treated with clipping)
+- Hyperlipidemia (HLD)
+- Lumbar disc herniation
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Both parents have COPD; father has colon cancer.
+
+**Physical Exam:**
+- **Admission to MICU:** Alert, oriented, no acute distress, significant lung findings (wheezes, rhonchi), no edema, multiple skin excoriations.
+- **Discharge Exam:** Similar findings with improved respiratory status, no acute distress, multiple erythematous skin patches.
+
+**Pertinent Results:**
+- **Blood Tests:** Elevated BNP, elevated creatinine, hyperkalemia, elevated proBNP, low phenytoin level.
+- **Blood Gases:** Elevated pCO2, variable pO2.
+- **Imaging:**
+  - **CXR:** Pulmonary vascular engorgement, basilar atelectasis.
+  - **CTA Chest:** No pulmonary embolism, sclerotic lesions in T11 and manubrium, pulmonary nodules, mediastinal and hilar lymphadenopathy.
+  - **CT Head:** Stable AVM, no new mass effect.
+  - **ECHO:** Mild to moderate left atrial dilation, mild left ventricular hypertrophy, dilated right ventricle.
+
+**Brief Hospital Course:**
+- **AECOPD and Acute Diastolic Heart Failure:** Treated with diuretics, BiPAP, albuterol, ipratropium, azithromycin, and prednisone. Oxygenation and mental status improved.
+- **Pulmonary Nodules and Mediastinal Lymphadenopathy:** Biopsy of hilar lymph node was negative for malignancy. Follow-up with Pulmonary for further evaluation.
+- **Acute Renal Failure:** Likely pre-renal azotemia; creatinine returned to baseline after diuresis and holding lisinopril.
+- **Hypertension:** Managed with Amlodipine.
+- **Complex Seizure Disorder:** Continued home medications with no adjustments; no seizures during admission.
+
+**Medications on Admission:**
+- Lamotrigine, Levetiracetam, Lisinopril, Lorazepam, Phenobarbital, Phenytoin Sodium Extended
+
+**Discharge Medications:**
+- ProAir HFA, Symbicort, Lamotrigine, Levetiracetam, Phenobarbital, Phenytoin Sodium Extended, Amlodipine, Diphenhydramine, Sarna Lotion
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- **Primary:** Acute exacerbation of COPD, acute diastolic heart failure, pulmonary nodules, sclerotic bone lesions, mediastinal and hilar lymphadenopathy.
+- **Secondary:** Epilepsy, left frontal AVM, posterior communicating artery aneurysm, lumbar disc herniation.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Advised on COPD management, importance of not smoking, and follow-up with pulmonologist for further evaluation of lung nodules and lymphadenopathy.
+
+**Follow-up Instructions:**
+- Outpatient Dermatology for pruritis
+- Follow-up flow cytometry to rule out T cell lymphoma and histiocytosis
+- Evaluate volume status and restart Lasix PRN

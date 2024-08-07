@@ -1,0 +1,75 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No known drug allergies
+
+**Chief Complaint:**
+- Syncope
+
+**Major Surgical or Invasive Procedure:**
+- Endoscopy with banding of esophageal varices
+
+**History of Present Illness:**
+- The patient, a gentleman with hepatocellular carcinoma (HCC) versus intrahepatic cholangiocarcinoma, presented with syncope and coffee ground emesis. He has a history of massive disease progression on reduced dose sorafenib therapy. Initial evaluation revealed upper gastrointestinal bleeding (UGIB) with a significant hematocrit drop from 35 to 16.7, and white blood cell count of 22. He received 2 units of blood and 4 liters of fluid, and was started on vancomycin, levofloxacin, and metronidazole. A CT scan showed advanced infiltrative HCC with right portal vein occlusion and increased ascites.
+
+**Diagnostic Tests and Imaging:**
+- **CT Abdomen/Pelvis:** Advanced infiltrative HCC, right portal vein occlusion, increased ascites, and diffuse hyperenhancement of the small bowel wall.
+- **CXR:** Normal heart size, clear lungs, no free air.
+- **KUB:** No obstruction, contrast in the colon.
+- **EGD:** Grade II esophageal varices banded, mild portal hypertensive gastropathy.
+- **CT Torso:** Massive infiltrative HCC involving the entire liver, ascites, no extra-hepatic spread.
+- **Blood Culture:** Viridans streptococci isolated, treated with vancomycin initially, then clindamycin.
+
+**Physical Exam:**
+- **Vitals:** 99.0°F, 124/90 mmHg, 81 bpm, 16 breaths/min
+- **General:** Thin, chronically ill appearance
+- **HEENT:** Anicteric sclerae, clear oral cavity
+- **Neck:** Supple, no lymphadenopathy
+- **Cardiovascular:** Regular rhythm, no murmurs
+- **Respiratory:** Clear to auscultation
+- **Abdomen:** Soft, non-tender, moderately distended, ascites present
+- **Extremities:** No edema
+- **Neurologic:** Alert and oriented, normal cranial nerves, steady gait
+
+**Pertinent Lab Results:**
+- **Admission Hct:** 16.7
+- **Discharge Hct:** 31.0
+- **Liver Enzymes:** Elevated AST, ALT, and bilirubin levels
+- **Blood Culture:** Viridans streptococci
+
+**Hospital Course:**
+- **UGIB:** Managed with blood transfusions, octreotide, PPI, and EGD with variceal banding. Stable hematocrit post-transfusion.
+- **Infection:** Initial treatment with vancomycin, switched to clindamycin after blood culture results.
+- **Metabolic Acidosis:** Resolved with blood products and IV fluids.
+- **Hypercalcemia:** Managed with IV fluids and lasix, calcium normalized by discharge.
+- **Liver Cancer:** No chemotherapy during hospitalization, recommended palliative care.
+
+**Medications:**
+- **Admission:** Megestrol, ondansetron, oxycodone, prochlorperazine, omeprazole
+- **Discharge:** Sucralfate, docusate, pantoprazole, ciprofloxacin, lactulose, oxycodone, compazine, megestrol, ondansetron, clindamycin
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Hepatocellular carcinoma vs intrahepatic cholangiocarcinoma with portal vein occlusion
+- UGIB secondary to portal hypertension
+- Anemia secondary to blood loss
+- Hypercalcemia
+
+**Discharge Condition:**
+- Stable, no active bleeding, ambulating without assistance, tolerating diet and medications
+
+**Discharge Instructions:**
+- Follow up with primary care physician within a week, monitor for signs of bleeding, and take all prescribed medications.
+
+**Follow-up Instructions:**
+- [Redacted]

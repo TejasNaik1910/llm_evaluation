@@ -1,0 +1,56 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 63-year-old male
+* Severe aortic stenosis, coronary artery disease, hypertension, multiple myeloma (well-controlled), and obesity
+
+**Chief Complaint:**
+
+* Chest pain
+
+**History of Present Illness:**
+
+* Intermittent exertional chest pain and shortness of breath for several months
+* Abnormal stress test and cardiac catheterization showing unchanged coronary artery disease and severe aortic stenosis
+* Deemed intermediate surgical risk for aortic valve replacement
+
+**Procedure:**
+
+* Transcatheter aortic valve replacement (TAVR) with a ___ 3 aortic valve bioprosthesis
+
+**Diagnostic Tests:**
+
+* Transthoracic echocardiogram (TTE) showing severe aortic valve stenosis and normal left ventricular systolic function
+* Computed tomography (CT) head without contrast showing no evidence of recent territorial infarct or intracranial hemorrhage
+* Magnetic resonance imaging (MRI) brain showing multiple scattered foci of slow diffusion involving the bilateral frontal, left parietal, and left occipital lobes, suggestive of cardioembolic etiology
+* Electroencephalogram (EEG) pending
+
+**Medications:**
+
+* Aspirin 81mg daily
+* Clopidogrel 75mg daily
+* Atorvastatin 80mg daily
+* Pantoprazole 40mg daily
+* Furosemide 40mg daily (as needed for weight gain)
+* AmLODIPine 10mg daily
+* Hydrochlorothiazide 12.5mg daily
+* Metoprolol Succinate XL 25mg daily
+* PARoxetine 40mg daily
+* Pregabalin 50mg TID
+* Gabapentin 600mg TID
+* Lenalidomide 10mg daily (for multiple myeloma)
+
+**Discharge Instructions:**
+
+* Take all medications as directed, especially aspirin and clopidogrel
+* Weigh yourself daily and report any significant weight gain to your doctor
+* Follow up with your heart doctor and primary care doctor
+* Obtain prophylactic antibiotics prior to any dental procedure
+
+**Discharge Diagnosis:**
+
+* Severe aortic stenosis status post TAVR
+* Hypertension
+* Coronary artery disease
+* Embolic stroke

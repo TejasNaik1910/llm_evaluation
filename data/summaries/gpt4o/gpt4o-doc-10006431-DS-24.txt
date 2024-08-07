@@ -1,0 +1,70 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Latex
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- **Endoscopic Ultrasound (EUS):** Celiac Plexus Neurolysis performed using a linear echoendoscope. Bupivacaine and dehydrated alcohol were injected to manage pain.
+
+**History of Present Illness:**
+- The patient, a [Redacted]-year-old woman with metastatic pancreatic cancer, was admitted due to progressive epigastric abdominal pain over one week. She is deaf and uses ASL, with her son assisting in communication.
+- Symptoms included nausea, dry heaves, poor oral intake, and emesis. Initial treatment included olanzapine for nausea, which caused drowsiness.
+- Diagnostic tests in the ED revealed elevated lipase (2800), and a CT scan showed a large infiltrative pancreatic head tumor with associated pancreatitis and liver metastases.
+
+**Past Medical History:**
+- **Oncologic History:** Diagnosed with borderline resectable pancreatic ductal adenocarcinoma (PDA) with a pancreatic head mass. Initial treatment included neoadjuvant FOLFIRINOX, followed by mFOLFOX. Surgery was aborted due to liver metastases, and palliative chemotherapy with gemcitabine was initiated.
+- **Other Conditions:** Hypertension, congenital deafness, GERD, goiter, nephrolithiasis, hypercholesterolemia, status post C-section x2.
+
+**Social and Family History:**
+- Family history includes father with MI, mother with type 2 diabetes, and sisters with colon cancer and another unspecified disease. The patient has two healthy sons.
+
+**Physical Exam:**
+- **Vitals:** T 97.9, BP 108/66, HR 70, RR 18, O2 95% RA.
+- **General:** No acute distress.
+- **HEENT:** Moist mucous membranes.
+- **CV:** Regular rhythm, normal heart sounds.
+- **Pulm:** Clear to auscultation bilaterally.
+- **Abdomen:** Bowel sounds present, soft, less tender in the epigastric area.
+- **Limbs/Skin/Neuro:** No abnormalities noted.
+
+**Pertinent Results:**
+- **Labs:** Elevated WBC (12.0), low RBC (3.41), low Hgb (9.6), low Hct (30.0), low albumin (2.7), elevated lipase (293).
+- **Imaging:** CT abdomen showed a large infiltrative pancreatic head tumor, tumor infiltrate/pancreatitis, portal vein and splenic vein attenuation, multiple liver metastases, and significant stool in the right colon.
+
+**Assessment and Plan:**
+- **Pancreatitis:** Likely due to tumor-related inflammation. Managed with a low-fat diet, palliative care consultation, and pain management with oxycontin.
+- **Metastatic Pancreatic Cancer:** Initially treated with neoadjuvant chemotherapy and planned Whipple procedure, which was aborted due to liver metastases. Currently on palliative gemcitabine, with plans to initiate nab-paclitaxel postponed until the patient regains strength.
+- **Hypertension:** Managed by discontinuing ACE inhibitors due to hypotension.
+- **GERD:** Continued on PPI.
+
+**Medications on Admission:**
+- Lisinopril, olanzapine, omeprazole, ondansetron, oxycodone, prochlorperazine, tramadol, acetaminophen.
+
+**Discharge Medications:**
+- Lidocaine patch, magnesium citrate, milk of magnesia, multivitamins, oxycodone SR, polyethylene glycol, senna, ondansetron ODT, acetaminophen, olanzapine, omeprazole, oxycodone IR.
+
+**Discharge Disposition:**
+- Home with services.
+
+**Discharge Instructions:**
+- Continue a low-fat diet, eat small frequent meals, and avoid alcohol and greasy foods. Follow up with oncology and palliative care.
+
+**Follow-up Instructions:**
+- [Redacted]
+
+**Billing:**
+- >30 minutes spent coordinating care for discharge.
+
+**Signed by:**
+- [Redacted], D.O., Heme/Onc Hospitalist

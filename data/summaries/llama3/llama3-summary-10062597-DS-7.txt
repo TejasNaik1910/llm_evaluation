@@ -1,0 +1,48 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 62-year-old female
+* History of metastatic non-small cell lung cancer (NSCLC)
+* Currently on a study drug (kinase inhibitor)
+
+**Chief Complaint:**
+
+* Atrial clot
+
+**History of Present Illness:**
+
+* Found to have a right atrial tumor thrombus and right common iliac artery clot on routine CT torso
+* Admitted to the hospital for monitoring and treatment
+
+**Physical Exam:**
+
+* Vital signs: T 98.1, HR 112, BP 115/75, R 20, O2 sat 93% on 4L nasal cannula
+* Cool right lower extremity with dopplerable pulses, normal strength and sensation
+
+**Diagnostic Tests:**
+
+* CT Torso: showed a sizeable filling defect in the left atrium, consistent with tumor thrombosis, and evidence of arterial thrombosis at the right common iliac artery
+* Bronchoscopy: no evidence of endobronchial lesions or bleeding
+* Portable TTE: showed a nonmobile globular mass in the left atrium, projecting into the body of the left atrium
+
+**Medications:**
+
+* Heparin drip, transitioned to Lovenox prior to discharge
+* Albuterol, benzonatate, codeine-guaifenesin, flurazepam, hydrocodone-acetaminophen, lorazepam, oxygen, prochlorperazine, trazodone, loperamide, and omeprazole
+
+**Discharge Diagnosis:**
+
+* Metastatic non-small cell lung cancer
+* Left atrial thrombus
+* Right common iliac artery thrombus
+
+**Discharge Condition:**
+
+* Stable, with O2 sats in the low 90's on 4L nasal cannula
+
+**Discharge Instructions:**
+
+* Continue current medications, including Lovenox
+* Follow-up appointment with Dr. ___ on ___
+* Echocardiogram scheduled in ___ weeks to evaluate the thrombus in the heart

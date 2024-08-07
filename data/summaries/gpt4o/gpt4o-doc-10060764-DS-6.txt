@@ -1,0 +1,83 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Demerol
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Bile duct obstruction, status post (s/p) Endoscopic Retrograde Cholangiopancreatography (ERCP).
+
+**Major Surgical or Invasive Procedure:**
+- ERCP with sphincterotomy.
+
+**History of Present Illness:**
+- The patient is an elderly female with a past medical history (PMH) of hypertension (HTN) and atrial fibrillation (Afib) status post permanent pacemaker (PPM). She presented with epigastric pain for several years, which radiates to her back and is occasionally related to eating. No associated nausea, vomiting, diarrhea, fever, chills, sweats, jaundice, weight loss, or changes. Recent liver function tests (LFTs) showed transaminitis and hyperbilirubinemia. A CT scan revealed biliary dilation and possible porta hepatis soft tissue density, leading to an ERCP referral. The patient stopped warfarin 7 days prior to the procedure.
+
+**ERCP Findings:**
+- Severe stenosis of the major papilla; sphincterotomy performed but common bile duct (CBD) cannulation was unsuccessful. The pancreatic duct was normal.
+
+**Post-ERCP Symptoms:**
+- Nausea with bilious vomiting, no fever, chills, sweats, abdominal pain, diarrhea, chest pain, or shortness of breath.
+
+**Past Medical History:**
+- Hypertension (HTN)
+- Atrial fibrillation (Afib) status post permanent pacemaker (PPM) on coumadin
+
+**Family History:**
+- Mother: Colon cancer
+- Sister: Multiple myeloma
+- Niece: Lung cancer
+- Father: Coronary artery disease
+- Maternal grandfather: Stomach cancer
+
+**Physical Exam:**
+- Vital signs: 96.9°F, BP 166/70, HR 77, RR 18, SpO2 98% on room air
+- General: Uncomfortable due to nausea, alert and oriented x3
+- HEENT: No significant findings
+- Neck: Supple, no lymphadenopathy
+- Chest: Clear to auscultation bilaterally
+- Cardiovascular: Normal heart sounds, no murmurs, gallops, or rubs
+- Abdomen: Soft, non-tender, non-distended, normal bowel sounds
+- Extremities: No cyanosis, clubbing, or edema
+- Neurological: Alert and oriented x3, non-focal
+
+**Pertinent Results:**
+- Elevated liver enzymes (ALT, AST, ALP), bilirubin, and potassium
+- Normal pancreatic duct on ERCP
+- Suspicious hilar mass on CT pancreas protocol, possible Klatskin's tumor
+
+**Second ERCP Findings:**
+- Evidence of previous sphincterotomy, single irregular stricture of malignant appearance at the hilum, moderate pre-obstructive dilation. Successful placement of a 5cm double pigtail plastic biliary stent with excellent drainage. Cytology samples obtained.
+
+**Hospital Course:**
+- Admitted for bile duct obstruction with chronic abdominal pain and new transaminitis. Initial ERCP and sphincterotomy were unsuccessful. Started on IV Unasyn for empiric cholangitis. CTA pancreas showed a suspicious hilar mass. Underwent a second ERCP with successful stent placement and cytology brushings. Post-procedural complications included chest pain, HTN, nausea, vomiting, and abdominal pain. Symptoms improved, and the patient tolerated a solid diet.
+
+**Discharge Medications:**
+1. Metoprolol succinate 50 mg daily
+2. Amoxicillin-pot clavulanate 500-125 mg every 8 hours for 2 days
+3. Warfarin 5 mg daily
+4. Tramadol 50 mg as needed for pain
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Bile duct obstruction
+- Atrial fibrillation
+- Hypertension
+
+**Discharge Condition:**
+- Clear and coherent mental status, alert and interactive, ambulatory and independent.
+
+**Discharge Instructions:**
+- Restart warfarin today. Continue antibiotics for the prescribed duration. Follow up with the primary care physician (PCP) for cytology results to determine if the lesion is malignant.
+
+**Follow-up Instructions:**
+- [Redacted]

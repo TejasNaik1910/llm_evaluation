@@ -1,0 +1,63 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Age: ___ (not specified)
+* Sex: Female
+* Medical History: Bilateral breast cancer, hypertension, hyperlipidemia, type II diabetes, mixed systolic-diastolic heart failure, atrial fibrillation, and recent left MCA stroke.
+
+**Chief Complaint:**
+
+* Hypotension
+
+**Admission and Discharge:**
+
+* Admission date: ___ (not specified)
+* Discharge date: ___ (not specified)
+* Discharge weight: 136 pounds
+* Discharge disposition: Extended care facility
+
+**Diagnosis:**
+
+* Primary: Acute decompensated heart failure with reduced ejection fraction, atrial fibrillation
+* Secondary: Dementia, C. diff colitis, hypernatremia, malnutrition
+
+**Medications:**
+
+* Apixaban 5 mg PO BID
+* Captopril 3.125 mg PO TID
+* Digoxin 0.125 mg PO DAILY
+* FoLIC Acid 1 mg PO DAILY
+* Hydrocortisone (Rectal) 2.5% Cream ___ID rectal pain
+* Glargine 10 Units Breakfast Insulin SC Sliding Scale using HUM Insulin
+* Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY
+* Lidocaine 5% Patch 1 PTCH TD QAM left hip
+* Metoprolol Tartrate 6.25 mg PO Q6H
+* Mirtazapine 7.5 mg PO QHS
+* Multivitamins W/minerals 1 TAB PO DAILY
+* Thiamine 100 mg PO DAILY
+* Atorvastatin 40 mg PO QPM
+* Furosemide 20 mg PO DAILY
+* GlipiZIDE XL 5 mg PO DAILY
+* Levothyroxine Sodium 75 mcg PO DAILY
+* MetFORMIN (Glucophage) 500 mg PO BID
+* Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain
+
+**Tests and Procedures:**
+
+* CT Head: Hypodensity in the left semi-centrum ovale, encephalomalacia of the right frontal, right occipital, left frontal, and left cerebellar hemisphere
+* CT A/P: No evidence of malignancy or infection in the chest or abdomen
+* CT Chest: No evidence of malignancy or infection in the chest or abdomen
+* RUQ U/S: Gallbladder sludge without wall thickening or intraductal biliary dilatation, septated cyst in segment 4
+* Renal U/S: No hydronephrosis on either side, normal appearance of the urinary bladder
+* TTE: Severe global hypokinesis, moderate pulmonary artery systolic hypertension, moderate mitral regurgitation, moderate tricuspid regurgitation
+* KUB: Non-obstructive bowel gas pattern
+* CXR: No new pleural effusion or pneumothorax, right basal atelectasis
+* G Tube Placement: Successful placement of a ___ Fr MIC gastrostomy tube
+
+**Response to Treatment:**
+
+* Patient's ejection fraction was reduced to 23% during hospitalization, but improved with treatment
+* Atrial fibrillation was managed with rate control medications
+* Patient was cleared for pureed foods and thin liquids by the speech and swallow team
+* PEG tube placement was successful, and patient was started on bolus tube feeds 3x daily

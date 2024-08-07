@@ -1,0 +1,70 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Age: Not specified
+* Sex: Female
+* Date of Birth: Not specified
+
+**Chief Complaint:**
+
+* Dyspnea, cough, headache, diarrhea
+
+**Medical History:**
+
+* Hypertension
+* COPD
+* IDDM
+* Hypothyroidism
+* DVT
+* Seizure disorder
+* GERD
+* Hyperlipidemia
+
+**Present Illness:**
+
+* Presented with shortness of breath, diarrhea, pounding headache, and edema
+* Found to have severe hyponatremia (Na 115)
+* Had a history of DVT and was taking HCTZ
+
+**Diagnostic Tests:**
+
+* Complete Blood Count (CBC)
+* Basic Metabolic Panel (BMP)
+* Liver Function Tests (LFTs)
+* Troponin
+* Pro-BNP
+* Echocardiogram (TTE)
+* Endoscopy (EGD) and colonoscopy
+* Bilateral lower extremity veins study (no DVT)
+
+**Diagnoses:**
+
+* Hypervolemic hyponatremia
+* Iron deficiency anemia
+* Heart failure with preserved ejection fraction
+* Dysphagia
+* Klebsiella UTI
+* Vulvovaginal candidiasis
+* Urinary retention
+* Hypoxia/dyspnea
+* Hyperglycemia
+* Sore throat
+* Hypomagnesemia
+
+**Medications:**
+
+* Discontinued HCTZ
+* Started torsemide 10 mg PO QD for heart failure
+* Continued home medications, including losartan, metoprolol, pravastatin, levothyroxine, and others
+
+**Discharge Disposition:**
+
+* Extended care facility
+* Discharge condition: Ambulatory, requires assistance or aid (walker or cane)
+
+**Follow-up Instructions:**
+
+* Continue taking all medications and keep appointments
+* Follow up on pathology from colonoscopy and EGD biopsies
+* Counsel patient to avoid NSAIDs given history of microcytic anemia and gastritis on EGD

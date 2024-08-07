@@ -1,0 +1,37 @@
+Here is a summary of the clinical note with the essential information:
+
+**Cancer Type:** Hepatocellular carcinoma (HCC)
+
+**Morphology:** Not specified
+
+**Cancer Stage:** Not specified
+
+**Progression:** Recurrent HCC, with a new echogenic area in the medial aspect of the right lobe of the liver
+
+**TNM Staging:** Not specified
+
+**Prescribed Medications:**
+
+* Clotrimazole 1 TROC PO 5X/DAY
+* Vitamin D 50,000 UNIT PO 1X/WEEK
+* Furosemide 40 mg PO DAILY
+* Nadolol 20 mg PO DAILY
+* Omeprazole 40 mg PO BID
+* Spironolactone 150 mg PO DAILY
+* Lactulose 30 mL PO QID
+* Rifaximin 550 mg PO BID
+* Simethicone 80 mg PO QID:PRN gas pain
+
+**Diagnostic Tests:**
+
+* Ultrasound (RUQ) showing a new echogenic area in the medial aspect of the right lobe of the liver
+* MRI showing no changes concerning for HCC
+* Blood tests (WBC, RBC, Hgb, Hct, MCV, MCH, MCHC, RDW, Plt, PTT, INR, Glucose, UreaN, Creat, Na, K, Cl, HCO3, AnGap, ALT, AST, AlkPhos, TotBili, Albumin)
+* Urine test (Blood, Nitrite, Protein, Glucose, Ketone, Bilirubin, Urobilin, pH, Leuks)
+* Cerebrospinal fluid (CSF) analysis (WBC, RBC, Polys, Glucose, TotProt)
+
+**Surgical Interventions:** None
+
+**Patient's Response to Treatment:** The patient remained afebrile and without signs of infection after stopping antibiotics. The patient was discharged with a plan for follow-up laboratory studies and an appointment with the primary care doctor.
+
+Note: The patient has a history of HCC, HCV, EtOH cirrhosis, and has undergone TACE x2 and RFA. The patient is on the transplant list with a current MELD score of 9.

@@ -1,0 +1,77 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- Sigmoidoscopy with placement of an uncovered colonic metal stent
+
+**History of Present Illness:**
+- The patient, with a history of Alzheimer's dementia, atrial fibrillation on Coumadin, and colon cancer with metastatic disease to the liver, presented with concerns for bowel obstruction. Diagnosed with colon cancer recently, the patient and family opted for a minimally invasive approach, avoiding chemotherapy, surgery, or radiation. A recent CT scan showed worsening liver metastasis with multiple enlarging masses. A colonoscopy revealed a constricting mass at 15 cm, leading to the decision for stenting versus colostomy.
+
+**Physical Exam:**
+- **Admission VS:** 97.6°F, BP 132/88, HR 82, RR 18, 100% RA
+- **Discharge VS:** 97.5°F, BP 111/78, HR 100, RR 18, 100% RA
+- **General:** NAD, hard of hearing
+- **HEENT:** EOMI, PERRL, MMM, good dentition
+- **Neck:** Nontender, supple, no LAD, no JVD
+- **Cardiac:** Irregularly irregular, S1/S2, no murmurs, gallops, or rubs
+- **Lung:** CTAB, no wheezes, rales, rhonchi
+- **Abdomen:** Nondistended, +BS, nontender, no rebound/guarding, no hepatosplenomegaly
+- **Extremities:** No cyanosis, clubbing, or edema
+- **Pulses:** 2+ DP pulses bilaterally
+- **Neuro:** CN II-XII intact
+- **Skin:** Warm, well-perfused, no rashes
+
+**Pertinent Results:**
+- **CT Abdomen/Pelvis:** Multiple enlarging liver masses, dilated common duct, possible ampullary lesion, unchanged pancreatic duct, normal spleen and adrenal glands, unremarkable right kidney, hyperintense cyst in the left kidney, normal small bowel and colon, enlarged prostate, clear lung bases, extensive degenerative changes in the spine and hips.
+- **Colonoscopy:** Mass at 15 cm, near obstructive.
+- **Sigmoidoscopy:** Malignant stricture at 15 cm, successful placement of a 90 cm by 22 mm WallFlex colonic stent.
+
+**Brief Hospital Course:**
+- **Colon Cancer:** Near-complete colon obstruction managed with palliative uncovered metal stent placement. Post-procedure, the patient had brown stool mixed with darker blood, but hemoglobin was stable. Referred to palliative care.
+- **Atrial Fibrillation:** Coumadin held prior to admission, advised to restart after bleeding stops. Continued diltiazem and digoxin for rate control.
+- **Dementia:** Avoid deliriogenic medications.
+- **Gout:** Continued allopurinol.
+
+**Medications on Admission:**
+1. Digoxin 0.125 mg PO daily
+2. Warfarin 7.5 mg PO 2X/week (MO,TH)
+3. Allopurinol [dose redacted] mg PO daily
+4. Diltiazem Extended-Release 120 mg PO daily
+5. Warfarin 5 mg PO 5X/week ([days redacted])
+
+**Discharge Medications:**
+1. Allopurinol [dose redacted] mg PO daily
+2. Digoxin 0.125 mg PO daily
+3. Diltiazem Extended-Release 120 mg PO daily
+4. Warfarin 7.5 mg PO 2X/week (MO,TH)
+5. Warfarin 5 mg PO 5X/week ([days redacted])
+
+**Discharge Disposition:**
+- Home with services
+
+**Discharge Diagnosis:**
+- Metastatic colon cancer with impending colonic obstruction, status post palliative stent placement
+
+**Discharge Condition:**
+- Mental Status: Confused (baseline)
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory, independent
+
+**Discharge Instructions:**
+- The patient was admitted for worsening constipation and underwent a stent placement to relieve a colonic blockage. Post-procedure, there was minor bleeding, but blood counts remained stable. A visiting nurse will be arranged, and follow-up with the primary care doctor is advised to discuss palliative care or hospice services. Coumadin can be restarted.
+
+**Follow-up Instructions:**
+- [Details redacted]

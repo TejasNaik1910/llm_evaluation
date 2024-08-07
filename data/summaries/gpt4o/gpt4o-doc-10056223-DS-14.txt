@@ -1,0 +1,84 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Aspirin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- No paracentesis performed
+
+**History of Present Illness:**
+- [Redacted] year-old male with a history of Hepatitis C Virus (HCV), alcohol-induced cirrhosis, and hepatocellular carcinoma (HCC) status post Transarterial Chemoembolization (TACE) x2 and Radiofrequency Ablation (RFA). Current MELD score is 9, and he is on the transplant list. The patient presented with abdominal pain and hepatic encephalopathy. He was previously admitted for increased hepatic encephalopathy and was discharged with abdominal pain and tremulousness.
+
+**Past Medical History:**
+1. Hepatocellular carcinoma (HCC) status post TACE x2 with recent CT negative for recurrence
+2. Hepatitis C Virus (HCV)
+3. History of alcohol abuse with resulting cirrhosis
+4. Hypertension
+5. Thrombocytopenia
+6. Status post cholecystectomy
+7. Recurrent Clostridium difficile infection
+
+**Social History:**
+- Divorced with two children. No known family history of liver cancer or liver disease.
+
+**Physical Exam:**
+- **Admission:** Slightly jaundiced, sclera icteric, distended abdomen with fluid wave, tender to palpation, no guarding.
+- **Discharge:** Slightly jaundiced, sclera icteric, distended abdomen, tender to palpation, dull to percussion.
+
+**Pertinent Results:**
+- **Blood Tests:** Normal WBC, low RBC, Hgb, Hct, and Plt. Elevated ALT, AST, and AlkPhos. Normal creatinine and electrolytes.
+- **Imaging:** 
+  - **Ultrasound:** Patent portal and umbilical veins, echogenic focus in the right lobe correlating with previous RFA site, new 1.5 cm echogenic focus.
+  - **MRI:** Stable size of previously ablated lesion, no new lesions suspicious for HCC, features consistent with cirrhosis and portal hypertension.
+
+**Hospital Course:**
+- The patient was treated empirically for spontaneous bacterial peritonitis (SBP) with ceftriaxone and albumin, but no drainable fluid was found. MRI did not show changes concerning for HCC, and alpha-fetoprotein (AFP) was within normal limits. The patient developed a headache and neck pain, was given acyclovir, but lumbar puncture (LP) showed no evidence of meningitis. Discharged with follow-up lab work and medications.
+
+**Medications on Admission:**
+1. Clotrimazole
+2. Vitamin D
+3. Furosemide
+4. Nadolol
+5. Omeprazole
+6. Spironolactone
+7. Lactulose
+8. Rifaximin
+
+**Discharge Medications:**
+1. Clotrimazole
+2. Lactulose
+3. Nadolol
+4. Omeprazole
+5. Simethicone
+6. Rifaximin
+7. Vitamin D
+8. Furosemide
+9. Spironolactone
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Alcoholic Cirrhosis
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- The patient was admitted for abdominal pain and confusion. No infection was found in the abdominal fluid. An MRI showed no recurrence of liver cancer. The patient is to have laboratory studies drawn and follow up with the transplant clinic and primary care doctor. Simethicone was prescribed for gas pain, and no changes were made to the patient's medications from admission.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,56 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 65-year-old female
+* Diagnosed with metastatic cholangiocarcinoma
+* Admitted to the hospital with sepsis, cholangitis, and bile duct obstruction
+
+**Medical History:**
+
+* COPD on 2L home oxygen
+* Type 2 diabetes
+* Primary hypertension
+* Right-sided CHF
+* Hyponatremia
+
+**Present Illness:**
+
+* Presented with fever, hypotension, and bilirubin of 3.7
+* Had a failed ERCP due to inability to pass the wire past the tumor
+* Admitted to the hospital for restenting via ERCP, but ultimately required percutaneous biliary drain placement
+
+**Diagnostic Tests:**
+
+* CT scan showed a mass at the pancreatic head, likely obstructing, with liver and lung metastases
+* CXR concerning for possible LLL pneumonia
+* Blood cultures grew E. coli and Group D Strep species
+
+**Treatment:**
+
+* Initially treated with vancomycin, cefepime, and flagyl
+* Transitioned to levofloxacin and flagyl at discharge
+* Required a 14-day total antibiotic course for bacteremia
+* Underwent percutaneous biliary drain placement
+* Received 1L of IV fluid for hypotension
+* Restarted home anti-hypertensives, including metoprolol and torsemide
+
+**Discharge Medications:**
+
+* Levofloxacin 500mg PO Q24H
+* Metronidazole 500mg PO TID
+* Albuterol inhaler 2 puffs IH Q6H PRN wheezing
+* Aspirin 81mg PO DAILY
+* Fluticasone-salmeterol diskus (250/50) 1 INH IH BID
+* Metformin 500mg PO BID
+* Metoprolol succinate XL 12.5mg PO DAILY
+* Sulfameth/trimethoprim DS 1 TAB PO DAILY
+* Tiotropium bromide 1 CAP IH DAILY
+* Torsemide 10mg PO DAILY
+* Ursodiol 300mg PO BID
+
+**Discharge Instructions:**
+
+* Continue taking antibiotics until completion of 14-day course
+* Follow up with radiologists in clinic for drain removal and possible stent placement
+* Follow up with oncologist for discussion of palliative chemotherapy vs. transition to hospice

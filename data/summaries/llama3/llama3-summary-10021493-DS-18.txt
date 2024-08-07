@@ -1,0 +1,51 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: [Not provided]
+* Date of Birth: [Not provided]
+* Sex: Male
+* Unit No: [Not provided]
+* Admission Date: [Not provided]
+* Discharge Date: [Not provided]
+* Service: Medicine
+
+**Chief Complaint:**
+
+* Abdominal pain
+
+**History of Present Illness:**
+
+* The patient has a history of Alzheimer's dementia, atrial fibrillation, and colon cancer with metastatic disease to the liver.
+* He presented with concern for bowel obstruction due to colon cancer.
+* He had a known liver lesion on a previous CT scan.
+* He had a colonoscopy 3 days prior to admission, which showed a constricting mass at 15cm.
+* He was sent to the ED for stenting vs colostomy.
+
+**Diagnostic Tests:**
+
+* CT scan of the abdomen/pelvis: showed multiple enlarging masses in the liver, a dilated common duct, and an ampullary lesion.
+* Colonoscopy: showed a mass at 15cm, which was near-obstructive.
+* Sigmoidoscopy: showed a stenosis at 15cm from the anal verge, consistent with a malignant stricture.
+
+**Interventions:**
+
+* Sigmoidoscopy with placement of an uncovered colonic metal stent to palliate the bowel obstruction.
+
+**Medications:**
+
+* Allopurinol: continued for gout treatment
+* Digoxin: continued for atrial fibrillation
+* Diltiazem: continued for rate control
+* Warfarin: held prior to admission, to be restarted after bleeding stops
+* Acetaminophen: for pain management
+* Heparin SQ: for DVT prophylaxis
+
+**Discharge Disposition:**
+
+* The patient was discharged home with services, including a visiting nurse and follow-up with his primary care doctor.
+* He was referred to palliative care through his PCP.
+
+**Discharge Diagnosis:**
+
+* Metastatic colon cancer with impending colonic obstruction, status post palliative stent placement.

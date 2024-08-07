@@ -1,0 +1,89 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Plastic Surgery
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies to Drugs
+
+**Chief Complaint:**
+- Left leg lesion
+
+**Major Surgical or Invasive Procedures:**
+1. Excision of left lower extremity lesion
+2. Partial local advancement closure of the left lower extremity
+3. Full-thickness skin graft from left groin (6 x 4 cm) to left lower extremity
+4. Local advancement flap closure of left groin defect (8 cm)
+5. Vacuum-assisted closure dressing placement
+
+**History of Present Illness:**
+- A female patient presented with a 6-month history of a left shin mass, initially a small pimple that grew over time. A dermatologist previously biopsied the mass and deemed it benign, though the pathology report is not available. The patient experienced cellulitis in the area, treated with Keflex, which resolved. She now presents for mass removal.
+
+**Past Medical History:**
+- Osteoarthritis
+- Hypertension
+- Hypercholesterolemia
+- Colon polyp
+- Left bundle branch block
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Non-contributory
+
+**Physical Exam:**
+- General: No acute distress
+- HEENT: Normocephalic, atraumatic, extraocular movements intact, no lymphadenopathy
+- Lungs: Clear to auscultation bilaterally
+- Cardiac: Regular rate and rhythm, no murmurs/rubs/gallops
+- Abdomen: Positive bowel sounds, non-tender, non-distended
+- Extremities: Warm, well-perfused
+- Skin: Lesion 2.5 x 2.5 cm with a brown base and macerated center on the mid-tibia region, no cellulitis or drainage
+
+**Pertinent Results:**
+- **Pathology Report:**
+  - Specimen: Left leg lesion
+  - Diagnosis: Squamous cell carcinoma, invasive, well-differentiated, completely excised
+  - Note: Lesion has a crateriform (keratoacanthoma-like) architecture
+
+**Brief Hospital Course:**
+- The patient was admitted for the excision of the left lower extremity lesion, followed by partial local advancement closure, full-thickness skin graft, local advancement flap closure, and vacuum-assisted closure dressing placement. The lesion was confirmed as squamous cell carcinoma. The patient tolerated the procedures well and had adequate post-operative pain control with stable cardiovascular and pulmonary status. She was started on IV Ancef post-operatively and received subcutaneous heparin for prophylaxis. At discharge on POD#7, she was afebrile, with stable vital signs, tolerating a regular diet, ambulating, and voiding without assistance.
+
+**Medications on Admission:**
+- Omeprazole 20 mg QD
+- Metoprolol 50 mg AM, 25 mg QHS
+- Evista 60 mg QD
+- Aspirin 81 mg QD
+- Centrum
+
+**Discharge Medications:**
+1. Metoprolol Tartrate 25 mg QHS
+2. Metoprolol Tartrate 50 mg Daily
+3. Aspirin 81 mg Daily
+4. Omeprazole 20 mg Daily
+5. Centrum Silver Daily
+6. Acetaminophen 325 mg Q6H PRN for pain
+7. Hydrocodone-Acetaminophen [Dosage Redacted] PRN for pain
+8. Docusate Sodium 100 mg BID PRN for constipation
+9. Senna 8.6 mg Daily PRN for constipation
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- Squamous cell carcinoma
+
+**Discharge Condition:**
+- Good
+
+**Discharge Instructions:**
+- Use a walker for assistance, limit walking to less than 15 minutes at a time, and keep the left leg elevated when sitting or in bed. Home care for wound dressing changes. No antibiotics needed. Avoid exceeding 4g of Acetaminophen per day. Return to the ER for specific symptoms like vomiting, fever, increased redness, swelling, or discharge from the incision, chest pain, or shortness of breath. Resume regular home medications and take new medications as ordered. Avoid driving or operating heavy machinery while on narcotic pain medications. Continue drinking fluids and eating high-fiber foods to prevent constipation.
+
+**Follow-up Instructions:**
+- [Redacted]

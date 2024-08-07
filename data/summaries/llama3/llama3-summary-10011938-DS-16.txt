@@ -1,0 +1,52 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Female patient, ___ years old
+* Admitted with confusion and shortness of breath
+* Past medical history: multiple AVM, seizure disorder, hypertension, and lumbar disc herniation
+
+**Chief Complaint:**
+
+* Confusion and shortness of breath, progressing over the past year
+
+**Diagnostic Tests:**
+
+* Bronchoscopy and lymph node biopsy
+* Complete Blood Count (CBC)
+* Blood gases
+* Electrolyte panel
+* Liver function tests
+* Lipid panel
+* CT scan of the chest
+* CT scan of the head
+* Echocardiogram
+
+**Diagnoses:**
+
+* Acute exacerbation of COPD
+* Acute diastolic heart failure
+* Pulmonary nodules and mediastinal lymphadenopathy, concerning for malignancy
+* Sclerotic lesions in the T11 vertebral body and manubrium
+* Moderate mediastinal and hilar lymphadenopathy
+* Epilepsy; complex-partial seizure disorder
+* Left frontal AVM s/p proton beam radiation
+* Posterior communicating artery aneurysm s/p clipping
+* Lumbar disc herniation
+
+**Treatment:**
+
+* Oxygen therapy
+* BiPAP
+* Albuterol and ipratropium nebulizations
+* 5-day course of azithromycin and prednisone for COPD exacerbation
+* Amlodipine for hypertension
+* Phenytoin and levetiracetam for seizure disorder
+* Discharged on home oxygen therapy and inhalation medications
+
+**Follow-up:**
+
+* Outpatient follow-up with Pulmonary for further imaging or tissue sampling
+* Evaluation for T-cell lymphoma and histiocytosis
+* Dermatology evaluation for pruritis
+* Restart Lasix PRN for volume status

@@ -1,0 +1,64 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Vicodin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Dyspnea
+
+**Major Surgical or Invasive Procedure:**
+- Bronchial and esophageal stent placement
+
+**History of Present Illness:**
+- The patient is a female with a recent diagnosis of adenocarcinoma of the lung, depression, anxiety, fibromyalgia, and sciatica. She underwent bronchial stenting due to a tumor compressing her main stem bronchi. She was initially admitted for tumor debulking and bronchial stenting, which improved her breathing.
+- She presented again with acute onset increased work of breathing. A CTA showed mass effect on the pulmonary arteries and central airway, and nodular opacities at the lung bases. She was treated with moxifloxacin and vancomycin for pneumonia and transferred for further evaluation and potential intervention.
+- She was set up for palliative radiation but had not started it yet.
+
+**Physical Exam:**
+- **Admission:** Alert, oriented, no acute distress, diffuse inspiratory and expiratory wheeze, RRR, no murmur, soft abdomen, no focal deficits.
+- **Discharge:** Similar findings with stable vitals on room air.
+
+**Pertinent Results:**
+- **Labs:** Elevated WBC, normal RBC, Hgb, Hct, and other parameters. Elevated proBNP and low albumin.
+- **Imaging:** CT and chest X-rays showed a large posterior mediastinal mass causing esophageal obstruction and invasion of the carina and bilateral mainstem bronchi. Interval increase in left lower lobe bronchial obstruction and associated consolidation and atelectasis.
+- **Microbiology:** Bronchial washings showed gram-positive cocci and MRSA. No acid-fast bacilli or fungus isolated.
+- **Surgical Pathology:** Focal poorly differentiated carcinoma in the left mainstem endobronchial lesion.
+
+**Brief Hospital Course:**
+- **Primary Reason for Hospitalization:** Acute hypoxemic respiratory failure due to increased bronchus narrowing from lung adenocarcinoma. She underwent tracheal and esophageal stent placements.
+- **Active Issues:**
+  - **Hypoxemia:** Improved post-tracheal stenting but required re-stenting due to recurrent SOB.
+  - **Non-small cell lung cancer:** Rapid growth and obstructive complications necessitated urgent initiation of palliative chemo and radiation.
+  - **Dysphagia:** Improved post-esophageal stent placement, continued on a soft diet and BID PPI.
+  - **Tachycardia:** Managed with low-dose metoprolol.
+  - **Oral candidiasis:** Treated with nystatin.
+- **Chronic Issues:** Continued management of depression, anxiety, and fibromyalgia with home medications.
+
+**Medications:**
+- **Admission:** Included acetylcysteine, albuterol, alprazolam, buspirone, enoxaparin, escitalopram, gabapentin, methylprednisolone, morphine, moxifloxacin, nicotine patch, nystatin, vancomycin, guaifenesin AC, lorazepam, and others.
+- **Discharge:** Similar medications with adjustments for pain management, infection control, and symptom relief.
+
+**Discharge Disposition:**
+- Extended Care
+
+**Discharge Diagnosis:**
+- Lung adenocarcinoma
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory with assistance
+
+**Discharge Instructions:**
+- The patient was advised to continue with planned radiation therapy and chemotherapy at her preferred hospital for ease of travel for her sister/HCP.
+
+**Follow-up Instructions:**
+- [Redacted]

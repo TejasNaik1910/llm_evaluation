@@ -1,0 +1,58 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Male
+* Date of Birth: Not provided
+
+**Chief Complaint:**
+
+* Fatigue
+
+**Medical History:**
+
+* Clear cell renal cell carcinoma (RCC) with metastases to lungs, mediastinum, and hilar lymph nodes
+* Benign prostatic hypertrophy
+* Diabetes mellitus
+* Hypertension
+* Hyperlipidemia
+* History of anxiety
+
+**Current Illness:**
+
+* Presented to the ED with fever, jaundice, and confusion
+* Diagnosed with cholangitis, bacteremia, and adenocarcinoma of pancreatobiliary origin
+* Underwent ERCP with plastic stent placement, which was later replaced with a metal stent
+* Treated with IV antibiotics for 2 weeks
+
+**Medications:**
+
+* Sunitinib (experimental trial for RCC)
+* Enoxaparin (for portal vein thrombus)
+* Various medications for hypertension, diabetes, and anxiety
+
+**Diagnostic Tests:**
+
+* ERCP with cytology brushings
+* EUS with FNB of CBD mass
+* CT torso
+* RUQ US
+* Blood cultures
+* pathology from FNB of CBD mass consistent with adenocarcinoma
+
+**Cancer Stage:**
+
+* Metastatic clear cell RCC
+* TNM staging not provided
+
+**Response to Treatment:**
+
+* Partial response to sunitinib therapy for RCC
+* Improvement in liver function tests after ERCP and antibiotic therapy
+
+**Discharge Disposition:**
+
+* Discharged home with services
+* Follow-up with oncology team for further treatment of adenocarcinoma

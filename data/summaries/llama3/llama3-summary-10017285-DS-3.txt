@@ -1,0 +1,42 @@
+Here is a summary of the clinical note:
+
+**Patient Information**
+
+*  ___ year old male patient
+* Chief complaint: found down
+* Medical history: Stage IV lung cancer with brain metastases, pulmonary embolism, hyperlipidemia, NIDDM, GERD, bipolar disorder, and seizure disorder
+
+**Present Illness**
+
+* The patient was found unresponsive on the sidewalk outside his home and was taken to the hospital
+* CT scan showed extensive acute intracranial hemorrhage (ICH) and was intubated for airway protection
+* He had a left humeral fracture and was diagnosed with a pulmonary embolism (PE)
+* He was transferred to the MICU and later extubated
+
+**Diagnostic Tests and Results**
+
+* CT scans showed extensive acute ICH, left frontal subarachnoid hemorrhage, and subdural hematoma
+* CTA showed no evidence of aneurysm or vascular abnormality
+* Echo showed mildly depressed left ventricular systolic function and a small pericardial effusion
+* Video oropharyngeal swallow study showed no gross aspiration or penetration
+
+**Treatment and Interventions**
+
+* IVC filter placement
+* Seizure prophylaxis with Keppra
+* Normalization of INR and recommendation to avoid anticoagulation for one month
+* Orthopedic splinting of left humerus fracture
+* Cardiac medications, including metoprolol for rate control
+* Antibiotics for ventilator-associated pneumonia
+
+**Discharge Status**
+
+* Discharged to extended care facility in stable condition
+* Discharge diagnoses: intra-cranial hemorrhage, heart arrhythmias, left humerus fracture, ventilator-associated pneumonia, and secondary diagnoses of stage 4 lung cancer with brain metastasis, pulmonary embolism, diabetes, type 2, and hypertension
+* Discharge medications: various medications for pain, seizure prophylaxis, cardiac conditions, and infection prophylaxis
+
+**Follow-up Instructions**
+
+* Follow-up with primary care physician and various specialists
+* Laboratory blood drawing in one week for Dilantin (Phenytoin) monitoring
+* Call surgeon immediately if experiencing specific symptoms such as new onset of tremors, seizures, confusion, or loss of function.

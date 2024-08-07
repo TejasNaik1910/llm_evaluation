@@ -1,0 +1,37 @@
+Here is a summary of the clinical note with the essential information:
+
+**Cancer Type and Morphology:** The patient has high-grade invasive urothelial carcinoma (bladder cancer) with a history of pT2b disease.
+
+**Cancer Stage:** The patient's cancer stage is T4, with invasion into the bladder wall, perivesical soft tissue, and anterior vaginal wall.
+
+**Progression:** The patient has developed pelvic fluid collections, hydronephrosis, and a lung mass, which are concerning for metastatic disease.
+
+**TNM Staging:** Not explicitly stated in the note.
+
+**Prescribed Medications:**
+
+* Ertapenem sodium 1g IV daily for pelvic fluid collection infection
+* Milk of Magnesia 30mL PO Q6H PRN constipation
+* Enoxaparin sodium 70mg SC Q12H for pulmonary embolism
+* Acetaminophen 650mg PO Q6H
+* Atorvastatin 10mg PO QPM for hyperlipidemia
+* Levothyroxine sodium 175mcg PO daily for hypothyroidism
+* Lorazepam 0.25-0.5mg PO daily PRN anxiety
+
+**Diagnostic Tests:**
+
+* CT abdomen/pelvis with contrast
+* Blood cultures
+* Pelvic aspiration with Gram stain and culture
+* Complete Blood Count (CBC) with differential
+* Blood chemistry tests (e.g., creatinine, urea nitrogen, glucose)
+* Lipase test
+
+**Surgical Interventions:**
+
+* Radical cystectomy with ileal conduit creation
+* Hysterectomy and bilateral salpingo-oophorectomy
+* CT-guided drain placement and repositioning
+* Removal of recently placed drain
+
+**Patient Response to Treatment:** The patient's fevers and leukocytosis have resolved, and her hemoglobin level has improved with blood transfusions. She remains afebrile and interactive at discharge.

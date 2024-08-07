@@ -1,0 +1,69 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Oxycodone
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal Pain
+
+**Major Surgical or Invasive Procedures:**
+- Percutaneous cholecystostomy tube placement
+- Endoscopic retrograde cholangiopancreatography (ERCP)
+
+**History of Present Illness:**
+- The patient has stage IV pancreatic adenocarcinoma with liver metastases and a history of pulmonary embolism (PE), acalculous cholecystitis, and recent ST-elevation myocardial infarction (STEMI) with percutaneous coronary intervention (PCI). She presented with upper abdominal pain, different from her usual pain, and was found to have acute acalculous cholecystitis on a CT scan. She was transferred for further evaluation and management.
+
+**Diagnostic Tests Conducted:**
+- **CT Scan:** Confirmed acute acalculous cholecystitis.
+- **KUB:** Pancreatic duct stent in appropriate positioning.
+- **TTE:** Suspicion for malignant thrombotic process with masses on the mitral valve, possible thrombus in the coronary sinus, moderate pulmonary hypertension.
+- **LENIS:** Superficial occlusive thrombus in the right greater saphenous vein.
+- **CTV (IVCF study):** Appropriately positioned IVC filter, pancreatic head mass, extensive hepatic metastasis, stable small volume ascites, and anasarca.
+- **Liver US:** Gallbladder with intraluminal sludge, unchanged hepatic metastases, unchanged dilation of the main pancreatic duct.
+- **CT Abd/Pelvis:** No significant change in pancreatic head mass or hepatic metastatic disease, stable small volume ascites, new small splenic infarct.
+- **ERCP:** Removal of PD stent and metal biliary stent, plastic biliary stent placed.
+- **CT Chest:** Bilateral upper lobe predominant multifocal ground-glass opacities, linear areas of filling defects in multiple bilateral subsegmental branches.
+
+**Medications:**
+- **Admission Medications:** Acetaminophen, Aspirin, BuPROPion XL, Clopidogrel, HYDROmorphone, LORazepam, Morphine SR, Prochlorperazine, Senna, Sertraline, Pantoprazole, Metoprolol Tartrate, Ondansetron, Rivaroxaban.
+- **Discharge Medications:** Amoxicillin-Clavulanic Acid, Ciprofloxacin, Enoxaparin Sodium, Fentanyl Patch, Heparin Flush, HYDROmorphone, Ondansetron, Polyethylene Glycol, Sodium Chloride Flush, Acetaminophen, Senna, BuPROPion XL, Clopidogrel, LORazepam, Pantoprazole, Prochlorperazine, Sertraline.
+
+**Surgical Interventions:**
+- Percutaneous cholecystostomy tube placement for acalculous cholecystitis.
+- ERCP with removal of PD stent and metal biliary stent, placement of plastic biliary stent.
+
+**Patient's Response to Treatment:**
+- Initial improvement in abdominal pain post-procedure, but experienced transient drain site pain.
+- Bile cultures grew Clostridium perfringens and gram-negative rods, treated with antibiotics.
+- Transitioned to comfort-focused care and hospice due to terminal diagnosis and progression of metastatic pancreatic cancer.
+
+**Discharge Disposition:**
+- Transferred to hospice care for symptom management related to advanced cancer.
+
+**Discharge Diagnosis:**
+- Acalculous cholecystitis
+- Marantic endocarditis
+- Pulmonary embolism
+- Anasarca
+- Leukocytosis
+- Acute on chronic anemia
+- Metastatic pancreatic cancer
+
+**Discharge Condition:**
+- Mental Status: Confused at times.
+- Level of Consciousness: Lethargic but arousable.
+- Activity Status: Ambulatory with assistance.
+
+**Discharge Instructions:**
+- Focus on comfort care at hospice, continue antibiotics and anticoagulation as desired, manage symptoms of nausea, pain, and confusion.
+
+**Follow-up Instructions:**
+- [Redacted]

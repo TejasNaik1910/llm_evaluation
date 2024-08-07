@@ -1,0 +1,46 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* 50-year-old female
+* Diagnosis: Metastatic ER/PR+ breast cancer
+* Morphology: Invasive ductal carcinoma
+* Stage: Not specified, but with liver metastases
+* Progression: Disease has progressed despite hormonal therapies and surgical oophorectomy
+
+**Chief Complaint:**
+
+* Abdominal distention
+
+**Medical History:**
+
+* Past oncologic history: Screening mammogram revealed an abnormality in the left breast, followed by a lumpectomy that confirmed invasive ductal carcinoma and DCIS. The patient has undergone hormonal therapies, including tamoxifen and lupron, and surgical oophorectomy.
+
+**Current Admission:**
+
+* Presents with abdominal fullness and undergoes paracentesis with removal of 1L ascitic fluid
+* Refuses palliative chemotherapy and plans to continue alternative therapies with an outside provider
+* Diagnosed with hyponatremia, which is likely due to SIADH
+
+**Diagnostic Tests:**
+
+* Abdominal ultrasound: Shows extensive hepatic metastatic disease and ascites
+* Chest X-ray: No acute cardiopulmonary process
+* Blood tests: Reveals anemia, abnormal liver enzymes, and electrolyte imbalance
+
+**Medications:**
+
+* Vitamin D 800 UNIT PO DAILY
+* Prochlorperazine 10 mg PO Q6H:PRN nausea
+* HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN pain
+* Docusate Sodium 100 mg PO BID
+* Senna 1 TAB PO BID:PRN constipation
+
+**Discharge Disposition:**
+
+* Home with service
+* Follow-up instructions: Outpatient lab work, including Chem 10, LFTs, uric acid, LDH, and CBC, to be done by Dr. ___ on ___.
+
+**ICD 9 Code:**
+
+* 174.9 (Breast cancer)

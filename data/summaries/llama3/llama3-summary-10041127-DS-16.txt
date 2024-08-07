@@ -1,0 +1,66 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not provided
+* Date of Birth: Not provided
+* Sex: Male
+* Unit No: Not provided
+* Admission Date: Not provided
+* Discharge Date: Not provided
+
+**Chief Complaint:**
+
+* Syncope
+* Coffee ground emesis
+
+**Medical History:**
+
+* Hepatocellular carcinoma vs intrahepatic cholangiocarcinoma
+* Portal vein occlusion
+* History of upper gastrointestinal bleeding (UGIB)
+* Recent head trauma and occasional low back pain
+
+**Current Illness:**
+
+* The patient presented with UGIB, syncope, and coffee ground emesis
+* Endoscopy revealed esophageal varices, which were banded
+* CT scan showed advanced, infiltrative hepatocellular carcinoma with probable occlusion of the right portal vein
+* The patient had a massive disease progression with right portal vein and possibly middle hepatic veins occluded
+
+**Medications:**
+
+* On admission: Megestrol, Ondansetron, Oxycodone, Prochlorperazine, Omeprazole
+* On discharge: Sucralfate, Docusate Sodium, Pantoprazole, Ciprofloxacin, Lactulose, Oxycodone, Compazine, Megace Oral, Ondansetron, Clindamycin
+
+**Diagnostic Tests:**
+
+* CT abdomen/pelvis with contrast
+* EGD
+* Blood culture
+* CXR
+* KUB
+* CT Torso
+* CT Bones and Soft Tissues
+
+**Treatment:**
+
+* Endoscopy with banding of esophageal varices
+* Blood transfusion
+* Octreotide gtt and PPI BID
+* Carafate
+* Ciprofloxacin ppx
+* Vancomycin (discontinued)
+* Clindamycin
+* Repeat EGD in 2 weeks recommended
+
+**Discharge Disposition:**
+
+* Home
+
+**Discharge Diagnosis:**
+
+* Hepatocellular vs intrahepatic cholangiocarcinoma with portal vein occlusion
+* UGIB secondary to portal hypertension
+* Anemia secondary to blood loss
+* Hypercalcemia

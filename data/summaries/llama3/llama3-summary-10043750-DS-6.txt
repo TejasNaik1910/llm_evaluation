@@ -1,0 +1,51 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not provided
+* Date of Birth: Not provided
+* Sex: Female
+* Unit No: Not provided
+* Admission Date: Not provided
+* Discharge Date: Not provided
+
+**Chief Complaint and Diagnosis:**
+
+* Right colon cancer
+* Morphology: Mucinous adenocarcinoma
+* Stage: pT2, pN0 (no metastatic disease)
+
+**Surgical Intervention:**
+
+* Open right colectomy
+
+**Past Medical History:**
+
+* DJD, sciatica, b/l blepharitis, diverticulosis, vit D deficiency, insomnia, HTN, HLD, LBBB, CKD III, vit B12 deficiency
+* Previous surgery: L knee arthroscopy
+
+**Medications:**
+
+* Admission medications: Atenolol, BuPROPion, Flunisolide Inhaler, NIFEdipine CR, Ranitidine, Simvastatin, Tobramycin-Dexamethasone Ophth Susp, TraZODone, Triamcinolone Acetonide 0.1% Cream, peg 400-propylene glycol 0.4-0.3 % ophthalmic, DiphenhydrAMINE
+* Discharge medications: Atenolol, BuPROPion, NIFEdipine CR, Ranitidine, Simvastatin, TraZODone, Acetaminophen, Aluminum-Magnesium Hydrox.-Simethicone, Cepastat (Phenol) Lozenge, Tramadol (Ultram), Flunisolide Inhaler, peg 400-propylene glycol 0.4-0.3 % ophthalmic, Tobramycin-Dexamethasone Ophth Susp, Triamcinolone Acetonide 0.1% Cream, Docusate Sodium
+
+**Hospital Course:**
+
+* The patient underwent an open right colectomy without complications.
+* Post-operatively, the patient was managed for pain, cardiopulmonary stability, GI/GU/FEN function, and infection prophylaxis.
+* The patient was discharged home with home health service after a brief, uneventful stay.
+
+**Discharge Condition:**
+
+* Mental Status: Clear and coherent
+* Level of Consciousness: Alert and interactive
+* Activity Status: Ambulatory - requires assistance or aid (walker or cane)
+
+**Discharge Instructions:**
+
+* Resume regular home medications
+* Take new medications as prescribed
+* Avoid driving or operating heavy machinery while taking pain medications
+* Get plenty of rest, ambulate several times per day, and drink adequate amounts of fluids
+* Follow-up with surgeon as advised
+* Incision care instructions provided

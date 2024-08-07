@@ -1,0 +1,37 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 70-year-old male
+* Admitted for dyspnea and diagnosed with small cell lung cancer (initially thought to be non-small cell lung cancer)
+
+**Cancer Information:**
+
+* Small cell lung cancer
+* Stage IV (suspected based on clinical picture)
+* Tumor size: 7 x 9 x 10 cm
+* Involvement: left lung, left main bronchus, mediastinal lymph nodes, pleural space, and liver lesions
+
+**Medical History:**
+
+* Coronary artery disease
+* Peripheral artery disease
+* Hypertension
+* Hyperlipidemia
+* Chronic heart failure with ejection fraction of 20%
+* Chronic renal insufficiency
+* Prior surgeries: right total hip arthroplasty, right carotid endarterectomy, cholecystectomy, and cataract surgery
+
+**Treatment:**
+
+* Bronchoscopy showed extensive luminal infiltration, precluding stent placement
+* Chemotherapy: completed carboplatin etoposide without complications
+* Radiation therapy: 4 doses completed, with 6 more sessions planned
+* Medications: metoprolol, allopurinol, atorvastatin, docusate sodium, latanoprost, bisacodyl, megestrol, acetaminophen, ipratropium bromide, lactulose, senna, epoetin alfa, albuterol sulfate, and lisinopril
+
+**Discharge:**
+
+* Discharged to extended care facility
+* Discharge diagnosis: small cell lung cancer, hypertension, hyperlipidemia, coronary artery disease
+* Discharge condition: good, ambulating
+* Follow-up instructions: schedule second cycle of chemotherapy, complete radiation therapy, and follow up with doctor for any concerning symptoms

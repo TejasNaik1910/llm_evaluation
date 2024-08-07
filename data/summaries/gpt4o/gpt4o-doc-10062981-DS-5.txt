@@ -1,0 +1,56 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Leg Pain
+
+**Major Surgical or Invasive Procedure:**
+- Cryoablation of Right Acetabular Metastatic Lesion with Cementoplasty
+
+**History of Present Illness:**
+- The patient is a [Redacted] year-old man with a history of Stage IV Non-Small Cell Lung Cancer (NSCLC) with brain metastases, hypertension (HTN), hyperlipidemia (HLD), and type II diabetes. He recently underwent Cyberknife treatment for brain metastases and was admitted after a fall. He had a hip lytic lesion without a clear fracture and completed palliative radiation therapy. He was treated for a UTI with ciprofloxacin and cerebral edema with dexamethasone. Post-discharge, he experienced worsening pain and another fall, leading to his current admission.
+
+**Diagnostic Tests and Imaging:**
+- **X-rays:** Right pelvis/hip/knee negative for acute fracture.
+- **CT Lower Extremity:** Showed increased cortical breakthrough in the right acetabulum, a large lytic lesion, and a right hemi sacral fracture.
+- **CT Head without Contrast:** Multiple areas of edema compatible with known brain metastases, no new lesions or hemorrhage.
+- **Lab Results:** Notable for anemia (Hgb 8.1), elevated glucose (248), and mild renal impairment (Creatinine 1.1).
+
+**Hospital Course:**
+- **Right Acetabular Metastases:** Managed with cryoablation and cementoplasty, resulting in symptom improvement and reduced opioid use.
+- **Somnolence and Acute Toxic Metabolic Encephalopathy:** Likely due to medication changes and metabolic disturbances. Resolved with pain management and supportive care.
+- **Fall:** Attributed to baseline gait instability and deconditioning. No new intracranial abnormalities or fractures were found.
+- **Stage IV NSCLC:** Chemotherapy was delayed due to the patient's condition. Goals of care shifted towards palliative management and rehabilitation.
+
+**Medications:**
+- **Admission Medications:** Included atorvastatin, carbidopa-levodopa, dexamethasone, oxycodone, and others for pain, diabetes, and general health.
+- **Discharge Medications:** Adjusted doses of dexamethasone, oxycodone, and other supportive medications.
+
+**Discharge Disposition:**
+- **Facility:** Extended Care
+- **Primary Diagnosis:** Metastatic Non-Small Cell Lung Cancer, Mechanical Fall due to Baseline Gait Instability and Prolonged Deconditioning
+- **Secondary Diagnoses:** Acute Toxic-Metabolic Encephalopathy, Hemisacral Fracture, Metastatic Brain Lesions, Recurrent Herpes Simplex Virus Dermatitis, Acute Kidney Injury, Stage 2 Chronic Kidney Disease, Type 2 Diabetes Mellitus
+
+**Discharge Condition:**
+- **Mental Status:** Clear and coherent
+- **Level of Consciousness:** Alert and interactive
+- **Activity Status:** Ambulatory with assistance
+
+**Discharge Instructions:**
+- The patient was admitted due to weakness and a fall, with significant pain from cancer in the right leg. He underwent a procedure to stabilize the bone, resulting in pain improvement. A family meeting determined that the patient would benefit from 24-hour supported care, leading to discharge to short-term rehab with the goal of transitioning home.
+
+**Follow-up Instructions:**
+- Follow up with outpatient doctors as detailed in discharge paperwork. 
+
+**Thank You Note:**
+- The patient was thanked for allowing the care team to be part of his care.

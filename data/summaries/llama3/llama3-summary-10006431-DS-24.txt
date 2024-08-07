@@ -1,0 +1,54 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Female
+* Date of Birth: Not provided
+* Unit No: Not provided
+
+**Chief Complaint:**
+
+* Abdominal pain
+
+**Cancer Information:**
+
+* Type: Metastatic pancreatic cancer
+* Morphology: Adenocarcinoma
+* Stage: Borderline resectable PDA (pancreatic ductal adenocarcinoma)
+* Progression: Liver metastases identified intraoperatively
+* TNM staging: Not provided
+
+**Treatment:**
+
+* Palliative chemotherapy with gemcitabine
+* Celiac plexus block performed
+* Medications:
+	+ Olanzapine for nausea
+	+ Oxycontin for pain
+	+ Lisinopril for hypertension
+	+ Omeprazole for GERD
+	+ Ondansetron for nausea
+	+ Prochlorperazine for nausea
+	+ Tramadol for pain
+	+ Acetaminophen for pain
+
+**Diagnostic Tests:**
+
+* CT a/p showing large infiltrative pancreatic head tumor
+* Endoscopic ultrasound showing 1.8 x 1.6 cm pancreatic head mass
+* Biopsy showing adenocarcinoma
+* CT angiogram showing pancreatic head mass with stranding
+* Lipase level: 2800
+
+**Surgical Interventions:**
+
+* ERCP (endoscopic retrograde cholangiopancreatography)
+* Endoscopic ultrasound
+* Celiac plexus block
+
+**Response to Treatment:**
+
+* Patient's pain has been improving slowly with treatment
+* Symptoms continue to improve with palliative care and symptom control measures.

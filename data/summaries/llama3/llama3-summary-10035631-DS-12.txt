@@ -1,0 +1,54 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: [Not provided]
+* Age: [Not provided]
+* Sex: Male
+* Date of Birth: [Not provided]
+
+**Chief Complaint:**
+
+* Dyspnea on exertion for 1 week
+
+**Medical History:**
+
+* Acute Myeloid Leukemia (AML) with normal cytogenetics, FLT3/NPM1 negative, diagnosed in [year not provided]
+* Male breast cancer status post mastectomy
+* Aspergillosis
+* Prostatitis
+* Seizure vs. syncope
+* Lyme disease
+
+**Current Admission:**
+
+* Presented with dyspnea on exertion and diffuse bilateral pulmonary opacities on imaging
+* Underwent bronchoscopy with pending biopsy results
+* Diagnoses being considered: aspergillosis, organizing pneumonia, viral pneumonia, and PCP
+* ID Consult recommended discharge on voriconazole for possible aspergillosis
+* Also diagnosed with transaminitis of uncertain etiology
+
+**Medications:**
+
+* Acyclovir 400mg PO Q8H
+* Folic Acid 1mg PO daily
+* Tacrolimus 0.5mg PO 2X/week
+* Voriconazole 450mg PO Q12H for 1 day, followed by 350mg PO Q12H
+
+**Diagnostic Tests:**
+
+* Complete Blood Count (CBC)
+* Liver function tests (LFTs)
+* Respiratory viral antigen screen
+* Bronchoalveolar lavage (BAL)
+* Tissue transbronchial biopsy
+* RUQ ultrasound
+* CXR
+* Chest CT
+
+**Discharge Plan:**
+
+* Follow-up with oncologist and pulmonologist for biopsy results and treatment planning
+* Follow-up with hepatology for further work-up of transaminitis
+* Continue medications as prescribed
+* Discharged to home with ambulatory oxygen saturation of 94%

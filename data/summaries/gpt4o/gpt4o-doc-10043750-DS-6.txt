@@ -1,0 +1,99 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Surgery
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Right colon cancer
+
+**Major Surgical or Invasive Procedure:**
+- Open right colectomy
+
+**History of Present Illness:**
+- The patient was diagnosed with right colon cancer following a colonoscopy, which revealed a large cecal cancer. Staging investigations showed no metastatic disease. The patient opted for an open right colectomy after being informed of the risks and benefits.
+
+**Past Medical History:**
+- Degenerative Joint Disease (DJD), sciatica, bilateral blepharitis, diverticulosis, Vitamin D deficiency, insomnia, hypertension (HTN), hyperlipidemia (HLD), left bundle branch block (LBBB), chronic kidney disease stage III (CKD III), Vitamin B12 deficiency.
+
+**Past Surgical History:**
+- Left knee arthroscopy
+
+**Social History:**
+- Lives alone, with daughter nearby for support.
+
+**Physical Exam:**
+- General: Alert, oriented, no acute distress, comfortable, pleasant
+- HEENT: Anicteric sclera, extraocular movements intact, oropharynx clear with moist mucous membranes
+- Respiratory: Clear to auscultation bilaterally
+- Cardiovascular: Regular rate and rhythm, normal S1 and S2
+- Abdomen: Positive bowel sounds, soft, minimally tender, non-distended, no masses
+- Wound: Steristrips in place, clean, dry, intact, no erythema, fluctuance, or induration
+- Extremities: Warm, well-perfused
+
+**Pertinent Results:**
+- Blood tests showed mild anemia (Hgb 9.9, Hct 30.4), slightly low calcium (7.8-8.1), and low phosphorus (1.8).
+
+**Pathologic Diagnosis:**
+- Ileum, colon, and appendix, ileocolectomy:
+  1. Mucinous adenocarcinoma invading the muscularis propria (pT2); margins negative for malignancy.
+  2. Sixteen lymph nodes with no malignancy identified (pN0).
+  3. Colon with melanosis coli.
+  4. Unremarkable ileum and appendix.
+
+**Brief Hospital Course:**
+- The patient was admitted post-open right colectomy for colon cancer. The procedure was uncomplicated. Post-operative care included transitioning from epidural to oral pain medications by post-operative day 2, with good pain control. Cardiopulmonary status remained stable, and the patient was encouraged to ambulate early and use incentive spirometry. The patient was initially NPO with IV fluids, and diet was advanced as tolerated. Electrolytes were monitored and repleted as necessary. Prophylactic measures included subcutaneous heparin and venodyne boots. The patient was discharged in stable condition, tolerating a regular diet, ambulating, and with well-controlled pain.
+
+**Medications on Admission:**
+1. Atenolol 50 mg PO daily
+2. Bupropion 75 mg PO BID
+3. Flunisolide Inhaler 2 sprays daily
+4. Nifedipine CR 60 mg PO daily
+5. Ranitidine 300 mg PO daily
+6. Simvastatin 10 mg PO daily
+7. Tobramycin-Dexamethasone Ophthalmic Suspension PRN dry eyes
+8. Trazodone 50 mg PO daily
+9. Triamcinolone Acetonide 0.1% Cream BID
+10. Peg 400-propylene glycol ophthalmic drops
+11. Diphenhydramine (dose and frequency unknown)
+
+**Discharge Medications:**
+1. Atenolol 50 mg PO daily
+2. Bupropion 150 mg PO QAM, 75 mg PO QPM
+3. Nifedipine CR 60 mg PO daily
+4. Ranitidine 300 mg PO daily
+5. Simvastatin 10 mg PO daily
+6. Trazodone 50 mg PO HS PRN insomnia
+7. Acetaminophen 1000 mg PO TID
+8. Aluminum-Magnesium Hydroxide-Simethicone PRN heartburn
+9. Cepastat (Phenol) Lozenge PRN throat irritation
+10. Tramadol 25 mg PO Q6H PRN pain
+11. Flunisolide Inhaler 2 sprays daily
+12. Peg 400-propylene glycol ophthalmic drops
+13. Tobramycin-Dexamethasone Ophthalmic Suspension PRN dry eyes
+14. Triamcinolone Acetonide 0.1% Cream BID
+15. Docusate Sodium 100 mg PO BID
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- Right colon cancer
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory with assistance (walker or cane)
+
+**Discharge Instructions:**
+- Resume regular home medications and take new medications as prescribed. Avoid driving or operating heavy machinery while on pain medications. Rest, ambulate several times per day, and stay hydrated. Continue drinking Ensure for calorie intake. Avoid lifting heavy weights until follow-up with the surgeon. Follow incision care instructions and call the doctor if there are signs of infection. Follow up with the surgeon as advised.
+
+**Follow-up Instructions:**
+- [Redacted]

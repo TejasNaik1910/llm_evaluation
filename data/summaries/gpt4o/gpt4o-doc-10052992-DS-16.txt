@@ -1,0 +1,130 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Status post (s/p) Transarterial Chemoembolization (TACE)
+
+**Major Surgical or Invasive Procedure:**
+- **Procedure:** Transarterial chemoembolization
+- **Findings:**
+  1. Conventional celiac and hepatic arterial anatomy.
+  2. Pre-embolization arteriogram and cone beam CT showing tumor blush in segment VI.
+  3. Post-embolization showing staining of tumor in segment VI with inflow arterial stasis.
+- **Impression:** Successful left greater artery approach trans-arterial chemoembolization of hepatocellular carcinoma (HCC) located in segment VI.
+
+**History of Present Illness:**
+- The patient is a male with colon cancer (T3 N1 M0) status post resection and FOLFOX chemotherapy, HCV/HBV cirrhosis (compensated) with hepatocellular carcinoma, status post multiple radiofrequency ablations (RFA), admitted for TACE for a 2.2-cm segment VI HCC recurrence. The patient tolerated the procedure well but experienced wheezing post-procedure, which improved with nebulization.
+
+**Past Medical History:**
+- **Oncologic History:**
+  - Hepatocellular carcinoma in the setting of HCV, HBV, and possible alcoholic cirrhosis.
+  - Multiple interventions including resection, RFA, and TACE for recurrent HCC.
+  - Colon cancer (T3 N1 M0) treated with resection and FOLFOX chemotherapy.
+  - History of esophageal varices, gastric ulcer, and portal hypertension.
+  - Multiple imaging studies (MR liver, CT torso) showing various stages of HCC and other liver lesions.
+  - PET scan recommended for further evaluation.
+  - History of portal vein thrombosis.
+  - Colonoscopy revealing a bleeding mass in the sigmoid colon, leading to sigmoid colectomy and cholecystectomy.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Non-contributory
+
+**Physical Exam:**
+- **Admission Physical Exam:**
+  - T 100.6, BP 117/66, HR 93, RR 18, O2 96% RA
+  - General: Elderly man in no acute distress, slightly labored breathing
+  - HEENT: Moist membranes, anicteric
+  - Neck: No masses
+  - Heart: Regular rate and rhythm (RRR), no murmurs
+  - Lungs: Inspiratory/expiratory wheeze, slightly labored breathing but comfortable
+  - Abdomen: Soft, nontender, nondistended, no fluid wave
+  - GU: No Foley catheter
+  - Extremities: Warm, no edema
+  - Neuro: Prominent asterixis, alert, oriented to self and hospital only
+
+- **Discharge Physical Exam:**
+  - T 98.8, BP 113/66, HR 87, RR 18, O2 sat 94% RA
+  - General: No acute distress, resting
+  - Eyes: No scleral icterus
+  - HEENT: NCAT, trachea midline
+  - CV: RRR, S1-S2, no murmurs/rubs/gallops, no edema
+  - Lungs: Clear to auscultation bilaterally
+  - GI: Positive bowel sounds, soft, nontender, nondistended
+  - GU: No Foley catheter
+  - MSK: Intact range of motion, bilateral strength
+  - Neuro: Moving all extremities, no focal deficits, oriented to place and situation
+  - Skin: No rash or ecchymosis
+  - Psych: Congruent affect, good judgment
+
+**Pertinent Results:**
+- **Admission Labs:**
+  - WBC 7.5, RBC 3.24, Hgb 10.1, Hct 30.8, MCV 95, MCH 31.2, MCHC 32.8, RDW 15.6, Plt Ct 55
+  - Glucose 192, UreaN 9, Creat 1.0, Na 142, K 2.5, Cl 107, HCO3 21, AnGap 17
+  - ALT 36, AST 61, AlkPhos 218, TotBili 2.4
+  - CEA 2.9, AFP 1437.0
+
+- **Discharge Labs:**
+  - WBC 5.1, RBC 3.06, Hgb 9.6, Hct 29.6, MCV 97, MCH 31.4, MCHC 32.4, RDW 15.7, Plt Ct 55
+  - Glucose 100, UreaN 10, Creat 0.9, Na 141, K 3.5, Cl 111, HCO3 19, AnGap 15
+  - ALT 64, AST 121, AlkPhos 183, TotBili 1.9
+
+**Brief Hospital Course:**
+- **Assessment and Plan:**
+  - **s/p TACE:** Tolerated well, minimal pain, benign abdominal exam. Noncontrast CT pending read.
+  - **HCC, recurrent:** Follow-up with hepatologist.
+  - **Acute encephalopathy:** Resolved post-procedure with sleep.
+  - **Wheeze:** Active smoker, CXR without evidence of aspiration or fluid overload. Follow-up with PCP for possible COPD and PFTs.
+  - **Hypokalemia:** Repleted with potassium, resolved at discharge.
+  - **HCV/HBV cirrhosis:** Continued tenofovir 300mg daily.
+  - **Essential HTN:** Restarted losartan 100mg daily.
+
+**Medications on Admission:**
+1. Docusate Sodium 100 mg PO BID
+2. Multivitamins 1 TAB PO DAILY
+3. Omeprazole 20 mg PO DAILY
+4. Senna 8.6 mg PO BID PRN Constipation
+5. Tenofovir Disoproxil (Viread) 300 mg PO DAILY
+6. Losartan Potassium 100 mg PO DAILY
+
+**Discharge Medications:**
+1. Docusate Sodium 100 mg PO BID
+2. Losartan Potassium 100 mg PO DAILY
+3. Multivitamins 1 TAB PO DAILY
+4. Omeprazole 20 mg PO DAILY
+5. Senna 8.6 mg PO BID PRN Constipation
+6. Tenofovir Disoproxil (Viread) 300 mg PO DAILY
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+1. Post TACE/HCC
+2. Acute Encephalopathy resolved
+3. Hypokalemia - resolved
+4. Wheezing - no O2 requirements
+5. Abdominal Pain - resolved
+6. HBV/HCV Cirrhosis
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory - Independent.
+
+**Discharge Instructions:**
+- The patient was admitted for TACE of liver cancer, which went well. Post-procedure confusion resolved by morning. The patient should expect possible low-grade fevers, abdominal pain, and nausea/vomiting post-procedure and should follow up with the hepatologist if these occur.
+
+**Follow-up Instructions:**
+- [Redacted]

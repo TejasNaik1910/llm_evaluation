@@ -1,0 +1,80 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Penicillins, Erythromycin Base, Streptomycin, Citric Acid, Atenolol, Torsemide
+
+**Chief Complaint:**
+- Fatigue
+
+**Major Surgical or Invasive Procedure:**
+- Upper Endoscopy
+
+**History of Present Illness:**
+- The patient, with a significant past medical history (PMH) including coronary artery disease (CAD) status post (s/p) stenting, dual chamber implantable cardioverter-defibrillator (ICD), dilated cardiomyopathy, atrial tachycardia/fibrillation, rectal cancer s/p chemoradiation and surgery, colostomy, and stroke with right hand dysthesia, was referred due to progressive fatigue and low hematocrit (Hct).
+
+**Symptoms:**
+- Mild dyspnea on exertion, chronic fatigue, stable orthopnea, nocturia, chronic leg swelling, no dark stools, BRBPR, hematemesis, chest pain, or palpitations.
+
+**Past Medical History:**
+- Ventricular tachycardia, dilated cardiomyopathy with EF 35-40%, CAD s/p stenting, chronic systolic CHF, atrial tachycardia, atrial fibrillation, rectal cancer s/p chemoradiation and surgery, GI bleed from duodenal angiectasia, CVA with right hand dysthesia, prior mechanical falls, depression.
+
+**Family History:**
+- Father died from MI, mother died from PE, twin sister died of colitis. No family history of colon, breast, uterine, or ovarian cancer.
+
+**Physical Exam:**
+- Vitals: T: 96.0, BP: 104/55, P: 69, R: 25, O2: 95% on 2L
+- General: Alert, oriented, no acute distress
+- HEENT: Sclera anicteric, MMM, oropharynx clear
+- Neck: Supple, JVD to jaw, positive HJR, no LAD
+- Lungs: Central ronchi clearing with cough, no crackles, clear, no wheezes
+- CV: RRR, S1, Split S2, soft systolic murmur at apex and LLSB, no rubs/gallops
+- Abdomen: Soft, non-tender, non-distended, bowel sounds present, liver edge palpated 3cm under rib line, colostomy LLQ
+- Extremities: Severe stasis dermatitis bilaterally, no signs of DVT, bilateral +3 pitting edema
+- Neuro: No gross deficit
+
+**Pertinent Results:**
+- **Admission Labs:** Notable for microcytic anemia (Hct 24.7), low iron, elevated LDH, normal B12 and folate, negative celiac serology.
+- **Imaging:** EKG showed A-V paced rhythm with ventricular premature beat, CXR indicated cardiomegaly and mild pulmonary vascular congestion.
+- **Echo:** LVEF 40%, moderate mitral regurgitation, mild global left ventricular hypokinesis, moderate right ventricular dilation.
+
+**Brief Hospital Course:**
+- **Anemia:** Multifactorial, likely due to iron deficiency, chronic renal failure (CRF), and chronic disease. Received 3 units of PRBC, iron supplementation started, and further outpatient workup planned.
+- **CHF Exacerbation:** Managed with home doses of PO furosemide, additional IV furosemide, and PRBC. Fluid status improved to euvolemia at discharge.
+- **Jaundice:** Likely due to congested liver secondary to right heart failure. Further outpatient workup planned.
+- **Acute on Chronic Renal Failure:** Likely pre-renal failure due to decompensated heart failure. Renal function improved with treatment.
+- **Fever:** Occurred during blood transfusion, no concerning findings on workup, remained afebrile.
+- **Atrial Fibrillation:** Managed with beta-blockers and warfarin, INR monitoring continued.
+- **CAD:** Follow-up with outpatient cardiologist, consideration for aspirin and statin initiation.
+
+**Medications on Admission:**
+- Lisinopril, warfarin, Toprol XL, triamcinolone cream, omeprazole, lasix, spironolactone, potassium chloride.
+
+**Discharge Medications:**
+- Toprol XL, triamcinolone acetonide cream, omeprazole, spironolactone, lisinopril, warfarin, potassium chloride, furosemide, iron, Vitamin C, Colace, senna.
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Anemia, iron deficiency, suspected hemolysis, heart failure exacerbation
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory with assistance
+
+**Discharge Instructions:**
+- Undergo lower endoscopy (colonoscopy) for further evaluation of potential GI bleeding.
+- Continue medications as adjusted.
+- Monitor weight daily and follow up with PCP and cardiologist.
+
+**Follow-up Instructions:**
+- Check CBC at PCP's appointment.

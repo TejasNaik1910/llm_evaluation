@@ -1,0 +1,55 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Neurology
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Leg weakness, known T12 lesion
+
+**Major Surgical or Invasive Procedures:**
+1. Anterior arthrodesis T11-L1
+2. Application of interbody cage T11-L1
+3. Biopsy of T12 vertebral body
+4. Posterior arthrodesis T10-L2
+5. Posterolateral posterior instrumentation T10-L2 segmental
+6. Open treatment of fracture dislocation from metastatic disease and destruction of the T12 vertebral body
+7. Laminectomy of partial L1, all of T12, and the inferior aspect of T11
+8. Application of allograft
+
+**History of Present Illness:**
+- The patient, an elderly female with a history of subarachnoid hemorrhage (SAH) secondary to an aneurysm, hypertension (HTN), hyperlipidemia, and a recent work-up for multiple myeloma, presented with leg weakness and multiple falls. She experienced a significant fall at home, leading to a decline in mobility and increased back pain. Initial imaging (plain films and head CT) was normal, but a subsequent spine CT revealed findings consistent with multiple myeloma involving multiple levels and an associated mass at T12 compressing the thecal sac.
+
+**Diagnostic Tests Conducted:**
+- **CT Head:** No acute intracranial hemorrhage, stable bifrontal encephalomalacia.
+- **Thoracolumbar Spine X-ray:** Status post posterior fusion from T10 through L2 with a T12 corpectomy.
+- **MRI Spine:** Status post T12 corpectomy and T10-L2 fusion, severe encroachment on the distal spinal cord due to fluid collection.
+- **Blood Tests:** Elevated WBC, anemia, hypercalcemia, and hemolyzed potassium levels.
+- **Urine Culture:** Positive for Escherichia coli.
+
+**Surgical Interventions:**
+- The patient underwent decompression surgery (T10-L2 fusion, T12 corpectomy) performed by the Ortho-Spine Team.
+
+**Medications:**
+- **On Admission:** Lasix, Pravastatin, Allopurinol, Colchicine, Aggrenox, Cozaar, Atenolol.
+- **Discharge Medications:** Atenolol, Diltiazem, Furosemide, Losartan, Pravastatin, Acetaminophen, Bisacodyl, Docusate Sodium, Fentanyl Patch, Heparin, Insulin, Oxycodone, Polyethylene Glycol, Ranitidine, Senna, Dipyridamole-Aspirin, Sulfameth/Trimethoprim, Allopurinol, Dexamethasone.
+
+**Hospital Course:**
+- The patient was admitted with profound lower extremity weakness and was started on high-dose dexamethasone. Post-surgery, she experienced increased pain and leg weakness, which improved with better pain management. She was also treated for a UTI with antibiotics and managed for hypercalcemia and anemia. The patient was transferred to the Neurology service for better management of her leg weakness and pain.
+
+**Discharge Disposition:**
+- The patient was discharged to an extended care facility with instructions to wear a TLSO brace during ambulation attempts. She was set up for radiation therapy for her multiple myeloma.
+
+**Discharge Diagnosis:**
+- **Primary:** T12 destruction spinal lesion - resected
+- **Secondary:** Post-surgical leg weakness, likely related to pain and deconditioning
+
+**Follow-up Instructions:**
+- The patient is to follow up in the clinic after radiation therapy.

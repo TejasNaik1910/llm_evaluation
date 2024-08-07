@@ -1,0 +1,34 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 65-year-old female
+* Past medical history: CAD, HTN, HLD, T2DM, CKD stage IV, PVD
+* No known allergies or adverse drug reactions
+
+**Chief Complaint:**
+
+* Lower left leg numbness and pain since the previous evening
+
+**Diagnostic Tests:**
+
+* Bilateral lower extremity doppler ultrasound: bilateral posterior tibial veins DVTs
+* EGD: gastritis, superficial ulcerations, and a medium hiatal hernia
+* CT head non-contrast: no evidence of acute infarction, hemorrhage, or fractures
+* Left upper extremity ultrasound: no evidence of deep vein thrombosis, likely evolving hematoma in the left antecubital fossa
+
+**Treatment:**
+
+* Heparin drip and bridged to warfarin with an INR goal of 2.0
+* Stopped clopidogrel per cardiologist
+* Pantoprazole 40mg twice daily for 8 weeks for upper GI bleed
+* Discharged to rehab with anticoagulation management and follow-up instructions
+
+**Medications:**
+
+* Discharged on warfarin 5mg daily, aspirin 81mg daily, and other medications for underlying conditions
+
+**Discharge Diagnosis:**
+
+* Primary: deep vein thrombosis (DVT)
+* Secondary: upper GI bleed, L arm hematoma, superficial thrombophlebitis, L antecubital fossa, chronic kidney disease (Stage IV), peripheral vascular disease, diabetes mellitus type II, coronary artery disease

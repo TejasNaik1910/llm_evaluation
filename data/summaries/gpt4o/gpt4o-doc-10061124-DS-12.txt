@@ -1,0 +1,83 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Iodine, Iodine Containing
+
+**Chief Complaint:**
+- Dyspnea
+- Reason for transfer: Inpatient evaluation
+
+**Major Surgical or Invasive Procedure:**
+- Bronchoscopy
+
+**History of Present Illness:**
+- The patient, a male with a history of CAD, PAD, RAS, and CHF (EF 20%), was initially admitted for dyspnea lasting two weeks. Symptoms included orthopnea and PND. Imaging revealed a large left pleural effusion and a central lung mass with bronchial occlusion and mediastinal adenopathy. Thoracentesis removed 800 ccs of fluid, and cytology was consistent with non-small cell lung cancer (NSCLC), later revised to small cell lung cancer (SCLC), suspected stage IV. Bronchoscopy showed obstruction of the left upper and lower bronchi. A chest tube was placed, draining 1500 ccs. Oncology consultation led to the decision for a pulmonary stent for respiratory comfort, and the patient was transferred for interventional pulmonology evaluation.
+
+**Past Medical History:**
+1. Hypertension
+2. Hyperlipidemia
+3. CAD with occlusion of RCA, LC circumflex, and noncritical LAD disease
+4. Hypertensive/ischemic cardiomyopathy (EF 15%-20%)
+5. Peripheral vascular arterial disease, status post abdominal aortic aneurysm with aortobifemoral bypass
+6. Status post right total hip arthroplasty
+7. Status post right carotid endarterectomy
+8. Status post cholecystectomy
+9. Chronic renal insufficiency (baseline creatinine 1.4-1.7)
+10. Recent cataract surgery
+
+**Physical Exam:**
+- Temp: 97.2°F, BP: 136/74, Pulse: 70, Resp: 16, O2 sat: 95% on 3L NC
+- General: Alert, no acute distress
+- HEENT: Anicteric, moist mucous membranes
+- Neck: No JVD, no cervical lymphadenopathy
+- Chest: Crackles at bases, diminished left base, drain dressing clean/dry/intact
+- CV: Normal S1/S2, RRR, no murmurs
+- Abdomen: Soft, nontender, nondistended, normoactive bowel sounds
+- Extremities: Trace edema, 2+ DP pulses bilaterally
+- Neuro: Alert and oriented x3
+
+**Pertinent Results:**
+- Blood tests showed mild anemia, elevated creatinine, and liver enzyme abnormalities.
+- EKG: Normal sinus rhythm, left axis deviation, nonspecific ST-T changes.
+- CT Chest: Large left lung mass with endobronchial invasion, mediastinal lymphadenopathy, pleural effusion, and liver lesions suggestive of advanced lung cancer.
+- Chest X-ray: Persistent left hemithorax opacification with partial re-aeration post-thoracentesis.
+
+**Bronchoscopy Findings:**
+- Extensive luminal infiltration precluding stent placement.
+- Final pathology confirmed small cell lung cancer.
+
+**Hospital Course:**
+- The patient was admitted for interventional pulmonology evaluation. Bronchoscopy revealed extensive luminal infiltration, precluding stent placement. Initiated on radiation therapy and chemotherapy (carboplatin and etoposide) without complications. Started on Epogen and Neupogen. Underwent four doses of radiation, with plans for additional chemotherapy and six more radiation sessions.
+
+**Medications:**
+- **On Admission:** Tylenol, aspirin, allopurinol, Lipitor, metoprolol, Xalatan, Noxitaren, DuoNeb, Colace, lisinopril.
+- **Discharge Medications:** Metoprolol, allopurinol, atorvastatin, docusate sodium, latanoprost, bisacodyl, megestrol, acetaminophen, ipratropium bromide, lactulose, senna, epoetin alfa, albuterol sulfate, lisinopril.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Small Cell Lung Cancer
+- Hypertension
+- Hyperlipidemia
+- CAD
+
+**Discharge Condition:**
+- Good, ambulating
+
+**Discharge Instructions:**
+- Undergo a second cycle of chemotherapy and six more radiation sessions.
+- Follow up with Dr. [Redacted] for chemotherapy scheduling.
+- Contact interventional pulmonology for pleurex catheter questions.
+- Return to the hospital with any concerning symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,72 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Dyspnea, cough, headache, diarrhea
+
+**Major Surgical or Invasive Procedures:**
+- Colonoscopy and Esophagogastroduodenoscopy (EGD)
+
+**History of Present Illness:**
+- The patient, with a history of hypertension (HTN), chronic obstructive pulmonary disease (COPD), insulin-dependent diabetes mellitus (IDDM), hypothyroidism, and deep vein thrombosis (DVT), presented with diarrhea, shortness of breath (SOB), and headache for several days. She was found to have severe hyponatremia.
+
+**Diagnostic Tests and Findings:**
+- **Labs:** Severe hyponatremia (Na 111), hyperkalemia (K 5.4), elevated BNP (522), normal TSH, random cortisol, and negative influenza A/B.
+- **Imaging:** Normal chest X-ray (CXR) and head CT.
+- **Colonoscopy:** Normal mucosa, one polyp removed, diverticulosis.
+- **EGD:** Normal esophagus, esophageal hiatal hernia, antral erosions.
+- **Echocardiogram (TTE):** Mild biventricular hypertrophy, diastolic dysfunction, moderate pulmonary artery systolic hypertension.
+
+**Hospital Course:**
+- **Hypotonic, Hypervolemic Hyponatremia:** Managed with diuresis and discontinuation of hydrochlorothiazide (HCTZ). Sodium levels normalized to 141 by discharge.
+- **Heart Failure with Preserved Ejection Fraction (HFpEF):** Managed with diuretics, resulting in euvolemia at discharge.
+- **Anemia:** Persistent microcytic anemia; colonoscopy and EGD performed to investigate iron deficiency.
+- **Change in Stool Habits:** Likely viral gastroenteritis; resolved post-admission.
+- **Dysphagia:** Evaluated by speech and swallow; EGD showed mild gastritis.
+- **Klebsiella UTI:** Treated with ceftriaxone.
+- **Vulvovaginal Candidiasis:** Treated with fluconazole and miconazole powder.
+- **Urinary Retention:** Resolved post-Foley removal.
+- **Hypoxia/Dyspnea:** Managed with oxygen therapy and Duonebs.
+- **Hyperglycemia:** Managed with insulin sliding scale.
+- **Sore Throat:** Managed with lozenges and chloraseptic spray.
+- **Hypomagnesemia:** Corrected with MgSO4.
+
+**Medications:**
+- **Admission Medications:** Hydrochlorothiazide, ibuprofen, levothyroxine, metformin, losartan, levetiracetam, fluticasone, albuterol, pravastatin, gabapentin, metoprolol, omeprazole, glimepiride, aspirin.
+- **Discharge Medications:** Amlodipine, heparin, ipratropium-albuterol, miconazole powder, multivitamins, nicotine patch, losartan, albuterol, aspirin, fluticasone, gabapentin, glimepiride, levetiracetam, levothyroxine, metformin, metoprolol, omeprazole, pravastatin.
+
+**Discharge Disposition:**
+- **Facility:** Extended Care
+- **Primary Diagnosis:** Hypervolemic Hyponatremia
+- **Secondary Diagnoses:** Iron deficiency anemia, constipation, vaginal candidiasis
+
+**Discharge Condition:**
+- **Mental Status:** Clear and coherent
+- **Level of Consciousness:** Alert and interactive
+- **Activity Status:** Ambulatory with assistance
+
+**Discharge Instructions:**
+- Continue all medications and follow-up appointments.
+- Monitor for symptoms and maintain fluid restriction as advised.
+
+**Follow-up Instructions:**
+- Follow up on pathology from colonoscopy and EGD biopsies.
+- Monitor for ongoing anemia and symptoms.
+
+**Code Status:**
+- Full, limited trial
+
+**Contact:**
+- Son [Redacted]
+
+**Summary:**
+The patient was admitted with severe hyponatremia, managed with diuresis and discontinuation of HCTZ. She underwent colonoscopy and EGD for anemia evaluation, revealing mild gastritis and a colonic polyp. She was treated for a UTI and candidiasis, and her chronic conditions were managed. She was discharged to extended care with a comprehensive medication regimen and follow-up instructions.

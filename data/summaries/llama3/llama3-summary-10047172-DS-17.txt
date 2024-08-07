@@ -1,0 +1,76 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: [Not provided]
+* Date of Birth: [Not provided]
+* Sex: Male
+* Unit No: [Not provided]
+* Admission Date: [Not provided]
+* Discharge Date: [Not provided]
+
+**Chief Complaint:**
+
+* Anasarca (generalized edema)
+
+**Medical History:**
+
+* Pancreatic adenocarcinoma metastatic to the liver (biopsy-proven)
+* Type 2 diabetes mellitus (T2DM)
+* Hypertension (HTN)
+* Hyperlipidemia
+* Dyslipidemia (DL)
+* Left hip replacement
+* Heart murmur
+* Nose fracture
+* Kidney lesion (2.4cm hemmorhagic cyst)
+
+**Cancer History:**
+
+* Diagnosed with pancreatic adenocarcinoma in [Not provided]
+* Treated with FOLFIRINOX, gemcitabine, and erlotinib
+* Disease progressed with increased size of liver metastases
+
+**Current Status:**
+
+* Currently on C1D10 gemcitabine and erlotinib
+* Recent biliary sepsis, stent, and completed antibiotic course for Klebsiella bacteremia
+* Leaking paracentesis site on the left lower quadrant (LLQ) and increased anasarca with bilateral pedal edema
+* New asymptomatic bilateral pleural effusions
+
+**Diagnostic Tests:**
+
+* CT scan showed progression of disease with increased size of innumerable hepatic masses, increased abnormal soft tissue in the retroperitoneum, and increasing ascites
+* MRI liver showed progression of disease
+* CT chest showed new irregular nodule in the right upper lobe and interval increase of the right lower lobe nodules concerning for progressive metastatic disease
+* ERCP showed a 3.5 cm x 4 cm ill-defined mass in the head of the pancreas, involving the confluence, especially the SMV with narrowing of vessel diameter
+
+**Surgical Interventions:**
+
+* Therapeutic paracentesis with stitches placed to stop the leaking
+
+**Medications:**
+
+* Gemcitabine
+* Erlotinib
+* Capecitabine (Xeloda)
+* Tarceva
+* Furosemide (Lasix)
+* Spironolactone (Aldactone)
+* Amlodipine
+* Lisinopril
+* Metformin (Glucophage XR)
+* Creon
+* Duloxetine
+* Methylphenidate (Ritalin)
+* Pyridoxine
+* Simethicone
+* Tamsulosin
+* Nystatin oral suspension
+* Lorazepam (Ativan)
+
+**Discharge Status:**
+
+* Discharged home with service
+* Follow-up with primary oncologist and PCP
+* Continue chemotherapy as planned

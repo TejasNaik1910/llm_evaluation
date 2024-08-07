@@ -1,0 +1,121 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Chest pain
+
+**Major Surgical or Invasive Procedure:**
+- Status post (s/p) Transcatheter Aortic Valve Replacement (TAVR)
+
+**History of Present Illness:**
+- The patient is a [Redacted]-year-old man with severe aortic stenosis, coronary artery disease (CAD), hypertension, well-controlled multiple myeloma, and obesity. He experienced intermittent exertional chest pain and shortness of breath over several months, which resolved with rest. An abnormal stress test led to his admission for a cardiac catheterization, revealing unchanged CAD. His symptoms were attributed to severe aortic stenosis, and he was deemed an intermediate surgical risk for aortic valve replacement. He was admitted for TAVR.
+
+**NYHA Class:**
+- III
+
+**Past Medical History:**
+1. Severe aortic stenosis
+2. Multiple myeloma (well-controlled)
+3. Hypertension
+4. Obesity
+5. Coronary artery disease (BMS to LAD)
+6. Neuropathy
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- No history of familial disease
+
+**Physical Exam:**
+- **Admission PE:**
+  - BP: 99/59, HR: 52, RR: 14, O2 sat: 94% on room air
+  - Weight: 253.99 lbs
+  - EKG: rate 49, SB
+  - General: Lying in bed, in no distress
+  - Neuro: Awake, alert, oriented initially but with memory deficits post-op
+  - CV: Regular rate and rhythm, normal S1S2, soft systolic ejection murmur
+  - Chest: Clear to auscultation anteriorly
+  - Abdomen: Soft, non-tender, non-distended
+  - Extremities: Trace edema
+  - Skin: No rashes or ulcers
+  - Access sites: Groin sites soft without significant issues
+
+**Pertinent Results:**
+- **Admission Labs:**
+  - WBC: 2.6*, RBC: 3.76*, Hgb: 11.9*, Hct: 35.3*
+  - Glucose: 101*, UreaN: 13, Creatinine: 1.1, Na: 139, K: 4.1, Cl: 103, HCO3: 25, AnGap: 11
+  - Calcium: 8.1*, Phosphorus: 2.8, Magnesium: 1.7
+- **Discharge Labs:**
+  - WBC: 4.3, RBC: 3.81*, Hgb: 12.0*, Hct: 36.5*
+  - UreaN: 14, Creatinine: 1.1, Na: 142, K: 3.7, Cl: 102, HCO3: 23, AnGap: 17
+  - Triglycerides: 250*, HDL: 42, LDLcalc: 23
+- **Imaging:**
+  - **TTE:**
+    - Pre-TAVR: Severe aortic valve stenosis (valve area ≤1.0 cm²), mild aortic regurgitation
+    - Post-TAVR: Well-seated prosthesis with normal leaflet motion, trace aortic regurgitation
+  - **CT Head W/O Contrast:**
+    - No evidence of recent infarct, intracranial hemorrhage, or mass
+  - **MRI Brain:**
+    - Multiple scattered acute to subacute infarcts, likely cardioembolic
+  - **MRA Brain/Neck:**
+    - Mild atheromatous narrowing, no significant stenosis or occlusion
+
+**Procedure:**
+- **TAVR:**
+  - Pre-procedure AV mean gradient: 47mmHg
+  - Post-procedure: Normal leaflet motion, trace aortic regurgitation, no significant complications
+
+**Brief Hospital Course:**
+- **Assessment/Plan:**
+  - Severe symptomatic aortic stenosis, s/p TAVR complicated by small punctate scattered acute embolic stroke
+  - Transient memory deficit post-op, resolved
+  - Continue daily aspirin and Plavix, high-dose statin
+  - Follow-up echo and SH appointment in 1 month
+
+**Chronic Issues:**
+- Leukopenia (likely due to multiple myeloma treatment)
+- Multiple myeloma (on Revlimid)
+- HSV/VZV suppression (on acyclovir)
+- Depression (on paroxetine)
+- Neuropathy (on gabapentin)
+- Obstructive sleep apnea (uses CPAP)
+- Hypertension (well-controlled on HCTZ and amlodipine)
+
+**Medications on Admission:**
+- Includes gabapentin, lenalidomide, metoprolol, colestipol, amlodipine, atorvastatin, ropinirole, valacyclovir, clopidogrel, omeprazole, aspirin, paroxetine, hydrochlorothiazide, cyanocobalamin, folic acid, pyridoxine, vitamin D, furosemide, pregabalin
+
+**Discharge Medications:**
+- Includes pantoprazole, furosemide, amlodipine, aspirin, atorvastatin, clopidogrel, colestipol, cyanocobalamin, folic acid, gabapentin, hydrochlorothiazide, lenalidomide, metoprolol, paroxetine, pregabalin, pyridoxine, ropinirole, sodium phosphate, valacyclovir, vitamin D
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Severe aortic stenosis s/p TAVR
+- Hypertension
+- Coronary artery disease
+- Embolic stroke
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Emphasized the importance of taking heart medications, especially aspirin and clopidogrel
+- Advised on daily weight monitoring and follow-up appointments
+- Provided instructions for prophylactic antibiotics before dental procedures
+
+**Follow-up Instructions:**
+- [Redacted]

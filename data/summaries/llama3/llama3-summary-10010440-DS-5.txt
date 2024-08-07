@@ -1,0 +1,55 @@
+Here is a summary of the clinical note:
+
+**Cancer Diagnosis:** Multiple myeloma, with a lesion in the T12 vertebral body and destruction of the thecal sac.
+
+**Morphology:** Plasma cell dyscrasia, consistent with multiple myeloma.
+
+**TNM Staging:** Not specified.
+
+**Progression:** The patient had a history of multiple myeloma, but it was not conclusive until now. The patient had a 2.5-month history of progressive weakness and recurrent falls, as well as a 30-pound weight loss.
+
+**Prescribed Medications:**
+
+* Dexamethasone 4mg IV Q24H (may switch to PO once radiation therapy starts)
+* Fentanyl patch 50mcg/hour TD Q72H
+* OxycoDONE (Immediate Release) 10mg PO Q4H
+* Heparin 5000 UNIT SC TID
+* Insulin SC sliding scale
+* Ranitidine 150mg PO BID
+* Sulfameth/Trimethoprim DS 1 TAB PO BID (duration: 2 days)
+
+**Diagnostic Tests:**
+
+* CT spine
+* MRI spine
+* CT head
+* Pathology report from surgical resection
+* Blood tests (WBC, RBC, Hgb, Hct, MCV, MCH, MCHC, RDW, Plt)
+* Urine culture (ESCHERICHIA COLI)
+
+**Surgical Interventions:**
+
+* Anterior arthrodesis T11-L1
+* Application interbody cage T11-L1
+* Biopsy of T12 vertebral body
+* Posterior arthrodesis T10-L2
+* Posterolateral posterior instrumentation T10-L2 segmental
+* Open treatment fracture dislocation from metastatic disease and destruction of the T12 vertebral body
+* Laminectomy of partial L1, all of T12, and the inferior aspect of T11
+* Application of allograft
+
+**Patient's Response to Treatment:**
+
+* The patient's leg movements improved with better pain control.
+* The patient's mental status improved with better pain control.
+* The patient's UTI improved with antibiotic treatment.
+
+**Discharge Disposition:**
+
+* Extended care facility
+* Radiation therapy set up for treatment of multiple myeloma.
+
+**Discharge Diagnosis:**
+
+* Primary diagnosis: T12 destruction spinal lesion - resected
+* Secondary diagnosis: Post-surgical leg weakness, likely related to pain and deconditioning

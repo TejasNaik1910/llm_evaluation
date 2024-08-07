@@ -1,0 +1,71 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Bright red blood per rectum (BRBPR)
+
+**Major Surgical or Invasive Procedures:**
+- Colonoscopy
+- Percutaneous cholecystostomy tube placement
+
+**History of Present Illness:**
+- The patient is an elderly male with a history of HBV/HCV cirrhosis complicated by portal hypertension and hepatocellular carcinoma (HCC) status post resection. He presented with two days of BRBPR. He was recently hospitalized for acute cholecystitis, treated with antibiotics (ciprofloxacin and metronidazole), and discharged to complete a 14-day course. The patient re-presented with new onset BRBPR, without melena, abdominal, or rectal pain.
+
+**Past Medical History:**
+- HBV, HCV, history of hepatitis E infection
+- HCC (presumed) status post resection
+- Cirrhosis complicated by upper GI bleed (UGIB)
+- Hypertension (HTN)
+- Hyperlipidemia (HLD)
+- Gastroesophageal reflux disease (GERD)
+- Hearing loss
+
+**Physical Exam:**
+- **Admission:** Well-appearing, minimal epigastric tenderness, guaiac positive stool.
+- **Discharge:** Stable vitals, no distress, clear lungs, soft abdomen, no tenderness, PTBD in place, draining well.
+
+**Pertinent Results:**
+- **Colonoscopy:** Circumferential, mildly bleeding 5 cm mass in the sigmoid colon, biopsy performed.
+- **CT Abdomen + Pelvis:** Perforated gallbladder, 2.5-3 cm mass in the sigmoid colon, no metastatic disease.
+- **CT Chest:** Moderate to severe emphysema, no metastatic lesions.
+- **Microbiology:** No growth in gallbladder fluid culture.
+
+**Brief Hospital Course:**
+- **Ruptured Gallbladder:** Managed with antibiotics and PTBD placement. Plan for interval cholecystectomy.
+- **Sigmoid Colon Mass:** Identified as adenocarcinoma. No evidence of metastasis. Plan for interval laparoscopic resection.
+- **HBV/HCV Cirrhosis:** Managed with tenofovir and propranolol. MELD score 9, Child-Pugh class A.
+- **Dizziness:** Attributed to fluid status and antibiotics, no focal neurological findings.
+
+**Medications on Admission:**
+- Amlodipine, Tenofovir, Ciprofloxacin, Docusate, Metronidazole, Acetaminophen, Gemfibrozil, Losartan, Omeprazole, Potassium Chloride, Propranolol, Pantoprazole.
+
+**Discharge Medications:**
+- Acetaminophen, Ciprofloxacin, Docusate, Metronidazole, Pantoprazole, Propranolol, Tenofovir, Amlodipine, Gemfibrozil, Losartan, Omeprazole.
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- Primary: Lower GI bleed secondary to mass in the colon
+- Secondary: Cholecystitis, HBV + HCV cirrhosis, HCC status post partial resection, HTN, portal hypertensive gastropathy
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Follow up with outpatient providers, including liver doctor and surgeons for gallbladder and colon mass.
+
+**Follow-up Instructions:**
+- [Redacted]

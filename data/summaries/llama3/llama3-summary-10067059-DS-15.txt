@@ -1,0 +1,53 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Female
+* Date of Birth: Not provided
+* Service: Neurosurgery
+
+**Chief Complaint:**
+
+* Right parasagittal frontal mass
+
+**Medical History:**
+
+* Small cell lung cancer
+* Non-small cell lung cancer of the left lung (treated with lobectomy)
+* Right upper lobe lung nodules (negative)
+* Smoking
+* Claustrophobia
+
+**Surgical Intervention:**
+
+* Right craniotomy resection of dural lesion
+
+**Diagnostic Tests:**
+
+* MRI (showed a probable parasagittal meningioma)
+* Post-op MRI (showed no residual tumor on POD1)
+
+**Medications:**
+
+* Admission medications: alprazolam, cyclobenzaprine, fluoxetine, levothyroxine, simvastatin, Ambien, multivitamin, Fish Oil
+* Discharge medications: acetaminophen, dexamethasone, docusate sodium, famotidine, levetiracetam, oxycodone, alprazolam
+
+**Discharge Diagnosis:**
+
+* Brain tumor
+
+**Discharge Condition:**
+
+* Mental Status: Clear and coherent
+* Level of Consciousness: Alert and interactive
+* Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+
+* Surgery: Keep incision dry, avoid heavy lifting and strenuous exercise
+* Activity: Avoid heavy lifting, running, climbing, or other strenuous exercise; take leisurely walks and increase activity slowly
+* Medications: Take medications as instructed, avoid blood thinning medication, and follow up with Dr. ___ for length of duration to take Keppra (Levetiracetam)
+* What to Expect: Headaches, incisional pain, post-operative swelling, soreness with chewing, feeling tired or restless, and constipation
+* When to Call Doctor: Severe pain, swelling, redness, or drainage from the incision site; fever; nausea and/or vomiting; extreme sleepiness; severe headaches; seizures; new problems with vision or ability to speak; weakness or changes in sensation in the face, arms, or legs

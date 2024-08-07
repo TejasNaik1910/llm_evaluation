@@ -1,0 +1,59 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Painless jaundice
+
+**Major Surgical or Invasive Procedure:**
+- ERCP (Endoscopic Retrograde Cholangiopancreatography)
+
+**History of Present Illness:**
+- The patient, with a history of diabetes, hyperlipidemia (HLD), hypertension (HTN), bladder cancer, and prostate cancer (status post prostatectomy and cystectomy with urostomy), developed painless jaundice over one week. Initial labs showed elevated liver function tests (LFTs) and direct bilirubin (D-bili). An abdominal CT scan revealed a mildly distended gallbladder without bile duct dilation and retroperitoneal lymphadenopathy, raising concerns for recurrent bladder cancer. A chest CT was normal. Persistent jaundice led to further evaluation, including a right upper quadrant ultrasound (RUQUS) and MRCP, which identified a mass in the pancreatic head and extensive retroperitoneal adenopathy.
+
+**Diagnostic Tests Conducted:**
+- **Abdominal CT:** Mildly distended gallbladder, retroperitoneal lymphadenopathy.
+- **Chest CT:** Normal.
+- **RUQUS:** Moderate intrahepatic and extrahepatic biliary ductal dilation, distended gallbladder with sludge.
+- **MRCP:** 3.0 x 2.6 cm mass in the pancreatic head, extensive retroperitoneal adenopathy, common bile duct stent, 6 mm pancreatic cystic lesion, pancreas divisum.
+- **ERCP:** 15 mm stricture in the lower third of the common bile duct, moderate post-obstructive dilation, sphincterotomy performed, cytology samples obtained, biliary stent placed.
+
+**Laboratory Results:**
+- **Admission Labs:** Elevated bilirubin (T bili 10.9, D bili 9.0), ALT 238, AST 187, Alk Phos 1346, creatinine 1.9.
+- **Discharge Labs:** Improved bilirubin (T bili 4.3, D bili 2.8), ALT 157, AST 81, Alk Phos 1012, creatinine 2.0.
+
+**Medications:**
+- **On Admission:** Ferrous Sulfate, Aspirin, Cephalexin, Ciprofloxacin.
+- **Discharge Medications:** Aspirin, Ferrous Sulfate.
+
+**Surgical Interventions:**
+- **ERCP:** Sphincterotomy, biliary stent placement, cytology samples obtained.
+
+**Patient's Response to Treatment:**
+- The patient's bilirubin levels decreased significantly after the stent placement, indicating relief of the biliary obstruction.
+
+**Discharge Diagnosis:**
+- Obstructive jaundice due to a pancreatic head mass.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory - Independent.
+
+**Follow-up Instructions:**
+- The patient will be discussed at a pancreatic conference, and follow-up plans regarding the pancreatic mass and jaundice will be communicated. Cytology results and CA follow-up are pending. Consideration for retroperitoneal lymph node biopsy as an outpatient. Repeat ERCP in one month for biliary tree assessment and stent removal.
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Instructions:**
+- The patient was informed about the ERCP findings, the placement of the stent, and the need for follow-up on cytology results. The patient was advised to contact the physician if no communication is received within 10 days.

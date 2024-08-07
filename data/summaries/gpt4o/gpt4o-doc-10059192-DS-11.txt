@@ -1,0 +1,62 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Erythromycin base, Morphine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Weakness and diarrhea
+
+**Major Surgical or Invasive Procedure:**
+- Failed image-guided intra-abdominal abscess drainage
+
+**History of Present Illness:**
+- [Redacted] year-old woman with a history of stage III colon cancer, status post right hemicolectomy and chemotherapy, chronic diarrhea, and recent complicated diverticulitis with abscess. She was transferred with abdominal pain and new abscesses. Previous attempts at abscess drainage were incomplete.
+
+**Recent Hospital Course:**
+- Found to have multiple intra-abdominal abscesses and was hypokalemic and hypomagnesemic. Treated with Zosyn and Flagyl, and later transferred for further management.
+- Imaging revealed multiple fluid collections in the pelvis, some of which were not amenable to drainage.
+- Treated with IV antibiotics (Zosyn, Vancomycin, Ciprofloxacin, Metronidazole) and supportive care including IV fluids and Ondansetron for nausea.
+
+**Physical Exam:**
+- Admission: Alert, oriented, somewhat confused, soft non-tender abdomen, normal cardiovascular and respiratory findings.
+- Discharge: Alert, oriented, no acute distress, normal cardiovascular and respiratory findings, no abdominal tenderness.
+
+**Diagnostic Tests:**
+- **Labs:** Notable for hypokalemia, hypomagnesemia, mild metabolic encephalopathy, and anemia.
+- **Imaging:** CT abdomen/pelvis showed multiple fluid collections, some with air-fluid levels. TTE showed mild regional left ventricular systolic dysfunction. CXR and stress EKG were unremarkable.
+- **Microbiology:** Blood cultures negative, urine culture positive for Staph aureus.
+
+**Medications:**
+- **Admission:** Atorvastatin, Cyanocobalamin, Fluoxetine, Vitamin D, Loperamide.
+- **Discharge:** Added Aspirin, Calcium Carbonate, Cepacol, Methylphenidate, Metoprolol Succinate, Mirtazapine, Omeprazole. Adjusted Fluoxetine dosage.
+
+**Hospital Course:**
+- **Complicated Diverticulitis with Abscess:** Managed with antibiotics and supportive care. Surgery deferred due to the patient's overall condition and lack of systemic inflammatory symptoms.
+- **Severe Malnutrition and Weight Loss:** Managed with nutritional support including tube feeding after PEG tube placement.
+- **Depression and Apathy:** Treated with psychiatric medications including Methylphenidate, Fluoxetine, and Mirtazapine.
+- **Acute on Chronic Diarrhea:** Managed with Loperamide and adjustments to tube feeding.
+- **Staph Aureus UTI:** Treated with Ceftriaxone and transitioned to Bactrim based on sensitivities.
+- **Anemia:** Monitored with no active bleeding identified.
+
+**Discharge Condition:**
+- Mental status clear and coherent, alert and interactive, ambulatory and independent.
+
+**Discharge Instructions:**
+- Continue medications as prescribed.
+- Follow up with primary care and specialists as scheduled.
+- Monitor nutritional status and consider discontinuation of PEG if symptoms improve.
+
+**Discharge Diagnosis:**
+- **Primary:** Complicated diverticulitis with abscess, weakness, poor appetite, depression, and apathy.
+- **Secondary:** Chronic diarrhea, acute kidney injury, hyperlipidemia, anxiety, vitamin D deficiency.
+
+**Follow-Up:**
+- Ensure follow-up with psychiatry, colorectal surgery, and primary care for ongoing management and monitoring.

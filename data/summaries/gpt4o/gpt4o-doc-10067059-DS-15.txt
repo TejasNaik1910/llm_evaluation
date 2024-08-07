@@ -1,0 +1,75 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Neurosurgery
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Right parasagittal frontal mass
+
+**Major Surgical or Invasive Procedure:**
+- Right craniotomy resection of dural lesion
+
+**History of Present Illness:**
+- The patient, a female with a history of small cell lung cancer, presented with a right parasagittal frontal mass discovered on a surveillance scan. Initially diagnosed with non-small cell lung cancer of the left lung, she underwent a lobectomy. Recent MRI indicated a probable parasagittal meningioma, but given her history, a dural-based metastasis was also considered.
+
+**Past Medical History:**
+- Smoking
+- Lung cancer treated with lobectomy
+- Significant claustrophobia
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Unknown
+
+**Physical Exam on Discharge:**
+- Neurologically intact, with normal motor and sensory functions. Pupils were equal, round, and reactive to light. No pronator drift, fluent speech, and intact comprehension.
+
+**Pertinent Results:**
+- Refer to OMR for imaging and lab results.
+
+**Brief Hospital Course:**
+- The patient underwent elective surgery for the resection of a right dural-based lesion. The procedure was well-tolerated, and post-operative MRI on POD1 showed no residual tumor. She was discharged on POD2, neurologically intact, with well-controlled pain, and was ambulatory with a steady gait.
+
+**Medications on Admission:**
+- Alprazolam, Cyclobenzaprine, Fluoxetine, Levothyroxine (25 mcg and 88 mcg), Simvastatin, Ambien, Multivitamin, Fish Oil
+
+**Discharge Medications:**
+1. Acetaminophen for mild pain/fever
+2. Dexamethasone (tapered doses)
+3. Docusate Sodium
+4. Famotidine
+5. Levetiracetam
+6. Oxycodone for moderate pain
+7. Alprazolam for anxiety
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Brain Tumor
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- **Surgery:** Keep incision dry until staples are removed, monitor for signs of infection.
+- **Activity:** Avoid heavy lifting and strenuous exercise, no driving while on narcotics, no contact sports until cleared.
+- **Medications:** Avoid blood thinners, continue Keppra (Levetiracetam) for seizure prevention, follow dexamethasone tapering schedule, take Famotidine to protect the stomach.
+- **What to Expect:** Possible headaches, swelling, soreness with chewing, tiredness, and constipation.
+- **When to Call Doctor:** Severe pain, fever, nausea, extreme sleepiness, severe headaches, seizures, vision or speech problems, weakness or changes in sensation.
+- **Emergency Signs:** Sudden numbness, confusion, trouble walking, severe headaches.
+
+**Follow-up Instructions:**
+- [Redacted]

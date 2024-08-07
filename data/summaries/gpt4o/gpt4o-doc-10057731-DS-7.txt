@@ -1,0 +1,65 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Abdominal pain and jaundice.
+
+**Major Surgical or Invasive Procedure:**
+- ERCP/EUS with biopsies and biliary stenting.
+
+**History of Present Illness:**
+- The patient, a male with a history of seizure disorder and chronic low back pain, presented with abdominal pain that began in the left upper quadrant (LUQ) and progressed to the right upper quadrant (RUQ). He noticed jaundice, tea-colored urine, pale stools, and pruritus. Initial evaluation revealed a mass at the head of the pancreas and hepatic lesions.
+
+**Diagnostic Tests and Results:**
+- **Labs:** ALT 79, AST 43, Alk Phos 829, Total Bilirubin 22.6.
+- **MRCP:** 6.0 cm necrotic mass in the tail of the pancreas, numerous hepatic metastases, peribiliary enhancement suggesting cholangitis, enlarged periportal lymph nodes, right portal vein occlusion, upper abdominal varices, and a 2 cm right adrenal adenoma.
+- **ERCP:** Mild duodenitis, hilar stricture involving both the common hepatic duct (CHD) and intrahepatic ducts, biliary sphincterotomy, and placement of biliary stents.
+- **EUS:** 6 cm x 7 cm mass in the tail of the pancreas, hypoechoic and heterogeneous, with irregular borders. Fine-needle biopsy (FNB) and fine-needle aspiration (FNA) performed.
+
+**Cancer Type and Morphology:**
+- Pancreatic cancer with a necrotic mass in the tail of the pancreas and possible metastasis to the liver and regional lymph nodes.
+
+**Cancer Stage and Progression:**
+- Advanced stage with hepatic metastases and regional lymph node involvement.
+
+**TNM Staging:**
+- Not explicitly provided, but findings suggest T3N1M1 (large primary tumor with regional lymph node involvement and distant metastasis).
+
+**Medications:**
+- **On Admission:** Chlorthalidone, Losartan, Metoprolol, Oxycodone, Sertraline.
+- **Discharge Medications:** Alprazolam, Ciprofloxacin, Enoxaparin, Metronidazole, Nicotine Lozenge, Nicotine Patch, Chlorthalidone, Losartan, Metoprolol, Oxycodone, Sertraline.
+
+**Surgical Interventions:**
+- ERCP with biliary stenting and EUS with biopsies.
+
+**Patient's Response to Treatment:**
+- The patient was discharged with improved pain management and a plan for follow-up care, including re-evaluation of the biliary stent and oncology follow-up for biopsy results.
+
+**Discharge Diagnosis:**
+- Pancreatic cancer and hyperbilirubinemia.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory and independent.
+
+**Discharge Instructions:**
+- Follow-up with the ERCP team in 4 weeks for stent evaluation.
+- Oncology follow-up for biopsy results within one week of discharge.
+- Continue medications as prescribed and monitor for any new symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]
+
+**Summary:**
+The patient was admitted with abdominal pain and jaundice, diagnosed with a necrotic pancreatic mass with hepatic metastases and regional lymph node involvement. He underwent ERCP and EUS with biopsies and biliary stenting. Discharged with medications for pain, anxiety, and infection management, and scheduled for follow-up evaluations.

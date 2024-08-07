@@ -1,0 +1,56 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* 65-year-old female
+* History of stage II colon cancer, status post right hemicolectomy and chemotherapy
+* Chronic diarrhea, recent admission with complicated diverticulitis and abscess
+
+**Admission:**
+
+* Presented with weakness, diarrhea, and abdominal pain
+* Found to have new abscesses and complicated diverticulitis
+* Started on antibiotics (Zosyn and Flagyl) and transferred to colorectal surgery
+
+**Hospital Course:**
+
+* CT abdomen/pelvis showed multiple intra-abdominal abscesses
+* Colorectal surgery decided to delay possible sigmoid resection to allow inflammation to improve
+* Patient commenced on ciprofloxacin/metronidazole and planned for guided drainage of abscesses
+* However, CT pelvis showed decrease in size of collections, now not amenable to drainage
+* Discontinued antibiotics given absence of systemic inflammatory symptoms
+* Started on antidepressive medications and appetite stimulants
+* PEG tube placement for malnutrition with improvement in mood and nutritional status
+
+**Active Issues:**
+
+* Complicated diverticulitis with abscess
+* Severe malnutrition
+* Weakness/gait instability
+* Weight loss
+* Depression/apathy
+* T-wave inversions/CAD
+* Acute on chronic diarrhea
+* Cellulitis
+* Staph aureus UTI
+* Anemia
+
+**Chronic Issues:**
+
+* Small ascites
+* Hyperlipidemia
+* Vitamin deficiency
+
+**Transitional Issues:**
+
+* Consider ongoing malignancy workup
+* Monitor improvement in nutritional status after 3 months of tube feeds and optimization of depression regimen
+* Monitor volume status and ensure psychiatry follow-up for optimization of medical regimen for depression treatment
+* Ensure colorectal follow-up for further management of known diverticular disease
+
+**Discharge:**
+
+* Discharged to extended care facility
+* Primary diagnoses: complicated diverticulitis with abscess, weakness/poor appetite, depression/apathy
+* Secondary diagnoses: chronic diarrhea, acute kidney injury, hyperlipidemia, anxiety, depression, vitamin D deficiency
+* Discharge medications: acetaminophen, aspirin, calcium carbonate, cepacol, methylphenidate, metoprolol succinate, mirtazapine, omeprazole, fluoxetine, atorvastatin, cyanocobalamin, loperamide, and vitamin D.

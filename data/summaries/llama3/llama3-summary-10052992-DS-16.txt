@@ -1,0 +1,47 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+* Male patient with a history of colon cancer (T3 N1 M0), HCV/HBV cirrhosis, and hepatocellular carcinoma (HCC)
+* Admitted for transarterial chemoembolization (TACE) of a 2.2-cm segment VI HCC recurrence
+
+**Procedure and Findings:**
+
+* Successful TACE procedure with left greater artery approach
+* Arteriogram and cone beam CT showed tumor blush in segment VI
+* Post-embolization imaging showed staining of the tumor with inflow arterial stasis
+
+**Past Medical History:**
+
+* Resection of primary HCC
+* Multiple radiofrequency ablations (RFA) for HCC recurrences
+* Colon cancer resection and FOLFOX chemotherapy
+* HCV/HBV cirrhosis with compensated liver disease
+* History of abdominal pain, varices, and gastric ulcer
+
+**Admission and Hospital Course:**
+
+* Presented for planned TACE procedure with left radial access
+* Received 1L NS, fentanyl, and oxycodone during the procedure
+* Experienced wheezing in the PACU, which improved with nebulizer treatment
+* Admitted to the floor with no pain, trouble breathing, or chest discomfort
+* Developed acute encephalopathy post-procedure, which resolved overnight
+* Had a non-contrast CT scan pending read, which will be followed up with the hepatologist
+
+**Discharge Diagnosis and Condition:**
+
+* Post TACE/HCC
+* Acute encephalopathy resolved
+* Hypokalemia resolved
+* Wheezing with no O2 requirements
+* Abdominal pain resolved
+* HBV/HCV cirrhosis
+
+**Medications and Discharge Instructions:**
+
+* Discharged on medications, including docusate sodium, losartan potassium, multivitamins, omeprazole, senna, and tenofovir disoproxil
+* Instructed to follow up with the hepatologist for CT scan results and to report any low-grade fevers, abdominal pain, or nausea/vomiting
+
+**Discharge Disposition:**
+
+* Discharged home without services

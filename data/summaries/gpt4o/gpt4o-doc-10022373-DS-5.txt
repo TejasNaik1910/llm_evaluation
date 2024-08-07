@@ -1,0 +1,68 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Codeine, curry leaf tree, morphine, penicillins
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- Celiac Plexus Block
+
+**History of Present Illness:**
+- The patient, with a history of locally advanced pancreatic cancer, is undergoing neoadjuvant FOLFIRINOX chemotherapy. She presented with two weeks of uncontrollable nausea, vomiting, and abdominal pain, which started before her recent chemotherapy cycle. A CT scan revealed a pancreatic mass. She was managed conservatively with IV fluids and Zofran, but symptoms persisted, leading to her current admission.
+
+**Past Medical History:**
+- **Oncologic History:** Diagnosed with pancreatic ductal adenocarcinoma, moderately differentiated. Underwent multiple diagnostic tests including ultrasound, CT, and endoscopic ultrasound. Neoadjuvant chemotherapy (FOLFIRINOX) was initiated.
+- **Other Medical Conditions:** Chronic low back pain, bipolar disorder, PTSD, anxiety and panic disorder, hyperthyroidism (post-surgery), hypothyroidism, GERD, irritable bowel syndrome, osteoporosis, palpitations, prior myocarditis.
+
+**Family History:**
+- Significant for breast cancer, colon cancer, and ovarian cancer among close relatives.
+
+**Physical Exam:**
+- **Admission:** Vital signs stable, mild tenderness in the epigastrium and RUQ, no masses or hepatosplenomegaly.
+- **Discharge:** Improved symptoms, no significant findings.
+
+**Pertinent Results:**
+- **Imaging:**
+  - CTA Abdomen & Pelvis: Pancreatic mass with encasement of SMA branch.
+  - Gastric Emptying Study: Markedly slow emptying.
+  - Chest X-ray: Improved pneumonia.
+- **Blood Work:**
+  - Admission: Elevated WBC, low potassium, elevated alkaline phosphatase.
+  - Discharge: Improved WBC, stable electrolytes.
+
+**Brief Hospital Course:**
+- **Primary Reason for Admission:** Persistent nausea and abdominal pain in the context of pancreatic cancer and chemotherapy.
+- **Acute Problems:**
+  - **Nausea/Vomiting/Abdominal Pain:** Managed with Ativan, Zofran, Zyprexa, celiac nerve block, metoclopramide, and erythromycin. Symptoms improved after enemas for barium impaction.
+  - **Gastroparesis:** Confirmed by gastric emptying study, treated with metoclopramide and erythromycin.
+  - **Fever:** Likely due to aspiration, resolved without antibiotics.
+- **Chronic Problems:**
+  - **Pancreatic Cancer:** Favorable response to chemotherapy, planned for Whipple surgery.
+  - **Depression/Anxiety:** Managed with ongoing medications, Abilify discontinued due to interaction.
+  - **Hypokalemia:** Resolved with repletion.
+  - **Other Conditions:** Managed as per standard care.
+
+**Medications:**
+- **Admission:** Included albuterol, aripiprazole, atorvastatin, clonazepam, cyclobenzaprine, docusate, lamotrigine, oxycodone, pregabalin, ranitidine, trazodone, ondansetron.
+- **Discharge:** Adjusted to include calcium carbonate, Creon, lorazepam, metoclopramide, olanzapine, omeprazole, oxycodone SR, polyethylene glycol, and continued most of the admission medications with adjustments.
+
+**Discharge Disposition:**
+- **Facility:** Extended care
+- **Diagnosis:** Pancreatic cancer, abdominal pain, gastroparesis, fecal impaction
+- **Condition:** Clear mental status, alert, ambulatory
+
+**Discharge Instructions:**
+- Follow up with primary care and oncology for further management and preparation for Whipple surgery. Continue medications as prescribed and monitor for any new symptoms.
+
+**Follow-up Instructions:**
+- Detailed follow-up with primary care and oncology teams, including specific dates and appointments.

@@ -1,0 +1,49 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 65-year-old female patient with stage IV pancreatic adenocarcinoma and liver metastases
+* History of gastrointestinal bleeding, pulmonary embolism, and recent STEMI
+
+**Chief Complaint:**
+
+* Abdominal pain, different from usual pain, worsened over 2 days
+
+**Medical History:**
+
+* Pancreatic adenocarcinoma diagnosed in [unknown date]
+* Hysterectomy and bilateral salpingo-oophorectomy for uterine fibroids
+* Left ACL repair
+* Recent STEMI and PCI
+
+**Admission:**
+
+* Admitted with acute acalculous cholecystitis, found to have acute right heart failure, anasarca, and leukocytosis
+* Managed with IV narcotics, antibiotics, and percutaneous cholecystostomy tube placement
+* ERCP showed distal CBD stricture, and a plastic biliary stent was placed
+
+**Diagnostic Tests:**
+
+* CT scans of the abdomen and pelvis showed pancreatic head mass, liver metastases, and bile duct stent in place
+* TTE showed suspicion for malignant thrombotic process with masses on the mitral valve
+* KUB showed pancreatic duct stent in appropriate positioning
+* Liver ultrasound showed gallbladder sludge and partially visualized cholecystostomy tube
+
+**Medications:**
+
+* Discharged on medications including antibiotics, blood thinners, pain medications, and anti-anxiety medications
+
+**Discharge:**
+
+* Discharged to hospice care with a focus on comfort and symptom management
+* Decision made to transition to comfort-focused care after family meeting
+
+**Discharge Diagnoses:**
+
+* Acalculous cholecystitis
+* Marantic endocarditis
+* Pulmonary embolism
+* Anasarca
+* Leukocytosis
+* Acute on chronic anemia
+* Metastatic pancreatic cancer

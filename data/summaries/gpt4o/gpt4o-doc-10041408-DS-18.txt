@@ -1,0 +1,85 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Tegaderm, Honey, adhesive tape, Oxycodone
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal pain
+- Bradycardia
+
+**Major Surgical or Invasive Procedure:**
+- Percutaneous liver abscess drainage
+
+**History of Present Illness:**
+- [Redacted] year-old female with metastatic pancreatic cancer, post-Whipple procedure, with liver metastases treated with radiofrequency ablation (RFA). Developed hepatic abscess at RFA site, which was drained under CT guidance. Admitted for continued pain at the drain site and bradycardia post-procedure. 
+
+**Past Medical History:**
+- **Oncologic History:**
+  - Initial presentation with painless jaundice, pancreatic mass identified, underwent Whipple procedure.
+  - Pathology: Moderately differentiated adenocarcinoma of the pancreas metastatic to one lymph node.
+  - Adjuvant chemotherapy with gemcitabine, completed six cycles.
+  - New liver lesion treated with Xeloda and resumed Gemzar due to disease progression.
+  - RFA of liver metastasis.
+- **Other Medical History:**
+  - Bipolar disorder
+  - GERD
+  - Lap cholecystectomy
+  - Rhinoplasty
+  - Factor V Leiden heterozygous with history of neck clot, on Lovenox
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- No family history of pancreatic or GI malignancy.
+
+**Physical Exam:**
+- **Admission:** Temp 97.7°F, BP 114/70, HR 79, R 18, O2-sat 100% RA. Middle-aged female, sleepy but comfortable.
+- **Discharge:** Temp 99.2°F, BP 100-120s/50-80s, HR 90-100s, O2-sat 94% on 2L. Middle-aged female, minimal distress, slow responses, inattentive.
+
+**Pertinent Results:**
+- **Labs:**
+  - On admission: WBC 6.9, Hgb 9.3, Hct 27.5, ESR 108, CRP 16.6.
+  - On discharge: WBC 7.8, Hgb 8.1, Hct 23.5.
+- **Microbiology:**
+  - Hepatic abscess fluid: Klebsiella pneumoniae and Viridans streptococci.
+- **Imaging:**
+  - CT abdomen: Post-RFA hypodensity with air foci, minimal decrease in size, new small right pleural effusion, and bilateral bibasilar atelectasis.
+
+**Hospital Course:**
+- **Bradycardia:** Likely medication effect or vasovagal reaction. Monitored on telemetry with no further events.
+- **Liver Abscess:** Treated with meropenem, then switched to ceftriaxone and metronidazole. Drainage catheter upsized due to minimal decrease in abscess size.
+- **Pain Management:** Persistent pain at drain site, managed with dilaudid regimen. Consulted palliative care for pain management.
+- **Pleural Effusion:** Small effusion noted, managed with oxygen therapy and incentive spirometry.
+
+**Medications on Admission:**
+- Enoxaparin, Citalopram, Bupropion, Multivitamins, Vitamin D, Lidocaine (viscous and patch), Lamotrigine, Clonazepam, Aripiprazole, Ondansetron, Senna, Docusate, Acetaminophen.
+
+**Discharge Medications:**
+- Enoxaparin, Citalopram, Bupropion, Multivitamins, Vitamin D, Lidocaine (viscous and patch), Lamotrigine, Clonazepam, Aripiprazole, Ondansetron, Senna, Docusate, Acetaminophen, Hydromorphone, Ceftriaxone, Metronidazole.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- **Primary Diagnoses:** Liver Abscess, Bradycardia, Acute post-procedural pain
+- **Secondary Diagnoses:** Metastatic pancreatic cancer, Bipolar disorder, Deep vein thrombosis
+
+**Discharge Instructions:**
+- Continue antibiotics (ceftriaxone and metronidazole) as per Infectious Disease recommendations.
+- Monitor and manage drain output.
+- Follow-up with primary oncologist and Infectious Disease clinic.
+- Pain management with dilaudid, titrate as needed.
+- Use oxygen to maintain O2 saturation >91%.
+
+**Follow-up:**
+- Weekly lab work (CBC, BMP, LFTs) to be faxed to ID nurse.
+- Follow-up appointments with Heme/Onc and Infectious Disease.

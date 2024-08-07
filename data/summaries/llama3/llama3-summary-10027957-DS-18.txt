@@ -1,0 +1,45 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Female patient with a history of Crohn's disease, hypertension, and latent TB.
+* Admitted to the hospital with abdominal pain, diarrhea, and low-grade fevers.
+
+**Diagnosis:**
+
+* Crohn's flare (primary diagnosis)
+* Acute blood loss anemia, acute kidney injury, hypertension, and thrush (secondary diagnoses)
+
+**Treatment:**
+
+* Initially treated with antibiotics, steroids, and bowel rest.
+* Imaging studies (MRE, sigmoidoscopy, and colonoscopy) showed pancolitis and ulceration.
+* Treated with intravenous cyclosporine and steroids, which were transitioned to oral cyclosporine and steroids on discharge.
+* Recommended to continue prednisone 40mg daily for 1 week, then taper by 10mg weekly.
+* GI doctor will guide taper and monitor treatment regimen.
+
+**Laboratory Results:**
+
+* Initial labs showed elevated WBC, D-dimer, and lactate levels.
+* Subsequent labs showed improvement in WBC and lactate levels.
+* Discharge labs showed anemia, with a hemoglobin level of 8.7g/dL.
+
+**Imaging Results:**
+
+* CTA chest showed no evidence of pulmonary embolism, but incidentally found sub 5mm right upper and lower lobe pulmonary nodules.
+* MRE showed pancolitis and ulceration.
+* Sigmoidoscopy and colonoscopy showed friability, erythema, and ulceration in the sigmoid colon and rectum.
+
+**Discharge Instructions:**
+
+* Follow up with GI doctor to monitor treatment regimen.
+* Get labs drawn twice weekly starting from the day after discharge.
+* Continue medications as prescribed, including cyclosporine, prednisone, and sulfamethoxazole-trimethoprim.
+* Monitor for signs of infection, such as fever, and report to the doctor if they occur.
+
+**Follow-up:**
+
+* Outpatient labs will be drawn twice weekly starting from the day after discharge.
+* Follow-up appointment with GI doctor is scheduled for ___.
+
+Note: This summary does not capture every detail in the clinical note, but rather focuses on the essential information related to the patient's diagnosis, treatment, and follow-up care.

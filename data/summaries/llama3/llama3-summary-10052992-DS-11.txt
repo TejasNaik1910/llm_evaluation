@@ -1,0 +1,61 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Male
+* Date of Birth: Not provided
+
+**Chief Complaint:**
+
+* Lower gastrointestinal bleeding (LGIB) and bright red blood per rectum
+
+**Medical History:**
+
+* Hepatitis B and C cirrhosis
+* History of hepatitis E infection
+* Hypertension (HTN)
+* Hyperlipidemia (HLD)
+* Gastroesophageal reflux disease (GERD)
+* Hearing loss
+* Resection of hepatocellular carcinoma (HCC) in segment V/VI
+
+**Current Admission:**
+
+* Admitted for LGIB and bright red blood per rectum
+* Underwent colonoscopy, which revealed a 5 cm mass in the sigmoid colon
+* CT abdomen and pelvis showed no evidence of metastatic disease
+* CT chest showed no metastatic lesions in the lungs
+
+**Diagnoses:**
+
+* Sigmoid colon adenocarcinoma
+* Cholecystitis with perforation
+* HBV/HCV cirrhosis
+* HCC (previous resection)
+* HTN
+* Portal hypertensive gastropathy
+
+**Medications:**
+
+* Ciprofloxacin 500 mg PO Q12H
+* Metronidazole 500 mg PO Q8H
+* Pantoprazole 40 mg PO Q24H
+* Propranolol 20 mg PO BID
+* Tenofovir Disoproxil 300 mg PO DAILY
+* Amlodipine 10 mg PO DAILY
+* Gemfibrozil 600 mg PO DAILY
+* Losartan Potassium 100 mg PO DAILY
+* Omeprazole 20 mg PO DAILY
+
+**Surgical Interventions:**
+
+* Percutaneous cholecystostomy tube placement
+* Planned laparoscopic resection of sigmoid colon mass and interval cholecystectomy
+
+**Follow-up:**
+
+* Outpatient management for laparoscopic cholecystectomy and sigmoid colon resection
+* Follow-up with liver doctor for HCC surveillance
+* Follow-up with hepatology clinic for EGD and evaluation of portal hypertensive gastropathy

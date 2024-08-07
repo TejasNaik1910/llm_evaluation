@@ -1,0 +1,81 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Deep Vein Thrombosis (DVT)
+
+**Major Surgical or Invasive Procedure:**
+- Esophagogastroduodenoscopy (EGD)
+
+**History of Present Illness:**
+- A [Redacted] year-old female with a significant past medical history (PMHx) of coronary artery disease (CAD), hypertension (HTN), hyperlipidemia (HLD), type 2 diabetes mellitus (T2DM), chronic kidney disease (CKD) stage IV, and peripheral vascular disease (PVD) presented with lower left leg numbness and pain. Symptoms included gradual onset numbness and pain/cramping over the lateral calf, radiating to the foot, which improved by the time of examination.
+
+**Past Medical History:**
+- Hypertension
+- Diabetes
+- History of cerebrovascular accident (CVA)
+- Coronary artery disease (CAD)
+- Peripheral arterial disease (PAD)
+- Chronic kidney disease (CKD) stage IV
+- Gastroesophageal reflux disease (GERD) with esophageal rings
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Niece had cancer. Father died of lung disease. Mother died of unknown cause. No early CAD or sudden cardiac death. No other known history of cancer.
+
+**Physical Exam:**
+- **Admission:** Pleasant affect, resting comfortably, minimal bibasilar crackles, right calf swelling greater than left, no calf tenderness, thick toenails, dry skin along toes, hallux valgus.
+- **Discharge:** Similar findings with stable vitals, mild right calf swelling, and non-tender indurated cord in left antecubital fossa.
+
+**Pertinent Results:**
+- **Admission Labs:** Anemia (Hgb 7.7), elevated creatinine (2.9), and other abnormalities.
+- **Imaging:** Bilateral lower extremity Doppler ultrasound showed bilateral posterior tibial vein DVTs. CT head non-contrast showed no acute infarction or hemorrhage.
+- **EGD:** Showed severe gastritis, superficial ulcerations, and a medium hiatal hernia but no active bleeding.
+
+**Brief Hospital Course:**
+- **DVT Management:** Treated with heparin drip, transitioned to warfarin. Hematology consulted due to bleeding complications. Clopidogrel was stopped.
+- **Upper GI Bleed:** Managed with EGD and high-dose PPI. No active bleeding found.
+- **Left Antecubital Hematoma:** Managed by holding and restarting heparin drip.
+- **CKD Management:** Improved with hydration. Home medications adjusted.
+- **Anemia:** Likely related to CKD and possible slow GI bleed.
+- **Heart Failure with Preserved Ejection Fraction (HFpEF):** Adjusted medications due to GI bleed.
+- **CAD:** Managed with adjustments to medications due to bleeding risk.
+- **HTN and Diabetes:** Medications adjusted accordingly.
+
+**Medications on Admission:**
+- Included Lisinopril, Allopurinol, Atorvastatin, Carvedilol, Clopidogrel, Furosemide, Ranitidine, Aspirin, Multivitamins, Vitamin D, Nifedipine, Nitroglycerin, and insulin.
+
+**Discharge Medications:**
+- Adjusted list including Allopurinol, Aspirin, Atorvastatin, Carvedilol, insulin, Lisinopril, Multivitamins, Nifedipine, Vitamin D, Docusate, Gabapentin, Pantoprazole, Senna, Warfarin, Nitroglycerin, Furosemide, and Polyethylene Glycol.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- **Primary:** Deep vein thrombosis (DVT)
+- **Secondary:** Upper GI bleed, left arm hematoma, superficial thrombophlebitis, CKD stage IV, PVD, T2DM, CAD
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+
+**Discharge Instructions:**
+- Continue warfarin with regular INR checks.
+- Complete an 8-week course of high-dose Pantoprazole.
+- Follow up with cardiologist regarding Clopidogrel.
+- Ensure outpatient anticoagulation management and fall risk assessment.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,79 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Tetracycline
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Sepsis
+
+**Major Surgical or Invasive Procedure:**
+- None during this hospitalization.
+
+**History of Present Illness:**
+- The patient is a [Redacted]-year-old woman with a history of metastatic pancreatic adenocarcinoma (PDAC), initially staged as Stage IA (ypT1N0M0). She underwent neoadjuvant FOLFIRINOX, SBRT, Whipple procedure, and adjuvant FOLFOX. She is currently on a Phase [Redacted] DF/[Redacted] trial. She presented with fever and was found to have Gram-negative rod (GNR) bacteremia and E. coli urinary tract infection (UTI).
+
+**Diagnostic Tests Conducted:**
+- Blood cultures (BCx)
+- Urine cultures (UCx)
+- Influenza A/B PCR
+- Rapid Antigen for Group A Strep
+- Chest X-ray (CXR)
+- CT Abdomen/Pelvis (CT A/P)
+
+**Findings:**
+- Blood cultures grew Klebsiella pneumoniae.
+- Urine culture grew E. coli.
+- CT A/P did not show any intraabdominal source of infection.
+- CXR showed no evidence of active disease.
+
+**Medications:**
+- **On Admission:**
+  - Colesevelam, Levothyroxine, Lorazepam, Omeprazole, Ondansetron, Venlafaxine, Vitamin D, Coenzyme Q10, Docusate Sodium, Senna, Multivitamins, Fish Oil, Turmeric, Creon.
+- **Discharge Medications:**
+  - Ciprofloxacin (14-day course), Coenzyme Q10, Colesevelam, Creon, Docusate Sodium, Fish Oil, Levothyroxine, Lorazepam, Multivitamins, Omeprazole, Ondansetron, Senna, Turmeric, Venlafaxine, Vitamin D.
+
+**Hospital Course:**
+- **Sepsis Secondary to Klebsiella Bacteremia:**
+  - Treated with IV Zosyn initially, then switched to oral ciprofloxacin for a 14-day course.
+- **E. Coli UTI:**
+  - Treated with ciprofloxacin.
+- **Metastatic Pancreatic Adenocarcinoma:**
+  - Continued on Phase [Redacted] trial of RX-3117 and Abraxane.
+- **Anemia:**
+  - Secondary to malignancy and chemotherapy.
+- **Leukocytosis:**
+  - Likely secondary to Neulasta administration.
+- **Other Conditions:**
+  - Hyperlipidemia (HLP), Hypothyroidism, GERD, Depression.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory and independent.
+
+**Discharge Instructions:**
+- Complete the 14-day course of ciprofloxacin.
+- Continue prior home medications.
+- Follow up with the outpatient team.
+
+**Follow-up Instructions:**
+- Monitor pending blood cultures and follow up with the outpatient team as scheduled.
+
+**Discharge Diagnosis:**
+- Sepsis secondary to Klebsiella bacteremia
+- E. Coli urinary tract infection
+- Metastatic pancreatic adenocarcinoma
+- Secondary neoplasm of the lung
+- Anemia
+- Leukocytosis
+
+**Summary:**
+The patient, a female with metastatic pancreatic adenocarcinoma, was admitted with sepsis secondary to Klebsiella bacteremia and an E. coli UTI. She was treated with IV Zosyn and transitioned to oral ciprofloxacin. She continues her cancer treatment on a clinical trial and was discharged in stable condition with instructions to complete her antibiotic course and follow up with her outpatient team.

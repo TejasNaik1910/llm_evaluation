@@ -1,0 +1,53 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 65-year-old female
+* Adenocarcinoma of the lung diagnosed in ___
+* History of depression, anxiety, fibromyalgia, and sciatica
+* Allergic to Vicodin
+
+**Chief Complaint:**
+
+* Dyspnea (shortness of breath)
+
+**Major Surgical or Invasive Procedure:**
+
+* Bronchial and esophageal stent placement
+
+**History of Present Illness:**
+
+* Admitted to ___ Hospital with increased work of breathing, which was somewhat acute in onset
+* Initially trialed on NIPPV, but did not tolerate it and was placed on 6L nasal cannula
+* CTA showed mass effect on pulmonary arteries and central airway, with nodular opacities at the lung bases bilaterally
+* Started on moxifloxacin and vancomycin for coverage of pneumonia
+* Transferred to ___ for IP evaluation and potential intervention
+
+**Medications:**
+
+* Various medications for pain management, anxiety, and depression
+* Vancomycin and moxifloxacin for pneumonia coverage
+* Metoprolol for tachycardia
+
+**Diagnostic Tests:**
+
+* CT chest without contrast: showed large posterior mediastinal mass resulting in esophageal obstruction and invasion of carina and bilateral mainstem bronchi
+* Chest portable (AP): showed bilateral hilar prominence consistent with invasion of carina and mainstem bronchi from a large posterior mediastinal mass
+* Blood cultures: pending
+* Bronchial washings: showed commensal respiratory flora, Staph aureus, and MRSA
+* Surgical pathology: focal poorly differentiated carcinoma, bronchial mucosa with squamous metaplasia, acute and chronic inflammation, and fibrinous exudate
+
+**Discharge Diagnosis:**
+
+* Lung adenocarcinoma
+
+**Discharge Condition:**
+
+* Mental status: clear and coherent
+* Level of consciousness: alert and interactive
+* Activity status: ambulatory - requires assistance or aid (walker or cane)
+
+**Discharge Instructions:**
+
+* Transfer back to ___ Hospital for radiation therapy and chemotherapy as planned
+* Follow-up with Medical and Radiation Oncologists at ___ Hospital

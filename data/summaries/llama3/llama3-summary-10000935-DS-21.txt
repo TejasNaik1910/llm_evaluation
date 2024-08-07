@@ -1,0 +1,66 @@
+Here is a summary of the clinical note:
+
+**Cancer Diagnosis:**
+
+* Metastatic colon adenocarcinoma, involving the liver and lungs
+* Primary tumor site: colon (large bowel)
+
+**Chief Complaint:**
+
+* Shortness of breath
+
+**History of Present Illness:**
+
+* Presented with abdominal pain and failure to thrive
+* Abdominal CT scan showed multiple lung and liver metastases
+* Patient has been disengaged with care
+
+**Medical History:**
+
+* Metastatic cancer of unknown primary
+* High-grade small bowel obstruction (SBO)
+* Carcinoid
+* Hyperlipidemia
+* Vitamin B12 deficiency
+* Cervical DJD
+* Osteoarthritis
+* Right lung resection
+* Hysterectomy
+* Right arm surgery
+
+**Pertinent Results:**
+
+* Complete Blood Count (CBC): leukocytosis, anemia, thrombocytopenia
+* Liver function tests: elevated AST, alkaline phosphatase, and total bilirubin
+* Lactate: elevated
+* Urinalysis: positive for protein and epithelial cells
+* Imaging studies: multiple pulmonary nodules, enlarged liver with multiple hypodense lesions, no central pulmonary embolus
+
+**Interventions:**
+
+* Percutaneous liver biopsy
+* Ceftriaxone and azithromycin for possible pneumonia
+* Nebulizers and expectorants for shortness of breath
+* Pain management with acetaminophen and tramadol
+* IV pantoprazole for gastrointestinal prophylaxis
+
+**Discharge Disposition:**
+
+* Home with hospice care
+
+**Discharge Medications:**
+
+* BuPROPion
+* Ondansetron
+* Tramadol
+* Senna
+* Omeprazole
+* Bisacodyl
+* Docusate sodium
+* Sertraline
+* Trazodone
+* Polyethylene glycol
+
+**Discharge Diagnosis:**
+
+* Metastatic colon adenocarcinoma

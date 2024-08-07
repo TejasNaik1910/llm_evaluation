@@ -1,0 +1,84 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Dyspnea on exertion
+
+**Major Surgical or Invasive Procedure:**
+- Bronchoscopy ([Date Redacted])
+
+**History of Present Illness:**
+- The patient is a [Redacted]-year-old male with a history of Acute Myeloid Leukemia (AML) post-allogeneic bone marrow transplant (BMTallo, day +258) complicated by mild graft-versus-host disease (GVHD) of the skin and male breast cancer post-mastectomy ([Date Redacted]). He presented with dyspnea on exertion for one week and diffuse bilateral pulmonary opacities on imaging, raising concerns for organizing pneumonia versus an atypical infection.
+
+**Past Medical History:**
+- AML, Intermediate risk (normal cytogenetics, FLT3/NPM1 negative, diagnosed in [Date Redacted])
+- Male Breast Cancer post-mastectomy ([Date Redacted])
+- Aspergillosis ([Date Redacted])
+- Prostatitis ([Date Redacted])
+- Seizure vs. Syncope ([Date Redacted])
+- Lyme Disease ([Date Redacted])
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Brother with a history of stroke
+- Father died of lung cancer at age [Redacted]
+- Mother died at age [Redacted]
+
+**Physical Exam:**
+- **Admission:** Well-appearing, no acute distress, mild coarsing of breath sounds at the left base, mild facial erythema.
+- **Discharge:** No acute distress, clear lung sounds, normal cardiovascular and abdominal exams.
+
+**Pertinent Results:**
+- **Admission Labs:** Elevated ALT (176), AST (98), and ALK PHOS (302)
+- **Discharge Labs:** ALT (101), AST (43), ALK PHOS (264)
+- **Bronchoalveolar Lavage (BAL):** No microorganisms or fungal elements seen
+- **Chest X-ray and CT:** Diffuse bilateral pulmonary opacities, likely cryptogenic organizing pneumonia or multifocal infection
+
+**Brief Hospital Course:**
+1. **Shortness of Breath:** Presented with dyspnea and CT findings of diffuse bilateral opacities. Differential diagnosis included aspergillosis and organizing pneumonia. Discontinued voriconazole three weeks prior due to transaminitis. Remained afebrile with 94% oxygen saturation. Underwent bronchoscopy; pending biopsy results. Discharged on voriconazole 450 mg q12hrs for 1 day, then 350 mg q12hrs.
+2. **Transaminitis:** Elevated liver enzymes of uncertain etiology. Hepatology consult recommended abdominal ultrasound (normal liver, gallbladder, spleen). Labs for iron studies, hepatitis, and rheumatologic markers ordered. Liver enzymes downtrended without intervention.
+3. **Male Breast Cancer:** Post-mastectomy, planned for tamoxifen, not started due to transaminitis.
+4. **AML post-alloBMT (day+261):** Continued tacrolimus and acyclovir prophylaxis.
+
+**Medications on Admission:**
+1. Acyclovir 400 mg PO Q8H
+2. Folic Acid 1 mg PO DAILY
+3. Tamoxifen Citrate 20 mg PO DAILY
+4. Tacrolimus 0.5 mg PO 2X/WEEK (MO,TH)
+
+**Discharge Medications:**
+1. Acyclovir 400 mg PO Q8H
+2. Folic Acid 1 mg PO DAILY
+3. Tacrolimus 0.5 mg PO 2X/WEEK (MO,TH)
+4. Voriconazole 350 mg PO Q12H (after 450 mg doses completed)
+5. Voriconazole 450 mg PO Q12H for 1 day
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+1. Dyspnea
+2. Transaminitis
+3. Male Breast Cancer
+4. AML post-Allogeneic Transplant
+
+**Discharge Condition:**
+- Clear mental status, alert, and ambulatory.
+
+**Discharge Instructions:**
+- Follow-up with oncologist and pulmonologist for biopsy results and subsequent treatment.
+
+**Follow-up Instructions:**
+- [Redacted]

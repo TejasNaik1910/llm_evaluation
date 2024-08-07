@@ -1,0 +1,41 @@
+Here is a summary of the clinical note with the essential information:
+
+**Cancer Type and Stage:** Stage IV Non-Small Cell Lung Cancer (NSCLC) with brain metastases.
+
+**Morphology:** Not specified.
+
+**Progression:** The patient had a recent fall and was admitted to the hospital with worsening pain in his right leg. Imaging revealed a large lytic lesion in the right acetabulum, which had increased in size, and a right hemi sacral fracture.
+
+**TNM Staging:** Not specified.
+
+**Prescribed Medications:** The patient was discharged on the following medications:
+
+* Acetaminophen 650 mg PO Q8H:PRN pain
+* Artificial Tears 2 DROP BOTH EYES TID
+* Carbidopa-Levodopa 1.5 TAB PO Q8AM AND Q12PM
+* Dexamethasone 2 mg PO Q12H
+* Docusate Sodium 100 mg PO BID
+* Donepezil 5 mg PO QHS
+* Glargine 6 Units Bedtime
+* Insulin SC Sliding Scale using HUM Insulin
+* OxycoDONE (Immediate Release) 2.5-5 mg PO Q4H:PRN pain
+* Polyethylene Glycol 17 g PO DAILY:PRN constipation
+* Senna 17.2 mg PO QHS:PRN constipation
+* Sertraline 25 mg PO DAILY
+* Ibuprofen 400 mg PO Q8H
+* Omeprazole 20 mg PO DAILY
+* Atorvastatin 40 mg PO QPM
+* FoLIC Acid 1 mg PO DAILY
+* Multivitamins W/minerals 1 TAB PO DAILY
+* Vitamin D 5000 UNIT PO DAILY
+
+**Diagnostic Tests:** The patient underwent the following diagnostic tests:
+
+* CT Lower Extremity: revealed a large lytic lesion in the right acetabulum and a right hemi sacral fracture
+* CT Head without Contrast: revealed multiple areas of edema compatible with known brain metastases
+* Urine Culture: negative
+* Blood tests: revealed anemia, hyperglycemia, and electrolyte imbalances
+
+**Surgical Interventions:** The patient underwent cryoablation of the right acetabular metastatic lesion with cementoplasty.
+
+**Patient Response to Treatment:** The patient's pain improved significantly after the cryoablation procedure, and he was able to ambulate with assistance. He was discharged to short-term rehab to work on his strength and hopefully transition back home.

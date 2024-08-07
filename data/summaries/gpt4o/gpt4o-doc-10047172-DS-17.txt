@@ -1,0 +1,69 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Sitagliptin, Fesoterodine, Statins-Hmg-Coa Reductase Inhibitors, Saxagliptin, Pioglitazone, Canagliflozin, Fenofibrate
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Anasarca
+
+**Major Surgical or Invasive Procedure:**
+- Therapeutic paracentesis
+
+**History of Present Illness:**
+- The patient, a professor with a history of Type 2 Diabetes Mellitus (T2DM), Hypertension (HTN), Dyslipidemia (DL), and pancreatic cancer metastatic to the liver, presented with a leaking paracentesis site, increased abdominal distention, and bilateral edema. He is currently on Cycle 1 Day 10 (C1D10) of Gemcitabine and Erlotinib.
+
+**Past Medical History:**
+- **Oncologic History:** Diagnosed with pancreatic adenocarcinoma metastatic to the liver in [Redacted] after presenting with painless jaundice. Imaging revealed a 3.3 cm pancreatic head mass and a 1.8 cm left kidney lesion. The pancreatic mass was deemed unresectable. Initial treatment with FOLFIRINOX was halted due to rising CA levels and increased liver metastases. Subsequent treatments included Gemcitabine/Abraxane and modified FOLFIRINOX, with mixed responses. Currently on Gemcitabine and Erlotinib.
+- **Other Medical History:** T2DM, HTN, DL, s/p left hip replacement, heart murmur, s/p nose fracture, kidney lesion (hemorrhagic cyst).
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother: Dementia
+- Father: Bladder cancer
+- Paternal cousin: Primary liver cancer
+
+**Physical Exam:**
+- **Admission:** Vital signs stable, mild thrush, no respiratory distress, distended abdomen, 2+ pitting edema.
+- **Discharge:** Similar findings with evidence of wasting and distended abdomen.
+
+**Pertinent Results:**
+- **Admission Labs:** Anemia, elevated liver enzymes, low albumin, elevated lactate.
+- **Discharge Labs:** Persistent anemia, stable liver enzymes, low albumin, low calcium.
+- **Imaging:** MRI showed progression of hepatic masses and ascites. CT chest indicated new nodules suggestive of metastatic disease. ERCP revealed a 3.5 x 4 cm pancreatic head mass with liver metastases. CXR showed small bilateral pleural effusions.
+
+**Brief Hospital Course:**
+- The patient was admitted for leaking paracentesis site and increased anasarca. Underwent therapeutic paracentesis and was started on diuretics (Lasix and Spironolactone). Chemotherapy (Gemcitabine) was held during admission. Discharge medications included Capecitabine and Erlotinib. The patient was advised to follow up with his oncologist and primary care physician.
+
+**Medications on Admission:**
+- Amlodipine, Creon, Duloxetine, Lisinopril, Methylphenidate, Pyridoxine, Simethicone, Lorazepam, Metformin, Nystatin, Tamsulosin, Furosemide.
+
+**Discharge Medications:**
+- Creon, Duloxetine, Lorazepam, Methylphenidate, Nystatin, Pyridoxine, Simethicone, Tamsulosin, Spironolactone, Furosemide, Metformin, Erlotinib, Capecitabine.
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- Pancreatic cancer
+- Malignant ascites
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- The patient was treated for a leaking paracentesis site and increased anasarca. Diuretics were adjusted, and the patient was advised to follow up with his oncologist and primary care physician. Chemotherapy to continue at home.
+
+**Follow-up Instructions:**
+- [Redacted]

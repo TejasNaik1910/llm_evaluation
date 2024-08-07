@@ -1,0 +1,51 @@
+Here is a summary of the clinical note:
+
+**Patient Information**
+
+* 77-year-old male patient
+* Admitted to the hospital due to progressive fatigue and low hematocrit (Hct)
+* Past medical history: ventricular tachycardia, dilated cardiomyopathy, coronary artery disease, rectal cancer, GI bleed, stroke, depression
+
+**Chief Complaint**
+
+* Fatigue
+
+**Physical Exam**
+
+* Alert and oriented, no acute distress
+* Vital signs: T 96.0, BP 104/55, P 69, R 25, O2 95% on 2L
+* Hepatomegaly, colostomy, and mild pitting edema in the legs
+
+**Laboratory Results**
+
+* Admission labs: WBC 5.4, RBC 3.39, Hgb 7.9, Hct 25.8, MCV 76, MCH 23.2, MCHC 30.5, RDW 20.9, Plt 153
+* Discharge labs: WBC 4.4, RBC 3.89, Hgb 9.3, Hct 30.4, MCV 78, MCH 24.0, MCHC 30.8, RDW 20.8
+
+**Diagnostic Tests**
+
+* Upper endoscopy: normal
+* EKG: A-V paced rhythm with ventricular premature beat
+* CXR: cardiomegaly, mild pulmonary vascular congestion
+* Echo: LVEF 40%, moderate mitral regurgitation, mild global left ventricular hypokinesis, moderate right ventricular dilation
+
+**Diagnoses**
+
+* Anemia
+* Iron deficiency
+* Suspected hemolysis
+* Heart failure exacerbation
+
+**Treatment**
+
+* 3 units of PRBC
+* Iron supplementation
+* Omeprazole 20mg QD
+* Lisinopril, spironolactone, and metoprolol continued
+* Furosemide and warfarin adjusted
+* Colace and senna prescribed for constipation
+
+**Discharge Instructions**
+
+* Follow up with PCP for CBC and further anemia workup
+* Undergo lower endoscopy (colonoscopy) to rule out bleeding from the lower intestine
+* Monitor weight and call MD if weight increases more than 3 lbs

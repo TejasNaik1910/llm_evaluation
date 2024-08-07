@@ -1,0 +1,78 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Subjective fevers, lethargy, and bloody drain output.
+
+**Major Surgical or Invasive Procedures:**
+1. CT-guided repositioning of existing drain and placement of an additional drain for large pelvic fluid collections.
+2. Removal of more recently placed drain.
+
+**History of Present Illness:**
+- The patient, with a history of hypertension and high-grade invasive urothelial carcinoma (pT2b), underwent TAH/BSO, radical cystectomy with ileal conduit, complicated by intra-abdominal infection and pelvic fluid collection. She presented with 2 days of malaise and 1 day of fevers. Initial management included CT-guided JP drain placement for intra-abdominal fluid collection. She was started on zosyn and vancomycin and transferred for further management.
+
+**Past Medical History:**
+- Hypertension
+- s/p laparoscopic cholecystectomy
+- s/p left knee replacement
+- s/p laminectomy of L5-S1
+- Bladder cancer (high-grade TCC, T1, then T4 staging)
+- s/p hysterectomy and bilateral oophorectomy
+- s/p radical cystectomy and anterior vaginectomy with ileal conduit creation
+- History of LLE DVT and PE on lovenox
+
+**Physical Exam:**
+- **Admission:** Fever (100.9°F), tachycardia, mild LLQ pain, non-tender abdomen with bowel sounds, and serosanguinous fluid from LLQ drain.
+- **Discharge:** Afebrile, stable vitals, clear lungs, and serosanguinous fluid from LLQ drain.
+
+**Pertinent Results:**
+- **Admission Labs:** Elevated WBC (19.4), anemia (Hgb 6.9), elevated creatinine (1.1), low albumin (2.5).
+- **Discharge Labs:** Improved WBC (6.9), anemia (Hgb 8.3), normalized creatinine (0.8).
+- **Microbiology:** Blood cultures pending, pelvic fluid culture negative.
+- **Imaging:** CT and CTA showed changes in pelvic fluid collections and severe bilateral hydronephrosis.
+
+**Brief Hospital Course:**
+- **Pelvic Fluid Collections:** Managed with drain placement and repositioning. Cultures negative for infection. Transitioned to IV ertapenem for 4 weeks.
+- **Pulmonary Embolism:** Managed with lovenox, transitioned to heparin for procedures, then back to lovenox.
+- **Acute Renal Injury:** Resolved during hospital stay.
+- **Hydronephrosis:** Stable, no immediate intervention required.
+- **Anemia:** Treated with 2 units of pRBC, improved hemoglobin levels.
+- **Hypokalemia:** Managed with oral KCl.
+
+**Chronic Issues:**
+- Invasive high-grade urothelial carcinoma with no current plan for chemo/radiation.
+- Left breast mass (BI-RADS 5) under evaluation.
+- Hyperlipidemia and hypothyroidism managed with atorvastatin and levothyroxine, respectively.
+
+**Medications on Admission:**
+- Acetaminophen, atorvastatin, enoxaparin, levothyroxine, lorazepam.
+
+**Discharge Medications:**
+- Ertapenem, milk of magnesia, enoxaparin, acetaminophen, atorvastatin, levothyroxine, lorazepam.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Primary: Pelvic fluid collection infection, acute blood loss anemia.
+- Secondary: Acute renal failure, acute on chronic anemia, recent pulmonary embolism, invasive high-grade urothelial carcinoma, left breast mass (BI-RADS 5), hypothyroidism.
+
+**Discharge Instructions:**
+- Continue follow-up for lung and breast lesions.
+- Continue Lovenox for PE.
+- Follow up with infectious disease and urology.
+- Repeat CT scan before ID appointment.
+- IV antibiotics for several weeks as determined by ID team.
+
+**Follow-up Instructions:**
+- Weekly lab draws and follow-up appointments as specified.

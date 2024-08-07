@@ -1,0 +1,61 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies to Drugs
+
+**Chief Complaint:**
+- Found down
+
+**Major Surgical or Invasive Procedure:**
+- IVC filter placement
+
+**History of Present Illness:**
+- A [Redacted] year old man with stage IV lung cancer with brain metastases, previously on anticoagulation for pulmonary embolism (PE), was transferred to the MICU from the SICU due to arrhythmias, primarily tachyarrhythmias. He was found minimally responsive on the sidewalk outside his home and was taken to [Redacted] hospital, then MedFlighted to [Redacted] after a CT showed extensive acute intracranial hemorrhage (ICH). He was intubated for airway protection and received 2 units of FFP and vitamin K due to an INR of 3.7. Neurosurgery decided to observe the patient, start seizure prophylaxis, and normalize INR without surgical intervention. He was diagnosed with a left humeral fracture and was extubated on [Redacted]. An IVC filter was placed on [Redacted].
+
+**Past Medical History:**
+- Stage IV lung cancer with brain metastases, s/p right craniectomy for tumor resection, s/p chemo/radiation
+- PE diagnosed in [Redacted], on Coumadin
+- Hyperlipidemia
+- NIDDM
+- GERD
+- Bipolar disorder, on Seroquel
+- Seizure disorder secondary to brain metastases
+
+**Physical Exam:**
+- On admission: Lethargic, minimally responsive, small superficial abrasion to left head, brisk withdrawal to pain, minimal movement of left upper extremity.
+- On discharge: Awake, following simple commands, A&O to name, decreased strength on left side, no spontaneous movement of left lower extremity but withdraws from pain.
+
+**Pertinent Results:**
+- **CT:** Extensive acute ICH, left frontal subarachnoid hemorrhage, subdural hematoma, small intraventricular hemorrhage.
+- **Echo:** Mildly depressed left ventricular systolic function (LVEF=40-50%), small pericardial effusion.
+- **Labs:** Elevated glucose, low hemoglobin, and hematocrit.
+
+**Brief Hospital Course:**
+- The patient was found down with a CT revealing left frontal tentorial cistern acute subarachnoid and subdural hemorrhage. He was intubated for a GCS of 7 and received profilnine and FFP. He sustained a left humeral fracture, which was splinted. He was extubated and placed on nimodipine for subarachnoid hemorrhage. Cardiology was consulted for arrhythmias, and nimodipine was discontinued. A repeat head CT showed stable intracranial bleed. The patient was made DNR/DNI after a family meeting and transferred to the medicine floor for discharge planning.
+
+**Discharge Medications:**
+- Bisacodyl, Nystatin, Levetiracetam, Metoprolol, Simvastatin, Docusate Sodium, Lansoprazole, Acetaminophen, Ipratropium Bromide, Albuterol Sulfate, Insulin Regular, Insulin Glargine, Metronidazole, Cefepime, Vancomycin.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Primary: Intracranial hemorrhage, heart arrhythmias, left humerus fracture, ventilator-associated pneumonia
+- Secondary: Stage IV lung cancer with brain metastasis, pulmonary embolism s/p IVC filter placement, type 2 diabetes, hypertension
+
+**Discharge Condition:**
+- Stable
+
+**Discharge Instructions:**
+- Take pain medicine as prescribed, limit exercise to walking, increase fluid and fiber intake, avoid anti-inflammatory medicines unless directed, resume Coumadin or Plavix on [Redacted], follow up with PCP for lab work if on Dilantin, and call the surgeon immediately if experiencing new symptoms such as tremors, seizures, confusion, or increased pain.
+
+**Followup Instructions:**
+- [Redacted]

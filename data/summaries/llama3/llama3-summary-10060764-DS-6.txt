@@ -1,0 +1,42 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+*  ___ year-old female with a history of hypertension (HTN), atrial fibrillation (Afib), and a pacemaker (PPM)
+* Presented with epigastric pain for ___ years, occasionally related to eating, with radiation to the back
+* No nausea, vomiting, diarrhea, or weight loss
+
+**Admission and Diagnosis:**
+
+* Admitted for bile duct obstruction after an ERCP (endoscopic retrograde cholangiopancreatography) showed severe stenosis of the major papilla
+* ERCP with sphincterotomy was performed, but cannulation of the CBD (common bile duct) was unsuccessful
+* CT scan showed biliary dilation and possible porta hepatis soft tissue density
+* Second ERCP showed a single irregular stricture of malignant appearance at the hilum, and a 5cm by ___ Double pigtail plastic biliary stent was placed successfully across the stricture
+
+**Cancer Diagnosis:**
+
+* Suspicious hilar mass and biliary dilation suggestive of a Klatskin's tumor (a type of cholangiocarcinoma)
+* Cytology samples were obtained for histology, but the results are pending
+
+**Treatment and Medications:**
+
+* IV Unasyn for empiric cholangitis
+* NPO (nil per os) overnight, with IV fluids at the discretion of the primary team
+* Diet advanced to solid food if pain-free
+* Discharged on medications:
+	+ Metoprolol succinate 50 mg daily
+	+ Amoxicillin-pot clavulanate 500-125 mg every 8 hours for 2 days
+	+ Warfarin 5 mg daily
+	+ Tramadol 50 mg every 4 hours as needed for pain
+
+**Follow-up:**
+
+* Follow-up with primary care physician (PCP) for cytology results and further management of the suspected malignancy
+* Restart warfarin upon discharge
+* Continue antibiotics for 2 additional days
+
+**Discharge Condition:**
+
+* Mental status: Clear and coherent
+* Level of consciousness: Alert and interactive
+* Activity status: Ambulatory - Independent

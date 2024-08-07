@@ -1,0 +1,62 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 65-year-old male patient with a history of bladder cancer, prostate cancer, diabetes, hypertension, and hyperlipidemia.
+
+**Chief Complaint:**
+
+* Painless jaundice
+
+**History of Present Illness:**
+
+* Patient presented with asymptomatic jaundice, which was found to be caused by a pancreatic head mass.
+* CT scan showed retroperitoneal lymphadenopathy, and an ERCP was performed, which revealed a stricture in the common bile duct.
+* A biliary stent was placed, and cytology samples were taken from the bile duct.
+
+**Physical Exam:**
+
+* The patient was found to have jaundiced skin and eyes, but no abdominal tenderness or pain.
+
+**Laboratory Results:**
+
+* Elevated liver function tests (LFTs) and bilirubin levels.
+* Abnormal complete blood count (CBC) and electrolyte panel.
+
+**Diagnostic Tests:**
+
+* CT scan of the abdomen
+* RUQUS (right upper quadrant ultrasound)
+* MRCP (magnetic resonance cholangiopancreatography)
+* ERCP (endoscopic retrograde cholangiopancreatography)
+
+**Surgical Interventions:**
+
+* ERCP with sphincterotomy and biliary stent placement
+
+**Cancer Diagnosis:**
+
+* The patient has a history of bladder cancer and prostate cancer.
+* The pancreatic head mass is suspected to be malignant, but the exact diagnosis is pending cytology results.
+
+**Medications:**
+
+* Ferrous sulfate 325 mg PO daily
+* Aspirin 81 mg PO daily
+* Cephalexin 500 mg PO Q12H (discontinued)
+* Ciprofloxacin HCl 500 mg PO Q12H (discontinued)
+
+**Discharge Diagnosis:**
+
+* Obstructive jaundice due to pancreatic head mass
+
+**Discharge Condition:**
+
+* The patient was discharged in stable condition, with a mental status that was clear and coherent.
+
+**Follow-up Instructions:**
+
+* The patient will be contacted with the follow-up plan regarding the pancreatic mass and painless jaundice.
+* Follow-up cytology and CA 19-9 results will be discussed with the patient.
+* Consideration for lymph node biopsy as an outpatient.
+* Repeat ERCP in 1 month for assessment of the biliary tree and stent removal.

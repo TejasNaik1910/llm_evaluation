@@ -1,0 +1,81 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Allergies/ADRs on File
+
+**Chief Complaint:**
+- Sepsis
+- Cholangiocarcinoma
+- Bile duct obstruction
+
+**Major Surgical or Invasive Procedures:**
+- ERCP (Endoscopic Retrograde Cholangiopancreatography)
+- Percutaneous biliary drain placement
+
+**History of Present Illness:**
+The patient, a female with a history of metastatic cholangiocarcinoma, presented for ERCP due to bile duct obstruction. She had a previous tumor resection with positive margins and liver metastases, requiring a hepaticoduodenostomy. An uncovered metal stent was placed earlier due to biliary obstruction. She was admitted with fever, hypotension, and elevated bilirubin (3.7), and blood cultures showed gram-negative rods. ERCP failed due to tumor growth through the stent. She was transferred for PTBD placement.
+
+**Past Medical History:**
+- COPD on 2L Home O2
+- Type 2 Diabetes
+- Primary Hypertension
+- Cholangiocarcinoma metastatic to liver/lung
+- Right Sided CHF
+- Hyponatremia
+
+**Social History:**
+[Redacted]
+
+**Family History:**
+- Son: Diabetes Mellitus
+- Mother: CAD leading to sudden cardiac death
+
+**Physical Exam:**
+- **Admission:** Hypotensive, fever, crackles in lungs, RUQ tenderness.
+- **Discharge:** Alert, oriented, mild tachycardia, bibasilar crackles, soft abdomen, no acute distress.
+
+**Pertinent Results:**
+- **Admission Labs:** Elevated WBC, low Hgb, elevated liver enzymes, bilirubin 2.2.
+- **Discharge Labs:** Improved WBC, Hgb, liver enzymes normalized, bilirubin 0.9.
+
+**Brief Hospital Course:**
+The patient presented with hypotension, fever, and chills, diagnosed with cholangitis and bacteremia (E. coli and Group D Strep) due to biliary obstruction. She underwent percutaneous biliary drain placement. Initial treatment included vancomycin, cefepime, and flagyl, later transitioned to levofloxacin and flagyl. She required a brief ICU stay for hypotension management, which resolved with IV fluids. Imaging showed progression of metastatic cholangiocarcinoma. She was discharged with a plan for outpatient follow-up and possible palliative chemotherapy or hospice care.
+
+**Discharge Medications:**
+1. Levofloxacin 500 mg PO Q24H
+2. Metronidazole 500 mg PO TID
+3. Albuterol Inhaler 2 PUFF IH Q6H PRN
+4. Aspirin 81 mg PO DAILY
+5. Fluticasone-Salmeterol Diskus 1 INH IH BID
+6. Metformin 500 mg PO BID
+7. Metoprolol Succinate XL 12.5 mg PO DAILY
+8. Sulfameth/Trimethoprim DS 1 TAB PO DAILY
+9. Tiotropium Bromide 1 CAP IH DAILY
+10. Torsemide 10 mg PO DAILY
+11. Ursodiol 300 mg PO BID
+12. Ondansetron held due to interaction with levofloxacin
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Primary: Cholangitis, Metastatic cholangiocarcinoma
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+The patient was advised to continue antibiotics until the specified date and to follow up with radiology for the biliary drain and oncology for further management. She was instructed to contact the clinic if no appointment is scheduled within a week.
+
+**Follow-up Instructions:**
+- Follow up with radiology and oncology as scheduled.

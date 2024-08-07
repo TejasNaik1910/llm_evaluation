@@ -1,0 +1,57 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Age: Not specified
+* Sex: Female
+* Date of Birth: Not specified
+
+**Chief Complaint:**
+
+* Abdominal pain and bradycardia after percutaneous liver abscess drainage
+
+**Medical History:**
+
+* Metastatic pancreatic cancer with liver metastases
+* Whipple procedure in the past
+* Adjuvant chemotherapy with gemcitabine and Xeloda
+* Radiofrequency ablation (RFA) of liver metastasis
+* Bipolar disorder, GERD, laparoscopic cholecystectomy, and factor V Leiden heterozygosity
+
+**Current Illness:**
+
+* Developed a hepatic abscess at the site of RFA, which was drained under CT guidance
+* Experienced severe pain at the drain site and bradycardia after the procedure
+
+**Physical Exam:**
+
+* On admission: sleepy, comfortable, with a large scar from Whipple procedure and a percutaneous drain in the right upper quadrant (RUQ) with scant bloody fluid draining
+* On discharge: minimal distress, slow responses to questions, and inattentive
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC) with differential: mild anemia and thrombocytopenia
+* Electrolyte panel: normal
+* Liver function tests: mild elevation of ALT and AST
+* Blood cultures: no growth
+* Urine culture: negative
+* CT-guided hepatic abscess drainage: grew Klebsiella pneumoniae and Viridans streptococci
+
+**Imaging:**
+
+* CT abdomen with contrast: 4.9-cm post-RFA hypodensity with foci of air in the right hepatic lobe, with a pigtail drainage catheter in place
+
+**Treatment:**
+
+* Started on meropenem and then changed to ceftriaxone and metronidazole based on culture results
+* Pain control with dilaudid and tylenol
+* Abscess drainage with a percutaneous catheter
+
+**Discharge Disposition:**
+
+* Extended care facility
+
+**Discharge Diagnoses:**
+
+* Primary diagnoses: liver abscess, bradycardia, and acute post-procedural pain
+* Secondary diagnoses: metastatic pancreatic cancer, bipolar disorder, and deep vein thrombosis

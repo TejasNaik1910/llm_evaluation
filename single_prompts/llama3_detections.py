@@ -101,7 +101,7 @@ note_ids = [ "10000935-DS-21"]#for testing code, uncomment below variable for fu
 for note_id in note_ids:
     # Load the EHR note and summary content based on note_id
     ehr_note_file = f'data/ehrs/oncology-report-{note_id}.txt'
-    summary_file = f'data/summaries/llama3/{note_id}.txt'
+    summary_file = f'data/summaries/llama3/llama3-summary-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()
@@ -155,7 +155,7 @@ for note_id in note_ids:
             response_dict = json.loads(json_content)
             # Save the response
             # output_file = f'single_prompts/annotations/gpt4o/{note_id}.json'
-            output_file = f'single_prompts/annotations/llama3/{note_id}.json'
+            output_file = f'single_prompts/annotations/llama3/llama3-detections-{note_id}.json'
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)
             print("Done")

@@ -1,0 +1,55 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies to Drugs
+
+**Chief Complaint:**
+- Jaw pain
+
+**Major Surgical or Invasive Procedure:**
+- Core biopsy of lesion on back
+
+**History of Present Illness:**
+- A male patient with a history of hypertension (HTN), hyperlipidemia, and coronary artery disease (CAD) presented with 6 weeks of increasing right jaw pain. Initial imaging revealed a right temporal mass, and further imaging identified masses in the lung, adrenal gland, and back. The jaw pain began in the right temporal region and persisted despite dental interventions, including the extraction of a wisdom tooth. A head CT showed swelling of the right temporalis muscle and destruction of the temporal bone. Differential diagnoses included lymphoma, metastatic disease, and rhabdomyosarcoma. The patient also reported a non-tender mass on his back, initially thought to be a sebaceous cyst, which had been enlarging over six months.
+
+**Diagnostic Tests Conducted:**
+- **Head CT:** Swelling of the right temporalis muscle and destruction of the temporal bone.
+- **Ultrasound of Back Lesion:** 5 x 5 x 3 cm vascular mass.
+- **CT Chest/Abdomen/Pelvis:** 5 cm left lower lobe lung mass, necrotic left hilar and axillary nodes, 4.3 cm right adrenal mass, and 5 x 7 cm subcutaneous mass on the back.
+- **MRI Head:** Enhancing lesions in the right temporal bone, right temporalis muscle, left frontal parenchyma, and posterior right occipital lobe, suggestive of metastasis.
+
+**Cancer Type and Morphology:**
+- Non-small cell lung cancer (NSCLC) with poorly differentiated carcinoma.
+
+**Cancer Stage and Progression:**
+- Metastatic disease involving the lung, lymph nodes, back, right temporal region, adrenal gland, and brain.
+
+**TNM Staging:**
+- Not explicitly mentioned, but extensive metastasis indicates advanced stage.
+
+**Prescribed Medications:**
+- **Pain Management:** Fentanyl patch (100 mcg/hr every 72 hours), Hydromorphone (4 mg every 4 hours as needed), Acetaminophen (325 mg every 6 hours).
+- **Other Medications:** Simvastatin, Atenolol, Latanoprost, Colace, Senna, Bisacodyl, Simethicone, Prochlorperazine, Lorazepam, Ranitidine.
+
+**Surgical Interventions:**
+- Core biopsy of the back lesion.
+
+**Patient's Response to Treatment:**
+- Pain was initially managed with IV dilaudid and later transitioned to a fentanyl patch and oral dilaudid, which provided reasonable pain control. The patient tolerated radiation therapy well and had regular bowel movements with prescribed stool softeners.
+
+**Discharge Condition:**
+- Stable with improved pain control.
+
+**Discharge Instructions:**
+- Continue prescribed medications, avoid driving or operating heavy machinery, and use stool softeners to prevent constipation. Follow up with oncology and radiation oncology as directed. Contact a physician if experiencing severe pain, fevers, chills, or shortness of breath.
+
+**Follow-up:**
+- Appointments with oncology and radiation oncology were arranged. The patient was advised to report any new neurological symptoms to the oncologist.

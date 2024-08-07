@@ -1,0 +1,62 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: [Not provided]
+* Age: [Not provided]
+* Sex: Male
+* Date of Birth: [Not provided]
+* Admission Date: [Not provided]
+* Discharge Date: [Not provided]
+
+**Chief Complaint:**
+
+* Epigastric pain
+
+**Past Medical History:**
+
+* Chronic Lymphocytic Leukemia (CLL) on venetoclax
+* Non-seminoma testicular cancer, status post 4 cycles of EP
+* Sick sinus syndrome, status post pacemaker
+* Coronary Artery Disease, status post DES to mid-LAD
+* Cerebrovascular accident with residual left leg weakness
+* Diabetes Mellitus Type II on insulin
+* Paroxysmal Atrial Fibrillation on Xarelto
+* Hypertension, Hyperlipidemia, Morbid Obesity, Obstructive Sleep Apnea
+* Pancreatitis, Hypothyroidism, Peripheral Neuropathy, Chronic Pain
+* Osteoarthritis, Major Depression with psychotic features, Anxiety, Conversion Disorder
+* Benign Paroxysmal Positional Vertigo, Glaucoma
+* Status post Cholecystectomy, Bilateral Shoulder Surgery, Gastric Bypass Surgery
+
+**Medications:**
+
+* Acyclovir, Atorvastatin, Fenofibrate, Furosemide, Gabapentin, Levothyroxine, Lidocaine, Losartan, Metoprolol, Pantoprazole, Rivaroxaban, Senna, Sucralfate, Topiramate, Venetoclax, and others
+
+**Hospital Course:**
+
+* Presented with acute onset of epigastric pain, associated with nausea and radiating to the back
+* Initial labs and imaging studies were unrevealing
+* Underwent EGD, which revealed a healing jejunal ulcer and a fistula
+* Home PPI was made BID, and low-dose oxycodone was provided for pain management
+* Course was complicated by periods of lethargy and delirium, which were managed with medication adjustments
+* Renal function was affected by contrast-induced nephropathy, but recovered by discharge
+
+**Discharge Diagnosis:**
+
+* Jejunal Ulcer
+* Fistula
+* Lethargy
+* Hypothyroidism
+* Insulin-dependent Diabetes Mellitus
+* Delirium
+* Contrast-induced Nephropathy
+* Depression with psychotic features, in remission
+* Hyperuricemia
+* Elevated LFTs
+
+**Discharge Instructions:**
+
+* Take medications as prescribed
+* Follow up with primary care physician, endocrinologist, psychiatrist, and gastroenterologist
+* Continue acid-reducing medication for 8 weeks
+* Monitor blood sugars regularly and bring log to next appointment

@@ -1,0 +1,86 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Sulfa, Codeine, Bactrim
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Shortness of breath
+
+**Major Surgical or Invasive Procedure:**
+- Percutaneous liver biopsy
+
+**History of Present Illness:**
+Ms. [Redacted] presented with shortness of breath and chest pain, with a history of metastatic cancer of unknown primary, involving the lungs and liver. Initial evaluation included an abdominal CT scan revealing multiple metastases. She had not undergone a definitive diagnosis with biopsy and was disengaged with care. She reported stable chronic nonproductive cough and was recently evaluated for lower extremity edema. In the ED, she had leukocytosis, anemia, and elevated lactate. CTA was negative for pulmonary embolus but showed numerous pulmonary nodules and liver metastases. She was started on ceftriaxone and azithromycin for possible pneumonia. Upon transfer, her shortness of breath improved, and she was chest pain-free.
+
+**Past Medical History:**
+- Metastatic cancer of unknown primary
+- High-grade SBO, s/p exploratory laparotomy, lysis of adhesions, and small bowel resection
+- Carcinoid
+- Hyperlipidemia
+- Vitamin B12 deficiency
+- Cervical DJD
+- Osteoarthritis
+- s/p R lung resection
+- s/p hysterectomy
+- s/p R arm surgery
+
+**Family History:**
+- Mother: Died of pancreatic cancer
+- Father: Died of [Redacted] disease
+
+**Physical Exam:**
+- On admission: Non-toxic, speaking in full sentences, mild reproducible chest pain, poor lung aeration, tachycardia, mild abdominal tenderness, left > right pitting edema.
+- At discharge: Obese, flat affect, mild scleral icterus, tachycardia, decreased breath sounds at right base, abdominal firmness, 1+ pitting edema to torso.
+
+**Pertinent Results:**
+- **Liver Biopsy:** Adenocarcinoma involving the liver, consistent with metastasis from a colorectal primary.
+- **Imaging:**
+  - **EKG:** Sinus tachycardia, low voltage, non-specific repolarization abnormalities.
+  - **Portable CXR:** Innumerable pulmonary metastases, mild pulmonary vascular congestion.
+  - **CTA:** No central pulmonary embolus, numerous bilateral pulmonary nodules, enlarged liver with multiple hypodense lesions.
+  - **RUQ Ultrasound:** Extensive diffuse hepatic metastatic disease.
+  - **Noncontrast Head CT:** No acute intracranial process.
+  - **Left Hip XR:** No definite lytic lesion.
+
+**Brief Hospital Course:**
+Ms. [Redacted] was diagnosed with metastatic colon adenocarcinoma following a percutaneous liver biopsy. She was transferred to the oncology service but was deemed unsuitable for chemotherapy due to poor functional and nutritional status. A goals of care discussion led to a decision for home hospice care.
+
+**Active Issues:**
+1. **Metastatic Colon Adenocarcinoma:** Progression of metastatic disease in the liver and lungs. Declined further diagnostic imaging.
+2. **Left Thigh Weakness/Spinous Tenderness:** Possible bony metastases or cord involvement; declined MRI.
+3. **Abdominal Pain:** Managed with acetaminophen and tramadol.
+4. **Hematemesis:** Single episode, managed with IV pantoprazole.
+5. **Altered Mental Status:** Intermittent, possibly due to hepatic encephalopathy or depression.
+6. **Shortness of Breath:** Resolved without dedicated treatment.
+7. **Leukocytosis:** Likely due to underlying malignancy.
+8. **Liver Function Test Abnormalities:** Likely due to hepatic infiltration of malignancy.
+9. **Elevated Lactate:** Likely due to compromised hepatic clearance.
+10. **Sinus Tachycardia:** Persistent, likely due to poor PO intake.
+11. **Depression:** Affecting motivation for care.
+12. **Normocytic Anemia:** Stable, likely anemia of chronic disease.
+13. **Coagulopathy:** Reflecting synthetic dysfunction due to hepatic infiltration.
+
+**Discharge Medications:**
+- BuPROPion, Ondansetron, TraMADOL, Senna, Omeprazole, Bisacodyl, Docusate Sodium, Sertraline, traZODONE, Polyethylene Glycol.
+
+**Discharge Disposition:**
+- Home with hospice services.
+
+**Discharge Diagnosis:**
+- Primary: Metastatic colon adenocarcinoma
+
+**Discharge Condition:**
+- Mental Status: Confused at times
+- Level of Consciousness: Alert and interactive
+- Activity Status: Bedbound
+
+**Discharge Instructions:**
+Ms. [Redacted] was admitted for shortness of breath, likely due to underlying cancer. She underwent a liver biopsy revealing metastatic colon adenocarcinoma. After discussions, it was decided she would go home with hospice care.

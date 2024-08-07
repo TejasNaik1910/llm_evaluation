@@ -1,0 +1,81 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Influenza Virus Vaccines
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Headache, dizziness, nausea.
+
+**Major Surgical or Invasive Procedure:**
+- None during hospitalization.
+
+**History of Present Illness:**
+- The patient, a [Redacted]-year-old female, presented with acute headache, emesis, and bilateral lower extremity weakness. Initial vitals: Pain 8, Temp 96.8, HR 101, BP 155/93, RR 16, Pulse Ox 99% on RA. Labs and toxicology screens were largely normal except for a BUN of 24 and an alk phos of 144. CTA head and neck showed no significant stenosis or aneurysm, but severe atherosclerotic disease was noted. Neurology suspected sub-acute spinal pathology and stress-related symptoms.
+
+**Past Medical History:**
+- CVA, MI, Anemia, Appendectomy, Back Pain, Right Sciatica, Cataracts, Hypertension, Hypothyroidism (s/p thyroidectomy), Right Ankle Surgery, Throat Cancer, Throat Cancer Surgery, Thyroidectomy, Tobacco Abuse, Tonsillectomy, Carotid Artery Stenosis, Brain Tumor, Adenoid Cystic Carcinoma, Depression, Dyspnea on Exertion, Seasonal Affective Disorder.
+
+**Social History:**
+- Complex social situation with a son who has a drug addiction and is verbally abusive.
+
+**Family History:**
+- Strong family history of malignancy (liver and lung cancer).
+
+**Physical Exam:**
+- **Admission:** Alert, oriented, tearful, pale conjunctiva, no acute distress, normal cardiovascular and respiratory findings, soft non-tender abdomen, no edema, mild left lateral end-gaze nystagmus.
+- **Discharge:** AOx3, comfortable, normal cardiovascular and respiratory findings, soft non-tender abdomen, no edema, strength and sensation grossly intact.
+
+**Pertinent Results:**
+- **Admission Labs:** Mildly elevated BUN and alk phos, otherwise normal.
+- **Discharge Labs:** Mild leukopenia.
+- **Imaging:** CTA head and neck showed extensive atherosclerosis, stable 9 mm right upper lobe nodule, no fracture or dislocation in pelvis.
+
+**Brief Hospital Course:**
+- **Vertigo:** Diagnosed as Benign Paroxysmal Positional Vertigo (BPPV) likely exacerbated by social stressors. Neurology ruled out acute stroke.
+- **Social Stressors/Verbal Abuse:** Significant stress from son's addiction and verbal abuse. Social work and Elder Protective Services involved. Safety plan established.
+- **Bacterial Pneumonia:** Completed course of levofloxacin, no symptoms during hospitalization.
+- **Hypertension:** Managed with atenolol, chlorthalidone, and aspirin.
+- **Hypothyroidism:** Managed with levothyroxine.
+
+**Medications on Admission:**
+1. Atenolol 100 mg PO DAILY
+2. Chlorthalidone 25 mg PO QAM
+3. Levofloxacin 500 mg PO Q24H
+4. Aspirin 81 mg PO DAILY
+5. Levothyroxine Sodium 100 mcg PO DAILY
+6. Acetaminophen 1000 mg PO Q4H PRN
+7. Fish Oil (Omega 3) [Redacted] mg PO DAILY
+
+**Discharge Medications:**
+1. Acetaminophen 1000 mg PO Q4H PRN
+2. Aspirin 81 mg PO DAILY
+3. Atenolol 100 mg PO DAILY
+4. Chlorthalidone 25 mg PO QAM
+5. Levothyroxine Sodium 100 mcg PO DAILY
+6. Fish Oil (Omega 3) [Redacted] mg PO DAILY
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- **Primary:** Benign Paroxysmal Positional Vertigo, Post-traumatic stress disorder secondary to verbal abuse.
+- **Secondary:** Hypertension, Hypothyroidism, Prior CVA, Throat Cancer, s/p Thyroidectomy, Depression.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory - Independent.
+
+**Discharge Instructions:**
+- Follow up with primary care physician and specialists. Safety plan in place involving contacting the police if necessary. Elder Services to conduct home safety evaluations.
+
+**Followup Instructions:**
+- [Redacted]

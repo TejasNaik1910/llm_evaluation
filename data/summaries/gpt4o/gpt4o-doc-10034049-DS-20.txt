@@ -1,0 +1,58 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Penicillins, Nutrasweet Aspartame, Sulfa (Sulfonamide Antibiotics)
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- CT-guided L4-L5 spine biopsy
+
+**History of Present Illness:**
+- The patient, a [Redacted]-year-old female with a complex medical history including stroke, rheumatoid arthritis on prednisone, leukocytoclastic vasculitis, venous insufficiency, and hypothyroidism, presented with acute onset abdominal pain. She reported diffuse abdominal pain exacerbated by food intake and relieved by fasting, along with a 15 lb unintentional weight loss over the past month.
+
+**Past Medical History:**
+- Chronic pain, Rheumatic fever, Rheumatoid arthritis, Hypertension (HTN), Hyperlipidemia (HLD), Type 2 Diabetes Mellitus (T2DM), Asthma, Hypothyroidism, Venous stasis, Depression, Anxiety, Chronic venous stasis ulcers, Recurrent UTIs, Intermittent urinary retention, Chronic pain, Back injury, COPD, History of cervical and uterine cancer (status post hysterectomy).
+
+**Physical Exam:**
+- **Admission:** Mild bradycardia, clear lungs anteriorly, moderate tenderness in the abdomen, mild right-sided facial droop, decreased power in the right arm and leg.
+- **Discharge:** Stable vitals, clear lungs, 1+ pitting edema in BLE, alert and moving all extremities.
+
+**Pertinent Results:**
+- **Admission Labs:** Elevated TSH (98), low Free T4 (0.7), elevated CRP (3.7), and other routine blood tests.
+- **Imaging:** CT abdomen with contrast showed endplate irregularity at L4/L5, severe scoliosis, and degenerative disc disease.
+- **Microbiology:** Blood culture grew Viridans streptococci in one set; other cultures were negative.
+
+**Brief Hospital Course:**
+- **Back Pain and L4/L5 Lesion:** CT scan revealed a lucency at L4/L5 suggestive of chronic discitis/osteomyelitis vs. severe degenerative joint disease (DJD). The patient underwent a spine biopsy, which showed no growth in cultures. Infectious Disease (ID) consultation recommended no antibiotics due to low suspicion of infection.
+- **Hypothyroidism:** The patient was non-compliant with levothyroxine. TSH was initially 98 and decreased to 33 with continued PO levothyroxine. Follow-up with endocrinology was arranged.
+- **Abdominal Pain:** Likely related to constipation, relieved with bowel regimen.
+- **Weight Loss:** Unintentional weight loss noted; nutrition consultation was unfeasible due to patient non-compliance. Mirtazapine was initiated to stimulate appetite.
+
+**Medications on Admission:**
+- Included amlodipine, aspirin, atorvastatin, levothyroxine, methadone, omeprazole, prednisone, senna, sertraline, acetaminophen, docusate, polyethylene glycol, simethicone, metformin, and bisacodyl.
+
+**Discharge Medications:**
+- Added mirtazapine, multivitamins with minerals, mupirocin ointment, and adjusted levothyroxine dose.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- **Primary:** Degenerative joint disease - severe, Back pain
+- **Secondary:** Hypothyroidism, Rheumatoid arthritis, Depression
+
+**Discharge Instructions:**
+- Continue medications as prescribed, follow up with endocrinology and primary care physician, and work on regaining strength at rehab.
+
+**Follow-up Instructions:**
+- Arranged follow-up with endocrinology and ID, monitoring of back pain and vitals, and recheck labs in a few weeks post-discharge.

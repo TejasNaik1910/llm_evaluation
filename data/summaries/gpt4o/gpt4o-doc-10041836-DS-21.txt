@@ -1,0 +1,98 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Codeine, Ciprofloxacin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- C. Diff Colitis
+- Pathologic Fracture Femur
+
+**Major Surgical or Invasive Procedure:**
+- External Beam Radiation
+
+**History of Present Illness:**
+The patient is an elderly female with a history of endometrial cancer with metastasis to the bone, resulting in a pathologic fracture of the left hip. She was recently admitted for orthopedic pinning of the left hip. She now presents with fever, abdominal pain, and diarrhea. Post-discharge, she experienced poor appetite, poor oral intake, and developed diarrhea with significant lower abdominal cramping and excess gas. She self-discontinued senna due to diarrhea without significant improvement. Her left hip/leg pain has been stable since discharge.
+
+**ED Course:**
+- Administered NS 1 liter with 40 meq KCl, Ceftriaxone 1 gm IV x1
+- Orthopedic consultation and imaging showed no evidence of infection at the hip site.
+
+**Review of Systems (ROS):**
+- Positive: Fevers, chills, night sweats, anorexia, occasional heart palpitations, abdominal pain, occasional nausea, diarrhea, occasional confusion with pain medication.
+- Negative: Other systems reviewed were negative.
+
+**Past Medical History:**
+- Endometrial cancer, status post resection, with metastasis to bone and lung.
+- Pulmonary embolism, on Coumadin.
+- Pathologic fracture of the left hip, status post intramedullary nailing.
+- Hypertension.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother: Died of "blood cancer."
+- Father: Died of CVA.
+
+**Physical Exam:**
+- Vital Signs: 99.7°F, 115/60 mmHg, 87 bpm, 20 breaths/min, 96% RA.
+- General: Alert, oriented, somewhat uncomfortable.
+- HEENT: Dry mucous membranes, orange plaque on tongue.
+- Neck: No lymphadenopathy, flat JVP.
+- Respiratory: Clear to auscultation bilaterally.
+- Cardiovascular: Regular rate and rhythm, soft systolic ejection murmur at apex.
+- Abdomen: Positive bowel sounds, soft, non-tender, non-distended.
+- Extremities: No cyanosis, edema, or erythema. Left hip incisions healing well, local pain on deep palpation.
+- Neurological: Cranial nerves grossly intact.
+
+**Pertinent Results:**
+- Blood tests showed elevated WBC, anemia, and electrolyte imbalances.
+- Stool test positive for Clostridium difficile toxin.
+- Blood and urine cultures negative for growth.
+
+**Brief Hospital Course:**
+1. **C. diff colitis:** Treated with a 14-day course of Flagyl. Patient was diarrhea-free at discharge.
+2. **Dehydration/hypovolemia:** Managed with IV fluids.
+3. **Metastatic endometrial cancer:** New intratrochanteric fracture identified. Radiation therapy initiated and continued post-discharge.
+4. **Pulmonary embolism:** Continued on Coumadin with dose adjustment.
+5. **Hypertension:** Continued home medications (atenolol, nifedipine).
+6. **Moderate malnutrition:** Managed with nutritional supplements and dietary adjustments.
+
+**Medications on Admission:**
+- Senna, Ativan, Atenolol, Nifedipine, Paroxetine, Warfarin, Voltaren gel, Megestrol, Omeprazole.
+
+**Discharge Medications:**
+- Lorazepam, Atenolol, Nifedipine, Paroxetine, Megestrol, Omeprazole, Oxycodone-Acetaminophen, Metronidazole, Warfarin, Oxycodone (sustained release and immediate release).
+
+**Discharge Disposition:**
+- Home with service.
+
+**Discharge Diagnosis:**
+- C. diff colitis
+- Intratrochanteric femur fracture (pathologic)
+- Malignant neoplasm - endometrial
+- Metastasis to bone and lung
+- Coagulopathy NOS
+- Pulmonary embolism
+- Thrombocythemia
+- Dehydration
+- Constipation
+
+**Discharge Condition:**
+- Good
+
+**Discharge Instructions:**
+- Return to the hospital with symptoms of fever, chills, nausea/vomiting, or diarrhea.
+- Avoid alcohol while on metronidazole.
+- Continue radiation therapy post-discharge.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,75 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** None listed
+
+**Chief Complaint:**
+- Fatigue
+
+**Major Surgical or Invasive Procedure:**
+- ERCP and EUS
+
+**History of Present Illness:**
+Mr. [Redacted] is a male with a history of insulin-dependent diabetes mellitus (IDDM), hypertension (HTN), benign prostatic hyperplasia (BPH), and metastatic clear cell renal cell carcinoma (RCC) status post radical left nephrectomy. The RCC has metastasized to the lungs, mediastinum, and hilum, and he is currently on an experimental chemotherapy trial with sunitinib. He was recently admitted for a biliary stricture and non-occlusive portal vein thrombus, treated with ERCP and plastic stent placement, and started on enoxaparin. He presented to the ED with fever, jaundice, and confusion.
+
+**Diagnostic Tests and Findings:**
+- **Imaging:** RUQ ultrasound showed persistent left intrahepatic biliary dilation and gallbladder sludge. CT torso showed no evidence of local recurrence or metastatic disease in the abdomen and pelvis but noted a non-obstructive pneumonia in the left upper lobe and a non-occlusive portal vein thrombus.
+- **ERCP:** Removal of the old stent and placement of a new stent over a 2cm malignant-appearing stricture in the distal common bile duct (CBD). Cytology brushings were sampled.
+- **EUS:** Visualized a 1.8 x 1.1 cm ill-defined hypoechoic area around the distal CBD. Fine needle biopsy (FNB) was performed x3.
+- **Pathology:** Consistent with adenocarcinoma.
+- **Blood Cultures:** Grew Streptococcus anginosus.
+- **TTE:** Mild symmetric left ventricular hypertrophy with normal cavity size and function, no evidence of endocarditis.
+
+**Cancer Type and Staging:**
+- **Primary Cancer:** Clear cell renal cell carcinoma (RCC)
+- **Metastasis:** Lungs, mediastinum, and hilum
+- **New Diagnosis:** Pancreatobiliary adenocarcinoma
+
+**Treatment and Response:**
+- **Chemotherapy:** Sunitinib, with dose adjustments due to side effects. The patient showed a partial response by RECIST 1.1 criteria with a significant decrease in tumor size from baseline.
+- **Antibiotics:** Initially treated with Unasyn for cholangitis and Streptococcus bacteremia, later switched to ceftriaxone and metronidazole for ease of dosing.
+- **ERCP Interventions:** Initial plastic stent placement followed by a metal stent due to rising bilirubin levels. Post-metal stent placement, liver function tests (LFTs) improved.
+- **Anticoagulation:** Enoxaparin for non-occlusive portal vein thrombus.
+
+**Discharge Medications:**
+1. Ceftriaxone 2 gm IV Q24H
+2. Metronidazole 500 mg PO Q8H
+3. Glargine 16 Units Bedtime
+4. Amlodipine 10 mg PO DAILY
+5. Ascorbic Acid [Redacted] mg PO DAILY
+6. Atenolol 100 mg PO DAILY
+7. Cariprazine 1.5 mg oral DAILY
+8. Enoxaparin Sodium 120 mg SC DAILY
+9. Fenofibrate 48 mg PO DAILY
+10. Fluoxetine 20 mg PO DAILY
+11. Gabapentin 100 mg PO BID
+12. Glipizide 2.5 mg PO BID
+13. Levothyroxine Sodium 100 mcg PO DAILY
+14. Lisinopril 40 mg PO DAILY
+15. Lorazepam 0.5 mg PO DAILY:PRN anxiety
+16. Multivitamins 1 TAB PO DAILY
+17. Omeprazole 20 mg PO DAILY
+18. Ondansetron 4 mg PO Q8H:PRN nausea
+19. Prochlorperazine 5 mg PO Q8H:PRN nausea
+20. Tamsulosin 0.4 mg PO QHS
+21. Vitamin D 5000 UNIT PO DAILY
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Continue IV antibiotics for two weeks.
+- Follow up with oncology for treatment options regarding the new adenocarcinoma diagnosis.
+
+**Follow-up:**
+- Scheduled follow-up with the oncology team to discuss treatment options for the newly diagnosed adenocarcinoma.

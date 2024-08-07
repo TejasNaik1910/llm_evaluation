@@ -1,0 +1,62 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Age: Not specified
+* Sex: Female
+* Medical History: Alcoholic hepatitis, pancreatitis, breast cancer, hypertension, hypercholesterolemia, diabetes, diverticulitis, anemia of chronic disease, ETOH abuse, bowel obstruction, pancreatic pseudocyst, appendectomy, laparoscopy
+
+**Chief Complaint:**
+
+* Acute pancreatitis
+
+**Major Surgical or Invasive Procedures:**
+
+* Endoscopic ultrasound guided cyst gastrostomy with aspiration of 4 liters of fluid and irrigation of adherent necrotic material
+* Revision of cystogastrostomy
+* CT guided drainage catheter placement into the right flank collection
+* CT fluoroscopy-guided upsize and exchange of a previously placed 14 Fr chest tube drainage catheter
+
+**Diagnoses:**
+
+* Acute alcoholic necrotizing pancreatitis
+* Infected pancreatic pseudocyst
+* Peripancreatic fluid collection
+* Breast cancer (history)
+
+**Medications:**
+
+* Duloxetine 60 mg PO DAILY
+* Insulin SC (sliding scale)
+* Pantoprazole 40 mg IV Q12H
+* Tamoxifen Citrate 20 mg PO DAILY
+* Nicotine Patch 14 mg TD DAILY
+* Multivitamins 1 TAB PO DAILY
+* Gemfibrozil 600 mg PO BID
+* Acetaminophen 650 mg PO Q6H:PRN pain
+* HYDROmorphone (Dilaudid) 0.5-1 mg IV Q3H:PRN pain
+* Heparin 5000 UNIT SC TID
+* Gabapentin 300 mg PO TID
+* Morphine SR (MS ___ 15 mg PO Q8H
+
+**Diagnostic Tests:**
+
+* Complete Blood Count (CBC)
+* Blood Chemistry
+* Liver Function Tests (LFTs)
+* Lipase
+* Amylase
+* CT Abdomen
+* Magnetic Resonance Cholangiopancreatography (MRCP)
+* Endoscopic Ultrasound (EUS)
+* Gram Stain
+* Fluid Culture
+* Anaerobic Culture
+* Fungal Culture
+
+**Response to Treatment:**
+
+* The patient underwent multiple procedures to drain the pancreatic pseudocyst and peripancreatic fluid collections
+* She was treated with antibiotics for possible pseudocyst infection and candidal infection
+* She was also treated for depression, diabetes, and breast cancer
+* At the time of discharge, the patient was afebrile with stable vital signs and tolerating tube feeds and clears

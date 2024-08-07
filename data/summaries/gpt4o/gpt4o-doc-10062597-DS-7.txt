@@ -1,0 +1,79 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** No known drug allergies
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Atrial clot
+
+**Major Surgical or Invasive Procedure:**
+- Bronchoscopy
+
+**History of Present Illness:**
+- The patient is a [Redacted]-year-old female with a history of metastatic non-small cell lung carcinoma (NSCLC) on a kinase inhibitor study drug. A routine CT scan revealed a right atrial tumor thrombus and a right common iliac artery clot. She was advised to go to the nearest emergency department (ED) and was subsequently transferred to [Redacted] for further care. In the ED, she was started on a heparin drip. Vascular surgery recommended monitoring without immediate intervention due to the presence of dopplerable pulses and no significant symptoms.
+
+**Past Medical History:**
+- Metastatic non-small cell lung cancer
+- Cavernous sinus thrombosis
+- Status post total abdominal hysterectomy and bilateral salpingo-oophorectomy (TAH/BSO)
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Non-contributory
+
+**Physical Exam:**
+- Vitals: T: 98.2°F, BP: 110/75 mmHg, HR: 101-115 bpm, O2 Sat: 93% on 4L nasal cannula
+- General: Well-appearing, no acute distress
+- HEENT: Normal
+- Neck: No JVD, no lymphadenopathy
+- Cardiovascular: Tachycardic, no murmurs, gallops, or rubs
+- Pulmonary: Bronchial breath sounds bilaterally, right upper lobe crackles
+- Abdomen: Soft, non-tender, non-distended
+- Extremities: Right foot cool with dopplerable pulses, normal sensation
+- Neurological: Alert, oriented, normal strength and sensation
+- Skin: No jaundice, cyanosis, or dermatitis
+
+**Pertinent Results:**
+- Blood tests showed mild anemia and elevated PTT.
+- CT Torso: Left atrial tumor thrombus, right common iliac artery clot, stable bilateral airspace consolidation.
+- Portable TTE: Left atrial mass, normal left ventricular function, moderate pulmonary artery systolic hypertension.
+- Bronchoscopy: No endobronchial lesions or bleeding, therapeutic aspiration performed.
+
+**Brief Hospital Course:**
+- **Arterial Thrombus:** Managed with heparin drip, transitioned to enoxaparin (Lovenox) before discharge. No surgical intervention required.
+- **Lung Cancer:** Continued on baseline oxygen, cough suppressants, albuterol, and pain management with Vicodin.
+- **Hemoptysis:** Managed with bronchoscopy, no active bleeding found, symptoms improved.
+- **Tachycardia:** Monitored on telemetry, attributed to atrial thrombus and hypoxia. No surgical intervention deemed beneficial due to disease extent.
+
+**Medications on Admission:**
+- Albuterol, Benzonatate, Fioricet-Codeine, Codeine-Guaifenesin, Flurazepam, Hydrocodone-Acetaminophen, Lorazepam, Oxygen, Prochlorperazine, Trazodone, Loperamide, Omeprazole.
+
+**Discharge Medications:**
+- Albuterol, Benzonatate, Codeine-Guaifenesin, Flurazepam, Oxygen, Trazodone, Acetaminophen, Diphenhydramine, Omeprazole, Hydrocodone-Acetaminophen, Enoxaparin.
+
+**Discharge Disposition:**
+- Home with services
+
+**Discharge Diagnosis:**
+- Metastatic non-small cell lung cancer
+- Left atrial thrombus
+- Right common iliac artery thrombus
+
+**Discharge Condition:**
+- Stable, with O2 saturations in the low 90s on 4L nasal cannula
+
+**Discharge Instructions:**
+- Continue home medications and start Lovenox as directed. Follow up with Dr. [Redacted] and oncologist. An echocardiogram is scheduled in [Redacted] weeks. Seek immediate medical attention for any concerning symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]

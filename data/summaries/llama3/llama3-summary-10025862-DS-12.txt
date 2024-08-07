@@ -1,0 +1,55 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+* Female patient, age not specified
+* Admitted to the hospital with sepsis and fever
+* History of metastatic pancreatic adenocarcinoma (PDAC) with lung recurrence
+
+**Medical History:**
+
+* Initially presented with transaminitis and malignant CBD stricture
+* Received neoadjuvant FOLFIRINOX, SBRT, and Whipple procedure
+* Final pathologic staging was T1N0 with positive margins and lymph node invasion
+* Received adjuvant FOLFOX and was enrolled in a Phase I trial of RX-3117 and abraxane
+
+**Present Illness:**
+
+* Presented with fever and found to have GNR bacteremia and E. coli UTI
+* Received CT A/P, which did not show any intraabdominal source of infection
+* Started on zosyn and transferred to the hospital for further management
+
+**Physical Exam:**
+
+* Vital signs were normal
+* General: Well-appearing, pleasant Caucasian woman
+* Neuro: Alert, oriented to person, place, and time
+* HEENT: Oropharynx clear, no palpable cervical or supraclavicular adenopathy
+* Cardiovascular: Regular rate and rhythm, soft systolic murmur
+* Chest/Pulmonary: Clear to auscultation bilaterally
+* Abdomen: Soft, nontender, nondistended, bowel sounds present
+
+**Laboratory Results:**
+
+* Admission labs: WBC 7.0, RBC 2.59, Hgb 8.1, Hct 24.2, MCV 93, MCH 31.3, MCHC 33.5, RDW 16.7
+* Discharge labs: WBC 22.9, RBC 2.66, Hgb 8.3, Hct 25.5, MCV 96, MCH 31.2, MCHC 32.5, RDW 17.9
+
+**Microbiology:**
+
+* Blood culture: Klebsiella pneumoniae
+* Urine culture: E. coli
+
+**Imaging:**
+
+* CXR: No evidence of active disease
+* CT Abdomen/Pelvis: Bilateral pulmonary nodules, no acute abdominal pelvic process
+
+**Discharge:**
+
+* Discharged on ciprofloxacin for 14 days to complete treatment for Klebsiella bacteremia and E. coli UTI
+* Continued home medications for metastatic pancreatic adenocarcinoma, anemia, leukocytosis, HLP, hypothyroidism, GERD, and depression
+
+**Follow-up:**
+
+* Follow-up pending blood cultures and urine culture
+* Follow-up with outpatient team for further management of metastatic pancreatic adenocarcinoma

@@ -1,0 +1,77 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Pepcid, Sulfasalazine, Metronidazole, Azathioprine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal pain, diarrhea
+
+**Major Surgical or Invasive Procedures:**
+- Flexible Sigmoidoscopy
+- Colonoscopy
+
+**History of Present Illness:**
+- Patient with a history of Crohn's disease since [Redacted], complicated by fistula/abscess, currently on 10mg daily prednisone and infliximab. She presented with crampy abdominal pain, diarrhea, low-grade fevers, and poor oral intake following recent travel. Symptoms included bloody stools and tachycardia.
+
+**Diagnostic Tests and Imaging:**
+- **Labs:** Elevated D-Dimer (1630), WBC (19.6), PLT (472), Lactate (1.9), CRP (153.5)
+- **CTA Chest:** No pulmonary embolism, sub-5mm pulmonary nodules
+- **MRE:** Diffuse wall edema and hyperenhancement throughout the large bowel, compatible with pancolitis
+- **Sigmoidoscopy:** Friability, erythema, aphthae, and ulcerations in the sigmoid colon
+- **MR Pelvis:** Active Crohn's disease in the large bowel, 14mm hemorrhagic cyst in the right ovary
+- **Colonoscopy:** Blood throughout the colon, diffuse ulceration and erythema, successful clipping of an ulcer in the right colon
+- **CXR:** No acute cardiopulmonary process, right PICC line in place
+
+**Microbiology:**
+- Blood and urine cultures: No growth
+- Stool cultures: Negative for Salmonella, Shigella, Campylobacter, C. difficile, and E. coli O157:H7
+
+**Pathology:**
+- Sigmoid colon biopsy: Chronic mildly active colitis, no granulomata or dysplasia
+
+**Hospital Course:**
+- **Crohn's Flare:** Managed with IV steroids, PO Augmentin, and bowel rest. Imaging showed persistent disease. Surgery was recommended but refused by the patient. Treated with IV cyclosporine, transitioned to PO cyclosporine upon discharge. Briefly on TPN due to low dietary intake.
+- **Anemia:** Required multiple blood transfusions.
+- **Acute Kidney Injury:** Elevated creatinine on admission, returned to baseline with IV fluids.
+- **Lower Extremity Edema:** Developed near discharge, likely due to IVF, high-dose steroids, and holding home HCTZ.
+- **Thrush:** Treated with nystatin.
+
+**Medications on Admission:**
+- Nystatin, Prednisone, Acetaminophen with Codeine, Fluticasone, Hydrochlorothiazide, Cyclobenzaprine, Infliximab, Naproxen, Cetirizine, Lactaid
+
+**Discharge Medications:**
+- CycloSPORINE (Neoral), Acetaminophen with Codeine, Cetirizine, Nystatin, Fluticasone, PredniSONE, Sulfameth/Trimethoprim, Lactaid
+
+**Discharge Diagnosis:**
+- **Primary:** Crohn's flare
+- **Secondary:** Acute blood loss anemia, Acute kidney injury, Hypertension, Thrush
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Follow-up Instructions:**
+- Continue prednisone 40mg daily, tapering weekly
+- Continue Neoral 200mg PO BID
+- Hold infliximab
+- Labs: CBC, Chem 10, LFTs, cyclosporine level twice weekly
+- Follow-up with GI doctor for ongoing management and lab monitoring
+
+**Recommendations:**
+- Follow-up chest CT in one year for pulmonary nodules
+- Pelvic ultrasound in six weeks for hemorrhagic cyst
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Instructions:**
+- Patient to follow up closely with GI doctor and get labs drawn before morning cyclosporine dose.
