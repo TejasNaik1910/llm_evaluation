@@ -43,8 +43,9 @@ def extract_json(response):
     return json_str if json_str else None
 
 # List of note IDs
-note_ids = [ "10000935-DS-21"]#for testing code, uncomment below variable for full execution
-# note_ids = [
+# note_ids = [ "10000935-DS-21"]              #for testing code, uncomment below variable for full execution
+
+# note_ids_set1 = [
 #     "10000935-DS-21",
 #     "10000980-DS-23",
 #     "10001401-DS-20",
@@ -97,11 +98,27 @@ note_ids = [ "10000935-DS-21"]#for testing code, uncomment below variable for fu
 #     "10052992-DS-16"
 # ]
 
-# Process each note_id
-for note_id in note_ids:
+note_ids_set2 = [
+    "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
+    "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
+    "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
+    "10047172-DS-15", "10047172-DS-16", "10052992-DS-17", "10054464-DS-19",
+    "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
+    "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
+    "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
+    "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
+    "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
+    "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
+    "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
+    "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
+    "10036086-DS-25", "10098875-DS-12"
+]
+
+# Process each note_id in set1/set2
+for note_id in note_ids_set2:
     # Load the EHR note and summary content based on note_id
-    ehr_note_file = f'data/ehrs/oncology-report-{note_id}.txt'
-    summary_file = f'data/summaries/llama3/llama3-summary-{note_id}.txt'
+    ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
+    summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()
@@ -154,8 +171,7 @@ for note_id in note_ids:
         try:
             response_dict = json.loads(json_content)
             # Save the response
-            # output_file = f'single_prompts/annotations/gpt4o/{note_id}.json'
-            output_file = f'single_prompts/annotations/llama3/llama3-detections-{note_id}.json'
+            output_file = f'single_prompt/single-prompt-annotations/set2/llama3/{note_id}.json'       
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)
             print("Done")
@@ -163,4 +179,3 @@ for note_id in note_ids:
             print(f"Error decoding JSON for note {note_id}: {json_content}")
     else:
         print(f"No JSON found for note {note_id}: {response}")
-
