@@ -1,0 +1,90 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "40",
+            "startOffset": 69,
+            "endOffset": 71,
+            "startWordIndex": 10,
+            "endWordIndex": 11,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Stage III",
+            "startOffset": 164,
+            "endOffset": 173,
+            "startWordIndex": 25,
+            "endWordIndex": 27,
+            "omittedDetails": "Omitted woresening renal failure"
+        },
+        {
+            "text": "chronic kidney disease",
+            "startOffset": 140,
+            "endOffset": 162,
+            "startWordIndex": 22,
+            "endWordIndex": 25,
+            "omittedDetails": "Omitted lab results"
+        },
+        {
+            "text": "Physical Exam",
+            "startOffset": 828,
+            "endOffset": 841,
+            "startWordIndex": 113,
+            "endWordIndex": 115,
+            "omittedDetails": "Omitted exams and findings"
+        },
+        {
+            "text": "Laboratory Results",
+            "startOffset": 634,
+            "endOffset": 652,
+            "startWordIndex": 89,
+            "endWordIndex": 91,
+            "omittedDetails": "Omitted lab results"
+        },
+        {
+            "text": "Evaluation of infectious causes",
+            "startOffset": 442,
+            "endOffset": 473,
+            "startWordIndex": 59,
+            "endWordIndex": 63,
+            "omittedDetails": "Omitted findings"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "codeine",
+            "startOffset": 1274,
+            "endOffset": 1281,
+            "startWordIndex": 171,
+            "endWordIndex": 172,
+            "omittedDetails": "The more specific chemical is mentioned in the doc."
+        },
+        {
+            "text": "Crohn's disease",
+            "startOffset": 91,
+            "endOffset": 106,
+            "startWordIndex": 15,
+            "endWordIndex": 18,
+            "omittedDetails": "Omitted medication"
+        },
+        {
+            "text": "diabetes",
+            "startOffset": 126,
+            "endOffset": 134,
+            "startWordIndex": 20,
+            "endWordIndex": 21,
+            "omittedDetails": "Omitted treatment"
+        }
+    ],
+    "Omitted Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Suggested possible neuroendocrine tumor from the elevated chromogranin",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ]
+}

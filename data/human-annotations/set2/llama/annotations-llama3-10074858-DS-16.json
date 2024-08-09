@@ -1,0 +1,65 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Echocardiogram",
+            "startOffset": 914,
+            "endOffset": 928,
+            "startWordIndex": 132,
+            "endWordIndex": 133,
+            "omittedDetails": "It is mentioned in the patient record that the type of Echocardiogram is Transthoracic \"TTE\", However in the summary it is generalized."
+        },
+        {
+            "text": "(LLE) pain",
+            "startOffset": 239,
+            "endOffset": 249,
+            "startWordIndex": 35,
+            "endWordIndex": 37,
+            "omittedDetails": "A current symptom from this disease is omitted"
+        },
+        {
+            "text": "CTA",
+            "startOffset": 842,
+            "endOffset": 845,
+            "startWordIndex": 124,
+            "endWordIndex": 125,
+            "omittedDetails": "Some \"diseases\" diagnosed by \"CTA\" for chest are omitted."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "IVC filter",
+            "startOffset": 422,
+            "endOffset": 432,
+            "startWordIndex": 62,
+            "endWordIndex": 64,
+            "omittedDetails": "The 'Response\" of this procedure is omitted."
+        },
+        {
+            "text": "stable",
+            "startOffset": 1184,
+            "endOffset": 1190,
+            "startWordIndex": 168,
+            "endWordIndex": 169,
+            "omittedDetails": "A Vital Sign is omitted."
+        }
+    ],
+    "Omitted Patient History": [],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Omeprazole",
+            "startOffset": 1232,
+            "endOffset": 1242,
+            "startWordIndex": 174,
+            "endWordIndex": 175,
+            "omittedDetails": "Concentrations and doses of all medications mentioned are omitted."
+        },
+        {
+            "text": "lovenox",
+            "startOffset": 1694,
+            "endOffset": 1701,
+            "startWordIndex": 228,
+            "endWordIndex": 229,
+            "omittedDetails": "The duration of this medication in the Discharge instructions is omitted."
+        }
+    ]
+}

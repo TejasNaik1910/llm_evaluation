@@ -1,0 +1,167 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Vital signs",
+            "startOffset": 1194,
+            "endOffset": 1205,
+            "startWordIndex": 140,
+            "endWordIndex": 142,
+            "omittedDetails": "omitted vital signs"
+        },
+        {
+            "text": "vital signs",
+            "startOffset": 1388,
+            "endOffset": 1399,
+            "startWordIndex": 166,
+            "endWordIndex": 168,
+            "omittedDetails": "omitted vital signs"
+        },
+        {
+            "text": "Admission Labs",
+            "startOffset": 1543,
+            "endOffset": 1557,
+            "startWordIndex": 188,
+            "endWordIndex": 190,
+            "omittedDetails": "omitted admission labs"
+        },
+        {
+            "text": "Microbiology",
+            "startOffset": 1651,
+            "endOffset": 1663,
+            "startWordIndex": 205,
+            "endWordIndex": 206,
+            "omittedDetails": "omitted micro"
+        },
+        {
+            "text": "nephrostomy tube",
+            "startOffset": 1893,
+            "endOffset": 1909,
+            "startWordIndex": 233,
+            "endWordIndex": 235,
+            "omittedDetails": "percutaneous nephrostomy tract"
+        },
+        {
+            "text": "Admission Exam",
+            "startOffset": 1176,
+            "endOffset": 1190,
+            "startWordIndex": 138,
+            "endWordIndex": 140,
+            "omittedDetails": "some physical exams are missing with the findings"
+        },
+        {
+            "text": "Discharge Exam",
+            "startOffset": 1347,
+            "endOffset": 1361,
+            "startWordIndex": 161,
+            "endWordIndex": 163,
+            "omittedDetails": "some physical exams are missing with the findings"
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "clear lungs",
+            "startOffset": 1233,
+            "endOffset": 1244,
+            "startWordIndex": 146,
+            "endWordIndex": 148,
+            "omittedDetails": ""
+        },
+        {
+            "text": "diminished breath sounds at right base",
+            "startOffset": 1401,
+            "endOffset": 1439,
+            "startWordIndex": 168,
+            "endWordIndex": 174,
+            "omittedDetails": ""
+        },
+        {
+            "text": "mild tenderness at PCN site",
+            "startOffset": 1462,
+            "endOffset": 1489,
+            "startWordIndex": 177,
+            "endWordIndex": 182,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "no interpretation for admission labs were mentioned",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpretation for vital signs not mentioned",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "no interpretation for microbiology was mentioned",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "liver masses",
+            "startOffset": 1815,
+            "endOffset": 1827,
+            "startWordIndex": 224,
+            "endWordIndex": 226,
+            "omittedDetails": "echogenic liver masse"
+        },
+        {
+            "text": "embolization",
+            "startOffset": 1931,
+            "endOffset": 1943,
+            "startWordIndex": 238,
+            "endWordIndex": 239,
+            "omittedDetails": "partial embolization"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Managed with blood transfusion",
+            "startOffset": 2392,
+            "endOffset": 2422,
+            "startWordIndex": 292,
+            "endWordIndex": 296,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Follow-up with oncologist for further pain management and nephrostomy tube care",
+            "startOffset": 3388,
+            "endOffset": 3467,
+            "startWordIndex": 396,
+            "endWordIndex": 408,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Anemia",
+            "startOffset": 2334,
+            "endOffset": 2340,
+            "startWordIndex": 285,
+            "endWordIndex": 286,
+            "omittedDetails": "omitted medication"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Instructions",
+            "startOffset": 3215,
+            "endOffset": 3227,
+            "startWordIndex": 373,
+            "endWordIndex": 374,
+            "omittedDetails": "some discharge instructions are omitted"
+        }
+    ]
+}

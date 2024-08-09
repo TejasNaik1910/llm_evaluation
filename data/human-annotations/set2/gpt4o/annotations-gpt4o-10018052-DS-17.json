@@ -1,0 +1,49 @@
+{
+    "Omitted Patient History": [
+        {
+            "text": "Ascites",
+            "startOffset": 2244,
+            "endOffset": 2251,
+            "startWordIndex": 267,
+            "endWordIndex": 268,
+            "omittedDetails": "Some of the histroical labs mentioned in the EHR is omitted from the summary"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Microbiology",
+            "startOffset": 1977,
+            "endOffset": 1989,
+            "startWordIndex": 236,
+            "endWordIndex": 237,
+            "omittedDetails": "Some of the test and their findings mentioned in the EHR is omitted from the summary"
+        },
+        {
+            "text": "Hyperkalemia",
+            "startOffset": 2884,
+            "endOffset": 2896,
+            "startWordIndex": 348,
+            "endWordIndex": 349,
+            "omittedDetails": "Some of the labs mentioned in the EHR are omitted from the summary"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "RUQ ultrasound",
+            "startOffset": 2069,
+            "endOffset": 2083,
+            "startWordIndex": 247,
+            "endWordIndex": 249,
+            "omittedDetails": "Some of the findings mentioned in the EHR are omitted from the summary"
+        },
+        {
+            "text": "Abdominal Pain",
+            "startOffset": 2493,
+            "endOffset": 2507,
+            "startWordIndex": 298,
+            "endWordIndex": 300,
+            "omittedDetails": "Some of the symptoms, diagnosis and diagnostic procedures mentioned in the EHR are omitted from the summary"
+        }
+    ],
+    "Omitted Followup": []
+}

@@ -1,0 +1,41 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "\"presence of a posterior pharyngeal collection and a mass in the left neck suggests advanced disease\" advanced disease is not mentioned in the patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "\"suggests disease progression\" nothing was mentioned for disease progression",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Doxycycline ",
+            "startOffset": 779,
+            "endOffset": 791,
+            "startWordIndex": 118,
+            "endWordIndex": 119,
+            "omittedDetails": "Doxycycline Hyclate"
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "information",
+            "startOffset": 58,
+            "endOffset": 69,
+            "startWordIndex": 11,
+            "endWordIndex": 12,
+            "omittedDetails": "gender is omitted F"
+        }
+    ],
+    "Omitted Other Inconsistency": [],
+    "Omitted Patient History": [],
+    "Omitted Followup": []
+}

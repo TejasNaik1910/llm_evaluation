@@ -1,0 +1,33 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Metastatic renal cell carcinoma",
+            "startOffset": 1140,
+            "endOffset": 1171,
+            "startWordIndex": 134,
+            "endWordIndex": -1,
+            "omittedDetails": "Some of the symptoms mentioned under Metastatice renak cell carcinoma under breif hospital course in the EHR is omitted from the summary"
+        },
+        {
+            "text": "lung",
+            "startOffset": 369,
+            "endOffset": 373,
+            "startWordIndex": 49,
+            "endWordIndex": 50,
+            "omittedDetails": "specific location is mentioned in the EHR while generalized in the summary"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Metastatic",
+            "startOffset": 342,
+            "endOffset": 352,
+            "startWordIndex": 45,
+            "endWordIndex": 46,
+            "omittedDetails": "Some of the medications and instruction of adminstration mentioned under Brain Mets under breif hospital course in the EHR is omitted from the summary"
+        }
+    ],
+    "Omitted Followup": [],
+    "Omitted Patient History": [],
+    "Omitted Other Inconsistency": []
+}

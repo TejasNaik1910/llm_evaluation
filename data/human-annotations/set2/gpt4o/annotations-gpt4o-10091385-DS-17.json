@@ -1,0 +1,24 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "severe",
+            "startOffset": 773,
+            "endOffset": 779,
+            "startWordIndex": 99,
+            "endWordIndex": 100,
+            "omittedDetails": "acutely severe RUQ not sever "
+        }
+    ],
+    "Omitted Other Inconsistency": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary concluded from the \"Labs\" section that the patient had Elevated WBC, low RBC, low hemoglobin, low hematocrit, and elevated liver enzymes which are not mentioned directly in the patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Medicinal Instructions": [],
+    "Omitted Followup": []
+}

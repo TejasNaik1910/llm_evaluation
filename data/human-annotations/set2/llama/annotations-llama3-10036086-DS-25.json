@@ -1,0 +1,74 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "45",
+            "startOffset": 69,
+            "endOffset": 71,
+            "startWordIndex": 10,
+            "endWordIndex": 11,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "it",
+            "startOffset": 1070,
+            "endOffset": 1072,
+            "startWordIndex": 142,
+            "endWordIndex": 142,
+            "omittedDetails": "LOCATION OMITTED ."
+        },
+        {
+            "text": "Diagnoses",
+            "startOffset": 311,
+            "endOffset": 320,
+            "startWordIndex": 45,
+            "endWordIndex": 46,
+            "omittedDetails": "erythema over bilat malls abrasions over the anterior shin"
+        },
+        {
+            "text": "right leg showed ",
+            "startOffset": 1238,
+            "endOffset": 1255,
+            "startWordIndex": 162,
+            "endWordIndex": 165,
+            "omittedDetails": "Missing specified body location"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "n.",
+            "startOffset": 305,
+            "endOffset": 307,
+            "startWordIndex": 44,
+            "endWordIndex": 45,
+            "omittedDetails": "worsening is missing ."
+        },
+        {
+            "text": "dyspnea",
+            "startOffset": 287,
+            "endOffset": 294,
+            "startWordIndex": 42,
+            "endWordIndex": 43,
+            "omittedDetails": "progressive (response) missing"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "on",
+            "startOffset": 1214,
+            "endOffset": 1216,
+            "startWordIndex": 158,
+            "endWordIndex": 159,
+            "omittedDetails": "Diethylstilbestrol is omitted ."
+        },
+        {
+            "text": " diuretics ",
+            "startOffset": 725,
+            "endOffset": 736,
+            "startWordIndex": 96,
+            "endWordIndex": 97,
+            "omittedDetails": "Omitted medicinal instructions ."
+        }
+    ]
+}

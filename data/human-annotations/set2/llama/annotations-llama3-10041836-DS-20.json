@@ -1,0 +1,247 @@
+{
+    "Omitted Patient History": [
+        {
+            "text": "colon cancer ",
+            "startOffset": 102,
+            "endOffset": 115,
+            "startWordIndex": 16,
+            "endWordIndex": 18,
+            "omittedDetails": "generalized in summary and specified as primary colon cancer in document"
+        },
+        {
+            "text": "endometrial cancer",
+            "startOffset": 119,
+            "endOffset": 137,
+            "startWordIndex": 19,
+            "endWordIndex": 21,
+            "omittedDetails": "missing surgical procedure resection"
+        },
+        {
+            "text": " her leg",
+            "startOffset": 483,
+            "endOffset": 491,
+            "startWordIndex": 73,
+            "endWordIndex": 75,
+            "omittedDetails": "specified location below the knee is missing from summary"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "interpretated vital signs as normal while in medical record only values are mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "elevated INR interpretation in summary while in medical record only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "elevated potassium interpretation in summary while in medical record only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "elevated lactate levels interpretation in summary while in medical record only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "(pathology report suspected metastatic disease) while in medical record pathology not showing any details about metastasis",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "antibiotics",
+            "startOffset": 1169,
+            "endOffset": 1180,
+            "startWordIndex": 171,
+            "endWordIndex": 172,
+            "omittedDetails": "specified antibiotic taken not mentioned in summary"
+        },
+        {
+            "text": " Xeloda",
+            "startOffset": 156,
+            "endOffset": 163,
+            "startWordIndex": 23,
+            "endWordIndex": 24,
+            "omittedDetails": "missing duration of medication"
+        },
+        {
+            "text": "emergency department",
+            "startOffset": 578,
+            "endOffset": 598,
+            "startWordIndex": 90,
+            "endWordIndex": 92,
+            "omittedDetails": "missing treatment and doses given in ED"
+        },
+        {
+            "text": "(Percocet)",
+            "startOffset": 1291,
+            "endOffset": 1301,
+            "startWordIndex": 188,
+            "endWordIndex": 189,
+            "omittedDetails": "missing specified dose interval from summary"
+        },
+        {
+            "text": "Discharge",
+            "startOffset": 1454,
+            "endOffset": 1463,
+            "startWordIndex": 208,
+            "endWordIndex": 209,
+            "omittedDetails": "missing nifedipine with dosage from discharge medications"
+        },
+        {
+            "text": "paroxetine",
+            "startOffset": 1492,
+            "endOffset": 1502,
+            "startWordIndex": 211,
+            "endWordIndex": 212,
+            "omittedDetails": "specifically Paroxetine HCL"
+        },
+        {
+            "text": "bisacodyl,",
+            "startOffset": 1575,
+            "endOffset": 1585,
+            "startWordIndex": 219,
+            "endWordIndex": 220,
+            "omittedDetails": "missing intended use for this medication"
+        },
+        {
+            "text": " enoxaparin, ",
+            "startOffset": 1585,
+            "endOffset": 1598,
+            "startWordIndex": 220,
+            "endWordIndex": 221,
+            "omittedDetails": "missing specific instructions for use for this medication"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "normal vital signs",
+            "startOffset": 700,
+            "endOffset": 718,
+            "startWordIndex": 106,
+            "endWordIndex": 109,
+            "omittedDetails": "generalized vital signs while in medical record specific vital signs where measured with values"
+        },
+        {
+            "text": "urinary tract infection (UTI)",
+            "startOffset": 895,
+            "endOffset": 924,
+            "startWordIndex": 132,
+            "endWordIndex": 136,
+            "omittedDetails": "specific organism for UTI  from urinalysis not mentioned in summary"
+        },
+        {
+            "text": "Information",
+            "startOffset": 51,
+            "endOffset": 62,
+            "startWordIndex": 9,
+            "endWordIndex": 10,
+            "omittedDetails": "missing allergies section from summary"
+        },
+        {
+            "text": "ED",
+            "startOffset": 600,
+            "endOffset": 602,
+            "startWordIndex": 92,
+            "endWordIndex": 93,
+            "omittedDetails": "missing labs and results in ED"
+        },
+        {
+            "text": "Physical Exam",
+            "startOffset": 614,
+            "endOffset": 627,
+            "startWordIndex": 95,
+            "endWordIndex": 97,
+            "omittedDetails": "missing other physical exams with findings from summary"
+        },
+        {
+            "text": " elevated INR,",
+            "startOffset": 827,
+            "endOffset": 841,
+            "startWordIndex": 123,
+            "endWordIndex": 125,
+            "omittedDetails": "missing lab value from summary"
+        },
+        {
+            "text": "potassium",
+            "startOffset": 842,
+            "endOffset": 851,
+            "startWordIndex": 125,
+            "endWordIndex": 126,
+            "omittedDetails": "missing lab value from summary"
+        },
+        {
+            "text": " lactate levels",
+            "startOffset": 856,
+            "endOffset": 871,
+            "startWordIndex": 127,
+            "endWordIndex": 129,
+            "omittedDetails": "missing lab value from summary"
+        },
+        {
+            "text": "Laboratory results",
+            "startOffset": 804,
+            "endOffset": 822,
+            "startWordIndex": 120,
+            "endWordIndex": 122,
+            "omittedDetails": "missing other labs and their values from summary"
+        },
+        {
+            "text": "Uranalysis ",
+            "startOffset": 874,
+            "endOffset": 885,
+            "startWordIndex": 129,
+            "endWordIndex": 130,
+            "omittedDetails": "missing lab results from urineanalysis"
+        },
+        {
+            "text": " CT hip",
+            "startOffset": 926,
+            "endOffset": 933,
+            "startWordIndex": 136,
+            "endWordIndex": 138,
+            "omittedDetails": "missing other findings for CT hip"
+        },
+        {
+            "text": "Pertinent Results",
+            "startOffset": 780,
+            "endOffset": 797,
+            "startWordIndex": 118,
+            "endWordIndex": 120,
+            "omittedDetails": "missing some diagnostic procedures with findings from summary"
+        },
+        {
+            "text": "ORIF",
+            "startOffset": 1231,
+            "endOffset": 1235,
+            "startWordIndex": 178,
+            "endWordIndex": 179,
+            "omittedDetails": "missing symptoms from summary"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "left hip fracture",
+            "startOffset": 1244,
+            "endOffset": 1261,
+            "startWordIndex": 181,
+            "endWordIndex": 184,
+            "omittedDetails": "missing some related diagnostic procedures with findings "
+        }
+    ]
+}

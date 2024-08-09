@@ -1,0 +1,48 @@
+{
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "gemcitabine",
+            "startOffset": 1496,
+            "endOffset": 1507,
+            "startWordIndex": 192,
+            "endWordIndex": 193,
+            "omittedDetails": "gemcitabine 1000 mg/m2 NAB paclitaxel 125 + cycles details are missing"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "CT A/P",
+            "startOffset": 1412,
+            "endOffset": 1418,
+            "startWordIndex": 180,
+            "endWordIndex": 183,
+            "omittedDetails": "Some of the CT A/P findings are missing like having two ill-defined lesions were noted in the liver and some symptoms also found are not mentioned"
+        },
+        {
+            "text": "omental biopsy c",
+            "startOffset": 1435,
+            "endOffset": 1451,
+            "startWordIndex": 186,
+            "endWordIndex": 188,
+            "omittedDetails": "Some of the Omental biopsy  findings are missing"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "MRI Liver is a recommendation as found in the patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary concluded Laboratory results mild anemia and elevated CEA but this is not mentioned directly in the patient report",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Other Inconsistency": [],
+    "Omitted Followup": []
+}

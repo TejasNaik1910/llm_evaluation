@@ -1,0 +1,164 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "cramps",
+            "startOffset": 1064,
+            "endOffset": 1070,
+            "startWordIndex": 132,
+            "endWordIndex": 133,
+            "omittedDetails": "specific location her mid calf on the right is missing "
+        },
+        {
+            "text": "spasms",
+            "startOffset": 1075,
+            "endOffset": 1081,
+            "startWordIndex": 134,
+            "endWordIndex": 135,
+            "omittedDetails": "missing specific location in right thigh"
+        },
+        {
+            "text": " right trochanteric bursitis ",
+            "startOffset": 2324,
+            "endOffset": 2353,
+            "startWordIndex": 317,
+            "endWordIndex": 320,
+            "omittedDetails": "specific symptoms missing from summary"
+        },
+        {
+            "text": " right-sided varicose veins.",
+            "startOffset": 3296,
+            "endOffset": 3324,
+            "startWordIndex": 484,
+            "endWordIndex": 488,
+            "omittedDetails": "specific diagnostic procedure missing from summary"
+        },
+        {
+            "text": " anemia",
+            "startOffset": 3353,
+            "endOffset": 3360,
+            "startWordIndex": 491,
+            "endWordIndex": 492,
+            "omittedDetails": "normocytic"
+        },
+        {
+            "text": "Iron deficiency",
+            "startOffset": 3338,
+            "endOffset": 3353,
+            "startWordIndex": 489,
+            "endWordIndex": 491,
+            "omittedDetails": "diagnostic procedure colonoscopy and polyp biopsy missing from summary"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": " ED",
+            "startOffset": 1130,
+            "endOffset": 1133,
+            "startWordIndex": 142,
+            "endWordIndex": 143,
+            "omittedDetails": "vital signs in ED missing from summary"
+        },
+        {
+            "text": " Secondary",
+            "startOffset": 3326,
+            "endOffset": 3336,
+            "startWordIndex": 488,
+            "endWordIndex": 489,
+            "omittedDetails": "specific labs for anmeia and results missing from summary"
+        },
+        {
+            "text": " antiphospholipid antibody syndrome",
+            "startOffset": 3392,
+            "endOffset": 3427,
+            "startWordIndex": 498,
+            "endWordIndex": 501,
+            "omittedDetails": "specific labs missing from summary lupus anticoagulant"
+        },
+        {
+            "text": "deficiency.",
+            "startOffset": 3459,
+            "endOffset": 3470,
+            "startWordIndex": 505,
+            "endWordIndex": 506,
+            "omittedDetails": "vitamin D level missing from summary"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "under admission vitals Saturation is unit is interpreted by summary and not mentioned in the original document\t",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "under discharge vitals Saturation is unit is interpreted by summary and not mentioned in the original document\t",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": " tramadol ",
+            "startOffset": 2558,
+            "endOffset": 2568,
+            "startWordIndex": 346,
+            "endWordIndex": 347,
+            "omittedDetails": "specific frequency not mentioned in summary"
+        },
+        {
+            "text": "pain ",
+            "startOffset": 2572,
+            "endOffset": 2577,
+            "startWordIndex": 348,
+            "endWordIndex": 349,
+            "omittedDetails": "hydromorphone given for pain management and dose missing from summary"
+        },
+        {
+            "text": "subtherapeutic INR",
+            "startOffset": 3429,
+            "endOffset": 3447,
+            "startWordIndex": 501,
+            "endWordIndex": 503,
+            "omittedDetails": "treatment bridging and doses missing from summary"
+        },
+        {
+            "text": "vitamin D ",
+            "startOffset": 3449,
+            "endOffset": 3459,
+            "startWordIndex": 503,
+            "endWordIndex": 505,
+            "omittedDetails": "specific dose missing from summary"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Discharge",
+            "startOffset": 3209,
+            "endOffset": 3218,
+            "startWordIndex": 474,
+            "endWordIndex": 475,
+            "omittedDetails": "discharge condition is missing from summary"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "Postoperative anticoagulation was held",
+            "startOffset": 912,
+            "endOffset": 950,
+            "startWordIndex": 111,
+            "endWordIndex": 115,
+            "omittedDetails": "no extremity pain during this time is missing from summary"
+        },
+        {
+            "text": "hematoma.",
+            "startOffset": 900,
+            "endOffset": 909,
+            "startWordIndex": 110,
+            "endWordIndex": 111,
+            "omittedDetails": "u/s for dvt that was done and finding missing from summary"
+        }
+    ]
+}

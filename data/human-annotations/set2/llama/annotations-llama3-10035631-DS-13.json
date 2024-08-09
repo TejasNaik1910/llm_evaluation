@@ -1,0 +1,80 @@
+{
+    "Omitted Medicinal Instructions": [],
+    "Omitted Patient History": [
+        {
+            "text": "risk",
+            "startOffset": 390,
+            "endOffset": 394,
+            "startWordIndex": 52,
+            "endWordIndex": 53,
+            "omittedDetails": "missing rest of AML disease history"
+        },
+        {
+            "text": "seizure vs. syncope",
+            "startOffset": 492,
+            "endOffset": 511,
+            "startWordIndex": 64,
+            "endWordIndex": 67,
+            "omittedDetails": "missing holter,MRI,MRA,EEG all negative"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "interpreted vital signs as stable",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted no abnormalities for HEENT",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted normal cardiac exam",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Other Inconsistency": [],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "AML",
+            "startOffset": 395,
+            "endOffset": 398,
+            "startWordIndex": 53,
+            "endWordIndex": 54,
+            "omittedDetails": "missing FLT3/NPM1 neg "
+        },
+        {
+            "text": "no abnormalities",
+            "startOffset": 656,
+            "endOffset": 672,
+            "startWordIndex": 86,
+            "endWordIndex": 88,
+            "omittedDetails": "missing values for HEENT"
+        },
+        {
+            "text": "stable",
+            "startOffset": 562,
+            "endOffset": 568,
+            "startWordIndex": 73,
+            "endWordIndex": 74,
+            "omittedDetails": "missing vital signs values"
+        },
+        {
+            "text": "status post",
+            "startOffset": 400,
+            "endOffset": 411,
+            "startWordIndex": 54,
+            "endWordIndex": 56,
+            "omittedDetails": "missing currently in remission"
+        }
+    ],
+    "Omitted Followup": []
+}

@@ -1,0 +1,183 @@
+{
+    "Omitted Patient History": [
+        {
+            "text": "Colon cancer",
+            "startOffset": 1461,
+            "endOffset": 1473,
+            "startWordIndex": 212,
+            "endWordIndex": 214,
+            "omittedDetails": "specified primary colon cancer from summary not mentioned"
+        },
+        {
+            "text": "skin biopsy.",
+            "startOffset": 749,
+            "endOffset": 761,
+            "startWordIndex": 94,
+            "endWordIndex": 96,
+            "omittedDetails": "missing blood pressure cuff on her leg from history "
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "BP written with its value while in document BP is not mentioned only a value",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "HR written with its value in summary while in document BP is not mentioned only a value",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "RR written with its value while in document BP is not mentioned only a value",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "elevated INR interpretation in summary while in document only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "low potassium interpretation in summary while in document only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": " past three months.",
+            "startOffset": 1516,
+            "endOffset": 1535,
+            "startWordIndex": 221,
+            "endWordIndex": 224,
+            "omittedDetails": "specified dose duration is missing"
+        },
+        {
+            "text": "Treated",
+            "startOffset": 2674,
+            "endOffset": 2681,
+            "startWordIndex": 384,
+            "endWordIndex": 385,
+            "omittedDetails": "initial antibiotic treatment not mentioned in summary"
+        },
+        {
+            "text": " Percocet.",
+            "startOffset": 2837,
+            "endOffset": 2847,
+            "startWordIndex": 408,
+            "endWordIndex": 409,
+            "omittedDetails": "missing frequency interval from summary"
+        },
+        {
+            "text": " Megace.",
+            "startOffset": 2983,
+            "endOffset": 2991,
+            "startWordIndex": 428,
+            "endWordIndex": 429,
+            "omittedDetails": "missing specific dosage for Megace"
+        },
+        {
+            "text": "Nifedipine.",
+            "startOffset": 3127,
+            "endOffset": 3138,
+            "startWordIndex": 446,
+            "endWordIndex": 447,
+            "omittedDetails": "missing instructions about holding and resuming medication"
+        },
+        {
+            "text": "Paroxetine",
+            "startOffset": 3315,
+            "endOffset": 3325,
+            "startWordIndex": 463,
+            "endWordIndex": 464,
+            "omittedDetails": "specifically Paroxetine HCL"
+        },
+        {
+            "text": " Bisacodyl, ",
+            "startOffset": 3397,
+            "endOffset": 3409,
+            "startWordIndex": 471,
+            "endWordIndex": 472,
+            "omittedDetails": "missing intended use for this medication"
+        },
+        {
+            "text": " Warfarin",
+            "startOffset": 3466,
+            "endOffset": 3475,
+            "startWordIndex": 477,
+            "endWordIndex": 478,
+            "omittedDetails": "missing specific instructions for use for this medication"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Neurological",
+            "startOffset": 2120,
+            "endOffset": 2132,
+            "startWordIndex": 304,
+            "endWordIndex": 305,
+            "omittedDetails": "missing other findings from physical exam"
+        },
+        {
+            "text": "Results",
+            "startOffset": 2313,
+            "endOffset": 2320,
+            "startWordIndex": 331,
+            "endWordIndex": 332,
+            "omittedDetails": "missing other lab tests with their results from summary"
+        },
+        {
+            "text": "Hypertension",
+            "startOffset": 3085,
+            "endOffset": 3097,
+            "startWordIndex": 441,
+            "endWordIndex": 442,
+            "omittedDetails": "missing BP status"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": " femoral neck",
+            "startOffset": 2512,
+            "endOffset": 2525,
+            "startWordIndex": 362,
+            "endWordIndex": 364,
+            "omittedDetails": "missing specific location from summary"
+        },
+        {
+            "text": " left femur.",
+            "startOffset": 2567,
+            "endOffset": 2579,
+            "startWordIndex": 370,
+            "endWordIndex": 372,
+            "omittedDetails": "missing specific location from summary"
+        },
+        {
+            "text": " metastatic deposits",
+            "startOffset": 2540,
+            "endOffset": 2560,
+            "startWordIndex": 366,
+            "endWordIndex": 368,
+            "omittedDetails": "specifically smaller metastatic marrow deposits"
+        },
+        {
+            "text": " Likely lung metastases.",
+            "startOffset": 2872,
+            "endOffset": 2896,
+            "startWordIndex": 411,
+            "endWordIndex": 414,
+            "omittedDetails": "missing CXR diagnostic procedure from summary"
+        }
+    ]
+}

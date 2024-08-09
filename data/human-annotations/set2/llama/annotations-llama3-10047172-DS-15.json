@@ -1,0 +1,261 @@
+{
+    "Omitted Followup": [
+        {
+            "text": "follow-up appointments",
+            "startOffset": 1061,
+            "endOffset": 1083,
+            "startWordIndex": 139,
+            "endWordIndex": 142,
+            "omittedDetails": "general appointments while in document specified follow up with oncologist"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "interpreted elevated CEA in summary while in medical document only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted low sodium level in summary while in medical document only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted abnormal cbc count in summary while in medical document only values of these labs are mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": " stent placement",
+            "startOffset": 924,
+            "endOffset": 940,
+            "startWordIndex": 118,
+            "endWordIndex": 120,
+            "omittedDetails": "specified procedure of metal stent repositioning is not mentioned"
+        },
+        {
+            "text": "MRI scans",
+            "startOffset": 717,
+            "endOffset": 726,
+            "startWordIndex": 91,
+            "endWordIndex": 93,
+            "omittedDetails": "specified MRI Liver was not mentioned and generalized as MRI scan"
+        },
+        {
+            "text": " biliary obstruction",
+            "startOffset": 838,
+            "endOffset": 858,
+            "startWordIndex": 108,
+            "endWordIndex": 110,
+            "omittedDetails": "missing symptoms from summary"
+        },
+        {
+            "text": "removal of plastic stent",
+            "startOffset": 946,
+            "endOffset": 970,
+            "startWordIndex": 121,
+            "endWordIndex": 125,
+            "omittedDetails": "specific location for plastic stent removal not mentioned"
+        },
+        {
+            "text": " ERCP",
+            "startOffset": 915,
+            "endOffset": 920,
+            "startWordIndex": 116,
+            "endWordIndex": 117,
+            "omittedDetails": "specific procedures done within ERCP not mentioned"
+        },
+        {
+            "text": "biliary ductal dilation",
+            "startOffset": 1741,
+            "endOffset": 1764,
+            "startWordIndex": 224,
+            "endWordIndex": 227,
+            "omittedDetails": "missing that its in the left hepatic dome"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "complete blood count (CBC)\n",
+            "startOffset": 1415,
+            "endOffset": 1442,
+            "startWordIndex": 177,
+            "endWordIndex": 181,
+            "omittedDetails": "stated as a whole cbc while in medical document specified cbc tests that were done"
+        },
+        {
+            "text": " Information",
+            "startOffset": 50,
+            "endOffset": 62,
+            "startWordIndex": 9,
+            "endWordIndex": 10,
+            "omittedDetails": "missing allergies section from summary"
+        },
+        {
+            "text": "Patient ",
+            "startOffset": 43,
+            "endOffset": 51,
+            "startWordIndex": 8,
+            "endWordIndex": 9,
+            "omittedDetails": "missing family history section from summary"
+        },
+        {
+            "text": " Admission",
+            "startOffset": 738,
+            "endOffset": 748,
+            "startWordIndex": 94,
+            "endWordIndex": 95,
+            "omittedDetails": "whole physical exams section is missing"
+        },
+        {
+            "text": " fever",
+            "startOffset": 767,
+            "endOffset": 773,
+            "startWordIndex": 97,
+            "endWordIndex": 98,
+            "omittedDetails": "missing specific temperature"
+        },
+        {
+            "text": "Admitted ",
+            "startOffset": 755,
+            "endOffset": 764,
+            "startWordIndex": 95,
+            "endWordIndex": 96,
+            "omittedDetails": "vital signs and labs with results in clinic are missing"
+        },
+        {
+            "text": "Klebsiella",
+            "startOffset": 875,
+            "endOffset": 885,
+            "startWordIndex": 112,
+            "endWordIndex": 113,
+            "omittedDetails": "culture sensitivity missing from summary"
+        },
+        {
+            "text": "Lab Results",
+            "startOffset": 1277,
+            "endOffset": 1288,
+            "startWordIndex": 157,
+            "endWordIndex": 159,
+            "omittedDetails": "missing some labs and their results from summary"
+        },
+        {
+            "text": "Elevated liver function tests (LFTs)",
+            "startOffset": 1295,
+            "endOffset": 1331,
+            "startWordIndex": 159,
+            "endWordIndex": 164,
+            "omittedDetails": "missing specific labs and their values from summary"
+        },
+        {
+            "text": " CEA and CA 19-9",
+            "startOffset": 1342,
+            "endOffset": 1358,
+            "startWordIndex": 165,
+            "endWordIndex": 170,
+            "omittedDetails": "missing result values from summary"
+        },
+        {
+            "text": "sodium levels",
+            "startOffset": 1365,
+            "endOffset": 1378,
+            "startWordIndex": 171,
+            "endWordIndex": 173,
+            "omittedDetails": "missing result value from summary"
+        },
+        {
+            "text": " lactate levels",
+            "startOffset": 1389,
+            "endOffset": 1404,
+            "startWordIndex": 174,
+            "endWordIndex": 176,
+            "omittedDetails": "missing result value from summary"
+        },
+        {
+            "text": "metastatic to the liver",
+            "startOffset": 26,
+            "endOffset": 49,
+            "startWordIndex": 6,
+            "endWordIndex": 8,
+            "omittedDetails": "missing specificbiomarker results from summary"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "metastases",
+            "startOffset": 1525,
+            "endOffset": 1535,
+            "startWordIndex": 192,
+            "endWordIndex": 193,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "2.4cm hemorrhagic cyst",
+            "startOffset": 478,
+            "endOffset": 500,
+            "startWordIndex": 61,
+            "endWordIndex": 65,
+            "omittedDetails": "missing diagnostic procedure MRI from summary"
+        },
+        {
+            "text": " pancreatic adenocarcinoma ",
+            "startOffset": 541,
+            "endOffset": 568,
+            "startWordIndex": 69,
+            "endWordIndex": 71,
+            "omittedDetails": "missing FNA from history with findings"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "FOLFIRINOX,",
+            "startOffset": 631,
+            "endOffset": 642,
+            "startWordIndex": 81,
+            "endWordIndex": 82,
+            "omittedDetails": "specific cycles not mentioned"
+        },
+        {
+            "text": "modified FOLFIRINOX",
+            "startOffset": 669,
+            "endOffset": 688,
+            "startWordIndex": 85,
+            "endWordIndex": 87,
+            "omittedDetails": "specific medications held from regimen not mentioned in summary"
+        },
+        {
+            "text": "zosyn ",
+            "startOffset": 984,
+            "endOffset": 990,
+            "startWordIndex": 127,
+            "endWordIndex": 128,
+            "omittedDetails": "missing dose and route of administration from summary"
+        },
+        {
+            "text": " bacteremia",
+            "startOffset": 862,
+            "endOffset": 873,
+            "startWordIndex": 111,
+            "endWordIndex": 112,
+            "omittedDetails": "previous antibiotics used are missing from summary"
+        },
+        {
+            "text": "Amlodipine",
+            "startOffset": 1106,
+            "endOffset": 1116,
+            "startWordIndex": 143,
+            "endWordIndex": 144,
+            "omittedDetails": "missing doses for all medications mentioned in summary"
+        }
+    ]
+}

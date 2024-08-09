@@ -1,0 +1,283 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "In the summary it's interpreted that the vitals are stable which is not mentioned in the EHR. ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Lab findings are mentioned in the EHR with no interpretation while interpreted in the summary.\n\n\n\n\n\n",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpretation of hgb level as mild anemia while in medical record only the value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "extremities",
+            "startOffset": 1848,
+            "endOffset": 1859,
+            "startWordIndex": 232,
+            "endWordIndex": 233,
+            "omittedDetails": "It does not mention the exact location in the summary, while it is mentioned in the EHR."
+        },
+        {
+            "text": "surgery was recommended",
+            "startOffset": 1051,
+            "endOffset": 1074,
+            "startWordIndex": 126,
+            "endWordIndex": 129,
+            "omittedDetails": "Reason behind the surgery is omitted."
+        },
+        {
+            "text": "subsegmental atelectasis",
+            "startOffset": 2032,
+            "endOffset": 2056,
+            "startWordIndex": 254,
+            "endWordIndex": 256,
+            "omittedDetails": "The Exact locations were omitted."
+        },
+        {
+            "text": "(CABG) x 4",
+            "startOffset": 463,
+            "endOffset": 473,
+            "startWordIndex": 48,
+            "endWordIndex": 51,
+            "omittedDetails": "missing details from surgical procedure"
+        },
+        {
+            "text": "nodule",
+            "startOffset": 2228,
+            "endOffset": 2234,
+            "startWordIndex": 276,
+            "endWordIndex": 277,
+            "omittedDetails": "specific nodule size missing from summary"
+        },
+        {
+            "text": "extubation",
+            "startOffset": 2438,
+            "endOffset": 2448,
+            "startWordIndex": 301,
+            "endWordIndex": 302,
+            "omittedDetails": "requiring face mask missing from summary"
+        },
+        {
+            "text": " delirium",
+            "startOffset": 2503,
+            "endOffset": 2512,
+            "startWordIndex": 310,
+            "endWordIndex": 311,
+            "omittedDetails": "other symptoms missing agitation and confusion"
+        },
+        {
+            "text": "Developed acute ",
+            "startOffset": 2543,
+            "endOffset": 2559,
+            "startWordIndex": 316,
+            "endWordIndex": 318,
+            "omittedDetails": "hypoxia and increasing oxygen requirements missing from summary"
+        },
+        {
+            "text": "Transitioned ",
+            "startOffset": 2607,
+            "endOffset": 2620,
+            "startWordIndex": 324,
+            "endWordIndex": 325,
+            "omittedDetails": "chest tubes and epicardial wires removal before transitioned"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "mild anemia",
+            "startOffset": 1987,
+            "endOffset": 1998,
+            "startWordIndex": 247,
+            "endWordIndex": 249,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Physical ",
+            "startOffset": 1408,
+            "endOffset": 1417,
+            "startWordIndex": 168,
+            "endWordIndex": 169,
+            "omittedDetails": "Some Physical exams with findings were omitted."
+        },
+        {
+            "text": "vitals",
+            "startOffset": 1753,
+            "endOffset": 1759,
+            "startWordIndex": 219,
+            "endWordIndex": 220,
+            "omittedDetails": "The Exact vitals were omitted."
+        },
+        {
+            "text": "Examination",
+            "startOffset": 1729,
+            "endOffset": 1740,
+            "startWordIndex": 217,
+            "endWordIndex": 218,
+            "omittedDetails": "Some details/exams were omitted"
+        },
+        {
+            "text": "Labs",
+            "startOffset": 1913,
+            "endOffset": 1917,
+            "startWordIndex": 238,
+            "endWordIndex": 239,
+            "omittedDetails": "Most of the labs with their findings were omitted in the summary."
+        },
+        {
+            "text": "Hospital",
+            "startOffset": 2259,
+            "endOffset": 2267,
+            "startWordIndex": 280,
+            "endWordIndex": 281,
+            "omittedDetails": "Responses/outcomes that falls under Brief Hospital Course and their details were omitted from the summary."
+        },
+        {
+            "text": "Abdomen",
+            "startOffset": 1606,
+            "endOffset": 1613,
+            "startWordIndex": 201,
+            "endWordIndex": 202,
+            "omittedDetails": "bowel sounds physical exam missing"
+        },
+        {
+            "text": " Elevated glucose,",
+            "startOffset": 1920,
+            "endOffset": 1938,
+            "startWordIndex": 239,
+            "endWordIndex": 241,
+            "omittedDetails": "lab value missing from summary"
+        },
+        {
+            "text": "urea nitrogen",
+            "startOffset": 1939,
+            "endOffset": 1952,
+            "startWordIndex": 241,
+            "endWordIndex": 243,
+            "omittedDetails": "lab value missing from summary"
+        },
+        {
+            "text": "creatinine, ",
+            "startOffset": 1954,
+            "endOffset": 1966,
+            "startWordIndex": 243,
+            "endWordIndex": 244,
+            "omittedDetails": "lab value missing from summary"
+        },
+        {
+            "text": "troponin levels",
+            "startOffset": 1970,
+            "endOffset": 1985,
+            "startWordIndex": 245,
+            "endWordIndex": 247,
+            "omittedDetails": "lab value missing from summary"
+        },
+        {
+            "text": "no malignancy",
+            "startOffset": 2236,
+            "endOffset": 2249,
+            "startWordIndex": 277,
+            "endWordIndex": 279,
+            "omittedDetails": "missing biomarkers done and results"
+        },
+        {
+            "text": "LV Mass",
+            "startOffset": 2177,
+            "endOffset": 2184,
+            "startWordIndex": 270,
+            "endWordIndex": 272,
+            "omittedDetails": "missing gram stain and results from summary"
+        },
+        {
+            "text": " Haldol. ",
+            "startOffset": 2534,
+            "endOffset": 2543,
+            "startWordIndex": 315,
+            "endWordIndex": 316,
+            "omittedDetails": "improving delirium response is missing from summary"
+        },
+        {
+            "text": "day six,",
+            "startOffset": 2650,
+            "endOffset": 2658,
+            "startWordIndex": 330,
+            "endWordIndex": 332,
+            "omittedDetails": "oxygen requirement and creatinine improvement "
+        },
+        {
+            "text": "acute rehab ",
+            "startOffset": 2694,
+            "endOffset": 2706,
+            "startWordIndex": 337,
+            "endWordIndex": 339,
+            "omittedDetails": "physical and occupational therapy missing from summary"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "incisional pain managed",
+            "startOffset": 3787,
+            "endOffset": 3810,
+            "startWordIndex": 451,
+            "endWordIndex": 454,
+            "omittedDetails": "specifically with acetaminophen missing from summary "
+        },
+        {
+            "text": "Albuterol Inhaler",
+            "startOffset": 2901,
+            "endOffset": 2918,
+            "startWordIndex": 357,
+            "endWordIndex": 359,
+            "omittedDetails": "intended use is missing from summary"
+        },
+        {
+            "text": " Bisacodyl",
+            "startOffset": 2957,
+            "endOffset": 2967,
+            "startWordIndex": 363,
+            "endWordIndex": 364,
+            "omittedDetails": "intended use is missing from summary"
+        },
+        {
+            "text": "Heparin",
+            "startOffset": 3017,
+            "endOffset": 3024,
+            "startWordIndex": 368,
+            "endWordIndex": 369,
+            "omittedDetails": "specific use instructions missing from summary"
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "startOffset": 3111,
+            "endOffset": 3130,
+            "startWordIndex": 377,
+            "endWordIndex": 379,
+            "omittedDetails": "intended use is missing from summary"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Discharge Condition",
+            "startOffset": 3714,
+            "endOffset": 3733,
+            "startWordIndex": 443,
+            "endWordIndex": 445,
+            "omittedDetails": "some details from discharge condition are missing from summary"
+        }
+    ]
+}

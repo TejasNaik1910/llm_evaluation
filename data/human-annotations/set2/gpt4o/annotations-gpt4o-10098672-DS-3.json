@@ -1,0 +1,130 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "resections",
+            "startOffset": 550,
+            "endOffset": 560,
+            "startWordIndex": 64,
+            "endWordIndex": 65,
+            "omittedDetails": "Omitted procedure"
+        },
+        {
+            "text": "imaging studies",
+            "startOffset": 942,
+            "endOffset": 957,
+            "startWordIndex": 124,
+            "endWordIndex": 126,
+            "omittedDetails": "Omitted the specific procedure"
+        },
+        {
+            "text": "biopsies",
+            "startOffset": 2566,
+            "endOffset": 2574,
+            "startWordIndex": 351,
+            "endWordIndex": 352,
+            "omittedDetails": "Omitted locations"
+        }
+    ],
+    "Omitted Patient History": [
+        {
+            "text": "history",
+            "startOffset": 627,
+            "endOffset": 634,
+            "startWordIndex": 75,
+            "endWordIndex": 76,
+            "omittedDetails": "Omitted some patient history"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Crohn's",
+            "startOffset": 1140,
+            "endOffset": 1147,
+            "startWordIndex": 148,
+            "endWordIndex": 150,
+            "omittedDetails": "Omitted treatment"
+        },
+        {
+            "text": "IVF",
+            "startOffset": 853,
+            "endOffset": 856,
+            "startWordIndex": 111,
+            "endWordIndex": 112,
+            "omittedDetails": "Omitted dosage instruction"
+        },
+        {
+            "text": "codeine",
+            "startOffset": 3505,
+            "endOffset": 3512,
+            "startWordIndex": 463,
+            "endWordIndex": 464,
+            "omittedDetails": "Omitted the specific ingredient"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "evaluations for infectious causes",
+            "startOffset": 889,
+            "endOffset": 922,
+            "startWordIndex": 117,
+            "endWordIndex": 121,
+            "omittedDetails": "Omitted findings"
+        },
+        {
+            "text": "chromogranin",
+            "startOffset": 1004,
+            "endOffset": 1016,
+            "startWordIndex": 131,
+            "endWordIndex": 132,
+            "omittedDetails": "Omitted result"
+        },
+        {
+            "text": "noted",
+            "startOffset": 1029,
+            "endOffset": 1034,
+            "startWordIndex": 134,
+            "endWordIndex": 135,
+            "omittedDetails": "Omitted some lab results"
+        },
+        {
+            "text": "Physical Exam",
+            "startOffset": 1701,
+            "endOffset": 1714,
+            "startWordIndex": 224,
+            "endWordIndex": 226,
+            "omittedDetails": "Omitted some findings"
+        },
+        {
+            "text": "Pertinent Results",
+            "startOffset": 2042,
+            "endOffset": 2059,
+            "startWordIndex": 278,
+            "endWordIndex": 280,
+            "omittedDetails": "Omitted lab results"
+        },
+        {
+            "text": "dietary modifications",
+            "startOffset": 2640,
+            "endOffset": 2661,
+            "startWordIndex": 361,
+            "endWordIndex": 363,
+            "omittedDetails": "Omitted details"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Suggested that the elevated chromogranin level could be due to a possible neuroendocrine cause, despite not being mentioned in the document.  ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Lab findings got interpreted from the numeric values mentioned in the document.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ]
+}

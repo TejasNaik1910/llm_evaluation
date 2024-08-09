@@ -1,0 +1,74 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Laboratory",
+            "startOffset": 749,
+            "endOffset": 759,
+            "startWordIndex": 96,
+            "endWordIndex": 97,
+            "omittedDetails": "Some of the admission labs and their findings are omitted from the summary"
+        },
+        {
+            "text": "results",
+            "startOffset": 760,
+            "endOffset": 767,
+            "startWordIndex": 97,
+            "endWordIndex": 98,
+            "omittedDetails": "Some of the discharge labs and their findings are omitted from the summary"
+        },
+        {
+            "text": "loss",
+            "startOffset": 1478,
+            "endOffset": 1482,
+            "startWordIndex": 201,
+            "endWordIndex": 202,
+            "omittedDetails": "Anemia is mentioned under Brief Hospital course in the EHR and some of the labs are omitted from the summary"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Systolic dysfunction (EF 35%)",
+            "startOffset": 281,
+            "endOffset": 310,
+            "startWordIndex": 41,
+            "endWordIndex": 45,
+            "omittedDetails": "Systolic Heart Failure is mentioned under Brief Hospital course in the EHR and some of the symptoms  are omitted from the summary"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Chronic atrial fibrillation",
+            "startOffset": 313,
+            "endOffset": 340,
+            "startWordIndex": 45,
+            "endWordIndex": 48,
+            "omittedDetails": "Chronic atrial fibrillation is mentioned under Brief Hospital course in the EHR and some of the medications instructions are omitted from the summary"
+        },
+        {
+            "text": "Coronary Artery Disease (CAD) with bare metal stents",
+            "startOffset": 226,
+            "endOffset": 278,
+            "startWordIndex": 33,
+            "endWordIndex": 41,
+            "omittedDetails": "CAD is mentioned under Brief Hospital course in the EHR and some of the Medications instructions are omitted from the summary"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Primary diagnosis",
+            "startOffset": 1447,
+            "endOffset": 1464,
+            "startWordIndex": 197,
+            "endWordIndex": 199,
+            "omittedDetails": "One of the primary discharge diagnosis is omitted from the summary"
+        },
+        {
+            "text": "other concerning symptoms",
+            "startOffset": 1955,
+            "endOffset": 1980,
+            "startWordIndex": 268,
+            "endWordIndex": 271,
+            "omittedDetails": "Other concerning symptoms are mentioned in detail in the EHR and generalized in the summary"
+        }
+    ]
+}

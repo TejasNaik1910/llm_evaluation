@@ -1,0 +1,154 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "The Summary concludes that blood tests showed \"Mild Abnormalities\" without any evidence from the patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary interpreted the units for the patient's vitals whereas they were not mentioned in the medical record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "back pain",
+            "startOffset": 934,
+            "endOffset": 943,
+            "startWordIndex": 121,
+            "endWordIndex": 123,
+            "omittedDetails": "The Medication that caused this Disease is omitted."
+        },
+        {
+            "text": "Aggressive bowel regimen",
+            "startOffset": 2199,
+            "endOffset": 2223,
+            "startWordIndex": 289,
+            "endWordIndex": 292,
+            "omittedDetails": "The medication used in this process is omitted."
+        },
+        {
+            "text": "metoprolol",
+            "startOffset": 2430,
+            "endOffset": 2440,
+            "startWordIndex": 320,
+            "endWordIndex": 321,
+            "omittedDetails": "The Concentration of Metoprolol  and its dose are omitted."
+        },
+        {
+            "text": "Creon",
+            "startOffset": 2670,
+            "endOffset": 2675,
+            "startWordIndex": 343,
+            "endWordIndex": 344,
+            "omittedDetails": "concentrations and doses of all Medications on admission mentioned are omitted."
+        },
+        {
+            "text": "rimary Mediastinal Lymphoma",
+            "startOffset": 1997,
+            "endOffset": 2024,
+            "startWordIndex": 256,
+            "endWordIndex": 259,
+            "omittedDetails": "Missing medicinal info regarding this disease"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "edema",
+            "startOffset": 1719,
+            "endOffset": 1724,
+            "startWordIndex": 219,
+            "endWordIndex": 220,
+            "omittedDetails": "No edema in extremities"
+        },
+        {
+            "text": "Pancreatic Pseudocyst",
+            "startOffset": 2504,
+            "endOffset": 2525,
+            "startWordIndex": 327,
+            "endWordIndex": 329,
+            "omittedDetails": "not currently symptomatic"
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "WBC",
+            "startOffset": 1922,
+            "endOffset": 1925,
+            "startWordIndex": 245,
+            "endWordIndex": 246,
+            "omittedDetails": "The values of the lab tests mentioned in the summary are omitted."
+        },
+        {
+            "text": "Review of Systems",
+            "startOffset": 1038,
+            "endOffset": 1055,
+            "startWordIndex": 132,
+            "endWordIndex": 135,
+            "omittedDetails": "10 point ROS missing"
+        },
+        {
+            "text": "Neurological:",
+            "startOffset": 1728,
+            "endOffset": 1741,
+            "startWordIndex": 220,
+            "endWordIndex": 221,
+            "omittedDetails": "Missing neurological findings"
+        },
+        {
+            "text": "Respiratory",
+            "startOffset": 1564,
+            "endOffset": 1575,
+            "startWordIndex": 201,
+            "endWordIndex": 202,
+            "omittedDetails": "Missing findings"
+        },
+        {
+            "text": "Cardiovascular",
+            "startOffset": 1493,
+            "endOffset": 1507,
+            "startWordIndex": 193,
+            "endWordIndex": 194,
+            "omittedDetails": "Missing findings"
+        },
+        {
+            "text": "Physical Exam",
+            "startOffset": 1358,
+            "endOffset": 1371,
+            "startWordIndex": 170,
+            "endWordIndex": 172,
+            "omittedDetails": "Missing a PE (ENT)"
+        },
+        {
+            "text": " tests",
+            "startOffset": 1886,
+            "endOffset": 1892,
+            "startWordIndex": 240,
+            "endWordIndex": 241,
+            "omittedDetails": "Missing whole tests with their values"
+        },
+        {
+            "text": "Arrhythmia",
+            "startOffset": 2355,
+            "endOffset": 2365,
+            "startWordIndex": 310,
+            "endWordIndex": 311,
+            "omittedDetails": "Missing normal HR"
+        }
+    ],
+    "Omitted Followup": [
+        {
+            "text": "Discharge Instructions",
+            "startOffset": 3267,
+            "endOffset": 3289,
+            "startWordIndex": 403,
+            "endWordIndex": 405,
+            "omittedDetails": "port placed and was well tolerated"
+        }
+    ]
+}

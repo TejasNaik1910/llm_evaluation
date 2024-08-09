@@ -1,0 +1,77 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "She was given diphenhydramine, famotidine and methylprednisolone for Her allergic reaction/angioedema, though this was not continued given her history of DM1 and likely septic joint not treated by them as mentioned in the summary.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary concluded that the patient was afebrile on arrival from her vital signs findings and that is not mentioned in the patient record directly, they only mentioned her temperature.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary concluded that the patient was normotensive on arrival from her vital signs findings and that is not mentioned in the patient record directly, they only mentioned her BP.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary concluded that the patient had elevated WBCs, neutrophils, and CRP with thrombocytopenia from her labs and that is not mentioned in the patient record directly, they only mentioned her results without any interpretations.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "She was given diphenhydramine, famotidine and methylprednisolone for Her allergic reaction/angioedema, though this was not continued given her history of DM1 and likely septic joint not managed by them as mentioned in the summary.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "myocardial infarctions",
+            "startOffset": 2054,
+            "endOffset": 2076,
+            "startWordIndex": 270,
+            "endWordIndex": 272,
+            "omittedDetails": "Inferior wall myocardial infarction as mentioned in the patient record"
+        },
+        {
+            "text": "Other Conditions",
+            "startOffset": 3008,
+            "endOffset": 3024,
+            "startWordIndex": 389,
+            "endWordIndex": 391,
+            "omittedDetails": "These conditions were not mentioned like CAD, Gout, Atrial fibrillation, Hypothyroidism and more which are mentioned in the patient record"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "antihistamines ",
+            "startOffset": 2528,
+            "endOffset": 2543,
+            "startWordIndex": 332,
+            "endWordIndex": 333,
+            "omittedDetails": "diphenhydramine, famotidine and methylprednisolone"
+        },
+        {
+            "text": "adjustments",
+            "startOffset": 2940,
+            "endOffset": 2951,
+            "startWordIndex": 381,
+            "endWordIndex": 382,
+            "omittedDetails": "NPH was increased to 12 units qAM"
+        }
+    ],
+    "Omitted Other Inconsistency": [],
+    "Omitted Followup": []
+}

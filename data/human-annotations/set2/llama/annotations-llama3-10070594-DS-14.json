@@ -1,0 +1,53 @@
+{
+    "Incorrect Patient History": [
+        {
+            "text": "history of weight loss,",
+            "startOffset": 369,
+            "endOffset": 392,
+            "startWordIndex": 57,
+            "endWordIndex": 61,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Patient Information": [
+        {
+            "text": "patient ",
+            "startOffset": 460,
+            "endOffset": 468,
+            "startWordIndex": 69,
+            "endWordIndex": 70,
+            "omittedDetails": "In the EHR it is mentioned that the patient is male, while in the summary no gender is mentioned."
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Present ",
+            "startOffset": 173,
+            "endOffset": 181,
+            "startWordIndex": 26,
+            "endWordIndex": 27,
+            "omittedDetails": "Vitals and lab tests and their findings were omitted from the summary."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "which showed a grade 2 neuroendocrine tumor",
+            "startOffset": 494,
+            "endOffset": 537,
+            "startWordIndex": 74,
+            "endWordIndex": 81,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Followup": [],
+    "Incorrect Followup": [
+        {
+            "text": "The patient was instructed to follow up with his oncologist and primary care physician,",
+            "startOffset": 1309,
+            "endOffset": 1396,
+            "startWordIndex": 182,
+            "endWordIndex": 196,
+            "omittedDetails": ""
+        }
+    ]
+}

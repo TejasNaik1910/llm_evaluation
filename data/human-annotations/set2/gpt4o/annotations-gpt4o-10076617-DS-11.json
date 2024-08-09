@@ -1,0 +1,67 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "In the summary it is mentioned that vital signs are \"Stable\" with no evidence for it in the patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary concludes that the WBCs are \"Elevated\" and Hemoglobin is \"low\" without any evidence from patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Other Inconsistency": [
+        {
+            "text": "Vital signs",
+            "startOffset": 1923,
+            "endOffset": 1934,
+            "startWordIndex": 265,
+            "endWordIndex": 267,
+            "omittedDetails": "In the patient record the vitals signs on admission is mentioned specifically while in the summary it is written only \"vital signs\""
+        },
+        {
+            "text": "- ",
+            "startOffset": 2057,
+            "endOffset": 2059,
+            "startWordIndex": 286,
+            "endWordIndex": 286,
+            "omittedDetails": "Some discharge Physical Exams are omitted."
+        },
+        {
+            "text": "*\n",
+            "startOffset": 2671,
+            "endOffset": 2673,
+            "startWordIndex": 366,
+            "endWordIndex": 366,
+            "omittedDetails": "UA lab test is omitted"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "no significant drainage",
+            "startOffset": 2185,
+            "endOffset": 2208,
+            "startWordIndex": 302,
+            "endWordIndex": 305,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [],
+    "Omitted Patient History": [],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "Atorvastatin",
+            "startOffset": 3165,
+            "endOffset": 3177,
+            "startWordIndex": 439,
+            "endWordIndex": 440,
+            "omittedDetails": "The concentrations and doses of \"Medications on Admission\" are omitted"
+        }
+    ],
+    "Omitted Followup": []
+}

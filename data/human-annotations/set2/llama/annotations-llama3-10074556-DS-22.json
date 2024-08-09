@@ -1,0 +1,111 @@
+{
+    "Omitted Other Inconsistency": [
+        {
+            "text": "no significant findings on physical exam",
+            "startOffset": 1051,
+            "endOffset": 1091,
+            "startWordIndex": 138,
+            "endWordIndex": 144,
+            "omittedDetails": "All sites examined was mentioned with its normal results in patient document, However in the summary it is so generalized."
+        },
+        {
+            "text": "WBC",
+            "startOffset": 1183,
+            "endOffset": 1186,
+            "startWordIndex": 154,
+            "endWordIndex": 155,
+            "omittedDetails": "The values of the labs mentioned in the summary are omitted"
+        },
+        {
+            "text": "Laboratory",
+            "startOffset": 1120,
+            "endOffset": 1130,
+            "startWordIndex": 146,
+            "endWordIndex": 147,
+            "omittedDetails": "Some \"Lab tests with its results\" are omitted."
+        },
+        {
+            "text": "ymptomati",
+            "startOffset": 808,
+            "endOffset": 817,
+            "startWordIndex": 110,
+            "endWordIndex": 110,
+            "omittedDetails": "Omitted ROS"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary concludes that the labs mentioned is \"LOW\" without any evidence in the patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The Summary concludes that neutrophils and platelets are \"Elevated\" without any evidence from the patient record.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The Summary concludes that Gluc. , UN ,Cr are \"Elevated\" and LFTs are \"Abnormal\" without any evidence from the patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary described the patient's physical exams as \"insignificant\" whilst the medical record did not mention such a thing",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Chief",
+            "startOffset": 230,
+            "endOffset": 235,
+            "startWordIndex": 32,
+            "endWordIndex": 33,
+            "omittedDetails": "Missing chest power port a-cath surgery"
+        },
+        {
+            "text": "biopsy",
+            "startOffset": 484,
+            "endOffset": 490,
+            "startWordIndex": 62,
+            "endWordIndex": 63,
+            "omittedDetails": "Large mediastinal mass missing"
+        },
+        {
+            "text": "DA-EPOCH",
+            "startOffset": 1442,
+            "endOffset": 1450,
+            "startWordIndex": 190,
+            "endWordIndex": 192,
+            "omittedDetails": "Missing lesions and other specific symptoms in PML"
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "atovaquone",
+            "startOffset": 1788,
+            "endOffset": 1798,
+            "startWordIndex": 244,
+            "endWordIndex": 245,
+            "omittedDetails": "\"The Concentrations and Doses\" of all the Medications mentioned in the summary are omitted."
+        },
+        {
+            "text": "Medications",
+            "startOffset": 1712,
+            "endOffset": 1723,
+            "startWordIndex": 236,
+            "endWordIndex": 237,
+            "omittedDetails": "In the patient record the section of Medications is divided to Medications on \"Admission and Discharge\" and there are some medications that are omitted from both sections"
+        }
+    ],
+    "Omitted Followup": []
+}
