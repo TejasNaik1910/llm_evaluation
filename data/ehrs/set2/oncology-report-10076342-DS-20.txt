@@ -1,0 +1,388 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Iodine; Iodine Containing
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+NGT placement
+US guided liver biopsy
+craniotomy and resection of brain met
+ 
+History of Present Illness:
+This is a ___ yo M with metastatic non small cell lung cancer 
+(known mets to brain and on WBXRT as well as XRT to lungs) on 
+decadron, returned to OSH yesterday with worsening delirium and 
+jaundice, transferred here for further care. Per pts son, 2 
+weeks ago pt was diagnosed with lung cancer. At this point, pt 
+has been living with his son. Pt began to have hematemesis 1 
+month ago, when PCP began to work him up. Pts PCP obtained ___ CXR 
+and then referred pt to Dr. ___. He had a 
+PET scan which showed a large brain met. He was started on 
+steroids 6 days ago (decadron 4 mg four times a day for 6 days) 
+prescribed by Dr. ___. Pt was started on XRT to lungs 
+and WBXRT to brain (has completed ___ treatments), with plan 
+for possible stereotactic surgery on brain mets and resection of 
+lung cancer. One week ago, pt was ambulating, conversive, not 
+confused. Two days ago, pt did not know where he was, was unable 
+to walk without walking into a table, unable to feed himself, 
+barely talking. Pts son noted jaundice 2 days ago (perhaps there 
+2 weeks ago, but worsened) as well. Pt was taken to ___ 
+___ on ___, where he was seen in the ___. He was given a 
+dose of solumedrol 125 mg IV x1, and then discharged on his 
+regimen of decadron again. Yesterday, pt presented again to 
+___ for altered mental status, and is now transferred 
+here for further input.  UA was negative. CT head noted 
+hyperdense lesion R occipital lobe meaasuring 4.4 cm x 3 cm 
+showing no interval change. Also, surrounding vasogenic edema 
+noted around lesion. The lesion produces mass effect compressing 
+the adjacent occipital horn of the R lateral ventricle. 
+Previously seen hemorrhagic lesion mostly in the R occipital 
+lobe is unchanged.  T Bili elevated to 5.6, D Bili 1.4, Alk Phos 
+260, AST 91, ALT 103, INR 2.1, ammonia 208. Pt is unable to 
+provide any history himself.
+.
+In the ___, the pts vitals were: T 97.7 HR 78 NP 154/65 RR 16 Sat 
+97% RA. Pt was given 10 U SC insulin for ___. RUQ ultrasound 
+showed an echogenic liver with 8 cm mass (?hemangioma), patent 
+portal vein. He was admitted to medicine for further evaluation.
+.
+ROS:
+-Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightsweats []Anorexia
+-Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE
+-Respiratory: []WNL []SOB []Pleuritic pain [x]Hemoptysis 
+[x]Cough
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena
+-Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]DIscharge []Menorrhagia
+-Skin: []WNL []Rash []Pruritus [x]jaundice
+-Endocrine: [x]WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain
+-Neurological: [] WNL []Numbness of extremities []Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[x]Confusion []Headache
+-Allergy/Immunological: [x] WNL []Seasonal Allergies
+
+ 
+Past Medical History:
+-Non-small lung cancer: Diagnosed 2 weeks ago (Dr. ___ is his 
+thoracic surgeon at ___ and ___ in 
+___ PCP is ___ at ___ Dr. ___ is 
+___ in ___ Has had 5 XRT 
+treatments to lungs and brain, supposed to get WBXRT for a total 
+of 10 treatments
+-Hypertension
+-Alcohol abuse
+ 
+Social History:
+___
+Family History:
+No history of lung cancer
+ 
+Physical Exam:
+.
+Physical Exam:
+Appearance: NAD, jaundiced
+Vitals: T 95.6 BP 160/90 P 80 R 16 Sat 96% RA
+Eyes: EOMI, PERRL, conjunctiva clear, noninjected, +icterus, no 
+exudate
+ENT: Moist
+Neck: No JVD, no LAD, no thyromegaly, no carotid bruits 
+Cardiovascular: RRR, nl S1/S2, no m/r/g
+Respiratory: decreased breath sounds LUL, otherwise CTA
+Gastrointestinal: soft, non-tender, non-distended, no 
+hepatosplenomegaly, normal bowel sounds
+Musculoskeletal/Extremities: no clubbing, no cyanosis, 2+ ___ 
+pitting edema in ___ ___ up calf
+Neurological: oriented to self only, strength ___ symmetrically 
+through all extrem, CN ___ grossly intact, follows most 
+commands but with some difficulty, +asterixis, 
+confused/encephalopathic, 3+ ___ patella reflexes and brachial 
+reflexes ___, toes downgoing, sensation grossly intact to light 
+touch throughout. 
+Integument: warm, no rash, no ulcer, jaundiced
+Psychiatric: encephalopathic
+Hematological/Lymphatic: No cervical, supraclavicular, axillary, 
+or inguinal lymphadenopathy
+
+ 
+Pertinent Results:
+.
+
+___ 05:30AM URINE  HOURS-RANDOM
+___ 05:30AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 05:30AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-1 PH-7.0 
+LEUK-NEG
+___ 04:45AM   GLUCOSE-358* UREA N-24* CREAT-0.8 SODIUM-135 
+POTASSIUM-3.7 CHLORIDE-99 TOTAL CO2-26 ANION GAP-14
+___ 04:45AM   estGFR-Using this
+___ 04:45AM   LIPASE-47
+___ 04:45AM   AMMONIA-68*
+___ 04:45AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 04:45AM   WBC-11.7* RBC-4.57* HGB-15.7 HCT-46.5 
+MCV-102* MCH-34.4* MCHC-33.8 RDW-14.8
+___ 04:45AM   PLT COUNT-82*
+___ 04:45AM   ___ PTT-30.0 ___
+.
+EKG: NSR, nl axis, isloated Q in III, flattened T in III/AVF
+.
+CT head OSH:
+hyperdense lesion R occipital lobe meaasuring 4.4 cm x 3 cm 
+showing no interval change. Also, surrounding vasogenic edema 
+noted around lesion. The lesion produces mass effect compressing 
+the adjacent occipital horn of the R lateral ventricle. 
+Previously seen hemorrhagic lesion mostly in the R occipital 
+lobe is unchanged.
+ 
+Brief Hospital Course:
+# Delirium/Hepatic encephalopathy: Hepatic versus other 
+etiology. Although ammonia and LFTs were elevated on admission, 
+pattern not consistent with alcoholic cirrhosis, considered 
+micrometastases to liver. No clear signs of infection, hepatitis 
+serologies only showed prior immunity. Considered effect of 
+brain met and surrounding vasogenic edema although neuro-onc 
+evaluation felt this was unlikely due to minimal mass effect and 
+no midline shift. On discussion with hepatology, decadron and 
+XRT likely overstressed pts liver, causing acute decompensation. 
+He was started on aggressive lactulose and rifaxmin (initially 
+required and NGT to administer this, but pulled this out within 
+24 hours and as mental status was improving to the point of 
+being able to take POs safely, it was not replaced), and his 
+mental status gradually improved significantly.
+
+# Non-small cell lung CA: Followed by providers at OSH: medical 
+oncologist (Dr. ___ ___ who did the initial inpatient 
+consultation when his diagnosis was made), radiation oncologist 
+(Dr. ___ ___, thoracic surgeon (Dr. ___ at ___ 
+___ ___. Initial plan was for WBXRT to brain met 
+and XRT to lung nodule, with plans for Cyberknife to brain met 
+(at that time, it was thought to be unresectable), then 
+resection of lung nodule. Had completed 5 out of 10 sessions of 
+WBXRT. Given possibility of liver mets, it was essential to 
+establish whether or not there is diffuse disease elsewhere as 
+this may impact decision to resect lung lesion (see below). The 
+patient's family and Dr. ___ input from ___ 
+heme-onc service to discuss further treatment options given his 
+liver disease and hemorrhagic brain met. Thoracic surgery was 
+consulted and felt the patient would not benefit for thoracic 
+surgery.
+
+# cirrhosis with possible liver mets: Cirrhosis was initially 
+presumed to be from his history of heavy alcohol use, although 
+the AST was not elevated more than the ALT as would be expected. 
+Hepatitis panel was negative. The possibility of diffuse 
+metastatic disease in the liver was considered. Micrometastases 
+may be giving liver a nodular appearance on imaging, leading to 
+a picture of pseudocirrhosis. Echogenic mass in liver seen on US 
+was not visualized on CT because it was done without contrast 
+due to contrast allergy. MRI showed a lesion in segment 6, but 
+per outpatient PET-CT report from ___, nothing lit up in 
+the liver, so nontargeted US-guided liver biopsy was done ___. 
+This showed cirrhosis but no evidence of tumor.
+
+# Brain metastasis: Pt has a hemorrhagic R occipital brain met. 
+CT scan here of the head showed a significant amount of 
+bleeding, and it wais unclear if this is increased or stable 
+from prior. In setting of coagulopathy, this may have worsened. 
+He has had ___ WBXRT treatments by Dr. ___, in 
+___, ___. Admitted on day 7 of decadron. Discussed 
+overall plan of care with Dr. ___ on admission, and 
+although pts thoracic surgeon has plans for potential cure, his 
+radiation oncologist does not think pt will likely be curable, 
+especially now with liver decompensation. Patient's neuro 
+deficit (left visual field cut) has been stable, repeat CT 24 
+hours after admission as well as MRI ___ showed stable lesion. 
+Dr. ___ recommended decadron taper on admission: 4 
+mg tid for ___ days, then taper to 4 mg bid for ___ days, then 
+taper to 4 mg daily for ___ days, then 2 mg for ___ days, and 
+then 2 mg qod for ___ days. Per ___ here, no role for 
+continuing WBXRT now given liver workup and possible resection 
+of brain met; per discussion with Dr. ___ agrees with 
+holding XRT in brain and lung for now. Neurosurgery was 
+consulted and felt the mass was resectable. Dr. ___, Dr. ___, 
+___ neuro-onc here (Dr. ___ all agreed to the resection, so he 
+was transferred to the neurosurgery service on ___ for the 
+operation which he tolerated without difficulty he was monitored 
+in the PACU and was transferred to the surgical floor. He 
+remained neurologically intact without any deficits.
+
+# Coagulopathy: INR elevated, likely from liver decompensation. 
+He required aggressive FFP and platelets before procedures. 
+Heparin SC was held.
+
+# Thrombocytopenia: likely from liver decompensation, splenic 
+sequestration. He required platelet transfusions before 
+procedures.
+
+# splenic infarct: seen on MRI, may be related to 
+hypercoagulable state from malignancy or thrombosis (cirrhotics 
+may still be vulnerable to thromboses off of anticoagulation, 
+but he has been ambulating), no evidence of afib to suggest that 
+as an embolic source. He did not have pain or fever, and 
+anticoagulation would not be started anyway because of 
+hemorrhagic brain met. His symptoms were monitored.
+
+# h/o alcoholism: Pt has h/o alcoholism, last drink 4 days PTA. 
+No signs of withdrawal. He was given thiamine and folate. A ___ 
+scale was ordered but he did not require any benzos.
+
+# Dehydration: Poor po intake for several days prior to 
+admission, BUN/Cr ratio elevated on admission, Hct likely 
+hemoconcentrated.
+
+# Hyperglycemia: No history of diabetes. Hyperglycemia likely 
+due to decadron, although given degree of blood sugar elevation, 
+he likely had an element of undiagnosed diabetes before. His 
+elevated sugars may also be exacerbated by family bringing in 
+outside food and greater than normal PO intake when he has not 
+been NPO. Lantus and RISS were started and titrated up as 
+necessary.
+
+# Hypertension: continued metoprolol
+
+# Macrocytosis: B12/folate normal/high
+
+The patient was transferred to the neurosurgery service and 
+underwent craniotomy for tumor resection. The surgery went well 
+and he recovered in the PACU overnight. He was then transferred 
+to the neurosurgery floor. The patient worked with ___ and OT who 
+felt that he was unsafe to go home due to his cognitive 
+deficits. Therefore he was screened for rehab. 
+
+The patient required oxygen therapy while on the neurosurgery 
+service and was unable to be weaned off. He will continue this 
+at rehab. The patient will resume his radiation treatments at 
+___ the lung and brain.
+
+Thoracic surgery was consulted who felt that lung resection was 
+not possible due to the stage 4 lung CA. Additionally palliative 
+care was consulted who assisted in the plan for discharge to 
+rehab with the daily transfer to the radiation center.
+His coags were followed as his plts continued to trend down (46 
+on discharge), hem onc was consulted and they did not recommend 
+transfusing until it less than 10K. His INR was trending up, 
+Hepatology was consulted and did not recommend reversing unless 
+evidence of bleeding. On discharge his neuro exam was normal 
+with a flat affect, and short term memory problems.
+ 
+Medications on Admission:
+Decadron 4 mg four times a day
+Metoprolol 25 mg daily
+Prilosec
+ 
+Discharge Medications:
+1. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge 
+Mucous membrane PRN (as needed).  
+4. Lactulose 10 gram/15 mL Syrup Sig: Sixty (60) ML PO TID (3 
+times a day).  
+5. Lidocaine HCl 2 % Solution Sig: One (1) ML Mucous membrane 
+TID (3 times a day) as needed.  
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+9. Multivitamins     Tablet, Chewable Sig: One (1) Tablet PO 
+DAILY (Daily).  
+10. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as 
+needed.  
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q4H (every 4 hours) as needed.  
+12. Levetiracetam 500 mg Tablet Sig: 1.5 Tablets PO BID (2 times 
+a day).  
+13. Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times 
+a day).  
+14. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+15. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day).  
+16. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours).  
+17. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+18. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+19. Insulin Regular Human  Subcutaneous
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+metastatic lung CA to brain
+cirrhosis of the liver
+
+ 
+Discharge Condition:
+neurologically stable
+
+ 
+Discharge Instructions:
+DISCHARGE INSTRUCTIONS FOR CRANIOTOMY
+Have a family member check your incision daily for signs of 
+infection
+Take your pain medicine as prescribed
+Exercise should be limited to walking; no lifting, straining, 
+excessive bending
+You may wash your hair only after sutures have been removed 
+You may shower before this time with assistance and use of a 
+shower cap
+Increase your intake of fluids and fiber as pain medicine 
+(narcotics) can cause constipation
+Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, aspirin, Advil, 
+Ibuprofen etc. 
+If you have been prescribed an anti-seizure medicine, take it 
+as prescribed and follow up with laboratory blood drawing in 7 
+days and fax results to ___.
+Clearance to drive and return to work will be addressed at your 
+post-operative office visit
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING:
+
+New onset of tremors or seizures
+Any confusion or change in mental status 
+Any numbness, tingling, weakness in your extremities
+Pain or headache that is continually increasing or not relieved 
+by pain medication
+Any signs of infection at the wound site: redness, swelling, 
+tenderness, drainage
+Fever greater than or equal to 101° F
+
+ 
+Followup Instructions:
+___

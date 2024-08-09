@@ -1,0 +1,56 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Age: Not specified
+* Sex: Male
+* Chief Complaint: Right leg weakness
+
+**Cancer Diagnosis:**
+
+* Type: Renal cell carcinoma (RCC) with oncocytic features
+* Morphology: Conventional/clear cell carcinoma with a marked granular component
+* Stage: Metastatic (with brain and lung metastases)
+* TNM staging: Not specified
+
+**Diagnostic Tests:**
+
+* CT-guided renal biopsy
+* Lumbar puncture (spinal tap)
+* MRI of the brain and spine
+* CT of the torso
+* Testicular ultrasound
+
+**Treatment:**
+
+* Dexamethasone for brain edema
+* Stereotactic radiosurgery (SRS) planned for brain lesions
+* Referral to medical oncology and urology for further evaluation and treatment
+
+**Medications:**
+
+* Dexamethasone
+* Citalopram
+* HydrALAzine
+* Omeprazole
+* Tiotropium Bromide
+* Atenolol
+* Atorvastatin
+* Fluticasone Propionate
+* Furosemide
+* Insulin (sliding scale)
+* Heparin
+* Acetaminophen
+* Morphine Sulfate
+* ProAir HFA (albuterol sulfate)
+* traZODONE
+* Docusate Sodium
+* Senna
+
+**Discharge Disposition:**
+
+* Extended care facility
+
+**Discharge Diagnosis:**
+
+* Metastatic renal cell carcinoma

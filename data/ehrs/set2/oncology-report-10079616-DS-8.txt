@@ -1,0 +1,360 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+leaking from previous L PCN site
+ 
+Major Surgical or Invasive Procedure:
+Paracentesis - ___
+Left percutaneous nephrostomy tract embolization and nephrostomy 
+tube placement - ___
+
+ 
+History of Present Illness:
+Mr. ___ is a pleasant ___ w/ advanced prostate cancer,
+metastatic to liver biopsy confirmed, w/ peritoneal
+carcinamatosis, who is presenting for management of his leaking
+left surgical wound. SYmptoms started last month when he went to
+___ and found to have malignant ureter
+obstruction. He had a PCN placed which leaked urine around the
+tube and at times did not work. He had the PCN removed last
+___ and since then, it has continued to leak, requiring
+multiple dressing changes QHS. he has considerable pain in the
+superficial skin at the surgical incision. His ___ was unable to
+help secure wound occlusion and now brought in for ___ evaluation
+and maybe a cycle of cabazitaxel. Pt notes increased abd girth
+from baseline. He notes slightly decreased UO from his urethra.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+Radical prostatectomy ___
+
+PAST MEDICAL HISTORY:
+HTN
+DL
+
+ 
+Social History:
+___
+Family History:
+Neg for prostate ca
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VITAL SIGNS: ___ 140/76 89 18 94% RA
+General:  NAD, Resting in bed comfortably
+HEENT:  MMM, no OP lesions, no cervical/supraclavicular
+adenopathy
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, non tender. firm epigastric area w/ palpable
+subcutaneous nodules. there notable clear fluid dripping, drop 
+by
+drop, from a pinpoint, barely noticeable w/ naked eye, from his
+left posterior thorax. 
+LIMBS: WWP, 2+ b/l pitting ___, no tremors
+SKIN:  No rashes on the extremities
+NEURO:  Grossly normal
+
+DISCHARGE EXAM
+==============
+VS:  T 97.8, BP 120-124/64-72, HR 68-84, RR 16, SpO2 93/RA
+GEN: cachectic male, sits up easily in bed. NAD.
+HEENT: Sclera anicteric, dry MM, oropharynx clear 
+Cards: RRR, nl S1/S2, no MRG 
+Pulm: CTAB, diminished breath sounds at R base
+Abd: not distended, soft, non-tender, normoactive bowel sounds. 
+No masses. 
+Skin: L PCN in left flank, mild TTP over insertion site, C/D/I. 
+No evidence of leaking
+Neuro: AAOx3, moving all 4 extremities with purpose
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 09:30AM   PLT COUNT-621*
+___ 09:30AM   AbsNeut-5.73
+___ 09:30AM   WBC-6.5 RBC-2.96* HGB-8.4* HCT-26.7* MCV-90 
+MCH-28.4 MCHC-31.5* RDW-15.7* RDWSD-51.7*
+___ 09:30AM   PSA-2371*
+___ 09:30AM   ALT(SGPT)-29 AST(SGOT)-75* ALK PHOS-428* TOT 
+BILI-0.3
+___ 09:30AM   UREA N-22* CREAT-1.3* SODIUM-138 
+POTASSIUM-3.8 CHLORIDE-100 TOTAL CO2-25 ANION GAP-17
+
+MICRO
+=====
+__________________________________________________________
+___ 3:47 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+DISCHARGE LABS
+==============
+___ 07:44AM BLOOD WBC-6.0 RBC-2.90* Hgb-8.2* Hct-26.7* 
+MCV-92 MCH-28.3 MCHC-30.7* RDW-17.9* RDWSD-59.3* Plt ___
+___ 07:44AM BLOOD Plt ___
+___ 07:44AM BLOOD ___
+___ 07:44AM BLOOD Glucose-89 UreaN-17 Creat-1.5* Na-141 
+K-4.7 Cl-106 HCO3-29 AnGap-11
+___ 07:44AM BLOOD Calcium-8.1* Phos-4.2 Mg-1.8
+
+IMAGING/STUDIES
+===============
+___ FLUID
+PERITONEAL FLUID:
+POSITIVE FOR MALIGNANT CELLS.
+Consistent with metastatic adenocarcinoma, suggestive of 
+prostate primary.
+Cell block preparation shows low tumor cellularity. On 
+immunohistochemical studies, the tumor cells are positive for 
+___ and B72.3 and focally positive for prostate specific 
+antigen and possibly focally and weakly positive for prostatic 
+acid phosphatase.
+
+___ ABD LIMIT, SINGLE OR
+1.  Bilateral obstructing renal stones with moderate right and 
+mild left hydroureteronephrosis, slightly progressed since 
+___.
+2.  Partially imaged bilateral ureteral stents.
+3.  Moderate volume ascites, progressed from the prior exam.
+4.  Multiple echogenic liver masses, incompletely evaluated on 
+this
+nondedicated exam, also seen on the recent outside hospital 
+ultrasound but appear increased in number from the CT on 
+___.
+
+___ DIAG/THERA
+1. Technically successful ultrasound guided diagnostic and 
+therapeutic
+paracentesis.  Fluid samples were submitted to the laboratory 
+for analysis.
+2. 3.5 L of fluid were removed.
+
+___ ABDOMEN
+The bilateral double-J nephroureteral stents are in unchanged 
+position.
+
+___ NEPHROSTO
+Successful placement of 8 ___ nephrostomy tube on the left 
+and partial embolization of the old percutaneous nephrostomy 
+tract.
+ 
+Brief Hospital Course:
+___ w/ advanced prostate cancer, metastatic to liver biopsy 
+confirmed, heavy peritoneal involvement w/ peritoneal 
+carcinamatosis, who is presenting for management of his leaking 
+left surgical wound. 
+
+#L HYDRONEPHROSIS, HYDROURETER:
+#LEAKING PCN INCISION SITE: PCN tube removed on ___. Has
+been leaking urine since that time. No e/o infection around the 
+incision site. Fluid leaking from back was sampled, Cr 
+consistent with urine. Previous PCN tract embolized, new PCN 
+tube placed in L kidney on ___ by ___. PCN draining, no 
+leakage. Continued to have significant pain in left flank around 
+the area of PCN. Likely related to progression of disease +/- 
+kidney stones - per Dr ___, pain is a new issue for the 
+patient. Oxycontin was started on ___ with tremendous effect; 
+pt with minimal pain following initiation of oxycontin; not 
+requiring any PRN medications. Oxycontin may be able to be 
+down-titrated as an outpatient. Will discharge with 5mg 
+oxycodone for PRN.
+
+___: Likely due to malignant obstruction vs pre-renal given
+ascites and leakage of urine, in addition to long-standing poor 
+PO intake. No intervention needed upon stents, per Urology. PCN 
+placed, as above. Cr slightly uptrending prior to discharge, 
+will get outpatient labs for ___ to monitor Cr. Pt declined 
+an appetite stimulant.
+
+#MALIGNANT ASCITES:
+#NAUSEA/VOMITING: both of these issues new over past ___ weeks.
+Paracentesis on ___ with 3.5L removed, fluid studies
+consistent with ascites, no e/o infection. Cytology of fluid 
+shows malignant cells consistent with adenocarcinoma, primary 
+prostate. Suspect nausea/vomiting is the result of abdominal 
+distension, liver mets. Nausea/vomiting improved throughout 
+admission (though not totally resolved). Managed with 
+prochlorperazine 10 mg PO Q6H:PRN nausea, ondansetron 4 mg IV 
+Q8H:PRN nausea. 
+
+#ANEMIA: Normocytic. Admitted with hemoglobin 8.4, with nadir of 
+7.2. Stable today. No obvious signs of blood loss (denies 
+hematuria) and
+hemodynamically stable. Is not anticoagulated. Was noted to have
+guaiac positive stool. Suspect this is due to inflammation given
+advanced prostate cancer. Retic count 2.2, iron studies 
+consistent with anemia of chronic inflammation. Received 1U 
+pRBCs on ___ for H/H 7.___.8 prior to chemotherapy with 
+appropriate response.
+
+#DVT: recently LLE DVT but was told not an anticoagulation 
+candidate due to GIB. Continued aspirin.
+
+#ADVANCED PROSTATE CANCER: known to have liver mets and 
+carcinomatosis. Per Dr ___ condition is terminal and 
+prognosis is quite poor. Considering cabazitaxel as an 
+outpatient, but this is not possible until PCN tract is
+addressed and resolved. Now that tract is embolized, pt can 
+start cabazitaxel.
+Received dose of cabazitaxel ___. Will stop at ___ clinic 
+upon discharge to have Neulasta on body placed (___).
+
+#HTN: BP elevated for first several days of admission; holding 
+home lisinopril 20mg daily in the setting of ___. Started 5mg 
+amlodipine on ___ with improved BP control. Discharged off 
+lisinopril, now with 5mg amlodipine daily.
+
+#THROMBOCYTOSIS: downtrending since admission. Likely in the 
+setting of inflammation and malignancy.
+
+TRANSITIONAL ISSUES
+#LABS: pt will get CBC, electrolytes, BUN/Cr drawn on ___.
+#PAIN CONTROL: discharged on 30mg BID oxycontin with 5mg 
+oxycodone for breakthrough pain. Can be down-titrated in the 
+outpatient setting (with Dr ___ as tolerated.
+#HYPERTENSION: lisinopril discontinued in the setting of ___. 
+Started on amlodipine 5mg for hypertension while admitted. Will 
+discharge OFF lisinopril, ON amlodipine 5mg daily.
+#CHEMOTHERAPY: received dose of cabazitaxel on ___. Neulasta 
+on-body to be placed in clinic immediately following discharge, 
+with injection to be deployed on ___.
+#CODE STATUS: DNR/DNI (confirmed with inpatient team and Dr 
+___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN Pain - Moderate 
+2. Atorvastatin 20 mg PO QPM 
+3. Lupron Depot (3 Month) (leuprolide (3 month)) unknown mg 
+injection every 3 months 
+4. Lisinopril 20 mg PO DAILY 
+5. Ondansetron ODT 8 mg PO Q8H:PRN nausea 
+6. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg One tablet(s) by mouth Once a day Disp #*30 
+Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium 100 mg One capsule(s) by mouth Twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN BREAKTHROUGH 
+PAIN 
+RX *oxycodone 5 mg One tablet(s) by mouth Once every 4 (four) 
+hours Disp #*20 Tablet Refills:*0 
+4.  OxyCODONE SR (OxyconTIN) 30 mg PO Q12H 
+RX *oxycodone 30 mg One tablet(s) by mouth Twice a day Disp #*30 
+Tablet Refills:*0 
+5.  Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg One tablet by mouth Twice a day 
+Disp #*60 Tablet Refills:*0 
+6.  Atorvastatin 20 mg PO QPM  
+7.  Lupron Depot (3 Month) (leuprolide (3 month)) unknown  
+injection EVERY 3 MONTHS  
+8.  Ondansetron ODT 8 mg PO Q8H:PRN nausea  
+9.  Prochlorperazine 10 mg PO Q6H:PRN nausea  
+10.Outpatient Lab Work
+ICD N17.9 - acute kidney injury
+Labs: CBC, electrolytes, BUN/Cr
+Name/contact: ___, MD. P: ___. F: ___.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+- malignant ascites secondary to metastatic prostate cancer
+- malignant ureteral obstruction causing bilateral hydroureter 
+and hydronephrosis
+
+SECONDARY DIAGNOSES
+- anemia
+- deep vein thrombosis
+- metastatic prostate cancer
+- hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+You were admitted to ___ from 
+___ to ___ for leaking from your old nephrostomy site.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+- You had a paracentesis (fluid drained from your belly), in 
+which 3.5L of fluid was removed. The fluid was analyzed, and 
+found to be consistent with malignant ascites, or fluid backed 
+up from your liver as the result of cancer in your liver.
+- The hole in your back that was draining urine was embolized 
+(plugged) by our interventional radiology team. They also placed 
+a new drain into your left kidney, which is now draining the 
+urine from that kidney without issue.
+- You were started on a long-acting pain medication, called 
+oxycontin, for the pain in your back and belly. If this pain is 
+being caused by kidney stones (which we see evidence of on 
+imaging we did while you were here), we hope that the pain will 
+improved and the amount of pain medication you require will be 
+less.
+- You received a dose of chemotherapy, cabazitaxel, on ___.
+
+WHAT WILL HAPPEN WHEN YOU LEAVE THE HOSPITAL?
+- You should return to the hospital on ___ to have your blood 
+work done to check your kidney function.
+- You will go to the ___ clinic to have your Neulasta patch 
+placed.
+- You will continue to take oxycontin 30mg twice a day and have 
+oxycodone 5mg available as needed for breakthrough pain. You 
+should follow-up with Dr ___ on ___ in his office, at 
+which point you can discuss if you need more/less pain 
+medication at that time.
+- The nephrostomy tube will stay in place in your left kidney. 
+You will eventually need it replaced by interventional radiology 
+in ___ of this year.
+
+If you have any further questions regarding your care here, 
+please do not hesitate to contact us (11 ___ front desk 
+___. We wish you the very best for your health going 
+forward.
+
+Sincerely,
+Your ___ Oncology Team
+ 
+Followup Instructions:
+___

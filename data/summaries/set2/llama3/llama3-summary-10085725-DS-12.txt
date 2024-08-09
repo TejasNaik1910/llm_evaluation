@@ -1,0 +1,45 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+* 65-year-old female patient
+* Admitted with right-sided recurrent malignant pleural effusion
+* History of metastatic non-small cell lung cancer (NSCLC)
+* Previous thoracentesis 4 times in the past 3 months
+
+**Admission Findings:**
+
+* Dyspnea worsening with exertion for 6 days
+* Chest X-ray and CT scan showed worsening left-sided pleural effusions
+* Labs notable for hyponatremia (Na+ 129), anemia (Hgb 9.7), and normal coagulation studies
+* Imaging showed moderate-sized partly loculated left pleural effusion, severe left lung atelectasis, and emphysema
+
+**Treatment:**
+
+* Placed Pleurex catheter on [date] by interventional pulmonary (IP) team
+* Given Ketorolac 15 mg for pain control
+* Managed with duonebs and Tylenol/tramadol for pain control
+* Weaned from nasal cannula to room air with O2sats > 92%
+
+**Discharge Diagnosis:**
+
+* Primary: Left-sided pleural effusion, hyponatremia
+* Secondary: Anemia, metastatic lung cancer
+
+**Discharge Condition:**
+
+* Mental status: Clear and coherent
+* Level of consciousness: Alert and interactive
+* Activity status: Ambulatory - Independent
+
+**Discharge Instructions:**
+
+* Follow-up with PCP and oncologist after discharge
+* Drain Pleurx catheter three times weekly, with instructions on amount and color
+* Stop draining for pain, chest tightness, or cough
+* Keep a daily log of drainage amount and color
+* Remove sutures in 7-10 days
+
+**Medications:**
+
+* Discharged on: Aspirin 81 mg PO DAILY, Atorvastatin 40 mg PO QPM, FoLIC Acid 1 mg PO DAILY, Losartan Potassium 50 mg PO DAILY, Magnesium Oxide 400 mg PO DAILY, Metoprolol Succinate XL 50 mg PO DAILY

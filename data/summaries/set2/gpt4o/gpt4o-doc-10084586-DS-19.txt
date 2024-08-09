@@ -1,0 +1,96 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Obstetrics/Gynecology
+- **Allergies:** Zocor
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Cervical carcinoma
+
+**Major Surgical or Invasive Procedures:**
+- Examination under anesthesia
+- Radical hysterectomy
+- Bilateral salpingo-oophorectomy
+- Bilateral pelvic lymphadenectomy
+
+**History of Present Illness:**
+- The patient, a G2P2, was referred for consultation regarding a new diagnosis of cervical carcinoma. She had a 5 cm irregular lesion on the cervix, confirmed as invasive squamous cell carcinoma via biopsy. The patient had regular Pap smears, all normal, with the last one in [Redacted]. She reported no gastrointestinal (GI) or genitourinary (GU) symptoms, pain, or lower extremity swelling. She had a history of complete procidentia and had been using a pessary for symptom relief. She also experienced irregular vaginal bleeding for about four months.
+
+**Past Medical History:**
+- Hypertension
+- Hypercholesterolemia
+- Diabetes
+- Diabetic retinopathy
+- Diabetic nephropathy
+
+**Past Surgical History:**
+- Laser surgery for retinal hemorrhage
+
+**Obstetric History:**
+- Vaginal delivery x2
+
+**Gynecological History:**
+- Last Pap smear: [Redacted]
+- Last mammogram: [Redacted] (normal)
+
+**Family History:**
+- Negative for malignancies
+
+**Physical Exam:**
+- **General Appearance:** Well developed, well nourished
+- **HEENT:** Sclerae anicteric
+- **Lymphatics:** Negative lymph node survey
+- **Lungs:** Clear to auscultation
+- **Heart:** Regular without murmurs
+- **Breasts:** Without masses
+- **Abdomen:** Soft, nondistended, without palpable masses
+- **Extremities:** Without edema
+- **Pelvic Exam:** Normal external genitalia, smooth vaginal walls, 5 cm irregular tumor on the exocervix, no vaginal fornix involvement, no palpable pelvic masses, normal rectal exam
+
+**Pertinent Results:**
+- Blood tests showed elevated WBC, low RBC, Hgb, Hct, and abnormal glucose, urea nitrogen, creatinine, calcium, and magnesium levels.
+
+**Brief Hospital Course:**
+- The patient, with a history of hypertension, type II diabetes mellitus, and nephropathy, was admitted for an exploratory laparotomy, radical hysterectomy, bilateral salpingo-oophorectomy, and pelvic lymphadenectomy for Stage IB2 cervical cancer. Post-operatively, she received routine care and continued her home medications for hypertension and hypercholesterolemia. NSAIDs were avoided due to renal insufficiency. She required prolonged oxygen support likely due to undiagnosed chronic lung disease and a recent upper respiratory infection. Bilateral lower extremity dopplers and chest X-ray (CXR) were performed, showing no DVT or pneumonia but indicating atelectasis and pleural effusions. She was weaned off oxygen and discharged in good condition on post-operative day 3.
+
+**Medications on Admission:**
+- Lipitor
+- Lisinopril
+- Atenolol
+- Calcium
+- Hydrochlorothiazide
+
+**Discharge Medications:**
+1. Oxycodone-Acetaminophen
+2. Hydrochlorothiazide 12.5 mg
+3. Docusate Sodium 100 mg
+4. Lisinopril 10 mg
+5. Atenolol 50 mg
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Stage IB2 cervical cancer
+- Possible COPD
+
+**Discharge Condition:**
+- Good
+
+**Discharge Instructions:**
+- Monitor for fever, chills, nausea, vomiting, severe abdominal pain, heavy vaginal bleeding, chest pain, trouble breathing, or incision issues.
+- No driving for two weeks and while on narcotic pain medication.
+- No heavy lifting or strenuous exercise for six weeks.
+- No vaginal insertions for six weeks.
+- Follow-up appointments as scheduled.
+- Leave Foley catheter in for one week.
+
+**Follow-up Instructions:**
+- [Redacted]

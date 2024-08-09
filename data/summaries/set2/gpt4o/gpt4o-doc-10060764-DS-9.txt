@@ -1,0 +1,78 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Demerol
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedures:**
+- ERCP x2
+- PTBD Placement
+
+**History of Present Illness:**
+- The patient is an elderly female with a history of atrial fibrillation on coumadin and nonresectable cholangiocarcinoma. She was transferred due to abdominal pain, jaundice, elevated bilirubin/alkaline phosphatase, and CT showing stent occlusion. She received zosyn and oral vitamin K prior to transfer.
+
+**Past Medical History:**
+- Hypertension (HTN)
+- Atrial fibrillation (Afib) status post pacemaker placement on coumadin
+- Mitral valve prolapse (MVP)
+- Osteoarthritis (OA) of the right hip
+- Cholangiocarcinoma (s/p metal stent, XRT, and chemo, PTBD)
+
+**Family History:**
+- Mother with colon cancer, sister with multiple myeloma, niece with lung cancer, father with coronary artery disease, maternal grandfather with stomach cancer
+
+**Physical Exam:**
+- Admission: Jaundice, scleral icterus, epigastric tenderness, irregular heart rhythm
+- Discharge: Pain level 6, jaundice, scleral icterus, mild abdominal distension, epigastric tenderness, 2+ edema to waist
+
+**Pertinent Results:**
+- Blood tests showed elevated WBC, low RBC, Hgb, Hct, elevated liver enzymes (ALT, AST, AlkPhos), and total bilirubin.
+- Renal ultrasound indicated slightly echogenic kidneys, suspected tiny calculus, and perihepatic and pelvic free fluid.
+- ERCP findings included tumor burden at the distal opening of stents, successful biliary cannulation, and extraction of sludge and stone debris.
+- PTBD: Successful replacement of a partially dislodged biliary drain and balloon plasty of the left metallic biliary stent.
+
+**Brief Hospital Course:**
+- The patient underwent multiple ERCPs and interventional radiology procedures without improvement in labs or symptoms. After discussions, the patient was transitioned to comfort measures and discharged with hospice care.
+
+**Discharge Medications:**
+1. Digoxin 0.125 mg PO daily
+2. Docusate Sodium 100 mg PO BID
+3. Oxycodone 5 mg PO Q6H PRN pain
+4. Senna 1 TAB PO BID PRN constipation
+5. Ondansetron 4 mg PO Q8H PRN nausea
+6. Polyethylene Glycol 17 g PO daily
+7. Bisacodyl 10 mg PO daily
+8. Morphine Sulfate (Concentrated Oral Soln) 2.5-5 mg PO Q2H PRN pain
+9. Pantoprazole 40 mg PO daily
+10. Simethicone 40-80 mg PO QID PRN gas pain
+11. Ranitidine 150 mg PO BID
+
+**Discharge Disposition:**
+- Home with hospice services
+
+**Discharge Diagnosis:**
+- Bile duct obstruction
+- Cholangiocarcinoma
+- Acute renal failure
+- Atrial fibrillation
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory with assistance (walker or cane)
+
+**Discharge Instructions:**
+- The patient was admitted due to elevated liver enzymes likely related to cancer progression. Multiple attempts to fix blockages were unsuccessful. A family meeting led to the decision to focus on comfort and quality of life. Hospice care will manage needs at home. Warfarin was stopped, and a pain medication regimen was initiated.
+
+**Follow-up Instructions:**
+- [Redacted]

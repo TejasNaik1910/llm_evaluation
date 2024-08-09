@@ -1,0 +1,61 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Female
+* Unit No: Not provided
+* Admission Date: Not provided
+* Discharge Date: Not provided
+
+**Chief Complaint**
+
+* Nausea and vomiting
+
+**Medical History**
+
+* Esophageal cancer (pT1bN0MX adenocarcinoma) treated with minimally invasive esophagectomy (MIE)
+* Takutsubo cardiomyopathy with possible mild myocardial infarction
+* Hypertension
+* Hyperlipidemia
+* Status post vaginal hysterectomy
+
+**Present Illness**
+
+* The patient presented to the ER with severe nausea that began at 8AM, not precipitated by anything. She had tried Zofran at home, which was ineffective, and had not been able to take any liquids due to the nausea.
+
+**Physical Exam**
+
+* The patient's physical exam was largely normal, with no abnormal findings.
+
+**Diagnostic Tests**
+
+* Urine analysis: showed glucose of 150, ketone of 10, and a pH of 7.5
+* Complete Blood Count (CBC): showed a white blood cell count of 16.8, hemoglobin of 13.8, and a platelet count of 337
+* Electrolyte panel: showed sodium of 140, potassium of 3.4, chloride of 99, and a total CO2 of 24
+* KUB (Kidney, Ureter, Bladder) X-ray: showed no pneumoperitoneum or evidence of bowel obstruction or ileus
+* CXR (Chest X-ray): showed no acute cardiopulmonary process
+* EGD (Esophagogastroduodenoscopy): showed evidence of a previous esophagogastric anastomosis, a benign intrinsic stricture in the anastomosis, and esophagitis and esophageal irritation proximal to the anastomosis
+
+**Treatment**
+
+* The patient was admitted for evaluation and treatment of a possible esophageal stricture
+* She was given IV fluids, a clear diet, and anti-nausea medication
+* She underwent an EGD and dilatation of the esophagus without complication
+* She was advanced to a soft/puree diet and was ready for discharge with follow-up with her doctor in 2 weeks
+
+**Medications**
+
+* The patient was prescribed several medications, including Ondansetron, Fish Oil, Benzonatate, Lorazepam, Cyclobenzaprine, Metoprolol Succinate XL, Simvastatin, Metoclopramide, Omeprazole, Citalopram, Vitamin D, and DiCYCLOmine
+* She was also prescribed a Scopolamine Patch
+
+**Discharge Diagnosis**
+
+* Esophageal stricture
+* Esophagitis
+* Hypertension
+
+**Discharge Condition**
+
+* The patient was discharged in a stable condition, with a clear and coherent mental status, alert and interactive level of consciousness, and ambulatory-independent activity status.

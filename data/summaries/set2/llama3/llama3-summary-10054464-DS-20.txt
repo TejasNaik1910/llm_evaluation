@@ -1,0 +1,23 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Cancer Type and Morphology:** The patient has poorly differentiated squamous lung cancer with metastases to the adrenals, brain, and soft tissue (jaw and back).
+
+**Cancer Stage and Progression:** The cancer has progressed, and the patient is currently undergoing chemotherapy with carboplatin and taxol.
+
+**TNM Staging:** Not explicitly mentioned in the note.
+
+**Medications:** The patient is taking various medications, including simvastatin, atenolol, latanoprost, acetaminophen, colace, senna, bisacodyl, hydromorphone, simethicone, prochlorperazine, lorazepam, ranitidine, and fentanyl. Upon discharge, the patient was prescribed additional medications, including ciprofloxacin, docusate sodium, bisacodyl, prochlorperazine, megestrol, lidocaine, mirtazapine, omeprazole, sotalol, and aspirin.
+
+**Diagnostic Tests:** The patient underwent a core needle biopsy of a back lesion, which showed poorly differentiated squamous lung cancer. Additionally, the patient had a chest X-ray (CXR) that showed a persistent left lower lung opacity, compatible with the known tumor, post-obstructive consolidation, and pleural effusion.
+
+**Surgical Interventions:** The patient underwent thoracentesis with 500cc of fluid removed and is currently receiving radiation therapy (XRT) to the left lung.
+
+**Response to Treatment:** The patient's shortness of breath (SOB) has improved, and they are not requiring more oxygen than they were using at home. The patient's anemia is stable, and no further treatment is planned at this time.
+
+**Other Medical History:** The patient has a history of hypertension, hyperlipidemia, coronary artery disease with a previous myocardial infarction, and a tonsillectomy.
+
+**Discharge Diagnosis:** The patient was discharged with a primary diagnosis of urinary tract infection, dyspnea, and squamous cell carcinoma, and secondary diagnoses of coronary artery disease, hypertension, and hyperlipidemia.
+
+**Discharge Condition:** The patient was discharged in stable condition, saturating 100% on 3L of oxygen, and not in pain.
+
+**Follow-up Instructions:** The patient is scheduled to follow up with their oncologist, Dr. ___, for chemotherapy on ___.

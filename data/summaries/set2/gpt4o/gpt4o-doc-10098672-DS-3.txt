@@ -1,0 +1,81 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Recurrent diarrhea
+
+**Major Surgical or Invasive Procedure:**
+- EGD with ileoscopy
+
+**History of Present Illness:**
+- The patient is a male with a history of Crohn's disease, status post multiple bowel resections, complicated by recurrent diarrhea and dehydration. He also has a history of diabetes mellitus (DM), chronic kidney disease (CKD) (Cr 1.5-2), hyperlipidemia (HL), and gout. He has been admitted multiple times over the past year for similar symptoms and has been receiving intravenous fluids (IVF) on an outpatient basis. Recent evaluations for infectious causes were negative, and imaging studies showed no significant abnormalities. Elevated chromogranin levels were noted, suggesting a possible neuroendocrine cause, but further workup is pending.
+
+**Past Medical History:**
+- Crohn's disease, status post colectomy and multiple small bowel resections
+- Insulin-dependent diabetes mellitus (IDDM) with severe neuropathy and nephropathy
+- Stage III CKD
+- Nephrolithiasis
+- Hyperlipidemia
+- Anxiety with panic attacks
+- Gout
+- Lyme disease
+
+**Family History:**
+- No family history of Crohn's disease or ulcerative colitis
+- No family history of colon cancer but relatives with colon polyps
+- Multiple family members with diabetes and coronary artery disease
+- Father died from complications of end-stage renal disease requiring dialysis
+
+**Physical Exam:**
+- Cachectic, pale, chronically appearing, and confused
+- Vital signs: Temp 97.4°F, BP 120/20, HR 68, RR 18, SpO2 99% on RA
+- Abdomen: Scaphoid, midline vertical scar, ostomy bag in RLQ, bowel sounds present, soft, non-tender
+- Neurological: Sleepy, arouses to voice, oriented to person, place, and situation but not date
+
+**Pertinent Results:**
+- Elevated WBC, creatinine, and urea nitrogen levels
+- Normal albumin, calcium, phosphate, and magnesium levels
+- Negative for infectious causes on stool cultures
+- CT and renal ultrasound showed no significant abnormalities but noted a solid mass in the left kidney
+
+**Brief Hospital Course:**
+- The patient was admitted for evaluation of recurrent diarrhea and worsening renal failure. Extensive workup ruled out infectious causes and short gut syndrome. Imaging suggested possible Crohn's flare, but biopsies showed no diagnostic abnormalities. The patient was managed with dietary modifications, TPN for malnutrition, and medications to control diarrhea. Renal function improved with aggressive volume repletion.
+
+**Active Issues:**
+- Increased ostomy output likely due to dietary noncompliance and mild Crohn's flare
+- CKD likely secondary to DM, improved with volume repletion
+- Encephalopathy improved with discontinuation of certain medications and treatment of underlying issues
+- AG acidosis and hyponatremia resolved with rehydration
+- Chronic pain managed with fentanyl, codeine, and oxycodone
+
+**Medications on Admission:**
+- Octreotide, Immodium, cholestyramine, Zofran, tincture of opium, Enterocort, Cymbalta, Creon, Levsin, Tramadol, Neurontin, Lopid, insulin, Zantac, fentanyl patch, allopurinol, Zetia, Sucralfate
+
+**Discharge Medications:**
+- Ranitidine, budesonide, fentanyl patch, heparin flush, duloxetine, gabapentin, codeine, loperamide, allopurinol, acetaminophen, cholestyramine, oxycodone, nystatin
+
+**Discharge Disposition:**
+- Home with TPN infusion services
+
+**Discharge Diagnosis:**
+- Primary: High output chronic diarrhea
+- Secondary: Crohn's disease
+
+**Discharge Instructions:**
+- Maintain a hypo-osmolar diet, small frequent meals, and proper food refrigeration
+- Follow up with gastroenterology for further evaluation of diarrhea
+- Continue TPN for hydration and nutrition
+- Contact Dr. [Redacted] for any concerning symptoms
+
+**Follow-up Instructions:**
+- [Redacted]

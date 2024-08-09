@@ -1,0 +1,64 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Obstetrics/Gynecology
+- **Allergies:** Clindamycin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Fever, nausea, and vomiting.
+
+**Major Surgical or Invasive Procedures:**
+- CT-guided drainage of pelvic abscess with drain placement.
+- PICC line placement.
+
+**History of Present Illness:**
+- The patient is a [Redacted] G0 with a history of type 2 diabetes mellitus (T2DM), pulmonary hypertension (pulm HTN), Sweet's disease, obstructive sleep apnea (OSA), and diverticulitis status post (s/p) colectomy. She is also status post (s/p) uncomplicated total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), pelvic lymph node dissection (PLND), and cystoscopy for endometrial cancer. Her post-operative course was complicated by wound separation requiring a wound vac placement on post-operative day (POD) 2. She was started on a 7-day course of Keflex for superficial cellulitis of her left hand and discharged on POD6 to a rehabilitation facility for wound care.
+
+**Current Presentation:**
+- The patient presented to the emergency department (ED) with nausea, vomiting, and fever up to 102.6°F. A CT scan of the abdomen/pelvis showed a 5.6 cm fluid collection in the left lower quadrant (LLQ), consistent with a post-op seroma vs. lymphocele with possible abscess features. Blood and urine cultures were drawn.
+
+**Past Medical History:**
+- Endometrial cancer s/p ex lap/TAH/BSO/LND.
+- T2DM, pulmonary hypertension, OSA, Sweet's disease, anemia, diverticulitis s/p partial colectomy, irritable bowel syndrome (IBS), urge incontinence, sciatica, possible myelodysplastic syndrome, anxiety, hyperlipidemia, hypertension, morbid obesity.
+
+**Physical Exam:**
+- On admission: Vital signs stable, no acute distress, clear lungs, soft abdomen with mild tenderness, well-managed wound with no signs of infection.
+- On discharge: Vitals within normal limits, minimal abdominal discomfort, improved wound condition with granulation tissue and no significant drainage.
+
+**Pertinent Results:**
+- **Admission Labs:** Elevated WBC (18.5), low hemoglobin (8.8), and hematocrit (28.0).
+- **Microbiology:** Blood cultures grew Bacteroides fragilis; abscess cultures showed polymicrobial growth including Enterococcus species and Escherichia coli.
+- **Radiology:** CT Abd/Pelvis showed a 5.6 cm fluid collection in the left mid-pelvis, likely a postoperative seroma vs. lymphocele with possible superinfection.
+
+**Brief Hospital Course:**
+- The patient was re-admitted with fever, nausea, and vomiting due to an intra-abdominal collection suspected to be an infected lymphocyst. She was started on IV ciprofloxacin and metronidazole, later switched to IV piperacillin-tazobactam based on culture sensitivities. A CT-guided drainage was performed, and a PICC line was placed for prolonged IV antibiotic therapy. The patient’s condition improved, and she was discharged to a rehabilitation facility.
+
+**Medications on Admission:**
+- Atorvastatin, colchicine, dapsone, pioglitazone, sertraline, solifenacin, aspirin, calcium carbonate, ibuprofen, multivitamin.
+
+**Discharge Medications:**
+- Atorvastatin, dapsone, ibuprofen, glargine, insulin sliding scale, loperamide, oxycodone, piperacillin-tazobactam, sertraline, sodium chloride flush, solifenacin, acetaminophen, glipizide, glucagon, colchicine, aspirin.
+
+**Discharge Disposition:**
+- Extended care facility.
+
+**Discharge Diagnosis:**
+- Intra-abdominal abscess, bacteremia, diabetes.
+
+**Discharge Condition:**
+- Mental status: Clear and coherent.
+- Level of consciousness: Alert and interactive.
+- Activity status: Ambulatory with assistance.
+
+**Discharge Instructions:**
+- Follow medication regimen, avoid strenuous activity, and maintain wound care. Continue insulin therapy for diabetes management and follow up with primary care and diabetes specialists.
+
+**Follow-up Instructions:**
+- Weekly lab tests and follow-up appointments with infectious disease and diabetes specialists.

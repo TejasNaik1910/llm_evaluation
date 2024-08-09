@@ -1,0 +1,68 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+* Name: [Redacted]
+* Sex: Male
+* Date of Birth: [Redacted]
+* Unit No: [Redacted]
+* Admission Date: [Redacted]
+* Discharge Date: [Redacted]
+
+**Chief Complaint:**
+
+* Lymphoma
+
+**Primary Diagnosis:**
+
+* Primary mediastinal lymphoma (DLBCL)
+
+**Treatment Regimen:**
+
+* DA-EPOCH-R
+
+**History of Present Illness:**
+
+* The patient was recently diagnosed with primary mediastinal lymphoma and underwent a biopsy, which demonstrated DLBCL.
+* He was transferred to the oncology team and underwent C1 DA-EPOCH without issue.
+* He was discharged in good condition and reported some back pain associated with neupogen, which resolved quickly with a single dose of ibuprofen.
+* He also reported generalized fatigue, constipation, and symptomatic hemorrhoids.
+
+**Past Medical History:**
+
+* Pancreas divisum
+* Acute pancreatitis with necrosis s/p necrosectomy in [Redacted]
+* GERD
+* Nephrolithiasis
+
+**Physical Exam:**
+
+* The patient was pleasant, ambulating comfortably, and had no significant findings on physical exam.
+
+**Pertinent Results:**
+
+* Laboratory results showed abnormal blood counts, including low WBC, RBC, Hgb, and Hct, and elevated neutrophils and platelets.
+* Chemistry results showed elevated glucose, urea nitrogen, and creatinine, and abnormal liver function tests.
+
+**Brief Hospital Course:**
+
+* The patient was admitted for planned second cycle of DA-EPOCH.
+* He tolerated the chemotherapy well and had a port placed without issue.
+* Cardiac MRI after discharge showed no invasion into the heart or large vessels.
+* Rituxan was deferred in the first cycle due to tumor burden, but was given on day 6 without issue.
+
+**Medications:**
+
+* The patient was prescribed various medications, including atovaquone, metoprolol, acyclovir, creon, docusate sodium, filgrastim, lorazepam, nortriptyline, ondansetron, oxyCODONE, polyethylene glycol, and senna.
+
+**Discharge Disposition:**
+
+* The patient was discharged home without services.
+
+**Discharge Diagnosis:**
+
+* DLBCL
+
+**Discharge Condition:**
+
+* The patient was alert, interactive, and ambulatory, with a clear and coherent mental status.

@@ -1,0 +1,249 @@
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Compazine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+posterior pharyngeal collection
+ 
+Major Surgical or Invasive Procedure:
+ultrasound guided biopsy of the neck
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of breast 
+cancer. She received radiation treatments which then led to 
+esophageal strictures. She has received multiple dilations. She 
+has also developed vocal cord paralysis and tracheal stenosis. 
+This fall she had a trach placed. The plan was to move towards 
+decannulation. However, she did not tolerate ___ 
+button. She was seen in pulmonary clinic today for concern of 
+granulation tissue debridement. A CT scan was obtained which 
+showed a posterior pharyngeal collection. She was admitted for 
+further evaluation.
+
+ 
+Past Medical History:
+Esophageal stricture ___ radiation therapy s/p multiple 
+dilitations, last on ___
+Breast Cancer s/p right mastectomy ___, s/p chemo/XRT ___
+Hypertension
+Hypothyroidism  
+Benign spinal tumor s/p resection ___
+
+ 
+Social History:
+___
+Family History:
+Diabetes, lung cancer, and CHF
+
+ 
+Physical Exam:
+Vitals: T:95.7 BP:132/74 P:74 R:20  O2:100RA with humidifier  
+General: Thin, cachetic woman. Alert.
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: tracheostomy in place 
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: thin, soft, non-tender, non-distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly. 
+Gtube site dry, intact. 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+___ 03:30PM   ___ PTT-29.3 ___
+___ 03:30PM   PLT COUNT-331
+___ 03:30PM   NEUTS-82.9* LYMPHS-13.3* MONOS-3.6 EOS-0.1 
+BASOS-0.1
+___ 03:30PM   WBC-8.4 RBC-4.07* HGB-11.0* HCT-33.5* MCV-82 
+MCH-27.1 MCHC-33.0 RDW-15.0
+___ 03:30PM   CALCIUM-8.9 PHOSPHATE-3.7 MAGNESIUM-1.9
+___ 03:30PM   GLUCOSE-104* UREA N-19 CREAT-0.6 SODIUM-136 
+POTASSIUM-3.9 CHLORIDE-97 TOTAL CO2-31 ANION GAP-12
+___ 08:40AM BLOOD WBC-8.9 RBC-4.60 Hgb-12.2 Hct-38.1 MCV-83 
+MCH-26.5* MCHC-32.0 RDW-15.3 Plt ___
+___ 08:40AM BLOOD Plt ___
+___ 08:40AM BLOOD Glucose-104* UreaN-19 Creat-0.7 Na-134 
+K-4.1 Cl-96 HCO3-30 AnGap-12
+
+CT Neck with Contrast ___
+IMPRESSION: 
+1. Extensive hypodense material surrounding the trachea 
+posteriorly and 
+laterally causing anterior displacement and mild narrowing of 
+the trachea 
+superior to the stoma. This appears more prominent than the 
+prior study, on which it was incompletely evaluated. The 
+material appears most likely to represent a fluid collection, 
+perhaps an absces. However, indurated edematous soft tissue 
+related to surgery or infection is an alternative. 
+2. Post-tracheostomy. 
+
+MRI Soft Tissue Neck, with and w/o contrast  ___
+IMPRESSION:  
+1. Complex heterogeneous signal posterior and lateral 
+surrounding the proxial trachea in neck demonstrating mild high 
+T2 signal, dark T1 signal and enhancement on postcontrast T1 
+sequences. Again noted there is anterior displacement and mild 
+narrowing of the trachea. Differential diagnosis include 
+infection, fibrosis or a neoplastic process. 
+  
+2. T1 hypointense lesion of T3 vertebral body which appears to 
+enhancing on postcontrast T1 and suspicious for neoplasia. 
+Dedicated MR of the spine with contrast and STIR sequences is 
+suggested for further evaluation.
+
+US Guided Biopsy of the Neck ___
+IMPRESSION: Uncomplicated 18-gauge core biopsy x 2 of the dense 
+mass in the left side of neck encasing the left carotid artery.  
+
+Samples were deemed adequate by realtime pathology assessment.  
+Samples were sent for pathology and microbiological assessment. 
+
+ 
+
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ year-old woman with a history of breast 
+cancer status post radiation complicated by esophageal 
+strictures and tracheal stenosis, status post multiple 
+dilations, who was directly admitted from Interventional 
+Pulmonology clinic because of CT scan results suspicious for 
+posterior pharyngeal collection. She was admitted to a medical 
+floor.  Teams participating in her care included Interventional 
+Pulmonology, ENT, and medicine.  Her hospital course by problem 
+is as follows:
+  
+# Posterior Pharyngeal Collection: MRI on ___ indicated a 
+differential diagnosis of post-surgical fibrosis vs infection vs 
+neoplastic process.  On ___ an ultrasound-guided biopsy of the 
+neck with rapid cytology analysis showed results most consistent 
+with malignant tumor cells.  Final pathology reports are 
+pending. She will follow up as an outpatient with Dr. ___ 
+___ of ENT and with her oncologist Dr. ___ for 
+further evaluation and treatment of this neoplasm. 
+.  
+# Superventricular tachycardia (SVT).  She was monitored on 
+telemetry throughout her hospitalization.  She experienced one 
+brief episode of SVT which self-resolved.  She continued her 
+home regimen of Verapamil.  
+.
+# Hypothyroidism: She was asymptomatic, and continued her home 
+regimen of Levothyroxine.
+.  
+# Tracheal stenosis.  She was given continuous humidified air, 
+and nutrition by Two Cal HN Full strength tube feeds according 
+to her home feeding schedule.  
+.  
+# Hypertension:  She was normotensive and continued her home 
+regimen of Verapamil.  
+.
+# Anxiety: She was quite anxious during this hospitalization, 
+especially prior to procedures and after receiving the results 
+of the biopsy.  She continued her home dose of Lorazepam and 
+received additional 0.5mg doses prior to procedures.  PRN Valium 
+was also added to her regimen given her increased anxiety with 
+this new diagnosis of likely recurrent metastatic breast cancer. 
+  
+.
+# URI: Prior to this hospitalization she experienced an upper 
+respiratory infection with symptoms of chest congestion and 
+cough.  Her primary care physician started ___ regimen of 
+Doxycycline with a Prednisone taper.  We continued this regimen 
+as prescibed by her PCP.  
+.
+ 
+Medications on Admission:
+Doxycycline Hyclate 100mg PO BID 
+Prednisone 30mg PO daily x 2days, then 20mg x 2 days, then 10 mg 
+x 2 days)
+Senna 1 tab PO BOD (constipation)
+Docusate Sodium Liquid 50mg PO BID
+Levothyroxine 50mcg PO 3xwk ___, ___
+Levothyroxine 25mcg PO 4xwk (___)
+Verapamil 60mg PO daily
+Citalopram 20mg PO daily
+Tube feeds Nutren 2.0
+
+ 
+Discharge Medications:
+1. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+2. lorazepam 0.5 mg Tablet Sig: 0.5mg Tablet PO Q6H (every 6 
+hours) as needed for anxiety.  
+3. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+4. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 
+times a day).  
+5. levothyroxine 25 mcg Tablet Sig: Two (2) Tablet PO 3X/WEEK 
+(___).  
+6. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO 4X/WEEK 
+(___).  
+7. verapamil 40 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).  
+8. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+9. doxycycline hyclate 100 mg Capsule Sig: One (1) Capsule PO 
+Q12H (every 12 hours) for 2 days.  
+10. prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily): Please decrease the dose in half every 2 days according 
+to the prior instructions.  
+11. diazepam 2 mg Tablet Sig: ___ Tablets PO every twelve (12) 
+hours as needed for anxiety: Please do not take while performing 
+activities that require alertness.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Mass in left neck
+
+Secondary diagnosis
+Tracheal stenosis
+Esophageal Strictures
+Breast Cancer
+Anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Thank you for allowing us to take part in your care.  You were 
+admitted to ___ after being 
+seen in pulmonary clinic on ___. A CT scan was obtained which 
+showed a collection of fluid and tissue. You were admitted for 
+further testing to try to diagnose this mass. You had an 
+ultrasound guided biopsy of your neck.  Analysis of the cells 
+from the biopsy showed that these cells were likely cancer 
+cells. You will have appointments with several doctors to help 
+determine what type of treatment to perform. 
+You will be called back by their office with the specific times. 
+
+
+We made the following changes to your medications:
+
+We STARTED diazepam (Valium). This medicine is similar to ativan 
+(lorazepam). However, it lasts longer in your system. You should 
+not take it at the same time as ativan. This can make you 
+drowsy, so do not engage in activities that require alertness 
+while taking.
+ 
+Followup Instructions:
+___

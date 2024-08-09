@@ -1,0 +1,311 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, shortness of breath
+
+ 
+Major Surgical or Invasive Procedure:
+___: Coronary artery bypass grafting x 4, left internal 
+mammary artery graft to left anterior descending, reverse 
+saphenous vein graft to the first marginal branch, second 
+marginal branch and posterior descending artery.  Removal of 
+left ventricular  intracardiac tumor.
+
+ 
+History of Present Illness:
+Mr. ___ is a very nice ___ year old male with history of 
+chronic obstructive pulmonary disease, diabetes melltitus, 
+hypertension, and obesity. He presented to ___ 
+___ with shortness of breath and chest pain. He ruled in 
+for non-ST elevation myocardial infarction. A transthoracic 
+echocardiogram demonstrated normal left ventricular function, 
+dilated left atrium, and mild to moderate mitral regurgiation. A 
+cardiac catheterization revealed three-vessel coronary artery 
+disease. He was transferred to ___ for coronary artery bypass 
+graft evaluation. Surgery was recommended to reduce his risk of 
+future myocardial infarction and/or death.
+ 
+Past Medical History:
+Chronic Obstructive Pulmonary Disease
+Diabetes Mellitus type 2 
+Diabetic Neuropathy
+Hypertension
+Obesity 
+Carpal Tunnel Release, bilateral
+Cataracts, bilateral
+ 
+Social History:
+___
+Family History:
+No known history of premature coronary artery disease
+Mother dies age ___ healthy
+father died age ___ healthy
+ 
+Physical Exam:
+HR: 81  BP: 162/92  RR: 18  O2 sat: 96% RA
+Height: 71 in  Weight: 281 lbs 
+
+___: Obese appearing male arrived from OSH in NAD
+Skin: Dry [yeast in groin] intact [x]
+HEENT: PERRL [x] EOMI []
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds 
++[x]
+Extremities: Warm [x], well-perfused [x]  Edema: none [] 
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+DP           Right: +  Left: +
+Radial       Right: +  Left: +
+
+Carotid Bruit:  none appreciated
+
+Discharge Examination 
+24 HR Data (last updated ___ @ 909)
+    Temp: 98 (Tm 98.0), BP: 117/67 (117-141/58-76), HR: 64 
+(63-75), RR: 16 (___), O2 sat: 96% (92-97), O2 delivery: Ra
+Fluid Balance (last updated ___ @ 906)
+  Last 8 hours  Total cumulative 10ml
+    IN: Total 360ml, PO Amt 360ml
+    OUT:  Total 350ml, Urine Amt 350ml
+  Last 24 hours  Total cumulative 150ml
+    IN: Total 1000ml, PO Amt 1000ml
+    OUT:  Total 850ml, Urine Amt 850ml
+
+___: NAD  
+Neurological: A/O x self and place no focal deficits unable to 
+complete months
+backwards 
+Cardiovascular: RRR
+Respiratory: diminished at bases  No resp distress
+GI/Abdomen: Bowel sounds present  Soft  ND NT 
+Extremities: 
+Right Upper extremity   Warm  Edema trace
+Left Upper extremity    Warm  Edema trace
+Right Lower extremity   Warm  Edema trace 
+Left Lower extremity    Warm  Edema trace
+Pulses:
+DP             Right:p       Left:p
+___             Right:p       Left:p
+Radial         Right:p       Left:p
+Ulnar          Right:        Left:
+Sternal: CDI  no erythema or drainage Sternum stable
+Lower extremity: Left CDI 
+ 
+Pertinent Results:
+Labs
+___ 05:02AM BLOOD WBC-8.6 RBC-3.56* Hgb-11.0* Hct-33.3* 
+MCV-94 MCH-30.9 MCHC-33.0 RDW-13.3 RDWSD-46.1 Plt ___
+___ 07:00PM BLOOD WBC-9.3 RBC-4.91 Hgb-15.1 Hct-45.1 MCV-92 
+MCH-30.8 MCHC-33.5 RDW-13.7 RDWSD-46.0 Plt ___
+___ 04:54AM BLOOD Glucose-123* UreaN-53* Creat-1.8* Na-135 
+K-3.7 Cl-93* HCO3-29 AnGap-13
+___ 01:28PM BLOOD Glucose-228* UreaN-41* Creat-2.3* Na-137 
+K-3.2* Cl-99 HCO3-23 AnGap-15
+___ 07:00PM BLOOD Glucose-209* UreaN-26* Creat-1.3* Na-138 
+K-3.7 Cl-98 HCO3-26 AnGap-14
+___ 07:00PM BLOOD ALT-39 AST-66* LD(LDH)-393* AlkPhos-71 
+Amylase-36 TotBili-0.8
+___ 07:00PM BLOOD Lipase-42
+___ 10:40AM BLOOD CK-MB-3 cTropnT-1.88*
+___ 04:39AM BLOOD cTropnT-1.07*
+___ 07:00PM BLOOD CK-MB-9 cTropnT-0.93*
+___ 04:54AM BLOOD Mg-2.2
+___ 07:00PM BLOOD Albumin-4.1 Phos-2.7 Mg-1.5*
+___ 07:00PM BLOOD %HbA1c-7.5* eAG-169*
+___ 07:00PM BLOOD TSH-0.67
+
+___
+CXR - Lungs are low volume with subsegmental atelectasis in the 
+left lung base and right lung base.  Right IJ line has been 
+removed in the interim. 
+Cardiomediastinal silhouette stable.  No pneumothorax is seen.  
+No new 
+consolidations concerning for pneumonia. 
+
+PFT ___
+IMPRESSION
+MECHANICS: The ___ and FEV1 are moderately reduced. The FEV1/FVC 
+ratio is normal. There was no
+significant change following inhaled bronchodilator.
+FLOW-VOLUME LOOP: Mildly reduced flows with an early termination 
+of exhalation.
+LUNG VOLUMES: The TLC and FRC are mildly reduced. The RV is 
+normal. The RV/TLC ratio is elevated.
+DLCO: The diffusion capacity uncorrected for hemoglobin is 
+moderately reduced.
+Impression:
+Moderate gas exchange defect. Although results suggest a mild 
+restrictive ventilatory defect the FVC
+may be underestimated due to an early termination of exhalation 
+and the RV is likely overestimated
+and/or TLC underestimated due to a suboptimal SVC manuever. 
+There are no prior studies available for
+comparison.
+
+LV mass pathology 
+Mass, left ventricle, extraction:
+- Partially organized fibrinous nodule (0.7 cm) with focal 
+dystrophic calcification and extensive
+associated histiocytic reaction (highlighted by a CD68 
+immunostain).
+- No malignancy identified; immunostains for cytokeratin 
+cocktail and S100 are negative for any
+lesional cells.
+- Gram and GMS stains are negative for microorganisms.
+Note: See associated microbiologic culture results ___ 
+___ ___ for further
+characterization.
+ 
+Brief Hospital Course:
+Transferred from OSH ___ with significant coronary artery 
+disease.  He was evaluated by cardiology and felt to be better 
+served by bypass surgery.  He underwent preoperative workup 
+including pulmonary function test.   He remained hemodynamically 
+stable and was taken to the operating room on ___. He 
+underwent coronary artery bypass grafting x4 and removal of 
+intracardiac tumor. Please see operative note for full details. 
+He was taken to the intensive care unit post operative for 
+management.  Later that evening he was weaned from sedation, 
+awoke and was extubated requiring face mask.  On post operative 
+day one he was started on Lasix drip for diuresis due to 
+increasing oxygen requirement.  He was started on betablockers 
+and weaned of vasodilator drip.   He however due to agitation 
+and confusion was started on precede drip and then also treated 
+with Haldol.  Over the next few days he remained delirious with 
+hypoxia and renal function worsened with noted acute kidney 
+injury.  Diuretics were adjusted and he was weaned down on 
+oxygen to nasal cannula.  His delirium was improving with 
+improved sleep.  His chest tubes and epicardial wires were 
+removed per protocol.  He was transitioned to the floor on post 
+operative day six.  He was weaned to room air and creatinine was 
+improving but not fully to baseline.  He worked with physical 
+and occupational therapy with recommendation for acute rehab.  
+He was clinically stable for discharge to acute rehab on post 
+operative day nine.  Continues with oral Lasix for diuresis, 
+delirium resolving but still forgetful at times.  Recommend 
+recheck labs in few days to evaluate renal function and lytes.  
+He was discharged to ___ rehab in ___.  He was continued on 
+insulin until creatinine stable to resume oral diabetic 
+medications and was not placed on ___ for NSTEMI due to ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 100 mg PO DAILY 
+2. MetFORMIN (Glucophage) 1000 mg PO BID 
+3. CloNIDine 0.1 mg PO BID 
+4. Gabapentin 300 mg PO 5 TIMES DAILY 
+5. GlipiZIDE XL 20 mg PO DAILY 
+6. Lisinopril 40 mg PO DAILY 
+7. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+please give ATC for 48 hours then change to as needed   
+2.  Albuterol Inhaler 2 PUFF IH Q6H:PRN sob/wheezing  
+3.  amLODIPine 10 mg PO DAILY  
+4.  Aspirin EC 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  Bisacodyl ___AILY:PRN constipation  
+7.  Famotidine 20 mg PO DAILY Duration: 30 Days  
+8.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+9.  Furosemide 40 mg PO BID 
+take twice a day for 5 days then daily for 5 days then if able 
+restart HCTZ   
+10.  Heparin 5000 UNIT SC BID 
+stop when ambulating adequately   
+11.  HydrALAZINE 75 mg PO Q6H  
+12.  Glargine 40 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin 
+13.  Ipratropium Bromide MDI 2 PUFF IH QID  
+14.  MetOLazone 2.5 mg PO DAILY Duration: 3 Days  
+15.  Metoprolol Tartrate 25 mg PO TID  
+16.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+17.  Gabapentin 300 mg PO TID  
+18.  CloNIDine 0.1 mg PO BID  
+19. HELD- GlipiZIDE XL 20 mg PO DAILY  This medication was held. 
+Do not restart GlipiZIDE XL until cr stable and ___ resolved 
+20. HELD- Lisinopril 40 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until instructed as stopped due to ___ 
+
+21. HELD- MetFORMIN (Glucophage) 1000 mg PO BID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until renal 
+function stable 
+22.Outpatient Lab Work
+please check bmp ___ to monitor cr and lytes with diuresis 
+results to cardiac surgery ___
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease s/p coronary revascularization 
+Left ventricular mass removed - micro negative  
+Non-ST Elevation Myocardial Infarction
+Acute encephalopathy multifactorial 
+Acute Kidney Injury 
+Acute on chronic respiratory failure with hypoxia due to volume 
+overload 
+
+Secondary Diagnosis
+Chronic Obstructive Pulmonary Disease
+Diabetes Mellitus type 2 
+Diabetic Neuropathy
+Hypertension
+Obesity 
+ 
+Discharge Condition:
+Alert and oriented x self and place - forgetful at times  
+nonfocal 
+Ambulating with assistance 
+Incisional pain managed with acetaminophen 
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Leg Left EVH - healing well, no erythema or drainage. 
+Edema - trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the 
+chart.
+****call MD if weight goes up more than 3 lbs in 24 hours or 5 
+lbs over  5 days****.
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Encourage full shoulder range of motion, unless otherwise 
+specified
+
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

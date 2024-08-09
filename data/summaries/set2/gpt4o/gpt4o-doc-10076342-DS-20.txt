@@ -1,0 +1,64 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Neurosurgery
+- **Allergies:** Iodine, Iodine Containing
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Altered mental status
+
+**Major Surgical or Invasive Procedures:**
+- NGT placement
+- US-guided liver biopsy
+- Craniotomy and resection of brain metastasis
+
+**History of Present Illness:**
+- A male patient with metastatic non-small cell lung cancer (NSCLC) with known brain metastases, currently undergoing whole-brain radiation therapy (WBXRT) and lung radiation therapy (XRT). The patient was on Decadron and presented with worsening delirium and jaundice. He was transferred for further care after initial management at an outside hospital (OSH).
+
+**Diagnostic Tests and Findings:**
+- **CT Head:** Hyperdense lesion in the right occipital lobe (4.4 cm x 3 cm) with surrounding vasogenic edema and mass effect compressing the adjacent occipital horn of the right lateral ventricle.
+- **RUQ Ultrasound:** Echogenic liver with an 8 cm mass, patent portal vein.
+- **MRI:** Lesion in liver segment 6, no evidence of tumor on biopsy.
+- **Lab Results:** Elevated T Bili (5.6), D Bili (1.4), Alk Phos (260), AST (91), ALT (103), INR (2.1), ammonia (208), glucose (358), WBC (11.7), RBC (4.57), HGB (15.7), HCT (46.5), MCV (102), MCH (34.4), PLT (82).
+
+**Hospital Course:**
+1. **Delirium/Hepatic Encephalopathy:** Likely due to liver decompensation from Decadron and XRT. Managed with lactulose and rifaximin, leading to significant mental status improvement.
+2. **Non-Small Cell Lung Cancer:** Followed by multiple specialists. Initial plan included WBXRT and XRT with potential Cyberknife and lung resection. Given liver decompensation, further treatment plans were reconsidered.
+3. **Cirrhosis with Possible Liver Metastases:** Initially presumed due to alcohol use, but imaging suggested pseudocirrhosis. Liver biopsy showed cirrhosis without tumor.
+4. **Brain Metastasis:** Hemorrhagic right occipital brain metastasis. Neurosurgery performed craniotomy for resection, which the patient tolerated well.
+5. **Coagulopathy and Thrombocytopenia:** Managed with FFP and platelet transfusions.
+6. **Splenic Infarct:** Monitored without anticoagulation due to hemorrhagic brain metastasis.
+7. **Alcoholism:** Managed with thiamine and folate, no signs of withdrawal.
+8. **Dehydration:** Managed with fluids.
+9. **Hyperglycemia:** Likely due to Decadron, managed with insulin.
+10. **Hypertension:** Continued on metoprolol.
+11. **Macrocytosis:** B12/folate levels normal/high.
+
+**Medications on Admission:**
+- Decadron, Metoprolol, Prilosec
+
+**Discharge Medications:**
+- Thiamine, Folic Acid, Menthol-Cetylpyridinium, Lactulose, Lidocaine, Pantoprazole, Docusate Sodium, Metoprolol, Multivitamins, Albuterol, Ipratropium, Levetiracetam, Rifaximin, Nystatin, Dexamethasone, Bisacodyl, Senna, Insulin
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Metastatic lung cancer to brain
+- Cirrhosis of the liver
+
+**Discharge Condition:**
+- Neurologically stable
+
+**Discharge Instructions:**
+- Post-craniotomy care, including wound monitoring, medication adherence, and activity restrictions. Specific instructions for signs of complications and follow-up care were provided.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,46 @@
+Here is a summary of the clinical note with the essential information:
+
+**Cancer Type:** The patient has a history of breast cancer, and the recent biopsy suggests likely recurrent metastatic breast cancer.
+
+**Morphology:** The morphology of the cancer is not specified in the note.
+
+**Cancer Stage:** The stage of the cancer is not explicitly stated, but the presence of a posterior pharyngeal collection and a mass in the left neck suggests advanced disease.
+
+**Progression:** The patient has a history of breast cancer, which has led to esophageal strictures and tracheal stenosis. The recent development of a posterior pharyngeal collection and a mass in the left neck suggests disease progression.
+
+**TNM Staging:** Not provided in the note.
+
+**Prescribed Medications:**
+
+* Doxycycline 100mg PO BID
+* Prednisone 30mg PO daily x 2 days, then 20mg x 2 days, then 10mg x 2 days
+* Senna 1 tab PO BID
+* Docusate Sodium Liquid 50mg PO BID
+* Levothyroxine 50mcg PO 3xwk and 25mcg PO 4xwk
+* Verapamil 60mg PO daily
+* Citalopram 20mg PO daily
+* Tube feeds Nutren 2.0
+* Discharge medications:
+	+ Metoclopramide 10mg Tablet PO QID
+	+ Lorazepam 0.5mg Tablet PO Q6H as needed for anxiety
+	+ Senna 8.6mg Tablet PO BID as needed for constipation
+	+ Docusate sodium 50mg/5mL Liquid PO BID
+	+ Levothyroxine 25mcg Tablet PO 3X/WEEK and 4X/WEEK
+	+ Verapamil 40mg Tablet PO daily
+	+ Citalopram 20mg Tablet PO daily
+	+ Doxycycline hyclate 100mg Capsule PO Q12H for 2 days
+	+ Prednisone 20mg Tablet PO daily
+	+ Diazepam 2mg Tablet PO every 12 hours as needed for anxiety
+
+**Diagnostic Tests Conducted:**
+
+* CT scan of the neck with contrast
+* MRI of the soft tissue neck with and without contrast
+* Ultrasound-guided biopsy of the neck
+
+**Surgical Interventions Performed:**
+
+* Ultrasound-guided biopsy of the neck
+* Tracheostomy (previous)
+
+**Patient's Response to Treatment:** The patient is anxious about the new diagnosis and will require further evaluation and treatment for the likely recurrent metastatic breast cancer.

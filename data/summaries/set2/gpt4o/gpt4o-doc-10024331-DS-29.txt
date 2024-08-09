@@ -1,0 +1,76 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Hematuria
+
+**Major Surgical or Invasive Procedure:**
+- Foley catheter insertion and irrigation
+
+**History of Present Illness:**
+- The patient, with a history of prostate cancer (T3b N0 M0, Gleason 4+3, Stage III) and coronary artery disease (CAD) with multiple stents, presented with continued hematuria after being discharged from rehab following an open reduction and internal fixation (ORIF) of the right hip. The hematuria began two days after Foley catheter removal, with numerous clots in the urine. The patient was on ciprofloxacin for a urinary tract infection (UTI) and was taking Plavix, aspirin, and warfarin. Hematuria persisted despite holding warfarin, leading to an emergency room visit.
+
+**Past Medical History:**
+- Prostate cancer (T3b N0 M0, Gleason 4+3, Stage III)
+- Coronary artery disease with multiple percutaneous interventions
+- Paroxysmal atrial fibrillation
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Chronic kidney disease
+- Gout
+- Osteoarthritis of the knees
+- Anemia
+- History of gallstones, radiation proctitis, and multiple hip replacements
+
+**Physical Exam:**
+- On admission: Elderly male, afebrile, stable vitals, dark red urine with clots in Foley catheter, no acute distress.
+- On discharge: Stable vitals, Foley removed, otherwise unchanged from admission.
+
+**Diagnostic Tests:**
+- **Admission Labs:** Notable for hematuria, large blood in urine, elevated WBC, and positive nitrite and leukocyte esterase.
+- **Renal Ultrasound:** Stable cystic lesions in kidneys, irregular filling defect in bladder likely representing a blood clot.
+- **Lower Extremity Ultrasound:** No evidence of deep vein thrombosis (DVT).
+
+**Brief Hospital Course:**
+1. **Hematuria:** Likely due to traumatic injury from Foley catheter in a patient with radiation cystitis. Hematuria improved after Foley catheter irrigation and was removed before discharge. Follow-up with outpatient urologist recommended.
+2. **Lower Extremity Swelling:** Bilateral swelling, worse on the left, with no DVT. Increased Lasix dose to 40 mg daily.
+3. **Coronary Artery Disease:** Continued aspirin and Plavix. No chest pain reported.
+4. **Type 2 Diabetes Mellitus:** Continued Glipizide 2.5 mg BID.
+5. **Paroxysmal Atrial Fibrillation:** Continued metoprolol and amiodarone.
+6. **Parkinson's Disease:** Continued Selegiline 5 mg daily.
+7. **Gout:** Continued Colchicine 0.6 mg daily.
+
+**Medications on Admission:**
+- Amiodarone, Lipitor, Plavix, Colchicine, Cyclobenzaprine, Coumadin, Lasix, Glipizide, Metoprolol, Nitroglycerin, Selegiline, Aspirin.
+
+**Discharge Medications:**
+- Aspirin, Amiodarone, Lipitor, Clopidogrel, Colchicine, Furosemide, Glipizide, Metoprolol, Nitroglycerin, Selegiline.
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- Primary: Hematuria, radiation cystitis
+- Secondary: Coronary artery disease
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory with assistance
+
+**Discharge Instructions:**
+- Continue aspirin and Plavix daily.
+- Increased Lasix to 40 mg daily for lower extremity swelling.
+- Follow-up appointments as scheduled.
+
+**Follow-up Instructions:**
+- [Redacted]

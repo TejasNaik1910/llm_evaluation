@@ -1,0 +1,61 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Fever
+
+**Major Surgical or Invasive Procedures:**
+- Pleural drain placement
+- IP bedside chest tube placement
+- VATs/Decortication/Pulmonary Nodule Biopsy
+- Bronchoscopy
+
+**History of Present Illness:**
+The patient, a male with a history of hepatitis B (on tenofovir) and hepatocellular carcinoma (HCC), presented with subjective fevers, shortness of breath, and tachycardia. He had a right hepatic lobectomy previously, revealing a tumor infiltrating the diaphragmatic muscle. He was admitted with a right-sided pleural effusion and negative cytology. During a prior admission, he had a large right pleural effusion drained, revealing lymphocytic exudative effusion and pleural nodules suggestive of metastases. AFP levels increased from 19 to 31. A staging CT showed pleural nodules and a supra-hepatic IVC thrombus, leading to enoxaparin initiation.
+
+**Physical Examination:**
+- **Admission:** T 99.0, BP 142/87, HR 108, RR 20, O2 sat 98% on 2L NC
+- **Discharge:** T 97.9, BP 138/83, HR 84, RR 18, O2 sat 98% on RA
+
+**Diagnostic Tests:**
+- **CXR:** Substantial residual right pleural effusion, loculated with gas collections, and severe right basal atelectasis.
+- **CT Chest:** Complex right pleural effusion with gas locules, suggestive of hemothorax and blood clot. Stable small pulmonary nodules.
+- **Pathology:** Pleural fluid negative for malignant cells. Pleura biopsy confirmed metastatic HCC.
+
+**Medications:**
+- **Admission:** Finasteride, Tamsulosin, Tenofovir, Oxycodone, Polyethylene Glycol, Acetaminophen, Enoxaparin
+- **Discharge:** Amoxicillin-Clavulanic Acid, Mirtazapine, Multivitamins, Acetaminophen, Enoxaparin, Finasteride, Oxycodone, Polyethylene Glycol, Tamsulosin, Tenofovir
+
+**Hospital Course:**
+The patient was admitted with sepsis and empyema, requiring broad-spectrum antibiotics and pleural drainage. Despite interventions, he had minimal clinical improvement and ongoing fevers. Surgical management included RLL VATS/decortication/pulmonary nodule biopsy, revealing metastatic HCC. Post-surgery, he was maintained on vancomycin and zosyn, later switched to augmentin for a suspected RLL parenchymal abscess. Hemoptysis and bleeding complications were managed with bronchoscopy and reinitiation of anticoagulation therapy. The patient’s creatinine levels improved after adjusting medications.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Continue prescribed medications and follow up with outpatient providers.
+- Seek immediate medical attention if experiencing fevers, lethargy, or shortness of breath.
+
+**Follow-up:**
+- Close follow-up with interventional pulmonology and oncology for monitoring and treatment planning.
+- Outpatient BMP to monitor kidney function.
+- CT scan within weeks to monitor abscess.
+
+**Discharge Diagnoses:**
+- Primary: Metastatic HCC, IVC thrombus, Pulmonary abscess, Empyema, Malignant pleural effusion, Hemoptysis
+- Secondary: Hepatitis B, Elevated fasting glucose
+
+**Contact Information:**
+- Daughter-in-law and son for communication and care coordination.

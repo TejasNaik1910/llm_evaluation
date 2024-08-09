@@ -1,0 +1,69 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Allergies:**
+- Sitagliptin
+- Fesoterodine
+- Statins-Hmg-Coa Reductase Inhibitors
+- Saxagliptin
+- Pioglitazone
+- Canagliflozin
+- Fenofibrate
+
+**Chief Complaint:**
+- Fever
+
+**Major Surgical or Invasive Procedure:**
+- ERCP with plastic stent pull and balloon sweeps, difficult ERCP
+
+**History of Present Illness:**
+- The patient, diagnosed with metastatic pancreatic cancer to the liver (KRAS mutation), was admitted for fever (up to 102.2°F), nonbilious emesis, and acute urinary retention. He was on bridge chemotherapy with erlotinib and was scheduled for gemcitabine, which was held due to new symptoms. He reported increased bloating, poor appetite, and low-grade fevers.
+
+**Physical Exam on Admission:**
+- Cachectic, mildly jaundiced, oropharyngeal thrush, trace edema, skin desquamation on feet, no abdominal pain, fevers, chills, or night sweats.
+
+**Diagnostic Tests:**
+- **Labs:** Elevated WBC, low hemoglobin/hematocrit, low sodium, elevated ALT/AST, elevated bilirubin, elevated lactate, elevated CEA.
+- **Imaging:** RUQ ultrasound showed mild biliary ductal dilation, numerous hepatic metastases, mild splenomegaly, and pancreatic neoplasm. KUB showed no small-bowel obstruction. CXR showed no pneumonia or pulmonary edema. MRI of the liver showed progression of hepatic masses and increased ascites. CT chest showed new and increased nodules indicating progressive metastatic disease.
+- **ERCP:** Revealed a previously placed metal stent and plastic stents with significant debris. Cannulation of the bile duct was successful, and balloon sweeps removed sludge.
+
+**Past Medical History:**
+- Pancreatic adenocarcinoma metastatic to the liver, diagnosed with a 3.3 cm pancreatic head mass and 1.8 cm left kidney lesion. The pancreatic mass was unresectable. Treated with FOLFIRINOX, then gemcitabine/Abraxane, and later modified FOLFIRINOX. Complications included right thigh muscle infarct and neuropathy. Imaging showed mixed responses and progression of disease.
+
+**Medications on Admission:**
+- Amlodipine, Metformin XR, Tamsulosin, Duloxetine, Creon, Lorazepam, Methylphenidate, Nystatin, Pyridoxine, Glargine, Insulin sliding scale.
+
+**Hospital Course:**
+- **Polymicrobial Bacteremia/Biliary Sepsis:** Treated with IV antibiotics (cefepime/flagyl, then zosyn). Blood cultures grew Klebsiella and Enterococcus. ERCP performed for stent repositioning and debris removal.
+- **Malignant Biliary Obstruction:** Managed with ERCP and stent repositioning. LFTs trended.
+- **Hypertension:** Managed with amlodipine and lisinopril.
+- **Anemia:** Likely anemia of chronic disease.
+- **Acute Kidney Injury:** Improved with treatment.
+- **Urinary Retention:** Resolved.
+- **Diabetes Mellitus Type 2:** Managed with insulin and metformin.
+- **Metastatic Pancreatic Cancer:** Continued bridge chemotherapy pending clinical status.
+
+**Discharge Medications:**
+- Amlodipine, Creon, Duloxetine, Lorazepam, Methylphenidate, Pyridoxine, Tamsulosin, Piperacillin-Tazobactam, Nystatin, Metformin XR, Glargine, Lisinopril.
+
+**Discharge Instructions:**
+- Finish 2-week course of zosyn, follow up with oncologist, monitor liver tests, and recheck electrolytes and LFTs.
+
+**Discharge Diagnosis:**
+- Primary: Biliary obstruction, pancreatic cancer, Klebsiella and enterococcal septicemia, acute kidney injury.
+- Secondary: Type 2 diabetes mellitus, hypertension.
+
+**Discharge Condition:**
+- Clear mental status, alert, ambulatory, and independent.
+
+**Follow-up:**
+- Home with service, follow-up lab work, and oncologist consultation.

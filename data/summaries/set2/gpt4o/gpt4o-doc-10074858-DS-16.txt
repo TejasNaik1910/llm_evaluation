@@ -1,0 +1,83 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Penicillins
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Shortness of breath
+- Left lower extremity (LLE) pain
+
+**Major Surgical or Invasive Procedure:**
+- Placement of Inferior Vena Cava (IVC) filter
+
+**History of Present Illness:**
+- A [Redacted] year old man with a history of esophageal cancer status post esophagectomy presents with progressive LLE pain, mild swelling, and mild dyspnea on exertion. Symptoms began three days prior with pain behind the proximal calf and distal thigh, worsening over time, leading to difficulty walking. The left leg, usually smaller than the right, was slightly more swollen. The patient also experienced increased shortness of breath over the last 48 hours with minimal exertion but denied shortness of breath at rest, lightheadedness, or pleuritic chest pain. No personal or family history of venous thromboembolism (VTE).
+
+**Diagnostic Tests:**
+- **Doppler Ultrasound:** Revealed deep vein thrombosis (DVT) in the left popliteal vein extending to the mid portion of the left superficial femoral vein.
+- **CTA Chest:** Showed bilateral segmental and subsegmental pulmonary embolisms (PEs), increased size of the right heart cavity suggesting right heart strain, small right pleural effusion, and atelectasis.
+- **TTE:** Normal left ventricular wall thickness and cavity size, low normal left ventricular systolic function (LVEF ~50%), borderline pulmonary artery systolic hypertension, and an extensive acoustic density abutting the left atrium likely related to esophageal cancer.
+
+**Past Medical History:**
+- Esophageal cancer
+- Chronic anemia
+- Diverticulitis status post urgent sigmoid colectomy
+- Emergent splenectomy
+- Tonsillectomy
+- Clostridium difficile infection
+- Obesity
+
+**Physical Exam:**
+- **Admission:** Well-appearing, anxious, normal vital signs, no significant findings except for mild tenderness in the LLE.
+- **Discharge:** Stable vital signs, no significant findings except for tenderness in the LLE and improving erythema at the right great toe.
+
+**Pertinent Results:**
+- Elevated proBNP (367), low hemoglobin (11.9), and hematocrit (35.1).
+- Normal cardiac enzymes and renal function.
+
+**Brief Hospital Course:**
+- **Bilateral PEs and DVT:** Started on heparin IV, IVC filter placed, transitioned to warfarin with overlap of enoxaparin for two days. Patient preferred warfarin over long-term lovenox.
+- **Hypertension (HTN):** Atenolol held due to PEs, BP remained stable.
+- **Wound/Ostomy Care:** Consulted wound care nursing for ostomy and fistula wounds.
+- **Gout:** Treated with colchicine for a flare in the great toes.
+
+**Medications on Admission:**
+- Atenolol 50 mg daily
+- Omeprazole 20 mg twice daily
+- Iron 325 mg daily
+
+**Discharge Medications:**
+1. Omeprazole 20 mg twice daily
+2. Oxycodone 5 mg as needed for pain
+3. Warfarin 5 mg daily
+4. Colchicine 0.6 mg daily for 2 days
+5. Enoxaparin 90 mg subcutaneously every 12 hours for 2 days
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Pulmonary embolism
+- Deep vein thrombosis
+- Gout
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Explanation of the condition and treatment, including the placement of the IVC filter and anticoagulation therapy.
+- Medication changes: Start warfarin and colchicine, stop atenolol.
+- Follow-up with primary care doctor for potential long-term gout treatment and to reassess atenolol.
+
+**Follow-up Instructions:**
+- [Redacted]

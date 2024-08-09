@@ -1,0 +1,520 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Found down
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture: ___
+Paracentesis: ___
+
+ 
+History of Present Illness:
+___ female history of triple negative breast cancer on
+chemo & checkpoint inhibitor therapy presenting with hypoxia and
+cough.
+
+Pt found on the floor by friend with a down time of 
+approximately
+48 hours. She laid herself on the floor because of fatigue,
+dizziness and nausea w/o vomiting but denies a fall or LOC.  She
+also complains of a month long cough with white sputum
+production. 
+
+At present time the patient is a poor historian iso of  mental
+status changes. She endorses a LUQ pain but is not sure how long
+she has had this pain and cannot characterize it. She denies CP,
+diarrhea, F/C or dysuria, but endorses urinary frequency
+
+In the ED,  
+- Initial Vitals: TEMP 96.5 HR101 BP 97/65 RR18 SAT83%RA, 97%6L
+- Exam:  Chest: Right-sided large breast wound with dressing in
+place
+- Labs:  Notable for UA pyuria (>182), Cr 2.1, Lactate 2.9, K2.1
+- Imaging:  CT HEAD unremarkable, CHEST  New diffuse 
+ground-glass
+opacities with septal thickening throughout both
+lungs
+- Consults:  Heme/Onc
+- Interventions: Vanc, Zosyn, Methylprednisolone, 3L fluid
+resuscitation
+  
+
+ 
+Past Medical History:
+Triple negative breast cancer, locally advanced
+Hypertension
+Migraines
+Hyperthyroidism
+s/p appendectomy
+ 
+Social History:
+___
+Family History:
+G6PD deficiency - son
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM 
+======================== 
+GENERAL: Confused. Frail. 
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. 
+NECK: Thyroid is normal in size and texture, no nodules. No
+cervical lymphadenopathy. No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: B/L crackles in the lower lung bases. Poor inspiratory
+effort limiting exam. 
+BACK: No spinous process tenderness. No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: 12x6cm ulcerating Fungating mass on R breast with bandage
+covering.  
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait not tested. Oriented to person, place, but not
+time. She is unable to repeat the days of the week backwards  
+
+DISCHARGE PHYSICAL EXAM 
+========================
+TM 98.0 PO BP 105 / 74 HR 109 RR 20 SPO2 97 ra 
+GENERAL: Chronically ill appearing woman laying in bed in no
+acute distress
+CARDIAC: RRR, nl s1/s2, No murmurs/rubs/gallops.  
+LUNGS: CTAB on anterior auscultation, no w/r/r
+ABDOMEN: Soft, non-tender, mild distention, normoactive bowel
+sounds
+NEURO: AAOx3 although slow. Moves all extremities. CN II-XII
+grossly intact. 
+EXT: 2+ pitting edema
+SKIN: 12x6cm ulcerating lesion on R breast 
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 05:33PM BLOOD WBC-9.1 RBC-4.28 Hgb-8.9* Hct-29.2* 
+MCV-68* MCH-20.8* MCHC-30.5* RDW-26.3* RDWSD-61.2* Plt Ct-86*
+___ 05:33PM BLOOD ___ PTT-30.4 ___
+___ 06:00AM BLOOD ___ D-Dimer-6359*
+___ 05:33PM BLOOD Glucose-138* UreaN-65* Creat-2.1*# Na-136 
+K-4.0 Cl-103 HCO3-13* AnGap-19*
+___ 05:33PM BLOOD ALT-35 AST-149* CK(CPK)-144 AlkPhos-66 
+TotBili-1.3
+___ 05:33PM BLOOD Albumin-2.9* Calcium-8.5 Phos-3.5 Mg-2.9*
+___ 05:33PM BLOOD Albumin-2.9* Calcium-8.5 Phos-3.5 Mg-2.9*
+
+INTERVAL LABS
+===============
+___ 09:25AM BLOOD Fibrino-45*
+___ 07:15PM BLOOD FDP-80-160*
+___ 02:04AM BLOOD Parst S-NEG
+___ 09:25AM BLOOD calTIBC-237* ___ Folate-6 
+___ Ferritn-703* TRF-182*
+___ 04:59AM BLOOD ___ Titer-1:1280*
+___ 10:47AM BLOOD Ammonia-<10
+___ 04:59AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-POS* HAV 
+Ab-POS*
+___ 04:59AM BLOOD IgG-1504 IgA-261 IgM-58
+___ 02:04AM BLOOD Lyme Ab-NEG
+___ 04:27PM BLOOD PEP-NO SPECIFI
+___ 04:59AM BLOOD tTG-IgA-7
+___ 04:59AM BLOOD HCV Ab-NEG
+___ 06:51PM BLOOD HBV VL-NOT DETECT
+
+DISCHARGE LABS
+===============
+___ 05:35AM BLOOD WBC-13.8* RBC-2.65* Hgb-6.9* Hct-23.4* 
+MCV-88 MCH-26.0 MCHC-29.5* RDW-23.9* RDWSD-75.9* Plt ___
+___ 05:35AM BLOOD ___ PTT-29.1 ___
+___ 05:35AM BLOOD Glucose-179* UreaN-15 Creat-0.7 Na-144 
+K-3.9 Cl-117* HCO3-17* AnGap-10
+___ 04:27AM BLOOD ALT-26 AST-24 AlkPhos-221* TotBili-0.4
+___ 05:35AM BLOOD Calcium-8.5 Phos-3.4 Mg-1.9
+
+CYTOLOGY:
+==========
+CEREBROSPINAL FLUID: ___: NEGATIVE FOR MALIGNANT CELLS. 
+Lymphocytes and monocytes.
+
+PERITONEAL FLUID Procedure Date of ___: NEGATIVE FOR 
+MALIGNANT CELLS. Mesothelial cells, histiocytes, and 
+lymphocytes.
+
+IMAGING
+========
+CXR ___
+Moderate worsening of the reticular ill-defined opacities are 
+concerning for drug related pneumonitis, atypical infection, or 
+ARDS 
+
+CT HEAD ___ 
+No significant interval change since prior. No interval change 
+in size or 
+appearance of the ventricles and sulci. No acute intracranial 
+hemorrhage.
+
+MRI brain w/ and w/o contrast ___: IMPRESSION: 1. Study is 
+severely degraded by motion. 2. There is mild interval 
+progression of posterior frontal and parietal periventricular 
+confluent T2 FLAIR hyperintense signal intensity with no 
+definite corresponding postcontrast enhancement, diffusion 
+restriction or hemorrhagic products. Described findings are 
+non-specific and differential diagnosis include drug related 
+leukoencephalopathy. 3. Within limits of study, no definite 
+evidence of focal abnormal enhancement on postcontrast imaging. 
+4. Paranasal sinus disease , as described. 
+
+CT abd/pelvis w/ contrast ___: IMPRESSION: 1. Cirrhotic 
+liver and large volume nonhemorrhagic ascites. 2. Possible 
+thrombosis of the left gonadal vein. This is less likely related 
+to contrast mixing. 3. Peripancreatic fluid is probably related 
+to generalized ascites, although acute pancreatitis cannot be 
+entirely excluded. Recommend correlation with lipase. 4. 5 mm 
+indeterminate focus in the pancreatic tail, most likely a side 
+branch IPMN. A noncontrast MRCP follow-up in ___ years is 
+recommended. 
+
+___: ECG: Sinus tachycardia. Low voltage QRS throughout
+
+MICRO
+======
+STRONGYLOIDES ANTIBODY,IGG ___: Results Pending 
+
+Norovirus ___: Negative
+
+C. diff ___: Negative
+
+Blood Cryptococcal Antigen Positive ___
+
+CSF Blood Cryptococcal Antigen Not Detected ___
+
+CSF ___ ___: Negative 
+
+CSF VZV DNA PCR ___: Negative
+
+CSF HSV PCR ___: Negative
+
+CSF arbovirus antibody ___: Negative 
+
+___ 7:56 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------    16 I
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+___ 10:48 am STOOL     CONSISTENCY: SOFT      Source: 
+Stool. 
+
+                            **FINAL REPORT ___
+
+   CYCLOSPORA STAIN (Final ___:    NO CYCLOSPORA SEEN. 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found. 
+
+   Cryptosporidium/Giardia (DFA) (Final ___: 
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN. 
+
+OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      FEW POLYMORPHONUCLEAR LEUKOCYTES. 
+
+ 
+Brief Hospital Course:
+SUMMARY:
+========
+Ms. ___ is a ___ woman with triple negative local left 
+breast cancer on abraxane and atezolizumab presenting initially 
+with hypoxemic respiratory failure likely ___ checkpoint 
+inhibitor-induced pneumonitis, found to have cryptococcal 
+meningitis, MDR E coli UTI, DIC, diarrhea, and persistent non-AG 
+metabolic acidosis thought to be ___ RTA. 
+
+ACUTE PROBLEMS:
+===============
+# Encephalopathy 
+# Possible cryptococcal meningitis
+# Possible checkpoint-inhibitor induced encephalitis 
+Found down on presentation. Neurology and infectious disease 
+were consulted. An extensive workup was sent including CT head, 
+EEG, MRI, LP, and multiple serologic tests. Ultimately, a 
+positive serum cryptococcal Ag was present and patient's LP was 
+inflammatory, concerning for cryptococcal meningitis in an 
+immunosuppressed patient. The patient was treated with 
+amphotericin and flucytosine for cryptococcal meningitis. She 
+improved both symptomatically and in terms of her inflammatory 
+CSF on treatment for fungal infection and possibly some 
+improvement with steroids for pneumonitis, so she was 
+transitioned to oral fluconazole, which she should continue 
+fluconazole for 8 weeks total (stop date: ___. Follow up with 
+Infectious Diseases is scheduled on ___. Please monitor 
+weekly QTc. 
+
+# Diarrhea
+She had difficulties with diarrhea intermittently on tube feeds 
+during hospitalization, but worsened over a few day period. 
+Given other checkpoint inhibitor-induced side effects, GI was 
+consulted for concern for checkpoint inhibitor-induced colitis. 
+Infectious workup was notable for negative bacterial cultures, 
+c. diff, norovirus, and ova and parasites. She was started on 
+fiber TID with tube feeds and Lomotil with significant 
+improvement. Stools were semi-formed by discharge but persistent 
+frequency. Will require GI follow up as outpatient for further 
+workup and possible EGD/colonoscopy. 
+
+# New ascites
+# Imaging concerning for cirrhosis
+Patient with worsening abdominal distention. CT abdomen showed a 
+cirrhotic liver and large volume non-hemorrhagic ascites s/p 
+paracentesis on ___ with 3L of inflammatory fluid removed. 
+Cytology was negative for cancerous cells, although was a small 
+volume sample sent. A workup for the cause was sent including 
+hepatitis titers and an ___, which were notable for positive ___ 
+at 1:1280 and Hep B cAb positive with negative VL. She is immune 
+to Hep A. She should establish care with Hepatology and have a 
+hepatitis B vaccine.
+
+# Acute hypoxemic respiratory failure, resolved
+# Checkpoint-inhibitor induced pneumonitis
+Given initial concern for pneumonia, she was treated with 
+piperacillin-tazobactam then Bactrim, which were later 
+discontinued given no focal consolidation. She was treated with 
+a steroid taper, which is due to end on ___ with resolution of 
+her oxygen requirement and dyspnea.
+
+# Nausea/vomiting 
+Intermittently having nausea/vomiting during her 
+hospitalization. Tried on Reglan with significant improvement, 
+but then she had diarrhea, so this was held. EGD was 
+unremarkable. She should follow up with GI if persists. She 
+frequently required IV Zofran for symptomatic relief. 
+
+# Hyperglycemia
+Likely secondary to steroids and tube feeds. Started on insulin 
+with improvement. Please titrate as necessary. A1c was 6.0.
+
+# Deconditioning
+Likely ___ critical illness. ___, OT, SLP consulted. 
+
+# Hyponatremia
+# Hypernatremia
+Had difficulties with both, likely secondary to amount of free 
+water flushes with her tube feeds. Normalized by discharge. 
+
+# Severe protein calorie malnutrition
+# Dysphagia
+Started on tube feeds through a Dobhoff via nutrition, as SLP 
+felt she was not safe for PO intake. 
+
+# Sinus tachycardia
+Asymptomatic, likely secondary to critical illness. CT imaging 
+of the heart was unremarkable. Consider further workup with 
+echocardiogram in future if persists. 
+
+# Thrombocytopenia
+# Anemia: 
+# DIC: 
+While in the ICU, thought to have DIC given fibrinogen 73 and 
+d-dimer elevated. These improved with treatment of her 
+underlying disease. Low suspicion for TTP or HIT. She received 
+multiple units of pRBCs, cryoglobulins. GI was consulted for 
+possible GI bleed, but EGD was unrevealing and she did not have 
+overt GI bleeding. DIC resolved. Required weekly pRBC 
+transfusions with last one on ___. 
+
+# Non-anion Gap metabolic acidosis: 
+# Hypokalemia
+Blood gases from ___ with normal pH with a presentation 
+consistent with proximal RTA. Renal was consulted and 
+recommended avoiding bicarb replacement if possible, as this 
+would precipitate renal loss of potassium. Patient required 
+frequent potassium replacement given renal potassium wasting. 
+Please check 3x/weekly labs
+
+# MDR E. coli UTI
+The patient was treated for an MDR e. coli UTI with Zosyn, which 
+was later changed to meropenem to complete a course.
+
+# Breast cancer, triple negative, locally advanced 
+On abraxane and atezolizumab as an outpatient, which were held 
+during hospitalization per her primary Oncologist, Dr. ___. 
+Recommend outpatient follow up after rehab. Dressings were 
+changed daily. 
+
+CORE MEASURES:
+============== 
+# CODE: DNR/DNI (MOLST signed)
+# CONTACT: 
+Name of health care proxy: ___ 
+Relationship: son 
+Phone number: ___ 
+
+TRANSITIONAL ISSUES
+===================
+[] Please refer to Rheum for ___ 1:1280
+[] Evaluate need for repeat therapeutic paracentesis
+[] Given persistent diarrhea, refered to GI as outpatient for 
+further workup
+[] Follow up with Oncology to discuss timing of restarting 
+treatment for breast cancer
+[] Please administer hepatitis B vaccination series 
+[] 4.5 mm indeterminate focus in the pancreatic tail, most 
+likely a side branch IPMN. A noncontrast MRCP follow-up in ___ 
+years is recommended. 
+[] Please change dressing on breast lesion daily with dry 
+dressings
+[] Weekly QTc monitoring while on fluconazole (drug stop date: 
+___
+[] Repeat chem10, LFTs, CBC 3x/week 
+[] Please replete potassium for goal >4.0
+[] Consider further workup of sinus tachycardia if persists
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+2. Dermoplast Spray 1 SPRY TP DAILY 
+3. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Moderate 
+
+4. Prochlorperazine 10 mg PO BID:PRN Nausea/Vomiting - First 
+Line 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Diphenoxylate-Atropine 1 TAB PO Q6H:PRN diarrhea  
+3.  Fluconazole 800 mg PO Q24H 
+Stop date: ___.  Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol  
+5.  Glucose Gel 15 g PO PRN hypoglycemia protocol  
+6.  Glargine 30 Units Bedtime<br> Humalog 6 Units Q6H
+Insulin SC Sliding Scale using HUM Insulin 
+7.  Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY  
+8.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO 
+9.  Ondansetron 4 mg IV Q8H:PRN Nausea/Vomiting - First Line 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO 
+10.  Prochlorperazine 10 mg IV Q6H:PRN Nausea/Vomiting - Second 
+Line NOT relieved by Ondansetron  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+# Encephalopathy 
+# Possible cryptococcal meningitis
+# Possible checkpoint-inhibitor induced encephalitis
+# Ascites
+# Cirrhosis 
+# Diarrhea
+# Acute hypoxemic respiratory failure
+# Checkpoint-inhibitor induced pneumonitis 
+# Severe protein calorie malnutrition
+# Dysphagia
+# DIC
+# Anemia
+# Thrombocytopenia
+# MDR E. coli UTI 
+# Renal tubular acidosis 
+# Locally advanced breast cancer
+# Diarrhea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================
+- You were admitted to the hospital for confusion and difficulty 
+getting enough oxygen
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+====================================
+- You were given steroids for swelling/inflammation in your 
+lungs
+
+- You were given medications to treat a fungal infection around 
+your brain called cryptococcal meningitis
+
+- You were found to have a scarred liver that was causing you to 
+gain fluid in your abdomen. This fluid was drained
+
+- A feeding tube was placed in your nose 
+
+- You had significant diarrhea that improved with medication
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+============================================
+- Please continue to take all of your medications and follow-up 
+with your appointments as listed below.
+
+- Continue to work with the therapists on your strength
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team   
+
+ 
+Followup Instructions:
+___

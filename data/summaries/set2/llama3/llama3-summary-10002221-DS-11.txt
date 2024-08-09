@@ -1,0 +1,35 @@
+Here is a summary of the clinical note with the essential information:
+
+**Cancer Type and Morphology:**
+The patient has a history of breast cancer with BRCA1 gene mutation, specifically infiltrating ductal carcinoma of the left breast.
+
+**Cancer Stage and Progression:**
+No information is provided about the cancer stage or progression.
+
+**TNM Staging:**
+Not mentioned.
+
+**Prescribed Medications:**
+The patient is prescribed various medications, including:
+
+* Gabapentin 600mg TID for right anterior leg pain
+* Tramadol 50mg Q6H PRN for pain
+* Lidocaine 5% patch for right hip pain
+* Warfarin 7.5mg daily for anticoagulation
+* Atorvastatin 40mg QPM for hyperlipidemia
+* Omeprazole 20mg BID for GERD
+* Other medications for various conditions
+
+**Diagnostic Tests Conducted:**
+
+* Ultrasound of the right lower extremity (RLE) showed no evidence of deep venous thrombosis
+* CT scan of the RLE showed no focal collection or obvious muscular abnormality
+* Laboratory tests, including complete blood count, chemistry panel, and coagulation studies
+
+**Surgical Interventions Performed:**
+
+* Lumpectomy and sentinel lymph node biopsy of the left breast
+* Ultrasound-guided steroid injection of the right trochanteric bursa
+
+**Patient's Response to Treatment:**
+The patient reported significant improvement in symptoms after the ultrasound-guided steroid injection and initiation of gabapentin and lidocaine patch. She was able to ambulate with a cane at discharge.

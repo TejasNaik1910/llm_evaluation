@@ -1,0 +1,466 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Heparin Agents / Coumadin / Percocet / Anesthesia Tray
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left knee pain.
+ 
+Major Surgical or Invasive Procedure:
+Arthrocentesis, wash-out.
+AV fistulagram.
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year-old woman with type 1 DM, ESRD on HD, 
+breast cancer, and pulmonary sarcoidosis who presented to the ED 
+on the morning of admission with left knee pain and swelling.  
+.  
+Arthrocentesis demonstrated 129,000 WBCs. Gram stain revealed no 
+organisms and no crystals were seen in the synovial fluid.  She 
+received vancomycin and was taken to the operating room for 
+irrigation under general anesthesia (received etomidate, 
+fentanyl and cisatracurium) prior to presumed transfer to the 
+floor. Once on the medicine floor, the pt's daughter reported 
+that the pt's face appeared to be swollen, and she was 
+transferred back to the PACU. In the PACU, she received 
+diphenhydramine 12.5 mg IV, famotidine 40 mg PO and 
+methylprednisolone 80 mg IV.  
+.  
+The patient does not complain of shortness of breath, but does 
+have throat soreness. She does not report throat swelling or 
+tongue swelling. She denies visual changes.  
+.  
+ROS was unobtainable as the patient was markedly somnolent.  
+
+ 
+Past Medical History:
+1. End stage renal disease on HD ___  
+2. Diabeted mellitus, Type 1  
+3. Hypertension  
+4. Coronary artery disease  
+5. Gout  
+6. Asthma  
+7. Atrial fibrillation  
+8. Sarcoidosis  
+9. Pulmonary HTN  
+10. Obstructive sleep apnea  
+11. Ventral hernia  
+12. HIT positive  
+13. Breast CA  
+___. Multiple fistula revisions
+14. s/p unilateral oophorectomy 
+
+ 
+Social History:
+___
+Family History:
+Brother: sarcoidosis.
+Mother/father with heart disease, MIs.
+ 
+Physical Exam:
+Physical exam on arrival to medical floor:
+Vitals: T: 97.6 BP: 112/49 P: 60 R: 15 SaO2: 91% RA, 100% 3LNC  
+General: Drowsy, but rousable, no audible stridor or wheeze  
+HEENT: NCAT, EOMI, conjunctival injection, puffy eyes and lips, 
+tongue appears mildly thick  
+Neck: no significant JVD, no stridor, L tunnelled IJ in place 
+without tenderness or erythema  
+Pulmonary: diminished BSs bilaterally, no wheeze  
+Cardiac: RR, distant S1 S2, no appreciable murmurs  
+Abdomen: obese, soft, NT, ND  
+Extremities: L knee wrapped with drain in place 
+.
+On discharge:
+Afebrile, normotensive, last oxygen saturation 99% on room air.
+
+Knee, left: minimal discomfort on full range of motion, some 
+residual swelling. Drain now removed.  Able to achieve >90 
+degrees with ___.
+
+ 
+Pertinent Results:
+___ 08:20AM BLOOD WBC-6.1 RBC-4.04* Hgb-10.5* Hct-37.0 
+MCV-92 MCH-25.9* MCHC-28.4* RDW-18.9* Plt ___
+___ 08:20AM BLOOD Neuts-80* Bands-1 Lymphs-5* Monos-13* 
+Eos-1 Baso-0 ___ Myelos-0 NRBC-2*
+___ 08:20AM BLOOD Glucose-78 UreaN-16 Creat-4.7*# Na-141 
+K-7.2* Cl-98 HCO3-33* AnGap-17
+___ 08:20AM BLOOD UricAcd-3.4
+___ 08:29AM BLOOD Lactate-1.9 K-5.5*
+___ 09:31AM JOINT FLUID  ___ POLYS-94* 
+___ ___ 07:20AM BLOOD Glucose-65* UreaN-23* Creat-4.5*# Na-136 
+K-5.1 Cl-99 HCO3-25 AnGap-17
+___ 01:10PM BLOOD CRP-69.5*
+___ 01:10PM BLOOD ESR-34*
+___ 07:20AM BLOOD Calcium-7.3* Phos-3.2 Mg-2.0
+------------
+CXR: ___ 10:29 ___
+IMPRESSION: No significant interval change.
+------------
+Knee Films: ___ 8:36 AM
+IMPRESSION:
+No acute fracture or alignment abnormality. Severe degenerative 
+change. 
+------------
+AV Fistulogram: ___ 9:26 AM
+IMPRESSION:
+1. Moderate-to-severe right central venous stenosis at the 
+brachiocephalic/SVC confluence which was angioplastied with a 
+10-mm balloon with no residual stenosis identified 
+post-procedure.
+
+2. Moderate stenosis involving the proximal venous outflow tract 
+with prestenotic dilatation which was angioplastied multiple 
+times using a 6-mm cutting balloon with no residual stenosis 
+identified post-procedure.
+
+3. Unchanged stenosis at the arterial anastomosis which was not 
+instrumented during current procedure and does not appear 
+significantly changed from prior examination.
+
+Please keep V-pack dressing in place for 24 hours.
+------------
+ECG: Sinus rhythm. A-V conduction delay. Prior inferior wall 
+myocardial infarction.  Prior anteroseptal myocardial 
+infarction. Diffuse low voltage. Left axis deviation. 
+Intraventricular conduction delay. Q-T interval prolongation.   
+Compared to the previous tracing of ___ the voltage has 
+diminished.  Followup and clinical correlation are suggested. 
+------------
+Microbiology:
+Joint:
+ GRAM STAIN (Final ___: 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+ FLUID CULTURE (Final ___:    NO GROWTH. 
+Blood Culture
+___ 8:20 am BLOOD CULTURE      #1. 
+
+   Blood Culture, Routine (Pending): 
+------------
+___ 1:40 pm TISSUE      LEFT KNEE SYNOVIUM. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      NO FUNGAL ELEMENTS SEEN. 
+      Due to the low sensitivity of ___ preparation a fungal 
+culture is
+      recommended. 
+-----------
+___ 1:40 pm SWAB      LEFT KNEE DEEP. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+      Inappropriate specimen for Fungal Smear (___). 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+---------------
+Blood Cultures ___ - Negative.
+Lyme Serology: Negative
+--------------
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year-old female with multiple comorbidities 
+who presented with a swollen, tender, warm left knee. 
+.
+Hospital course by problem:
+.
+# Septic Arthritis: On arrival to the ED, the patient was 
+afebrile (T 98.4) with a blood pressure of 144/40.  Physical 
+exam was notable for a swollen left knee that was exquisitely 
+tender to palpation.  Arthrocentesis revealed 15 cc of cloudy, 
+viscous fluid with 129,000 WBC, >90% polys.  Gram stain did not 
+reveal any organisms.  Crystals were not detected.  She received 
+vancomycin for a presumed septic joint and was taken to the 
+operating room for arthrotomy and drain placement.  She was 
+started on ceftriaxone on ___ for potential gonococcal 
+infection.  Lyme serology was negative for lyme antibody.  
+Tissue cultures and swab cultures did not reveal organisms on 
+gram stain and showed no anaerobic growth to date as well as no 
+fungal or acid fast bacilli.  Blood cultures have not grown 
+anything to date. The patient has remained afebrile throughout 
+her hospital stay and without leukocytosis. ID was consulted, 
+and recommended continuing vancomycin for a ___eftriaxone was stopped on ___.  The patient reports that her 
+knee pain is less than when she arrived.  She is able to move 
+her left knee without significant pain and has been working with 
+physical therapy.  She was followed by orthopedics, who were 
+pleased with her recovery.  Extensive discussion was given 
+regarding repeat thoracentesis prior to discharge, but patient 
+had good range of motion at the joint and felt pain had improved 
+since admission, and it was uncelar what diagnostic benefit 
+would be gained from a second thoracentesis.  Patient developed 
+thrombocytopenia prior to discharge that was thought possibly 
+___ to vancomycin.  Vancomycin was initially continued given it 
+was the optimal agent and patient had other possible agents 
+(such as famotidine) that may have contributed to 
+thrombocytopenia.  Hematology was consulted and felt 
+thrombocytopenia was more likely related to marrow suppression 
+than vancomycin toxicity, and vanco was continued.  She was 
+monitored for several days and showed no progression of her 
+thrombocytopenia on vancomycin.  The decision was made to 
+continue vancomycin and to monitor her paltelets as an 
+outpatient.
+- Would consider further thoracentesis if patient experiences 
+increasing pain and swelling, or difficulty with range of 
+motion.  Do anticipate some pain/swelling from post-operative 
+changes.
+- Patient will follow-up with PCP and ___ 
+levels to be monitored at HD.
+.
+# Thrombocytopenia: Patient with chronic mild thrombocytopenia 
+and history of HIT - although no documented work-up in BI 
+system.  Patient became progressively thrombocytopenic in house, 
+and immediately prior to initial discharge had significant drop 
+in platelets to 50's.  Patient was held in house for a further 5 
+days, and was without further decrease in her platelets.  No 
+bleeding complications.  Medical record was very carefully 
+examined and patient had no known exposure to heparin during 
+this hospitalization.  Further, the decrease in platelets was 
+felt not to be typical of HIT or reactivation of HIT in 
+previously exposed patient.  DIC work-up also non-revealing.  
+Hematology was consulted who felt decrease was not likely HIT, 
+and ultimately decided it was due to marrow suppression from 
+infection.  Evidence for vancomycin toxicity was felt to be 
+minimal as time course did not fit appropriately.  Plan on 
+discharge is as follows:
+- Please check platelet count twice weekly at hemodialysis
+- If platelets drop below 30K patient should be referred to 
+hospital for evaluation.
+- Continue vancomycin for 6 weeks as long as platelet count 
+stable.
+- Patient to follow-up with Hematology if thrombocytopenia 
+persists after completion of her course of vancomycin.
+.
+# Allergic reaction/angioedema: After the 
+arthrotomy/synovectomy, the patient's daughter noticed her face 
+was more swollen than normal.  She was was exposed to 
+vancomycin, morphine, and anesthetic agents during the 
+arthrotomy. It is not clear which agents may have contributed to 
+the swollen state, and whether her swelling was an allergic 
+reaction at all or fluid accumulation in setting of not being 
+dialyzed.  She was transferred from medicine and monitored in 
+the PACU.  She did not appear to have any respiratory 
+compromise, and there was no stridor on exam. She did not 
+complain of throat tightness or tongue swelling. She did 
+complain of throat discomfort, which was felt to be related to 
+her recent intubation. She was given diphenhydramine 12.5 IV 
+q8hrs, famotidine 40 mg PO bid, and she received 
+methylprednisolone once, though this was not continued given her 
+history of DM1 and likely septic joint. She was monitored in the 
+ICU overnight. Her ACEI was held. She became more alert and 
+oriented, was able to speak, drink, and swallow without problem, 
+so she was called out to the floor.  On the medicine floor, the 
+patient did not exhibit any episodes of facial swelling or 
+oropharyngeal discomfort.  ACE was restarted on the floor prior 
+to discharge without difficulty.  Facial swelling resolved with 
+dialysis and may have been due to volume overload rather than 
+angioedema.  Furthermore, question whether there may be a 
+component of central vein stenosis as patient had 
+brachiocephalic veing - SVC stenosis that was dilated by ___.
+.
+# Nonresponsiveness at hemodialysis:  The patient became 
+transiently hypotensive to the ___ and briefly non-responsive on 
+___.  The session was stopped and she was monitored in the ICU. 
+ She did not have any other episodes of non-responsiveness, 
+though she does have a long history of these events at 
+hemodialysis sessions.  She remained normotensive on the medical 
+floor throughout her stay.
+.  
+# End stage renal disease on hemodialysis: Patient had an 
+episode of hypotension and nonresponsiveness, as described 
+above. Her schedule is T, Th, ___.  She recieved erythropoietin. 
+ Cinacalcet was also administered for calcium control.  
+Cinacalcet was discontinued prior to discharge due to 
+hypocalcemia.  Tunnelled dialysis catheter removed in house.  
+Some residual swelling after removal, evaluated with ultrasound 
+that showed a small hematoma.  Continue to followed clinically 
+and was stable prior to discharge.
+.
+#Breast Swelling: patient noted her breast to be swollen.  Given 
+history of untreated breast cancer on Arimidex concern was for 
+progression of malignancy.  Oncology recommended outpatient 
+mammogram/USD for further evaluation.  Swelling improved with 
+dilation of brachiocephalic - SVC stenosis by ___, and exam was 
+otherwise unremarkable.
+- Outpatient follow-up as outlined.
+.
+# Type 1 diabetes mellitus: Remained stable.  She was continued 
+on insulin NPH 10 bid and a humalog sliding scale.  Had some 
+elevated finger sticks during the day and so AM NPH was 
+increased to 12 units qAM.
+.  
+# Hypertension: Remained stable.  The ACE inhibitor was held 
+until after hemodialysis on those days to decrease the risk of 
+hypotension during these sessions.
+.  
+## CAD: Patient not takin aspirin (due to bleeding), metoprolol 
+or statin as an outpatient.  Continued on ACE inhibitor as 
+above.
+.  
+## Gout: She was continued on allopurinol ___ every other day.  
+Acute monoarthritis felt not c/w gouty flare.
+.  
+## Atrial fibrillation:  Remained in sinus rhythm, not 
+anticoagulated given low CHADS Score (2), history of HIT and not 
+anticoagulated for atrial fibrillation on admission.
+.  
+## Hypothyroidism: Continued levothyroxine 25  
+.
+## FEN/Lytes: NPO for now, cardiac, renal diet in a.m., replete 
+lytes prn  
+.  
+## Prophylaxis: No heparin given allergy, pneumoboots  
+.  
+## Access: PIVs  
+.  
+## Communication: Daughter ___ ___ cell, 
+___ home)  
+.  
+## Code status: FULL CODE  
+
+ 
+Medications on Admission:
+Quinapril 5 mg daily  
+Anastrazole 1 mg daily  
+Albuterol prn  
+Prednisone 5 mg qod  
+Amitriptyline 25 mg daily  
+Vitamin D 400 mg daily  
+Cinacalcet 30 mg daily  
+Gabapentin 200 mg daily  
+Levothyroxine 25 mcg daily  
+Amiodarone 200 gm daily  
+? atorvastatin 20 mg daily  
+? aspirin 81 mg daily  
+? metoprolol 12.5 bid  
+Insulin NPH ? 20 units bid and insulin regular  
+
+ 
+Discharge Medications:
+1. Anastrozole 1 mg Tablet Sig: One (1) Tablet PO daily ().  
+2. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: 
+One (1) nebulizer Inhalation Q6H (every 6 hours) as needed.  
+3. Prednisone 5 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY 
+(Every Other Day).  
+4. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+5. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Quinapril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain/fever.  
+9. Amitriptyline 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+10. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1) tablet PO BID 
+(2 times a day).  
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+12. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for pain.  
+13. Vancomycin 1,000 mg Recon Soln Sig: One (1) gm Intravenous 
+qHD for 5 weeks: for total of 6 weeks, to complete on ___.  
+14. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: Twelve 
+(12) units Subcutaneous qAM.  
+15. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: Ten (10) 
+units Subcutaneous qPM.  
+16. Insulin Lispro 100 unit/mL Cartridge Sig: as per sliding 
+scale units Subcutaneous qACHS: as per sliding scale.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Septic Arthritis
+Angioedema
+ESRD
+Sarcoid
+Breast Cancer
+Diabetes
+Thrombocytopenia
+
+ 
+Discharge Condition:
+Good, weight bearing as tolerated
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation of left knee 
+pain.  It was found that you had an infection in your knee.  You 
+will need to take antibiotics for a full 4 week course to treat 
+this infection.  You also had an evaluation of your AV fistula 
+that showed a narrowing.  This narrowing (or stenosis) was 
+opened up with a balloon to improve flow in your graft.  
+Finally, there was some concern you may have had an allergic 
+reaction after going to the Operating Room.  This reaction was 
+likely related to the anesthetic agents used in the Operating 
+Room, and did not appear to be related to your BP medications 
+which were restarted prior to discharge without any difficulty.
+.
+Please call your doctor or return to the Emergency Department if 
+you have any fevers, increasing knee pain, or any other 
+complaint concerning to you.
+.
+
+ 
+Followup Instructions:
+___

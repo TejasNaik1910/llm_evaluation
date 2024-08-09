@@ -1,0 +1,288 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+headaches x ___ years
+ 
+Major Surgical or Invasive Procedure:
+___ Right frontal craniotomy resection of mass
+
+ 
+History of Present Illness:
+This is a ___ year old right handed woman who presents to the ___ 
+today for the evaluation of a brain mass that was picked up on a 
+brain MRI. Patient's history was obtained with the help of a 
+___ interpreter. Patient reports a history of headaches for 
+the past ___ years. Headache is diffused and usually sharp in
+nature. Today, she ranks the headaches as an ___. These 
+headaches do not wake her up from sleep nor change with 
+position. She recently had a brain CT that showed a right 
+parafalcine mass on ___. On ___ she had a brain MRI that 
+confirmed this mass. She denies any seizures, weakness, numbness 
+or
+tingling. MRI demonstrated a right parasagittal mass and surgery 
+was recommended.  Risks and benefits and patient wishes to 
+proceed.  
+ 
+Past Medical History:
+HTN
+Past Surgical History: None
+ 
+
+ 
+Social History:
+___
+Family History:
+none
+ 
+Physical Exam:
+Pre-op:
+Physical Examination:  She is afebrile T 98. Blood pressure is
+132/72.  Pulse is 64.  Respiration is 16.  Oxygen saturation is
+96% in room air. Her skin has full turgor.  HEENT examination is
+unremarkable; the left frontal biopsy site is clean and dry. 
+Neck is supple and there is no bruit or lymphadenopathy.  
+Cardiac
+examination reveals regular rate and rhythm. Her lungs are 
+clear.
+Her abdomen is soft with good bowel sounds. Her extremities do
+not show clubbing, cyanosis, or edema.
+
+Neurological Examination:  Her ___ Performance Score is 
+90.
+Her mental status is intact.  There is no right-left confusion. 
+Her language is fluent with good comprehension, naming, and
+repetition.  Recent recall is intact.  Her pupils are equal and
+reactive to light, 4 mm to 2 mm bilaterally. Extraocular
+movements are full.  Her face is symmetric.  Facial sensation is
+intact.  Her hearing is intact bilaterally.  Her tongue is
+midline.  Palate elevates in the midline.  Sternocleidomastoids
+and upper trapezii are strong. She does not have a pronator
+drift. Her muscle strength is ___ bilaterally in all muscles
+groups. Her muscle tone is normal. Reflexes are symmetric at 2+.
+Her ankle jerks are absent. Her toes are downgoing. Sensory
+examination is intact to touch and proprioception.  There is no
+cerebellar dysmetria.  Gait is normal.
+
+Discharge exam:
+Tmax 99.2, Tc 97.8, HR 58, BP 137/80, RR 18, 98% on RA
+GEN: elderly woman lying in bed in NAD
+HENT: OP clear
+CV: RRR
+PULM: CTAB
+ABD: soft, NT, ND
+EXT: No edema
+
+Neuro Exam:
+MS - AAOx3
+CN - mild L NLF flattening, EOMI, pupils 4->3mm bilaterally, 
+facial sensation intact
+MOTOR - ___ throughout except ___ in proximal LLE and ___ in 
+distal LLE
+REFLEXES - toes downgoing
+SENSORY - intact to LT throughout
+GAIT - deferred
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 06:50PM BLOOD WBC-11.1*# RBC-5.56* Hgb-11.9* Hct-40.5 
+MCV-73* MCH-21.5* MCHC-29.4* RDW-14.6 Plt ___
+___ 06:54AM BLOOD ___ PTT-33.1 ___
+___ 06:50PM BLOOD Glucose-214* UreaN-13 Creat-0.8 Na-137 
+K-3.4 Cl-98 HCO3-29 AnGap-13
+___ 06:50PM BLOOD Albumin-4.6 Calcium-8.7 Phos-3.7 Mg-1.9
+___ 06:50PM BLOOD Phenyto-21.3*
+
+DISCHARGE LABS:
+No labs drawn on day of discharge as patient was stable.
+
+REPORTS:
+Brain MRI dated ___ showed an homogeneously contrast
+enhancing right parafalcine mass.
+
+MR HEAD ___: IMPRESSION: Limited study performed for 
+preoperative localization demonstrates no change in the right 
+parafalcine meningioma. 
+
+CT HEAD ___:  
+IMPRESSION: Bifrontal pneumocephalus s/p resection of right 
+parasagittal 
+meningioma.There is suggestion of residual calcified neoplasm in 
+the superior  aspect of the operative bed.
+
+MR HEAD ___: IMPRESSION: Postoperative changes without 
+evidence for large territorial infarction. Blood products in the 
+operative bed limits evaluation for residual neoplasm, but there 
+does appear to be a small amount of neoplasm abutting and 
+extending into the sagittal sinus. Attention on followup imaging 
+is suggested. 
+
+ 
+Brief Hospital Course:
+Patient was admitted to Neurosurgery on ___ and underwent 
+the above stated procedure.  Please review dictated operative 
+report for details.  Patient was extubated without incident and 
+transferred to PACU then ICU in stable condition.  
+A post op HCT was obtained which showed post op changes.  Her 
+diet was advanced and she remained stable overnight.  She was 
+deemed ready for tx to the floor in stable condition.  Foley was 
+removed in routine fashion and pt voided without incident. 
+Post-operatively she remained neurologically stable with left 
+leg weakness.  
+ 
+Now DOD, patient is afebrile, VSS, and neurologically stable.  
+Patient's pain is well-controlled and the patient is tolerating 
+a good oral diet.  Pt's incision is clean, dry and inctact 
+without evidence of infection.  She has LLE weakness so is 
+ambulating with assistance.  She is set for discharge to rehab 
+in stable condition and will follow-up accordingly. 
+
+PENDING RESULTS:
+R sided tumor pathology
+
+TRANSITIONAL CARE ISSUES:
+Patient will need a phenytoin trough and albumin level checked 
+on ___ and her dose of phenytoin adjusted accordingly if 
+needed to maintain a goal level between ___ (when corrected 
+for albumin).
+ 
+Medications on Admission:
+amlodipine 10mg daily
+ 
+Discharge Medications:
+1. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for HA, pain.  
+2. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for HA, pain, fever.  
+3. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+6. phenytoin sodium extended 100 mg Capsule Sig: One (1) Capsule 
+PO TID (3 times a day).  
+7. heparin (porcine) 5,000 unit/mL Solution Sig: 5,000 units 
+Injection TID (3 times a day).  
+8. Calcium+D 500 mg(1,250mg) -200 unit Tablet Sig: One (1) 
+Tablet PO twice a day.  
+9. famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+10. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+11. dexamethasone 1 mg Tablet Sig: Two (2) Tablet PO ASDIR: * 
+___: 2mg Q6H
+* ___: 2mg Q8H
+* ___ onwards: 2mg Q12H.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+right parasagittal lesion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent in ___.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+You were admitted to the hospital because of a brain mass that 
+was then resected. As you had major surgery, there are some 
+safety precautions we want you to follow when you leave the 
+hospital.  They are as follows:
+
+Have a friend/family member check your incision daily for 
+signs of infection.
+Take your pain medicine as prescribed.
+Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+
+You must wait until after your sutures are removed to wash 
+your hair. You may shower before this time using a shower cap to 
+cover your head.
+Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) & 
+Senna while taking narcotic pain medication.
+Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and 
+Ibuprofen etc.  
+You were prescribed Dilantin (Phenytoin) for anti-seizure 
+medicine, please take it as prescribed and follow up with 
+laboratory blood drawing in one week.  This can be drawn at your 
+PCPs office, but please have the results faxed to ___.
+You are being sent home on steroid medication, so make sure 
+you are taking a medication to protect your stomach (Prilosec, 
+Protonix, or Pepcid), as these medications can cause stomach 
+irritation.  Make sure to take your steroid medication with 
+meals, or a glass of milk. 
+Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+Make sure to continue to use your incentive spirometer while 
+at home.
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+New onset of tremors or seizures.
+Any confusion or change in mental status. 
+Any numbness, tingling, weakness in your extremities.
+Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+Any signs of infection at the wound site: increasing redness, 
+increased swelling, increased tenderness, or drainage.
+Fever greater than or equal to 101.5° F.
+
+We made the following changes to your medications:
+1) We STARTED you on TRAMADOL 50mg every 4 hours as needed for 
+pain.
+2) We STARTED you on TYLENOL ___ every 6 hours as needed 
+for pain or fever.
+3) We STARTED you on DOCUSATE 100mg twice a day to help prevent 
+constipation.
+4) We STARTED you on SENNA 8.6mg twice a day as needed for 
+constipation.
+5) We STARTED you on PHENYTOIN 100mg three times a day.  You 
+will need to get your level checked on ___ and your dose may be 
+adjusted as needed.
+6) We STARTED you on SUBCUTANEOUS HEPARIN 5,000 units three 
+times a day.  You will only need to take this medication while 
+you are at rehab, as it is designed to prevent blood clots.
+7) We STARTED you on FAMOTIDINE 20mg twice a day.  You need to 
+take this medication as long as you are taking steroids.  
+8) We STARTED you on BISACODYL 10mg once a day as needed for 
+constipation.
+9) We STARTED you on DEXAMETHASONE, with a plan for tapering as 
+follows: On ___ you will take 2mg every 6 hours.  On ___ and 
+___ you will take 2mg every 8 hours, and then on ___ you will 
+take 2mg every 12 hours.  You will continue to take 2mg every 12 
+hours until  your doctor tells you to stop. 
+
+Please continue to take your other medications as previously 
+prescribed.
+
+It was a pleasure caring for you on this hospitalization.
+ 
+Followup Instructions:
+___

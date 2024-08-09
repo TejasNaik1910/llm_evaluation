@@ -1,0 +1,402 @@
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Erythromycin Base / Biaxin / Ciprofloxacin
+ 
+Attending: ___
+ 
+Chief Complaint:
+PE
+ 
+Major Surgical or Invasive Procedure:
+TEE/DCCV ___
+
+ 
+History of Present Illness:
+___ y/o male with hx of HIV on HAART therapy, prostate cancer s/p
+brachytherapy, T2IDDM, HTN, HLD, obesity, CKD, presents w
+tachycardia and dyspnea on exertion. Patient went to PCP today
+for bilateral lower ext edema but was found to have a a heart
+rate of 130s so sent here. He states that for the past few weeks
+he has had progressive dyspnea with exertion and b/l swelling. 
+No
+history of blood clot. No chest pain. no fevers. no abdominal
+pain, n/v, cough or congestion. has had increased erythema over
+the left lower ext medial mal with pain progressively worsening. 
+
+
+In the ED, initial vitals were:
+HR 132 BP 152/88 RR 18 O2 95 
+
+- Exam notable for: 
+RLE swelling, erythema over bilat malls abrasions over the
+anterior shin. full ROM of all joint. 
+ 
+- Labs notable for:  
+134  100  40      AGap=11 
+------------<295 
+9.1  23  1.5  
+
+Repeat whole K: 4.5
+proBNP: 843
+Trop-T: 0.04
+Lactate:3.1-->3.5
+
+- Imaging was notable for: 
+CTA
+1. Pulmonary emboli extending from the distal right main
+pulmonary artery to segmental level in right upper and middle
+lobes and subsegmental level in right lower lobe. No left-sided
+pulmonary emboli. Difficult to exclude right heart strain.
+Echocardiogram would further assess.
+2. No focal consolidation.
+3. Mild nodular contour of the liver raise concern for 
+cirrhosis.
+Correlation with liver function test is recommended for further
+evaluation.
+4. Status post splenectomy.
+
+___ on right
+There is non-occlusive deep vein thrombus of a right posterior
+tibial vein.
+
+- Patient was given: 
+___
+___ 13:41 IV Piperacillin-Tazobactam   
+___ 13:41 IVF  NS   
+___ 14:52 IV Vancomycin 1500mg
+___ 17:33 IV Heparin 6500 UNIT ___  
+___ 18:41 IVF  NS  ___ Started  
+ 
+Upon arrival to the ICU, patient reports feeling fine without 
+sx.
+
+Review of systems was negative except as detailed above.
+
+ 
+Past Medical History:
+PMHx/PSHx: 
+1.  HIV (VL ___, CD4 490 in ___ on antiretroviral therapy
+2.  Prior hepatitis B.
+3.  Status post septic shock requiring Xigris with Strep 
+viridans bacteremia.
+4.  Acute kidney injury and CVVH in the setting of severe 
+sepsis.
+5.  Chronic kidney disease, stage III.
+6.  History of splenic abscess status post splenectomy in ___
+secondary to salmonella abscess.
+7.  Type 2 diabetes mellitus on insulin
+8.  Morbid obesity.
+9.  Hyperlipidemia.
+10.  Asthma.
+11.  Right medial meniscus tear.
+12.  History of severe bronchitis.
+13.  History of MRSA colonization.
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+GENERAL: well-appearing sitting in bed with no distress
+HEENT: NCAT
+CARDIAC: RRR, no mgr.
+PULMONARY: Lungs clear to auscultation b/l. No wheezing.
+CHEST: no tenderness to palpation
+ABDOMEN: soft and non-distended. Non-tender to palpation.
+EXTREMITIES: RLE swelling, erythema over bilat malleoli w
+abrasions over the anterior shin. full ROM of all joints. 
+SKIN: Abrasions over the anterior shin.
+NEURO: A&Ox3. Motor and sensory exam grossly normal.
+
+DISCHARGE EXAM:
+===============
+GENERAL: Well appearing male in no acute distress. Comfortable.
+HEENT: NCAT. EOMI. MMM.
+CARDIAC: Rapid rate, regular rhythm. Distant heart sounds. No
+appreciable murmurs.
+PULMONARY: Clear to auscultation bilaterally. Breathing
+comfortably on nasal cannula.
+ABDOMEN: Soft, non-tender, non-distended. No hepatosplenomegaly.
+EXTREMITIES: Warm, well perfused, 1+ ___ on R>L. Right leg with
+multiple healing ulcers. Diffuse erythema around right ankle,
+tender, warm, no clear border between erythema and normal skin.  
+
+NEURO: AAOx3. CNII-XII grossly intact. Moving all four
+extremities with purpose. 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 01:32PM BLOOD WBC-11.8* RBC-4.78 Hgb-15.8 Hct-47.6 
+MCV-100* MCH-33.1* MCHC-33.2 RDW-15.3 RDWSD-56.4* Plt ___
+___ 01:32PM BLOOD Neuts-78.8* Lymphs-11.6* Monos-7.4 
+Eos-0.1* Baso-0.2 NRBC-0.2* Im ___ AbsNeut-9.27* 
+AbsLymp-1.37 AbsMono-0.87* AbsEos-0.01* AbsBaso-0.02
+___ 01:32PM BLOOD ___ PTT-22.6* ___
+___ 01:32PM BLOOD Plt ___
+___ 01:32PM BLOOD Glucose-295* UreaN-40* Creat-1.5* Na-134* 
+K-9.1* Cl-100 HCO3-23 AnGap-11
+___ 01:32PM BLOOD ALT-<5 AST-168* AlkPhos-41 TotBili-0.5
+___ 01:32PM BLOOD proBNP-843*
+___ 01:32PM BLOOD cTropnT-0.04*
+___ 01:32PM BLOOD Albumin-3.4* Calcium-9.4 Phos-4.1 Mg-2.1
+___ 04:58AM BLOOD PSA-<0.03
+___ 11:13PM BLOOD ___ Temp-36.8 pO2-60* pCO2-39 
+pH-7.43 calTCO2-27 Base XS-1 Intubat-NOT INTUBA
+___ 01:51PM BLOOD Lactate-3.1*
+___ 03:00PM BLOOD LMWH-1.01
+
+DISCHARGE LABS:
+===============
+___ 06:51AM BLOOD WBC-10.1* RBC-4.32* Hgb-14.2 Hct-44.2 
+MCV-102* MCH-32.9* MCHC-32.1 RDW-15.6* RDWSD-59.1* Plt ___
+___ 06:51AM BLOOD Glucose-151* UreaN-42* Creat-1.2 Na-147 
+K-4.9 Cl-107 HCO3-25 AnGap-15
+___ 04:58AM BLOOD AST-20 AlkPhos-53 TotBili-0.4
+___ 06:51AM BLOOD Calcium-9.6 Phos-3.2 Mg-2.3
+
+PERTINENT STUDIES:
+==================
+TEE ___
+There is no spontaneous echo contrast or thrombus in the body of 
+the left atrium/left atrial appendage. The left atrial appendage 
+ejection velocity is normal. The interatrial septum is dynamic, 
+but not frankly aneurysmal. There is no evidence for an atrial 
+septal defect by 2D/color Doppler though evaluation was limited 
+by tachycardia and limited images obtained. Overall left 
+ventricular systolic function is at least mildly depressed with 
+beat-to-beat variability in the left ventricular contractility 
+due to the irregular rhythm. The right ventricle has moderate 
+global free wall hypokinesis. There are simple atheroma in the 
+descending aorta to from the incisors. The aortic valve leaflets 
+(3) are mildly thickened. No masses or
+vegetations are seen on the aortic valve. No abscess is seen. 
+There is trace aortic regurgitation. The mitral valve leaflets 
+appear structurally normal with no mitral valve prolapse. No 
+masses or vegetations are seen on the mitral valve. No abscess 
+is seen. There is mild to moderate [___] mitral regurgitation.  
+The tricuspid valve leaflets appear structurally normal. No 
+mass/vegetation are seen on the tricuspid valve. No abscess is 
+seen. There is tricuspid regurgitation present (could not be 
+qualified).
+
+IMPRESSION: No vegetations or intracardiac thrombus seen. Mild 
+global biventricular systolic dysfunction. Mild to moderate 
+mitral regurgitation.
+
+CTA Chest ___
+IMPRESSION:  
+1.  Pulmonary emboli extending from the distal right main 
+pulmonary artery to segmental level in right upper and middle 
+lobes and subsegmental level in right lower lobe.  No left-sided 
+pulmonary emboli.  Difficult to exclude right heart strain.  
+Echocardiogram would further assess. 
+2.  No focal consolidation. 
+3.  Mild nodular contour of the liver raise concern for 
+cirrhosis.  
+Correlation with liver function test is recommended for further 
+evaluation. 
+4.  Status post splenectomy. 
+
+U/S of ___ ___
+IMPRESSION:   
+Non-occlusive deep vein thrombus of one right posterior tibial 
+vein. 
+
+ 
+Brief Hospital Course:
+___ man with history of CAD s/p DES to LAD (___), 
+HIV
+on HAART, HTN, HLD, diabetes, prostate cancer s/p brachytherapy,
+CKD, salmonella splenic abscess s/p splenectomy (___), and 
+prior
+hepatitis B infection admitted w/ submassive PE and AF w/ RVR.
+
+ACUTE ISSUES
+============
+# SUBMASSIVE PULMONARY EMBOLISM
+# RIGHT LOWER EXTREMITY DVT
+Notable for TTE with evidence of right heart strain as well as 
+mild troponin elevation. Never hypotensive, initiated on heparin 
+gtt upon arrival, quickly weaned to RA. Appears unprovoked at 
+this time: no signs of active malignancy,
+immobilization (although obese, not active), operations, or 
+family history. Transitioned to warfarin, discharged on ___ 
+bridge.
+
+# ATRIAL FIBRILLATION W/ RVR
+No prior records of Afib. Likely provoked ___ PE. Had rates 
+difficult to control despite escalating doses of metoprolol and 
+initiation of PO amiodarone. Hence, he had TEE and DCCV ___, 
+successful, remained in sinus at time of discharge. 
+Anticoagulation as above. Restarted on home dose metop succinate 
+25mg daily after DCCV, continued on PO amiodarone.
+
+# Acute on Chronic HFpEF: 
+TTE this admission w/ poor image quality, noted depressed 
+systolic function but could not determine EF. If EF was 
+decreased, likely rate related I/s/o Afib w/ RVR. Mildly volume 
+overloaded on exam initially, responded well to low dose IV 
+diuresis, did not require PO diuretic at time of discharge.
+
+# RLE Cellulitis: noted upon arrival, nonpurulent, started on 
+cephalexin for ___ORONARY ARTERY DISEASE
+s/p DES to LAD (___). Mild troponin elevation likely 
+reflective of right heart strain from acute PE. Chest pain free. 
+Continued ASA, statin, ___, and BB as above. D/c'd Plavix given 
+initiation of AC, and > ___ year since stent placement.
+
+# RADIOGRAPHIC LIVER ABNORMALITY
+Mild nodular contour of the liver raises concern for cirrhosis. 
+Consider. outpatient Fibroscan and possibly hepatology referral.
+
+CORE MEASURES: 
+=================================
+# HIV
+Most recent VL undetectable. CD4 of 500. Continued home HAART 
+regimen (Darunavir 800 mg PO QHS, Cobicistat 150 mg PO QHS, 
+Odefsey 200-25-25 mg oral QHS)
+
+# HYPERLIPIDEMIA: Fenofibrate 145 mg PO DAILY in addition to 
+statin (both home meds)
+
+# DIABETES: held PO meds, placed on insulin sliding scale.
+
+TRANSITIONAL ISSUES
+===================
+[] given unprovoked PE, ensure age appropriate malignancy 
+screening has been done. if unremarkable, consider 
+hypercoagulability w/u.
+[] currently on lovenox bridge until warfarin therapeutic. 
+Increased warfarin dose to 10mg daily on day of discharge. Will 
+need close monitoring and titration of warfarin dose, d/c 
+lovenox when INR > 2.
+[] ___ of Hearts monitor at time of discharge
+[] PO amiodarone started I/s/o difficult to control AF w/ RVR. 
+Please re-evaluate its need moving forward.
+[] cephalexin for RLE cellulitis for 7 day course. Please 
+re-evaluate leg. pt diabetic and high risk for PVD, consider 
+noninvasive flow studies.
+[] repeat TTE in several weeks to eval interval change from 
+prior, define EF, ensure not newly reduced
+[] monitor for signs of increased volume, start diuretic as 
+necessary
+[] outpatient Fibroscan and possibly hepatology referral given 
+liver appearance on imaging, high risk for NASH
+[] on ASA/Plavix upon arrival for DES in ___. Given > ___ year, 
+and placed on warfarin, d/c'd Plavix use. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fenofibrate 145 mg PO DAILY 
+2. Rosuvastatin Calcium 40 mg PO QPM 
+3. Losartan Potassium 50 mg PO DAILY 
+4. Triamcinolone Acetonide 0.025% Cream 1 Appl TP BID 
+5. Clopidogrel 75 mg PO DAILY 
+6. Odefsey (emtricitab-rilpivir-tenofo ala) 200-25-25 mg oral 
+DAILY 
+7. Darunavir 800 mg PO DAILY 
+8. Cobicistat 150 mg PO DAILY 
+9. Metoprolol Succinate XL 25 mg PO DAILY 
+10. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amiodarone 200 mg PO TID  
+2.  Cephalexin 500 mg PO Q6H Duration: 4 Days  
+3.  Enoxaparin Sodium 120 mg SC BID  
+4.  Warfarin 10 mg PO DAILY16  
+5.  Glargine 60 Units Breakfast 
+6.  Aspirin 81 mg PO DAILY  
+7.  Cobicistat 150 mg PO DAILY  
+8.  Darunavir 800 mg PO DAILY  
+9.  Fenofibrate 145 mg PO DAILY  
+10.  Losartan Potassium 50 mg PO DAILY  
+11.  Metoprolol Succinate XL 25 mg PO DAILY  
+12.  Odefsey (emtricitab-rilpivir-tenofo ala) 200-25-25 mg oral 
+DAILY  
+13.  Rosuvastatin Calcium 40 mg PO QPM  
+14.  Triamcinolone Acetonide 0.025% Cream 1 Appl TP BID  
+15.Outpatient Lab Work
+Please obtain an INR ___
+ICD-9 Code: ___
+Contact: ___ Phone: ___ Fax: ___ 
+
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Pulmonary Embolism
+Right Lower Extremity Deep Vein Thrombosis
+Atrial Fibrillation with rapid ventricular response
+Acute on Chronic Heart Failure with preserved ejection fraction
+
+SECONDARY DIAGNOSIS
+===================
+Coronary Artery Disease
+HIV
+Diabetes Mellitus II
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___!
+
+WHY WERE YOU ADMITTED
+=====================
+You were admitted after we found blood clots in your lungs and 
+legs. You were also in an abnormal heart rhythm. 
+
+WHAT DID WE DO FOR YOU HERE
+===========================
+We started you on blood thinners for the clots. We then shocked 
+your heart back into a normal rhythm. 
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE
+=====================================
+- It is really important that you take your blood thinner 
+(warfarin) as prescribed. You need to have regular blood checks 
+to make sure the blood thinner is at a good level (INR between 2 
+and 3). 
+- You need to see a cardiologist (heart doctor) after you leave 
+the hospital.
+- You were discharged on an event monitor that will record your 
+heart rhythm if it is triggered. If you feel palpitations, 
+trigger the monitor so your cardiologist can see if your heart 
+goes back into an abnormal rhythm.
+- Please weigh yourself every morning. If your weight increases 
+by more than 3lbs in one day or 5 lbs in one week, please call 
+your cardiologist to consider adding a medicine that will keep 
+the extra fluid out of your body.
+
+We wish you the best of health,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,57 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+*  [Age] year old male patient
+* History of esophageal cancer, status post esophagectomy
+* Admitted for evaluation of progressive left lower extremity (LLE) pain and mild swelling, as well as mild dyspnea on exertion
+
+**Chief Complaint:**
+
+* Shortness of breath and LLE pain
+
+**Major Surgical or Invasive Procedure:**
+
+* Placement of IVC filter
+
+**History of Present Illness:**
+
+* Patient presented with LLE pain and swelling, which worsened over 3 days
+* Also experienced shortness of breath on exertion, but not at rest
+* Denied history of prior personal or family history of VTE
+
+**Diagnostic Tests:**
+
+* Doppler ultrasound of bilateral lower extremities revealed DVT in left popliteal vein extending to mid-portion of left superficial femoral vein
+* CTA revealed bilateral segmental and subsegmental pulmonary embolisms
+* Echocardiogram showed low normal left ventricular systolic function and borderline pulmonary artery systolic hypertension
+
+**Medications:**
+
+* Heparin IV started in the ED
+* Warfarin started for long-term anticoagulation
+* Atenolol held due to large PEs and BP remained stable
+* Colchicine prescribed for gout flare
+* Omeprazole, iron, and oxycodone prescribed for other conditions
+
+**Surgical Interventions:**
+
+* Placement of IVC filter to prevent clots from spreading from left leg to lungs
+
+**Discharge Diagnosis:**
+
+* Pulmonary embolism
+* Deep vein thrombosis
+* Gout
+
+**Discharge Condition:**
+
+* Mental status: clear and coherent
+* Level of consciousness: alert and interactive
+* Activity status: ambulatory - independent
+
+**Discharge Instructions:**
+
+* Continue warfarin and lovenox as prescribed
+* Follow up with primary care doctor for further management
+* Stop taking atenolol until further instruction from primary care doctor

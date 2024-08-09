@@ -1,0 +1,298 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+new metastatic lesions
+ 
+Major Surgical or Invasive Procedure:
+___ guided lung biopsy
+ 
+History of Present Illness:
+___ PMH HCC (s/p liver resection + RFA) as well as colon cancer
+(s/p resection + adjuvant FOLFOX), presents today with new
+metastatic lesions on imaging + acute PE
+
+As per review of ___ clinic notes, pt last seen in ___
+when he was felt to be in remission for colon cancer but AFP was
+rising. Subsequent CT ___ was without evidence of new or
+recurrent disease. On ___ patient had Colonoscopy without 
+any
+e/o malignancy. Today, patient had CT scans which revealed new
+liver lesions which appeared more c/w colorectal metastases, and
+was also found to have apply core lesion in neo-sigmoid colon 
+c/f
+malignancy. CT chest revealed RLL PE, numerous b/l lung nodules
+c/w metastatic disease, as well as new thyroid nodules. In light
+of new malignant lesions, patient referred to ED by outpatient
+oncologist for expedited w/u including biopsy to determine if
+lesions are due to HCC or colon cancer recurrence. 
+ 
+Pt reports that he has some shortness of breath, but is without
+any chest pain or pleurisy.  He noted that he feels wheezy,
+denied any cough, fever or chills.  He noted that he has
+intermittent constipation and is only been passing small bowel
+movements which she is concerned about.  Noted that he is
+tolerating oral intake and is voiding without difficulty.  He
+noted that he is concerned about the cancerous lesions and is
+hopeful that there is a treatment
+
+In the ED, initial vitals: 96.9 59 129/80 16 100% RA. Hgb 12.4
+plt 109, WBC wnl, CHEM w/ HCO3 20, Lactate 2.3, INR 1.6
+
+CTH: 
+No acute intracranial process. Mild small vessel disease no
+definite intracranial mets. 
+
+Patient was admitted for expedited workup with biopsy
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: 
+Hepatocellular carcinoma in the setting of HCV, HBV, and 
+possible
+alcoholic cirrhosis
+- ___ Resection of a primary HCC by report
+- ___ Presented with worsening abdominal pain. 
+- ___ EGD revealed grade I varices and a gastric ulcer
+- ___ MR liver revealed a cirrhotic liver with 1.8 cm
+lesion in segment VII suspicious for HCC but not meeting strict
+OPTN 5a criteria as well as possible cholecystitis
+- ___ MR liver showed a 1.7 x 1.3 cm segment VII hepatic
+lesion is unchanged in size since ___, however now meets OPTN 
+5a
+criteria for HCC. New 1.2 x 1 cm arterially hyperenhancing
+segment VIII lesion does not meet strict OPTN-5 criteria but is
+suspicious for HCC.  
+- ___ RFA of the larger segment VIII lesion
+- ___ MR liver showed full treatment of the segment VIII
+lesion, stable segment VII lesion
+- ___ CT torso showed the arterial hyperenhancing lesion
+in segment VIII does not demonstrate washout and does not meet
+criteria for an OPTN 5 lesion, however has grown in size 
+compared
+with the prior study measuring 2.6 cm, previously 1.7 cm.
+Interval increase size of a low-density lymph node with internal
+calcification posterior to the IVC and a small aortocaval lymph
+node.  PET scan is recommended. 
+- ___ PET ___
+- ___ CT torso showed a 3.0 cm arterially enhancing 
+lesion
+within segment VII shows subtle washout on delayed imaging and 
+is
+consistent with hepatocellular carcinoma (OPTN class 5B).  New
+portal vein thrombosis and evidence of portal hypertension. No
+metastatic disease. 
+- ___ RFA to his recurrent HCC
+- ___ CT abdomen showed a 2.2 cm segment VI HCC by OPTN
+- ___ MR liver revealed a cirrhotic liver with 1.8 cm
+lesion in segment VII suspicious for HCC but not meeting strict
+OPTN 5a criteria as well as possible cholecystitis
+- ___ Presented with BRBPR
+- ___ Colonoscopy revealed a 5 cm bleeding mass at 25 cm
+in the sigmoid colon. 
+- ___ Underwent sigmoid colectomy and CCY. 
+- ___ C1D1 FOLFOX6 
+- ___ C2D1 modified FOLFOX (no bolus ___, LV 200 mg/m2,
+oxaliplatin 65 mg/m2) + Neulasta delayed and reduced for
+cytopenias and liver injury
+- ___ dose of chemotherapy held for diarrheal illness
+attributed to food poisoning v viral infection
+- ___ Holding further chemo for past toxicity
+- ___ CT torso ___
+- ___ MR liver showed a 1.7 x 1.3 cm segment VII hepatic
+lesion is unchanged in size since ___, however now meets OPTN 
+5a
+criteria for HCC. 
+- ___ Colonoscopy with poor prep, at least one adenoma
+identified and removed
+- ___ CT torso showed the arterial hyperenhancing lesion
+in segment VIII does not demonstrate washout and does not meet
+criteria for an OPTN 5 lesion, however has grown in size 
+compared
+with the prior study measuring 2.6 cm, previously 1.7 cm.
+Interval increase size of a low-density lymph node with internal
+calcification posterior to the IVC and a small aortocaval lymph
+node.  PET scan is recommended. 
+- ___ PET ___
+- ___ CT torso showed a 3.0 cm arterially enhancing 
+lesion
+within segment VII shows subtle washout on delayed imaging and 
+is
+consistent with hepatocellular carcinoma (OPTN class 5B).  New
+portal vein thrombosis and evidence of portal hypertension. No
+metastatic disease. 
+- ___ Colonoscopy showed 2 polyps, GI recommended repeat
+in ___ years
+- ___ CT abdomen showed a 2.2 cm segment VI HCC by OPTN
+criteria, no metastatic disease
+
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+GENERAL: Lying in bed, appears comfortable, son at bedside
+EYES: Pupils equally round, anicteric
+HEENT: Oropharynx clear, moist mucous membranes
+NECK: Neck supple, normal range of motion
+LUNGS: Wheezing plus rhonchi left mid to lower lobe, respiratory
+rate was normal, patient without increased work of breathing. 
+RLL
+biopsy site dressing c/d/i
+CV: Regular rate and rhythm, no murmurs rubs or gallops
+ABD: Soft, distended, resonant to percussion, nontender, no
+rebound or guarding
+GENITOURINARY: No Foley
+EXT: Decreased muscle bulk, moving all extremities spontaneously
+SKIN: Warm dry, no rash
+NEURO: Alert and oriented x3, fluent speech
+ACCESS: Peripheral IV
+ 
+Pertinent Results:
+___ 01:28PM   CREAT-1.0
+___ 06:35PM   WBC-4.3 RBC-4.10* HGB-12.4* HCT-35.4* MCV-86 
+MCH-30.2 MCHC-35.0 RDW-23.8* RDWSD-72.2*
+___ 06:46PM   ___ PTT-41.9* ___
+___ 06:50PM   LACTATE-2.3*
+___ 08:05AM BLOOD WBC-7.7 RBC-4.17* Hgb-12.3* Hct-36.6* 
+MCV-88 MCH-29.5 MCHC-33.6 RDW-25.2* RDWSD-75.1* Plt Ct-86*
+___ 03:00AM BLOOD ___ PTT-63.0* ___
+___ 08:05AM BLOOD Glucose-93 UreaN-11 Creat-1.1 Na-144 
+K-4.1 Cl-111* HCO3-19* AnGap-14
+___ 03:00AM BLOOD ALT-80* AST-370* AlkPhos-185* 
+TotBili-3.1*
+___ 08:05AM BLOOD Calcium-7.9* Phos-4.3 Mg-1.6
+___ 09:15AM BLOOD CEA-3.9 ___
+
+CT A/P
+IMPRESSION: 
+1. New OPTN 5 B lesions in segment II, V and VI.
+2. A new enhancing mass in segment VI is not hyperenhancing on 
+the arterial
+phase, and maintains persistent enhancement, with an appearance 
+more
+characteristic of colorectal metastasis than hepatocellular 
+carcinoma by
+imaging.
+3. Re-demonstrated treatment cavities in segment VII and VIII, 
+without
+evidence of local recurrence.  Treatment cavity in segment VI is
+re-demonstrated, with some enhancement but no definite washout 
+and overall the
+appearance is similar to prior.  Continued attention on 
+follow-up is
+recommended.
+4. Nonocclusive thrombosis in the left portal vein.
+5. Stable splenomegaly, with new moderate volume ascites.
+6. New 2 cm long apple-core lesion in the neo sigmoid colon is 
+concerning for
+malignancy.  Recommend correlation with direct visualization.
+7. Please refer to the separately dictated CT chest report from 
+the same date
+for a description of thoracic findings.
+
+Chest CT
+IMPRESSION:
+1. Right lower lobe subsegmental pulmonary arterial filling 
+defects compatible
+with recent pulmonary emboli, new since the prior study.
+2. Numerous bilateral lung nodules, new since, are likely 
+metastases.
+3. Bilateral hypodense nodules in the thyroid measure up to 1.3 
+cm on the
+right.  Further evaluation with thyroid ultrasound is 
+recommended if
+clinically appropriate.
+4. Please see separately submitted Abdomen and Pelvis CT report 
+for
+subdiaphragmatic findings.
+
+CT head
+IMPRESSION: 
+No acute intracranial process.  Mild small vessel disease.  No 
+definite
+evidence for intracranial metastasis.  There is further concern, 
+an MRI may be
+performed to further assess.
+
+Colonoscopy
+-Colonic mucosa appeared normal. Prep was fair. The sigmoid 
+colon was thoroughly evaluated with the therapeutic EGD scope 
+and then with a standard EGD scope. No mass was seen. A 
+circumferentially thickened fold was seen in the distal sigmoid 
+at the site of the anastomosis but otherwise appeared normal. 
+The anastomosis was seen on tretroflexion and appeared normal. 
+The thickened sigmoid fold possibly may have caused the CT 
+findings. The lumen was not obstructing and was widely patent 
+and hence a colonic stent was not placed/indicated
+ 
+Brief Hospital Course:
+___ PMH HCC (s/p liver resection + RFA) as well as colon cancer
+(s/p resection + adjuvant FOLFOX), presents today with new
+metastatic lesions on imaging + acute PE. Also with significant
+obstructive bowel sx s/p ___. He was started on heparin 
+drip for PE. ___ guided biopsy of lung was performed and results 
+pending. He underwent ___ which did not show an obstructive 
+lesion, after which his obstructive bowel symptoms improved. He 
+is resumed on lovenox for PE and is stable for discharge with 
+onc follow up.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+2. Tenofovir Disoproxil (Viread) 300 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. amLODIPine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 80 mg SC Q12H 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 80 mg/0.8 mL 80 mg subq every twelve (12) hours 
+Disp #*14 Syringe Refills:*0 
+2.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 17 g by 
+mouth daily Refills:*0 
+3.  Senna 17.2 mg PO DAILY 
+RX *sennosides 8.6 mg 2 tab by mouth daily Disp #*28 Tablet 
+Refills:*0 
+4.  Albuterol Inhaler 2 PUFF IH Q6H:PRN sob  
+5.  Omeprazole 20 mg PO DAILY  
+6.  Tenofovir Disoproxil (Viread) 300 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Metastatic cancer of unknown primary
+history of liver cancer
+history of colon cancer
+Acute pulmonary embolism
+ 
+Discharge Condition:
+fair
+A/Ox3
+self-ambulatory without assist
+ 
+Discharge Instructions:
+Dear ___ were admitted to the hospital after your oncologist found 
+new cancer lesions in your colon, liver, thyroid, and lungs. 
+Your lung lesion is biopsied and the results are pending. ___ 
+also were found to have a pulmonary embolism, and need to take a 
+blood thinner shot twice a day.
+ 
+Followup Instructions:
+___

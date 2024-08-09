@@ -1,0 +1,275 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath, LLE pain
+ 
+Major Surgical or Invasive Procedure:
+Placement of IVC filter
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with h/o esophageal 
+cancer s/p esophagectomy ___ who presents for evaluation of 
+progressive LLE pain and mild swelling as well as mild dyspnea 
+on exertion. Patient describe waking up three days ago with pain 
+behind his proximal calf, and distal thigh.  The pain was worse 
+the following day and by today he had difficulty walking.  He 
+also notes that his left leg is usually smaller than his right 
+leg but that it is now slightly more swollen. His ambulation has 
+been limited by his leg pain but he also notes that he felt more 
+short of breath over the last 48 hours with minimal exertion.  
+He denies any shortness of breath at rest, lightheadedness, or 
+pleuritic chest pain. Patient denied history of prior personal 
+or family history of VTE.  
+.  
+In the ED, initial VS:  T 98.2 HR 76 BP 146/83 RR 18 SpO2 97% 
+RA.
+Doppler ultrasound of bilateral lower extremities revealed DVT 
+in left popliteal vein extending to the mid portion of the left 
+superficial femoral vein. CTA revealed bilateral segmental and 
+subsegmental pulmonary embolisms. Heparin IV was started.  
+Patient was admitted to the medicine floor for further 
+monitoring.
+.
+.  
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath at rest, chest pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+Patient admits to cramping abdominal pain if he eats beef 
+products.  He has an open abdominal wound secondary to his 
+esophagectomy surgery in ___ that continues to drain and 
+reportedly formed a fistula.  The wound requires an ostomy to 
+collect drainage. He occasionally has pain near the site of the 
+wound.  He has an additional abdominal wound where he briefly 
+had a J-tube placed for feedings. The tube persistently leaked 
+so was removed 10 days after placement and has yet to heal 
+completely.  
+
+ 
+Past Medical History:
+Esophageal cancer dx with 
+Chronic anemia
+Diverticulitis s/p urgent sigmoid colectomy
+s/p emergent splenectomy
+s/p tonsillectomy
+C. diff dx ___ at ___ rehab
+Obesity
+
+ 
+Social History:
+___
+Family History:
+Noncontributory. Parents lived into their late ___. 
+
+ 
+Physical Exam:
+Admission:
+VS: T 98.6 142/80 HR 71 RR 18 SpO2 98% 2L
+GENERAL: Well-appearing man in NAD, comfortable, anxious.
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: Supple, no thyromegaly, elevated JVD
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored.
+HEART: RRR, no MRG, nl S1-S2.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+SKIN: No rashes or lesions.
+LYMPH: No cervical LAD.
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, DTRs 2+ and 
+symmetric, cerebellar exam intact, steady gait.
+
+Discharge
+VS: 98.8 130/92 78 20 95% RA
+GENERAL:  NAD
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: Supple, no thyromegaly
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored.
+HEART: RRR, no MRG, nl S1-S2.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses, tender to 
+palpation in L popliteal region and L thigh.  improving erythema 
+at lateral R great toe, not tender to palpation
+SKIN: No rashes or lesions.
+LYMPH: No cervical LAD.
+
+ 
+Pertinent Results:
+___ 05:30PM   GLUCOSE-108* UREA N-10 CREAT-0.8 SODIUM-142 
+POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-27 ANION GAP-17
+___ 05:30PM   estGFR-Using this
+___ 05:30PM   CK(CPK)-66
+___ 05:30PM   cTropnT-<0.01
+___ 05:30PM   CK-MB-1 proBNP-367*
+___ 05:30PM   WBC-9.5 RBC-3.84* HGB-11.9* HCT-35.1* MCV-91 
+MCH-31.0 MCHC-33.9 RDW-14.6
+___ 05:30PM   NEUTS-75.6* LYMPHS-12.6* MONOS-9.7 EOS-1.5 
+BASOS-0.7
+___ 05:30PM   PLT COUNT-396
+___ 05:30PM   ___ PTT-25.6 ___
+
+CTA Chest ___:
+1. Bilateral pulmonary emboli as above. Increased size of right 
+heart cavity concerning for right heart strain. Recommend 
+correlation with echocardiogram 
+2. Small right pleural effusion and adjacent atelectasis. Focal 
+opacity at 
+the right lower lobe likely focal atelectasis vs early infarct. 
+Additional 
+areas of atelectasis. 
+3. Status post partial esophagectomy (patient has history of 
+esophageal 
+cancer). Retained material in the lower neoesophagus which is 
+mildly 
+distended. 
+4. Hypodensity in the liver, similar to prior, likely cysts. 
+Please note lesion seen on prior in segment VI of the liver is 
+not seen on current study, probably due to phase of 
+post-contrast imaging. As recommended on prior CT, further 
+evaluation with MRI with Eovist is recommended. 
+5. Status post splenectomy with multiple soft tissue nodules in 
+the left 
+upper abdominal quadrant, which could potentially be splenosis 
+as suggested on prior imaging. 
+
+LLE u/s ___:
+Deep vein thrombosis seen within the left popliteal vein 
+extending to the mid portion of the left superficial femoral 
+vein. The left tibial veins could not be evaluated as they were 
+only minimally visualized.  No DVT is seen in the right leg. 
+
+TTE ___:
+Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Overall left ventricular 
+systolic function is low normal (LVEF ? 50%) due to inferior 
+posterior hypokinesis with focal posterobasal dyskinesis; other 
+focal wall motion abnormalities cannot be excluded with 
+certainty. Right ventricular chamber size and free wall motion 
+are normal. The aortic valve is not well seen. There is no 
+aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. There is 
+borderline pulmonary artery systolic hypertension. There is no 
+pericardial effusion.
+
+An extensive, large acoustic density is seen abutting, and 
+possibly compressing the left atrium. Given the history of 
+esophageal cancer with distended lower neoesophagus, this 
+probably represents anatomic changes related to this condition.  
+
+ 
+Brief Hospital Course:
+___ year old man with h/o esophageal cancer s/p esophagectomy 
+___ who presents for evaluation of progressive LLE pain and 
+mild swelling as well as mild dyspnea on exertion. 
+
+Bilateral PEs and DVT:  Heparin gtt was started in the ED and 
+vascular service was consulted on the floor for placement of IVC 
+filter, considering bilateral PE and large DVT in LLE.  Cardiac 
+enzymes negative on day of admission, EKG wth no changes c/w R 
+heart strain.  IVC filter was placed, tolerated procedure well, 
+and heparin gtt was continued while warfarin was started.  
+Benefits lovenox for long term anticoagulation were discussed 
+with the patient, who has a h/o esophageal cancer, however pt 
+did not want to use lovenox for the long term and preferred 
+warfarin. Atenolol was held.  Patient remained hemodynamically 
+stable and echo, which had suboptimal image quality, did not 
+show evidence of R heart strain.  He was discharged with an INR 
+of 2.3 ___ first day of therapeutic INR, goal ___ on coumadin 
+dose of 5 mg daily, and with two days of overlap with 
+therapeutic lovenox.  His PCP was contacted regarding referral 
+to outpatient ___ clinic.
+
+HTN: Held home atenolol given large PEs, and BP remained stable 
+with SBP 120s-130s. could consider restarting as an outpatient
+
+Wound/Ostomy care: wound care nursing was consulted for ostomy 
+and fistula wounds
+
+Gout: Pt with h/o gout that tends to flare when he feels 
+dehydrated.  He is not on long term uric acid therapy.  On HD 2, 
+he noted a gout flare in his R and L great toes, R>L, and for 
+this he received colchicine.  He will take colchicine for the 
+next ___ days until gout flare resolves.  Would consider long 
+term uric acid suppression therapy as an outaptient
+ 
+# CODE:  full code confirmed during admission
+# CONTACT:  ___ (wife) ___
+ 
+Medications on Admission:
+Atenolol 50 mg po daily
+Omeprazole 20 mg po bid
+Iron 325 mg daily
+ 
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+2. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.  
+3. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___.  
+4. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for gout for 2 days.  
+5. enoxaparin 100 mg/mL Syringe Sig: Ninety (90) mg Subcutaneous 
+Q12H (every 12 hours) for 2 days: overlap for therapeutic INR in 
+setting of DVT/PE on ___ and ___.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pulmonary embolism
+Deep vein thrombosis
+Gout
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were seen in the hospital for leg pain and mild shortness of 
+breath.  These symptoms were most likely caused by a deep vein 
+thrombosis (blood clot) in your leg and pulmonary emboli (blood 
+clots in your lungs).  For this, you had a filter placed in your 
+inferior vena cava (large vein leading to your heart) to prevent 
+clots from spreading from your left leg to your lungs.  You were 
+also started on an IV blood thinner (heparin) along with 
+coumadin to treat your blood clots and prevent new clots from 
+forming.  You will be on lovenox for two more days as your INR 
+(bloodwork that monitors coumadin) becomes therapeutic.
+
+Your IVC filter will not prevent you from getting an MRI in the 
+future and it should not cause problems with metal detectors or 
+at the airport.
+
+Changes to your medications:
+START taking coumadin 5 mg daily
+START taking colchicine 0.6 mg daily for the next two to three 
+days, depending on if you are still having symptoms.  You should 
+talk to your primary care doctor about the possiblity of 
+starting long term treatment for gout.
+
+STOP taking atenolol until you follow up with your primary care 
+doctor
+ 
+Followup Instructions:
+___

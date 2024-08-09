@@ -1,0 +1,76 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Female patient with triple negative breast cancer
+* Locally advanced
+* On abraxane and atezolizumab therapy
+
+**Chief Complaint:**
+
+* Found down on the floor by a friend with a downtime of approximately 48 hours
+* Complains of fatigue, dizziness, nausea, and cough with white sputum production
+* Endorses LUQ pain and urinary frequency
+
+**Medical History:**
+
+* Hypertension
+* Migraines
+* Hyperthyroidism
+* Status post appendectomy
+
+**Admission Findings:**
+
+* Confused and frail
+* Right-sided large breast wound with dressing in place
+* Chest X-ray shows new diffuse ground-glass opacities with septal thickening throughout both lungs
+* UA pyuria, elevated creatinine and lactate levels
+
+**Interventions:**
+
+* Vanc, Zosyn, Methylprednisolone, and 3L fluid resuscitation
+* Lumbar puncture and paracentesis performed
+* Started on insulin for hyperglycemia
+* Treated for MDR E. coli UTI with Zosyn and meropenem
+* Received cryptococcal meningitis treatment with amphotericin and flucytosine
+
+**Discharge Diagnosis:**
+
+* Encephalopathy
+* Possible cryptococcal meningitis
+* Possible checkpoint-inhibitor induced encephalitis
+* Ascites
+* Cirrhosis
+* Diarrhea
+* Acute hypoxemic respiratory failure
+* Checkpoint-inhibitor induced pneumonitis
+* Severe protein calorie malnutrition
+* Dysphagia
+* DIC
+* Anemia
+* Thrombocytopenia
+* MDR E. coli UTI
+* Renal tubular acidosis
+* Locally advanced breast cancer
+
+**Discharge Medications:**
+
+* Acetaminophen
+* Diphenoxylate-atropine
+* Fluconazole
+* Glucagon
+* Glucose gel
+* Insulin
+* Lansoprazole
+* Ondansetron
+* Prochlorperazine
+
+**Follow-up Instructions:**
+
+* Follow up with Infectious Diseases on ___
+* Monitor weekly QTc
+* Establish care with Hepatology and have a hepatitis B vaccine
+* Refer to GI for further workup of diarrhea
+* Follow up with Oncology to discuss timing of restarting treatment for breast cancer
+* Repeat chem10, LFTs, CBC 3x/week
+* Replete potassium for goal >4.0

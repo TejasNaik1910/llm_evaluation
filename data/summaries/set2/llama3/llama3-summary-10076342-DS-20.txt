@@ -1,0 +1,60 @@
+Here is a summary of the clinical note with essential information:
+
+**Patient Information:**
+
+* Age: Not specified
+* Sex: Male
+* Date of Birth: Not specified
+
+**Cancer Information:**
+
+* Type: Non-small cell lung cancer (NSCLC)
+* Morphology: Not specified
+* Stage: Stage 4 (metastatic to brain and liver)
+* TNM staging: Not specified
+
+**Presenting Symptoms:**
+
+* Altered mental status
+* Jaundice
+* Hematemesis (1 month ago)
+
+**Medical History:**
+
+* Hypertension
+* Alcohol abuse
+* Lung cancer diagnosed 2 weeks ago
+* 5 XRT treatments to lungs and brain
+
+**Medications:**
+
+* Decadron 4 mg four times a day
+* Metoprolol 25 mg daily
+* Prilosec
+* Various medications added during hospital stay, including lactulose, rifaximin, and insulin
+
+**Diagnostic Tests:**
+
+* CT head: Hyperdense lesion in right occipital lobe, surrounding vasogenic edema
+* PET scan: Large brain metastasis
+* RUQ ultrasound: Echogenic liver with 8 cm mass (possible hemangioma)
+* Blood tests: Elevated liver function tests, ammonia, and INR
+
+**Surgical Interventions:**
+
+* Craniotomy and resection of brain metastasis
+* US-guided liver biopsy: Cirrhosis, no evidence of tumor
+
+**Hospital Course:**
+
+* Delirium and hepatic encephalopathy improved with lactulose and rifaximin
+* Coagulopathy and thrombocytopenia managed with FFP and platelet transfusions
+* Splenic infarct noted on MRI
+* Hyperglycemia managed with insulin
+* Hypertension managed with metoprolol
+
+**Discharge:**
+
+* Transferred to neurosurgery service for craniotomy and tumor resection
+* Recovered in PACU and transferred to neurosurgery floor
+* Discharged to extended care facility with daily transfer to radiation center for further radiation treatment.

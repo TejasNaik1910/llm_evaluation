@@ -1,0 +1,81 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Penicillins
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Lymphoma
+
+**Major Surgical or Invasive Procedure:**
+- Successful placement of a double lumen chest power Port-a-cath via the right internal jugular venous approach.
+
+**History of Present Illness:**
+- The patient is a male with a recent diagnosis of primary mediastinal lymphoma, admitted for the planned second cycle of DA-EPOCH-R chemotherapy.
+- Initial admission revealed a large mediastinal mass, diagnosed as diffuse large B-cell lymphoma (DLBCL) following a biopsy.
+- The patient completed the first cycle of DA-EPOCH without issues and was discharged in good condition.
+- Post-discharge, the patient experienced back pain (resolved with ibuprofen), generalized fatigue, constipation, and symptomatic hemorrhoids.
+
+**Review of Systems:**
+- Negative except for noted symptoms in the HPI.
+
+**Past Medical History:**
+- Pancreas divisum
+- Acute pancreatitis with necrosis (s/p necrosectomy)
+- GERD
+- Nephrolithiasis
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Parents with hypertension, no other significant cardiac disease.
+
+**Physical Exam:**
+- Vital signs: 97.5°F, BP 144/100, HR 84, RR 18, SpO2 98% on room air.
+- General: Pleasant, ambulating comfortably.
+- Cardiovascular: Regularly irregular rhythm, no murmurs/rubs/gallops.
+- Respiratory: No distress, clear lungs.
+- Gastrointestinal: Normal bowel sounds, soft, non-tender abdomen.
+- Musculoskeletal: Well-perfused extremities, no edema.
+- Neurological: Alert, oriented, intact cranial nerves and motor/sensory function.
+- Skin: Slight pink hue under eyes, resolved.
+
+**Pertinent Results:**
+- Blood tests showed mild abnormalities in WBC, RBC, Hgb, Hct, and uric acid levels.
+
+**Brief Hospital Course:**
+- **Primary Mediastinal Lymphoma:** Completed Cycle 1 of DA-EPOCH without issues. Cardiac MRI post-discharge showed no invasion into the heart or large vessels. Tolerated Cycle 2 EPOCH well at dose level 2. Aggressive bowel regimen managed constipation effectively. TTE on Day 5 showed no cardiac involvement; received Rituxan on Day 6 without complications.
+- **Arrhythmia:** EKG showed bigeminal PVCs, asymptomatic. Started on low-dose metoprolol, tolerated well.
+- **Chronic Pancreatitis, Pancreatic Divisum, Pancreatic Pseudocyst:** Continued home medications (Creon, colesevelam, nortriptyline).
+- **GERD:** Continued Ranitidine as needed.
+
+**Medications on Admission:**
+- Creon, Nortriptyline, WelChol, Ondansetron, Lorazepam, Polyethylene Glycol, Senna, Docusate Sodium, Filgrastim, Acyclovir, Oxycodone.
+
+**Discharge Medications:**
+- Atovaquone, Loratadine, Metoprolol, Acyclovir, Creon, Docusate Sodium, Filgrastim, Lorazepam, Nortriptyline, Ondansetron, Oxycodone, Polyethylene Glycol, Senna, WelChol.
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Diffuse Large B-Cell Lymphoma (DLBCL)
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory and independent.
+
+**Discharge Instructions:**
+- The patient tolerated Cycle 2 EPOCH well and completed chemotherapy. Neupogen to be started the evening of discharge. Follow-up in the clinic is scheduled. Advised to avoid Bactrim due to a facial rash.
+
+**Follow-up Instructions:**
+- [Redacted]

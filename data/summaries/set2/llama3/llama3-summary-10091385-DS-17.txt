@@ -1,0 +1,49 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Name: Not provided
+* Date of Birth: Not provided
+* Sex: Female
+* Unit No: Not provided
+* Admission Date: Not provided
+* Discharge Date: Not provided
+
+**Chief Complaint and History of Present Illness:**
+
+* Chief Complaint: Fever
+* History of Present Illness: The patient presented with a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma. She developed fever and right upper quadrant (RUQ) pain, and was admitted to the hospital.
+
+**Physical Exam and Lab Results:**
+
+* Physical Exam: The patient had a fever of 102.7°F, tachycardia, and RUQ tenderness to palpation.
+* Lab Results: The patient had elevated white blood cell count, anemia, and abnormal liver function tests. Various tests were conducted to rule out infections, including blood cultures, urine culture, and tests for Aspergillus, EBV, Schistosoma, and Fasciola hepatica.
+
+**Diagnosis and Treatment:**
+
+* Diagnosis: Liver abscess, liver mass, and fever
+* Treatment: The patient was started on antibiotics (Vancomycin, Zosyn, and Flagyl) and underwent ultrasound-guided percutaneous drainage of a right hepatic fluid collection. She was later switched to oral ciprofloxacin and Flagyl.
+
+**Surgical Interventions:**
+
+* Hepatic drain placement and removal
+* Ultrasound-guided percutaneous drainage of right hepatic fluid collection
+
+**Medications:**
+
+* Acetaminophen
+* Ciprofloxacin
+* Docusate Sodium
+* Metronidazole (Flagyl)
+* Senna
+* Hydrocodone (Dilaudid)
+
+**Discharge Disposition and Condition:**
+
+* Discharge Disposition: Home
+* Discharge Condition: The patient was afebrile, ambulatory, and voiding freely, with mild pain in the RUQ near the biopsy site.
+
+**Follow-up Instructions:**
+
+* Follow-up appointment with Dr. ___ on ___
+* Repeat ultrasound on ___ to assess for interval change.

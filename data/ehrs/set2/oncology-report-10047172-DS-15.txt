@@ -1,0 +1,529 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+sitagliptin / fesoterodine / Statins-Hmg-Coa Reductase 
+Inhibitors / saxagliptin / pioglitazone / canagliflozin / 
+fenofibrate
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___ with plastic stent pull and balloon sweeps, 
+difficult ERCP
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with pancreatic cancer
+metastatic to the liver (dx ___, MS stable, KRAS mutation)
+with progression on modified FOLFIRINOX, admitted from ___
+clinic on ___ for fevers up to 102.2 F, nonbilious emesis x 1,
+and acute urinary retention. He had been on bridge chemotherapy
+with erlotinib (since ___ and was scheduled for C1D1 of
+gemcitabine on ___, but this was held in the setting of his new
+symptoms. The patient said he had been feeling well until about
+two weeks ago, when he began developing increased bloating and
+poor appetite. Then about ___ days PTA, he started to have low
+grade temperatures around ___ F and felt intermittently
+nauseous. During the clinic visit on ___, he had an episode of
+voluminous vomiting of partially undigested food from breakfast
+at least three hours prior.  Stated that he felt very fatigued
+and out of sorts.  No abdominal pain, fevers, chills or night
+sweats. 
+
+In clinic, his vital signs were: BP 161/55, T 99.4 (up to 102.2)
+with HR ___, RR 16, and SaO2 100% on RA. His exam was notable 
+for
+oropharyngeal thrush, trace edema of the lower extremities, and
+skin desquamation on the bottom of his feet without any evidence
+of skin breakdown. His labs in clinic were significant for WBC
+12.2, H/H 9.8/12.2, Na 126, ALT/AST ___ with tbili 1.6 alk 
+phos
+855. He had an elevated lactate of 3.7. Notably, his CEA was 
+47.4
+(up from prior) and ___ ___ ___ (up from ___ on ___. 
+He
+was given 1L IVF, zofran, nystatin, and tylenol, and blood and
+urine cultures were obtained. Dr. ___ spoke with Dr. ___ with plan for MRCP with consideration of further
+endoscopic intervention with percutaneous drainage to relieve
+possible gastric outlet obstruction. In clinic, patient was also
+found to have poor UOP with only 60cc voided post-IVF
+resuscitation and bladder scan revealing > 500cc retained urine.
+Post void bladder scan showed 458cc in the bladder with plan for
+further management of his hyperbilirubinemia, fevers, n/v, and
+acute urinary retention on OMED.  
+
+Overnight, patient was started on IV cefepime/flagyl and 
+received
+1L IVF and zofran for nausea.  Additional blood cultures were
+obtained and a CXR showed no evidence of any acute 
+intrapulmonary
+process and KUB was negative for SBO.  Labs were notable for a 
+Na
+125, BUN/Cr ___, HCO3 21, lactate 3.7, ALT/AST 53/88, AP 762,
+Tbili 1.9, Dbili 1.4, WBC 11.5, and H/H 9.3/27.8. He became
+hypoglycemic with FSBG 56 at 0200 and was given 12.5 gm D50 IV x
+1 and started on D5LR @ 125 cc/hr.  On recheck, his FSBG was 
+132.
+A RUQ ultrasound was ordered and pending at the time of
+evaluation.
+ 
+Past Medical History:
+ONCOLOGIC HISTORY:
+Mr. ___ was diagnosed pancreatic adenocarcinoma metastatic to
+the liver in ___ when he was admitted for painless
+jaundice. CT showed 3.3cm pancreatic head mass and MRI
+showed a 1.8cm left kidney lesion concerning for RCC as well as 
+2
+sub-cm liver masses. FNA of pancreas showed 'suspicious' cells.
+His pancreatic mass was deemed unresectable due to abutting the
+SMV and portal vein. He was treated with three cycles of
+FOLFIRINOX ___ which was halted due to rising CA 
+___
+and increased size of liver metastases. In ___,  CA
+___ elevated to 23K and considered potentially related to left
+finger infection in setting of diabetes. Imaging shows increased
+size of liver metastases. In ___ he started
+gemcitabine/Abraxane. Imaging ___ showing slight decrease 
+in
+the size of the liver metastases with stable disease at the
+pancreas. Course complicated by right thigh muscle infarct
+presumed ___ diabetes in ___. Primary chemotherapy side
+effect has been neuropathy on the bottoms of b/l feet without
+impairment of ADLs. Has required multiple dose and schedule
+adjustments in order to maximize quality of life, minimize 
+marrow
+toxicity and maintain control over tumor (primarily assessed by
+tumor marker). Imaging has showed mixed response in early ___:
+given discordance with ___, unclear if true progression vs
+variations due to reduced chemotherapy exposure at various time
+points for various toxicity and scheduling reasons. In setting 
+of
+increasing side effects and  mixed response by imaging/markers,
+changed to CapOx on ___ scans show a mixed response to treatment, regimen
+changed to modified FOLFIRINOX 
+-___: Began modified FOLFIRINOX with dose reduction ___
+IVP and Leucovorin held from regimen) (Per OMR, patient
+previously given this regimine at ___ for 3 cycles ___ ago)
+-___: CT scan showed progression of disease with an interval
+increase in size of the innumerable  hepatic masses, increased
+abnormal soft tissue in the retroperitoneum, and 
+increasing ascites.
+-___: Patient started on erlotinib with plan for C1D1 of
+gemcitabine on ___.
+-Admitted to ___ on ___ for hyperbilirubinemia, fevers, 
+n/v,
+and acute urinary retention.
+
+OTHER PAST MEDICAL HISTORY (per OMR):
+- T2DM
+- Hypertension
+- Hyperlipidemia
+- s/p L hip replacement
+- heart murmur
+- s/p nose fracture
+- kidney lesion determined to be 2.4cm hemmorhagic cyst on MRI
+___ 
+ 
+Social History:
+___
+Family History:
+Mother:  dementia
+Father:  bladder cancer at older age
+Cancers in the family:  paternal cousin with primary liver 
+cancer
+
+ 
+Physical Exam:
+ON ADMISSION:
+VS: Tmax 101.7 (___) Tc 97.4  BP 140/70  HR 67  RR 16  
+SaO2
+99% on RA
+GEN:  Cachectic, mildly jaundiced-appearing elderly man, in NAD.
+HEENT: Oropharynx with mild thrush. Sclerae anicteric,
+conjunctivae pink.
+CHEST: CTAB. No wheezes, rales or rhonchi.
+CARDIAC: RRR, nl S1/S2, III/VI apical SEM. Port site looks 
+c/d/i.
+ABD: Soft, distended, nontender, BS+. No rebound or guarding.
+EXT: WWP, trace edema, no cyanosis or erythema.
+SKIN: Desquamation on the plantar aspect of his feet 
+bilaterally.
+
+DISCHARGE PHYSICAL EXAM:
+VS: 97.8 154-170/66-70 66-70 ___
+GEN:  A&Ox3, NAD. Pleasant, lying comfortably in bed.
+HEENT: MMM, clear oropharynx
+CHEST: CTAB. No wheezes, rales or rhonchi.
+CARDIAC: RRR, nl S1/S2, III/VI apical SEM. 
+ABD: Soft, distended, nontender, BS+, tympanic. No rebound or
+guarding.
+EXT: WWP, no edema, no cyanosis or erythema.
+SKIN: Port site c/d/i.
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 08:37PM BLOOD WBC-11.5* RBC-3.07* Hgb-9.3* Hct-27.8* 
+MCV-91 MCH-30.3 MCHC-33.5 RDW-16.3* RDWSD-54.3* Plt ___
+___ 12:30PM BLOOD WBC-12.2*# RBC-3.21* Hgb-9.8* Hct-29.4* 
+MCV-92 MCH-30.5 MCHC-33.3 RDW-16.2* RDWSD-54.8* Plt ___
+___ 12:30PM BLOOD Neuts-86.9* Lymphs-4.0* Monos-8.2 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-10.62*# AbsLymp-0.49* 
+AbsMono-0.99* AbsEos-0.00* AbsBaso-0.02
+___ 08:37PM BLOOD Plt ___
+___ 08:37PM BLOOD ___ PTT-35.3 ___
+___ 12:30PM BLOOD Plt ___
+___ 08:37PM BLOOD Glucose-126* UreaN-27* Creat-1.3* Na-125* 
+K-4.4 Cl-90* HCO3-21* AnGap-18
+___ 12:30PM BLOOD UreaN-31* Creat-1.2 Na-126* K-5.0 Cl-89*
+___ 08:37PM BLOOD ALT-53* AST-88* LD(LDH)-203 AlkPhos-762* 
+TotBili-1.9* DirBili-1.4* IndBili-0.5
+___ 12:30PM BLOOD ALT-55* AST-91* AlkPhos-855* TotBili-1.6*
+___ 08:37PM BLOOD Calcium-8.6 Phos-2.5* Mg-1.5*
+___ 12:30PM BLOOD Albumin-3.3* Calcium-8.7 Phos-2.9 Mg-1.5*
+
+DISCHARGE LABS
+___ 05:27AM BLOOD WBC-8.2 RBC-2.67* Hgb-8.0* Hct-24.1* 
+MCV-90 MCH-30.0 MCHC-33.2 RDW-18.5* RDWSD-58.5* Plt ___
+___ 05:27AM BLOOD Plt ___
+___ 05:27AM BLOOD Plt ___
+___ 05:27AM BLOOD ___ PTT-32.3 ___
+___ 05:27AM BLOOD Glucose-114* UreaN-23* Creat-1.3* Na-131* 
+K-3.9 Cl-99 HCO3-24 AnGap-12
+___ 05:27AM BLOOD ALT-41* AST-93* LD(LDH)-240 AlkPhos-768* 
+TotBili-3.1*
+___ 05:27AM BLOOD Albumin-2.7* Calcium-8.1* Phos-3.8 Mg-1.9
+
+MICRO:
+___ 3:05 pm BLOOD CULTURE
+Blood Culture, Routine (Preliminary): 
+KLEBSIELLA PNEUMONIAE.    FINAL SENSITIVITIES. 
+Cefazolin interpretative criteria are based on a dosage regimen
+of 2g every 8h.  SENSITIVITIES: MIC expressed in MCG/ML.         
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Aerobic Bottle Gram Stain (Final ___: GRAM NEGATIVE 
+ROD(S).
+Reported to and read back by ___, ___ @
+___. 
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+                     
+_________________________________________________________
+                             ENTEROCOCCUS GALLINARUM
+                             |   
+AMPICILLIN------------   <=2 S
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------     1 S
+VANCOMYCIN------------     4 S
+
+ERCP ___: 
+Major Papilla: A previously placed metal stent and plastic 
+stents were found in the major papilla. There was evidence of 
+distal migration, though the majority of the stent remained 
+within the CBD. There was evidence of significant debris 
+surrounding and within the lumen of the stent.   
+
+Cannulation:  Given significant duodenal narrowing and 
+distortion we were unable to get the therapeutic duodenoscope 
+into an appropriate position. Thus, we switched to a diagnostic 
+duodenoscope and cannulated the bile duct in a long position. 
+Cannulation of the biliary duct was successful and deep with a 
+sphincterotome using a free-hand technique. Small amount of 
+contrast medium was injected resulting in complete 
+opacification. The procedure was moderately difficult   
+ 
+Biliary Tree: The common bile duct, was filled with contrast and 
+well visualized. There was no evidence of obvious filling 
+defects within the level of the stent and above it. I supervised 
+the acquisition and interpretation of the fluoroscopic images. 
+The quality of the fluoroscopic images was good   
+
+Procedures: A plastic stent was removed from the main duct.
+The sphincterotome was exchanged for an extraction balloon 
+catheter. Balloon sweeps were perfromed and yielded small amount 
+of sludge. Further sweeps were performed until no debris was 
+noted.   
+ 
+Impression: 
+A previously placed metal stent and plastic stents were found 
+in the major papilla. 
+There was evidence of distal migration, though the majority of 
+the stent remained within the CBD. 
+There was evidence of significant debris surrounding and within 
+the lumen of the stent. 
+Given significant duodenal narrowing and distortion we were 
+unable to get the therapeutic duodenoscope into an appropriate 
+position. Thus, we switched to a diagnostic duodenoscope and 
+cannulated the bile duct in a long positition. 
+A plastic stent was removed from the main duct.
+Cannulation of the biliary duct was successful and deep with a 
+sphincterotome using a free-hand technique. 
+Small amount of contrast medium was injected resulting in 
+complete opacification. 
+The procedure was moderately difficult 
+The common bile duct, was filled with contrast and well 
+visualized. 
+There was no evidence of obvious filling defects within the 
+level of the stent and above it.    
+The sphincterotome was exchanged for an extraction balloon 
+catheter. 
+Balloon sweeps were perfromed and yielded small amount of 
+sludge. 
+Further sweeps were performed until no debris was noted. 
+ 
+RUQ ultrasound ___:
+1. Mild peripheral biliary ductal dilation, most predominantly 
+seen in the left hepatic dome.  No significant central biliary 
+ductal dilation.
+2. Numerous hepatic metastasis, please refer to recent MRI for 
+more detailed description.
+3. Mild splenomegaly.
+4. Redemonstration of a pancreatic neoplasm measuring 1.7 x 3.9 
+cm, again for more detailed description please correlate with 
+recent MRI.
+
+KUB ___:
+No evidence of small-bowel obstruction.
+
+CXR ___:
+Comparison to ___.  No relevant change is noted.  
+Signs of mild overinflation.  No evidence of pneumonia.  No 
+pulmonary edema, no pleural effusions.  No pneumothorax.  Normal 
+size of the heart.  The right pectoral Port-A-Cath is in stable 
+correct position.
+
+MRI Liver ___:
+Progression of disease with an interval increase in size of the 
+innumerable hepatic masses, increased abnormal soft tissue in 
+the retroperitoneum, and increasing ascites.  Additionally, the 
+primary pancreatic cancer in the pancreatic head is very 
+minimally increased in size.
+
+CT CHEST w/ CON ___:
+New irregular nodule in the right upper lobe and interval 
+increase of the right lower lobe nodules concerning for 
+progressive metastatic disease. 
+
+ERCP ___:
+EUS was performed using a linear echoendoscope at ___ MHz 
+frequency 
+The head and uncinate pancreas were imaged from the duodenal 
+bulb and the second / third duodenum.  
+The body and tail were imaged from the gastric body and fundus. 
+
+Mass: A 3.5 cm X 4 cm ill-defined mass was noted in the head of 
+the pancreas.  
+The mass was hypoechoic and heterogenous in echotexture.  
+The borders of the mass were irregular and poorly defined.  
+The mass is involving the confluence, especially the SMV with 
+narrowing of vessel diameter.  
+FNB was performed. Color doppler was used to determine an 
+avascular path for needle aspiration. A 22-gauge needle with a 
+stylet was used to perform biopsy.  
+Six needle passes were made into the mass.  
+Biopsies were sent for pathology.  
+Scan of the left hepatic lobe reveled multiple hypoechoic 
+lesions measured between 0.5-2cm, highly suspected for 
+metastatic disease, FNB was performed from 3 different hepatic 
+lesions 
+Otherwise normal upper eus to third part of the duodenum
+
+ 
+Brief Hospital Course:
+___ with metastatic pancreatic cancer admitted for acute 
+biliary obstruction and bacteremia likely secondary to a biliary 
+source.
+
+# Polymicrobial Bacteremia/biliary sepsis: Secondary to biliary 
+obstruction and now s/p CBD stent repositioning and debris 
+removal on ___, repeat ERCP on ___ with replacement of 
+stent. Blood cx growing klebsiella and enterococcus.   
+- discontinued vancomycin/cefepime/flagyl, D1 = ___
+- started on zosyn 4.5 g IV Q8H per speciation and sensitivities 
+for GNR and GPC as above; will need 14-day course of abx END 
+DATE ___
+- home IV abx TID with end date ___ for completion of 14 day 
+course, ___ services
+- prior 10x60 fully covered biliary WallFlex stent from ___ 
+was replaced with new stent ___ via ERCP
+- trended LFTs; Tbili 3.0->3.1 on day of discharge. Will have 
+follow up labs on ___ to trend LFTs, Cr
+
+# Malignant biliary obstruction:
+Upward trending LFTs since ___. s/p ERCP on ___ with 
+repositioning of distally migrated metal stent in CBD, removal 
+of plastic stent from the main duct, cannulation of the bile 
+duct  via diagnostic duodenoscope. Overall 
+hyperbilirubinemia/elevated LFTs slightly improving s/p ERCP 
+decompression. 
+- Home with antibiotics as above
+- Repeated ERCP ___ as above
+- continue to trend LFTs on outpatient basis
+
+# Hypertension:
+SBPs up to 190s on ___ in the setting of held home 
+antihypertensives since admission. SBP 150s-170s, restarted home 
+lisinopril after discussion with outpatient
+nephrologist
+- Continued home amlodipine
+- started on lisinopril 5mg daily (___) for HTN; Cr bumped with 
+10mg PO lisinopril, returned pt to 5mg daily dose
+- f/u creatinine on ___
+
+# Anemia: 
+Normocytic, likely ACD. NTD
+
+# Acute Kidney Injury:  
+Improved with treatment and improvement of sepsis, secondary to
+pre-renal injury.  
+
+# Urinary retention:  
+Resolved. Intermittent, likely secondary to BPH. Resolved.
+Currently urinating without issue
+
+# DM2: 
+Had an episode of hypoglycemia on admission while NPO, now
+normoglycemic on home diet.
+- held home metformin while inpatient
+- HISS, started home lantus 15U QAM ___
+
+# Metastatic pancreatic cancer:
+Dx ___ with mets to liver, progressed on modified 
+FOLFIRINOX.
+Bridge chemotherapy to clinical trial with erlotinib/gemcitabine
+held. Evidence of progression on MRI on ___ while on modified
+FOLFIRINOX. Upward trending CEA and CA ___.
+- Plan to resume bridge chemotherapy to clinical trial pending
+clinical status
+- Continued Ritalin and Ativan prn, creon with meals
+
+TRANSITIONAL ISSUES: 
+====================
+-Patient to finish 2 week zosyn abx course through ___ with ___ 
+following
+-Please recheck electrolytes, and LFTs on ___ and send to PCP 
+and Dr. ___ was temporarily started on lisinopril 10 mg daily for 
+BP control; discussed with Dr. ___ (patient's 
+nephrologist) and Dr. ___ - patient had creatinine bump from 
+1.0->1.2, so dose was decreased to 5mg daily. Renal function 
+should be closely monitored, and may need to be stopped if 
+resuming chemo that would cause renal vasoconstriction (ie: 
+oxaliplatin). 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+3. Tamsulosin 0.4 mg PO BID 
+4. DULoxetine 30 mg PO DAILY 
+5. Creon ___ CAP PO TID W/MEALS 
+6. LORazepam 0.5 mg PO Q6H:PRN nausea or sleep 
+7. MethylPHENIDATE (Ritalin) 20 mg PO QAM 
+8. Nystatin Oral Suspension 5 mL PO QID 
+9. MethylPHENIDATE (Ritalin) 20 mg PO DAILY:PRN fatigue, 
+decreased concentration 
+10. Pyridoxine 50 mg PO DAILY 
+11. Glargine 15 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Creon ___ CAP PO TID W/MEALS 
+3. DULoxetine 30 mg PO DAILY 
+4. LORazepam 0.5 mg PO Q6H:PRN nausea or sleep 
+5. MethylPHENIDATE (Ritalin) 20 mg PO DAILY:PRN fatigue, 
+decreased concentration 
+6. Pyridoxine 50 mg PO DAILY 
+7. Tamsulosin 0.4 mg PO BID 
+8. Piperacillin-Tazobactam 4.5 g IV Q8H 
+RX *piperacillin-tazobactam 4.5 gram 4.5 g IV every 8 hours Disp 
+#*30 Vial Refills:*0
+9. MethylPHENIDATE (Ritalin) 20 mg PO QAM 
+10. Nystatin Oral Suspension 5 mL PO QID 
+11. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+12. Glargine 15 Units Breakfast
+13. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+14. Outpatient Lab Work
+LABS FOR ___ ICD-9-CM Diagnosis Code ___.2 Biliary 
+Obstruction
+CBC, Chem 10, ALT, AST, AP, LDH, TBili, Albumin
+Send to ATTN: Dr. ___ ___ and ATTN: Dr. ___ 
+___  ___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+biliary obstruction
+pancreatic cancer
+Klebsiella and enterococcal septicemia
+Acute kidney injury
+
+SECONDARY DIAGNOSIS:
+Type 2 diabetes mellitus
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted for fever and elevated liver tests.  You were 
+found to have an obstruction in your biliary system and 
+underwent a procedure called ERCP where a stent was placed.  As 
+your liver tests continued to trend up, you underwent a second 
+ERCP where your previous stent which appeared to have migrated 
+was replaced.  Your blood cultures grew two different organisms 
+(Klebsiella and enterococcus) and you are being discharged on an 
+antibiotic called zosyn which will continue through ___ for a 
+total two week course.  Please follow up with your oncologist 
+Dr. ___.  
+
+You will also have follow up lab draws to continue to monitor 
+your liver tests.
+
+It was a pleasure caring for you - we wish you all the best!
+Sincerely, 
+Your ___ Oncology Team
+
+ 
+Followup Instructions:
+___

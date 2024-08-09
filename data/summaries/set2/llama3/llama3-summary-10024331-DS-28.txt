@@ -1,0 +1,50 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Male patient, ___ years old
+* History of prostate cancer (T3b N0M0, stage III), CAD, PAF, HTN, DM, Parkinson's disease, cholelithiasis, migraine and cluster headaches, gout, and CKD
+
+**Chief Complaint:**
+
+* Chest pain
+
+**History of Present Illness:**
+
+* Patient presented with chest pain while recovering from laparoscopic cholecystectomy
+* ECG showed ST depressions and elevations, and bedside echo showed LVEF of 35-40% with posterior wall hypokinesis and mitral regurgitation
+* Patient was started on heparin, beta blocker, and aspirin
+
+**Pertinent Results:**
+
+* Blood tests showed elevated CK, troponin, and lipase levels
+* EKG showed sinus rhythm with atrial premature beats and non-specific ST-T wave changes
+* Echo showed mild to moderate regional left ventricular systolic dysfunction with inferior and lateral hypokinesis
+* Cardiac cath showed one-vessel significant coronary artery disease with very late stent thrombosis of LCX
+
+**Brief Hospital Course:**
+
+* Patient underwent thrombectomy, PTCA, and drug-eluting stenting of the LCX
+* Experienced lower GI bleeding, which was treated with argon plasma coagulation
+* Was discharged on aspirin, Plavix, metoprolol succinate, and high-dose Atorvastatin
+
+**Discharge Diagnosis:**
+
+* ST elevation myocardial infarction
+* Acute systolic dysfunction
+* Atrial fibrillation
+* Acute blood loss anemia
+* Acute renal failure
+* Status post laparoscopic cholecystectomy
+* Hypertension
+
+**Discharge Medications:**
+
+* Multiple medications, including aspirin, Plavix, metoprolol succinate, Atorvastatin, and amiodarone
+
+**Discharge Instructions:**
+
+* Take aspirin and Plavix for one year
+* Follow up with cardiologist and surgeon
+* Weigh yourself every morning and call MD if weight increases by > 3 lbs
+* Adhere to 2 gm sodium diet

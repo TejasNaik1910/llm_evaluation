@@ -1,0 +1,51 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Name: Not provided
+* Date of Birth: Not provided
+* Sex: Male
+* Unit No: Not provided
+
+**Cancer Information:**
+
+* Cancer Type: Diffuse large B-cell lymphoma (DLBCL)
+* Morphology: Not provided
+* Cancer Stage: Not provided
+* Progression: Relapsed with leptomeningeal carcinomatosis
+* TNM Staging: Not provided
+
+**Treatment:**
+
+* Chemotherapy: R-EPOCH and IT MTX previously, currently receiving ICE chemotherapy (Ifosfamide, Carboplatin, Etoposide)
+* Medications:
+	+ Dexamethasone
+	+ OxyContin
+	+ Acyclovir
+	+ Albuterol
+	+ Amlodipine
+	+ Lisinopril
+	+ Pantoprazole
+	+ Sulfamethoxazole-Trimethoprim
+	+ Simvastatin (on hold)
+	+ Aspirin (on hold)
+	+ Docusate sodium
+	+ Multivitamin
+	+ Nicotine patch
+* Surgical Interventions: Lumbar puncture by Interventional Radiology under fluoroscopy
+
+**Diagnostic Tests:**
+
+* MRI spine: Showed progression of disease
+* Laboratory tests: Complete Blood Count (CBC), Blood Chemistry, Liver Function Tests (LFTs), and others
+
+**Response to Treatment:**
+
+* The patient tolerated ICE chemotherapy well
+* Pain was controlled by increasing dexamethasone and OxyContin doses
+
+**Discharge Information:**
+
+* Discharge Diagnosis: Cycle #1 ICE chemotherapy, Relapsed diffuse large B-cell lymphoma, Back pain
+* Discharge Condition: Ambulatory, requires assistance or aid (walker or cane)
+* Discharge Instructions: Follow-up with medication changes, G-CSF injections, and follow-up appointments

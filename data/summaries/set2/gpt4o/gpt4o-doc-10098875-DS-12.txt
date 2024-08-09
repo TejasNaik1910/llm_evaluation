@@ -1,0 +1,80 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Found down
+
+**Major Surgical or Invasive Procedures:**
+- Lumbar puncture
+- Paracentesis
+
+**History of Present Illness:**
+- Female with a history of triple-negative breast cancer on chemotherapy and checkpoint inhibitor therapy presented with hypoxia and cough. Found on the floor by a friend after approximately 48 hours due to fatigue, dizziness, and nausea without vomiting. Complained of a month-long cough with white sputum production.
+
+**Initial ED Findings:**
+- **Vitals:** TEMP 96.5, HR 101, BP 97/65, RR 18, SAT 83% RA, 97% 6L
+- **Exam:** Right-sided large breast wound with dressing
+- **Labs:** UA pyuria (>182), Cr 2.1, Lactate 2.9, K 2.1
+- **Imaging:** CT Head unremarkable, Chest CT showed new diffuse ground-glass opacities with septal thickening
+- **Interventions:** Vanc, Zosyn, Methylprednisolone, 3L fluid resuscitation
+
+**Past Medical History:**
+- Triple-negative breast cancer, locally advanced
+- Hypertension
+- Migraines
+- Hyperthyroidism
+- s/p appendectomy
+
+**Physical Exam:**
+- **Admission:** Confused, frail, LUQ pain, urinary frequency, 12x6cm ulcerating fungating mass on the right breast
+- **Discharge:** Chronically ill, no acute distress, 2+ pitting edema, 12x6cm ulcerating lesion on the right breast
+
+**Pertinent Results:**
+- **Admission Labs:** Notable for anemia, elevated D-dimer, elevated liver enzymes, and metabolic acidosis
+- **Discharge Labs:** Persistent anemia, improved creatinine, and metabolic acidosis
+- **Cytology:** Negative for malignant cells in cerebrospinal and peritoneal fluid
+- **Imaging:** CXR showed worsening opacities, CT head and MRI brain showed possible drug-related leukoencephalopathy, CT abdomen/pelvis showed cirrhotic liver and ascites
+- **Microbiology:** Positive blood cryptococcal antigen, MDR E. coli UTI
+
+**Brief Hospital Course:**
+- **Encephalopathy:** Treated for possible cryptococcal meningitis with amphotericin and flucytosine, transitioned to fluconazole.
+- **Diarrhea:** Managed with fiber, Lomotil, and GI consultation for possible checkpoint inhibitor-induced colitis.
+- **Ascites and Cirrhosis:** Managed with paracentesis and hepatitis workup.
+- **Respiratory Failure:** Treated with steroids for checkpoint-inhibitor induced pneumonitis.
+- **Nausea/Vomiting:** Managed with Reglan and Zofran.
+- **Hyperglycemia:** Managed with insulin.
+- **Deconditioning:** Addressed with PT, OT, and SLP.
+- **Electrolyte Imbalances:** Managed with fluid adjustments and potassium repletion.
+- **Malnutrition and Dysphagia:** Managed with tube feeds.
+- **Thrombocytopenia and Anemia:** Managed with transfusions and treatment of underlying conditions.
+- **MDR E. coli UTI:** Treated with meropenem.
+
+**Discharge Medications:**
+- Acetaminophen, Diphenoxylate-Atropine, Fluconazole, Glucagon, Glucose Gel, Insulin (Glargine and Humalog), Lansoprazole, Ondansetron, Prochlorperazine
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Encephalopathy, possible cryptococcal meningitis, checkpoint-inhibitor induced encephalitis, ascites, cirrhosis, diarrhea, acute hypoxemic respiratory failure, checkpoint-inhibitor induced pneumonitis, severe protein-calorie malnutrition, dysphagia, DIC, anemia, thrombocytopenia, MDR E. coli UTI, renal tubular acidosis, locally advanced breast cancer
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Out of bed with assistance
+
+**Follow-up Instructions:**
+- Continue medications and follow-up appointments
+- Work on strength with therapists
+- Monitor QTc weekly while on fluconazole
+- Follow up with Infectious Diseases, GI, Hepatology, and Oncology as scheduled.

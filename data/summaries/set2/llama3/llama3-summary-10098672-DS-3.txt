@@ -1,0 +1,50 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 40-year-old male with Crohn's disease, insulin-dependent diabetes, and chronic kidney disease (Stage III)
+* History of multiple bowel resections, nephrolithiasis, hyperlipidemia, anxiety, and gout
+
+**Chief Complaint:**
+
+* Recurrent diarrhea and dehydration
+
+**Medical History:**
+
+* Multiple hospitalizations in the past year for volume depletion due to high stoma output
+* Evaluation of infectious causes, short gut, and Crohn's disease was negative
+* Small bowel follow-through showed no abnormalities, and CT enterography revealed no signs of Crohn's flare-up
+
+**Laboratory Results:**
+
+* Elevated chromogranin assay (322) suggesting a possible neuroendocrine tumor
+* Normal serotonin, gastrin, and VIP levels
+* Mildly elevated alpha2 and beta IgG levels
+
+**Physical Exam:**
+
+* Cachectic, pale, and chronically ill-appearing man
+* Confused, with a decreased level of consciousness
+* Abdominal exam revealed a scaphoid abdomen with a midline vertical scar and an ostomy bag in the right lower quadrant
+
+**Diagnoses:**
+
+* High output chronic diarrhea
+* Crohn's disease
+* Chronic kidney disease (Stage III)
+
+**Medications:**
+
+* Ranitidine, budesonide, fentanyl patch, heparin flush, duloxetine, gabapentin, codeine, loperamide, allopurinol, acetaminophen, cholestyramine, oxycodone, and nystatin
+
+**Discharge Instructions:**
+
+* Follow a hypo-osmolar diet with small, frequent meals
+* Continue TPN to treat malnutrition and mitigate fluid losses
+* Schedule further studies to evaluate diarrhea with Dr. ___
+* Manage chronic pain with home dose fentanyl patch, codeine, and oxycodone for breakthrough pain
+
+**Follow-up Instructions:**
+
+* Outpatient lab work, including a weekly chemistry panel (CHEM 10)
+* Follow-up appointments with Dr. ___ and Dr. ___ to continue evaluation and management of diarrhea and chronic pain.

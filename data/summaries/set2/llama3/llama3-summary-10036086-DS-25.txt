@@ -1,0 +1,54 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 45-year-old male with a history of HIV, prostate cancer, type 2 diabetes mellitus, hypertension, hyperlipidemia, obesity, chronic kidney disease, and asthma.
+* Admitted to the hospital with symptoms of tachycardia and dyspnea on exertion.
+
+**Diagnoses:**
+
+* Submassive pulmonary embolism (PE)
+* Right lower extremity deep vein thrombosis (DVT)
+* Atrial fibrillation (AF) with rapid ventricular response (RVR)
+* Acute on chronic heart failure with preserved ejection fraction (HFpEF)
+* Coronary artery disease
+* HIV
+* Diabetes mellitus II
+
+**Treatment:**
+
+* Anticoagulation therapy with heparin and warfarin
+* Cardioversion for AF
+* Management of HFpEF with diuretics and vasodilators
+* Treatment of DVT with compression stockings and elevation
+* Management of HIV with antiretroviral therapy
+* Management of diabetes with insulin and oral medications
+
+**Imaging and Diagnostic Tests:**
+
+* Computed tomography angiogram (CTA) of the chest showed pulmonary emboli in the right main pulmonary artery and its branches.
+* Transthoracic echocardiogram (TTE) showed mild global biventricular systolic dysfunction and mild to moderate mitral regurgitation.
+* Ultrasound of the right leg showed non-occlusive deep vein thrombus.
+
+**Medications:**
+
+* Warfarin 10mg daily
+* Amiodarone 200mg PO TID
+* Cephalexin 500mg PO Q6H for 4 days
+* Enoxaparin sodium 120mg SC BID
+* Glargine 60 units breakfast
+* Aspirin 81mg PO daily
+* Cobicistat 150mg PO daily
+* Darunavir 800mg PO daily
+* Fenofibrate 145mg PO daily
+* Losartan potassium 50mg PO daily
+* Metoprolol succinate XL 25mg PO daily
+* Odefsey (emtricitabine-rilpivirine-tenofovir alafenamide) 200-25-25mg oral daily
+* Rosuvastatin calcium 40mg PO QPM
+* Triamcinolone acetonide 0.025% cream 1 appl TP BID
+
+**Follow-up:**
+
+* Patient was discharged home with a plan for follow-up with a cardiologist and primary care physician.
+* Patient was instructed to monitor their warfarin levels and adjust their diet accordingly.
+* Patient was advised to weigh themselves daily and report any changes to their cardiologist.

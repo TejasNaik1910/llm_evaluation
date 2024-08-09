@@ -1,0 +1,90 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Age: ___
+* Sex: Male
+* Service: Cardiothoracic
+
+**Chief Complaint:**
+
+* Chest pain, shortness of breath
+
+**Medical History:**
+
+* Chronic Obstructive Pulmonary Disease (COPD)
+* Diabetes Mellitus type 2
+* Diabetic Neuropathy
+* Hypertension
+* Obesity
+* Carpal Tunnel Release, bilateral
+* Cataracts, bilateral
+
+**Surgical Interventions:**
+
+* Coronary artery bypass grafting x 4
+* Removal of left ventricular intracardiac tumor
+
+**Diagnostic Tests:**
+
+* Transthoracic echocardiogram
+* Cardiac catheterization
+* Pulmonary function test (PFT)
+* Complete Blood Count (CBC)
+* Blood chemistry tests (e.g., glucose, electrolytes, renal function tests)
+* Liver function tests (LFTs)
+* Lipase test
+* Cardiac biomarkers (troponin, CK-MB)
+* Chest X-ray (CXR)
+* Pathology report (LV mass pathology)
+
+**Discharge Diagnosis:**
+
+* Coronary Artery Disease s/p coronary revascularization
+* Left ventricular mass removed - micro negative
+* Non-ST Elevation Myocardial Infarction
+* Acute encephalopathy multifactorial
+* Acute Kidney Injury
+* Acute on chronic respiratory failure with hypoxia due to volume overload
+* Chronic Obstructive Pulmonary Disease
+* Diabetes Mellitus type 2
+* Diabetic Neuropathy
+* Hypertension
+* Obesity
+
+**Medications:**
+
+* Atenolol
+* MetFORMIN (Glucophage)
+* CloNIDine
+* Gabapentin
+* GlipiZIDE XL
+* Lisinopril
+* Hydrochlorothiazide
+* Acetaminophen
+* Albuterol Inhaler
+* AmLODIPine
+* Aspirin EC
+* Atorvastatin
+* Bisacodyl
+* Famotidine
+* Fluticasone Propionate
+* Furosemide
+* Heparin
+* HydrALAZINE
+* Insulin (Glargine)
+* Ipratropium Bromide MDI
+* MetOLazone
+* Metoprolol Tartrate
+* Polyethylene Glycol
+
+**Discharge Instructions:**
+
+* Shower daily, including washing incisions gently with mild soap
+* No baths or swimming until cleared by surgeon
+* Monitor incisions daily for redness or drainage
+* Weigh yourself daily and take temperature evening
+* Call MD if weight goes up more than 3 lbs in 24 hours or 5 lbs over 5 days
+* No driving for approximately one month and while taking narcotics
+* No lifting more than 10 pounds for 10 weeks
+* Encourage full shoulder range of motion, unless otherwise specified

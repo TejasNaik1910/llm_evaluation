@@ -1,0 +1,47 @@
+Here is a summary of the clinical note:
+
+**Cancer Type and Morphology:** Metastatic Hepatocellular Carcinoma (HCC)
+
+**Cancer Stage:** Not explicitly stated, but the presence of metastases in the pleura, lungs, and IVC thrombus suggests advanced disease.
+
+**Progression:** The patient has had a recent admission for right-sided pleural effusion, and now presents with fever, shortness of breath, and tachycardia.
+
+**TNM Staging:** Not provided
+
+**Prescribed Medications:**
+
+* Amoxicillin-clavulanic acid
+* Mirtazapine
+* Multivitamins with minerals
+* Acetaminophen
+* Enoxaparin sodium
+* Finasteride
+* OxyCODONE
+* Polyethylene glycol
+* Tamsulosin
+* Tenofovir disoproxil fumarate
+
+**Diagnostic Tests:**
+
+* Chest X-ray
+* CT chest with and without contrast
+* Pleural fluid studies
+* Blood cultures
+* Flu swab
+* ECG
+* Complete Blood Count (CBC)
+* Blood chemistry tests (e.g., creatinine, glucose)
+* Urine lytes
+
+**Surgical Interventions:**
+
+* Right hepatic lobectomy (previous)
+* VATS/decortication/pulmonary nodule biopsy
+* CT-guided chest tube placement
+* Pleural drain placement
+
+**Patient Response to Treatment:**
+
+* Initial improvement with antibiotics and chest tube placement
+* Continued fevers and tachycardia despite treatment
+* Discharged on augmentin with plan for follow-up with Interventional Pulmonology for monitoring of possible abscess.

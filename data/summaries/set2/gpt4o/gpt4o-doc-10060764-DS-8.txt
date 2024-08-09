@@ -1,0 +1,89 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Demerol
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Biliary obstruction
+
+**Major Surgical or Invasive Procedures:**
+- ERCP (Endoscopic Retrograde Cholangiopancreatography)
+- PTBD (Percutaneous Transhepatic Biliary Drainage)
+- Transesophageal echo (TEE)
+
+**History of Present Illness:**
+- The patient, an elderly female with a history of cholangiocarcinoma, was transferred for ERCP due to biliary obstruction. She was initially admitted with fever and atrial fibrillation with rapid ventricular response (Afib RVR). Blood cultures revealed enterococcus and E. coli bacteremia, and she was treated with vancomycin and zosyn. A CT scan showed increased duct dilation, prompting her transfer for further evaluation of her biliary stent. Her caretaker reported a decline in mental status over the past three months.
+
+**Past Medical History:**
+- Hypertension (HTN)
+- Atrial fibrillation (Afib) status post pacemaker placement, on Coumadin
+- Mitral valve prolapse (MVP)
+- Osteoarthritis (OA) of the right hip
+- Cholangiocarcinoma, status post metal stent placement, radiation therapy (XRT), and chemotherapy
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother: Colon cancer
+- Sister: Multiple myeloma (MM)
+- Niece: Lung cancer
+- Father: Coronary artery disease (CAD)
+- Maternal grandfather: Stomach cancer
+
+**Physical Exam:**
+- Vital Signs: Temp 97.4°F, BP 161/93, HR 75, RR 20, SpO2 96% on room air
+- General: No acute distress, comfortable
+- HEENT: Pinpoint pupils, sclerae icteric
+- Heart: Regular rate and rhythm, normal S1-S2, no murmurs, rubs, or gallops
+- Lungs: Clear to auscultation bilaterally, no respiratory distress
+- Abdomen: Soft, non-tender, non-distended, no masses or hepatosplenomegaly
+- Extremities: Warm, well-perfused, no cyanosis, clubbing, or edema
+- Skin: No rashes or lesions
+- Neuro: Awake, alert, follows commands
+
+**Pertinent Results:**
+- **CT Abdomen/Pelvis:** Mild intrahepatic ductal dilation, pneumobilia, no liver masses or abscesses, bilateral pleural effusions, ascites.
+- **TTE:** No endocarditis, mild-to-moderate mitral and tricuspid regurgitation, mild pulmonary artery hypertension.
+- **TEE:** Dilated atria, patent foramen ovale, normal left ventricular function, no vegetations.
+- **Labs:** Elevated liver function tests (LFTs), bilirubin, and alkaline phosphatase.
+
+**Brief Hospital Course:**
+- The patient was admitted with cholangitis and septicemia secondary to enterococcal and E. coli bacteremia. She underwent ERCP, but the bile duct could not be cannulated due to tumor presence. Subsequently, PTBD was performed without complications. Infectious disease consultation and TEE ruled out endocarditis. Surveillance blood cultures were negative. Biliary drains were managed with capping and adjustments based on bilirubin levels and clinical status. The patient was discharged with instructions for drain management and follow-up.
+
+**Discharge Medications:**
+1. Cyanocobalamin 100 mcg PO daily
+2. Digoxin 0.125 mg PO daily
+3. Folic Acid 1 mg PO daily
+4. Metoprolol Tartrate 25 mg PO BID
+5. Docusate Sodium 100 mg PO BID
+6. Fluconazole 200 mg PO daily
+7. Senna 1 tab PO BID as needed for constipation
+8. Simethicone 80 mg PO TID
+9. Warfarin 2 mg PO daily
+
+**Discharge Diagnosis:**
+- Cholangitis
+- E. coli and Enterococcal septicemia
+- Cholangiocarcinoma
+
+**Discharge Condition:**
+- Mental Status: Sometimes confused
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory with assistance (walker or cane)
+
+**Discharge Instructions:**
+- Resume Coumadin on the evening of discharge.
+- Follow specific instructions for managing the biliary drain.
+- Follow up with the oncologist and primary care physician for ongoing care and management.
+
+**Follow-up:**
+- Scheduled follow-up with oncologist and primary care physician.

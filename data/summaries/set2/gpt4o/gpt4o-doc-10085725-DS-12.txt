@@ -1,0 +1,92 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Sulfa (Sulfonamide Antibiotics)
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Right-sided recurrent malignant pleural effusion
+
+**Major Surgical or Invasive Procedure:**
+- Pleurex catheter placement
+
+**History of Present Illness:**
+- The patient has a history of metastatic non-small cell lung cancer (NSCLC) and is on cycle 4 of Keytruda. She has recurrent left-sided pleural effusion, having undergone approximately four thoracenteses in the past three months. She presented with dyspnea worsened by exertion for six days. Imaging showed worsening left-sided pleural effusions and severe left lung atelectasis. She was transferred for evaluation and placement of a pleurex catheter.
+
+**Past Medical History:**
+- Type II Diabetes Mellitus (managed with diet)
+- History of Myocardial Infarction (medically managed with metoprolol, aspirin, and losartan)
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Non-contributory
+
+**Physical Exam:**
+- **Admission:**
+  - Vitals: T 98.0, BP 96/57, HR 80, RR 21, O2sat 98%
+  - General: Alert, oriented, well-appearing
+  - HEENT: MMM, oropharynx clear, PEERL
+  - Neck: Supple, no JVD
+  - Cardiac: Regular rate and rhythm, normal S1/S2
+  - Lungs: Decreased sounds on the left, wheezes throughout
+  - Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds
+  - Extremities: No edema, well-perfused, 2+ pulses
+  - Neurologic: CN II-VII intact, no focal deficits
+  - Skin: Warm, dry, intact
+
+- **Discharge:**
+  - Vitals: T 97.7, BP 119/72, P 81, RR 18, O2sat 93% on RA
+  - General: Alert, mild distress due to pain
+  - HEENT: MMM, EOMI
+  - Neck: No JVD, no LAD
+  - Cardiac: Regular rate and rhythm, no murmurs/rubs/gallops
+  - Lungs: Diminished breath sounds at the left lung base
+  - Abdomen: Soft, non-tender, non-distended
+  - Extremities: Warm, well-perfused, no edema
+  - Neurologic: Grossly normal
+
+**Pertinent Results:**
+- **Admission Labs:**
+  - Na+ 129, BUN 11, Cr 0.7, Osm 272
+  - WBC 8.2, Hgb 9.7, Plt 277
+  - Imaging: CT showed moderate-sized partly loculated left pleural effusion, severe left lung atelectasis, mild mediastinal and left hilar adenopathy, stable right lung nodules, and severe emphysema.
+
+- **Discharge Labs:**
+  - Na+ 128, BUN 11, Cr 0.8, Hgb 9.6
+
+**Brief Hospital Course:**
+- The patient with metastatic NSCLC and recurrent left-sided effusions underwent pleurex catheter placement due to quick reaccumulation of effusion post-thoracentesis. She initially required nasal cannula oxygen but was weaned to room air with O2 saturations > 92%. She received duonebs and Tylenol/tramadol for pain control. Chronic hyponatremia likely due to SIADH secondary to metastatic lung carcinoma was managed, with Na at discharge being 128.
+
+**Medications:**
+- **Admission:**
+  - Losartan Potassium, Folic Acid, Atorvastatin, Metoprolol Succinate XL, Amlodipine, Aspirin, Magnesium Oxide
+
+- **Discharge:**
+  - Aspirin, Atorvastatin, Folic Acid, Losartan Potassium, Magnesium Oxide, Metoprolol Succinate XL
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- **Primary:** Left-sided pleural effusion, Hyponatremia
+- **Secondary:** Anemia, Metastatic lung cancer
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Follow-up with PCP and oncologist. Instructions for pleurex catheter care were provided.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,54 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Male patient, age not specified
+* History of Hepatitis B (HBV) and Hepatocellular Carcinoma (HCC)
+* Status post right hepatic lobectomy
+* Hypertension (HTN) and Benign Prostatic Hyperplasia (BPH)
+
+**Chief Complaint:**
+
+* Right pleural effusion
+
+**History of Present Illness:**
+
+* Presented with 2 weeks of chest pain, tightness, and subjective fevers with increased sputum production
+* Admitted to the transplant surgery service
+* CT scan showed large right pleural effusion with associated right middle and right lower lobe collapse and pleural nodules suggestive of metastatic HCC
+
+**Diagnostic Tests:**
+
+* CT scan of the chest and abdomen
+* Chest X-ray
+* Pleural fluid studies (LDH 669, cholesterol 66)
+* Cytology (negative for malignancy)
+* Cultures (no growth to date)
+
+**Interventions:**
+
+* Right chest tube placement
+* Pigtail catheter placement
+* Drainage of 800cc of serosanguinous fluid
+* Therapeutic Lovenox for suprahepatic IVC thrombus
+
+**Discharge Diagnosis:**
+
+* Pleural effusion
+* History of HCC s/p right hepatic lobectomy
+* Pulmonary nodules
+
+**Discharge Medications:**
+
+* Enoxaparin Sodium 60mg SC Q12H
+* OxyCODONE (Immediate Release) 2.5-5 mg PO Q6H:PRN Pain - Moderate
+* Polyethylene Glycol 17 g PO DAILY
+* Acetaminophen 1000 mg PO Q8H
+* Finasteride 5 mg PO DAILY
+* Tamsulosin 0.4 mg PO QHS
+* tenofovir disoproxil fumarate 300 mg oral DAILY
+
+**Follow-up:**
+
+* Interventional pulmonology follow-up in 2 weeks for thoracoscopy and biopsy of pleural nodules
+* Oncologist follow-up on [date] at 11:30 am

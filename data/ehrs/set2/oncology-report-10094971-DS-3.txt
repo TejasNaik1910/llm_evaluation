@@ -1,0 +1,400 @@
+ 
+Name:  ___.           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+right leg weakness
+ 
+Major Surgical or Invasive Procedure:
+CT-guided renal biopsy ___
+lumbar puncture ___
+
+ 
+History of Present Illness:
+The pt is a ___ yo M with smoking history, chronic alcoholism and 
+chronic back pain who presents with subacute progressive right 
+lower extremity pain, numbness and profound weakness on a 
+background of chronic low back pain and right lumbar 
+radiculopathy.
+
+Regarding his lower back pain he explains that he fell off a 
+truck several year ago and since that time has been plagued by 
+low back pain and intermittent sciatica. 
+
+Around ___ he suffered a fall during which he hurt 
+his lower back and at that time noticed that his right leg felt 
+somewhat weak with some slight numbness. He was having some back 
+pain that radiated down the right leg and felt that his weakness 
+at that time was related to his pain. 
+
+Over the next 2 months though, his right leg continued to get 
+weak and he began having difficulty ambulating eventually 
+requiring the assistance of his family to move around. During 
+this time he and his family felt that the weakness seemed out of 
+proportion to the pain. 
+
+Because of his issues with mobility he eventually went to see 
+his orthopedic doctor last week who, given the description of 
+symptoms, ordered an MRI of the lumbar spine which was scheduled 
+for this ___ (in 2 days). However his weakness continued to 
+progress at a rather fast pace and he is now unable to get out 
+of bed alone and has very little if any movement in the right 
+leg.
+He has fallen twice over the past 48hrs because as his daughter 
+explains he forgets or doesnt admit to the extent of the 
+weakness in his leg and falls out of bed at night. Earlier today 
+they called his office and at that point were refered to the ED 
+for further workup. Neurology was then consulted.
+
+He denies incontinence of urine or stool. The pain in his back 
+is moderate and continues to radiate down the posterior aspect 
+of his right leg. 
+
+Patient does not have a personal history of cancer but endorses 
+unintentional weight loss (5lbs), night sweats (at least for 
+past several weeks, because of this measured his temperature and 
+found nightly low grade fevers). He does complain of a 
+productive continuous cough over the past 2.5months. Denies 
+head/neck pain.  
+
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, dysarthria, dysphagia, lightheadedness, 
+vertigo, tinnitus or hearing difficulty. Denies difficulties 
+producing or comprehending speech.  No bowel or bladder 
+incontinence or retention. 
+ 
+Past Medical History:
+HTN
+GERD
+cervical stenosis (c-spine with significant narrowing of the 
+cervical canal at C5-6 level)
+depression treated with citalopram
+COPD
+likely asbestos exposure (worked as a ___, evidence of 
+pleural thickening on CT chest ___
+chronic alcoholism
+ 
+Social History:
+___
+Family History:
+Mother: died at ___, had arthritis.
+Father: alcoholism, no other specific diagnoses of which he is 
+aware.
+Daughter: ___ CA -s/p resection now in remission.
+Uncle: pancreatic cancer.
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: 98 72 124/78 16 92% 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or 
+organomegaly noted
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses 
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+- Mental Status: Alert, oriented x 3.  Able to relate history 
+without difficulty.  Attentive, able to name ___ backward 
+without difficulty.  Language is fluent with intact repetition 
+and comprehension.  Normal prosody.  There were no paraphasic 
+errors. Pt. was able to name both high and low frequency 
+objects.  Able to read without difficulty.  Speech was not 
+dysarthric. Able to follow both midline and appendicular 
+commands. Pt. was able to register 3 objects and recall ___ at 5 
+minutes.  The pt. had good knowledge of current events.  There 
+was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation. Funduscopic 
+exam revealed no papilledema, exudates, or hemorrhages.
+III, IV, VI: EOMI without nystagmus.  Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis 
+noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  4+   4+  4+  4+   ___  5   5    5  5     5     5   5
+R  4+   ___    ___  1   2    1  0     0     0   0
+
+**On attending examination:
+**No pronator drift. Strength as follows:
+     D  B  T  WE  FE FF  IP  Q   DF  PF
+Lt:  ___   ___   5-  ___
+Rt:  4+ ___   ___  ___   0**
+
+- Sensory: decreased to light touch, pinprick, cold sensation, 
+vibratory sense in the right lower extremity. Proprioception 
+impaired in both great toes. No extinction to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2+ 2    2+   0   0
+R  2+ 2    2+   0   0
+Plantar response was mute bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF.
+-Gait: defered given profound weakness
+*************
+Discharge exam: no significant change
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:30PM BLOOD WBC-8.6 RBC-3.86* Hgb-11.6* Hct-34.7* 
+MCV-90 MCH-30.0 MCHC-33.4 RDW-13.2 Plt ___
+___ 06:30PM BLOOD Neuts-75.1* Lymphs-13.6* Monos-9.8 
+Eos-1.0 Baso-0.5
+___ 06:30PM BLOOD Glucose-107* UreaN-7 Creat-0.4* Na-131* 
+K-3.7 Cl-93* HCO3-25 AnGap-17
+___ 07:20AM BLOOD Albumin-3.2* Calcium-9.5 Phos-4.1 Mg-1.6
+.
+Discharge labs:
+___ 06:47AM BLOOD WBC-8.0 RBC-3.55* Hgb-10.5* Hct-32.7* 
+MCV-92 MCH-29.5 MCHC-32.1 RDW-13.8 Plt ___
+___ 06:47AM BLOOD Glucose-135* UreaN-23* Creat-0.6 Na-139 
+K-4.1 Cl-101 HCO3-28 AnGap-14
+___ 06:47AM BLOOD Calcium-9.0 Phos-4.8* Mg-1.7
+******************
+IMAGING:
+CT HEAD ___: 
+1.  Two foci of vasogenic edema in the left corona radiata and 
+centrum semiovale.  Central hyperdensities make these suspicious 
+for underlying masses.  Further characterization with enhanced 
+MRI is recommended. 
+2.  Maxillary sinus inflammatory disease. 
+.
+MR SPINE ___:
+1.  No evidence of osseous or epidural metastatic disease in the 
+cervical, thoracic, or lumbar spine, within the limits of 
+non-contrast MRI.
+2.  Multilevel degenerative disease in the cervical, thoracic, 
+and lumbar 
+spine.   
+3.  Severe spinal canal narrowing with compression of the spinal 
+cord at 
+C3-C4. Moderate spinal canal narrowing with abutment of the 
+spinal cord at C5-C6. Questionable abnormal signal in the 
+cervical cord, versus artifacts. If cervical myelopathy is 
+suspected clinically, then a dedicated MRI of the cervical 
+spine, with the field of view targeted for detailed evaluation 
+of the cervical spine, would be helpful for reassessment.
+4.  Severe multilevel neural foraminal narrowing, and 
+subarticular recess narrowing, in the lumbar spine, with 
+impingement of multiple exiting and traversing nerve roots, as 
+detailed above.  
+5.  Apparent mass in the lower pole of the right kidney.  
+Recommend abdominal/pelvic CT or renal MRI for further 
+evaluation. 
+.
+MRI HEAD ___: 
+1.  Two small masses in the left cerebral hemisphere with 
+associated vasogenic edema, most suggestive of metastatic 
+disease.  The left centrum semiovale mass may contain chronic 
+blood products.   
+2.  Chronic microhemorrhage in the centrum semiovale at the 
+level of the left paracentral lobule, in an area of vasogenic 
+edema, but not directly corresponding to the left parafalcine 
+mass, which may be related to underlying hypertension or other 
+etiology.   
+3.  Fluid in the left maxillary sinus and extensive left ethmoid 
+air cell opacification.  Fluid in the left concha bullosa.  
+Please correlate clinically whether the patient has symptoms of 
+acute sinusitis. 
+.
+TESTICULAR ULTRASOUND ___: Normal testicular ultrasound.
+.
+CT TORSO ___: 
+1. Necrotic right renal mass with perinephric stranding.  
+Superinfection of the mass is not excluded.  The renal artery 
+branch supplying the lower pole is expanded and may be 
+thrombosed.   
+2. Lingular nodule representing metastasis or a primary lung 
+cancer.   
+3. Small hypodense lesions in the liver may be cysts, but are 
+not fully characterized.  
+4. Indeterminate left adrenal nodule.   
+5. 10-mm right paracaval lymph node.   
+6. Gallstone.   
+7. Calcified pleural plaques suggesting prior asbestos exposure. 
+  
+8. Multiple old rib fractures. 
+Pathology
+Touch prep of kidney biopsy ___:
+POSITIVE FOR MALIGNANT CELLS, consistent with carcinoma.  
+.
+R kidney biopsy ___
+Renal cell carcinoma with oncocytic features.  See note.
+Note:  PAX-2, CA-9 and P504S are positive; CK7 and CK20 are 
+positive as well but much more focally; p63 and TTF-1 are 
+negative.  This immunophenotype supports the diagnosis of a 
+renal primary and is compatible with a conventional/clear cell 
+carcinoma with a marked granular component; one additional 
+immunostain will be sent as an addendum.  
+.
+___     SPINAL FLUID  cytology pending
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo man with HTN, COPD and significant 
+smoking/alcohol history who present with progressive right sided 
+weakness and right lower back pain. He was found to have 2 left 
+sided brain masses and a large right renal mass, as well as a 
+smaller lingular mass. 
+.
+# Metastatic renal cell carcinoma: Patient was found to have 
+multiple mets, 2 to brain and lingula and it was thought to be 
+from the large right necrotic renal mass seen on CT of torso. 
+For the work up of his renal mass, medical oncology and urology 
+were consulted and recommended ___ guided renal biopsy. The 
+biopsy showed renal cell carcinoma. Pt has been referred to 
+multi-disciplinary renal cancer clinic for evaluation and 
+discussion of treatment options. He will see ___, NP 
+with either Dr. ___ Dr. ___ oncology) as well 
+as Dr. ___ on ___ at 4pm. Pt's daughters 
+plan to accompany his to this visit.
+.
+# Brain mets: Likely causing his right leg and arm weakness 
+given the location of the lesions. Given the significant edema 
+surrounding the masses, he was started on dexamethasone. He was 
+continued on a PPI and started on trazodone PRN insomnia and 
+insulin sliding scale. He was seen by radiation oncology and 
+neuro-onc as an inpatient. Dr. ___ Radiation ___ 
+plans to perform stereotactic radiosurgery (SRS) to the brain 
+lesions, which will be done as an outpatient.  
+Lumbar puncture (spinal tap) was done to look for evidence of 
+leptomeningeal spread, but cytology was pending at the time of 
+discharge. Mr. ___ will continue on dexamethasone at 
+discharge. If he is going to be on steroids past ___, PCP 
+(infection) prophylaxis with Bactrim should be started. Calcium 
+and vitamin D supplementation should also be started.
+.
+# Cervical/lumbar stenosis: Patient was found to have 
+significant cervical stenosis on the MRI of whole spine, 
+especially in the level of C3-C4. On examination, there was 
+evidence of some left sided weakness as well in L deltoid and 
+iliopsoas, possibly from his cervical stenosis. However, there 
+was no increased tone and no increased reflexes, so the extent 
+of myelopathy is unclear, especially in setting of significant 
+weakness in the right leg likely from the brain mass. 
+.
+# Alcoholism: History of at least 6 beers a day as outpatient, 
+started on CIWA score in house and did not score, so this was 
+d/ced on HD5. There was no evidence of alcohol withdrawal in 
+house. LFTs were checked and were wnl, with albumin of 3.4.
+.
+# Hypertension: Elevated blood pressure on admission, restarted 
+all of his home medications including atenolol, furosemide, and 
+hydralazine with improved control of his blood pressure. 
+.
+# COPD: continued on home Spiriva  and fluticasone inhaler with 
+albuterol nebs PRN. He can resume an albuterol inhaler as 
+needed. 
+.
+# Insomnia: Difficulty sleeping, likely related to steroids. 
+Patient was given a dose of Ambien which made him see crawling 
+bugs on his arm. Ambien was discontinued and listed as an 
+allergy. He tolerated trazodone without any adverse reactions. 
+.
+Transitional issues:
+Code: full
+Contact/HCP: ___ (daughter; c ___,  h ___
+- LP cytology pending at time of discharge.
+- Consider Bactrim ppx pending course of dexamethasone as noted 
+above. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. HydrALAzine 50 mg PO BID 
+2. Citalopram 60 mg PO DAILY 
+3. Omeprazole 20 mg PO BID 
+4. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN pain 
+5. Tiotropium Bromide 1 CAP IH DAILY 
+6. ProAir HFA *NF* (albuterol sulfate) 90 mcg/actuation 
+Inhalation q4-6 hrs prn wheezing/shortness of breath 
+
+ 
+Discharge Medications:
+1. Citalopram 60 mg PO DAILY 
+2. HydrALAzine 50 mg PO BID 
+3. Omeprazole 20 mg PO BID 
+4. Tiotropium Bromide 1 CAP IH DAILY 
+5. Atenolol 25 mg PO DAILY 
+6. Atorvastatin 40 mg PO DAILY 
+7. Dexamethasone 4 mg PO Q6H 
+8. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+9. Furosemide 40 mg PO DAILY 
+10. Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using HUM Insulin
+11. Heparin 5000 UNIT SC TID 
+12. Acetaminophen 650 mg PO Q6H:PRN pain 
+13. Morphine Sulfate ___ 15 mg PO Q6H:PRN Pain 
+14. ProAir HFA *NF* (albuterol sulfate) 90 mcg/actuation 
+Inhalation q4-6 hrs prn wheezing/shortness of breath 
+15. traZODONE 25 mg PO HS:PRN insomnia 
+16. Docusate Sodium 100 mg PO BID 
+17. Senna 1 TAB PO BID:PRN constipation 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+metastatic renal cell carcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Mr. ___,
+.
+It has been a pleasure taking care of you at ___ 
+___. You were admitted to the hospital with 
+right-sided weakness. You were found to have 2 lesions in your 
+brain with swelling around them which explained your symptoms. 
+You also have a small lesion in your lung and a larger mass on 
+your right kidney. We biopsied the kindey mass and you have a 
+kind of kidney cancer called renal cell carcinoma. You are going 
+to rehab to help you get your strength back. We have set you up 
+to see the medical oncologist (person who makes decision about 
+chemo or other therapies) and the Urologist (kidney surgeon).  
+You will also see the radiation oncologists who will be treating 
+the brain lesions with a specialized kind of radiation.  
+ 
+Followup Instructions:
+___

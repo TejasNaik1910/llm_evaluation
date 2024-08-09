@@ -1,0 +1,76 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Fatigue
+
+**Major Surgical or Invasive Procedure:**
+- Single lumen port placement
+
+**History of Present Illness:**
+- The patient is a male with a history of metastatic neuroendocrine tumor of unknown origin, presenting with fatigue. He was recently admitted for syncope and pancytopenia. He reported difficulty ambulating, poor appetite, and worsening bilateral lower extremity parasthesia/numbness. He also experienced chronic diarrhea, which improved with Imodium, and suspected a gout flare treated with colchicine.
+
+**Physical Exam:**
+- **Admission Exam:** Notable for clear lungs, soft abdomen, bilateral lower extremity edema, knee effusions, and numbness in bilateral dorsal toes and knees.
+- **Discharge Exam:** Similar findings with reduced edema and no significant rashes.
+
+**Diagnostic Tests:**
+- **Labs:** Elevated WBC, low H/H, elevated BNP, and abnormal urine analysis indicating UTI.
+- **Imaging:** CXR negative for pneumonia, successful port placement, and no evidence of DVT in the left upper extremity.
+
+**Past Medical History:**
+- Metastatic neuroendocrine tumor with lymph node and liver involvement.
+- NASH-induced cirrhosis, atrial fibrillation, hypertension, obesity, BPH, gout, prediabetes, CKD, and Bell's palsy.
+
+**Family History:**
+- Mother had intestinal cancer, brother with bladder cancer, and sisters with lymphoma and breast cancer.
+
+**Medications:**
+- **On Admission:** Allopurinol, doxazosin, finasteride, senna, colchicine, metoprolol, apixaban, omeprazole, furosemide, loperamide.
+- **Discharge Medications:** Multivitamins, furosemide, allopurinol, apixaban, colchicine, doxazosin, finasteride, loperamide, metoprolol, omeprazole, senna.
+
+**Hospital Course:**
+- **UTI:** Treated with ceftriaxone and completed with ciprofloxacin.
+- **Fatigue/Failure to Thrive:** Improved with diuresis, nutritional support, and symptomatic therapy.
+- **Metastatic Neuroendocrine Tumor:** Treated with carboplatin/etoposide, complicated by pancytopenia. Port placement was successful, and chemotherapy was administered.
+- **Atrial Fibrillation:** Managed with apixaban and metoprolol.
+- **Gout:** Continued allopurinol.
+- **Lower Extremity Edema:** Managed with furosemide and TEDS.
+- **Chronic Diarrhea:** Managed with loperamide.
+- **Severe Protein-Calorie Malnutrition:** Addressed with nutritional support.
+- **Anemia:** Monitored without need for transfusion.
+- **NASH-Induced Cirrhosis and Ascites:** Managed with vitamin K and nutritional support.
+- **BPH:** Continued doxazosin and finasteride.
+- **Prediabetes Mellitus:** Monitored without intervention.
+- **CKD:** Medications renally dosed.
+- **Lower Extremity Neuropathy:** Likely secondary to chemotherapy.
+- **Bell's Palsy:** Monitored without change.
+
+**Discharge Disposition:**
+- Home with services.
+
+**Discharge Diagnosis:**
+- UTI
+- Metastatic neuroendocrine tumor of unknown origin
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory with assistance.
+
+**Discharge Instructions:**
+- Follow up with oncologist on [Redacted].
+- Continue chemotherapy and supportive care.
+
+**Followup Instructions:**
+- [Redacted]

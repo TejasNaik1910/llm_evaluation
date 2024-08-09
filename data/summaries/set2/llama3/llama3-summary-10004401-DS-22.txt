@@ -1,0 +1,71 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Age: ___
+* Sex: Male
+* Date of Birth: ___
+* Unit No: ___
+* Admission Date: ___
+* Discharge Date: ___
+
+**Medical History:**
+
+* Coronary Artery Disease (CAD) with bare metal stents
+* Systolic dysfunction (EF 35%)
+* Chronic atrial fibrillation
+* Rectal cancer status post resection and adjuvant chemotherapy
+* Hypertension
+* Chronic obstructive pulmonary disease (COPD)
+* Sleep apnea
+* History of stroke
+* Cervical spondylosis
+* Benign prostatic hyperplasia (BPH)
+
+**Chief Complaint:**
+
+* Melena (dark stools) for 10 days
+
+**Diagnostic Tests:**
+
+* Esophagogastroduodenoscopy (EGD) showed erosive gastritis, mild duodenitis, and a polyp in the fundus
+* Laboratory results:
+	+ Hemoglobin: 8.4 g/dL on admission, 8.1 g/dL on discharge
+	+ Hematocrit: 26.1% on admission, 25.2% on discharge
+	+ Platelet count: not reported
+	+ International Normalized Ratio (INR): not reported
+
+**Medications:**
+
+* On admission:
+	+ Clopidogrel 75 mg daily
+	+ Aspirin 325 mg daily
+	+ Warfarin (goal INR not reported)
+	+ Furosemide 40 mg daily
+	+ Lisinopril 5 mg daily
+	+ Metoprolol succinate 25 mg daily
+	+ Amitriptyline
+* On discharge:
+	+ Lisinopril 5 mg daily
+	+ Metoprolol succinate 25 mg daily
+	+ Furosemide 20 mg daily
+	+ Pantoprazole 40 mg twice daily for 4 weeks
+	+ Aspirin 81 mg daily
+	+ Warfarin 2 mg daily on previous dosage schedule
+
+**Discharge Diagnosis:**
+
+* Primary diagnosis: Acute blood loss anemia
+* Secondary diagnoses: Coronary artery disease, chronic systolic heart failure, hypertension
+
+**Discharge Condition:**
+
+* Good, tolerating oral medications, with asymptomatic anemia and stable hematocrit >24 hours
+
+**Follow-up Instructions:**
+
+* Follow-up with GI clinic
+* INR check next week
+* Weight monitoring for heart failure
+* Limit salt intake to 2 gms/day
+* Call doctor or go to the Emergency Room if experiencing fever, chest pain, shortness of breath, or other concerning symptoms.

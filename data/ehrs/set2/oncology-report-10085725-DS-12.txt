@@ -1,0 +1,247 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right sided recurrent malignant pleural effusion
+ 
+Major Surgical or Invasive Procedure:
+Pleurex placement ___
+
+ 
+History of Present Illness:
+___ with PMH notable for metastatic lung cancer cycle 4 of 
+Keytruda (care at ___ and known recurrent left sided 
+pleural effusion s/p ~4X thoracentses in the past 3 months who 
+presented to ___ today with dyspnea worsened with 
+exertion for 6 days and Chest CXR/CT with worsening left sided 
+pleural effusions. She was transferred to ___ ED for 
+evaluation for placement of a pleurex catheter by interventional 
+pulmonary. Patient denied fevers, chills, nausea, vomiting, 
+diarrhea, or abdominal pain.
+
+In the ED, initial vitals were:  
+- Exam notable for: T 98.1, HR 75, BP 108/75, RR 18, O2sat 97% 
+RA   
+- Labs notable for: 
+Na+ 129 (at baseline), BUN 11, Cr 0.7, Osm 272
+WBC 8.2, hgb 9.7 (at baseline), plt 277
+INR 1.1 PTT 30.5
+
+- Imaging: CT Moderate sized partly loculated left pleural 
+effusion has increased in size compared to ___ and results 
+in severe left lung atelectasis. Mild mediastinal and left hilar 
+adenopathy has increased. Right lung nodules are stable. Severe 
+emphysema is noted
+- In the ED, Ketorolac 15 mg was given. 
+-IP was consulted for pleurex vs thoracentesis. 
+
+Upon arrival to the floor, patient reports she feels short of 
+breath but otherwise feels well.  
+
+ 
+Past Medical History:
+Type II DM- Managed with diet
+Hx of MI ___ yrs ago medical managed on meto/ASA/losartan
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+===========================
+VITAL SIGNS  T 98.0, BP 96/57, HR 80, RR 21, O2sat 98% 
+GENERAL A&O3X well appearing
+HEENT - MMM, oropharynx clear, PEERL 
+NECK - supple, JVD not elevated 
+CARDIAC - RRR no mrg normal S1/S2 
+LUNGS - decreased lung sounds on left compared to right; wheezes 
+throughout 
+ABDOMEN - soft NT ND, normoactive bowel sounds 
+EXTREMITIES - No perpherial edema, warm, well perfused, 2+ 
+pulses 
+NEUROLOGIC - CNII-VII intact, no focal neurologic deficits 
+SKIN - warm, dry, intact 
+ 
+DISCHARGE PHYSICAL EXAM:
+===========================
+VS - T 97.7, BP 119/72, P 81, RR 18, O2sat 93% on RA 
+General: alert and awake, in mild distress due to pain  
+HEENT: MMM, EOMI  
+Neck: no JVD, no LAD  
+CV: rrr, no m/r/g  
+Lungs: diminished breath sounds at left lung base
+Abdomen: soft, nontender, nondistended 
+GU: deferred  
+Ext: warm and well perfused, pulses, no edema  
+Neuro: grossly normal
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================
+___ 09:02PM BLOOD WBC-8.2 RBC-3.22* Hgb-9.7* Hct-29.7* 
+MCV-92 MCH-30.1 MCHC-32.7 RDW-13.3 RDWSD-45.0 Plt ___
+___ 09:02PM BLOOD Neuts-63.9 Lymphs-18.5* Monos-11.6 
+Eos-5.1 Baso-0.7 Im ___ AbsNeut-5.21 AbsLymp-1.51 
+AbsMono-0.95* AbsEos-0.42 AbsBaso-0.06
+___ 09:02PM BLOOD ___ PTT-30.5 ___
+___ 09:02PM BLOOD Glucose-95 UreaN-11 Creat-0.7 Na-129* 
+K-4.2 Cl-94* HCO3-21* AnGap-18
+___ 06:05AM BLOOD Calcium-8.7 Phos-5.3* Mg-2.1
+___ 09:02PM BLOOD Osmolal-272*
+___ 09:22PM URINE Color-Straw Appear-Clear Sp ___
+___ 09:22PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.5 Leuks-NEG
+___ 09:22PM URINE RBC-3* WBC-7* Bacteri-FEW Yeast-NONE 
+Epi-7 TransE-<1
+___ 09:22PM URINE Hours-RANDOM Creat-61 Na-61
+___ 09:22PM URINE Osmolal-442
+
+OTHER RELEVANT LABS:
+=========================
+  URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION
+
+___ 06:05AM BLOOD WBC-6.6 RBC-3.10* Hgb-9.4* Hct-28.7* 
+MCV-93 MCH-30.3 MCHC-32.8 RDW-13.2 RDWSD-44.6 Plt ___
+___ 06:10AM BLOOD WBC-7.7 RBC-3.03* Hgb-9.3* Hct-28.0* 
+MCV-92 MCH-30.7 MCHC-33.2 RDW-13.2 RDWSD-44.4 Plt ___
+___ 06:05AM BLOOD Glucose-80 UreaN-10 Creat-0.7 Na-127* 
+K-4.3 Cl-92* HCO3-24 AnGap-15
+___ 06:05AM BLOOD Glucose-80 UreaN-10 Creat-0.7 Na-127* 
+K-4.3 Cl-92* HCO3-24 AnGap-15
+___ 06:10AM BLOOD Glucose-93 UreaN-13 Creat-0.9 Na-133 
+K-4.6 Cl-95* HCO3-20* AnGap-23*
+___ 06:10AM BLOOD Calcium-8.8 Phos-5.5* Mg-2.0
+
+DISCHARGE LABS:
+======================
+___ 05:48AM BLOOD WBC-9.2 RBC-3.15* Hgb-9.6* Hct-29.2* 
+MCV-93 MCH-30.5 MCHC-32.9 RDW-13.2 RDWSD-44.5 Plt ___
+___ 05:48AM BLOOD Glucose-71 UreaN-11 Creat-0.8 Na-128* 
+K-4.4 Cl-91* HCO3-21* AnGap-20
+___ 05:48AM BLOOD Calcium-8.5 Phos-4.5 Mg-1.8
+
+CXR (___): Possible tiny left apical pneumothorax. Mildly 
+decreased left pleural effusion. Improved left basilar 
+consolidation, likely atelectasis.
+
+CXR (___): Minimally improved left pleural effusion.
+ 
+Brief Hospital Course:
+___ yo female with a history of metastatic NSCLC complicated by 
+recurrent left sided effusions with quick reaccumulation after 
+the last thoracentesis on ___ . 
+
+# Hypoxemia 
+# Left sided pleural effusion
+# Emphysema
+Chronic, locaulated left sided likely malignant pleural effusion 
+in the setting of lung cancer with emphysematous changes on CT. 
+Given that she has required 1 thoracentesis per month and 
+presented with a very quick reaccumulation, IP placed pleurex on 
+___. Patient initially required ___ NC and was eventually 
+weaned to RA, with O2sats > 92%. Patient was given duonebs and 
+Tylenol/tramadol for pain control. 
+
+# Hyponatremia: chronic (baseline per ___ records 129), 
+likely due to SIADH secondary to metastatic lung carcinoma. 
+Urine lytes suggestive of SIADH given UOsm 442 and UNa 61. Na at 
+discharge 128.
+
+Transitional issues:
+=========================
+- Pleurex placed on ___ by IP
+- Amlodipine stopped on admission and NOT restarted on discharge 
+for soft/low blood pressures. Can consider restarting if needed 
+in the outpatient setting. 
+- Follow-up with PCP and oncology after discharge
+
+Pleurex Catheter instructions:
+
+1. Please drain Pleurx three times weekly. Keep a log of amount 
+& color, have the patient bring it with herto her appointment.
+2. Do not drain more than 1000 ml per drainage.
+3. Stop draining for pain, chest tightness, or cough.
+4. Do not manipulate catheter in any way.
+5. Keep a daily log of Drainage amount and color.
+6. You may shower with an occlusive dressing
+7. If the drainage is less than 50cc for three consecutive 
+drainages please call the office for further instructions.
+8. Please call office with any questions or concerns at 
+___. Pleurex catheter sutures to be removed when seen 
+in clinic ___
+days post PleurX placement.
+ 
+Medications on Admission:
+1. Losartan Potassium 50 mg PO DAILY 
+2. FoLIC Acid 1 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. amLODIPine 5 mg PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+7. Magnesium Oxide 400 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 40 mg PO QPM  
+3.  FoLIC Acid 1 mg PO DAILY  
+4.  Losartan Potassium 50 mg PO DAILY  
+5.  Magnesium Oxide 400 mg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Left sided pleural effusion
+Hyponatremia
+
+Secondary:
+Anemia
+Metastatic lung cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___, 
+
+You were admitted because you had some fluid in your lungs that 
+was causing your shortness of breath. The lung doctors placed ___ 
+___ called a pleurex to help remove the fluid from your lungs. 
+
+You should follow-up with your PCP and oncologist after you 
+leave the hospital. 
+
+It was a pleasure taking care of you, 
+
+Sincerely, 
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,93 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Attending:** [Redacted]
+
+**Allergies:**
+- Heparin Agents
+- Coumadin
+- Percocet
+- Anesthesia Tray
+
+**Chief Complaint:**
+- Left knee pain.
+
+**Major Surgical or Invasive Procedures:**
+- Arthrocentesis and wash-out.
+- AV fistulagram.
+
+**History of Present Illness:**
+- The patient, a woman with type 1 diabetes mellitus (DM), end-stage renal disease (ESRD) on hemodialysis (HD), breast cancer, and pulmonary sarcoidosis, presented with left knee pain and swelling. Arthrocentesis revealed 129,000 WBCs, no organisms on Gram stain, and no crystals. She received vancomycin and underwent knee irrigation under general anesthesia. Postoperatively, she experienced facial swelling, treated with diphenhydramine, famotidine, and methylprednisolone.
+
+**Past Medical History:**
+1. ESRD on HD
+2. Type 1 DM
+3. Hypertension
+4. Coronary artery disease
+5. Gout
+6. Asthma
+7. Atrial fibrillation
+8. Sarcoidosis
+9. Pulmonary hypertension
+10. Obstructive sleep apnea
+11. Ventral hernia
+12. HIT positive
+13. Breast cancer
+14. Multiple fistula revisions
+15. s/p unilateral oophorectomy
+
+**Physical Exam:**
+- On arrival: Afebrile, normotensive, SaO2 91% on room air, drowsy but rousable, no audible stridor or wheeze, puffy eyes and lips, mild tongue thickening, diminished breath sounds bilaterally, distant heart sounds, soft abdomen, left knee wrapped with drain.
+- On discharge: Afebrile, normotensive, SaO2 99% on room air, minimal knee discomfort, drain removed.
+
+**Pertinent Results:**
+- Blood tests showed elevated WBCs, neutrophils, and CRP, with thrombocytopenia.
+- Joint fluid analysis: High WBC count, no microorganisms.
+- Imaging: No significant changes on CXR, severe degenerative changes on knee films, and successful angioplasty of venous stenosis on AV fistulogram.
+- ECG: Sinus rhythm with conduction delays and prior myocardial infarctions.
+- Microbiology: No growth in joint fluid, blood, or tissue cultures.
+
+**Brief Hospital Course:**
+1. **Septic Arthritis:** Treated with vancomycin and ceftriaxone. Cultures remained negative. The patient showed clinical improvement and was able to move her knee with less pain.
+2. **Thrombocytopenia:** Likely due to marrow suppression from infection. Monitored and managed with continued vancomycin.
+3. **Allergic Reaction/Angioedema:** Managed with antihistamines and steroids. Resolved with dialysis.
+4. **Nonresponsiveness at Hemodialysis:** Transient hypotension and non-responsiveness managed with monitoring.
+5. **ESRD on Hemodialysis:** Managed with erythropoietin and cinacalcet (discontinued due to hypocalcemia).
+6. **Breast Swelling:** Improved post-angioplasty. Outpatient follow-up recommended.
+7. **Type 1 Diabetes Mellitus:** Managed with insulin adjustments.
+8. **Hypertension:** Managed with ACE inhibitors.
+9. **Other Conditions:** Managed as per standard protocols.
+
+**Medications on Admission:**
+- Included quinapril, anastrozole, albuterol, prednisone, amitriptyline, vitamin D, cinacalcet, gabapentin, levothyroxine, amiodarone, atorvastatin, aspirin, metoprolol, and insulin.
+
+**Discharge Medications:**
+- Anastrozole, albuterol, prednisone, vitamin D, levothyroxine, amiodarone, quinapril, acetaminophen, amitriptyline, docusate, senna, oxycodone, vancomycin, insulin NPH, and insulin lispro.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Septic Arthritis
+- Angioedema
+- ESRD
+- Sarcoidosis
+- Breast Cancer
+- Diabetes
+- Thrombocytopenia
+
+**Discharge Condition:**
+- Good, weight-bearing as tolerated.
+
+**Discharge Instructions:**
+- Continue antibiotics for 4 weeks, monitor for fever or increasing knee pain, and follow up with primary care physician and specialists as needed.
+
+**Follow-up Instructions:**
+- [Redacted]

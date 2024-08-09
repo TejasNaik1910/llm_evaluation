@@ -1,0 +1,80 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Ambien (causes hallucinations)
+
+**Chief Complaint:**
+- Right leg weakness
+
+**Major Surgical or Invasive Procedures:**
+- CT-guided renal biopsy
+- Lumbar puncture
+
+**History of Present Illness:**
+- The patient is a male with a history of smoking, chronic alcoholism, and chronic back pain. He presented with subacute progressive right lower extremity pain, numbness, and profound weakness. His symptoms began after a fall several years ago, which exacerbated his chronic low back pain and right lumbar radiculopathy. Over the past two months, his right leg weakness worsened, leading to significant mobility issues. An MRI of the lumbar spine was scheduled, but due to rapid progression of symptoms, he was referred to the ED and neurology was consulted.
+
+**Past Medical History:**
+- Hypertension (HTN)
+- Gastroesophageal reflux disease (GERD)
+- Cervical stenosis
+- Depression (treated with citalopram)
+- Chronic obstructive pulmonary disease (COPD)
+- Likely asbestos exposure
+- Chronic alcoholism
+
+**Family History:**
+- Mother: Arthritis
+- Father: Alcoholism
+- Daughter: Cancer, in remission
+- Uncle: Pancreatic cancer
+
+**Physical Exam:**
+- General: Awake, cooperative, no acute distress
+- Neurologic: Profound right leg weakness, decreased sensation in the right lower extremity, impaired proprioception in both great toes, and no significant change at discharge
+
+**Pertinent Results:**
+- **Admission Labs:** Mild anemia, slightly elevated glucose, and low sodium
+- **Discharge Labs:** Persistent mild anemia, elevated glucose, and normal electrolytes
+- **Imaging:**
+  - **CT Head:** Two foci of vasogenic edema in the left brain, suspicious for underlying masses
+  - **MR Spine:** Severe spinal canal narrowing at C3-C4, multilevel degenerative disease, and a mass in the lower pole of the right kidney
+  - **MRI Head:** Two small masses in the left cerebral hemisphere suggestive of metastatic disease
+  - **CT Torso:** Necrotic right renal mass, lingular nodule, small liver lesions, and calcified pleural plaques
+- **Pathology:** Renal cell carcinoma with oncocytic features confirmed by biopsy
+
+**Brief Hospital Course:**
+- **Metastatic Renal Cell Carcinoma:** Diagnosed with multiple metastases (brain and lung). Referred to a multi-disciplinary renal cancer clinic for further evaluation and treatment options.
+- **Brain Metastases:** Likely causing right leg and arm weakness. Started on dexamethasone for edema. Planned stereotactic radiosurgery (SRS) for brain lesions.
+- **Cervical/Lumbar Stenosis:** Significant cervical stenosis noted, contributing to left-sided weakness.
+- **Alcoholism:** Monitored for withdrawal, no significant issues noted.
+- **Hypertension:** Managed with home medications.
+- **COPD:** Continued on home inhalers.
+- **Insomnia:** Managed with trazodone after adverse reaction to Ambien.
+
+**Medications on Admission:**
+- HydrALAzine, Citalopram, Omeprazole, Oxycodone-Acetaminophen, Tiotropium Bromide, ProAir HFA
+
+**Discharge Medications:**
+- Citalopram, HydrALAzine, Omeprazole, Tiotropium Bromide, Atenolol, Atorvastatin, Dexamethasone, Fluticasone Propionate, Furosemide, Insulin, Heparin, Acetaminophen, Morphine Sulfate, ProAir HFA, traZODONE, Docusate Sodium, Senna
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Metastatic renal cell carcinoma
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Out of bed with assistance
+
+**Discharge Instructions:**
+- Follow-up with medical oncologist, urologist, and radiation oncologist for further treatment and management. Continue dexamethasone and consider prophylaxis with Bactrim if on steroids long-term.

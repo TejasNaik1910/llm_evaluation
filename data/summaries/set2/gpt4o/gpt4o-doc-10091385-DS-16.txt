@@ -1,0 +1,82 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Surgery
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- Liver biopsy
+
+**History of Present Illness:**
+- The patient presented with a new liver mass and omental implants identified on a CT scan. She reported night sweats for 3 months, a 20 lb weight loss over 2 months (attributed to post-pregnancy weight loss), and 1 month of abdominal pain, primarily in the right upper quadrant (RUQ). The pain varied in nature (sharp, dull, stinging, crampy) and was relieved by the fetal position but worsened with abrupt movements. No changes in bowel or bladder habits, no blood in stool, and no changes in appetite were noted. An initial abdominal ultrasound at an outside hospital (OSH) was negative. A subsequent CT scan revealed a 6.2cm x 4cm liver mass and omental implants, the largest being 6.2 x 2.7cm in the left pelvis.
+
+**Past Medical History:**
+- Positive PPD with negative chest X-ray (CXR)
+- Hemorrhoids
+- Uterine polypectomy
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- No history of cancer
+- Mother with hypertension and mildly elevated cholesterol
+- Father with diabetes mellitus
+
+**Physical Exam:**
+- **Vital Signs:** Stable
+- **Neurological:** Alert and oriented x3, non-icteric
+- **Cardiovascular:** Regular rate and rhythm (RRR)
+- **Pulmonary:** Clear to auscultation bilaterally (CTAB), unlabored
+- **Abdomen:** Soft, non-tender, non-distended
+- **Extremities:** Warm and well-perfused
+
+**Pertinent Results:**
+- **Blood Tests:** WBC-10.8, RBC-4.07*, Hgb-12.0, Hct-37.1, MCV-91, MCH-29.5, MCHC-32.4, RDW-11.6, Platelets [Redacted]
+- **Metabolic Panel:** Glucose-93, UreaN-8, Creatinine-0.6, Na-139, K-4.2, Cl-103, HCO3-26, Anion Gap-14
+- **Hepatitis Panel:** HBsAg-Negative, HBsAb-Positive, HBcAb-Negative, IgM HBc-Negative, IgM HAV-Negative
+- **Tumor Markers:** CEA-<1.0, AFP-1.1, CA125-32
+- **HCV Antibody:** Negative
+- **CT Chest:** Pending final read
+
+**Brief Hospital Course:**
+- Admitted for further workup of liver mass and omental implants. Initial labs were within normal ranges, including liver function tests (LFTs). Underwent a liver biopsy on Hospital Day 1 (HOD1), which was well-tolerated with minimal pain. Tumor markers were negative, with one pending result. Social work was involved to support the patient, who remained anxious. Discharged on HOD2 with plans for oncology and transplant team follow-up. At discharge, the patient’s abdominal pain had improved, she was tolerating a regular diet, ambulatory, and voiding freely. She was afebrile with stable vital signs.
+
+**Medications on Admission:**
+- Multivitamins 1 TAB PO DAILY
+
+**Discharge Medications:**
+1. Multivitamins 1 TAB PO DAILY
+2. Acetaminophen 325 mg PO Q6H PRN pain
+3. Oxycodone (Immediate Release) 5 mg PO Q4H PRN pain (No driving if taking this medication)
+4. Diphenhydramine 25 mg PO HS
+5. Docusate Sodium 100 mg PO BID
+6. Milk of Magnesia 30 mL PO DAILY PRN constipation
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Liver mass, Omental implants; Pathology pending
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Contact Dr. [Redacted] if fever, chills, increased abdominal pain, pain or swelling at the biopsy site, yellowing of the eyes, or other concerning symptoms develop.
+- Follow-up with oncology and transplant teams next week. 
+
+**Follow-up Instructions:**
+- [Redacted]

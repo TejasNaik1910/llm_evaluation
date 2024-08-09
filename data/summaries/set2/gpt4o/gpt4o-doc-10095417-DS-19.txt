@@ -1,0 +1,83 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Tramadol
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- ERCP (Endoscopic Retrograde Cholangiopancreatography)
+
+**Major Surgical or Invasive Procedure:**
+- ERCP with sphincterotomy
+
+**History of Present Illness:**
+- The patient is a male with metastatic pancreatic cancer, stage IV, post five cycles of gemcitabine and nab-paclitaxel. He has a history of pulmonary embolus on edoxaban and a recent admission for sepsis and Gram-negative bacteremia from cholangitis and micro-hepatic abscesses. During the previous admission, he had a prophylactic CBD plastic stent placement and was discharged on oral ciprofloxacin. He was admitted for elective CBD stent removal and sphincterotomy. The ERCP was uncomplicated, and he is being observed overnight post-procedure. He has been holding Edoxaban since [Redacted]. He denies any complaints, including abdominal pain, nausea, or vomiting.
+
+**Past Medical History:**
+- **Oncologic History:**
+  - Pancreatic cancer stage IV with metastasis to the liver and omentum.
+  - Initial symptoms included indigestion, fatigue, post-prandial epigastric and LUQ discomfort, and weight loss.
+  - Diagnostic tests included CT A/P, MRI liver, and omental biopsy confirming malignancy.
+  - Treatment included gemcitabine and nab-paclitaxel with noted improvement in disease.
+- **Other Medical History:**
+  - Knee replacement x2, hernia x2, status post PE, hypertension, BPH, folate deficiency, osteoarthritis, DVT.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother with dementia and possible cancer, father with hypertension, paternal cousin with unknown cancer type, daughter with thyroid cancer.
+
+**Physical Exam:**
+- General: Well-appearing, no acute distress.
+- Vitals: 98.0°F, BP 131/80, HR 66, RR 16, SpO2 96% on room air.
+- HEENT: Normal.
+- Neck: Supple.
+- Chest: Bilateral clear, port in place.
+- Heart: Regular rhythm, no murmurs.
+- Abdomen: Soft, non-tender, no guarding or rebound.
+- Extremities: No cyanosis, clubbing, or edema.
+- Neuro: Symmetric face, fluent speech.
+- Psych: Calm, cooperative.
+
+**Pertinent Results:**
+- Blood tests showed mild anemia and elevated CEA.
+- Imaging and ERCP findings included successful stent removal, biliary sphincterotomy, and removal of sludge from the bile duct.
+
+**Impression:**
+- Successful ERCP with stent removal and sphincterotomy. No post-procedural complications.
+
+**Recommendations:**
+- Admit for monitoring.
+- NPO overnight with aggressive IV hydration.
+- Advance diet as tolerated if no abdominal pain.
+- Hold blood thinner for 3 days.
+- Follow-up with referring physician and monitor for complications.
+
+**Brief Hospital Course:**
+- The patient with metastatic pancreatic cancer, post-ERCP with stent removal and sphincterotomy, had no pain or complications. Diet was advanced without issues. He was advised to take ciprofloxacin for 5 days and hold anticoagulation for 3 days. Follow-up with oncology was scheduled.
+
+**Medications on Admission:**
+- Atenolol, amlodipine, pantoprazole, finasteride, hydrochlorothiazide, cod liver oil, saw palmetto, folic acid, Centrum Silver, pyridoxine, edoxaban, ciprofloxacin.
+
+**Discharge Medications:**
+- Amlodipine, atenolol, Centrum Silver, ciprofloxacin, cod liver oil, finasteride, folic acid, hydrochlorothiazide, pantoprazole, pyridoxine, saw palmetto. Edoxaban was held.
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Pancreatic cancer
+
+**Discharge Condition:**
+- Clear mental status, alert, and ambulatory.
+
+**Discharge Instructions:**
+- Admitted for observation post-ERCP with sphincterotomy. Tolerated procedure well. Take ciprofloxacin for 5 days and hold blood thinner for 3 days. Follow-up with referring physician as scheduled.

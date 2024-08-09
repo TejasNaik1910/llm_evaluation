@@ -1,0 +1,88 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- New metastatic lesions
+
+**Major Surgical or Invasive Procedure:**
+- [Redacted] guided lung biopsy
+
+**History of Present Illness:**
+- The patient has a past medical history of hepatocellular carcinoma (HCC) status post liver resection and radiofrequency ablation (RFA), and colon cancer status post resection and adjuvant FOLFOX. He presents with new metastatic lesions on imaging and acute pulmonary embolism (PE). Previous imaging and colonoscopy showed no evidence of new or recurrent disease. Recent CT scans revealed new liver lesions consistent with colorectal metastases, a new lesion in the neo-sigmoid colon, numerous bilateral lung nodules, and new thyroid nodules. The patient was referred to the ED for expedited workup, including a biopsy to determine if the lesions are due to HCC or colon cancer recurrence.
+
+**Symptoms:**
+- Shortness of breath, wheezing, intermittent constipation, and small bowel movements. No chest pain, pleurisy, cough, fever, or chills.
+
+**Initial Vitals in ED:**
+- Temperature: 96.9°F
+- Heart Rate: 59 bpm
+- Blood Pressure: 129/80 mmHg
+- Respiratory Rate: 16 breaths/min
+- Oxygen Saturation: 100% on room air
+
+**Laboratory Results:**
+- Hemoglobin: 12.4 g/dL
+- Platelets: 109 x 10^9/L
+- WBC: Within normal limits
+- HCO3: 20 mmol/L
+- Lactate: 2.3 mmol/L
+- INR: 1.6
+
+**Imaging and Diagnostic Tests:**
+- **CT Head:** No acute intracranial process, mild small vessel disease, no definite intracranial metastases.
+- **CT Abdomen/Pelvis:** New OPTN 5B lesions in segments II, V, and VI; new enhancing mass in segment VI suggestive of colorectal metastasis; nonocclusive thrombosis in the left portal vein; stable splenomegaly; new moderate volume ascites; new 2 cm apple-core lesion in the neo-sigmoid colon.
+- **CT Chest:** Right lower lobe subsegmental pulmonary arterial filling defects (new PE); numerous bilateral lung nodules (likely metastases); bilateral hypodense thyroid nodules.
+- **Colonoscopy:** Normal colonic mucosa, fair prep, no obstructive lesion, circumferentially thickened fold in the distal sigmoid.
+
+**Past Medical History:**
+- Hepatocellular carcinoma (HCC) in the setting of HCV, HBV, and possible alcoholic cirrhosis.
+- Multiple liver resections and RFAs for HCC.
+- Colon cancer with sigmoid colectomy and adjuvant FOLFOX chemotherapy.
+
+**Physical Exam:**
+- General: Comfortable, son at bedside.
+- Lungs: Wheezing and rhonchi in the left mid to lower lobe.
+- Abdomen: Soft, distended, non-tender.
+- Neurological: Alert and oriented x3.
+
+**Hospital Course:**
+- The patient was admitted for expedited workup and biopsy. He was started on a heparin drip for PE. Post-colonoscopy, his obstructive bowel symptoms improved. He was resumed on enoxaparin for PE and was stable for discharge.
+
+**Medications on Admission:**
+1. Albuterol Inhaler
+2. Tenofovir Disoproxil (Viread)
+3. Omeprazole
+4. Amlodipine
+
+**Discharge Medications:**
+1. Enoxaparin Sodium
+2. Polyethylene Glycol
+3. Senna
+4. Albuterol Inhaler
+5. Omeprazole
+6. Tenofovir Disoproxil (Viread)
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Metastatic cancer of unknown primary
+- History of liver cancer
+- History of colon cancer
+- Acute pulmonary embolism
+
+**Discharge Condition:**
+- Fair, alert, and oriented x3, self-ambulatory without assistance
+
+**Discharge Instructions:**
+- The patient was informed about the new cancer lesions and the need for blood thinner shots twice a day. Follow-up with oncology is recommended.

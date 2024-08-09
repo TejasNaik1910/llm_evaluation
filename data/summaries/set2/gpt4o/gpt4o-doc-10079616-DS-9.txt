@@ -1,0 +1,74 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Obstructed left percutaneous nephrostomy (PCN) tube.
+
+**Major Surgical or Invasive Procedure:**
+- Left percutaneous nephrostomy tube exchange.
+
+**History of Present Illness:**
+- The patient is a male with advanced prostate cancer metastatic to the liver and peritoneal carcinomatosis. He was recently admitted for left PCN tube placement and presented with an obstructed left PCN tube. He reported decreased urine output from the nephrostomy tube, which led to his admission.
+
+**Past Medical History:**
+- Advanced prostate cancer with liver metastasis and peritoneal carcinomatosis.
+- Radical prostatectomy.
+- Hypertension (HTN).
+- Dyslipidemia (DL).
+
+**Social and Family History:**
+- No family history of prostate cancer.
+
+**Physical Exam:**
+- **Admission Exam:** Vital signs stable, no distress, clear lungs, soft abdomen, mild tenderness at PCN site, clear yellow urine in leg bag.
+- **Discharge Exam:** Stable vitals, mild tenderness at PCN site, clear yellow urine, no new rashes or bruising.
+
+**Pertinent Results:**
+- **Admission Labs:** Elevated WBC (21.1), creatinine (3.1), and BUN (38). Urinalysis showed large leukocytes and blood, few bacteria.
+- **Imaging:** Left antegrade nephrostogram showed poor flow through the tube, moderate to severe hydronephrosis, successful nephrostomy tube exchange.
+- **Discharge Labs:** Improved creatinine (1.7), stable WBC (9.7), and other parameters.
+
+**Brief Hospital Course:**
+- **Left Hydronephrosis and Flank Pain:** Managed with successful nephrostomy tube exchange, resulting in clear yellow urine drainage.
+- **Acute Kidney Injury:** Likely post-renal due to PCN obstruction, improved with tube replacement and IV fluids.
+- **Pyuria and Leukocytosis:** Initially treated with antibiotics (zosyn and ceftriaxone), but urine culture showed no growth, and antibiotics were discontinued.
+- **Malignant Ascites:** Managed with paracentesis, removing 3.5L of fluid.
+- **Nausea/Vomiting:** Suspected due to abdominal distension and liver metastasis, managed with Zofran and Compazine.
+- **Deep Vein Thrombosis (DVT):** Not on anticoagulation due to gastrointestinal bleeding, had a filter placed.
+- **Metastatic Prostate Cancer:** Terminal condition, poor prognosis, started on cabazitaxel, and Ritalin for appetite stimulation.
+- **Hypertension:** Managed with amlodipine.
+- **Anemia:** Consistent with chronic inflammation, no active bleeding.
+- **Constipation:** Managed with a bowel regimen.
+
+**Medications on Admission:**
+- Ondansetron, Prochlorperazine, Docusate Sodium, Oxycodone (Immediate Release and SR), Senna, Lupron Depot, Atorvastatin, Amlodipine.
+
+**Discharge Medications:**
+- Methylphenidate, Polyethylene Glycol, Amlodipine, Atorvastatin, Docusate Sodium, Lupron Depot, Ondansetron, Oxycodone (Immediate Release and SR), Prochlorperazine, Senna.
+
+**Discharge Disposition:**
+- Home with service.
+
+**Discharge Diagnosis:**
+- Obstructed percutaneous nephrostomy tube.
+- Metastatic prostate cancer.
+- Hypertension.
+
+**Discharge Condition:**
+- Clear and coherent mental status, alert and interactive, ambulatory and independent.
+
+**Discharge Instructions:**
+- Follow-up with oncology, continue Ritalin if effective, manage nephrostomy tube carefully to prevent kinking, avoid lisinopril, and continue amlodipine for blood pressure control.
+
+**Follow-up Instructions:**
+- Scheduled follow-up with Dr. [Redacted] on [Redacted].

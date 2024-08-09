@@ -1,0 +1,60 @@
+Here is a summary of the clinical note:
+
+**Patient Information**
+
+* Name: [Redacted]
+* Age: [Redacted]
+* Sex: Male
+* Date of Birth: [Redacted]
+* Admit Date: [Redacted]
+* Discharge Date: [Redacted]
+
+**Chief Complaint**
+
+* Fatigue
+
+**Medical History**
+
+* Metastatic neuroendocrine tumor of unknown origin
+* Cirrhosis complicated by portal hypertension
+* Ascites and HCC
+* Atrial fibrillation
+* Hypertension
+* Obesity
+* BPH
+* Gout
+* Prediabetes Mellitus
+* Apparent CKD
+* Baseline Bell's palsy left side
+
+**Pertinent Results**
+
+* Labs: WBC 23.0, H/H 9.0/27.2, Plt 308, INR 2.2, Na 140, K 4.0, BUN/Cr [Redacted], and BNP 13875
+* CXR: Negative for pneumonia
+* Urine culture: Citrobacter freundii complex, sensitive to multiple antibiotics
+* Imaging: Successful placement of a single lumen chest power low-profile Port-a-cath via the left internal jugular venous approach
+
+**Treatment and Interventions**
+
+* Port placement
+* Chemotherapy C2 with carboplatin/etoposide
+* Antibiotics for UTI
+* Symptomatic therapy for edema and nutrition
+* Discharged on multivitamin
+
+**Discharge Diagnosis**
+
+* UTI
+* Metastatic neuroendocrine tumor of unknown origin
+
+**Discharge Condition**
+
+* Mental Status: Clear and coherent
+* Level of Consciousness: Alert and interactive
+* Activity Status: Ambulatory - requires assistance or aid (walker or cane)
+
+**Follow-up Instructions**
+
+* Follow-up with oncologist on [Redacted]
+* Continue carboplatin/etoposide at [Redacted] at [Redacted]
+* Discharged with existing home services

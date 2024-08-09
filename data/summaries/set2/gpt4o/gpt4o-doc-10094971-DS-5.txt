@@ -1,0 +1,91 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Ambien
+
+**Chief Complaint:**
+- Confusion
+
+**Major Surgical or Invasive Procedure:**
+- Wound vac placement
+
+**History of Present Illness:**
+- The patient is an elderly male with a history of metastatic renal cell carcinoma (RCC) to the brain, hypertension (HTN), hypercholesterolemia (HL), and chronic obstructive pulmonary disease (COPD). He presented with confusion after being discharged from a rehabilitation facility where he stayed for three months following a hospitalization for a new diagnosis of metastatic RCC to the brain. He was previously treated with CyberKnife radiosurgery.
+- The patient lives with his daughter and had a comprehensive care plan including home health aides. He was doing well initially but became progressively confused, stopped eating, and became agitated. He also experienced significant pain at the site of a sacral ulcer.
+- He was previously admitted to the MICU for urosepsis and treated with IV cefepime. On this admission, he was found to be confused, with a positive urine analysis indicating infection, and was started on IV ceftriaxone.
+
+**Past Medical History:**
+- **Oncologic History:** Renal cell carcinoma with multiple brain metastases, diagnosed from a right kidney biopsy. Treated with CyberKnife radiosurgery.
+- **Other Conditions:** Hypertension, hypercholesterolemia, COPD, alcoholism, depression, anxiety, bilateral knee replacements, chronic degenerative lumbar spine disease, former heavy smoker, cervical stenosis, right-sided sciatica, GERD.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother: Osteoarthritis, CAD, heart valve disease
+- Father: Died of alcoholism
+- Sister: Osteoarthritis
+
+**Physical Exam:**
+- Vitals: 98.2°F, BP 96/54, HR 95, RR 18, SpO2 99% on room air, weight 161 lbs
+- General: Awake, conversant but very confused, appears thin and fatigued
+- HEENT: Pupils equal, reactive; sclerae non-icteric; oropharynx clear but dry
+- Neck: Supple, no JVD, no thyromegaly
+- Lymph nodes: No cervical, supraclavicular, or axillary LAD
+- Cardiovascular: Irregularly irregular rhythm, II/VI systolic murmur at apex
+- Respiratory: Good air movement, no rhonchi or wheezing
+- Abdomen: Soft, slightly full, non-tender, positive bowel sounds
+- Back: Large sacral ulcer with drainage, very painful
+- Neurological: CN II-XII intact, limited exam due to confusion
+
+**Pertinent Results:**
+- **Laboratory Findings:** Elevated WBC, hypercalcemia, anemia, elevated lactate
+- **Imaging:**
+  - CT head: No new brain metastases, stable vasogenic edema
+  - CT pelvis: Sacral soft tissue changes, possible cystitis
+  - CT torso: Enlarging right renal mass, new pulmonary nodules, small pleural effusions, stable adrenal and renal lesions
+  - MRI Brain: No acute abnormalities or disease progression
+
+**Brief Hospital Course:**
+- **Acute Encephalopathy:** Multifactorial, including dehydration, hypercalcemia, UTI, and known brain metastases. Treated with IV fluids, pamidronate, and antibiotics. Mental status mildly improved.
+- **Hypotension:** Managed with fluid boluses and antibiotics. Home antihypertensives were discontinued.
+- **Hypercalcemia:** Treated with IV fluids and pamidronate.
+- **Renal Cell Carcinoma:** No systemic chemotherapy due to low disease burden. Restaging CT showed disease progression. Transitioned to hospice care.
+- **UTI:** Completed ciprofloxacin course, received cefepime, urine culture negative.
+- **Pressure Ulcers:** Managed with wound vac and pain control.
+- **Atrial Flutter:** Managed with metoprolol.
+- **Anemia:** Treated with blood transfusions.
+- **COPD:** Continued on home medications.
+- **Constipation:** Resolved with aggressive bowel regimen.
+- **Anxiety:** Continued on sertraline, trazodone discontinued.
+
+**Medications on Admission:**
+- Atenolol, atorvastatin, fluticasone, furosemide, hydralazine, lactulose, morphine, potassium chloride, sertraline, tiotropium, trazodone, calcium carbonate with vitamin D, ferrous sulfate, docusate, senna, sodium chloride nasal spray.
+
+**Discharge Medications:**
+- Docusate, morphine, senna, sertraline, tiotropium, polyethylene glycol, metoprolol, haloperidol.
+
+**Discharge Disposition:**
+- Extended Care Facility
+
+**Discharge Diagnosis:**
+- Acute encephalopathy, hypotension due to dehydration, urinary tract infection, hypercalcemia, metastatic renal cell carcinoma to brain, atrial flutter, sacral decubitus ulcer.
+
+**Discharge Condition:**
+- Mental Status: Confused
+- Level of Consciousness: Alert and interactive
+- Activity Status: Bedbound
+
+**Discharge Instructions:**
+- The patient was admitted with confusion due to multiple factors including UTI, hypercalcemia, brain metastases, and dehydration. Treated with IV antibiotics, fluids, and medication to lower calcium. Transitioned to hospice care for palliative management.
+
+**Follow-up Instructions:**
+- [Redacted]

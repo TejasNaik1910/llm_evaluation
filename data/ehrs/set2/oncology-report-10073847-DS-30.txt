@@ -1,0 +1,267 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Erythromycin Base
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cycle #6 high-dose methotrexate for DLBCL to CNS.
+ 
+Major Surgical or Invasive Procedure:
+___ Attempted lumbar puncture x2 unsuccessful.
+___ Lumbar puncture by radiology.
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with DLBCL to CNS admitted for 
+cycle #6 high-dose methotrexate.  DLBCL was treated with R-EPOCH 
+and IT MTX finishing ___, but he relapsed ___.  MRI 
+revealed enhancing extramedullary intradural lesion in the 
+thecal sac at L1 and some reported displacement of cauda equina 
+and findings concerning for possible lymphomatous 
+infiltration/leptomeningeal spread.  He started high-dose MTX 
+___ and his most recent cycle (#5) was given ___.  He 
+last received rituximab ___.  He is tolerating chemo well so 
+far, but over the last three weeks has had worsening lower back 
+pain radiating down both legs causing difficulty walking.  Left 
+leg weakness persists, so he uses a walking cane.
+.
+ROS: He denies fevers, chills, sweats, nausea, vomiting, wght 
+loss, headache, visual changes, chest pain, dyspnea, abdominal 
+pain, diarrhea, constipation, hematochezia, hematuria, other 
+urinary symptoms, paresthesias, or rash.  He reports a smokers 
+cough.  All other ROS were negative.
+ 
+Past Medical History:
+-DLBCL to CNS, s/p R-EPOCH x6 cycles + IT MTX x4 for CNS 
+prophylaxis given bone marrow involvement, finishing ___.
+  -___ Cycle #1 high-dose MTX 8000mg/m2 capped at BSA 2.0.
+  -___ Cycle #2 high-dose MTX 6780mg/m2 (dose reduced to 
+cap BSA).
+  -___ Rituximab.
+  -___ Rituximab.
+  -___ Cycle #3 high-dose MTX 8000mg/m2 capped at BSA 2.0.
+  -___ Rituximab.
+  -___ Cycle #4 high-dose MTX 8000mg/m2 capped at BSA 2.0.
+  -___ Rituximab.
+  -___ Cycle #5 high-dose MTX 8000mg/m2 capped at BSA 2.0.
+-CAD s/p angioplasty and ___ ___ to ___ Diag. 
+Normal stress test ___ (completed ~ 12 minutes on ___.
+-HTN.
+-Hyperlipidemia.
+-Vasectomy.
+-OSA s/p uvulopalatopharngoplasty.
+-Tonsillectomy.
+-Bilateral lower extremity DVTs dx ___.
+ 
+Social History:
+___
+Family History:
+Father with hx of colon cancer.  No family hx of any blood 
+disorders or other cancers that he is aware of.
+ 
+Physical Exam:
+Admission Physical Examination:
+VS: T 96.7F, BP 178/72, HR 84, RR 18, O2 Sat 98% RA, Ins/Outs , 
+wght 252.8 lbs, ht 73in.
+GEN: A&O, NAD.
+HEENT: Sclerae non-icteric, PEARLA, EOM intact, CNs intact, o/p 
+clear, MMM.
+Neck: Supple, no thyromegaly.
+Lymph nodes: No cervical, supraclavicular, or inguinal LAD.
+CV: S1S2, reg rate and rhythm, no MRG.
+RESP: Good air movement bilaterally, no rhonchi, no wheezing.
+BACK: No spine/iliac tenderness.  1cm round clean sacral 
+decubitus ulcer stage II.
+ABD: Soft, non-tender, non-distended, no HSM.
+EXTR: 2+ bilateral lower extremity edema, no calf tenderness.
+DERM: No rash.
+Neuro: Strength ___ throughout, sensation to light touch intact, 
+patellar reflexes ___, brisk ankle reflexes, down-going plantar 
+reflexes, non-focal.
+PSYCH: Appropriate and calm.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:25PM BLOOD WBC-9.2 RBC-3.21* Hgb-10.7* Hct-31.3* 
+MCV-98 MCH-33.4* MCHC-34.2 RDW-22.5* Plt ___
+___ 12:25PM BLOOD Neuts-79* Bands-0 Lymphs-12* Monos-7 
+Eos-0 Baso-0 ___ Myelos-1* Promyel-1* NRBC-3*
+___ 12:25PM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+ 
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL 
+Tear ___
+___ 12:25PM BLOOD UreaN-15 Creat-1.1 Na-142 K-4.5 Cl-105 
+HCO3-27 AnGap-15
+___ 12:25PM BLOOD Calcium-9.2 Phos-4.0 Mg-2.0
+___ 12:25PM BLOOD ALT-191* AST-44* LD(LDH)-404* AlkPhos-65 
+TotBili-0.3
+.
+___ MRI L-SPINE: IMPRESSION: Extensive intradural thecal sac 
+lymphomatous involvement extending from L1 to S2, slightly 
+progressed since ___ and similar when compared to 
+___.
+.
+DISCHARGE LABS:
+___ 06:00AM BLOOD WBC-2.7* RBC-2.97* Hgb-9.9* Hct-29.5* 
+MCV-99* MCH-33.3* MCHC-33.5 RDW-22.1* Plt ___
+___ 05:19AM BLOOD ___ PTT-25.6 ___
+___ 06:00AM BLOOD Glucose-120* UreaN-15 Creat-0.8 Na-141 
+K-4.4 Cl-105 HCO3-28 AnGap-12
+___ 06:00AM BLOOD Calcium-8.5 Phos-4.8* Mg-2.0 UricAcd-5.1
+___ 06:00AM BLOOD ALT-96* AST-16 LD(LDH)-386* AlkPhos-48 
+TotBili-0.3
+___ 05:25AM BLOOD %HbA1c-6.0* eAG-126*
+___ 02:30PM BLOOD HBsAg-NEGATIVE
+___ 02:30PM BLOOD HIV Ab-NEGATIVE
+___ 02:30PM BLOOD HCV Ab-NEGATIVE
+ 
+Brief Hospital Course:
+___ man with DLBCL and CNS relapse, CAD/CHF, and upper 
+extremity DVTs admitted for cycle #6 high-dose methotrexate.  
+MTX not given due to progression on MRI.  Given ICE instead.
+.
+# DLBCL/CNS relapse: MRI spine ___, done for worsening 
+back/leg pain, showed progression.  Neuro-oncology and Radiation 
+Oncology consulted.  XRT would eliminate methotrexate as a 
+future option and risk of XRT-toxicity increased due to recent 
+methotrexate.  Given salvage ICE cycle #1: Ifosfamide 5000mg/m2 
+Day #2, carboplatin AUC 5 (capped at 800mg) Day #2, etoposide 
+100mg/m2 Days ___.  Mesna and IV fluids to prevent hemorrhagic 
+cystitis.  Tolerated well.  Plan for G-CSF 480mcg SC daily 
+starting ___ after chemo finished.  Lumbar puncture by 
+Interventional Radiology under fluoroscopy unsuccessful 
+(possibly obstructed by tumor).  Held enoxaparin for this 
+procedure.  Increased dexamethasone to 4mg q8HR due to increased 
+back/leg pain.
+.
+# Transaminitis: Trending down.  Likely chemo-induced.
+.
+# Anemia and thrombocytopenia: Chemo-induced.  Mild.  Stable.
+.
+# Bilateral ___ DVTs: Continued enoxaparin BID.  Held prior to 
+LP.  Restarted as outpatient.
+.
+# Hyperglycemia: QID finger sticks and covered with insulin 
+sliding scale.  HbA1c 6.0%.
+.
+# CAD and chronic diastolic CHF: Continued beta blocker.  
+Aspirin stopped due to thrombocytopenia and enoxaparin.
+.
+# HTN: Continued outpatient metoprolol, amlodipine, and 
+lisinopril.
+.
+# Pain (lower back and legs): Due to leptomeningeal 
+carcinomatosis.  Increased OxyContin to 80mg q8HR.  Pain 
+improved.  Continued PRN oxycodone.  Increased dexamethasone to 
+4mg q8HR.
+.
+# Smoking cessation: Nicotine patch.
+.
+# FEN: Regular diet.  IV fluids with ICE.
+.
+# GI PPx: PPI and bowel regimen.
+.
+# DVT PPx: On enoxaparin for DVT.  Held prior to LP.  Restarted 
+as outpatient.
+.
+# Precautions: None.
+.
+# Lines: Port placed ___.
+.
+# CODE: FULL.
+ 
+Medications on Admission:
+ACYCLOVIR 400 mg PO q8HR
+ALBUTEROL SULFATE 90 mcg HFA - 2 puffs PO QID PRN 
+cough/wheezing/dyspnea
+AMLODIPINE 10 mg PO in the morning
+DEXAMETHASONE 4 mg PO daily
+ENOXAPARIN 120 mg/0.8 mL Syringe - 90 mg SC q12HR
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] 500mcg-50mcg/Dose - 1 
+inhalation PO BID
+LISINOPRIL 5 mg PO in the evening
+NITROGLYCERIN [NITROSTAT] 0.3mg Sublingual PRN chest pain
+OXYCODONE 10 mg PO q6-8h PRN pain
+OXYCODONE [OXYCONTIN] 60 mg Extended Release 12 hr PO q8HR
+PANTOPRAZOLE 40 mg PO q24HR
+SIMVASTATIN (On Hold from ___ for transaminitis) 20 mg PO qHS
+SULFAMETHOXAZOLE-TRIMETHOPRIM 400 mg-80 mg PO once a day
+ASPIRIN 81 mg Tablet, Chewable - 2 Tablet(s) by mouth DAILY (on 
+hold)
+DOCUSATE SODIUM 100 mg PO BID
+MULTIVITAMIN 1 Tablet PO daily
+NICOTINE 21 mg/24 hour - 1 Patch DAILY
+SENNOSIDES [SENNA] 8.6 mg PO BID PRN constipation
+ 
+Discharge Medications:
+1. OxyContin 80 mg Extended Release 12 hr PO TID.
+Disp:*90 Tablet Extended Release 12 hr(s)* Refills:*0*
+2. acyclovir 400 mg PO Q8H.
+3. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: 
+Two (2) Puff Inhalation Q6H PRN Dyspnea, wheeze.
+4. amlodipine 10mg PO DAILY.
+5. fluticasone-salmeterol 500-50 mcg/dose Disk Sig: One Disk Inh 
+BID.
+6. lisinopril 5 mg PO HS.
+7. pantoprazole 40 mg PO Q24H.
+8. sulfamethoxazole-trimethoprim 400-80 mg PO DAILY.
+9. docusate sodium 100 mg PO BID.
+10. senna 8.6 mg PO BID.
+11. prochlorperazine maleate ___ mg PO q6HR PRN nausea.
+Disp:*20 Tablet(s)* Refills:*2*
+12. Neupogen 480 mcg/0.8 mL Syringe Sig: One (1) Syringe 
+Injection once a day for 3 days: Take ___, and 
+___.
+Disp:*3 Syringe* Refills:*0*
+13. oxycodone ___ PO Q4H PRN Pain.
+Disp:*50 - 5mg Tablet(s)* Refills:*0*
+14. dexamethasone 4 mg PO Q8H.
+Disp:*90 Tablet(s)* Refills:*1*
+15. OxyContin 20 mg Extended Release 12 hr PO q8HR PRN: Taken 
+with 60mg tabs q8HR for 80mg q8HR total. (Prescription given 
+because his insurance's refusal to fill 80mg script).
+Disp:*21 Tablet Extended Release 12 hr(s)* Refills:*0*
+16. lorazepam 0.5-2.0 PO Q4H PRN nausea/anxiety/insomnia.  
+17. ondansetron HCl ___ mg PO q8HR PRN nausea.
+Disp:*20 Tablet(s)* Refills:*3*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Cycle #1 ICE chemotherapy.
+2. Relapsed diffuse large B-cell lymphoma.
+3. Back pain.
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+You were admitted to the hospital for cycle #6 high-dose 
+methotrexate chemotherapy for relapsed diffuse large B-cell 
+lymphoma.  However, methotrexate was not given because of a 
+spine MRI showing progression of disease.  This is the cause of 
+your worsening back pain.  Instead, after evaluation by 
+Neuro-Oncology and Radiation Oncology, you received ICE 
+chemotherapy.  Your pain was controlled by increasing 
+dexamethasone and OxyContin doses.  A lumbar puncture, first 
+done on the floor unsuccessfully, was later done by Radiology.
+.
+MEDICATION CHANGES:
+1. Dexamethasone increased to 4mg every 6 hours.
+2. OxyContin increased to 80mg 3x a day.
+3. Take G-CSF (Neupogen) 480mcg subcutaneous injection daily 
+starting ___ and finishing on ___.
+ 
+Followup Instructions:
+___

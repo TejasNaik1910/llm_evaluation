@@ -1,0 +1,80 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Codeine, Ciprofloxacin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Weakness, fatigue, and leg pain.
+
+**Major Surgical or Invasive Procedure:**
+- Open Reduction and Internal Fixation (ORIF) of the left hip.
+
+**History of Present Illness:**
+- The patient has a history of colon cancer (CA), endometrial cancer (CA), and pulmonary embolism (PE) on Coumadin. She presented with worsening weakness, fatigue, and left lower extremity (LLE) pain. The pain began a couple of months ago during a skin biopsy. She was seen in the emergency department (ED) and followed by her primary care physician (PCP) with negative ultrasound (US) and plain films of the hip and LLE. Despite using a walker, she continues to experience severe pain, especially with walking or sitting. She also reports a needle sensation in the LLE and low back pain, along with fatigue and unsteadiness. She denies fevers and chills but endorses dizziness and nausea without vomiting. In the ED, she was found to have an INR of 11.7 and was treated with vitamin K and potassium. She was also diagnosed with a urinary tract infection (UTI) and treated with Bactrim.
+
+**Past Medical History:**
+- Endometrial cancer status post resection.
+- Colon cancer status post resection.
+- On Xeloda for the past three months.
+- On Coumadin for PE.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Non-contributory.
+
+**Physical Exam:**
+- Vital Signs: Temp 100.7°F, BP 141/63, HR 87, RR 18, SpO2 98% on room air.
+- General: Generally uncomfortable.
+- HEENT: PERRL, EOMI, no scleral icterus, moist mucous membranes.
+- Neck: Supple, no lymphadenopathy, no JVP elevation.
+- Lungs: Clear to auscultation bilaterally.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Abdomen: Soft, non-tender, non-distended, normal bowel sounds.
+- Extremities: Warm, well-perfused, no cyanosis, clubbing, or edema.
+- Neurological: Alert and oriented x3, cranial nerves II-XII intact, limited strength in left foot dorsiflexion due to pain.
+- Skin: No rashes or ulcers.
+- Psychiatric: Appropriate.
+
+**Pertinent Results:**
+- Elevated INR, low potassium, UTI with pan-sensitive E. coli.
+- Imaging: CT hip showed a large aggressive lytic lesion in the left proximal femur, non-displaced pathologic fracture at the femoral neck, and suspected metastatic deposits in the left femur.
+- Pathology: Pending biopsy results of the left femur.
+
+**Brief Hospital Course:**
+- **UTI:** Treated with Keflex for 7 days.
+- **L Hip Fracture:** Pathologic fracture suspicious for malignancy. ORIF performed. Full weight-bearing post-op. Pain managed with Percocet.
+- **Metastatic Cancer:** Likely lung metastases. History of stage I colon cancer and endometrial cancer with lung nodules. Restarted on Megace.
+- **PE:** INR initially reversed for surgery, resumed on Coumadin with close monitoring.
+- **Hypertension:** Managed with Atenolol and Nifedipine.
+
+**Medications on Admission:**
+- Atenolol, Percocet, Ativan, Nifedipine, Paroxetine, Sucralfate, Tramadol, Warfarin, Omeprazole, Senna.
+
+**Discharge Medications:**
+- Atenolol, Paroxetine, Sucralfate, Omeprazole, Cephalexin, Megestrol, Docusate Sodium, Senna, Bisacodyl, Enoxaparin, Oxycodone-Acetaminophen, Polyethylene Glycol, Warfarin, Lorazepam, Nifedipine.
+
+**Discharge Disposition:**
+- Extended Care Facility.
+
+**Discharge Diagnosis:**
+- Left femur fracture with lytic lesion concerning for bony metastases.
+- UTI.
+
+**Discharge Condition:**
+- Stable.
+
+**Discharge Instructions:**
+- Follow up with PCP to discuss biopsy results and further oncological treatment. Consult radiation oncologist if needed. Return to ED for fevers, chills, uncontrollable pain, bleeding, or shortness of breath.
+
+**Follow-up Instructions:**
+- [Redacted]

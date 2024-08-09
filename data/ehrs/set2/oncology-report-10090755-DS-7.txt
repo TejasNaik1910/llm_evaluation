@@ -1,0 +1,270 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right pleural effusion
+ 
+Major Surgical or Invasive Procedure:
+___ right chest tube placed
+
+ 
+History of Present Illness:
+In brief, ___ is a ___ year old man w/PMH HBV on 
+tenofovir
+c/b HCC s/p R hepatic lobectomy ___, HTN, and BPH who
+presented on ___ with two weeks of chest pain/tightness and
+subjective fevers with increased sputum production. He was
+admitted to the transplant surgery service. CTA showed large R
+pleural effusion w/associated RML and RLL collapse and pleural
+nodules suggestive of metastatic HCC. IP was consulted and 
+placed
+pigtail catheter. 800cc of serosanguinous fluid was removed and
+fluid studies were consistent with transudative effusion (LDH
+669, cholesterol 66). Cytology returned negative for malignancy
+and cultures are no growth to date. IP is considering
+MT/pleurodesis/TPC for definitive diagnosis and management.  
+
+On surveillance staging imaging ___, patient was found to have
+pleural nodules suspicious for metastases, a new nonocclusive
+filling defect in the suprahepatic IVC which could represent
+thrombus or tumor thrombus, and multiple new small pulmonary
+nodules with mediastinal LAD concerning for metastases.
+
+On evaluation this evening, Mr. ___ is feeing well and is 
+without
+complaint. He states that his pain medication is adequately
+controlling his pain from the chest tube. Denies cough, fever,
+chills, chest pain, shortness of breath. He denies personal or
+family history of blood clots.
+ 
+Past Medical History:
+PMH:  
+ HCC
+ Hepatitis B  
+ HTN  
+ BPH  
+ Diverticulosis  
+ 
+PSH:  
+ cataract surgery  
+ R hepatic lobectomy, diaphragmatic resection for ___
+ 
+Social History:
+___
+Family History:
+Family History: Possible colon cancer in father
+ 
+Physical ___ Physical Exam:
+GENERAL: [x]NAD  [x]A/O x 3  [ ]intubated/sedated [ ]abnormal
+CARDIAC: [x]RRR  [ ]no MRG  [ ]Nl S1S2 [ ]abnormal
+LUNGS: [x] CTA in RUL, diminished/absent breath sounds in RML 
+and
+RLL lung fields. L lung CTA  [x]no respiratory distress  [
+]abnormal
+ABDOMEN: [ ]NBS  [x]soft  [x]Nontender  [ ]appropriately tender 
+[x]nondistended  [ ]no rebound/guarding  [ ]abnormal
+WOUND: [x]CD&I  [x]no erythema/induration  [ ]JP [ ]abnormal
+EXTREMITIES: [x]no CCE  [ ]Pulse  [ ]abnormal
+
+Discharge Physical Exam:
+GENERAL: Primarily ___ speaking. Alert and interactive. In
+no acute distress.
+CARDIAC: Regular rhythm, normal rate. No murmurs/rubs/gallops.
+LUNGS: Decreased breath sounds throughout, absent in RLL
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. Surgical incision in midline 
+and RUQ from hepatic lobectomy 
+EXTREMITIES: No clubbing, cyanosis, or edema. WWP.
+NEUROLOGIC: Face symmetric, moving all extremities 
+spontaneously.
+AOx3
+ 
+Pertinent Results:
+___ Chest CT: 
+
+The previously large right pleural effusion drained by a basal 
+pigtail
+catheter, is much smaller and contains small air collections 
+incidental to
+drain placement.
+ 
+High attenuation pleural nodules are likely metastases, but some 
+could be
+clot.  Image guided transthoracic needle aspiration should be 
+feasible.
+ 
+A nonocclusive filling defect is new or newly apparent in the 
+supra hepatic
+IVC and could be thrombus or tumor thrombus.  Doppler ultrasound 
+evaluation
+could better differentiate these.
+ 
+Small pulmonary nodules are new since ___ and more 
+prominent though small mediastinal lymphadenopathy are likely 
+metastases.
+
+___ CT A/P:
+ 
+1. Moderately-sized nonocclusive filling defect in the 
+suprahepatic inferior
+vena cava approximately at the bifurcation of the middle and 
+left hepatic
+veins. The middle and left hepatic veins are widely patent.
+2. The patient is status post right hepatectomy with expected 
+postsurgical
+changes.
+3. There are no hepatic lesions that meet OPTN 5 criteria for 
+hepatocellular
+carcinoma.
+4. Moderate right pleural effusion with subcutaneous drainage 
+catheter in
+place.
+5. Fusiform dilatation of the right renal artery at the 
+bifurcation in the
+right hilum measuring 2.2 x 1.5 x 1.1 cm.
+
+___ AP radiograph of the chest. 
+  
+COMPARISON:  Chest radiograph ___. 
+  
+IMPRESSION:  
+The right basilar chest tube has been removed. The small to 
+moderate right 
+pleural effusion with locules of air and compressive atelectasis 
+of the right middle lobe and right lower lobe are not 
+significantly changed compared to prior study, allowing for 
+differences in patient's respiratory effort. There is no new 
+consolidation. No pneumothorax is identified. The 
+cardiomediastinal silhouette is stable in appearance. There are 
+no acute osseous abnormalities. 
+
+ 
+Brief Hospital Course:
+Mr ___ was admitted to the Transplant Surgery service on 
+___ with a large right sided pleural effusion. 
+Interventional Pulmonology was consulted and a ___ chest tube 
+was placed, draining 800 of serosanguinous fluid. This was sent 
+for pleural studies. 
+
+Pleural studies revealed a lymphocytic exudative effusion. Upon 
+further review of the CT chest obtained on admission, pleural 
+nodules were noted, concerning for metastasis of hepatocellular 
+carcinoma. An AFP was sent; this was 31, increased from 19 prior 
+to his hepatic lobectomy. Cytology from the pleural fluid did 
+not show any malignant cells.
+
+Nonetheless, given concerns for metastatic disease, a staging CT 
+scan (already previously scheduled as an outpatient) was 
+performed. This demonstrated pleural nodules, again concerning 
+for metastasis, as well as a suprahepatic IVC thrombus (bland). 
+The patient was started on therapeutic Lovenox for this. Given 
+these findings, the patient was therefore transferred to 
+Medicine for further oncologic workup.   Pt had the chest tube 
+removed by IP and continued to have mild right sided chest pain 
+and low grade fevers without any N/V/D or urinary symptoms.  
+Repeat CXR was stable and pt was eager to get home for Christmas 
+with his family.   We spoke at length with patient and family 
+(daughter who is a ___) about our concerns for recurrent 
+cancer.   We also explained the lack of diagnostic certainly and 
+need for close follow up as outlined below.  We emailed his 
+primary oncologist who was able to get him in for follow-up 
+right after ___.  Pt was given teaching and was discharged 
+on lovenox 60mg SubQ BID.  Lovenox was chosen because he will 
+likely need additional procedures with IP in the next ___ weeks 
+and wouldn't want them delayed by the washout time required of a 
+DOAC. 
+
+Follow Up:
+- Interventional pulmonology: Follow up in ___ clinic w/ Dr. ___ 
+in 2 weeks for thoracoscopyand biopsy of pleural nodules
+- Oncologist: Dr. ___ on ___ at 11:30
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. Tamsulosin 0.4 mg PO QHS 
+3. Acetaminophen 325 mg PO Q6H:PRN Pain - Mild 
+4. Aspirin EC 81 mg PO DAILY 
+5. tenofovir disoproxil fumarate 300 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 60 mg SC Q12H 
+RX *enoxaparin 60 mg/0.6 mL 0.6 mL SubQ twice a day Disp #*30 
+Syringe Refills:*0 
+2.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours as needed 
+Disp #*12 Tablet Refills:*0 
+3.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 17g 
+powder(s) by mouth daily Refills:*0 
+4.  Acetaminophen 1000 mg PO Q8H  
+5.  Finasteride 5 mg PO DAILY  
+6.  Tamsulosin 0.4 mg PO QHS  
+7.  tenofovir disoproxil fumarate 300 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pleural effusion
+h/o ___ s/p right hepatic lobectomy
+Pulmonary nodules
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+WHY WERE YOU ADMITTED:
+Chest pains and cough 
+
+WHAT HAPPENED WHEN YOU WERE HERE:
+We discovered that you had fluid around your right lung, which 
+we drained by placing a catheter. We also did a CT scan that 
+showed some
+nodules/masses in your lungs most concerning for spread of 
+cancer, although no diagnosis can be made until the lung doctors 
+___ the ___, which they are planning on doing in a few 
+weeks.  We have scheduled you an appointment with your 
+oncologist on ___ and the  lung doctors ___ to 
+schedule an appointment very soon.  You were also noted to have 
+a small dilation in the artery going to your kidneys, we 
+recommend that you follow up with vascular surgery in the next 
+few months.  (you can contact their office at ___
+
+WHAT SHOULD YOU DO WHEN YOU GO HOME:
+- You should take your medications as prescribed. 
+- You will inject 60mg enoxaparin under the skin twice daily 
+- We will also give you some oxycodone for the chest pain you 
+are having
+
+REASONS TO COME BACK TO THE HOSPITAL:
+Please come back to the hospital if you experience worsening 
+chest pain, shortness of breath, fevers, chills, confusion, or 
+any other concerning symptoms.
+
+It was a pleasure meeting you and providing care for you during 
+your hospital stay.
+
+Sincerely,
+Your ___ Healthcare Team 
+ 
+Followup Instructions:
+___

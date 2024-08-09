@@ -1,0 +1,60 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 47-year-old male
+* Admitted to the neurosurgery unit for a planned right craniotomy for resection of a dural lesion
+
+**Chief Complaint:**
+
+* Visual disturbances, facial and left upper extremity paresthesias, and headache
+
+**History of Present Illness:**
+
+* Presented to the hospital with acute onset of left-side homonymous scotoma, paresthesias in the upper left extremity and face, and associated headache
+* Symptoms gradually improved and resolved
+* Imaging revealed a dural lesion
+
+**Past Medical History:**
+
+* Hypertension
+* Dyslipidemia
+
+**Surgical Intervention:**
+
+* Right craniotomy for resection of dural lesion
+* Postoperative NCHCT showed stable and expected post-surgical changes
+* Postoperative MRI showed no residual tumor
+
+**Medications:**
+
+* Acetaminophen-Caff-Butalbital for headache
+* Acetaminophen for pain and fever
+* Docusate Sodium for bowel regularity
+* Fludrocortisone Acetate for hyponatremia
+* OxyCODONE for moderate pain
+* Sodium Chloride for hyponatremia
+* Hydrochlorothiazide, Lisinopril, and Simvastatin for hypertension and dyslipidemia
+
+**Discharge Diagnosis:**
+
+* Dural lesion
+
+**Discharge Condition:**
+
+* Mental status: clear and coherent
+* Level of consciousness: alert and interactive
+* Activity status: ambulatory and independent
+
+**Discharge Instructions:**
+
+* Keep incision dry and clean
+* Avoid heavy lifting, running, climbing, or strenuous exercise
+* No driving while taking narcotic or sedating medication
+* No contact sports until cleared by neurosurgeon
+* Follow medication instructions and avoid blood thinning medications until cleared by neurosurgeon
+
+**Follow-up Instructions:**
+
+* Follow-up appointment with neurosurgeon
+* Call doctor for severe pain, swelling, redness, or drainage from incision site, fever, nausea, vomiting, extreme sleepiness, or severe headaches.

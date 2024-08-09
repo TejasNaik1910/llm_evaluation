@@ -1,0 +1,55 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* 51-year-old female patient
+* Admitted to the hospital with biliary obstruction and cholangitis
+* Has a history of cholangiocarcinoma, hypertension, atrial fibrillation, mitral valve prolapse, and osteoarthritis of the right hip
+
+**Chief Complaint:**
+
+* Biliary obstruction
+
+**Medical History:**
+
+* Cholangiocarcinoma (unresectable) with palliative chemotherapy and radiation therapy
+* Atrial fibrillation with pacemaker placement
+* Hypertension
+* Mitral valve prolapse
+* Osteoarthritis of the right hip
+
+**Current Admission:**
+
+* Admitted to the hospital with fever, atrial fibrillation, and rising liver function tests (LFTs)
+* Found to have enterococcus and E. coli bacteremia
+* Started on antibiotics (vancomycin and zosyn) and had a transesophageal echocardiogram (TEE) to rule out endocarditis
+* Had a CT abdomen/pelvis scan, which showed mild intrahepatic ductal dilation and pneumobilia
+* Underwent ERCP and PTBD procedures to drain the bile ducts
+* Had a repeat cholangiogram, which showed patent stents
+
+**Medications:**
+
+* Discharged on medications including cyanocobalamin, folic acid, digoxin, metoprolol, docusate sodium, fluconazole, senna, simethicone, and warfarin
+
+**Discharge Disposition:**
+
+* Discharged home with services
+
+**Discharge Diagnosis:**
+
+* Cholangitis
+* E. coli and enterococcal septicemia
+* Cholangiocarcinoma
+
+**Discharge Condition:**
+
+* Mental status: Confused at times
+* Level of consciousness: Alert and interactive
+* Activity status: Ambulatory with assistance (walker or cane)
+
+**Discharge Instructions:**
+
+* Resume coumadin in the evening
+* Follow instructions for bile drain care and management
+* Follow up with oncologist in 2 weeks
+* Call oncologist or ANGIO fellow on call if experiencing fever, increased yellowing of skin, chills, shakes, or worsened abdominal pain.

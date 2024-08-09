@@ -1,0 +1,69 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: [Not provided]
+* Age: [Not provided]
+* Sex: Female
+* Admitted: [Not provided]
+* Discharged: [Not provided]
+
+**Chief Complaint:**
+
+* Abdominal distention
+
+**Medical History:**
+
+* No significant past medical history
+* 15-pound weight loss over the past year
+* Fibroid 5cm on ultrasound in [Not provided]
+* No history of abnormal Pap smears
+
+**Physical Exam:**
+
+* Abdomen: Softly distended, nontender, no rebound or guarding
+* Pelvic exam: Large pelvic mass palpated, nontender
+* Rectovaginal exam: No nodularity, large pelvic mass palpated
+
+**Diagnostic Tests:**
+
+* CT A/P: 12cm cystic and solid pelvic soft tissue mass likely representing ovarian malignancy, malignant ascites, and peritoneal carcinomatosis
+* CT chest: 0.9cm supradiaphragmatic lymph nodes, concerning for possible metastatic involvement
+* Tumor markers: Elevated CA-125 of 522 and CEA level of 0.6
+* Paracentesis: 2L of clear, straw-colored fluid
+
+**Surgical Interventions:**
+
+* Diagnostic laparoscopy, explorative laparotomy, total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy, appendectomy, left pelvic lymphadenectomy, pelvic peritonectomy, oversew of bowel serosa, and cystoscopy
+
+**Medications:**
+
+* Acetaminophen 500mg PO Q6H:PRN for pain
+* Docusate sodium 100mg PO BID for constipation
+* Enoxaparin sodium 40mg SC daily for prophylactic anticoagulation
+* Ondansetron ODT 4mg PO Q8H:PRN for nausea
+* Oxycodone (immediate release) 5mg PO Q4H:PRN for pain
+* Loratadine 10mg PO daily
+
+**Discharge Diagnosis:**
+
+* Partial small bowel obstruction
+* Pelvic mass and carcinomatosis
+* Left tuboovarian abscess
+
+**Discharge Condition:**
+
+* Mental status: Clear and coherent
+* Level of consciousness: Alert and interactive
+* Activity status: Ambulatory - Independent
+
+**Discharge Instructions:**
+
+* Follow medication regimen
+* Take stool softener to prevent constipation
+* No strenuous activity until post-op appointment
+* No heavy lifting of objects >10 lbs for 6 weeks
+* No driving while taking narcotics
+* No combining narcotic and sedative medications or alcohol
+* Follow incision care instructions
+* Follow-up with doctor for any concerning symptoms or issues

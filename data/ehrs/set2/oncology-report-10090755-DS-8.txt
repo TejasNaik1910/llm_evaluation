@@ -1,0 +1,507 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+___ - ___ pleural drain
+___ - IP bedside chest tube placement
+VATs/Decortication/Pulmonary Nodule Biopsy 
+Bronchoscopy
+
+ 
+History of Present Illness:
+HPI: The patient is a ___ male w/PMHx including hepatitis B (on
+tenofovir) complicated by hepatocellular carcinoma, and a 6mm
+solid right lower lobe nodule lung, s/p right hepatic lobectomy
+(at which time it was found the tumor infiltrated the
+diaphragmatic muscle, but did not extend to the inked margin of
+the diaphragm), who was admitted ___ with right-sided
+pleural effusion and negative cytology.  Now presenting with
+subjective fevers, shortness of breath, and tachycardia.
+
+The patient started to have subjective fevers ~1mth ago, and 
+then
+1.5 weeks ago (around the time of his ___ admission), started
+to have low-grade temperatures, for which he began to take
+standing acetaminophen.  During the patient's ___
+admission to the transplant surgery service, he had quite a few
+temps in the ___, up to 100.6 at most (on ___.  During that
+admission he was found to have a large right pleural effusion,
+interventional pulmonology placed a chest tube, which drained 
+800
+cc of serosanguineous fluid.  Pleural fluid studies revealed a
+lymphocytic exudative effusion, and CT imaging showed pleural
+nodules, all concerning for metastases of HCC.  AFP was recent,
+and had increased from 19 prior to his hepatic lobectomy to now
+31.  However, cytology was negative.  Given concerns for
+metastatic disease, a staging CT was performed, and in addition
+to the pleural nodules, this showed a supra-hepatic IVC 
+thrombus,
+for which the patient was started on enoxaparin and transferred
+to medicine.  He was then scheduled to follow-up in the
+interventional pulmonology clinic for a thoracoscopy and biopsy
+of the pleural nodules and with his oncologist today, ___.
+
+When he was seen by his oncologist today (Dr. ___, through an interpreter, with his wife and daughter
+present, he reported fever on a daily basis taking acetaminophen
+every 6 hours, with temperatures as high as 100.6.  He also 
+noted
+sweats, reportedly profuse, no chills.  He noted chest 
+discomfort
+in the right side and mild and intermittent cough but no
+shortness of breath.  He was found to be tachycardic, heart rate
+122, with an O2 saturation of 94%, and respirations of 16,
+temperature 99.3.  Labs showed a white count of 13.1 and chest
+x-ray imaging showed "Substantial residual right pleural
+effusion, probably loculated, containing small collections of
+gas, right posterior and lower lateral hemithorax, extending 
+into
+the major fissure.  Persistent severe right basal atelectasis."
+
+He was then referred to the ED: There he spiked a fever to 
+101.8,
+with associated tachycardia 130s, and was found to have 
+tachypnea
+___, satting 96% on 2 L, his heart rate improved to 107.  His
+labs showed flu swab negative, blood culture was collected, ECG
+showed sinus tachycardia with left anterior fascicular block.  
+He
+was given acetaminophen, piperacillin-tazobactam and vancomycin. 
+
+He was also seen by interventional pulmonary who recommended ___
+consultation for CT-guided chest tube placement.  OMED declined
+admission, deferring to Medicine.
+
+Seen on the floor: through an interpreter on speaker phone we
+discussed his situation.  He felt ok, noted a bit of bilateral
+chest discomfort, stable from prior, but denied shortness of
+breath or cough.  He understood the plan to remove fluid from 
+the
+chest tomorrow, and to have him be NPO, get IVF, IV antibiotics,
+and lab studies on the fluid.  He asked me to speak with his
+daughter-in-law or son who would then distill the details of his
+care and interpret them for him.  I then spoke with ___, 
+his
+dtr-in-law and reviewed the above history and the plan of care.
+
+ROS: [x] As per above HPI, otherwise reviewed and negative in 
+all
+systems
+
+ 
+Past Medical History:
+PMHx:
+#Hepatitis B on tenofovir
+#HCC s/p R hepatic lobectomy, with concerns for metastases to
+chest (pleural nodules, mediastinal lymphadenopathy, recurrent R
+sided pleural effusion)
+#Supra-hepatic IVC thrombus, on enoxaparin
+#HTN
+#DM
+#BPH
+#Anxiety
+#Constipation
+#Diverticulosis
+#Osteopenia
+
+PSHx:
+#Cataract surgery ___ and ___
+ 
+Social History:
+___
+Family History:
+? colon cancer in father
+ 
+Physical ___:
+ADMISSION
+VS: T 99.0, BP 142/87, HR 108, RR 20, O2 sat 98% on 2L NC, FSBG
+152
+Lines/tubes: PIV
+Gen: older man lying in bed, alert, cooperative, NAD
+HEENT: anicteric, MMM
+Chest: equal chest rise, limited air movement bilaterally ___
+effort), but with a few inspiratory crackles on the R in the mid
+and lower lung zones, no other adventitial sounds
+Cardiovasc: RRR, slightly tachyc, no m/r/g
+Abd: well healed R subcostal scar, injection sites consistent
+with enoxaparin usage, soft, mild TTP in the RUQ, otherwise NTND
+GU: no CVAT
+Extr: WWP, no pitting edema
+Skin: no significant rashes on limited exam
+Neuro: CN II-XII intact (IX and X not specifically tested),
+strength ___ throughout, sensation to light touch intact
+throughout, reflexes symmetric
+Psych: normal affect
+
+DISCHARGE
+24hr data:
+Temp: 97.9 (Tm 98.9), BP: 138/83 (102-138/51-83), HR: 84
+(84-104), RR: 18, O2 sat: 98% (97-99), O2 delivery: Ra 
+Gen: No distress, pleasant and conversant
+HEENT:MMM, No visible blood at nares/oropharynx
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: decreased breath sounds at right base and ___ up the 
+right posterior lung fields, otherwise clear to auscultation.  
+no increased work of breathing
+CHEST: all chest tubes removed, dressing in place with minimal
+sanguinous drainage. No erythema, warmth surrounding dressing. 
+ABDOMEN: no distension. RUQ surgical site from prior hepatic 
+lobectomy well-healed. tenderness to palpation in RUQ without 
+guarding 
+EXTREMITIES: 2+ radial pulses.
+SKIN: Warm and well perfused. No rash.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 01:02PM BLOOD WBC-13.1* RBC-3.77* Hgb-10.8* Hct-34.8* 
+MCV-92 MCH-28.6 MCHC-31.0* RDW-14.2 RDWSD-48.3* Plt ___
+___ 01:02PM BLOOD UreaN-8 Creat-0.7 Na-136 K-4.1 Cl-98 
+HCO3-27 AnGap-11
+___ 02:43PM BLOOD ___ PTT-25.5 ___
+
+DISCHARGE LABS:
+==============
+___ 06:28AM BLOOD WBC-7.8 RBC-2.88* Hgb-8.4* Hct-27.4* 
+MCV-95 MCH-29.2 MCHC-30.7* RDW-15.1 RDWSD-51.8* Plt ___
+___ 06:28AM BLOOD ___ PTT-34.3 ___
+___ 06:28AM BLOOD Glucose-116* UreaN-11 Creat-1.0 Na-137 
+K-4.1 Cl-102 HCO3-25 AnGap-10
+___ 06:28AM BLOOD ALT-15 AST-25 LD(LDH)-209 AlkPhos-116 
+TotBili-0.3
+___ 06:28AM BLOOD Calcium-8.5 Phos-2.8 Mg-2.3
+
+CXR ___
+Compared to chest radiographs since ___ most recently 
+___. Substantial residual right pleural 
+effusion, probably loculated, containing small collections of 
+gas, right posterior and lower lateral hemithorax, extending 
+into the major fissure.  Persistent severe right basal 
+atelectasis. 
+Left lung clear.  Heart size normal. 
+
+CT CHEST W/O CONTRAST ___
+Again redemonstrated is a complex right small to moderate 
+pleural effusion 
+with multiple locules of gas. The overall volume of the pleural 
+effusion has decreased in comparison to the prior examination, 
+however, hyperattenuating areas appear to be slightly larger.  
+Given the 8 day interval between the two CT examinations and the 
+increase in size it is favored that these represent areas of 
+hemothorax and blood clot (also given reported prior negative 
+cytology results).  PET/CT could be of value after acute 
+symptoms have resolved to evaluate for the degree of possible 
+metastatic disease. Stable small pulmonary nodules, suspicious 
+for metastatic disease. 
+
+CT INTERVENTIONAL PROCE ___
+Successful CT-guided placement of ___ pigtail catheter into 
+the 
+collection. Samples was sent for microbiology evaluation. 
+
+CT CHEST - ___
+IMPRESSION:
+1. Slight increase in size of moderate right loculated pleural 
+effusion
+containing high-density material suggestive of blood products, 
+and foci of
+air.
+2. Additional small hydropneumothorax along the right upper lobe 
+is new from
+prior CT.  Status post chest tube removal.
+3. Small simple left pleural effusion.
+4. Unchanged 6 mm right upper lobe nodule and 9 mm left upper 
+lobe nodule,
+indeterminate.
+5. New visualization of small sub segmental pulmonary embolism 
+of the right
+upper lobe.
+
+PATHOLOGY: 
+==========
+Pleural Fluid: 
+DIAGNOSIS:
+PLEURAL FLUID, RIGHT:
+NEGATIVE FOR MALIGNANT CELLS.
+Many red blood cells, neutrophils, lymphocytes, and rare 
+mesothelial cells. 
+
+Pleura Biopsy/Excision: 
+PATHOLOGIC DIAGNOSIS:
+1. Exudate, right hemothorax, decortication:
+- METASTATIC HEPATOCELLULAR CARCINOMA, present in a background 
+of fibrin and organizing blood clot.
+2. Nodule, right pleura, excision:
+- METASTATIC HEPATOCELLULAR CARCINOMA, present in a background 
+of fibrin and organizing blood clot.
+3. Right pleura, decortication:
+- Pleural tissue with METASTATIC HEPATOCELLULAR CARCINOMA, 
+present in a background of fibrin and organizing blood clot.
+Note: The tumor cells in these specimens are morphology similar 
+to those present in the prior liver resection ___, 
+reviewed). 
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+===================
+___ h/o HepB on tenofovir, ___ s/p recent R hepatic lobectomy 
+with cholecystectomy and partial excision and repair of right 
+hemidiaphragm, with recent readmission for R sided exudative 
+pleural effusion of unclear etiology, also found to have 
+pulmonary nodules and a supra-hepatic IVC thrombus prompting 
+initiation of lovenox, readmitted ___ with sepsis and 
+empyema, requiring operative management with course complicated 
+by pulmonary abscess, hemoptysis and ___.
+
+# Acute hypoxic respiratory failure 
+# Sepsis
+# Empyema 
+# RLL abscess
+Patient with recent admission for pleural effusion of unclear 
+etiology, status post drainage readmitted with fevers and 
+dyspnea, imaging showing complex effusion, with fluid studies 
+consistent with empyema. Patient started on broad spectrum 
+antibiotics, had pleural drain placed by ___ with minimal 
+sanguinous drainage, followed by chest tube placed by IP also 
+with minimal sanguinous drainage. During this time patient had 
+minimal clinical improvement, remained with loculated effusion 
+and ongoing fevers. Patient was seen by ID consult service and 
+thoracic surgery consult service who recommended surgical 
+management. Patient transferred to thoracic surgery service when 
+he underwent RLL VATS/decortication/pulmonary nodule biopsy. His 
+surgery was complicated by transient hypotension and blood loss 
+for which he received albumin and blood products respectively; 
+he was subsequently transferred to the medicine service. While 
+on the medicine service, pleural tissue pathology resulted and 
+was consistent with metastatic hepatocellular carcinoma. Pleural 
+fluid was without malignant cells. However, it was thought that 
+the patient's pleural effusion was most likely malignant in 
+nature. Placement of a PleurX was discussed with thoracic 
+surgery given concern for recurrent pleural effusions, but 
+deemed unnecessary, given that the decortication procedure 
+performed during the patient's hospitalization was akin to a 
+mechanical pleurodesis. The patient was maintained on vancomycin 
+and zosyn for the majority of his hospitalization excepting a 2 
+day interruption in antibiotics which was accompanied by 
+recurrent leukoctysis. Vancomycin was discontinued on ___ 
+after MRSA swab resulted negative. Patient was transitioned to 
+augmentin (D1: ___, with plan for ___ week course in the 
+setting of concern for RLL parenchymal abscess raised by 
+Interventional Pulmonology after re-review of patient's CT chest 
+and bronchoscopy. Patient was discharged on augmentin with plan 
+for follow up with Interventional Pulmonology as outpatient for 
+monitoring of possible abscess.
+
+#Hemoptysis
+#Epistaxis
+#Bleeding around chest tube
+Hospital course was complicated by low volume hemoptysis in the 
+setting of recent heparin administration which persisted for 
+several days. Thoracic surgery was consulted and recommended 
+Interventional Pulmonology involvement. Interventional 
+pulmonology recommended CT chest, which did not reveal etiology. 
+IP also recommended bronchoscopy which indicated that the RLL 
+was the source of bleed. Per IP, no acute intervention was 
+warranted. On re-review of chest CT, IP was concerned for 
+intraparenchymal abscess. In line with IP recommendations, we 
+proceeded with antibiotic treatment as above, with patient 
+discharged on ___ week course of augmentin with planned follow 
+up with IP. Heparin gtt was reinitiated after bronchoscopy and 
+tolerated well with patient transitioned to lovenox prior to 
+discharge. 
+
+___
+Patient with baseline Cr ~0.7, increased to max 1.4 in the 
+setting of blood loss, poor PO intake, nephrotoxic antibiotic 
+regimen. Blood products and fluids were given as needed with 
+mild improvement in creatinine. Urine lytes obtained near the 
+end of ___ hospital course were consistent with intrarenal 
+etiology, with improvement in creatinine after removing 
+vancomycin and zosyn from patient's medication regimen. Patient 
+was discharged with creatinine of 1.0 with plan for outpatient 
+BMP.
+
+#TB rule out
+ID with concern that pulmonary nodules seen on patient's CT 
+chest could represent TB. As such patient underwent TB rule out. 
+Respiratory precautions were put in place. Acid fast 
+smear/culture from induced sputum was negative x3 and 
+respiratory precautions were lifted. Pulmonary nodules were 
+biopsied and found to be consistent with metastatic 
+hepatocellular carcinoma.
+
+# Chronic IVC thrombus
+Diagnosed during previous admission in ___, concerning for 
+possible tumor thrombus. Was treated with lovenox, bridged with 
+IV heparin periprocedurally. Reinitiated heparin gtt on ___ in 
+s/o stable CBC which was held intermittently with concern for 
+new onset hemoptysis. After bronchoscopy performed as above, 
+heparin was reinitiated at weigh- based protocol. Patient was 
+transitioned to lovenox without adverse event. 
+
+# Pulmonary nodules 
+# Hepatocellular Carcinoma 
+Patient has known pleural nodules suspicious for metatatic HCC 
+disease. Now pathology confirmed. See above.  
+
+#Nutrition
+Patient has minimal appetite in the setting of metastatic 
+disease. No associated nausea/vomiting. His meals supplements 
+were supplemented with Glucerna shakes. Patient was initiated on 
+mirtazapine to assist with appetite. 
+
+# Chronic Hepatitis B
+Continued home tenofovir
+
+# Hepatocellular Carcinoma 
+Continued prn oxycodone
+
+# Diabetes type 2
+Continued insulin sliding scale 
+
+# BPH
+Continued Finasteride, Tamsulosin 
+
+TRANSITIONAL ISSUES
+====================
+[] Patient with hospital course complicated by ___ thought to be 
+of mixed etiology (prerenal/intrarenal). Improved creatinine on 
+discharge but not back to baseline of 0.7. Please obtain BMP as 
+outpatient to monitor and ensure continued improvement.
+[] Patient with likely intraparenchymal abscess. Plan for 
+outpatient follow up with IP, Dr. ___. Patient should have CT 
+scan within ___ weeks for monitoring of abscess (to be scheduled 
+by IP). If no response to prolonged antibiotic course, will 
+likely need surgical intervention.
+[] Patient should continue with 6 week course of Augmentin (Day 
+1: ___ - ___
+[] Patient with metastatic hepatocellular carcinoma. Will need 
+close follow up with outpatient oncologist for treatment 
+planning.
+[] Patient with decreased appetite and poor PO intake throughout 
+hospitalization. Primary oncologist should monitor nutrition as 
+outpatient.
+[] Patient has had elevated fasting blood glucose this 
+hospitalization but has required <1u Novolog per day. Please 
+evaluate for outpatient management of likely DM with oral 
+medications.
+
+#CODE: Full
+#CONTACT: ___ (daughter-in-law) ___
+___ (son) ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. Tamsulosin 0.4 mg PO QHS 
+3. tenofovir disoproxil fumarate 300 mg oral DAILY 
+4. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+5. Polyethylene Glycol 17 g PO DAILY 
+6. Acetaminophen 1000 mg PO Q8H 
+7. Enoxaparin Sodium 60 mg SC Q12H 
+Start: ___, First Dose: ___ 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth twice a day Disp #*80 Tablet Refills:*0 
+2.  Mirtazapine 7.5 mg PO QHS 
+RX *mirtazapine 7.5 mg 1 tablet(s) by mouth every night Disp 
+#*30 Tablet Refills:*0 
+3.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals [Vitamins and Minerals]  1 
+tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 
+4.  Acetaminophen 1000 mg PO Q8H  
+5.  Enoxaparin Sodium 60 mg SC Q12H 
+RX *enoxaparin 60 mg/0.6 mL 60 mg SC every 12 hours Disp #*60 
+Syringe Refills:*0 
+6.  Finasteride 5 mg PO DAILY  
+7.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+8.  Polyethylene Glycol 17 g PO DAILY  
+9.  Tamsulosin 0.4 mg PO QHS  
+10.  tenofovir disoproxil fumarate 300 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES: 
+=================
+METASTATIC HCC
+IVC THROMBUS
+PULMONARY ABSCESS
+EMPYEMA
+MALIGNANT PLEURAL EFFUSION
+HEMOPTYSIS
+
+SECONDARY DIAGNOSES: 
+===================
+HEPATITIS B
+ELEVATED FASTING GLUCOSE
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You came to the hospital because you had an infection in your 
+lungs.
+
+What did you receive in the hospital?
+- In the hospital, our thoracic surgeons performed a procedure 
+to allow your lungs to better expand and minimize the risk of 
+fluid accumulation in the lungs.
+- You also received antibiotics to treat a pulmonary abscess (an 
+area of infection). You were discharged on these antibiotics as 
+this type of infection requires a long course of treatment.
+- You were started on a medication to increase your appetite as 
+our nutritionists feel you would greatly benefit from more food 
+intake. 
+- You were reinitiated on your anticoagulation therapy (blood 
+thinners) which you are on for your increased risk of blood 
+clots. You currently have blood clots in one of your large blood 
+vessels and in your lungs. The anticoagulation therapy should 
+stabalize these clots.
+
+What should you do once you leave the hospital?
+- Make sure to continue to take your medications as prescribed 
+and follow up with your outpatient providers.
+- If you develop any fevers, lethargy, shortness of breath, 
+please go to the emergency room immediately
+
+We wish you all the best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,42 @@
+Here is a summary of the clinical note with the essential information:
+
+**Cancer Type and Morphology:**
+The patient has a history of hepatocellular carcinoma (HCC) and colon cancer. The recent CT scans revealed new metastatic lesions in the liver, lungs, and thyroid, with a morphology consistent with colorectal metastases.
+
+**Cancer Stage and Progression:**
+The patient's cancer has progressed, with new metastatic lesions detected on imaging.
+
+**TNM Staging:**
+Not explicitly stated in the note.
+
+**Prescribed Medications:**
+
+* Enoxaparin Sodium (lovenox) for pulmonary embolism
+* Polyethylene Glycol (Miralax) for bowel obstruction
+* Senna for bowel obstruction
+* Albuterol Inhaler for shortness of breath
+* Omeprazole for gastroesophageal reflux disease (GERD)
+* Tenofovir Disoproxil (Viread) for hepatitis B treatment
+
+**Diagnostic Tests Conducted:**
+
+* CT scans (abdomen, chest, and head)
+* PET scan
+* Colonoscopy
+* Blood tests (complete blood count, liver function tests, etc.)
+
+**Surgical Interventions Performed:**
+
+* Liver resection for HCC
+* Radiofrequency ablation (RFA) for HCC
+* Sigmoid colectomy for colon cancer
+* Guided lung biopsy
+
+**Patient's Response to Treatment:**
+The patient's obstructive bowel symptoms improved after the colonoscopy. The patient is stable for discharge with oncology follow-up.
+
+**Other Relevant Information:**
+
+* The patient has a history of hepatitis B and C, and possible alcoholic cirrhosis.
+* The patient has a pulmonary embolism and is on anticoagulation therapy.
+* The patient's liver function tests are abnormal, indicating liver injury.

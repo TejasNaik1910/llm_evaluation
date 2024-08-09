@@ -1,0 +1,93 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Aspirin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Hypotension and lethargy following radiofrequency ablation (RFA).
+
+**Major Surgical or Invasive Procedures:**
+- Radiofrequency ablation (RFA)
+- Chest tube placement
+- Diagnostic paracentesis
+
+**History of Present Illness:**
+- The patient is a [Redacted] year old man with a history of alcohol (EtOH) and hepatitis C virus (HCV) cirrhosis, complicated by ascites and prior variceal bleeds. Recent MRI showed two lesions suspicious for hepatocellular carcinoma (HCC). He was admitted post-RFA with lethargy and hypotension. Post-procedure, he was given Dilaudid, Phenergan, Zofran, and Toradol. Despite plans to discharge him with Percocet, he remained lethargic and hypotensive, responsive to IV fluid boluses. Hematocrit levels dropped slightly post-procedure.
+
+**Past Medical History:**
+- HCV, genotype I
+- EtOH and HCV cirrhosis
+- Hepatocellular carcinoma (HCC)
+- Hypertension (HTN)
+- Past syphilis infection, treated, negative RPR
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- No family history of liver disease or colon cancer. Mother has arthritis, father had diabetes, and sister has diabetes.
+
+**Physical Exam:**
+- **Admission:** Drowsy but conversant, no distress, distended abdomen with minimal tenderness, no significant edema, and stable vital signs.
+- **Discharge:** Alert, conversant, ambulating independently, distended abdomen with ascites, tender in the right upper quadrant (RUQ).
+
+**Pertinent Results:**
+- **Admission Labs:** Mild anemia, thrombocytopenia, elevated liver enzymes, and bilirubin.
+- **Pertinent Studies:**
+  - Liver biopsy confirmed well-to-moderately differentiated HCC with cirrhosis.
+  - CT abdomen showed a large right-sided hemothorax and expected ablation zone appearance.
+  - CXR showed large right pleural effusion, improved with chest tube placement.
+- **Discharge Labs:** Improved liver enzymes, stable hematocrit, and no signs of infection in cultures.
+
+**Brief Hospital Course:**
+- **Acute Care:**
+  - **Hemothorax:** Managed with chest tube placement, draining 2 liters of bloody fluid, with no recurrence on discharge.
+  - **Post-RFA:** Initially hypotensive and dizzy, managed with PCA and later transitioned to oral oxycodone. Nadolol was re-started.
+  - **Intermittent Fevers:** Likely due to post-procedure inflammation and atelectasis, with no signs of infection in cultures.
+- **Chronic Care:**
+  - Compensated cirrhosis managed with nadolol for variceal bleed prophylaxis.
+  - HCC: Post-op course involved hemothorax and fevers. Chemo-embolization required for a second HCC focus.
+
+**Medications on Admission:**
+- Nadolol 20mg PO daily
+- Omeprazole 40mg PO daily
+- Ferrous sulfate 325mg PO daily
+
+**Discharge Medications:**
+1. Nadolol 20 mg PO daily
+2. Omeprazole 20 mg PO daily
+3. Ferrous sulfate 325 mg PO daily
+4. Benzonatate 100 mg PO TID as needed for cough
+5. Spironolactone 25 mg PO daily
+6. Furosemide 20 mg PO daily
+7. Oxycodone 5 mg PO Q4H as needed for pain
+8. Docusate sodium 100 mg PO BID as needed for constipation
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Hepatitis C cirrhosis
+- Hepatocellular carcinoma
+- Hemothorax
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Start new medications as listed.
+- Continue all other medications as previously prescribed.
+- Keep all follow-up appointments.
+
+**Follow-up Instructions:**
+- [Redacted]

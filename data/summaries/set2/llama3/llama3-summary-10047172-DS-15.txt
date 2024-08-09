@@ -1,0 +1,69 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not specified
+* Age: Not specified
+* Sex: Male
+* Date of Birth: Not specified
+* Unit No: Not specified
+* Admission Date: Not specified
+* Discharge Date: Not specified
+
+**Chief Complaint:**
+
+* Fever
+
+**Medical History:**
+
+* Pancreatic adenocarcinoma metastatic to the liver
+* Type 2 diabetes mellitus
+* Hypertension
+* Hyperlipidemia
+* Left hip replacement
+* Heart murmur
+* Nose fracture
+* Kidney lesion (2.4cm hemorrhagic cyst)
+
+**Cancer History:**
+
+* Diagnosed with pancreatic adenocarcinoma metastatic to the liver in [year not specified]
+* Treated with FOLFIRINOX, gemcitabine/Abraxane, and modified FOLFIRINOX
+* Evidence of progression on MRI scans
+
+**Current Admission:**
+
+* Admitted for fever, non-bilious emesis, and acute urinary retention
+* Found to have biliary obstruction and bacteremia (Klebsiella and enterococcus)
+* Underwent ERCP with stent placement and removal of plastic stent
+* Started on zosyn antibiotics for 14-day course
+* Discharged with home IV antibiotics and follow-up appointments
+
+**Medications:**
+
+* Amlodipine
+* Metformin
+* Tamsulosin
+* Duloxetine
+* Creon
+* Lorazepam
+* Methylphenidate (Ritalin)
+* Pyridoxine
+* Glargine
+* Lisinopril
+* Piperacillin-tazobactam (zosyn)
+
+**Lab Results:**
+
+* Elevated liver function tests (LFTs)
+* Elevated CEA and CA 19-9
+* Low sodium levels
+* Elevated lactate levels
+* Abnormal complete blood count (CBC)
+
+**Imaging Results:**
+
+* MRI: Progression of disease with increasing size of liver metastases
+* CT scan: Interval increase in size of liver metastases
+* ERCP: Distal migration of metal stent in CBD, significant debris surrounding and within the lumen of the stent
+* RUQ ultrasound: Mild peripheral biliary ductal dilation, numerous hepatic metastases, and mild splenomegaly

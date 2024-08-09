@@ -1,0 +1,73 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Leaking from previous left percutaneous nephrostomy (PCN) site.
+
+**Major Surgical or Invasive Procedures:**
+- Paracentesis
+- Left percutaneous nephrostomy tract embolization and nephrostomy tube placement
+
+**History of Present Illness:**
+- The patient has advanced prostate cancer metastatic to the liver with peritoneal carcinomatosis. He presented with a leaking left surgical wound from a previously placed PCN for malignant ureter obstruction. The PCN was removed, but the site continued to leak, causing pain and requiring frequent dressing changes. He also reported increased abdominal girth and decreased urine output.
+
+**Past Medical History:**
+- Radical prostatectomy
+- Hypertension (HTN)
+- Dyslipidemia (DL)
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Negative for prostate cancer
+
+**Physical Exam:**
+- **Admission Exam:** Vital signs stable, no acute distress, clear lungs, soft abdomen with palpable subcutaneous nodules, clear fluid leaking from left posterior thorax.
+- **Discharge Exam:** Cachectic male, stable vital signs, diminished breath sounds at right base, no abdominal masses, mild tenderness at PCN site, no evidence of leaking.
+
+**Pertinent Results:**
+- **Admission Labs:** Elevated PSA (2371), anemia (HGB 8.4), elevated liver enzymes (AST 75, ALK PHOS 428).
+- **Microbiology:** Peritoneal fluid positive for malignant cells, no growth in cultures.
+- **Imaging:** Bilateral obstructing renal stones, moderate ascites, multiple liver masses.
+- **Procedures:** Successful paracentesis (3.5L fluid removed), nephrostomy tube placement, and tract embolization.
+
+**Brief Hospital Course:**
+- **Advanced Prostate Cancer:** Metastatic to liver and peritoneum. Terminal condition with poor prognosis. Received cabazitaxel chemotherapy.
+- **Leaking PCN Site:** Previous PCN tract embolized, new PCN tube placed. Significant pain managed with oxycontin.
+- **Malignant Ascites:** Managed with paracentesis and symptomatic treatment for nausea/vomiting.
+- **Anemia:** Normocytic, likely due to chronic inflammation. Managed with blood transfusion.
+- **DVT:** Continued on aspirin due to gastrointestinal bleeding risk.
+- **Hypertension:** Managed with amlodipine, discontinued lisinopril.
+
+**Medications on Admission:**
+- HYDROmorphone, Atorvastatin, Lupron Depot, Lisinopril, Ondansetron, Prochlorperazine
+
+**Discharge Medications:**
+- amLODIPine, Docusate Sodium, OxyCODONE (Immediate Release), OxyCODONE SR (OxyconTIN), Senna, Atorvastatin, Lupron Depot, Ondansetron, Prochlorperazine
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- **Primary Diagnoses:** Malignant ascites secondary to metastatic prostate cancer, malignant ureteral obstruction causing bilateral hydroureter and hydronephrosis.
+- **Secondary Diagnoses:** Anemia, deep vein thrombosis, metastatic prostate cancer, hypertension.
+
+**Discharge Instructions:**
+- Follow-up for blood work to check kidney function.
+- Visit clinic for Neulasta patch placement.
+- Continue pain management with oxycontin and oxycodone.
+- Follow-up with oncologist for further pain management and nephrostomy tube care.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,229 @@
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+lymphoma
+ 
+Major Surgical or Invasive Procedure:
+___: Successful placement of a double lumen chest power 
+Port-a-cath via the right internal jugular venous approach. 
+ 
+History of Present Illness:
+=============================================================  
+ONCOLOGY HOSPITALIST ADMISSION NOTE ___
+=============================================================  
+PRIMARY ONCOLOGIST: ___
+PRIMARY DIAGNOSIS: Primary mediastinal lymphoma
+TREATMENT REGIMEN: DA-EPOCH-R
+ 
+CC: ___
+
+HISTORY OF PRESENTING ILLNESS: 
+___ is a ___ man with recent diagnosis of primary
+mediastinal lymphoma who is admitted for planned second cycle of
+DA-EPOCH.
+
+Patient recently admitted ___, at which time he was
+noted to have large mediastinal mass and underwent biopsy.
+Pathology demonstrated a DLBCL. He was transferred to the ___
+team and underwent C1 DA-EPOCH without issue. He was discharged
+on ___ in good condition.
+
+After discharge, he noted some back pain associated with his
+neupogen, but resolved quickly with a single dose of ibuprofen.
+Also reports some generalized fatigue and symptoms of
+constipation and symptomatic hemorrhoids (burning pain with
+defecaton and occaisional flecks of blood on toilet paper). Last
+___ was this morning. Otherwise he feels well. No FC. No sore
+throat. Minor mucositis immediately after discharge which
+resolved quickly. No current odynophagia or dysphagia. No CP, 
+SOB
+or cough. No N/V/D. No abdominal pain. No new rashes, joint 
+pain,
+or swelling. 
+
+REVIEW OF SYSTEMS: 
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+- Pancreas divisum
+- Acute pancreatitis with necrosis s/p necrosectomy in ___
+- GERD
+- Nephrolithiasis
+ 
+Social History:
+___
+Family History:
+Mother and father with hypertension.  No family history of other 
+cardiac disease. 
+ 
+Physical Exam:
+VS: 97.5 PO 144 / 100 84 18 98 RA
+GENERAL: Pleasant, ambulating floor comfortably
+EYES: Anicteric sclerae
+ENT: Oropharynx clear without lesion, JVD not elevated 
+CARDIOVASCULAR: Regularly irregular ryhthm, no murmurs, rubs, or
+gallops; 2+ radial pulses
+RESPIRATORY: Appears in no respiratory distress, clear to
+auscultation bilaterally, no crackles, wheezes, or rhonchi
+GASTROINTESTINAL: Normal bowel sounds; nondistended; soft,
+nontender without rebound or guarding; no hepatomegaly, no
+splenomegaly
+MUSKULOSKELATAL: Warm, well perfused extremities without lower
+extremity edema; Normal bulk 
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact
+SKIN: Slight pink hue underneath both eyes along the cheekbones
+not involving conjunctiva nor the nasal bridge now has resolved
+today
+
+ 
+Pertinent Results:
+___ 12:00AM BLOOD WBC-4.1 RBC-4.54* Hgb-12.3* Hct-36.3* 
+MCV-80* MCH-27.1 MCHC-33.9 RDW-14.7 RDWSD-40.0 Plt ___
+___ 12:00AM BLOOD Neuts-92.6* Lymphs-5.2* Monos-1.7* 
+Eos-0.0* Baso-0.0 Im ___ AbsNeut-3.76 AbsLymp-0.21* 
+AbsMono-0.07* AbsEos-0.00* AbsBaso-0.00*
+___ 12:00AM BLOOD Glucose-124* UreaN-18 Creat-0.9 Na-137 
+K-3.8 Cl-97 HCO3-27 AnGap-17
+___ 12:00AM BLOOD ALT-29 AST-19 LD(LDH)-160 AlkPhos-83 
+TotBili-0.7
+___ 12:00AM BLOOD Albumin-3.9 Calcium-9.0 Phos-3.0 Mg-2.3
+___ 08:00AM BLOOD Albumin-4.4 Calcium-9.6 Phos-2.9 Mg-2.2 
+UricAcd-7.5*
+ 
+Brief Hospital Course:
+___ is a ___ man with recent diagnosis of primary 
+mediastinal lymphoma who is admitted for planned second cycle of 
+DA-EPOCH.
+
+# Primary mediastinal lymphoma: SP C1 DA-EPOCH ___. 
+Tolerated well. Cardiac MR after discharge shows no invasion 
+into heart or large vessels. Ritux was deferred first cycle due 
+to tumor burden. He tolerated C2 EPOCH well at dose level 2 
+without any significant comlpications. We were aggressive with 
+the bowel regimen on admission and he had regular daily bowel 
+movements. He had a TTE on D5 which revealed no cardiac 
+involvement and was unremarkable so he received Rituxan on D6 
+and tolerated it well.
+
+- Con't home acyclovir ppx
+- We started atovaquone as ? reaction to Bactrim ppx (had 
+transient redness on upper cheekbones that resolved after 
+stopping bactrim)
+- Aggressive bowel regimen - uptitrated miralax to bid w/ 
+adequate relief 
+- Not on allopurinol, urate mildly elevated
+- Started neupogen 
+- f/u on ___ w/ BMT and then on ___ for counts
+- Will need PET-CT on the day of admission for C3
+
+# Arrhythmia: EKG shows bigeminal PVC's. He reports he has had 
+this for awhile, and is asymptomatic w/ resting HR 120s. 
+Regardless, does have tumor near heart, although per cMRI not 
+invading into the heart or great vessels. Started low dose beta 
+blocker and tolerated it well w/o significant fatigue. - cont 
+metoprolol 25 mg xl daily
+
+# Chronic pancreatitis
+# Pancreatic divisum
+# Pancreatic pseudocyst: Not currently symptomatic.
+- Con't home creon, colesevelam, and nortriptyline
+
+# GERD: Not on meds at home, cont Ranitidine prn
+
+ACCESS: POC
+CODE: Full (presumed)  
+COMMUNICATION: Patient  
+DISPO: Home w/o services
+BILLING: >30 min spent coordinating care for discharge
+____________________
+___, D.O.
+Heme/___ Hospitalist
+___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Creon (lipase-protease-amylase) 3  caps PO TID W/MEALS 
+2. Nortriptyline 10 mg PO QHS 
+3. WelChol (colesevelam) 625 mg PO BID 
+4. Ondansetron ODT 4 mg PO Q8H:PRN nausea 
+5. Lorazepam 0.5-1 mg PO Q6H:PRN anxiety/nausea/vomiting 
+6. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+7. Senna 17.2 mg PO BID constipation 
+8. Docusate Sodium 100 mg PO TID:PRN constipation 
+9. Filgrastim 480 mcg IV Q24H 
+10. Acyclovir 400 mg PO Q8H 
+11. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+
+ 
+Discharge Medications:
+1.  Atovaquone Suspension 1500 mg PO DAILY 
+RX *atovaquone 750 mg/5 mL 1500 mg by mouth daily Refills:*3 
+2.  Loratadine 10 mg PO DAILY:PRN neupogen related bone pain 
+RX *loratadine 10 mg 1 tablet(s) by mouth daily prn Disp #*30 
+Tablet Refills:*0 
+3.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*3 
+4.  Acyclovir 400 mg PO Q8H  
+5.  Creon (lipase-protease-amylase) 3  caps PO TID W/MEALS  
+6.  Docusate Sodium 100 mg PO TID:PRN constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth tid prn Disp 
+#*90 Capsule Refills:*0 
+7.  Filgrastim 480 mcg IV Q24H  
+8.  Lorazepam 0.5-1 mg PO Q6H:PRN anxiety/nausea/vomiting 
+RX *lorazepam 0.5 mg 0.5-1 mg by mouth every six (6) hours Disp 
+#*30 Tablet Refills:*0 
+9.  Nortriptyline 10 mg PO QHS  
+10.  Ondansetron ODT 4 mg PO Q8H:PRN nausea  
+11.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate  
+12.  Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+RX *polyethylene glycol 3350 17 gram/dose 17 gm by mouth daily 
+prn Refills:*0 
+13.  Senna 17.2 mg PO BID constipation  
+14.  WelChol (colesevelam) 625 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+DLBCL
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted for Cycle 2 EPOCH and you tolerated the 
+chemotherapy well. You completed chemotherapy on ___ so you can start taking your neupogen the evening of 
+___. You had a port placed and tolerated that 
+procedure well. You will need to follow up in clinic on ___. 
+We started you on two new medications and advised you not take 
+bactrim due to a facial rash. 
+
+It was a pleasure taking care of you at ___!
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,54 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Female patient, age not specified
+* Multiple comorbidities, including:
+	+ Breast cancer
+	+ End-stage renal disease (ESRD) on hemodialysis
+	+ Type 1 diabetes mellitus
+	+ Hypertension
+	+ Coronary artery disease
+	+ Gout
+	+ Atrial fibrillation
+	+ Obstructive sleep apnea
+	+ Ventral hernia
+	+ HIT (heparin-induced thrombocytopenia) positivity
+	+ Sarcoidosis
+	+ Pulmonary hypertension
+
+**Chief Complaint:**
+
+* Left knee pain and swelling
+
+**Hospital Course:**
+
+* Admitted to the hospital for evaluation of left knee pain
+* Arthrocentesis revealed 129,000 WBCs, and Gram stain did not show any organisms
+* Started on vancomycin for presumed septic arthritis
+* Underwent arthrotomy and drain placement
+* Developed thrombocytopenia, which was attributed to marrow suppression from infection
+* Also had an allergic reaction/angioedema, which was treated with diphenhydramine, famotidine, and methylprednisolone
+* Had a non-responsiveness episode during hemodialysis, which was attributed to hypotension
+* Underwent AV fistulogram, which showed moderate-to-severe right central venous stenosis, which was angioplastied
+
+**Discharge Diagnosis:**
+
+* Septic arthritis
+* Angioedema
+* ESRD
+* Sarcoid
+* Breast cancer
+* Diabetes
+* Thrombocytopenia
+
+**Discharge Medications:**
+
+* Vancomycin for 6 weeks
+* Various medications for comorbidities, including Anastrozole, Albuterol, Prednisone, Vitamin D, Levothyroxine, Amiodarone, Quinapril, Acetaminophen, Amitriptyline, Docusate Sodium, Senna, Oxycodone, Insulin NPH, and Insulin Lispro
+
+**Follow-up Instructions:**
+
+* Complete 6-week course of vancomycin
+* Follow up with primary care physician and hematology for platelet count monitoring
+* Return to the Emergency Department if fevers, increasing knee pain, or other concerning symptoms occur

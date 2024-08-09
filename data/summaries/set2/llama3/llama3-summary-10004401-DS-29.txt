@@ -1,0 +1,44 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+* The patient is a  ___ year old male with multiple co-morbidities.
+* He has a history of rectal cancer, coronary artery disease, systolic CHF, dilated cardiomyopathy, atrial fibrillation, and a history of cardiac arrest.
+
+**Chief Complaint:**
+
+* The patient presented with respiratory distress, fevers, and hypotension.
+
+**Medical History:**
+
+* Rectal cancer status post resection and radiation
+* Coronary artery disease status post stents
+* Complete heart block status post pacemaker
+* History of cardiac arrest
+* Atrial fibrillation
+* Systolic CHF (EF 40-45%)
+* History of GI bleed
+
+**Hospital Course:**
+
+* The patient was admitted with respiratory distress, fevers, and hypotension.
+* He was found to have a pneumonia and an infection in his blood (MRSA bacteremia).
+* He was treated with antibiotics, including vancomycin, and improved.
+* He was also treated for a sacral decubitus ulcer and was given pain medication.
+* His coronary artery disease and atrial fibrillation were managed with medication.
+
+**Medications:**
+
+* The patient was taking multiple medications, including acetaminophen, carvedilol, citalopram, docusate, ferrous sulfate, folic acid, lasix, lidocaine, multivitamin, omeprazole, oxycodone, and simethicone.
+* He was started on vancomycin and aspirin during his hospital stay.
+
+**Discharge:**
+
+* The patient was discharged to an extended care facility.
+* He will need to continue his antibiotics for 2 weeks total.
+* He was instructed to follow up with his primary care physician.
+
+**Discharge Diagnosis:**
+
+* Primary: Healthcare Associated Pneumonia and Staph Bacteremia
+* Secondary: Systolic CHF and Atrial Fibrillation

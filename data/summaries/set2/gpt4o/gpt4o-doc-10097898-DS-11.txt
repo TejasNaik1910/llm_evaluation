@@ -1,0 +1,89 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Neurosurgery
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Visual disturbances
+- Facial and left upper extremity (LUE) paresthesias
+- Headache
+
+**Major Surgical or Invasive Procedure:**
+- Right craniotomy for resection of dural lesion
+
+**History of Present Illness:**
+- The patient, a [Redacted] year old male, initially presented with visual disturbances and possible transient ischemic attack (TIA) or stroke. He experienced an acute onset of a left side homonymous scotoma, paresthesias in the upper left extremity and face, and a headache. Symptoms lasted about an hour and resolved completely. Imaging revealed a dural lesion.
+
+**Past Medical History:**
+- Hypertension
+- Dyslipidemia
+
+**Family History:**
+- Non-contributory
+
+**Physical Exam Upon Discharge:**
+- Eyes: Spontaneous opening, pupils equal, round, and reactive to light (PERRL) 3-2mm
+- Orientation: Oriented to person, place, and time
+- Commands: Follows complex commands
+- Extraocular Movements (EOMs): Full
+- Face: Symmetric
+- Tongue: Midline
+- Motor Strength: 5/5 in all tested muscle groups
+- Sensation: Intact to light touch
+- Surgical Dressing: Incision clean, dry, and intact with staples
+
+**Pertinent Results:**
+- Postoperative non-contrast head CT (NCHCT) was stable with expected post-surgical changes.
+- Postoperative MRI showed no residual tumor.
+
+**Brief Hospital Course:**
+- **Dural Lesion:** The patient was admitted for a planned right craniotomy for resection of the dural lesion. Post-surgery, he was extubated and transferred to the post-anesthesia care unit (PACU) and then to the neuroscience intermediate care unit. He remained neurologically stable postoperatively.
+- **Hyponatremia:** On postoperative day 1 (POD1), the patient's sodium (Na) level was 131, which dropped to 126. He was treated with salt tablets (3g TID) and fludrocortisone. IV fluids were discontinued, and sodium levels normalized and remained stable.
+- **Disposition:** Physical therapy consult deferred as the patient was independently ambulatory.
+
+**Medications on Admission:**
+- Hydrochlorothiazide (HCTZ) 12.5mg PO daily
+- Lisinopril 20mg PO daily
+- Simvastatin 10mg PO QPM
+- Aspirin (ASA) 81mg PO daily
+
+**Discharge Medications:**
+1. Acetaminophen-Caffeine-Butalbital for headache
+2. Acetaminophen for mild pain/fever
+3. Docusate Sodium for constipation
+4. Fludrocortisone Acetate for hyponatremia
+5. Oxycodone for moderate pain
+6. Sodium Chloride for hyponatremia
+7. Hydrochlorothiazide for hypertension
+8. Lisinopril for hypertension
+9. Simvastatin for dyslipidemia
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Dural Lesion
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory and independent
+
+**Discharge Instructions:**
+- **Surgery:** Keep incision dry until staples are removed, avoid heavy lifting, and monitor for signs of infection.
+- **Activity:** Avoid strenuous exercise, no driving while on narcotics, and no contact sports until cleared by the neurosurgeon.
+- **Medications:** Avoid blood thinners until cleared, use acetaminophen for minor discomfort.
+- **Symptoms to Monitor:** Headaches, swelling, soreness, tiredness, and constipation.
+- **When to Call Doctor:** Severe pain, fever, nausea, extreme sleepiness, severe headaches, seizures, vision or speech problems, weakness, or changes in sensation.
+- **Emergency Symptoms:** Sudden numbness, confusion, trouble walking, severe headaches.
+
+**Follow-up Instructions:**
+- [Redacted]

@@ -1,0 +1,84 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Compazine
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Posterior pharyngeal collection
+
+**Major Surgical or Invasive Procedure:**
+- Ultrasound-guided biopsy of the neck
+
+**History of Present Illness:**
+Ms. [Redacted] is a [Redacted]-year-old woman with a history of breast cancer treated with radiation, leading to esophageal strictures and multiple dilations. She also developed vocal cord paralysis and tracheal stenosis, necessitating a tracheostomy. A recent CT scan revealed a posterior pharyngeal collection, prompting her admission for further evaluation.
+
+**Past Medical History:**
+- Esophageal stricture post-radiation therapy, multiple dilations
+- Breast cancer, status post right mastectomy, chemotherapy, and radiation therapy
+- Hypertension
+- Hypothyroidism
+- Benign spinal tumor, status post resection
+
+**Social History:**
+[Redacted]
+
+**Family History:**
+- Diabetes
+- Lung cancer
+- Congestive heart failure (CHF)
+
+**Physical Exam:**
+- **Vitals:** T: 95.7°F, BP: 132/74, P: 74, R: 20, O2: 100% RA with humidifier
+- **General:** Thin, cachectic woman, alert
+- **HEENT:** Sclera anicteric, MMM, oropharynx clear
+- **Neck:** Tracheostomy in place
+- **Lungs:** Clear to auscultation bilaterally
+- **CV:** Regular rate and rhythm, normal S1 + S2
+- **Abdomen:** Thin, soft, non-tender, non-distended, bowel sounds present
+- **Extremities:** Warm, well-perfused, 2+ pulses, no clubbing, cyanosis, or edema
+
+**Pertinent Results:**
+- **CT Neck with Contrast:** Extensive hypodense material surrounding the trachea, likely fluid collection or abscess.
+- **MRI Soft Tissue Neck:** Complex heterogeneous signal surrounding the proximal trachea, differential includes infection, fibrosis, or neoplastic process.
+- **US Guided Biopsy:** Uncomplicated biopsy of the dense mass in the left neck, samples sent for pathology and microbiological assessment.
+
+**Brief Hospital Course:**
+- **Posterior Pharyngeal Collection:** MRI suggested differential diagnosis of post-surgical fibrosis, infection, or neoplastic process. Biopsy results indicated malignant tumor cells. Follow-up with ENT and oncology for further evaluation and treatment.
+- **Superventricular Tachycardia (SVT):** Monitored on telemetry, one brief episode self-resolved. Continued home regimen of Verapamil.
+- **Hypothyroidism:** Asymptomatic, continued Levothyroxine.
+- **Tracheal Stenosis:** Provided continuous humidified air and tube feeds.
+- **Hypertension:** Normotensive, continued Verapamil.
+- **Anxiety:** Managed with Lorazepam and PRN Valium due to increased anxiety from new diagnosis.
+- **Upper Respiratory Infection (URI):** Continued Doxycycline and Prednisone as prescribed by PCP.
+
+**Medications on Admission:**
+- Doxycycline Hyclate, Prednisone, Senna, Docusate Sodium, Levothyroxine, Verapamil, Citalopram, Tube feeds Nutren 2.0
+
+**Discharge Medications:**
+- Metoclopramide, Lorazepam, Senna, Docusate Sodium, Levothyroxine, Verapamil, Citalopram, Doxycycline Hyclate, Prednisone, Diazepam
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- **Primary:** Mass in left neck
+- **Secondary:** Tracheal stenosis, Esophageal strictures, Breast cancer, Anxiety
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Follow-up appointments with ENT and oncology for further evaluation and treatment. Medication changes include starting Diazepam for anxiety management.
+
+**Follow-up Instructions:**
+[Redacted]

@@ -1,0 +1,59 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not specified
+* Age: Not specified
+* Sex: Male
+* Date of Birth: Not specified
+
+**Chief Complaint:**
+
+* Hip fracture
+
+**Medical History:**
+
+* Prostate cancer (T3b N0 M0, Stage III)
+* Radiation proctitis
+* Coronary artery disease with multiple percutaneous interventions
+* Paroxysmal atrial fibrillation
+* Hypertension
+* Chronic systolic heart failure (last LVEF 35%)
+* Type 2 diabetes mellitus
+* Chronic kidney disease
+* Gout
+* Osteoarthritis of the knees
+* Anemia
+* Gallstones with biliary obstruction
+* Hip replacement on the right side with subsequent dislocations
+* Parkinson's disease
+
+**Admission:**
+
+* Presented with left hip pain after feeling and hearing a crack while walking
+* Diagnosed with a left femoral neck fracture
+* Underwent hemiarthroplasty without complications
+* Managed with pain medications, including dilaudid and oxycodone
+
+**Diagnostic Tests:**
+
+* X-rays of the hip and knees
+* CT scan of the pelvis
+* ECG
+* Blood cultures
+* Urine culture
+* Cardiac enzymes
+
+**Discharge:**
+
+* Discharged to extended care facility
+* Medications:
+	+ Pain management: acetaminophen, oxycodone
+	+ Antibiotic: levofloxacin
+	+ Calcium and vitamin D for bone health
+	+ Metoprolol for atrial fibrillation
+	+ Other medications for hypertension, diabetes, and gout
+* Follow-up instructions:
+	+ Schedule an appointment with primary care physician within a week
+	+ Follow up with orthopedic surgeon and cardiologist as scheduled
+	+ Continue physical therapy to aid in healing and building strength

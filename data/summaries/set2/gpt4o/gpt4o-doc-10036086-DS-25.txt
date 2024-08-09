@@ -1,0 +1,78 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Erythromycin Base, Biaxin, Ciprofloxacin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Pulmonary Embolism (PE)
+
+**Major Surgical or Invasive Procedure:**
+- Transesophageal Echocardiogram (TEE) and Direct Current Cardioversion (DCCV)
+
+**History of Present Illness:**
+- The patient is a male with a history of HIV on HAART therapy, prostate cancer status post brachytherapy, type 2 diabetes mellitus (T2IDDM), hypertension (HTN), hyperlipidemia (HLD), obesity, and chronic kidney disease (CKD). He presented with tachycardia and dyspnea on exertion. He was found to have a heart rate of 130s and bilateral lower extremity edema. He reported progressive dyspnea and bilateral swelling over the past few weeks, with increased erythema and pain over the left lower extremity.
+
+**Initial Vitals in ED:**
+- HR: 132
+- BP: 152/88
+- RR: 18
+- O2: 95%
+
+**Physical Exam:**
+- Notable for right lower extremity (RLE) swelling, erythema over bilateral malleoli, and abrasions over the anterior shin. Full range of motion (ROM) of all joints.
+
+**Laboratory Results:**
+- Elevated proBNP: 843
+- Troponin-T: 0.04
+- Lactate: 3.1-3.5
+- Elevated WBC: 11.8
+- Elevated glucose: 295
+- Elevated creatinine: 1.5
+- Elevated AST: 168
+
+**Imaging:**
+- **CTA Chest:** Pulmonary emboli in the right pulmonary artery extending to segmental and subsegmental levels. Mild nodular contour of the liver suggesting cirrhosis. Status post splenectomy.
+- **U/S:** Non-occlusive deep vein thrombus in the right posterior tibial vein.
+
+**Medications Administered:**
+- IV Piperacillin-Tazobactam
+- IV Vancomycin
+- IV Heparin
+- IV Normal Saline (NS)
+
+**Past Medical History:**
+- HIV, prior hepatitis B, septic shock, acute kidney injury, CKD stage III, splenectomy, T2IDDM, morbid obesity, HLD, asthma, right medial meniscus tear, severe bronchitis, MRSA colonization.
+
+**Hospital Course:**
+- **Submassive Pulmonary Embolism:** Initiated on heparin drip, transitioned to warfarin with a bridge.
+- **Atrial Fibrillation with Rapid Ventricular Response (RVR):** Managed with metoprolol, amiodarone, TEE, and DCCV. Successfully converted to sinus rhythm.
+- **Acute on Chronic Heart Failure with Preserved Ejection Fraction (HFpEF):** Managed with low-dose IV diuretics.
+- **RLE Cellulitis:** Treated with cephalexin.
+- **Coronary Artery Disease (CAD):** Continued on aspirin, statin, and beta-blocker. Discontinued clopidogrel due to anticoagulation initiation.
+- **Liver Abnormality:** Outpatient follow-up recommended for potential cirrhosis.
+
+**Discharge Medications:**
+- Amiodarone, cephalexin, enoxaparin, warfarin, glargine, aspirin, cobicistat, darunavir, fenofibrate, losartan, metoprolol, Odefsey, rosuvastatin, triamcinolone cream.
+
+**Discharge Instructions:**
+- Emphasized the importance of taking warfarin as prescribed and regular INR monitoring.
+- Follow-up with a cardiologist and use of an event monitor for heart rhythm.
+- Daily weight monitoring to manage fluid retention.
+
+**Discharge Diagnosis:**
+- Primary: Pulmonary Embolism, Right Lower Extremity Deep Vein Thrombosis, Atrial Fibrillation with RVR, Acute on Chronic HFpEF.
+- Secondary: CAD, HIV, T2IDDM.
+
+**Discharge Condition:**
+- Clear mental status, alert, interactive, and ambulatory.
+
+**Follow-up:**
+- Regular INR checks, cardiology follow-up, and monitoring for signs of fluid overload.

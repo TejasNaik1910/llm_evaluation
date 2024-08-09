@@ -1,0 +1,90 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Right pleural effusion
+
+**Major Surgical or Invasive Procedure:**
+- Right chest tube placement
+
+**History of Present Illness:**
+- The patient is a [Redacted] year-old man with a past medical history of Hepatitis B (HBV) on tenofovir, hepatocellular carcinoma (HCC) status post right hepatic lobectomy, hypertension (HTN), and benign prostatic hyperplasia (BPH). He presented with two weeks of chest pain/tightness, subjective fevers, and increased sputum production. A CTA revealed a large right pleural effusion with associated right middle lobe (RML) and right lower lobe (RLL) collapse and pleural nodules suggestive of metastatic HCC. Interventional Pulmonology (IP) placed a pigtail catheter, draining 800cc of serosanguinous fluid. Fluid studies indicated a transudative effusion, and cytology was negative for malignancy. Surveillance staging imaging showed pleural nodules suspicious for metastases, a new nonocclusive filling defect in the suprahepatic inferior vena cava (IVC), and multiple new small pulmonary nodules with mediastinal lymphadenopathy (LAD) concerning for metastases.
+
+**Past Medical History:**
+- Hepatocellular carcinoma (HCC)
+- Hepatitis B (HBV)
+- Hypertension (HTN)
+- Benign prostatic hyperplasia (BPH)
+- Diverticulosis
+
+**Past Surgical History:**
+- Cataract surgery
+- Right hepatic lobectomy and diaphragmatic resection
+
+**Family History:**
+- Possible colon cancer in father
+
+**Physical Exam:**
+- General: No acute distress, alert, and oriented x3
+- Cardiac: Regular rhythm, normal rate, no murmurs/rubs/gallops
+- Lungs: Decreased breath sounds in RML and RLL, no respiratory distress
+- Abdomen: Soft, non-tender, non-distended
+- Extremities: No clubbing, cyanosis, or edema
+- Neurologic: Face symmetric, moving all extremities spontaneously, alert and oriented x3
+
+**Pertinent Results:**
+- **Chest CT:** Reduced right pleural effusion, high attenuation pleural nodules likely metastases, nonocclusive filling defect in suprahepatic IVC, new small pulmonary nodules, and mediastinal lymphadenopathy.
+- **CT A/P:** Nonocclusive filling defect in suprahepatic IVC, status post right hepatectomy, no hepatic lesions meeting OPTN 5 criteria for HCC, moderate right pleural effusion with drainage catheter, fusiform dilatation of the right renal artery.
+- **AP Radiograph of the Chest:** Small to moderate right pleural effusion, no new consolidation, no pneumothorax, stable cardiomediastinal silhouette.
+
+**Brief Hospital Course:**
+- Admitted with a large right-sided pleural effusion. A chest tube was placed, draining 800cc of serosanguinous fluid. Pleural studies revealed a lymphocytic exudative effusion. CT chest showed pleural nodules concerning for metastasis of HCC. AFP was elevated at 31. Cytology from pleural fluid was negative for malignancy. Staging CT scan showed pleural nodules and a suprahepatic IVC thrombus. The patient was started on therapeutic Lovenox. Transferred to Medicine for further oncologic workup. Chest tube was removed, and the patient continued to have mild right-sided chest pain and low-grade fevers. Discharged on Lovenox 60mg SubQ BID.
+
+**Follow-Up:**
+- Interventional Pulmonology: Follow-up in 2 weeks for thoracoscopy and biopsy of pleural nodules.
+- Oncologist: Follow-up appointment scheduled.
+
+**Medications on Admission:**
+1. Finasteride 5 mg PO daily
+2. Tamsulosin 0.4 mg PO QHS
+3. Acetaminophen 325 mg PO Q6H PRN pain
+4. Aspirin EC 81 mg PO daily
+5. Tenofovir disoproxil fumarate 300 mg PO daily
+
+**Discharge Medications:**
+1. Enoxaparin Sodium 60 mg SC Q12H
+2. Oxycodone (Immediate Release) 2.5-5 mg PO Q6H PRN pain
+3. Polyethylene Glycol 17 g PO daily
+4. Acetaminophen 1000 mg PO Q8H
+5. Finasteride 5 mg PO daily
+6. Tamsulosin 0.4 mg PO QHS
+7. Tenofovir disoproxil fumarate 300 mg PO daily
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Pleural effusion
+- History of HCC status post right hepatic lobectomy
+- Pulmonary nodules
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Take medications as prescribed
+- Inject 60mg enoxaparin under the skin twice daily
+- Follow up with oncologist and interventional pulmonology as scheduled
+- Return to the hospital if experiencing worsening chest pain, shortness of breath, fevers, chills, confusion, or other concerning symptoms.

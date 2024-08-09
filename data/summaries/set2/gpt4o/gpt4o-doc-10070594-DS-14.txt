@@ -1,0 +1,84 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Syncope
+
+**Major Surgical or Invasive Procedure:**
+- Liver biopsy
+
+**History of Present Illness:**
+- The patient is a male with a metastatic neuroendocrine tumor of unknown primary origin, admitted following a syncopal episode. He has experienced progressive functional decline, poor oral intake, bloating, dysgeusia, and large volume diarrhea over the past several months. He had a syncopal episode in the oncology clinic parking lot, with no loss of consciousness or head injury.
+
+**Past Medical History:**
+- NASH-induced cirrhosis with portal hypertension
+- Ascites and hepatocellular carcinoma (HCC)
+- Atrial fibrillation
+- Hypertension
+- Obesity
+- Benign prostatic hyperplasia (BPH)
+- Gout
+- Prediabetes mellitus
+- Chronic kidney disease (CKD)
+- Baseline Bell's palsy (left side)
+
+**Family History:**
+- Mother: Intestinal cancer
+- Brother: Bladder cancer
+- Sister: Lymphoma and breast cancer
+
+**Physical Exam:**
+- Vital signs stable, mild weight gain, no significant distress, irregular heart rhythm, clear lungs, mild abdominal distension, and no significant neurological deficits.
+
+**Diagnostic Tests:**
+- **Labs:** Elevated liver enzymes, bilirubin, and uric acid; mild anemia; normal electrolytes.
+- **Imaging:**
+  - **CXR:** Possible subtle right lung consolidation.
+  - **CT Head:** Bilateral hygromas, no acute intracranial hemorrhage.
+  - **Liver US:** Enlarged liver with multiple masses, no biliary obstruction.
+
+**Assessment and Plan:**
+- **Syncope:** Likely due to orthostatic hypotension and hypovolemia from diarrhea and poor intake. No intervention needed for chronic hygroma.
+- **Atrial Fibrillation:** Managed with metoprolol, discontinued verapamil.
+- **Elevated Cardiac Enzymes:** Likely due to hypovolemia; no acute coronary syndrome.
+- **Hyperbilirubinemia and Hyperuricemia:** Improved with chemotherapy; initiated allopurinol.
+- **Diarrhea:** Likely from neuroendocrine tumor; managed with Imodium.
+- **Asymptomatic Bacteriuria:** No treatment initiated.
+- **Protein-Calorie Malnutrition:** Nutrition supplements recommended.
+- **Neuroendocrine Tumor:** Metastatic, treated with carboplatin/etoposide; liver biopsy performed.
+- **Right Arm Swelling:** PICC-associated DVT, managed with apixaban.
+- **Anemia:** Likely due to malignancy; stable.
+- **Cirrhosis and Ascites:** Managed with diuretics.
+- **Hypertension:** Adjusted medications.
+- **BPH:** Adjusted medications.
+- **Gout:** Initiated allopurinol.
+- **CKD:** Managed at baseline.
+- **Bell's Palsy:** Known condition, no new issues.
+
+**Medications on Admission:**
+- Apixaban, Colchicine, Doxazosin, Finasteride, Furosemide, Metoprolol, Verapamil
+
+**Discharge Medications:**
+- Allopurinol, Metoprolol, Neulasta, Senna, Doxazosin, Furosemide, Apixaban, Colchicine, Finasteride
+
+**Discharge Disposition:**
+- Home with services
+
+**Discharge Condition:**
+- Alert, coherent, and ambulatory
+
+**Discharge Instructions:**
+- Stop verapamil, increased metoprolol dose, decreased doxazosin dose. Continue apixaban for right arm DVT. Monitor for signs of bleeding and follow up with oncologist. Scheduled for Neulasta injection and home services.
+
+**Follow-up Instructions:**
+- [Redacted]

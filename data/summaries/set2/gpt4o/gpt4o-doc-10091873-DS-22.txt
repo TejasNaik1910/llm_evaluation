@@ -1,0 +1,82 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** Iodine-Iodine Containing / Iodinated Contrast Media - IV Dye
+
+**Chief Complaint:**
+- Weight loss and right mouth pain.
+
+**Major Surgical or Invasive Procedures:**
+- ENT Endoscopic Examination
+- PEG Tube Placement
+
+**History of Present Illness:**
+- The patient is a male with a history of HPV+ Oropharyngeal T2, N2a, Stage IV squamous cell carcinoma of the tonsil, previously treated with cisplatin and IMRT (30 fractions). He now presents with increased weight loss and worsening right tooth pain, reminiscent of his prior symptoms. He reports a 20 lb weight loss over the past 3 weeks, difficulty eating, and episodes of nausea/vomiting. He also has trismus and significant pain radiating from his right jaw.
+
+**Past Medical History:**
+- HPV+ Oropharyngeal Cancer
+- Graves Disease
+- Kidney Stones
+- Sleep Apnea
+- Anxiety with OCD features
+
+**Past Surgical History:**
+- Carpal Tunnel Syndrome
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother: [Redacted] disease
+- Father: Emphysema
+- Uncle: Head and neck cancer
+
+**Physical Exam:**
+- **Admission Exam:** Fatigued, dry mouth, significant right-sided facial and throat swelling, tachycardic, low lung volumes, no major cervical lymphadenopathy, dry skin, CN II-XII grossly intact.
+- **Discharge Exam:** Similar findings with no significant changes.
+
+**Diagnostic Tests:**
+- **Labs:** Elevated WBC, low sodium, chloride, and bicarbonate, normal creatinine, calcium, magnesium, and phosphate.
+- **Imaging:**
+  - **CT Neck:** Decrease in size of previously seen mass with necrosis, no bony erosion, post-therapy changes in submandibular glands, decreased size of lymph nodes.
+  - **CXR:** Left basilar opacities likely reflecting atelectasis.
+  - **MRI:** Peripherally enhancing and centrally non-enhancing right oropharyngeal lesion, possible residual tumor, resolution of cervical lymphadenopathy.
+
+**Medications:**
+- **Admission:** Methimazole, Clonazepam, Oxycodone, Citalopram.
+- **Discharge:** Bisacodyl, Docusate Sodium, Fentanyl Patch, Gabapentin, Senna, Oxycodone, Citalopram, Clonazepam, Methimazole.
+
+**Hospital Course:**
+- **Trismus and Right Jaw Pain:** Managed with pain medications (fentanyl patch, oxycodone, gabapentin). MRI suggested possible residual tumor. ENT performed a fiberoptic exam showing a cavitary lesion with fibrinous debris.
+- **HPV+ Stage IV Oropharyngeal Carcinoma:** Recent PET scan suggested potential recurrence. Managed with ongoing pain control and follow-up plans.
+- **Thrush:** Treated with fluconazole for 7 days.
+- **Severe Malnutrition and Weight Loss:** PEG tube placed, started on tube feeds (Osmolite 1.5). Patient lost 50 pounds since diagnosis, 20 pounds in the last three weeks.
+- **Graves Disease:** Continued on methimazole.
+- **Anxiety/Insomnia and Depression:** Continued on clonazepam and citalopram.
+
+**Discharge Plan:**
+- **Disposition:** Home with service.
+- **Follow-up:** With primary oncologist and second opinion at Mass [Redacted].
+- **Instructions:** Continue tube feeds, pain management, and follow-up with ENT and cancer doctor.
+
+**Discharge Diagnosis:**
+- HPV+ Stage IV Oropharyngeal Carcinoma
+- Severe Malnutrition
+- Trismus
+- Thrush
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory - Independent.
+
+**Discharge Instructions:**
+- Detailed follow-up with cancer doctor and ENT, continuation of tube feeds, and pain management.

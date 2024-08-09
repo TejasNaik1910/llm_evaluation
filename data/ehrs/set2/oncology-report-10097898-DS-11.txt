@@ -1,0 +1,203 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+visual disturbances, facial & LUE paresthesias, headache
+ 
+Major Surgical or Invasive Procedure:
+___: right craniotomy for resection of dural lesion
+
+ 
+History of Present Illness:
+___ year old male who initially presented to ___ 
+on ___ with visual disturbance and the question of a 
+possible TIA or stroke.  At that time, the patient developed an 
+acute onset of a left side homonymous scotoma.  He also noted 
+some paresthesias in the upper left extremity and face.  There 
+was some associated headache.  These failed to resolve with 
+lying
+down and lasted for approximately one hour and during this time, 
+he went to the hospital.  His symptoms will gradually improve 
+and now completely resolved.  Imaging during that time revealed 
+this lesion.
+
+ 
+Past Medical History:
+hypertension
+dyslipidemia
+
+ 
+Social History:
+___
+Family History:
+He has no contributory family history
+ 
+Physical Exam:
+UPON DISCHARGE: 
+Exam:
+
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex [ ]None
+Pupils: PERRL 3-2mm
+EOMs: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Drift: [ ]Yes [x]No
+Speech Fluent: [x]Yes [ ]No
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+Trapezius   Deltoid   Biceps   Triceps   Grip
+Right5           5         5        5 5
+Left5           5         5        5         5 
+
+IP   Quadriceps   Hamstring   AT   ___   Gastrocnemius
+Right5    5            5           5    5     5
+Left5    5            5           5    5     5
+
+[x]Sensation intact to light touch
+
+Surgical Dressing:
+[x]Incision Clean, dry, intact
+[x]staples 
+ 
+Pertinent Results:
+Please refer to ___ for relevant imaging and lab results 
+ 
+Brief Hospital Course:
+#Dural Lesion
+On ___, the patient was electively admitted for planned right 
+craniotomy for resection of dural lesion. Please refer to ___ 
+for further procedure details. He was extubated and transferred 
+to the PACU for post-anesthesia monitoring. He was then 
+transferred to the neuroscience intermediate care unit for 
+ongoing care. Postoperative NCHCT was stable with expected 
+post-surgical changes. Postoperative MRI showed no residual 
+tumor. Patient remained neurologically stable. 
+
+#Hyponatremia
+POD1 patients Na level was 131. On ___, Na level dropped to 
+126. He was started on salt tabs, which were increased to 3g 
+TID. Fludricort was added. IV fluids were discontinued. Sodium 
+level has normalized and has remained stable. 
+
+#Dispo
+A physical therapy consult was placed for disposition 
+recommendations. ___ deferred evaluation as patient was 
+independently ambulating. 
+
+ 
+Medications on Admission:
+HCTZ 12.5mg PO daily; Lisinopril 20mg PO daily; Simvastatin 10mg 
+PO QPM; ASA 81mg PO daily 
+ 
+Discharge Medications:
+1.  Acetaminophen-Caff-Butalbital ___ TAB PO Q6H:PRN Headache 
+Do not Exceed 4g of Tylenol in 24 hours.  
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg 1 
+capsule(s) by mouth Q6hrs PRN Disp #*30 Capsule Refills:*0 
+2.  Acetaminophen 325-650 mg PO Q8H:PRN Pain - Mild/Fever  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Fludrocortisone Acetate 0.1 mg PO DAILY 
+RX *fludrocortisone 0.1 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4hrs PRN Disp #*60 
+Tablet Refills:*0 
+6.  Sodium Chloride 3 gm PO TID 
+RX *sodium chloride 1 gram 3 tablet(s) by mouth three times a 
+day Disp #*270 Tablet Refills:*0 
+7.  Hydrochlorothiazide 12.5 mg PO DAILY  
+8.  Lisinopril 20 mg PO DAILY  
+9.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Dural Lesion
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Surgery
+You underwent surgery to remove a brain lesion from your brain. 
+
+Please keep your incision dry until your staples are removed. 
+You may shower at this time but keep your incision dry.
+It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your activity 
+at your own pace once you are symptom free at rest. ___ try to 
+do too much all at once.
+No driving while taking any narcotic or sedating medication. 
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You may use Acetaminophen (Tylenol) for minor discomfort if you 
+are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+You may experience headaches and incisional pain. 
+You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+Feeling more tired or restlessness is also common.
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

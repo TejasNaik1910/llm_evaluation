@@ -1,0 +1,69 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Obstetrics/Gynecology
+- **Allergies:** No Known Allergies/Adverse Drug Reactions
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal distention
+
+**Major Surgical or Invasive Procedures:**
+- Paracentesis
+- Diagnostic laparoscopy
+- Explorative laparotomy
+- Total abdominal hysterectomy
+- Bilateral salpingo-oophorectomy
+- Omentectomy
+- Appendectomy
+- Left pelvic lymphadenectomy
+- Pelvic peritonectomy
+- Oversew of bowel serosa
+- Cystoscopy
+
+**History of Present Illness:**
+- The patient, a [Redacted] year-old G0, was transferred from [Redacted] to [Redacted] ED for partial small bowel obstruction (SBO), pelvic masses, and carcinomatosis identified on a CT scan. She presented with a week-long history of abdominal distention, nausea, decreased appetite, and abdominal pain. Initial CT A/P showed an 8 x 12 cm cystic and solid pelvic mass likely representing ovarian malignancy, malignant ascites, and peritoneal carcinomatosis. SBO was likely secondary to the pelvic tumor.
+
+**Diagnostic Tests:**
+- **CT A/P:** 12 cm cystic and solid pelvic mass, malignant ascites, peritoneal carcinomatosis.
+- **CT Chest:** 0.9 cm anterior supradiaphragmatic lymph nodes, possible metastatic involvement.
+- **Tumor Markers:** Elevated CA-125 of 522, CEA level of 0.6.
+- **Paracentesis:** 2 liters of clear, straw-colored fluid; cytology pending.
+
+**Surgical Interventions:**
+- On hospital day #6, the patient underwent a total abdominal hysterectomy, bilateral salpingo-oophorectomy, appendectomy, and omentectomy. Post-operatively, she experienced mild hypotension and was treated with Unasyn for a left tubo-ovarian abscess and possible pneumonia.
+
+**Medications:**
+- **Admission:** Loratadine 10 mg PO daily.
+- **Discharge:**
+  - Acetaminophen for mild pain
+  - Docusate Sodium for stool softening
+  - Enoxaparin Sodium for prophylactic anticoagulation
+  - Ondansetron for nausea
+  - Oxycodone for moderate pain
+  - Loratadine 10 mg PO daily
+
+**Hospital Course:**
+- Managed conservatively for SBO with NPO/IV fluids, anti-emetics, and narcotics as needed. Advanced diet gradually from sips to a regular diet by hospital day #4.
+- Post-operative complications included elevated INR, managed with vitamin K, and post-operative ileus, managed with a slow diet advancement.
+- Foley catheter removed on post-operative day 3; patient voided spontaneously.
+- Discharged home with services to continue Lovenox for prophylactic anticoagulation.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Take medications as prescribed, avoid narcotics and sedatives/alcohol combination, and follow specific post-operative care instructions.
+- Monitor for signs of infection or complications and contact the doctor if symptoms such as fever, severe abdominal pain, or difficulty urinating occur.
+- Continue Lovenox injections to prevent blood clots, with assistance from a visiting nurse.
+
+**Follow-up:**
+- [Redacted]

@@ -1,0 +1,56 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Medicine
+- **Allergies:** Erythromycin base
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Complicated diverticulitis
+
+**Major Surgical or Invasive Procedure:**
+- Drain placement
+
+**History of Present Illness:**
+- The patient is a female with a history of stage III colon cancer, status post hemicolectomy and adjuvant chemotherapy, presenting with complicated diverticulitis. She reported increased weakness, lightheadedness, poor appetite, and unintentional weight loss over the past week. She had a prior episode of diverticulitis a year ago treated with antibiotics.
+
+**Diagnostic Tests and Findings:**
+- **CT Abdomen/Pelvis:** Revealed acute sigmoid diverticulitis with multiple abscesses.
+- **MRI Head:** Showed moderate hippocampal atrophy, no acute changes.
+- **CXR:** Clear lungs, normal heart size, atherosclerotic changes in the thoracic aorta.
+- **Head CT:** No acute abnormality.
+- **Labs:** Notable for hypokalemia (2.3), anemia (Hgb 9.5), and low albumin (2.5).
+- **U/A:** Positive for blood and leukocytes.
+- **Fluid Culture:** Mixed flora, pending results.
+
+**Surgical Interventions:**
+- **CT-guided Drain Placement:** Drained 13 cc of purulent fluid from a pelvic abscess and 10 cc of clear yellow ascites.
+
+**Medications:**
+- **Admission:** Fluoxetine, Klor-Con, Omeprazole, Vitamin D, Cyanocobalamin, Calcium/Magnesium/Zinc, Magnesium Oxide, Atorvastatin.
+- **Discharge:** Ciprofloxacin, Loperamide, Metronidazole, Atorvastatin, Cyanocobalamin, Fluoxetine, Vitamin D.
+
+**Hospital Course:**
+- The patient was treated with IV antibiotics (Zosyn), bowel rest, and IV fluids. She was transferred for further management due to her history of colon cancer. Post-drain placement, her diet was advanced, and she was transitioned to oral antibiotics (Ciprofloxacin and Metronidazole). She experienced some diarrhea, managed with Imodium. The colorectal surgery (CRS) team recommended follow-up in 2 weeks for further treatment planning, including potential surgery.
+
+**Discharge Condition:**
+- The patient was stable, tolerating a regular diet without abdominal pain or nausea, and was alert and interactive. She was discharged to an extended care facility with instructions for follow-up with the CRS clinic.
+
+**Discharge Diagnosis:**
+- Acute diverticulitis with abscess
+- History of colon cancer
+- GERD
+- Acute renal failure
+- Chronic diarrhea
+
+**Follow-up Instructions:**
+- The patient is to follow up with the colorectal surgery service in 2 weeks for further evaluation and potential surgery. She is to continue antibiotics and manage the drain as instructed.
+
+**Discharge Disposition:**
+- Extended Care Facility: [Redacted]

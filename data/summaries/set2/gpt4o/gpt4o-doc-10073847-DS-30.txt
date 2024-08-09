@@ -1,0 +1,80 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Erythromycin Base
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Cycle #6 high-dose methotrexate for diffuse large B-cell lymphoma (DLBCL) to the central nervous system (CNS).
+
+**Major Surgical or Invasive Procedures:**
+- Attempted lumbar puncture x2 (unsuccessful).
+- Lumbar puncture by radiology.
+
+**History of Present Illness:**
+- The patient, a male with DLBCL to CNS, was admitted for cycle #6 of high-dose methotrexate. Previously treated with R-EPOCH and intrathecal methotrexate (IT MTX), he relapsed. MRI showed an enhancing extramedullary intradural lesion in the thecal sac at L1 with possible lymphomatous infiltration/leptomeningeal spread. He started high-dose methotrexate, with the most recent cycle (#5) given [date redacted]. He last received rituximab [date redacted]. He has been tolerating chemotherapy well but has experienced worsening lower back pain radiating down both legs, causing difficulty walking and left leg weakness, necessitating the use of a walking cane.
+
+**Review of Systems (ROS):**
+- Denies fevers, chills, sweats, nausea, vomiting, weight loss, headache, visual changes, chest pain, dyspnea, abdominal pain, diarrhea, constipation, hematochezia, hematuria, other urinary symptoms, paresthesias, or rash. Reports a smoker's cough.
+
+**Past Medical History:**
+- DLBCL to CNS, treated with R-EPOCH x6 cycles + IT MTX x4 for CNS prophylaxis.
+- Coronary artery disease (CAD) status post angioplasty.
+- Hypertension (HTN).
+- Hyperlipidemia.
+- Obstructive sleep apnea (OSA) status post uvulopalatopharyngoplasty.
+- Bilateral lower extremity deep vein thromboses (DVTs).
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Father with a history of colon cancer. No known family history of blood disorders or other cancers.
+
+**Physical Exam:**
+- Vital signs: T 96.7°F, BP 178/72, HR 84, RR 18, O2 Sat 98% RA.
+- General: Alert and oriented, no acute distress.
+- HEENT: Sclerae non-icteric, pupils equal and reactive to light and accommodation, extraocular movements intact, cranial nerves intact, oral mucosa moist and clear.
+- Neck: Supple, no thyromegaly.
+- Lymph nodes: No cervical, supraclavicular, or inguinal lymphadenopathy.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Good air movement bilaterally, no rhonchi or wheezing.
+- Back: No spine/iliac tenderness, 1cm round clean sacral decubitus ulcer stage II.
+- Abdomen: Soft, non-tender, non-distended, no hepatosplenomegaly.
+- Extremities: 2+ bilateral lower extremity edema, no calf tenderness.
+- Dermatologic: No rash.
+- Neurologic: Strength and sensation intact, brisk ankle reflexes, down-going plantar reflexes, non-focal.
+- Psychiatric: Appropriate and calm.
+
+**Pertinent Results:**
+- Admission Labs: Elevated ALT, AST, LDH, and mild anemia.
+- MRI L-Spine: Extensive intradural thecal sac lymphomatous involvement from L1 to S2, slightly progressed.
+
+**Brief Hospital Course:**
+- The patient was admitted for cycle #6 high-dose methotrexate but did not receive it due to disease progression on MRI. Instead, he was given ICE chemotherapy (Ifosfamide, Carboplatin, Etoposide). He tolerated the treatment well. Increased dexamethasone and OxyContin for pain management. Lumbar puncture by Interventional Radiology was unsuccessful. Continued enoxaparin for DVTs, held prior to lumbar puncture and restarted as an outpatient.
+
+**Discharge Medications:**
+- OxyContin, acyclovir, albuterol, amlodipine, fluticasone-salmeterol, lisinopril, pantoprazole, sulfamethoxazole-trimethoprim, docusate sodium, senna, prochlorperazine, Neupogen, oxycodone, dexamethasone, lorazepam, ondansetron.
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+1. Cycle #1 ICE chemotherapy.
+2. Relapsed diffuse large B-cell lymphoma.
+3. Back pain.
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory with assistance (walker or cane).
+
+**Discharge Instructions:**
+- Admitted for cycle #6 high-dose methotrexate for relapsed DLBCL, but methotrexate was not given due to disease progression. Received ICE chemotherapy instead. Pain managed with increased dexamethasone and OxyContin. Follow-up with Neuro-Oncology and Radiation Oncology.

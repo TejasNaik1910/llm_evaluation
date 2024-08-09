@@ -1,0 +1,75 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies to Drugs
+
+**Chief Complaint:**
+- Chest pain
+
+**Major Surgical or Invasive Procedure:**
+- Electrical cardioversion of atrial fibrillation
+
+**History of Present Illness:**
+The patient is a male with a history of coronary artery disease (CAD) status post myocardial infarction (MI) several years ago, hypertension, dyslipidemia, and poorly differentiated metastatic squamous cell lung cancer. He was recently discharged after an admission for hemoptysis and jaw pain, during which a large left pleural effusion was identified and partially drained. He developed chest pain and diaphoresis overnight, leading to a visit to the emergency department (ED) where he was found to be in atrial fibrillation with rapid ventricular response (A-fib w/ RVR) and hypotension. He was treated with diltiazem and intravenous fluids (IVF) and transferred to another ED where he was cardioverted to normal sinus rhythm (NSR). Diagnostic tests revealed worsening pleural effusion, a left hilar mass, and multiple metastatic masses. He was admitted to the cardiac care unit (CCU) for further management.
+
+**Past Medical History:**
+1. **Cardiac Risk Factors:** Dyslipidemia, Hypertension
+2. **Cardiac History:** CAD status post MI, no aspirin use, no history of coronary artery bypass graft (CABG) or percutaneous coronary interventions (PCI)
+3. **Other Medical History:** Tonsillectomy, metastatic poorly differentiated squamous cell lung cancer with metastases to the adrenals, brain, and soft tissue
+
+**Social History:** [Redacted]
+
+**Family History:**
+- Sister had breast cancer
+- No known family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death
+
+**Physical Exam:**
+- Vitals: 97.6°F, BP 130/74, HR 85, RR 20, SaO2 94% on 2L O2
+- Eyes: EOMI, PERRL, clear conjunctiva
+- ENT: Fixed nodule over the right maxilla
+- Neck: No JVD, LAD, or thyromegaly
+- Cardiovascular: Regular rate and rhythm, normal S1/S2
+- Respiratory: RLL basilar crackles, decreased breath sounds in the left lung
+- Gastrointestinal: Soft, non-tender, non-distended
+- Musculoskeletal: No clubbing or cyanosis, 1+ pitting edema in ankles
+- Neurological: Alert and oriented x3
+- Integument: Hard purpuric nodule on the upper thoracic vertebrae
+- Psychiatric: Appropriate and pleasant
+
+**Pertinent Results:**
+- **Imaging:**
+  - TTE: Moderate left atrial dilation, mild regional left ventricular systolic dysfunction, LVEF 40%
+  - Chest X-ray: Increased left pleural abnormality, possible pericardial effusion
+  - CTA Chest: Left hilar masses causing bronchus obliteration, increased metastatic lesions
+- **Cytology:** Negative for malignant cells
+- **Labs:** Elevated WBC, anemia, elevated creatinine, hyperkalemia, elevated troponin, and lactate
+
+**Brief Hospital Course:**
+The patient, with metastatic poorly differentiated squamous lung cancer on carboplatin/taxol, presented with chest pain and diaphoresis, was found to be in A-fib with RVR, and was cardioverted. He sustained a non-ST elevation myocardial infarction (NSTEMI) and was started on a high-dose statin. Sotalol was initiated for rhythm control. He received radiation therapy (XRT) for lung and jaw metastases and was treated for hemoptysis. The patient was also managed for secondary conditions including anemia, neutropenia, and pain from metastatic lesions. He was evaluated by psychiatry and treated for depression.
+
+**Discharge Medications:**
+- Lidocaine patch, Sotalol, Simvastatin, Latanoprost, Senna, Bisacodyl, Docusate, Acetaminophen, Polyethylene Glycol, Simethicone, Megestrol, Prochlorperazine, Ranitidine, Lorazepam, Hydromorphone, Dextromethorphan-Guaifenesin, Mirtazapine, Nystatin
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- Primary: Atrial fibrillation post electrical cardioversion, NSTEMI, sCHF with EF 40%, neutropenia on Neupogen, metastatic poorly differentiated squamous lung cancer on carboplatin/taxol, hemoptysis undergoing XRT
+- Secondary: Depression
+
+**Discharge Condition:**
+- Afebrile, stable vital signs, tolerating oral intake, oxygenating well off oxygen, intermittent hemoptysis
+
+**Discharge Instructions:**
+- Continue prescribed medications and follow-up appointments. Contact physician if shortness of breath worsens. Comply with a salt-restricted diet.
+
+**Follow-up Instructions:**
+- [Redacted]

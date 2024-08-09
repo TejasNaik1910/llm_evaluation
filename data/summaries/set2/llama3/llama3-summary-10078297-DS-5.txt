@@ -1,0 +1,62 @@
+Here is a summary of the clinical note with the essential information:
+
+**Patient Information:**
+
+* Age: ___
+* Sex: Female
+* Date of Birth: ___
+* Unit No: ___
+* Admission Date: ___
+* Discharge Date: ___
+
+**Chief Complaint:**
+
+* Headaches for ___ years
+
+**Medical History:**
+
+* Hypertension (HTN)
+
+**Surgical History:**
+
+* Right frontal craniotomy resection of mass
+
+**Physical Exam:**
+
+* Pre-op: Afebrile, BP 132/72, Pulse 64, Respiration 16, Oxygen saturation 96% in room air
+* Neurological Exam: Mental status intact, no right-left confusion, fluent language, intact recent recall, etc.
+
+**Diagnostic Tests:**
+
+* Brain CT: Right parafalcine mass
+* Brain MRI: Homogeneously contrast-enhancing right parafalcine mass
+* MR HEAD: Postoperative changes without evidence for large territorial infarction
+* CT HEAD: Bifrontal pneumocephalus s/p resection of right parasagittal meningioma
+
+**Medications:**
+
+* Amlodipine 10mg daily (admission)
+* Discharge medications:
+	+ Tramadol 50mg Tablet
+	+ Acetaminophen 325mg Tablet
+	+ Amlodipine 5mg Tablet
+	+ Docusate sodium 100mg Capsule
+	+ Senna 8.6mg Tablet
+	+ Phenytoin sodium extended 100mg Capsule
+	+ Heparin (porcine) 5,000 unit/mL Solution
+	+ Calcium+D 500mg(1,250mg) -200 unit Tablet
+	+ Famotidine 20mg Tablet
+	+ Bisacodyl 5mg Tablet, Delayed Release (E.C.)
+	+ Dexamethasone 1mg Tablet
+
+**Discharge Disposition:**
+
+* Extended Care Facility: ___
+* Discharge Diagnosis: Right parasagittal lesion
+* Discharge Condition: Mental Status: Clear and coherent, Level of Consciousness: Alert and interactive, Activity Status: Ambulatory - Independent.
+
+**Follow-up Instructions:**
+
+* Follow-up with laboratory blood drawing in one week for phenytoin level
+* Continue to take medications as prescribed
+* Follow-up with surgeon for post-operative office visit

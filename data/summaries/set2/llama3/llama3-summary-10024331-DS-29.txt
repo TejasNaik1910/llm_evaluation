@@ -1,0 +1,71 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Male
+* Date of Birth: Not provided
+* Admission Date: Not provided
+* Discharge Date: Not provided
+
+**Chief Complaint:**
+
+* Hematuria (blood in urine)
+
+**Medical History:**
+
+* Prostate cancer, T3b N0 M0, stage III
+* Coronary artery disease with multiple stents
+* Paroxysmal atrial fibrillation
+* Hypertension
+* Diabetes mellitus
+* Gout
+* Chronic kidney disease
+* Osteoarthritis
+* Anemia
+* Radiation proctitis
+* Gallstones
+* Hip replacement with subsequent dislocations
+
+**Current Illness:**
+
+* Hematuria started 2 days after foley catheter removal, with clots in urine
+* History of E. Faecalis UTI
+* On aspirin, plavix, and warfarin at the time of admission
+
+**Diagnostic Tests:**
+
+* Urinalysis: Large blood, WBC, +nitrite, and +leukocyte esterase
+* Renal ultrasound: Stable cystic lesions in the right upper pole, left upper pole, and left lower pole of the kidneys; irregular filling defect in the bladder likely representing a blood clot
+* Lower extremity ultrasound: No evidence of deep vein thrombosis
+
+**Treatment and Interventions:**
+
+* Foley catheter insertion and irrigation
+* Ciprofloxacin 500 mg PO x1 for UTI
+* Aspirin and plavix continued
+* Lasix dose increased to 40 mg daily for lower extremity swelling
+* Urology consultation and recommendation for renal ultrasound and urine cytology
+
+**Discharge Medications:**
+
+* Aspirin 81 mg daily
+* Amiodarone 200 mg daily
+* Lipitor 40 mg daily
+* Clopidogrel 75 mg daily
+* Colchicine 0.6 mg daily
+* Furosemide 40 mg daily
+* Glipizide 5 mg BID
+* Metoprolol succinate 25 mg daily
+* Nitroglycerin 0.4 mg SL PRN
+* Selegiline 5 mg daily
+
+**Discharge Disposition:**
+
+* Home with service
+
+**Discharge Diagnosis:**
+
+* Primary: Hematuria, radiation cystitis
+* Secondary: Coronary artery disease, chronic disease

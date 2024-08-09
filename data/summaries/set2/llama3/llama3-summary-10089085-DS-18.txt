@@ -1,0 +1,19 @@
+Here is a summary of the clinical note:
+
+**Cancer Type and Stage:** The patient has stage IIIb squamous cell lung cancer diagnosed in [date not specified].
+
+**History of Present Illness:** The patient was recently diagnosed with lung cancer and presented for an interventional pulmonology procedure to revise and remove a tracheostomy. She had previously undergone tumor debulking and stent placement in the right mainstem bronchus.
+
+**Procedure:** The patient underwent a rigid bronchoscopy, which revealed a patent airway. The RMS stent was removed, and the tracheostomy was removed and replaced with a tracheal button.
+
+**Medical History:** The patient has a history of COPD, hypertension, hyperlipidemia, atrial fibrillation, and depression.
+
+**Medications:** The patient is taking various medications, including acetaminophen, albuterol, omeprazole, simvastatin, metoprolol, lorazepam, ipratropium bromide, heparin, docusate sodium, bupropion, diltiazem, aspirin, and amoxicillin-clavulanic acid.
+
+**Diagnostic Tests:** Bronchial washings were obtained during the procedure and showed polymorphonuclear leukocytes, gram-negative rods, and gram-positive rods. The patient also had a complete blood count (CBC) and basic metabolic panel (BMP) drawn.
+
+**Hospital Course:** The patient's hospital course was notable for atrial flutter, which resolved with IV metoprolol pushes. She also had some lightheadedness with standing, which may be related to her blood pressure medications.
+
+**Discharge Disposition:** The patient was discharged to an extended care facility with instructions to continue taking her medications and follow up with her physician.
+
+**Discharge Diagnoses:** The patient's discharge diagnoses were lung cancer, atrial flutter, COPD, hypertension, and hyperlipidemia.

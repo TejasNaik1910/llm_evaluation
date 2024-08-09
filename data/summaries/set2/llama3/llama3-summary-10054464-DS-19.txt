@@ -1,0 +1,51 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+* The patient is a ___ year old male with a history of coronary artery disease (CAD), hypertension, dyslipidemia, and poorly differentiated metastatic squamous cell lung cancer.
+* He has metastases to the adrenals, brain, and soft tissue.
+
+**Chief Complaint:**
+
+* The patient presented with chest pain and diaphoresis, and was found to be in atrial fibrillation (A-fib) with rapid ventricular response (RVR) and hypotensive.
+
+**Medical History:**
+
+* The patient has a history of CAD, hypertension, dyslipidemia, and lung cancer.
+* He had a myocardial infarction (MI) ___ years ago and has not been taking aspirin.
+* He has undergone thoracentesis and has been receiving carboplatin and taxol chemotherapy for his lung cancer.
+
+**Hospital Course:**
+
+* The patient was cardioverted and transferred to the cardiac intensive care unit (CCU) for further care.
+* He was found to have a non-ST elevation myocardial infarction (NSTEMI) and was started on a high-dose statin.
+* He was also seen by an electrophysiologist and started on sotalol for rate and rhythm control.
+* The patient's lung cancer was treated with radiation therapy (XRT) to the lung.
+
+**Diagnostic Tests:**
+
+* Electrocardiogram (EKG) showed a normal QTc interval.
+* Chest X-ray (CXR) showed worsening of a left pleural effusion.
+* Computed tomography angiography (CTA) of the chest showed progression of left hilar masses, causing obliteration of the left main bronchus.
+* Echocardiogram showed regional left ventricular systolic dysfunction with a left ventricular ejection fraction (LVEF) of 40%.
+
+**Medications:**
+
+* The patient was discharged on a variety of medications, including sotalol, simvastatin, latanoprost, acetaminophen, colace, bisacodyl, miralax, senna, fentanyl, simethicone, compazine, zantac, megestrol, ativan, dilaudid, dextromethorphan-guaifenesin, mirtazapine, and nystatin.
+
+**Discharge Disposition:**
+
+* The patient was discharged home with services.
+
+**Discharge Diagnosis:**
+
+* Primary: atrial fibrillation s/p electrical cardioversion, NSTEMI, systolic heart failure (sCHF) with an EF of 40%, neutropenic on neupogen, metastatic poorly differentiated squamous lung cancer on carboplatin/taxol, and hemoptysis undergoing XRT.
+* Secondary: depression.
+
+**Discharge Condition:**
+
+* The patient was afebrile, with stable vital signs, tolerating POs, oxygenating well off oxygen, and had intermittent hemoptysis.
+
+**Discharge Instructions:**
+
+* The patient was instructed to take all medications as prescribed, attend all scheduled follow-up appointments, and contact their physician if they develop shortness of breath that is not improved with home oxygen. They were also advised to be compliant with a salt-restricted diet.

@@ -1,0 +1,27 @@
+Here is a summary of the clinical note:
+
+**Cancer Type and Stage:** The patient has a history of HPV+ Stage IV oropharyngeal squamous cell carcinoma of the tonsil.
+
+**Current Presentation:** The patient presents with weight loss and right mouth pain, similar to his initial symptoms when diagnosed with cancer. He has a 50-pound weight loss since diagnosis, with 20 pounds lost in the last three weeks.
+
+**Diagnostic Tests:** The patient underwent a CT scan of the neck, which showed a decrease in size of the previously seen mass with an area of necrosis. An MRI showed a peripherally enhancing and centrally non-enhancing right oropharyngeal lesion, which may represent post-treatment changes or residual tumor. A PET scan suggested potential recurrence.
+
+**Treatment:**
+
+* The patient was started on cisplatin and IMRT (30 fractions) during his initial treatment.
+* He was prescribed medications for pain management, including fentanyl patch 25 mg, oxycodone, and gabapentin.
+* A PEG tube was placed for tube feeds due to severe malnutrition and weight loss.
+* He was treated with fluconazole for thrush.
+
+**Discharge Diagnosis:**
+
+* HPV+ Stage IV oropharyngeal carcinoma
+* Severe malnutrition
+* Trismus
+* Thrush
+
+**Discharge Instructions:**
+
+* The patient was discharged home with a tube feed plan and pain management instructions.
+* He was advised to follow up with his primary oncologist and a second opinion doctor.
+* He was prescribed various medications, including bisacodyl, docusate sodium, fentanyl patch, gabapentin, senna, oxycodone, citalopram, and methimazole.

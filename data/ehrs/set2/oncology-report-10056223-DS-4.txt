@@ -1,0 +1,274 @@
+ 
+Name:  ___                Unit ___:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypotension and lethargy s/p RFA
+ 
+Major Surgical or Invasive Procedure:
+Radiofrequency ablation
+chest tube placement
+diagnostic paracentesis
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with ___ EtOH and HCV cirrhosis, 
+c/b ascites, prior variceal bleeds, recent MRI with 2 lesions 
+suspicious for ___, who was admitted s/p RFA with lethargy and 
+hypotension.  
+.  
+The patient underwent RFA today with ___ immediate complications. 
+He was observed in the PACU since noon. He was given Dilaudid 
+0.5mg IV x1, Phenergan 6.25mg IV x1, Zofran 4mg IV x1, and 
+Toradol 30mg IV x1. The plan was to send him home with Percocet 
+at around ___, but the patient continued to be lethargic, 
+presumably from the pain medications. Also, the patient was 
+hypotensive, SBP ___, responsive to 250cc boluses of IVF. He 
+was given 1LNS total. HCT prior to the procedure was 40, which 
+decreased to HCT 36.7 post-procedure, and 36.8 at 6pm. By call 
+out of PACU, pressures in the 100's.  
+.  
+On the floor, pt currently c/o ___ abdominal pain in the mid 
+epigastric area and nausea, but ___ SOB, CP. He looks drowsy but 
+is conversant and not in distress. He is interviewed in basic 
+___.
+ 
+Past Medical History:
+HCV, genotype I  
+EtOH and HCV cirrhosis  
+HCC  
+HTN  
+past Syphilis infection, s/p treatment, negative RPR per notes  
+
+ 
+Social History:
+___
+Family History:
+___ family ___ liver disease or colon cancer. His mom has 
+arthritis. His dad had diabetes. His sister has diabetes.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+96.0 102/70 78 18 100%RA  
+Drowsy appearing but pleasant M in ___ distress, awakens to voice 
+and conversant, answers questions correctly  
+EOMI, ___ frank icterus, mouth moist without apparent lesions  
+CTAB anteriorly without any w/c/r/r  
+RRR without any m/g  
+Abd is distended but not frankly tight, with minimal TTP 
+diffusely but he points to epigastric area  
+___ BLE edema, extremities are warm. R radial is more easily 
+palpable than the L, and DP's are hard to palpate. ___ mottling.  
+
+CN ___ grossly intact, moves BUE's spontaneously, ___ focal 
+deficits noted. Drowsy but attentive.  
+
+DISCHARGE PHYSICAL EXAM:
+General: alert, conversant in ___, ambulating independently 
+without dizziness or oxygen desaturation
+Abdomen: distended with ascites, tender to palpation throughout 
+but more in the RUQ
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 05:10AM BLOOD WBC-7.7 RBC-3.29* Hgb-10.2*# Hct-30.3* 
+MCV-92 MCH-30.9 MCHC-33.6 RDW-16.7* Plt Ct-82*
+___ 05:10AM BLOOD Plt Smr-LOW Plt Ct-82*
+___ 05:10AM BLOOD Glucose-112* UreaN-10 Creat-0.6 Na-135 
+K-3.4 Cl-103 HCO3-27 AnGap-8
+___ 05:10AM BLOOD ALT-141* AST-281* AlkPhos-218* 
+TotBili-2.1*
+___ 05:10AM BLOOD Calcium-7.5* Phos-2.5* Mg-1.7
+
+PERTINENT STUDIES:
+T Bili of Pleural Fluid: 1.8
+___ Blood culture: ___ growth
+___ Blood cultures: ___ growth to date on discharge
+___ Urine cultures: ___ growth
+___ peritoneal fluid culture: ___ growth to date
+___ hemothorax fluid culture: ___ growth on discharge
+ 
+___ Liver Biopsy: Liver mass, right lobe, targeted needle core 
+biopsy:
+1.  Hepatocellular carcinoma, well-to moderately differentiated 
+(confirmed by reticulin stain), with a focal pseudoacinar 
+morphology, prominent cholestasis/bile plug formation and 
+steatosis.
+2.  Trichrome stain demonstrates established cirrhosis in the 
+sampled non-neoplastic parenchyma; moderate septal and mild 
+periseptal/lobular mixed inflammation is seen (clinical history 
+of viral hepatitis C).
+3.  Iron stain is negative for iron deposition.
+4.  Additional levels are examined.
+ 
+___ RUQ U/S: Ultrasound images demonstrate satisfactory 
+biopsy needle and RF tip position for right hepatic lobe 
+radiofrequency ablation.  
+.
+CT Abdomen ___: 1. Interval development of a large 
+right-sided hemothorax with resulting 
+collapse of the right lower lobe.  
+2. Expected appearance of the segment VI ablation zone.  
+3. ___ evidence of active arterial hemorrhage.  
+4. Unchanged appearance of the hyperenhancing exophytic lesion 
+arising from segment III of the left lobe of liver.
+. 
+CXR ___: Increased large right pleural effusion.
+CXR ___: Large right pleural effusion is unchanged. There is ___ 
+pneumothorax.  
+Retrocardiac opacity has improved consistent with improving 
+atelectasis.  
+Vascular congestion has improved. cardiomediatinum is unchanged 
+CXR ___: Interval placement of right chest tube, with marked 
+improvement in right pleural effusion. 
+CXR ___: 1) Patchy opacity in the right cardiophrenic region, ? 
+atelectasis, slightly
+worse.
+2) Aeration in the left lung is slightly improved.
+3) Otherwise, ___ significant interval change.
+ CXR ___: Bilateral lung volumes are low without interval 
+change in pulmonary edema.
+Bibasal atelectasis are unchanged. Minimal bilateral pleural 
+effusions
+unchanged since prior study. Cardiomediastinal contour is 
+stable. 
+
+DISCHARGE LABS:
+
+___ 06:30AM BLOOD WBC-5.8 RBC-3.73* Hgb-11.4* Hct-34.4* 
+MCV-92 MCH-30.6 MCHC-33.2 RDW-17.6* Plt ___
+___ 06:30AM BLOOD ___ PTT-33.6 ___
+___ 06:30AM BLOOD Glucose-91 UreaN-6 Creat-0.7 Na-136 K-4.2 
+Cl-104 HCO3-27 AnGap-9
+___ 06:30AM BLOOD ALT-72* AST-104* AlkPhos-181* 
+TotBili-2.4*
+___ 06:30AM BLOOD Calcium-7.6* Phos-3.0 Mg-1.8
+
+___ 11:27AM ASCITES WBC-325* RBC-125* Polys-37* Lymphs-5* 
+Monos-0 Eos-1* Macroph-57*
+___ 11:27AM ASCITES TotPro-0.3 Glucose-181 LD(LDH)-31 
+TotBili-0.2 Albumin-LESS THAN 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with ___ EtOH and HCV cirrhosis, 
+c/b ascites and variceal bleed, recent MRI with lesions 
+concerning for HCC, who was admitted s/p RFA and liver biopsy 
+for pain control, found to have a right hemothorax.  
+.
+ACUTE CARE:
+#Hemothorax: Following RFA, patient was admitted for pain 
+control and drowsiness. He was short of breath with an oxygen 
+requirement. He was found to have a hemothorax, and a chest tube 
+was placed draining 2 liters of bloody fluid. The tube was 
+removed two days later and there was ___ recurrence of hemothorax 
+on discharge.
+.  
+#. s/p RFA: Patient was originally hypotensive and dizzy 
+following procedure and was managed on PCA and nadolol held. 
+After a few days patient was transitioned to PO oxycodone for 
+post-procedure pain and nadolol was re-started. Patient's 
+orthostatic vital signs and ambulatory oxygen sats were normal 
+on discharge.
+.
+# Intermittant fevers: Patient had intermittant fever following 
+RFA. Blood cultures, urine cultures, and ascitic fluid analysis 
+showed ___ signs of infection. Fevers were likely secondary to 
+post-procedure inflammation and atelectasis.
+
+CHRONIC CARE:
+Hepatitis C Cirrhosis: compensated cirrhosis, on nadolol for 
+variceal bleed ppx. 
+ 
+HCC: Patient tolerated the procedure with the post-op course 
+involving hemothorax and fevers. Chemo-embolization is required 
+for a second focus of HCC based on the position of the tumor.
+
+TRANSITIONS IN CARE:
+Final read on blood, urine, and ascitic fluid cultures are 
+pending on discharge.
+Patient will require chemo-embolization procedure to treat a 
+different site of HCC.
+Patient was listed as full code in the hospital, and his sister 
+was listed as contact.
+
+ 
+Medications on Admission:
+Nadolol 20mg PO daily  
+Omeprazole 40mg PO daily  
+Ferrous sulfate 325mg PO daily  
+
+ 
+Discharge Medications:
+1. nadolol 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+2. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+3. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) 
+Tablet PO once a day.  
+4. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day) as needed for cough.
+Disp:*20 Capsule(s)* Refills:*0*
+5. spironolactone 25 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*20 Tablet(s)* Refills:*0*
+7. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain: Please avoid driving or operating 
+heavy machinery while taking.
+Disp:*10 Tablet(s)* Refills:*0*
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.
+Disp:*10 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+hepatitis C cirrhosis
+hepatocellular carcinoma
+hemothorax
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure taking care of you. You were admitted after 
+your RFA because of concern for ongoing hypotension and 
+lethargy. You received some fluids and your blood pressure 
+returned to normal. Your lethargy improved during your 
+hospitalization.
+
+Please note the following changes to your medications:
+1. START Lasix 20mg by mouth daily
+2. START Spironolactone 50mg by mouth daily
+3. START Benzonatate 100mg by mouth three times daily as needed 
+for cough
+4. START oxycodone 5mg by mouth every four hours as needed for 
+pain
+5. START Colace 100mg by mouth twice daily as needed for 
+constipation
+ 
+Please take all other medications as previously prescribed.
+Please keep all of your follow-up appointments.
+ 
+Followup Instructions:
+___

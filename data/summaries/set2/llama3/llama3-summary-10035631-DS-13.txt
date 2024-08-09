@@ -1,0 +1,72 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Male
+* Admission Date: Not provided
+* Discharge Date: Not provided
+
+**Chief Complaint:**
+
+* Fevers, chills, and fatigue, with concern for acute leukemia
+
+**Past Medical History:**
+
+* Stage IIA breast cancer, status post left mastectomy, currently on tamoxifen
+* Intermediate risk AML, status post reduced intensity allogeneic stem cell transplant
+* Aspergillosis, prostatitis, seizure vs. syncope, Lyme disease
+
+**Physical Exam:**
+
+* Vital signs: stable
+* General: afebrile, well-nourished male
+* Head, Eyes, Ears, Nose, and Throat (HEENT): no abnormalities
+* Neck: supple, no jugular venous distension (JVD)
+* Lymph nodes: no cervical, axillary, or supraclavicular lymphadenopathy
+* Cardiovascular: normal cardiac exam
+* Lungs: no increased work of breathing, clear to auscultation
+* Abdomen: normal bowel sounds, no tenderness to palpation
+* Extremities: no edema
+* Skin: no rashes, lesions, or petechiae
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): white blood cell count (WBC) 32.7, hemoglobin (Hb) 14.6, platelet count 24
+* Blood chemistry: lactate 2.9, sodium 139, potassium 4.1, calcium 9.2, magnesium 2.0
+* Blood cultures: no growth
+* Urine analysis: no abnormalities
+* Flow cytometry: immunophenotypic findings consistent with involvement by acute myeloid leukemia
+
+**Imaging:**
+
+* Computed Tomography (CT) head: no evidence of acute intracranial hemorrhage
+* CT chest: new ground-glass opacities with septal thickening and dependent small pleural effusions, consistent with hydrostatic edema
+
+**Pathology:**
+
+* Bone marrow biopsy: relapsed acute myeloid leukemia
+
+**Medications:**
+
+* Acyclovir 400 mg PO TID
+* Ciprofloxacin 500 mg PO Q12H
+* Midodrine 10 mg PO QPM, 7.5 mg PO QAM and noon
+* Voriconazole 200 mg PO Q12H
+* Artificial Tears Preserv. Free
+* Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H
+* Multivitamins 1 TAB PO DAILY
+* Tamoxifen Citrate 20 mg PO DAILY
+* Vitamin D 1000 UNIT PO DAILY
+
+**Discharge Diagnosis:**
+
+* Primary diagnoses: acute myelogenous leukemia, relapsed; orthostatic hypotension
+* Secondary diagnoses: Lyme disease prophylaxis; male breast cancer (ER+/PR+, HER2-)
+
+**Discharge Condition:**
+
+* Mental status: clear and coherent
+* Level of consciousness: alert and interactive
+* Activity status: ambulatory, independent

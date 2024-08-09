@@ -1,0 +1,370 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+obstructed L PCN tube
+ 
+Major Surgical or Invasive Procedure:
+Left percutaneous nephrostomy tube exchange - ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with history of
+advanced prostate cancer metastatic to the liver with peritoneal
+carcinamatosis with recent admission s/p left PCN tube placement
+on ___ who presents for management of his obstructed left PCN
+tube.
+
+He reports that woke up at 2AM the morning of admission and 
+noted
+decreased urine output from his nephrostomy. He went back to
+sleep and awoke at 6AM and still no urine output. He called ___
+who instructed him to come to the ED.  He denies fevers, leakage
+around the site, flank pain, and bloody drain output.
+
+On arrival to the ED, initial vitals were 97.9 97 92/62 20 100%
+RA. Labs were notable for WBC 21.1, H/H 9.5/31.7, Plt 372, Na
+137, K 4.5, BUN/Cr 38/3.1, and UA with large leuks, large blood,
+negative nitrite, > 182 WBCs, and few bacteria. ___ was consulted
+and he was taken for successful left 8 ___ nephrostomy
+exchange. Patient was given 1L NS and zosyn 4.5g IV. Repeat Cr
+post-hydration was mildly improved at 2.9. Prior to transfer
+vitals were 97.6 89 90/54 16 98% RA.
+
+On arrival to the floor, patient reports that he is feeling 
+well.
+He denies any cloudy urine prior to decreased output. He reports
+intermittent nausea and constipation for the past three days. 
+His
+pain has been well-controlled. He denies fevers/chills, night
+sweats, headache, vision changes, dizziness/lightheadedness,
+weakness/numbnesss, shortness of breath, cough, hemoptysis, 
+chest
+pain, palpitations, abdominal pain, diarrhea, hematemesis,
+hematochezia/melena, dysuria, hematuria, and new rashes.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- Radical prostatectomy in ___
+
+PAST MEDICAL HISTORY:
+- HTN
+- DL
+ 
+Social History:
+___
+Family History:
+No family history of prostate cancer.
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VS: Temp 97.9, BP 98/56, HR 83, RR 16, O2 sat 94% RA.
+GENERAL: Pleasant man, in no distress lying, in bed comfortably.
+HEENT: Anicteric, PERLL, OP clear, dry mucous membranes.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender, non-distended, normal bowel sounds, no
+hepatomegaly, no splenomegaly.
+EXT: Warm, well perfused, 1+ bilateral lower extremity edema.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength full throughout. Sensation to light touch
+intact.
+SKIN: L PCN in left flank, mild TTP over insertion site, C/D/I. 
+No evidence of leaking. Leg bag with clear yellow urine.
+
+DISCHARGE EXAM
+==============
+VS:  T 97.8, BP 98-104/52-60, HR 77-83, RR 18, SpO2 93/RA
+GEN: NAD  
+HEENT: sclerae anicteric, dry MM. 
+Cards: RRR, S1/S2, no M/R/G  
+Pulm:  crackles at R base, otherwise CTAB  
+Abd: BS+, soft, NT, no rebound/guarding
+Back: L PCN tube without erythema. Mild TTP around insertion 
+site. Dressing C/D/I. Draining clear yellow urine.
+Extremities: WWP, no edema. DPs, PTs 2+.  
+Skin: no rashes or bruising  
+Neuro: AOx3, moving all 4 extremities
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 05:41PM   GLUCOSE-87 UREA N-37* CREAT-2.9* SODIUM-138 
+POTASSIUM-5.0 CHLORIDE-99 TOTAL CO2-22 ANION GAP-22*
+___ 05:41PM   ALT(SGPT)-17 AST(SGOT)-51* ALK PHOS-396* TOT 
+BILI-0.3
+___ 05:41PM   LIPASE-22
+___ 05:41PM   ALBUMIN-2.7*
+___ 05:41PM   WBC-19.4* RBC-2.92* HGB-8.3* HCT-27.5* MCV-94 
+MCH-28.4 MCHC-30.2* RDW-17.1* RDWSD-58.1*
+___ 05:41PM   NEUTS-82* BANDS-12* ___ MONOS-2* EOS-0 
+BASOS-0 ___ METAS-2* MYELOS-2* AbsNeut-18.24* AbsLymp-0.00* 
+AbsMono-0.39 AbsEos-0.00* AbsBaso-0.00*
+___ 05:41PM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-NORMAL 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL TARGET-1+
+___ 05:41PM   PLT SMR-NORMAL PLT COUNT-311
+___ 04:30PM URINE  COLOR-Yellow APPEAR-Cloudy SP ___
+___ 04:30PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 LEUK-LG
+___ 04:30PM URINE  RBC->182* WBC->182* BACTERIA-FEW 
+YEAST-NONE EPI-0
+___ 04:30PM URINE  GRANULAR-5* HYALINE-19*
+___ 04:30PM URINE  AMORPH-RARE
+___ 04:30PM URINE  MUCOUS-MANY
+___ 01:43PM   GLUCOSE-85 UREA N-38* CREAT-3.1*# SODIUM-137 
+POTASSIUM-4.5 CHLORIDE-95* TOTAL CO2-21* ANION GAP-26*
+___ 01:43PM   ALT(SGPT)-21 AST(SGOT)-68* ALK PHOS-469* TOT 
+BILI-0.4
+___ 01:43PM   LIPASE-22
+___ 01:43PM   ALBUMIN-2.9*
+___ 01:43PM   WBC-21.1*# RBC-3.34* HGB-9.5* HCT-31.7* 
+MCV-95 MCH-28.4 MCHC-30.0* RDW-17.2* RDWSD-59.4*
+___ 01:43PM   NEUTS-76* BANDS-10* ___ MONOS-2* EOS-0 
+BASOS-0 ___ METAS-6* MYELOS-6* AbsNeut-18.15* AbsLymp-0.00* 
+AbsMono-0.42 AbsEos-0.00* AbsBaso-0.00*
+___ 01:43PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 01:43PM   PLT SMR-NORMAL PLT COUNT-372
+
+MICRO
+=====
+__________________________________________________________
+___ 4:30 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 3:47 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+DISCHARGE LABS
+==============
+___ 07:05AM BLOOD WBC-9.7 RBC-2.67* Hgb-7.7* Hct-25.1* 
+MCV-94 MCH-28.8 MCHC-30.7* RDW-17.2* RDWSD-59.1* Plt ___
+___ 07:05AM BLOOD Neuts-79* Bands-6* Lymphs-3* Monos-10 
+Eos-1 Baso-1 ___ Myelos-0 AbsNeut-8.25* 
+AbsLymp-0.29* AbsMono-0.97* AbsEos-0.10 AbsBaso-0.10*
+___ 07:05AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-NORMAL 
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ 
+Target-1+
+___ 07:05AM BLOOD Plt Smr-NORMAL Plt ___
+___ 07:05AM BLOOD Glucose-84 UreaN-26* Creat-1.7* Na-142 
+K-4.2 Cl-107 HCO3-23 AnGap-16
+___ 07:05AM BLOOD Calcium-7.5* Phos-3.4 Mg-1.4*
+
+IMAGING/STUDIES
+===============
+___ Imaging URIN CATH CHECK 
+FINDINGS: 
+1. Left antegrade nephrostogram shows initially poor flow 
+through the tube. Moderate to severe hydronephrosis with no flow 
+towards the ureter. 
+2. Appropriate final position of Left nephrostomy tube. 
+IMPRESSION:  
+Technically successful Left 8 ___ nephrostomy exchange. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history of 
+advanced prostate cancer metastatic to the liver with peritoneal 
+carcinamatosis with recent admission s/p left PCN tube placement 
+on ___ who presents for management of his obstructed left PCN 
+tube.
+
+#LEFT HYDRONEPHROSIS:
+#LEFT-SIDED FLANK PAIN:
+#ABSENT NEPHROSTOMY TUBE OUTPUT: Patient presented with absent 
+left PCN tube output x24hrs. Drain study by ___ showed poor flow 
+through the tube, likely due to kinking of the tube, with 
+moderate to severe hydronephrosis with no flow towards the 
+ureter. He had successful left 8 ___ nephrostomy exchange on 
+___. Consistent drainage of clear yellow urine to bag since 
+the time of tube change. Continued pain control with home 
+oxycontin and oxycodone.
+
+#ACUTE KIDNEY INJURY: Cr 3.1 on admission with baseline appears 
+1.3-1.5. Likely post-renal secondary to PCN obstruction. Cr 
+improving s/p ___ PCN replacement + IVF (Cr 1.7 at the time of 
+discharge).
+
+#PYURIA:
+#LEUKOCYTOSIS: Leukocytosis likely related to recent Neulasta 
+(___). However, also with bandemia, which is less 
+characteristic of Neulasta. No fevers or other signs/symptoms of 
+infection, aside from pyuria. UA drawn from nephrostomy with 
+positive leuks and > 182 WBCs but negative nitrite and only few 
+bacteria. No fevers or signs/symptoms of UTI. Given dose of 
+zosyn in ED (___), and started on ceftriaxone on the floor. 
+Received 2 doses (___). On the day of discharge, urine 
+culture was finalized, and did not grow any bacteria. Discharged 
+off antibiotics.
+
+#MALIGNANT ASCITES
+#NAUSEA/VOMITING: Paracentesis on ___ with 3.5L removed, 
+fluid studies consistent with malignant cells. Suspect 
+nausea/vomiting is the result of abdominal distension, liver 
+mets. Continued Zofran/Compazine.
+
+#DVT: Recently LLE DVT but was told not an anticoagulation 
+candidate due to GIB. Patient reports had filter placed several 
+weeks ago at ___.
+
+#METASTATIC PROSTATE CANCER: Known to have liver mets and 
+carcinomatosis. Per Dr. ___ condition is terminal and 
+prognosis is quite poor. Started on cabazitaxel last admission. 
+Due to follow-up with Dr ___ on ___. Started on Ritalin 
+2.5mg daily for appetite stimulation.
+
+#HYPERTENSION: Patient discharged off lisinopril/on amlodipine 
+but had recently restarted lisinopril after discharge. Continued 
+amlodipine 5mg daily.
+
+#ANEMIA: Iron studies consistent with anemia of chronic 
+inflammation. No evidence of active bleeding.
+
+#CONSTIPATION: Likely secondary from narcotics. Continued home 
+bowel regimen (senna/Colace/Miralax).
+
+TRANSITIONAL ISSUES:
+#PCN TUBE: already has ___ established for this. Scheduled for 
+tube exachange with ___ in ___.
+#BP MEDS: discharged OFF lisinopril, ON amlodipine 5mg daily
+#ONCOLOGY FOLLOW-UP: with Dr ___ on ___.
+#RITALIN: started on Ritalin 2.5mg daily for appetite 
+stimulation. Can uptitrate as outpatient, if needed.
+#CODE STATUS: DNR/DNI
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron ODT 8 mg PO Q8H:PRN nausea 
+2. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+3. Docusate Sodium 100 mg PO BID 
+4. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN BREAKTHROUGH 
+PAIN 
+5. OxyCODONE SR (OxyconTIN) 30 mg PO Q12H 
+6. Senna 8.6 mg PO BID:PRN constipation 
+7. Lupron Depot (3 Month) (leuprolide (3 month)) unknown  
+injection EVERY 3 MONTHS 
+8. Atorvastatin 20 mg PO DAILY 
+9. amLODIPine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  MethylPHENIDATE (Ritalin) 5 mg PO QAM 
+RX *methylphenidate 5 mg One tablet(s) by mouth Once a day, in 
+the morning Disp #*30 Tablet Refills:*0 
+2.  Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+RX *polyethylene glycol 3350 17 gram One packet by mouth Once a 
+day Disp #*14 Packet Refills:*0 
+3.  amLODIPine 5 mg PO DAILY  
+4.  Atorvastatin 20 mg PO DAILY  
+5.  Docusate Sodium 100 mg PO BID  
+6.  Lupron Depot (3 Month) (leuprolide (3 month)) unknown  
+injection EVERY 3 MONTHS  
+7.  Ondansetron ODT 8 mg PO Q8H:PRN nausea  
+8.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN BREAKTHROUGH 
+PAIN  
+9.  OxyCODONE SR (OxyconTIN) 30 mg PO Q12H  
+10.  Prochlorperazine 10 mg PO Q6H:PRN nausea  
+11.  Senna 8.6 mg PO BID:PRN constipation  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Obstructed percutaneous nephrostomy tube
+Metastatic prostate cancer
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+You were admitted to ___ from 
+___ - ___ for low urine output through your nephrostomy 
+tube.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+- You had you nephrostomy tube exchanged for a new one. The 
+Interventional Radiology team suspects that your old tube was 
+kinked, and this is why there was little-to-no urine output into 
+the bag.
+- You had blood work and a urine study when you first arrived 
+that was concerning for a urinary tract infection. We gave you a 
+few days of antibiotics, but ultimately your urine grew no 
+bacteria, so we stopped antibiotics. It is possible that the 
+abnormal blood work and urine study were due to irritation 
+caused by the blocked nephrostomy tube.
+- You were found to have an injury to your kidney, as evidenced 
+by your blood work. This was likely due to the fact that your 
+nephrostomy tube was not allowing your kidney to drain. Your 
+kidney function improved rapidly with IV fluids, and with a new 
+nephrostomy tube that allowed for drainage of the urine from 
+your kidney.
+- You were started on a new medication, methylphenidate 
+(Ritalin), to help stimulate your appetite.
+
+WHAT WILL HAPPEN WHEN YOU LEAVE THE HOSPITAL?
+- You will follow-up with Dr ___ in the clinic on ___ 
+(see below or details).
+- You may continue to take Ritalin, if you find it effective. 
+You can discuss the medication with Dr ___ you do not feel 
+like it is effective in increasing your appetite.
+- A couple of notes about management of your nephrostomy tube, 
+to prevent this kinking from happening again:
+  - Be very careful to avoid bumping the tube against things, or 
+putting the tube in an odd position when sitting or lying down,
+  - When you sleep, ensure that the bag and tube are BELOW the 
+level of your heart. This will allow the tube to keep draining 
+freely throughout the night, which will prevent stagnant urine 
+from pooling in the tube and causing problems.
+  - Do NOT take lisinopril. This medication can sometimes cause 
+injury to your kidneys, which we would like to avoid. We have 
+replaced this medication with amlodipine, which you should 
+continue to take to control your blood pressure.
+
+We wish you the very best with your health going forward.
+
+Your ___ Oncology Team
+ 
+Followup Instructions:
+___

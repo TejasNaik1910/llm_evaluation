@@ -1,0 +1,104 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Neurosurgery
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Headaches for several years
+
+**Major Surgical or Invasive Procedure:**
+- Right frontal craniotomy resection of mass
+
+**History of Present Illness:**
+- A [Redacted] year-old right-handed woman presented for evaluation of a brain mass detected on MRI. She reported a history of diffuse, sharp headaches for several years, rated as [Redacted] today. The headaches do not disturb her sleep or change with position. A brain CT showed a right parafalcine mass, confirmed by MRI. She denied seizures, weakness, numbness, or tingling. Surgery was recommended and the patient agreed to proceed.
+
+**Past Medical History:**
+- Hypertension (HTN)
+
+**Past Surgical History:**
+- None
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- None
+
+**Physical Exam:**
+- **Pre-op:**
+  - Vital signs: Afebrile, BP 132/72, Pulse 64, Respiration 16, Oxygen saturation 96% on room air.
+  - General: Skin with full turgor, HEENT unremarkable, neck supple, no bruit or lymphadenopathy.
+  - Cardiac: Regular rate and rhythm.
+  - Lungs: Clear.
+  - Abdomen: Soft with good bowel sounds.
+  - Extremities: No clubbing, cyanosis, or edema.
+  - Neurological: Performance Score 90, intact mental status, fluent language, intact recent recall, pupils equal and reactive, full extraocular movements, symmetric face, intact facial sensation, midline tongue, strong sternocleidomastoids and upper trapezii, no pronator drift, normal muscle strength and tone, symmetric reflexes, absent ankle jerks, downgoing toes, intact sensory examination, no cerebellar dysmetria, normal gait.
+
+- **Discharge Exam:**
+  - Vital signs: Tmax 99.2, Tc 97.8, HR 58, BP 137/80, RR 18, 98% on RA.
+  - General: Elderly woman in no acute distress.
+  - HEENT: Oropharynx clear.
+  - Cardiovascular: Regular rate and rhythm.
+  - Pulmonary: Clear to auscultation bilaterally.
+  - Abdomen: Soft, non-tender, non-distended.
+  - Extremities: No edema.
+  - Neurological: Alert and oriented x3, mild left nasolabial fold flattening, extraocular movements intact, pupils 4->3mm bilaterally, intact facial sensation, motor strength [Redacted] except [Redacted] in proximal and distal left lower extremity, downgoing toes, intact sensory examination, gait deferred.
+
+**Pertinent Results:**
+- **Admission Labs:**
+  - Elevated WBC, RBC, Hgb, MCV, MCH, MCHC, and glucose.
+  - Normal electrolytes, albumin, calcium, phosphorus, magnesium.
+  - Elevated phenytoin level.
+
+- **Imaging:**
+  - Brain MRI: Homogeneously contrast-enhancing right parafalcine mass.
+  - MR Head: No change in right parafalcine meningioma.
+  - CT Head: Bifrontal pneumocephalus post-resection, residual calcified neoplasm.
+  - MR Head (post-op): Postoperative changes, small residual neoplasm in sagittal sinus.
+
+**Brief Hospital Course:**
+- Admitted to Neurosurgery, underwent right frontal craniotomy resection of mass. Post-op HCT showed changes. Diet advanced, stable overnight, transferred to floor, Foley removed, voided without incident. Neurologically stable post-op with left leg weakness. Discharged to rehab in stable condition.
+
+**Pending Results:**
+- Right-sided tumor pathology
+
+**Transitional Care Issues:**
+- Phenytoin trough and albumin level check on [Redacted], dose adjustment as needed.
+
+**Medications:**
+- **Admission:** Amlodipine 10mg daily
+- **Discharge:**
+  - Tramadol 50 mg Q4H PRN
+  - Acetaminophen 325 mg Q6H PRN
+  - Amlodipine 5 mg daily
+  - Docusate sodium 100 mg BID
+  - Senna 8.6 mg BID PRN
+  - Phenytoin sodium extended 100 mg TID
+  - Heparin 5,000 units TID
+  - Calcium+D 500 mg BID
+  - Famotidine 20 mg BID
+  - Bisacodyl 5 mg daily PRN
+  - Dexamethasone 2 mg with tapering schedule
+
+**Discharge Disposition:**
+- Extended Care Facility: [Redacted]
+
+**Discharge Diagnosis:**
+- Right parasagittal lesion
+
+**Discharge Condition:**
+- Clear and coherent mental status, alert and interactive, ambulatory with assistance.
+
+**Discharge Instructions:**
+- Follow safety precautions post-surgery, monitor incision, take medications as prescribed, limit exercise, increase fluid and fiber intake, avoid anti-inflammatory medications, follow up with phenytoin level check, and use incentive spirometer. Contact surgeon for any concerning symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]

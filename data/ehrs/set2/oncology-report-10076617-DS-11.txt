@@ -1,0 +1,362 @@
+ 
+Name:  ___.            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Clindamycin
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever, nausea/vomiting
+ 
+Major Surgical or Invasive Procedure:
+CT-guided drainage of pelvic abscess with placement of a drain
+PICC line placement
+ 
+History of Present Illness:
+Pt is a ___ G0 with h/o T2DM, pulm HTN, Sweet's disease, OSA, 
+diverticulitis s/p colectomy who is s/p uncomplicated TAH, BSP, 
+PLND and cystoscopy for endometrial cancer on ___ her 
+post-operative course was complicated by wound separation 
+requiring wound vac placement on POD2. She was also started on a 
+7 day course of keflex for a superficial cellulitis of her left 
+hand. She was then discharged without difficulty on POD6 to a 
+rehabilitation facility for wound care related issues.
+
+She presented to the ED after developing nausea and multiple 
+episodes vomiting with associated fever up to 102.6 at her rehab 
+facility yesterday AM (___). She otherwise has had no 
+complaints and feels as though she is healing well from surgery. 
+Her wound has been managed well since discharge with a wound 
+vac; prior to transport to the ED, her wound vac was 
+discontinued only for
+transport reasons.
+
+While in the ED, blood and urine cultures were drawn. CT abd/pel 
+was performed which demonstrated 5.6cm fluid collection with 
+non-dependent air in the LLQ, consistent with post-op seroma vs 
+lymphocele with features suggestive of possible abscess, as well 
+as a small amount of free fluid in the anterior abdominal wall. 
+
+She denies fever, chills, abdominal pain, CP, SOB, cough, 
+vaginal bleeding, vaginal discharge, dysuria, incomplete voiding 
+or drainage/erythema/pain of her wound. She has urinary 
+frequency at baseline. She has been passing flatus and has been 
+having regular BMs. She c/o some reflux.
+
+ROS is otherwise negative.
+ 
+Past Medical History:
+GYN: 
+- G0
+- Endometrial cancer s/p ex lap/ TAH/ BSO/ LND
+
+PMH:
+- T2DM.  
+- Pulm HTN with int supplemental O2.  Last Echo ___ with mild 
+to mod pulm art systolic HTN, LVEF 70%.   
+- OSA, restarted CPAP during last admit
+- Sweet's disease
+- Anemia
+- h/o diverticulitis s/p partial colectomy
+- IBS
+- Urge incont
+- sciatica
+- ? h/o myelodysplastic syndrome
+- anxiety
+- hyperlipidemia
+- HTN
+- morbid obesity
+
+PSH:
+- Foot surgery
+- ?Hemorroidectomy
+- Colectomy, ___, for diverticulitis
+- TAH, BSO, PLD for endometrial cancer, ___
+
+ 
+Social History:
+___
+Family History:
+Mother died of emphysema in her ___. Father died of MI in ___. 
+Several cousins with asthma. Uncle with MI. Aunt with colon 
+cancer.
+ 
+Physical Exam:
+On admission:
+VS 99.4 111/47 83 20 93RA -> 95 2LNC
+NAD
+RRR
+CTAB, no crackles/wheezes
+Abd obese, soft, mildly TTP R>L, no r/g
+Incision with wet-to-dry dressing minimally saturated and 
+healing by secondary intention with good granulation tissue, 
+unable to be separated with probing with q-tip, no purulent 
+drainage, no erythema
+GU cuff intact without TTP
+Ext no TTP, no edema
+
+On discharge:
+Vitals wnl
+NAD
+RRR
+CTAB
+Abd obese, soft, minimal abd discomfort with palp, no r/g
+Incision with wound vac on--> underneath granulation tissue.  
+One area of tunneling superior which during the admission had 
+drained ~20cc purulent fluid.  No induration/ erythema
+1cm incision @ site of prior drain site with mild induration/ 
+erythema that is packed with ___ in packing tape.  overall 
+improved.  ~4cm deep.
+ext NT, 1+ edema
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ WBC-18.5*# RBC-3.02* Hgb-8.8* Hct-28.0* MCV-93 MCH-29.1 
+MCHC-31.4 RDW-15.6* Plt ___
+Neuts-87.9* Lymphs-4.5* Monos-7.2 Eos-0.1 Baso-0.2
+Glucose-155* UreaN-16 Creat-1.0 Na-137 K-3.6 Cl-100 HCO3-24 
+AnGap-17
+ALT-17 AST-17 AlkPhos-94 TotBili-0.8
+Albumin-3.6
+Lactate-1.7
+
+URINE Blood-NEG Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG 
+Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG
+RBC-1 WBC-28* Bacteri-FEW Yeast-NONE Epi-14 TransE-<1
+
+Follow-up labs:
+
+MICROBIOLOGY:
+___ Blood cx: B Frag (___) 
+subsequent blood cx on ___ negative
+___ Urine cx: Mixed bacterial contamination
+___ Abscess cx:
+      ENTEROCOCCUS SP..    MODERATE GROWTH. 
+      ENTEROCOCCUS SP..    RARE GROWTH.  SECOND MORPHOLOGY. 
+      ESCHERICHIA COLI.    SPARSE GROWTH. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+      ENTEROCOCCUS SP..    SPARSE GROWTH.  THIRD MORPHOLOGY. 
+         Sensitivity testing confirmed by Sensititre. 
+      STREPTOCOCCUS ANGINOSUS (___) GROUP.    SPARSE GROWTH.
+___ Cdiff negative
+
+RADIOLOGY:
+CT Abd/Pelvis (___):
+IMPRESSION:
+- 5.6 cm fluid collection containing a locule of non-dependent 
+air in the
+left mid pelvis, likely a postoperative seroma versus 
+lymphocele;
+superinfection of this collection is certainly possible, 
+especially given
+subtle peripheral enhancement, mild adjacent fat stranding, and 
+likely
+reactive mild asymmetric wall thickening of the adjacent sigmoid 
+colon.
+- 2-mm right lower lobe pulmonary nodule should be followed up 
+in one year
+given this patient's history of malignancy.
+- Hepatic steatosis.
+- Bilateral simple renal cysts.
+- Fat-containing periumbilical hernia.
+
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was re-admitted to the hospital with 
+fever, nausea, and vomiting in the setting of an intra-abdominal 
+collection thought to represent an infected lymphocyst.
+
+She reported fevers to 102 @ the rehab facility however was 
+afebrile on admission. Notably however, she had a leukocytosis 
+and CT of the abd/ pelvis demonstrated a 5.6cm fluid collection 
+in the L pelvis with air and mild stranding suggestive of an 
+infected seroma or lymphocyst.  Additionally the CXR and UA were 
+unremarkable.  She was admitted and started on IV cipro/ flagyl. 
+ Blood cultures were obtained prior to initiation of antibiotic 
+therapy which ultimately grew bacteroides fragilis in ___ 
+bottles.  The next morning she underwent CT guided drainage of 
+the collection with drain placement and culture of this fluid 
+was polymicrobial.  ID was consulted and recommended IV zosyn/ 
+flagyl given polymicrobial infection + bacteremia.  Ultimately 
+this was tailored to IV zosyn alone once sensitivities were 
+back.  
+
+Subsequently the drain site became indurated with purulent fluid 
+around the drain.  Repeat CT showed slight improvement in the 
+fluid collection w/ resolution of stranding.  The drain was 
+pulled and the area over the site of the drain was extended 
+using the scalpel to 1cm.  The site was probed with sign 
+drainage of pus and serous fluid.  This site was packed with ___ 
+inch packing tape.  Dressing were changed BID.
+ 
+A PICC line was placed for prolonged IV antibiotic therapy.  ID 
+recommended a total course of ___ weeks of IV antibiotics and 
+they plan to follow her closely following d/c. She will receive 
+weekly lab tests. She will follow-up with infectious disease on 
+___, and she has a follow-up CT scan scheduled for ___ 
+at 9AM.
+
+Other issues during hospitalization:
+# Incision: Wound vac was replaced on HD 2 and subsequently 
+replaced q 3 days.  The superior part of the incision was noted 
+to tunnel superiorly.  Probing released ~20 cc of purulent 
+material.  This area was opened further to allow for better 
+communication.  
+# Intermittent tachycardia noted on tele which she was placed on 
+for her h/o OSA.  EKG was performed which was normal sinus 
+rhythm.  She remained asymtomatic with a normal heart rate 
+during the majority of the day.
+# Type 2 diabetes: The patient was continued home pioglitizone + 
+ISS.  Her glucose continued to be elevated significantly and 
+thus ___ consult was requested.  Her pioglitizone was 
+increased to 30mg.  She was started on Lantus and her insulin 
+was titrated up. On the day of discharge, it was recommended 
+that the patient be transitioned to glipizide 10mg XL instead of 
+pioglitazone, given risk of bladder cancer with pioglitazone. 
+Upon starting glipizide, it was recommended that the lantus be 
+cut in half to 4 and that the patient continue on a sliding 
+scale at rehab. Outpatient follow-up with ___ diabetes was 
+arranged.
+# Pulm HTN/ OSA: cont O2, CPAP
+# Depression: cont sertraline
+# Sweet's dz w/ mult skin lesions: cont home dapsone, wound 
+consult
+# On CT of abdomen and pelvis, a 2-mm right lower lobe pulmonary 
+nodule was noted and should be followed up in one year
+
+Ms. ___ was discharged to ___ in ___ on 
+HD 10 in stable condition.
+ 
+Medications on Admission:
+ATORVASTATIN [LIPITOR] - Lipitor 20 mg tablet. 1 Tablet(s) by
+mouth qday -  (Prescribed by Other Provider)
+COLCHICINE [COLCRYS] - Colcrys 0.6 mg tablet. 2 tablet(s) by
+mouth once a day -  (Prescribed by Other Provider)
+DAPSONE - dapsone 100 mg tablet. 1 Tablet(s) by mouth qday - 
+(Prescribed by Other Provider)
+PIOGLITAZONE - pioglitazone 15 mg tablet. 1 Tablet(s) by mouth
+DAILY (Daily) -  (Prescribed by Other Provider)
+ROLLATOR WALKER -  . use with ambulation qday with attachment to
+help with portable oxygen cannister
+SERTRALINE - sertraline 100 mg tablet. 1 Tablet(s) by mouth qday
+-  (Prescribed by Other Provider)
+SOLIFENACIN [VESICARE] - Vesicare 5 mg tablet. 1 Tablet(s) by
+mouth once a day
+ 
+Medications - OTC
+ASPIRIN - aspirin 81 mg chewable tablet. 1 Tablet(s) by mouth
+DAILY (Daily) -  (Prescribed by Other Provider; OTC)
+CALCIUM CARBONATE - Dosage uncertain -  (OTC)
+IBUPROFEN [ADVIL] - Dosage uncertain -  (OTC)
+MULTIVITAMIN - multivitamin tablet. 1 Tablet(s) by mouth DAILY
+(Daily) -  (OTC)
+ 
+Discharge Medications:
+1. Atorvastatin 20 mg PO DAILY 
+2. Dapsone 100 mg PO DAILY 
+3. Ibuprofen 400 mg PO Q8H:PRN pain 
+4. Glargine 4 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+5. Loperamide 2 mg PO QID:PRN loose bowel movements 
+6. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*60 Tablet Refills:*0
+7. Piperacillin-Tazobactam 4.5 g IV Q6H 
+8. Sertraline 100 mg PO DAILY 
+9. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush 
+10. Vesicare *NF* (solifenacin) 5 mg Oral daily Reason for 
+Ordering: Wish to maintain preadmission medication while 
+hospitalized, as there is no acceptable substitute drug product 
+available on formulary.
+11. Acetaminophen ___ mg PO Q6H:PRN pain 
+12. GlipiZIDE XL 10 mg PO DAILY 
+13. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+14. Colchicine 1.2 mg PO DAILY 
+15. Aspirin 81 mg PO DAILY 
+16. Outpatient Lab Work
+ICD-9: 790.7
+CBC with diff, BUN/Creatinine, LFTs 
+Check labs weekly, starting ___
+Fax results to ___ clinic ___, Attn: ___
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+intra-abdominal abscess
+bacteremia
+diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecology oncology service because you 
+had fevers and were found to have a likely infection in your 
+abdomen. This was drained and got much better, however, you had 
+bacteria found in your blood. Because of this, you have to be on 
+IV antibiotics for an extended course, and you have an IV in 
+place to allow this to happen. You have remained without a fever 
+while in the hospital and your blood cultures have cleared. We 
+feel it is safe for you to leave the hospital. Physical therapy 
+evaluated you and felt you would need additional care at a rehab 
+facility. Please follow the instructions below:
+
+* Do not combine narcotic and sedative medications or alcohol  
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs  
+* No strenuous activity until your post-op appointment  
+* Take your medications as prescribed.  
+* Do not drive while taking narcotics.  
+* Nothing in the vagina (no tampons, no douching, no sex) for 12 
+weeks.  
+* No heavy lifting of objects >10 lbs for 6 weeks.  
+* You may eat a regular diet  
+
+Care of abdominal wound:
+* You have a wound vac in place to help with healing of your 
+surgical incision. This will be changed at rehab, every 3 days.
+* At the site of the drain, there was concern for a developing 
+skin infection. The drain site is packed with a wick and will be 
+changed twice daily at rehab
+* You may shower and allow soapy water to run over incision; no 
+scrubbing of incision. No bath tubs for 6 weeks.  
+
+Diabetes Care
+* While you are recovering from this infection and healing the 
+abdominal wounds, you should continue to take insulin. This is 
+VERY important for wound healing.
+* Your finger sticks will be checked pre-meals and you will 
+continue to receive a sliding scale of insulin
+* In addition, a nightly dose of long-acting insulin has been 
+added. This may be stopped if your insulin levels start to get 
+under control
+* Start taking glipizide 10mg XL instead of pioglitazone
+* Follow-up with your primary care doctor, ___ 
+at ___, when out of rehab to 
+discuss any changes in management for your diabetes
+* We have also scheduled you to follow-up with the ___ 
+Diabetes doctors. Your appointment is listed below.
+
+ 
+Followup Instructions:
+___

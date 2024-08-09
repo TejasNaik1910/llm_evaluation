@@ -1,0 +1,54 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Female patient with a history of colon cancer and endometrial cancer
+* Currently taking Xeloda for colon cancer
+* On coumadin for pulmonary embolism (PE)
+
+**Chief Complaint:**
+
+* Weakness, fatigue, and leg pain
+
+**History of Present Illness:**
+
+* Patient developed worsening weakness, fatigue, and left leg pain over the past couple of months
+* Had a skin biopsy, which led to a blood pressure cuff being placed on her leg, causing pain
+* Has been followed by her primary care physician (PCP) and seen in the emergency department (ED) at ___
+
+**Physical Exam:**
+
+* Generally uncomfortable, but non-toxic
+* Alert and oriented, with normal vital signs
+* Left foot has limited dorsiflexion strength due to pain
+
+**Pertinent Results:**
+
+* Laboratory results show elevated INR, potassium, and lactate levels
+* Uranalysis reveals a urinary tract infection (UTI)
+* CT hip shows a large aggressive lytic lesion of the left proximal femur, suggesting metastasis
+* Pathology report (not finalized) shows a left femur biopsy with suspected metastatic disease
+
+**Brief Hospital Course:**
+
+* Treated for UTI with antibiotics
+* Underwent open reduction and internal fixation (ORIF) of the left hip fracture
+* Started on pain medication (Percocet) and anticoagulation therapy (lovenox)
+* Will need rehabilitation and follow-up with oncologist and radiation oncologist to discuss treatment options
+
+**Discharge Medications:**
+
+* Atenolol, paroxetine, sucralfate, omeprazole, cephalexin, megestrol, docusate sodium, senna, bisacodyl, enoxaparin, oxycodone-acetaminophen, polyethylene glycol 3350, warfarin, and lorazepam
+
+**Discharge Disposition:**
+
+* Extended care facility
+
+**Discharge Diagnosis:**
+
+* Left femur fracture with lytic lesion concerning for bony metastases
+* UTI
+
+**Discharge Condition:**
+
+* Stable

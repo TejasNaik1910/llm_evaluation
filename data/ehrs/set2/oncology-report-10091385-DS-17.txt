@@ -1,0 +1,276 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+hepatic drain placement ___, removal ___
+
+ 
+History of Present Illness:
+___ w/ findings of liver mass and omental implants on CT
+scan, now s/p liver biopsy ___ which has been negative,
+followed by biopsy of liver mass and L pelvic mass on ___,
+which have also shown only inflammatory cells without carcinoma. 
+
+She presents to the ER today with acutely severe RUQ that 
+started
+two days ago. She also has fevers up to 102.7 in the ER.  She
+feels some nausea but no vomiting. She notes a chronic dry cough
+which is unchanged.  No dysuria/hematuria.
+
+ 
+Past Medical History:
+PMH: PPD positive with negative CXR, hemorrhoids
+
+PSH: uterine polypectomy
+ 
+Social History:
+___
+Family History:
+No h/o cancer, mother with HTN and mildly elevated cholesterol, 
+father with DM
+ 
+Physical Exam:
+PE: 102.7 113 127/59 18 97% ra 
+GEN: NAD
+CV: RRR tachy
+Abd: Soft, mildly distended, RUQ is tender to palpation.  No 
+other
+tenderness, no rebound or guarding
+Ext: no c/c/e
+
+Labs:
+132 | 94 | 7    AGap=15 
+-------------<144 
+4.1 | 27 | 0.6  
+
+14.3>10.___.2<428   
+ N:91.2 L:5.9 M:2.6 E:0.2 Bas:0.1 
+
+ 
+Pertinent Results:
+___ 02:10PM BLOOD WBC-14.3* RBC-3.87* Hgb-10.9* Hct-34.2* 
+MCV-88 MCH-28.3 MCHC-32.0 RDW-12.3 Plt ___
+___ 05:30AM BLOOD WBC-10.4 RBC-3.66* Hgb-10.3* Hct-32.3* 
+MCV-88 MCH-28.1 MCHC-31.8 RDW-13.0 Plt ___
+___ 05:30AM BLOOD ___
+___ 02:10PM BLOOD Glucose-144* UreaN-7 Creat-0.6 Na-132* 
+K-4.1 Cl-94* HCO3-27 AnGap-15
+___ 05:30AM BLOOD Glucose-92 UreaN-7 Creat-0.5 Na-138 K-4.5 
+Cl-102 HCO3-27 AnGap-14
+___ 02:10PM BLOOD ALT-89* AST-41* AlkPhos-286* TotBili-0.5
+___ 05:30AM BLOOD ALT-25 AST-24 AlkPhos-113* TotBili-0.2
+
+___ 21:35 
+EBV PCR, QUANTITATIVE, WHOLE BLOOD 
+  Test                          Result              Reference 
+Range/Units
+SOURCE                        Whole Blood         
+EBV DNA, QN PCR               <200                <200 copies/mL
+ 
+
+___ 21:35 
+ASPERGILLUS GALACTOMANNAN ANTIGEN 
+  Test                          Result              Reference 
+Range/Units
+INDEX VALUE                   0.06                <0.50
+ASPERGILLUS AG,EIA,SERUM      Not Detected        Not Detected
+ 
+A negative result does not exclude invasive aspergillosis.  
+Follow-up testing may be indicated for high-risk patients.
+ 
+RESULT INTERPRETATION:
+An Index <0.50 is considered to be negative.
+An Index >=0.50 is considered to be positive.
+
+ 
+
+ ___ 21:35 
+SCHISTOSOMA ANTIBODIES 
+  Test                          Result              Reference 
+Range/Units
+SCHISTOSOMA IGG ANTIBODY,     <1.00               
+FMI (SERUM)                                       
+REFERENCE RANGE:  <1.00
+INTERPRETIVE CRITERIA:
+                  <1.00  Antibody Not Detected
+            > or = 1.00  Antibody Detected
+
+___ 21:35 
+ENTAMOEBA HISTOLYTICA ANTIBODY 
+  Test                          Result              Reference 
+Range/Units
+ENTAMOEBA HISTOLYTICA IGG     NEGATIVE            
+___                                             
+REFERENCE RANGE: NEGATIVE
+
+___ 21:35 
+B-GLUCAN 
+  Test                        
+----                       
+Fungitell (tm) Assay for (1,3)-B-D-Glucans
+Results                                 Reference Ranges
+-------                                 ----------------
+37 pg/mL                                Negative       Less than 
+60 pg/mL
+                                        Indeterminate  60 - 79 
+pg/mL
+                                        Positive       Greater 
+than or equal to
+                                                       80 pg/mL
+
+___ 21:35 
+FASCIOLA HEPATICA ANTIBODY 
+  Test Name                   In Range    Out of Range      
+Reference Range
+---------                   --------    ------------      
+---------------
+Fasciola Hepatica Antibody , ___
+  ___ Hepatica Ab        1:2                         POS 
+=>1:32
+                            Negative                      NEG 
+<1:32
+
+___ 10:05 pm WORM      Source: Jp drain fluid. 
+**FINAL REPORT ___
+O&P MACROSCOPIC EXAM - WORM (Final ___:    NO WORMS SEEN. 
+
+___ Urine culture: negative
+___ Blood culture: negative
+___ Blood culture: pending
+___ Abscess: 4+ pmn, 2+ GPR, AFB negative, culture negative, 
+Acid fast: pending
+___ Blood culture: pending
+___ Stool O&P:no O&P, no worms
+___ Blood culture: pending
+___ Stool O&P: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Brief Hospital Course:
+___ F liver mass and omental implants on CT scan,  s/p liver 
+biopsy ___ which were negative, followed by biopsy of liver 
+mass and L pelvic mass on ___, which demonstrated only 
+inflammatory cells without carcinoma represented with fever and 
+RUQ pain. She was pan-cultured and CT scanned. CT demonstrated 
+new lobulated hypodensities in the region of the ill-defined 
+mass in the right lobe of the liver 
+concerning for abscesses. The hepatic mass seemed slightly 
+bigger, right portal vein branch thrombus was unchanged and 
+there was slight enlargement of the peritoneal soft tissue 
+nodules.  In the anterior midline of the pelvis, along the left 
+lower quadrant peritoneal implants, there was a new 2.6 cm rim 
+enhancing low density fluid collection, also concerning for an 
+abscess. She was started on Vancomycin in the ED, however, she 
+developed s/o allergic reaction (subjective throat swelling and 
+rash). She was treated with Benadryl and antibiotics were 
+changed to Zosyn and Flagyl. 
+
+Daily surveillance cultures were sent. She continued to be 
+febrile. On ___, she underwent U/S-guided percutaneous drainage 
+of right hepatic fluid collection with bloody material aspirated 
+consistent with hematoma possibly related to the recent biopsy. 
+Fluid was sent for culture. Gram stain showed 4+ PMN with 2+ 
+gram positive rods. Culture was negative and acid fast smear was 
+negative. Acid fast culture was not finalized. Admission blood 
+and urine cultures were negative. Subsequent blood cultures were 
+negative to date and un finalized. 
+
+On ___, a repeat ultrasound was done showing resolution of the 
+abscess. Therefore, the drain was removed. She had been 
+requiring Dilaudid for pain at the drain site. Pain was much 
+less after drain removal. 
+
+ID was consulted and recommended w/u for pathogens like liver 
+flukes and mycobacteria as well as EBV. Given prominence of 
+plasma cells on pathology, concern for non-infectious processes 
+was raised. Possible diagnoses such as inflammatory pseudotumor, 
+inflammatory myofibroblastic or follicular dendritic cell tumor 
+were amongst the differentials.  Allergy/immunology were 
+consulted and a f/u appointment arranged for ___ with Dr. 
+___.  She will undergo a repeat ultrasound on ___ to assess 
+for interval change. In addition, recommendations per ID were to 
+switch to oral ciprofloxacin and Flagyl with stop date of ___. 
+
+At the time of discharge, she was afebrile with stable vital 
+signs. She was ambulatory and voiding freely.  She did have mild 
+pain in the RUQ near her biopsy site however this was improving.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Prenatal Vitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN fever/pain 
+do not take more than 2000mg per day 
+2. Ciprofloxacin HCl 500 mg PO Q12H 
+until ___ 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*23 Tablet Refills:*0
+3. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+4. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*34 Tablet Refills:*0
+5. Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 by mouth twice a day Disp #*60 
+Tablet Refills:*0
+6. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*20 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Fever
+liver abscess
+liver mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call Dr. ___ office at ___ for fever > 101, 
+chills, nausea, vomiting, diarrhea, constipation, increased 
+abdominal pain, pain not controlled by your pain medication, 
+swelling of the abdomen or ankles, yellowing of the skin or 
+eyes, inability to tolerate food, fluids or medications, or any 
+other concerning symptoms.
+
+No driving if taking narcotic pain medication
+
+ 
+Followup Instructions:
+___

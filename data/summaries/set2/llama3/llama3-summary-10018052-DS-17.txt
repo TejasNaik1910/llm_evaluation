@@ -1,0 +1,61 @@
+Here is a summary of the clinical note in 500 words or less:
+
+**Patient Information:**
+
+* 55-year-old female
+* Diagnosis: Metastatic breast cancer
+* Admitted for worsening ascites and abdominal pain
+
+**Medical History:**
+
+* Diagnosed with ER/PR+ breast cancer in [year]
+* Treated with lumpectomy, tamoxifen, Lupron, and Femara
+* Disease progressed to liver metastases
+* Recently started alternative therapy with GcMAF (IM injections)
+
+**Current Admission:**
+
+* Admitted for paracentesis due to worsening ascites
+* Abdominal pain and distension
+* No fever, nausea, vomiting, diarrhea, or chest pain
+
+**Physical Exam:**
+
+* Cachectic and chronically ill-appearing
+* Jaundice
+* Tachycardic, but regular
+* Distended abdomen with fluid waves and multiple large masses palpable in the left and right upper quadrants
+* 2+ edema peripherally
+
+**Lab Results:**
+
+* Complete Blood Count (CBC) shows low white blood cell count, hemoglobin, and hematocrit
+* Blood chemistry shows elevated liver enzymes, bilirubin, and alkaline phosphatase
+* Coagulation studies show prolonged prothrombin time
+* Blood culture pending
+
+**Imaging:**
+
+* Abdominal ultrasound shows extensive hepatic metastases, moderate ascites, and patent intrahepatic portal venous system
+
+**Brief Hospital Course:**
+
+* Paracentesis performed, and fluid analysis showed no malignant cells
+* Patient was seen by palliative care and decided to discharge home with hospice services and a DNR/DNI form
+
+**Discharge Diagnosis:**
+
+* Metastatic breast cancer
+* Ascites, likely malignant
+
+**Discharge Medications:**
+
+* Vitamin D 800 units PO daily
+* Hydrocodone 2 mg PO Q3H PRN pain
+* Docusate sodium 100 mg PO BID PRN constipation
+
+**Discharge Instructions:**
+
+* Follow up with outpatient doctors regarding further treatment for cancer
+* May need a long-term catheter placed in the abdomen for repeated drainage of ascites
+* Discharged home with hospice services and a prescription for hydromorphone (a pain medication)

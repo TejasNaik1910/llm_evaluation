@@ -1,0 +1,351 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+erythromycin base
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Complicated diverticulitis
+ 
+Major Surgical or Invasive Procedure:
+Drain placement
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the past medical history 
+of stage III colon cancer s/p hemicolectomy and adjuvant chemo 
+in ___, who presents from ___ with complicated 
+diverticulitis.  
+
+She initially presented to ___ yesterday on ___ with 
+increased weakness, lightheadedness and "feeling sick" with poor 
+appetite over the past 1 week.  She denies any f/c/s, abd pain, 
+n/v.  She has had intermittent diarrhea (chronic for her), for 
+which she has been taking Imodium.  Last BM on ___, no BRBPR 
+or melena. She has also noted an unintentional weight loss of
+___ lbs over the last one year and attributes that to "I just 
+don't eat, I don't bother with it".  She denies dysphagia, 
+odynophagia, early satiety. Over the past week she reports 
+increased weakness and lightheadedness.  She denies urinary 
+complaints.  She has not suffered any recent falls, but 
+presented
+yesterday due to presyncopal symptoms.  Of note, she reports a 
+prior severe episode of diverticulitis ___ year ago, requiring 
+antibiotics but no admission per patient.    
+
+In the ___ to have profound hypokalemia to 2.3. She was 
+given both IV and PO repletion.  CXR and head CT were negative 
+for acute processes.  She was admitted to the medical service. 
+
+During her brief admission, she was noted to have diffuse 
+abdominal tenderness, prompting a CT scan of the abdomen which 
+revealed diverticulitis of the sigmoid colon with multiple 
+abscesses. She was started on zosyn, IVF, and kept NPO.  Surgery 
+was consulted and recommended transfer to ___ given patient's
+underlying colon CA history and prior surgery.  At ___, due 
+to family concerns of patient being more confused, she had a 
+head CT and MRI which demonstrated no acute changes except for 
+moderate hippocampal atrophy. 
+
+Currently, she is resting comfortably but frustrated with 
+feeling weak.  She reports the ride in the ambulance caused some 
+abdominal discomfort due to the bouncing, but has no abd pain 
+now.  No other new symptoms.  
+
+ROS: Pertinent positives and negatives as noted in the HPI.  10 
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+Stage III colon cancer previously followed by Dr. ___ s/p
+resection with adjuvant chemotherapy ___ and leucovorin.  She 
+has
+not had to see him in some time and cannot recall her last
+colonoscopy
+GERD
+Asthma 
+Anxiety
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/ reason 
+for hospitalization.
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate.  MM
+significantly dry. 
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, +fullness over LLQ and suprapubic area,
+non-tender to palpation, no peritoneal signs.  Bowel sounds
+present.  No HSM
+GU: +suprapubic fullness, no TTP
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout.  Able to perform ___ and ___ backwards, ___
+recall after 5 minutes. +HOH left ear. 
+PSYCH: pleasant, appropriate affect
+
+PHYSICAL EXAM on DISCHARGE
+VITALS: 98.2 151 / 71 52 18 96 RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate.  
+MMsignificantly dry. 
+CV: Heart regular, no appreciable murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored.
+GI: Abdomen soft, + subtle fullness over LLQ and suprapubic 
+area, non-tender to palpation, no peritoneal signs.  Bowel 
+sounds present.  No HSM. Drain in place, CDI, frankly purulent.
+GU: +mild suprapubic fullness, no TTP
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout.  Able to perform ___ and ___ 
+backwards, ___ recall after 5 minutes. +HOH left ear.  
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+LABS PRIOR TO DISCHARGE
+___ 06:09AM BLOOD WBC-6.3 RBC-3.54* Hgb-9.5* Hct-30.5* 
+MCV-86 MCH-26.8 MCHC-31.1* RDW-13.8 RDWSD-43.9 Plt ___
+___ 06:09AM BLOOD ___
+___ 05:43AM BLOOD Glucose-116* UreaN-9 Creat-1.0 Na-143 
+K-3.6 Cl-106 HCO3-25 AnGap-12
+___ 09:30PM BLOOD Calcium-8.1* Phos-2.7 Mg-1.7
+
+OTHER LABS
+Albumin was 2.5 at ___
+TSH was 0.68 at ___
+
+___
+U/A notable for positive blood, 3+ leuks, ___ WBCs, 1+ epis
+Blood cultures NGTD at ___
+Urine culture contaminated at ___
+Fluid culture, abscess, mixed flora, still pending
+Fluid culture, ascites, NGTD
+
+IMAGING AND OTHER STUDIES
+CT Abd/Pelvis ___
+There is acute sigmoid diverticulitis with multiple loculated 
+fluid collections suggestive of abscesses located within the 
+pelvis. Based on the position of the collections and the number 
+of separate collections, the findings are not amenable to 
+percutaneous drainage.
+
+MRI Head ___
+1. No acute abnormality identified.
+2. Moderate hippocampal atrophy.
+3. Fluid in the left middle ear could indicate otitis media.
+
+CXR ___
+The lungs are clear. The heart is normal in size. 
+Atherosclerotic changes seen in the thoracic aorta. Mild 
+spondylosis seen in the thoracic spine.
+
+Head CT ___
+No acute abnormality.
+
+___ guided drain ___
+Limited preprocedure CT of the pelvis with contrast demonstrates 
+multiple loculated fluid collections within the pelvis, similar 
+to recent outside CT abdomen and pelvis.  The largest rim 
+enhancing collection containing air and measuring approximately 
+4.2 x 3.2 cm slightly to the right of the midline was targeted 
+for drain placement.  Approximately 13 cc of purulent fluid was  
+drained. Additionally there is more free flowing fluid within 
+the bilateral pelvis.  Approximately 10 cc of clear yellow 
+ascites was aspirated from the right pelvic free fluid.  
+1. Successful CT-guided placement of an ___ pigtail 
+catheter into the rim enhancing pelvic collection containing 
+air. Approximately 13 cc of purulent fluid was drained. Samples 
+were sent for microbiology evaluation. As this appeared frankly 
+purulent, sample was not submitted for cytology. 
+2. Additionally, a sample of loculated right pelvic free fluid 
+was aspirated, and appeared to be simple ascites.  This was sent 
+for microbiology.
+ 
+Brief Hospital Course:
+___ with prior colon cancer s/p hemicolectomy and chemotherapy 
+(currently ___, GERD, diarrhea and hypokalemia, who presented 
+with weakness/gait instability, weight loss, ___ and was found 
+to have acute complicated diverticulitis with intra-abdominal 
+fluid collections suspicious for abscesses. Now s/p ___ drain 
+placement with frank pus expressed from one of the collections.
+
+She was admitted from ___, and treated with IV antibiotics, 
+bowel rest, IVF. She was seen by CRS and ___, and taken for drain 
+placement into the accessible fluid collection. Frank pus was 
+obtained and sent for microbiology. After this procedure her 
+diet was advanced successfully. Cipro/flagyl were transitioned 
+to PO after diet advancement. She had some diarrhea (C diff 
+negative) and this was managed with Imodium. The CRS service 
+recommended discharge with drain management and followup in 
+their clinic in 2 weeks for further treatment planning.
+
+# Complicated diverticulitis with abscess: CRS also querying GYN 
+malignancy. She has improved with rehydration, cipro/flagyl, and 
+bowel rest. CRS recommended attempt at ___ guided drainage, which 
+was done yesterday, with frank pus aspirated; drain was placed 
+and is currently in situ. There are unfortunately multiple 
+collections which are loculated and do not communicate with this 
+collection that is currently draining. I have spoken at length 
+with ___ team, and they report that she will likely need OR for 
+sigmoid resection, and that the goal at this point is 
+antibiotics, drainae of drainable collections, and time for 
+inflammation to improve prior to surgery. 
+- CRS would like to see her in 2 weeks in ___ clinic on 
+antibiotics, at which plan for antibiotics, drain, interval 
+imaging, and OR can be finalized
+- Continue cipro/flagyl until ___ visit
+- Continue drain + drain management
+- F/u finalized abscess fluid culture (and ascites culture)
+- Continue regular diet with supplements
+
+# History of chronic diarrhea
+# Diarrhea here: Worsening diarrhea reported by patient after 
+advancing her diet, likely in setting of advancing diet, 
+antibiotics, known diverticulitis, and chronic diarrhea. C diff 
+sent and negative.
+- Titrate antidiarrheal medications for control of diarrhea
+
+# Weakness
+# Gait instability: Acute on chronic/slowly progressive by 
+history. Subjective improvement with rehydration, treatment of 
+above infection. Seen by ___, who recommended rehab.
+
+# Weight loss, decreased appetite
+# Moderate malnutrition: Likely due to infection as above. Same 
+query re: malignancy as below.
+
+# Social issues: She is having issues with housing, feels like 
+she can't go back to her ALF. Her HCP is an EMT and lives 
+outside of the state. Her daughter is not her HCP but does live 
+somewhat nearby. She met with social work. Her daughter and 
+granddaughter have started to make plans for caring for her in 
+their own homes after discharge from rehab. Ultimately, she 
+would like to move to ___ to be with her 
+granddaughter and great-grandchildren.
+
+# ___
+# Hypokalemia: On presentation, improved with rehydration.
+
+# GERD: Stable. She was not continued on home PPI and had no 
+symptoms, so this medication was discontinued at discharge.
+
+# Small ascites identified on CT: Likely sympathetic in setting 
+of complicated diverticulitis. Sample was sent for microbiology 
+but not cytology or cell counts/ fluid studies.
+- F/u ascites fluid culture
+
+# Question of GYN malignancy: In review of imaging, Dr ___ 
+___ some concern for underlying gynecologic malignancy as 
+source of these collections. Given finding of frank pus, I would 
+suppose the suspicion is now much lower for this. She would
+require followup imaging to ensure resolution of these 
+collections anyway, and may well end up going to OR, at which 
+point her GYN organs can be reassessed. Notably, she denies 
+vaginal bleeding or discharge.
+- Could consider pelvic MRI for further characterization of 
+pelvic organs
+
+# Question of otitis on imaging: She denies any symptoms of left 
+otitis media (as seen on MRI). She was recently treated and is 
+being treated with ciprofloxacin, which should provide 
+reasonable treatment for any bacterial otitis.
+
+# Question of prolonged QT on EKG at ___. Repeat EKG ___ 
+two hours after ciprofloxacin and sertraline showed U waves, QT 
+was WNL.
+
+# Hyperlipidemia: Continued on home statin.
+
+# Anxiety/depression: Continued on home sertraline. 
+
+Code status: She was full code here
+
+For billing purposes, >30 minutes spent coordinating discharge 
+to rehab.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 20 mg PO DAILY 
+2. Klor-Con 10 (potassium chloride) 10 mEq oral DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. Cyanocobalamin ___ mcg PO DAILY 
+6. calcium carb-mag ox-zinc sulf 333-133-5 mg oral DAILY 
+7. Magnesium Oxide 400 mg PO DAILY 
+8. Atorvastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H  
+2.  LOPERamide 2 mg PO QID:PRN Diarrhea  
+3.  MetroNIDAZOLE 500 mg PO TID  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Cyanocobalamin ___ mcg PO DAILY  
+6.  FLUoxetine 20 mg PO DAILY  
+7.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute diverticulitis with abscess
+History of colon cancer
+GERD
+Acute renal failure
+Chronic diarrhea
+ 
+Discharge Condition:
+Tolerating a regular diet without abdominal pain or nausea
+
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted with weakness and weight loss. You were found 
+to have acute diverticulitis with multiple fluid 
+collections/abscesses. You were treated with IV fluids, 
+antibiotics, and bowel rest and you improved. A drain was placed 
+in one of the larger and more accessible fluid collections, 
+which showed pus consistent with an abscess. You were seen by 
+the colorectal surgery service and they recommended antibiotics, 
+drainage, and followup in their clinic in 2 weeks in order to 
+determine a plan, which may include repeat imaging or surgery.
+
+You are being discharged to rehab with the drain and with 
+antibiotics. You will need to follow up closely with the 
+colorectal surgery service. They are planning to see you in 
+outpatient clinic in 2 weeks; their number is below.
+ 
+Followup Instructions:
+___

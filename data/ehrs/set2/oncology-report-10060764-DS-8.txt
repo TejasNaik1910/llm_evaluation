@@ -1,0 +1,389 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Biliary obstruction
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+PTBD
+Transesophageal echo
+
+ 
+History of Present Illness:
+___ yo w/cholangiocarinoma presents as transfer from ___ 
+___ for ERCP. Pt admitted to ___ ___ with fever and 
+Afib RVR. She was found to have enterococcus and e.coli 
+bacteremia and rising LFTs. She was started on vanc/zosyn (___) and HR was controlled with lopressor and hydration. CT 
+showed increased duct dilation. She was transferred for 
+evaluation of her biliary stent given concern for intrabdominal 
+source of infection.  Her caretaker also reports decline in 
+mental status over 3 months.
+
+On admission the pt has no complaints. Denies abd pain and 
+fever.
+
+ROS: per HPI, denies fever, chills, night sweats, headache, 
+vision changes, rhinorrhea, congestion, sore throat, cough, 
+shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+dysuria, hematuria
+ 
+Past Medical History:
+HTN
+Afib s/p pacemaker placement on coumadin
+MVP
+OA of right hip
+Cholangiocarcinoma
+- s/p metal stent ___
+- s/p XRT and chemo
+ 
+Social History:
+___
+Family History:
+Mother with colon CA, sister with MM, niece with lung CA, Father 
+with CAD, M.GF with stomach CA
+ 
+Physical Exam:
+Admission Exam:
+VS: 97.4  161/93  75  20  96%ra 
+PAIN: 0
+GENERAL: NAD, comfortable, appropriate  
+HEENT: NC/AT, pinpoint pupils, sclerae icteric, MMM, OP clear    
+
+HEART: RRR, nl S1-S2, no MRG  
+LUNGS: CTAB, resp unlabored, no accessory muscle use  
+ABDOMEN: NABS, soft/NT/ND, no masses or HSM, no rebound/guarding 
+ 
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)  
+
+SKIN: no rashes or lesions  
+NEURO: awake, alert, follows commands
+ 
+Pertinent Results:
+___ Results:
+CT ___: mild intrahepatic ductal dilation as well as 
+pneumobilia. When compared to US of ___ the degree of 
+intrahepatic dilation appears slightly increased.
+
+ast 51
+alt 39
+alk phos 479
+alb 2.2
+Hct 31.8
+
+Admission Labs:
+___ 06:35AM BLOOD WBC-11.1* RBC-3.41* Hgb-11.7* Hct-35.8* 
+MCV-105*# MCH-34.4* MCHC-32.8 RDW-15.2 Plt ___
+___ 06:35AM BLOOD Glucose-81 UreaN-11 Creat-0.8 Na-135 
+K-4.0 Cl-101 HCO3-27 AnGap-11
+___ 06:35AM BLOOD ALT-51* AST-94* AlkPhos-506* TotBili-3.1*
+___ 06:35AM BLOOD Calcium-8.6 Mg-1.7
+
+CT Abdomen/Pelvis ___: 
+Recent placement of a right and left hepatic percutaneous 
+transhepatic 
+external-internal biliary drains. There is only minimal 
+intrahepatic biliary dilation, notably in segments 3, 5 and 8. 
+The metallic common bile stent is in the appropriate position. 
+There are no liver focal masses to suggest metastasis or cystic 
+areas to suggest  organized abscesses or bilomas. No periportal 
+or peripancreatic lymphadenopathy. Anasarca, bilateral 
+effusions, with dependent fluid in the pelvis.  
+
+TTE ___: No echocardiographic evidence of endocarditis. 
+Mild-to-moderate mitral regurgitation. Moderate-to-severe 
+tricuspid regurgitation. Mild symmetric left ventricular 
+hypertrophy with preserved global and regional biventricular 
+systolic function. At least mild pulmonary artery systolic 
+hypertension. Biatrial dilatation. 
+
+TEE ___: The left atrium is dilated. The right atrium is 
+dilated. A patent foramen ovale is present with slight flow 
+across the interatrial septum from left to right at rest. 
+Overall left ventricular systolic function is normal (LVEF>55%). 
+The right ventricular cavity is dilated with normal free wall 
+contractility. There are simple atheroma in the aortic arch and 
+descending thoracic aorta. The aortic valve leaflets (3) are 
+mildly thickened but aortic stenosis is not present. No masses 
+or vegetations are seen on the aortic valve. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is mild posterior leaflet mitral valve prolapse 
+(P3). No mass or vegetation is seen on the mitral valve. 
+Moderate (2+) mitral regurgitation is seen. The tricuspid valve 
+leaflets are mildly thickened. Tricuspid valve prolapse is 
+present. Moderate [2+] tricuspid regurgitation is seen. The 
+atrial portion of the pacemaker lead is well visualized with no 
+associated mass or vegetation. There is mild pulmonary artery 
+systolic hypertension. No vegetation/mass is seen on the 
+pulmonic valve. There is no pericardial effusion. 
+
+IMPRESSION: No 2D echocardiographic evidence of endocarditis. 
+Mild mitral valve prolapse with moderate, predominantly 
+late-systolic mitral regurgitation. Mild posterior mitral 
+leaflet prolapse with moderate tricuspid regurgitation. Mild 
+pulmonary artery hypertension. A PFO is present.  
+.
+CBD Brushing pathology: ATYPICAL. Atypical ductal cells, 
+neutrophils and bile 
+Liver biopsy pathology: Liver, needle biopsy (A):
+- Scant, extremely distorted tissue with focal atypia, 
+insufficient for evaluation.
+- Multiple levels have been examined.
+
+.
+Choangiography ___
+1. Uncomplicated cholangiography with dilatation and stenting of 
+hilar 
+strictures as above.  
+2. It was determined that due to the patient's anatomy, two 
+stents would 
+likely suffice, one for each lobe.  
+3. Of note, the right lobe stent passes through the interstices 
+of the 
+previously placed common bile duct stent and the left lobe stent 
+enters the stent via the distal/upper end, both stents terminate 
+in the CBD within the previously placed stent.  
+4. Plan to cap the drains when there is no longer blood-tinge to 
+the bile and observe with the capped anchor drains. Ultimately, 
+we can perform a followup cholangiogram and likely remove the 
+anchor drains.
+
+___ CT ABD AND PELVIS
+Final Report 
+TYPE OF THE EXAM:  CT of the abdomen and pelvis. 
+  
+REASON FOR THE EXAM AND MEDICAL HISTORY:  History of 
+cholangiocarcinoma with 
+cholangitis; status post percutaneous transhepatic 
+cholangiography with rising 
+bilirubin. 
+  
+COMPARISON EXAM:  CT of the abdomen and pelvis, dated ___.  This 
+study was also compared with an angiographic study for a biliary 
+catheter 
+check on ___. 
+  
+TECHNIQUE: 
+  
+Multiple axial MDCT images through the abdomen and pelvis were 
+obtained 
+post-administration of intravenous contrast and ingestion of 
+oral contrast. 
+  
+LUNG BASES:  There are bilateral pleural effusions, small to 
+moderate in size 
+with associated atelectasis.  No focal consolidation is seen. 
+  
+ABDOMEN:  There are two percutaneously placed biliary anchor 
+drains.  The 
+right catheter appears to have a straighter course compared to 
+the prior CT, 
+post-revision.  The distal tip of the right catheter is seen 
+extending to the 
+proximal end of the the metallic common bile duct stent which 
+itself extends 
+into the right common hepatic duct.  The left-sided catheter is 
+seen with 
+distal tip just proximal to the left-sided metal stent.  There 
+is intermediate 
+attenuation material within the drains and stents.  This is 
+often noted and 
+evaluation for luminal obstruction is limited. 
+  
+There is mild nonspecific enhancement of the hepatic parenchyma 
+surrounding 
+the right sided drain, possibly representing post procedural 
+changes. Compared 
+to the prior study, there is development of a small to moderate 
+amount of 
+perihepatic, subhepatic ascites and perisplenic ascites.  The 
+gallbladder is 
+not abnormally distended. There is surrounding fluid.  There is 
+small amount 
+of fluid in the left paracolic gutter which is slightly 
+increased compared to 
+the prior study.  There is no significant lymphadenopathy within 
+the abdomen 
+or pelvis.  The pancreas, kidneys, and adrenal glands are 
+stable.  Kidneys 
+enhance homogeneously without abnormalities. 
+  
+PELVIS:  There is a stable amount of fluid within the pelvis.  
+There are 
+numerous colonic diverticula.  No evidence of enlarged 
+lymphadenopathy within 
+the pelvis.  There is minimal stranding along the right-sided 
+colon which 
+probably is in the setting of anasarca. 
+  
+Osseous structures are stable without evidence of worrisome 
+blastic or lytic 
+lesions or acute fractures. 
+  
+VASCULAR STRUCTURES:  Atherosclerotic plaques of the aorta and 
+iliac vessels 
+are noted.  There is no aneurysmal dilatation or dissection. 
+  
+IMPRESSION: 
+  
+1.  Compared to the prior CT of ___, there has been 
+repositioning 
+of the PTB drains which are now externalized. There is 
+relatively stable 
+central intrahepatic biliary dilatation. 
+  
+2.  Increased small amount of intra-abdominal ascites. 
+ 
+ 
+Brief Hospital Course:
+___ yo female with cholangiocarcinoma who was admitted with 
+cholangitis and septicemia to OSH, transferred here for 
+management of biliary obstruction.
+
+ACTIVE ISSUES:
+# Cholangitis with biliary obstruction, complicated by 
+enterococcal and E coli septicemia.  
+She presented to OSH with sepsis on ___.  Found to have E coli 
+and enterococcus in her blood from biliary source.  She was 
+treated with Unasyn given the sensitivities.  She was 
+transferred to ___ on ___ and underwent ERCP but her bile duct 
+was unable to be cannulated due to visible tumor.  She therefore 
+underwent PTC/PTBD on ___ without complication.  
+She was seen by the infectious disease team and had TEE, 
+negative for endocarditis or pacemaker wire infection.  She also 
+had a CT abdomen/pelvis to rule out liver abscesses given a 
+possible lesion seen during PTBD, but CT did not demonstrate any 
+complications of her cholangitis.  Surveillance blood cx were 
+negative.  
+Her biliary drains were capped on ___. Had repeat cholangiogram 
+___ which looked ok. Over next few days bilirubin rose, so 
+cholangiogram again done ___, showing patent stents; reason for 
+higher bili remains unclear. Drains are capped and clinically 
+she looks well.  Drains were uncapped on ___ with slight 
+improvement in bilirubin.  Repeat CT ABD ___ showed stable 
+ductal dilation.   She underwent repeat cholangiogram with 
+removal of one drain and adjustment of the other drain.  The 
+drain was capped and she had stable but elevated bilirubin to 
+approx 4 on discharge but no pain or fever.  ___ plans to have 
+her return in ___ weeks for drain removal.  She received 
+instructions on how to place drain to bag if she develops pain 
+or fever.  She stopped unasyn on ___.  She will be on oral 
+fluconazole until ___.  
+
+# Cholangiocarcinoma: She has unresectable cholangiocarcinoma 
+s/p palliative chemo/XRT.  Patient and husband had been under 
+the impression that her cancer was "cured" by the chemo - 
+however, tumor seen on ERCP as above (though path and cytology 
+nondiagnostic).  Oncologist is Dr ___ at ___ in ___ - 
+updated by fax on ___. 
+I spoke with her oncologist, Dr. ___ at ___ in ___ to 
+update him about clinical course, dx of biliary interventions 
+and use of PTBD and antibiotics for her cholangitis, septicemia. 
+ 
+-She will need close follow-up with her oncologist as her 
+biliary obstruction is likely due to her cholangiocarcinoma.
+
+# Afib. Had RVR on admission to OSH, rate ctrl'd well here 
+without issue. Continued on digoxin + metoprolol (home meds). 
+Coumadin was held given multiple above procedures, and not 
+bridged with heparin.  
+-Planned to restart coumadin at discharge once plan in place for 
+drains. 
+
+INACTIVE ISSUES:
+
+# HTN: Controlled on metoprolol.
+
+# ? Dementia: She was transferred from the OSH on Aricept 
+although per her PCP, this is not a home medication for her.  
+This was stopped during this admission and she should see her 
+PCP to address this issue.
+ 
+TRANSITIONAL ISSUES
+- She was DNR/DNI during this admission
+
+She will receive ___, and home ___ on discharge.  ___ cleared her 
+to return home and she received a walker.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Warfarin 2 mg PO DAILY16 
+2. Cyanocobalamin 100 mcg PO DAILY 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Donepezil 10 mg PO HS 
+5. Digoxin 0.125 mg PO DAILY 
+6. Ursodiol 300 mg PO BID 
+
+ 
+Discharge Medications:
+1. Cyanocobalamin 100 mcg PO DAILY 
+2. Digoxin 0.125 mg PO DAILY 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Docusate Sodium 100 mg PO BID 
+6. Fluconazole 200 mg PO Q24H 
+RX *fluconazole [Diflucan] 200 mg 1 tablet(s) by mouth once a 
+day Disp #*3 Tablet Refills:*0
+7. Senna 1 TAB PO BID:PRN constipation 
+8. Simethicone 80 mg PO TID 
+9. Warfarin 2 mg PO DAILY16 
+10. Outpatient Lab Work
+lfts 
+fax results to Dr. ___ 
+phone ___
+fax ___
+oncologist
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cholangitis
+E Coli and Enterococcal Septicemia
+Cholangiocarcinoma
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at ___.  You were 
+admitted to the hospital due to an obstruction and infection in 
+your bile ducts that spread to your blood.  You underwent a 
+procedure called an ERCP but the infection needed to be drained 
+through your skin (percutaneously) therefore drains were placed 
+by the interventional radiologists.  
+The infection and obstruction was most likely caused by your 
+cancer (cholangiocarcinoma).  You were treated with antibiotics 
+and drains were placed to releive back up of bile.  
+
+Your coumadin was held for the procedures. When you leave the 
+hospital you should resume it on ___ evening.
+
+DRAIN INSTRUCTIONS
+**The bile drain is now capped, but if you have fever, increased 
+yellowing of skin, chills, shakes or worsened abdominal pain 
+then uncap drain and attach it to the bag as instructed.  Then 
+call your oncologist, you can also call the ___ operator and 
+ask to speak with the ANGIO fellow on call.  pager ___
+ 
+Followup Instructions:
+___

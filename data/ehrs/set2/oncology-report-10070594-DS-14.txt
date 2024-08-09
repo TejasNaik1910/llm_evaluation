@@ -1,0 +1,433 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+Liver biopsy ___
+
+ 
+History of Present Illness:
+___ is a ___ man with metastatic neurodendocrine 
+tumor,
+unknown primary, who is admitted from the ED with a sycnopal
+episode.
+
+Patient has had progressive functional decline over the last
+several months with associated poor po intake. He denies nausea
+or frank abdominal pain, but does note bloating and significant
+dysgeusia. He reports having eaten 'very little' over the
+previous month. Additionally, he has developed large volume
+diarrhea over the last three weeks, up to ___ stools per day
+(worse at night). He has also had increasing weakness over this
+time. 
+
+His son brought him to his medical oncology clinic on day of
+admission, but he had a syncopal episode in the parking lot.
+Patient stood up out of the car, and felt light headed. He did
+not fall right away, but eventually his legs 'gave out'. His son
+caught him and lowered him to the ground. He had no LOC, no
+headstrike, and he remembers the event clearly. No preceeding 
+CP,
+palpitations or SOB. Does have occaisional word finding
+difficulty, but no other new neurologic issues. He was seen in
+oncology where he was noted to have soft BP's (90/59), was 
+unable
+to stand up, have word finding difficulties, and slight left
+facial droop. He was transported to the ED.
+
+In the ED, initial VS were: pain 0, T 97.2, HR 86, BP 108/74, RR
+16, O2 100%RA. Labs notable for Na 140, K 3.8, HCO3 20, Cr 1.2,
+ALT 22, AST 54, ALP 348, LDH 467, TBIli 1.8, Alb 3.3, WBC 7.6,
+HCT 36.6, PLT 245, INR 1.9, Uric acid 16.7.
+
+CXR showed possible subtle right lateral mid lung consolidation.
+CT head showed new bilateral hygroma - neurosurgery recommended
+no intervention. Liver US showed known metastatic disease, but 
+no
+biliary obstruction. Patient received 1LNS prior to admission.
+
+On arrival to the floor, patient reports feeling better than he
+has in several weeks. No recent fevers or chills. He does have
+significant dry mouth and food tastes 'awful'. No CP or SOB. No
+palpitations. No N/V. No frank abdominal pain, but does have
+bloating. No dysuria. No new leg pain or weakness. No 
+significant
+flushing. No new rashes.
+
+REVIEW OF SYSTEMS: 
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+First developed abdominal bloating mid ___. He was
+then following up with one of our hepatologist, Dr. ___ he was found to have on ___, a 15.9-cm right lobe
+mass with multiple satellite lesions consistent with HCC and
+enlarged porta hepatis and retroperitoneal lymphadenopathy
+consistent with metastases.  His case was discussed at
+___ Conference and while the lymph nodes 
+were
+concerning and rereviewed by Interventional Radiology, they were
+found to be not diagnostic for metastases.  
+
+He underwent endoscopy with EUS on ___ which did not
+identify any primary lesions including in the pancreas.  A 
+biopsy
+of 1 of the lymph nodes returned as consistent with grade 2
+neuroendocrine tumor with a Ki-67 percentage of about 20%. 
+ 
+PAST MEDICAL HISTORY: 
+1.  NASH-induced cirrhosis complicated by portal hypertension.
+2.  Ascites and HCC.
+3.  Atrial fibrillation.
+4.  Hypertension.
+5.  Obesity.
+6.  BPH.
+7.  Gout.
+8.  Prediabetes mellitus.
+9.  Apparent CKD, which he is not aware of.
+10.  Baseline Bell's palsy left side.
+                             
+
+ 
+Social History:
+___
+Family History:
+His mother was diagnosed with intestinal cancer in her late ___
+and died at age ___.  Brother diagnosed in his ___ and living 
+with
+bladder cancer.  Sister living and has lymphoma. Sister living,
+diagnosed with breast cancer in her late ___.
+
+ 
+Physical Exam:
+DISCHARGE PHYSICAL EXAM:  
+VS: T 97.5  115/67  79  18  98%RA
+WT 185 lbs from 173 on admit - was slightly dry on admit, but
+looks overloaded still at this point
+GENERAL: Pleasant, lying in bed comfortably
+EYES: Anicteric sclerea, PERLL, EOMI, dry MM.  
+ENT: Oropharynx clear without lesion, JVD not elevated 
+CARDIOVASCULAR: Irregular rhythm, regular rate, no murmurs, 
+rubs,
+or gallops; 2+ radial pulses
+RESPIRATORY: Appears in no respiratory distress, clear to
+auscultation bilaterally, no crackles, wheezes, or rhonchi
+GASTROINTESTINAL: Normal bowel sounds; mildly distended; soft,
+nontender without rebound or guarding; no hepatomegaly, no
+splenomegaly. 
+MUSKULOSKELATAL: Warm, well perfused extremities, 1+ ___
+symmetric, slightly improved from yesterday
+RUE with PICC is swollen but neurologically intact, picc
+insertion site w/o erythema
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact
+SKIN: No significant rashes
+LYMPHATIC: No cervical, supraclavicular, submandibular
+lymphadenopathy. No significant ecchymoses
+ 
+DISCHARGE EXAM
+VS: 97.5 PO 118 / 70 76 18 97 Ra 
+WEIGHT: 83.92kg || 185.01lb  
+GENERAL: Pleasant, lying in bed comfortably
+EYES: Anicteric sclerea, PERLL, EOMI, dry MM.  
+ENT: Oropharynx clear without lesion, JVD not elevated 
+CARDIOVASCULAR: Irregular heart sounds, no murmurs, rubs,
+or gallops; 2+ radial pulses. JVP is 2cm above clavicle
+RESPIRATORY: Appears in no respiratory distress, clear to
+auscultation bilaterally, no crackles, wheezes, or rhonchi
+GASTROINTESTINAL: Normal bowel sounds; mildly distended; soft,
+nontender without rebound or guarding; no hepatomegaly, no
+splenomegaly. 
+MUSKULOSKELATAL: Warm, well perfused extremities, 1+ ___
+symmetric, slightly improved from yesterday
+RUE is swollen but neurologically intact
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact
+SKIN: No significant rashes
+LYMPHATIC: No cervical, supraclavicular, submandibular
+lymphadenopathy. No significant ecchymoses
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 02:20PM BLOOD WBC-7.6 RBC-4.18* Hgb-12.0* Hct-36.6* 
+MCV-88 MCH-28.7 MCHC-32.8 RDW-17.7* RDWSD-56.5* Plt ___
+___ 02:20PM BLOOD Neuts-82.9* Lymphs-9.5* Monos-6.9 
+Eos-0.1* Baso-0.1 Im ___ AbsNeut-6.29* AbsLymp-0.72* 
+AbsMono-0.52 AbsEos-0.01* AbsBaso-0.01
+___ 02:20PM BLOOD ___ PTT-30.3 ___
+___ 02:20PM BLOOD UreaN-29* Creat-1.2 Na-140 K-3.8 Cl-99 
+HCO3-20* AnGap-25*
+___ 02:20PM BLOOD ALT-22 AST-54* LD(LDH)-467* AlkPhos-348* 
+TotBili-1.8*
+___ 02:20PM BLOOD Albumin-3.3* Calcium-8.9 Phos-2.1* Mg-2.2 
+UricAcd-16.7*
+
+DISCHARGE LABS:
+
+IMAGING: 
+___ Imaging CHEST (PA & LAT) 
+Difficult to exclude a subtle lateral right mid lung
+consolidation.  No focal consolidation seen elsewhere.  Mild
+cardiomegaly.  No pulmonary edema. 
+
+___ Imaging LIVER OR GALLBLADDER US 
+1. Enlarged heterogeneous liver parenchyma containing several
+heterogeneous masses including a 11 x 8 cm right liver lobe 
+mass,
+better assessed on of ___ CT abdomen pelvis.  Patent
+main portal vein with hepatopetal flow. 
+2. Cholelithiasis without evidence of acute cholecystitis. 
+
+___ Imaging CT HEAD W/O CONTRAST 
+- Bilateral hygromas versus chronic subdural hematomas without
+significant midline shift. 
+- No acute intracranial hemorrhage. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: 
+___ is a ___ man with metastatic neurodendocrine 
+tumor, unknown primary, who is admitted from the ED with a 
+syncopal episode.
+
+# Syncope: Not clear he had a true syncopal episode, but most 
+likely collapsed in parking lot getting out of the car in 
+setting of orthostatic hypotension and
+hypovolemia as he was subsequently on evaluation found to by 
+hypotensive with BP in ___. He has been having ongoing diarrhea 
+for several weeks now, see below. Head CT showed concern for 
+chronic subdural vs hygroma, unlikely that this would account 
+for his symptoms. per NSGY this is not subdural and discussed w/ 
+the NP from their service likely chronic hygroma and no need for 
+further imaging
+and if anticoag needed that would be find from their standpoint. 
+Pt was likely hypovolemic from ongoing diarrhea and very poor po 
+intake. Doubt infectious process contributing, CXR without 
+obvious infiltrate. See below for asymptomatic bacteruria. No 
+leukocytosis or fever (developed elevated WBC after dex with 
+chemotherapy). Doubt PE given was on anticoag at baseline. 
+Cultures negative to date (see below for asx bacteruria) so DCd 
+antibiotics early in course and pt continued to do quite well.
+
+# Afib/RVR - HR was up to ___ in setting of initially 
+holding his metop/verapamil on admit due to syncope. He is 
+asymptomatic. He has no prior CVA history. Uptitrated metop to 
+50mg q6 with excellent effect. Given hypotension/syncope on 
+admit, will DC pt on metop 200mg XL (was on 100mg XL at home - 
+but also with verapamil) and DC his verapamil as HR well 
+controlled this admit on 50mg metop q6 and off verapamil, and 
+possibly verapamil with more antihypertensive
+effect contributing to orthostasis. Was continued on apixaban 
+given need for full anticoagulation due to RUE PICC associated 
+DVT.
+
+# Elevated cardiac enzymes - mild, downtrended. per discussion 
+w/ cardiology, most likely from demand in setting of 
+hypovolemia. Pt has no history of prior MI. He has no chest pain 
+and serial EKGs have had no dynamic changes (mild ST dep in 
+lateral leads <1mm, stable, no e/o Q waves). Per discussion w/ 
+cardiology, catheterization not indicated as wouldn't be 
+candidate for dual platelet therapy most likely as anticipate 
+thrombocytopenia in which case pt would be unable to come off of 
+ASA/Plavix, posing significant challenges. TTE for baseline, but 
+wouldn't likely be a surgical candidate even if significant 
+valvular disease (showed mod MR, normal EF)
+Trended trops to peak (0.04). Cont metop on DC at higher dose. 
+Could initiate statin but will consider any interactions there 
+with chemotherapy. Per oncologist hold off on starting statin at 
+this time given chemo and drug interactions.
+
+# Hyperbilirubinemia: 
+# Hyperuricemia:
+Improved with chemo. Elevated bilirubin initially concerning for 
+biliary obstruction, but RUQ showed no obvious obstruction. 
+Given elevated uric acid, must also consider tumor lysis. 
+Fortunately, his creatinine is at recent baseline and he has no 
+gross electrolyte abnormalities. This may represent significant 
+tumor
+burden turnover due to his large liver mass. He may have 
+elevated uric acid at baseline given his historical problems 
+with gout (none current). no e/o hemolysis on labs. ___ was 
+hydrated initially as above. Initiated allopurinol. 
+
+# Hygroma: Unclear significance. ___ be due to dehydration or 
+possibly chronic subdural hematoma. No clear acute insult, and 
+no history of falls outside of today's episode. Pt reports 
+getting struck in the head as a child though unclear if related
+Per neurosurgery NTD at this point. Holding anticoagulation 
+given concerns re anemia/anticpated thrombocytopenia, though 
+from ___ standpoint ok to continue if needed from hygroma 
+standpoint.
+
+# Diarrhea: Likely from his neuro-endocrine tumor. Stool 
+cultures sent in ED and C.diff neg. Per pt improving over the 
+course of the admission, using immodium prn.
+
+# Asymptomatic bacteruria - Ucx on admit grew citrobacter, but 
+pt denied fever or leukocytosis, was not neutropenic, and 
+continued to deny any urinary symptoms. He does at baseline have 
+difficulty that when he urinates stool comes out along with it 
+(pelvic muscle control issues?) but given this reflects 
+asymptomatic bacteruria, held off on treating for now. 
+
+# Protein calorie malnutrition. Nutrition consulted. Recommended 
+supplements.
+
+# Neuroendocrine tumor: Metastatic to lymph nodes and presumably 
+the liver.  Unclear primary source.  Based on cytology appears 
+to be well differentiated high grade. Plan has been to start 
+carboplatin/etoposide pending syncope workup and
+hyperbilirubinemia, which was given D1 on ___. PICC for 
+access/chemo. Dr. ___ to arrange for outpatient port 
+placement before next cycle. arranging for neulasta ___ 
+appointment on ___ ___. Repeated liver biopsy ___ to 
+rule out HCC and compare to neuroendocrine path from lymph node. 
+Received D1-D3 of C1 Carboplatin/Etoposide while in-house. 
+
+# Right arm swelling - picc in place, ultrasound showed PICC 
+associated DVT. Patient was restarted on apixaban, PICC was 
+pulled on ___.
+
+# Anemia - stable.  likely inflammatory block and from 
+malignancy, he may have marrow involvement. Drop initially 
+likely hemodilutional as pt hemoconcentrated on admit. checked 
+hemolysis labs (hapto 151, Tbili downtrending reassuring).
+
+# NASH-induced cirrhosis complicated by portal hypertension.
+# Ascites  
+E/o volume overload after chemo and initial hydration. Got 20mg 
+IV Lasix on ___ w some improvement on exam though weight 
+stable. Resumed home 20mg Lasix daily subsequently.
+
+# Hypertension - borderline BPs in low 100s initially but 
+normotensive upon discharge
+- Dose increased metoprolol, as above, and cont holding 
+verapamil. Decreased doxazosin dose.
+
+# BPH: Dose reduced home doxazosin, continued finasteride
+
+# Gout: Initiated allopurinol, continue colchicine as needed
+
+# Prediabetes mellitus: On LSS/Fingersticks while in house
+
+# CKD: Stage IIIA. At most recent baseline
+
+# Bell's palsy left side: Known prior to admission
+
+TRANSITIONAL ISSUES:
+====================
+1. Scheduled for Pegfilgrastim on ___
+2. Please monitor platelet count on ___ and C1D11 (___) 
+as may require holding apixaban if platelet nadir <50 000
+3. Discharged on increased dose of metoprolol XL (100 to 200mg) 
+as verapamil being held in setting of orthostasis
+4. Downtitrated doxazosin given orthostasis, no LUTS. Please 
+monitor and titrate as needed.
+5. Discharged on decreased dose of furosemide (40 to 20mg) given 
+relatively poor PO intake. Discharge weight is 185lbs, dry 
+weight assumed to be 181-182 lbs. Uptitrate to 40mg if weight 
+after ___ is >185lbs.
+
+Discharge planning and coordination required >60 minutes. 
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Colchicine 0.6 mg PO DAILY:PRN Gout 
+3. Doxazosin 16 mg PO HS 
+4. Finasteride 5 mg PO DAILY 
+5. Furosemide 40 mg PO DAILY 
+6. Metoprolol Succinate XL 100 mg PO DAILY 
+7. Verapamil SR 120 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Metoprolol Succinate XL 200 mg PO DAILY 
+RX *metoprolol succinate 200 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+3.  Neulasta (pegfilgrastim) 6 mg/0.6mL subcutaneous ONCE 
+RX *pegfilgrastim [Neulasta] 6 mg/0.6 mL 6 mg subcu once Disp 
+#*1 Syringe Refills:*0 
+4.  Pegfilgrastim Onpro (On Body Injector)  6 mg SC ONCE 
+Duration: 1 Dose 
+RX *pegfilgrastim [Neulasta] 6 mg/0.6 mL deliverable (0.64 mL) 6 
+mg subcutaneous once Refills:*6 
+5.  Senna 8.6 mg PO BID:PRN constipation  
+6.  Doxazosin 4 mg PO HS 
+RX *doxazosin 4 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+7.  Furosemide 20 mg PO DAILY 
+RX *furosemide 20 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+8.  Apixaban 5 mg PO BID  
+9.  Colchicine 0.6 mg PO DAILY:PRN Gout  
+10.  Finasteride 5 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Neuroendocrine carcinoma
+Atrial fibrillation
+Chronic kidney disease
+Cirrhosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted after fainting. We felt you were dehydrated. 
+You also received chemotherapy and had a liver biopsy.
+
+We think some of your blood pressure medicines caused low blood 
+pressure in setting of dehydration and contributed to the 
+fainting. We changed these around. Please STOP your verapamil. 
+We increased the dose of your metoprolol instead. Also, we 
+decreased the dose of your doxazosin as this can cause low blood 
+pressure. We are discharging you on apixaban mostly due to your 
+blood clot in the right arm. If your platelets drop 
+significantly with your chemotherapy your oncologist may ask you 
+to stop the apixaban for a moment. 
+
+Call your oncologist if any signs of bleeding. 
+
+You need to get your neulasta injection on ___, see below.
+
+We are sending you home with home ___ services.
+
+Your ___ Team
+ 
+Followup Instructions:
+___

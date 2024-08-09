@@ -1,0 +1,89 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Surgery
+- **Attending:** [Redacted]
+
+**Allergies:**
+- Penicillins
+- Biaxin
+- Motrin
+- Dilaudid
+
+**Chief Complaint:**
+- Carcinoid tumor status post (s/p) appendectomy
+
+**Major Surgical or Invasive Procedure:**
+- Laparoscopic right hemicolectomy
+
+**History of Present Illness:**
+- The patient, who had a previous appendectomy performed by Dr. [Redacted] in [Redacted], was found to have a 3 cm carcinoid tumor in the appendix. Retrospective symptom review revealed past evaluations for diarrhea, an unrevealing colonoscopy a year ago, and a diagnosis of irritable bowel syndrome. The patient reported increased gastrointestinal distress, fatigue, and thirst over the past year, with multiple unrevealing lab tests. She has a long-standing pattern of [Redacted] bowel movements per day since the age of [Redacted].
+
+**Past Medical History:**
+- Eating disorder
+- Depression and anxiety
+- Asthma
+
+**Past Surgical History:**
+- Reduction mammoplasty
+- Laparoscopic appendectomy
+- Tonsillectomy
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother with [Redacted] disease
+- No family history of colorectal cancer
+
+**Physical Exam:**
+- General: Appears well, normocephalic, atraumatic, anicteric
+- Vital Signs: Stable
+- Cardiovascular: Regular rhythm, no murmurs, rubs, or gallops
+- Chest: Clear lungs bilaterally
+- Abdomen: Soft, nondistended, nontender, healing laparoscopic appendectomy incisions
+
+**Pertinent Results:**
+- Blood tests (05:35 AM): WBC 10.2, RBC 3.95*, Hgb 11.7*, Hct 33.6*, MCV 85, MCH 29.7, MCHC 34.9, RDW 12.8, Platelets [Redacted]
+- Blood glucose 116*, Urea Nitrogen 7, Creatinine 0.6, Na 140, K 4.0, Cl 106, HCO3 28, Anion Gap 10
+- Blood calcium 8.5, Phosphorus 4.2, Magnesium 2.1
+- Pathology: Pending
+
+**Brief Hospital Course:**
+- The patient, a [Redacted] year old female, underwent a laparoscopic right hemicolectomy following the discovery of a 3 cm carcinoid tumor during an appendectomy. Post-operatively, she had no complications and followed the colectomy pathway.
+- **Pain Management:** PCA for pain control, Pain Pump with Bupivacaine, Toradol with good effect, switched to oral pain medications once tolerating clear liquids.
+- **GI/Abdomen:** NPO with IV fluids initially, soft and appropriately tender abdomen, clean and dry incisions, advanced to clear liquids on post-operative day (POD) 2, tolerating a regular diet at discharge.
+
+**Medications on Admission:**
+- Cymbalta 120 mg
+- Lorazepam 1 mg as needed
+- Albuterol
+
+**Discharge Medications:**
+1. Oxycodone-Acetaminophen [Redacted] mg Tablet, 45 Tablets, no refills
+2. Colace 100 mg Capsule, 60 Capsules, 2 refills
+3. Cymbalta 60 mg Capsule, Delayed Release, 2 Capsules daily
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Carcinoid tumor
+
+**Discharge Condition:**
+- Good, tolerating diet, pain well controlled
+
+**Discharge Instructions:**
+- Call doctor or return to ER if experiencing vomiting, dehydration, uncontrolled pain, fever, or any serious change in symptoms.
+- Resume regular home medications and take new medications as ordered.
+- Avoid driving or operating heavy machinery while on narcotic pain medications.
+- Increase daily activity, no heavy lifting for 4 weeks, monitor incision for infection, and maintain hygiene with showers (no tub baths or swimming).
+
+**Follow-up Instructions:**
+- [Redacted]

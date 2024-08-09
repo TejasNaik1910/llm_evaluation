@@ -1,0 +1,384 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+sitagliptin / fesoterodine / Statins-Hmg-Coa Reductase 
+Inhibitors / saxagliptin / pioglitazone / canagliflozin / 
+fenofibrate / heparin
+ 
+Attending: ___
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+EGD
+s/p PICC placement ___
+ 
+History of Present Illness:
+___ yo male with a history of pancreatic cancer who is admitted
+with melena. The patient states this morning when he went to the
+bathroom he noticed black stool. He had this one previous time a
+couple of weeks ago the day after an ERCP but has not had it
+since. He denies any abdominal pain or nausea. He otherwise 
+feels
+ok but does have fatigue and a poor appetite. He denies any
+recent fever, shortness of breath, rashes, or dysuria. Of note 
+he
+was recently admitted from ___ with bacteremia and a
+biliary obstruction and had an CBD stent replacement. He
+completed a course of antibiotics with zosyn yesterday.
+
+REVIEW OF SYSTEMS:
+- All reviewed and negative except as noted in the HPI.
+ 
+Past Medical History:
+ONCOLOGIC HISTORY:
+Mr. ___ was diagnosed pancreatic adenocarcinoma metastatic to
+the liver in ___ when he was admitted for painless
+jaundice. CT showed 3.3cm pancreatic head mass and MRI
+showed a 1.8cm left kidney lesion concerning for RCC as well as 
+2
+sub-cm liver masses. FNA of pancreas showed 'suspicious' cells.
+His pancreatic mass was deemed unresectable due to abutting the
+SMV and portal vein. He was treated with three cycles of
+FOLFIRINOX ___ which was halted due to rising CA 
+___
+and increased size of liver metastases. In ___,  CA
+___ elevated to 23K and considered potentially related to left
+finger infection in setting of diabetes. Imaging shows increased
+size of liver metastases. In ___ he started
+gemcitabine/Abraxane. Imaging ___ showing slight decrease 
+in
+the size of the liver metastases with stable disease at the
+pancreas. Course complicated by right thigh muscle infarct
+presumed ___ diabetes in ___. Primary chemotherapy side
+effect has been neuropathy on the bottoms of b/l feet without
+impairment of ADLs. Has required multiple dose and schedule
+adjustments in order to maximize quality of life, minimize 
+marrow
+toxicity and maintain control over tumor (primarily assessed by
+tumor marker). Imaging has showed mixed response in early ___:
+given discordance with ___, unclear if true progression vs
+variations due to reduced chemotherapy exposure at various time
+points for various toxicity and scheduling reasons. In setting 
+of
+increasing side effects and  mixed response by imaging/markers,
+changed to CapOx on ___ scans show a mixed response to treatment, regimen
+changed to modified FOLFIRINOX 
+-___: Began modified FOLFIRINOX with dose reduction ___
+IVP and Leucovorin held from regimen) (Per OMR, patient
+previously given this regimine at ___ for 3 cycles ___ ago)
+-___: CT scan showed progression of disease with an interval
+increase in size of the innumerable  hepatic masses, increased
+abnormal soft tissue in the retroperitoneum, and 
+increasing ascites.
+-___: Patient started on erlotinib with plan for C1D1 of
+gemcitabine on ___.
+-Admitted to ___ on ___ for hyperbilirubinemia, fevers, 
+n/v,
+and acute urinary retention.
+
+OTHER PAST MEDICAL HISTORY :
+- T2DM
+- Hypertension
+- Hyperlipidemia
+- s/p L hip replacement
+- heart murmur
+- s/p nose fracture
+- kidney lesion determined to be 2.4cm hemmorhagic cyst on MRI
+___ 
+ 
+Social History:
+___
+Family History:
+Mother:  dementia
+Father:  bladder cancer at older age
+Cancers in the family:  paternal cousin with primary liver 
+cancer
+
+ 
+Physical Exam:
+PHYSICAL EXAM:
+General:  NAD
+VITAL SIGNS: T 98.3 BP 156/72 HR 86 O2 100%RA
+HEENT:  MMM, no OP lesions
+CV:  RR
+PULM:  CTAB
+ABD:  Soft, NT, distended.
+LIMBS:  No edema, clubbing, tremors, or asterixis
+SKIN:  No rashes or skin breakdown
+NEURO: Alert and oriented, no focal deficits.
+
+Discharge Exam: 
+VS 98.2  160/80  88  18  97%RA
+Gen: thin, alert and conversant, more energetic than prior
+HEENT: MMM, OP clear
+Cardiovasc: RRR, old systolic murmur, full pulses, no edema  
+Resp: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+, protuberant, bulging flanks, + fluid wave
+Ext: no edema, warm, dry, no cyanosis or clubbing
+Skin: anasarca appears to be improving.
+Neuro: AAOx3. No facial droop. Nonfocal
+Psych: full range of affect
+GU: No foley, otherwise deferred
+ 
+Pertinent Results:
+Admission Labs: 
+___ 11:30AM BLOOD WBC-7.7 RBC-2.65* Hgb-8.0* Hct-24.9* 
+MCV-94 MCH-30.2 MCHC-32.1 RDW-22.0* RDWSD-74.4* Plt ___
+___ 11:30AM BLOOD ___ PTT-27.6 ___
+___ 11:30AM BLOOD Glucose-214* UreaN-22* Creat-1.3* Na-132* 
+K-4.9 Cl-99 HCO3-19* AnGap-19
+___ 11:30AM BLOOD ALT-36 AST-73* AlkPhos-683* TotBili-1.8*
+___ 11:30AM BLOOD Lipase-9
+___ 11:30AM BLOOD Albumin-2.9* Calcium-7.8* Phos-3.8
+
+RUQ US: 
+1. Moderate ascites.
+2. Innumerable hepatic lesions, better demonstrated on prior 
+MRI.
+3. Known pneumobilia, suggestive of CBD stent patency.
+4. Gallbladder sludge, without sonographic evidence of acute 
+cholecystitis.
+
+___ EGD: Findings:
+Esophagus: 
+Mucosa: Evidence of a widely patent Schatzki's ring. Normal 
+mucosa was otherwise noted. 
+Stomach: 
+Contents: Note was made of solid food within the stomach. 
+There was no evidence of fresh or old blood 
+Duodenum: 
+Contents: The duodenal bulb was noted to contain a large 
+quantity of solid food. There was no evidence of fresh or old 
+blood. 
+Impression: 
+
+    Evidence of a widely patent Schatzki's ring. Normal 
+esophageal mucosa was otherwise noted. 
+    Note was made of solid food within the stomach. There was no 
+evidence of fresh or old blood.
+    The duodenal bulb was noted to contain a large quantity of 
+solid food. There was no evidence of fresh or old blood within 
+the duodenum. 
+
+Discharge Labs: 
+___ 05:13AM BLOOD WBC-9.4 RBC-2.65* Hgb-8.3* Hct-25.2* 
+MCV-95# MCH-31.3# MCHC-32.9# RDW-21.2* RDWSD-70.7* Plt ___
+___ 05:13AM BLOOD Glucose-49* UreaN-31* Creat-0.9 Na-137 
+K-3.9 Cl-101 HCO3-24 AnGap-16
+___ 06:20AM BLOOD ALT-47* AST-95* AlkPhos-849* TotBili-1.4
+___ 05:13AM BLOOD Calcium-8.1* Phos-4.0 Mg-2.0
+___ 06:15AM BLOOD HEPARIN DEPENDENT ANTIBODIES-PND
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with pancreatic ca s/p recent ERCP w 
+CBD stent placement, DM type 2, recent biliary sepsis s/p 
+stent/completed abx course (last dose zosyn ___ who presented 
+with intermittent melena. Repeat ERCP found retained food in 
+stomach and duodenal bulb (?due to mass compressing on 
+duodenum), could not see source of bleeding. Responded well to 
+1u PRBC for anemia and GI bleeding appears to have stopped on 
+his own. He has generally had poor po intake over several weeks 
+in the setting of a known duodenal obstruction relating to his 
+cancer and he was started on TPN (___) via ___. 
+
+Hospital course complicated by hyperglycemia (controlled by the 
+addition of insulin to the TPN) and thrombocytopenia (most 
+likely relating to his known liver involvement and splenomegaly 
+but heparin-dependent antibody was sent), improving upon 
+discharge. On day of discharge plts >100 tomorrow and he 
+received a dose of gemcitabine/erlotinib (per Dr. ___. 
+Tolerating cycled TPN well, decreased insulin in TPN prior to 
+discharge due to hypoglycemia overnight during cycle, patient 
+awoke with symptoms. 
+
+Rest of hospital course/plan as outlined below by issue: 
+
+# Gastric/Duodenal outlet obstruction with protein calorie 
+malnutrition: Initially with nausea/vomiting, poor PO intake 
+which improved overall however not to the point to sustain his 
+nutrition on a full liquid diet alone. He declined NJ tube 
+placement. The issue of a J tube placement was raised however he 
+was determined to be too high risk (given worsening ascites and 
+liver mets). Discussed with surgery, who felt that presence of 
+ascites and liver mets put him at very high risk for ascetic 
+superinfection and poor wound healing. Given patient's aversion 
+to NJT, discussed nutritional options again with ERCP team 
+including revisiting attempting duodenal stent but not a 
+candidate for a duodenal stent (given high likelihood of 
+migration). The decision was made with Mr. ___ and his wife 
+to pursue initiation of TPN. 
+- TPN started ___ per nutrition recs, tolerating cycled TPN upon 
+discharge. 
+
+# Anasarca due to protein calorie malnutrition: Felt some 
+improvement with lasix 20mg PO, so started on daily dosing x 7 
+days with counseling for daily weights and expected inadequate 
+diuresis until protein levels improved. 
+- lasix 20 mg PO daily
+- repeat lytes in follow up
+
+# Melena, upper GI bleed, Acute blood loss anemia on anemia of 
+chronic inflammation: CBC stable after 1u PRBC ___. Suspect 
+residual blood in current stools, but most likely this was tumor 
+bleeding.
+
+# Metastatic pancreatic cancer: Diagnosed ___ stage 4, 
+progressed on modified FOLFIRINOX, C1 Gemzar ___ received 
+erlotinib. SW consult placed but patient declined. Inpatient 
+chemo was delayed due to thrombocytopenia, which improved prior 
+to discharge, and he received dose of gemcitabine/erlotinib on 
+day of discharge due to improvement in platelets. 
+- continued home Ritalin, ativan, Creon with liquids as 
+tolerated
+
+# Thrombocytopenia: feel most likely due to liver disease with 
+multiple mets (splenomegaly noted on MRI from ___) however 
+progressive nature concerning for HIT, HIT-antibody was sent. 
+Note that he had not been receiving sc heparin while inpatient 
+due to concern for GI bleeding but had been receiving heparin 
+flushes for his port. Thombocytopenia improved prior to 
+discharge. 
+- changed heparin flushes to citrate
+- follow up CBC as outpatient
+
+# HTN: continued home amlodipine, lisinopril
+
+# Acute Kidney Injury: Improved with IVF, likely prerenal. 
+
+# Hyponatremia: Mild, likely hypovolemic and improved with IVF 
+overnight. History of SIADH, known lingular mass unlikely 
+playing a role during this admission. 
+
+# Recent Klebsiella bacteremia: completed treatment course with 
+Zosyn on ___, no evidence of infection throughout this 
+admission. 
+
+# DMII: HISS, hyperglycemic after PO intake improved. Restarted 
+lantus 10U qAM (home dose previously 15U qAM) + ISS + insulin 
+contained in his TPN which was titrated.
+
+# Abnormal LFTs: likely due to numerous liver mets, relatively 
+stable
+
+# GOC: Wife and patient are very well-educated about his 
+condition, want every aggressive treatment. Full code
+
+# Transitional Issues: 
+-continue full liquids (although per ERCP, should not advance 
+any further)
+-f/u with Dr. ___ ongoing chemotherapy 
+-follow up with Dr. ___ with outpatient dietician ___ 
+___ for ongoing management of TPN. You need outpatient 
+labs drawn to follow your TPN 
+-heparin dependent antibodies will need to be followed up by Dr. 
+___ with her over the phone, aware of test sent)
+# ACCESS on discharge: PORT, PICC placed ___
+
+> 30 minutes spent on discharge day planning, counseling, and 
+coordination care. Discussed with patient and primary oncologist 
+close follow up. Medically stable for discharge home with 
+services. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Creon ___ CAP PO TID W/MEALS 
+3. DULoxetine 30 mg PO DAILY 
+4. LORazepam 0.5 mg PO Q6H:PRN nausea or sleep 
+5. MethylPHENIDATE (Ritalin) 20 mg PO DAILY:PRN fatigue, 
+decreased concentration 
+6. Pyridoxine 50 mg PO DAILY 
+7. Tamsulosin 0.4 mg PO BID 
+8. MethylPHENIDATE (Ritalin) 20 mg PO QAM 
+9. Nystatin Oral Suspension 5 mL PO QID 
+10. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+11. Lisinopril 5 mg PO DAILY 
+12. Glargine 15 Units Breakfast
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Creon ___ CAP PO TID W/MEALS 
+3. DULoxetine 30 mg PO DAILY 
+4. Glargine 10 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+5. Lisinopril 5 mg PO DAILY 
+6. MethylPHENIDATE (Ritalin) 20 mg PO DAILY:PRN fatigue, 
+decreased concentration 
+7. MethylPHENIDATE (Ritalin) 20 mg PO QAM 
+8. Pyridoxine 50 mg PO DAILY 
+9. Simethicone 80 mg PO TID:PRN gas 
+10. Sodium CITRATE 4% 3 mL DWELL PRN instead of heparin lock 
+11. LORazepam 0.5 mg PO Q6H:PRN nausea or sleep 
+12. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+13. Nystatin Oral Suspension 5 mL PO QID 
+14. Tamsulosin 0.4 mg PO BID 
+15. Furosemide 20 mg PO DAILY 
+RX *furosemide 20 mg 1 tablet(s) by mouth daily Disp #*10 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+malnutrition, metastatic pancreatic cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted for bleeding from the GI tract relating to 
+your underlying pancreatic cancer. You had an ERCP which showed 
+retained food in your stomach but no source of bleeding. You had 
+poor nutrition relating to obstruction by the cancer on your 
+duodenum so a PICC line was placed and you were started on total 
+parenteral nutrition (TPN) which was adjusted over the weekend. 
+Please make sure to have some juice when TPN finishes in the 
+morning. 
+
+Your home long acting lantus insulin dose was decreased to 
+10units. 
+
+You should not advance your diet beyond liquids due to the risk 
+of obstruction in your intestine.  
+
+Your platelets were low which is likely due to tumor involvement 
+in your liver, but they were improving prior to discharge, and 
+you were able to get your chemotherapy on ___.
+
+Follow up with Dr. ___ as an outpatient for ongoing 
+chemotherapy. You should follow up with Dr. ___ with 
+outpatient dietician ___ for ongoing management of 
+your TPN. You need outpatient labs drawn to follow your TPN 
+which will be followed up by this provider. 
+
+Please make sure you weigh yourself daily, and call your doctor 
+if your weight increases by more than ___ in 24 hours. Please 
+take Lasix daily to help with your swelling for the next week. 
+If you start to feel dizzy or dehydrated, DO NOT take your Lasix 
+and call your doctor right away. 
+
+We wish you all the best. 
+ 
+Followup Instructions:
+___

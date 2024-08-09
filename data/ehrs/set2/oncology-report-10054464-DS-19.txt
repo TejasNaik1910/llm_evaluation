@@ -1,0 +1,383 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+electrical cardioversion of atrial fibrillation
+
+ 
+History of Present Illness:
+The patient is a ___ man with CAD s/p MI ___ years ago, 
+hypertension, dyslipidemia, and poorly differentiated metastatic 
+squamous cell lung cancer who was discharged from the ___ 
+service yesterday after an admission for hemoptysis and jaw 
+pain, during which he was found to have a large left pleural 
+effusion thought to be malignant in etiology and s/p therapeutic 
+thoracentesis yesterday during which only 500cc of fluid was 
+removed, who went on to develop chest pain and diaphoresis at 
+3am overnight. He awoke with this pain and diaphoresis and was 
+taken to ___ ED where he was noted to be in A-fib w/ 
+RVR and hypotensive. He was started on a diltiazem gtt and IVF, 
+and transferred to the ___ ED. In the ED here he continued to 
+have chest pain and diaphoresis, and was hypotensive to the ___, 
+so he cardioverted at 7am with 100J into NSR. His SBPs were 
+initially sustained in the ___ (in the setting of receiving 
+Versed prior to the cardioversion), but increased in the setting 
+of having a Cudet catheter placed, after which he has been in 
+the high ___. Labs revealed baseline CBC, elevated 
+creatinine (1.2 from 0.9), hyperkalemia (5.4), troponin 0.04, 
+and lactate 2.1. CXR showed worsening of his effusion from 
+yesterday, and CTA showed no PE but did show a left hilar mass 
+with new collapse of the left main bronchus and LLL > LUL 
+atelectasis, as well as larger metastatic masses compared with 
+CT ___. He received a total of about 3L NS IVF, with 250cc 
+UOP. He is being admitted to the CCU for further care. VS just 
+prior to transfer: HR 69, BP 90/64, SaO2 100% 2L NC.
+.
+On arrival to the CCU, patient chest pain free and in sinus 
+rhythm in the ______.
+.
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, black stools or red 
+stools. He denies recent fevers, chills or rigors. All of the 
+other review of systems were negative.
+.  
+Cardiac review of systems is notable for absence of dyspnea on 
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, 
+syncope or presyncope.  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: (-)Diabetes, (+)Dyslipidemia, 
+(+)Hypertension  
+2. CARDIAC HISTORY: 
+- CAD s/p MI ___ years ago, not on aspirin
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS: none
+-PACING/ICD: none
+3. OTHER PAST MEDICAL HISTORY:
+s/p tonsillectomy
+poorly differentiated squamous cell lung cancer with metastases 
+to the adrenals, brain, and soft tissue
+ 
+Social History:
+___
+Family History:
+Sister had breast cancer. No known family history of early MI, 
+arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise 
+non-contributory.
+ 
+Physical Exam:
+Vitals - 97.6, 130/74, 85, 20, 94%2L  
+Eyes: EOMI, PERRL, conjunctiva clear, noninjected, anicteric, no 
+ 
+exudate  
+ENT: Moist, a 1.5 x 2 cm fixed nodule over the R maxilla  
+adjacent to the R ear, nontender  
+Neck: No JVD, no LAD, no thyromegaly, no carotid bruits  
+Cardiovascular: RRR, nl S1/S2, no m/r/g  
+Respiratory: RLL basalar crackles, decreased breath sounds 
+entire left lung  
+Gastrointestinal: soft, non-tender, non-distended, no  
+hepatosplenomegaly, normal bowel sounds  
+Musculoskeletal/Extremities: no clubbing, no cyanosis, no joint  
+
+swelling, 1+ pitting ___ ankles, L>R, noted chronic skin scaling 
+leison non-infected over R ankle  
+Neurological: Alert and oriented x3, ambulating to the bathroom  
+
+Integument: a 5 cm x 7 cm hard purpuric, blanching nodule  
+(fixed) noted to the right of the midline of the upper thoracic  
+
+vertebrae  
+Psychiatric: appropriate, pleasant  
+Hematological/Lymphatic: No cervical, supraclavicular, axillary, 
+ 
+or inguinal lymphadenopathy palpable  
+
+ 
+Pertinent Results:
+Imaging:
+=======
+Portable TTE (Complete) Done ___ at 2:35:18 ___      FINAL 
+The left atrium is moderately dilated. The estimated right 
+atrial pressure is ___ mmHg. Left ventricular wall thicknesses 
+and cavity size are normal. There is mild regional left 
+ventricular systolic dysfunction with severe hypokinesis of the 
+basal half of the inferior wall and mid inferolateral wall. The 
+remaining segments contract normally (LVEF = 40 %). Tissue 
+Doppler imaging suggests an increased left ventricular filling 
+pressure (PCWP>18mmHg). Right ventricular chamber size and free 
+wall motion are normal. The ascending aorta is mildly dilated. 
+The aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. 
+IMPRESSION: Regional left ventricular systolic dysfunction c/w 
+CAD. Increased PCWP
+
+CHEST (PORTABLE AP) Study Date of ___ 6:46 AM 
+Left lobe remains collapsed, extent of a left pleural 
+abnormality has 
+increased since ___ suggesting bleeding or infection 
+in the setting of extensive intrathoracic malignancy involving 
+the lung, hilus, pleural space and probably the mediastinum. 
+Enlargement of the mediastinal contour since ___ may 
+reflect pericardial effusion. Clinical correlation recommended 
+to exclude cardiac tamponade. Right pleural thickening is 
+longstanding, and probably not malignant. Right lung is clear 
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of ___ 
+7:02 AM 
+IMPRESSION: 
+1. Left hilar masses have progressed to now cause obliteration 
+of the left 
+main bronchus, with associated collapse of the left lower lobe 
+and lingula as well as atelectasis in the left upper lobe. 
+Dominant left lower lobe mass is again noted. Small left pleural 
+effusion is slightly increased. Size of multiple metastatic 
+lesions including left axillary and posterior chest wall soft 
+tissue masses as well as right adrenal and bilateral pleural 
+nodules are all increased in size. 
+2. No pulmonary embolism is seen. 
+
+Cytology:
+========
+NEGATIVE FOR MALIGNANT CELLS.
+
+LABS:
+====
+___ 06:40AM BLOOD WBC-14.2* RBC-3.26* Hgb-9.7* Hct-28.6* 
+MCV-88 MCH-29.7 MCHC-33.9 RDW-16.3* Plt ___
+___ 06:00AM BLOOD WBC-1.0*# RBC-2.49* Hgb-7.4* Hct-21.8* 
+MCV-88 MCH-29.9 MCHC-34.2 RDW-16.0* Plt Ct-67*
+___ 06:25AM BLOOD WBC-0.9* RBC-2.99* Hgb-8.9* Hct-24.7* 
+MCV-83 MCH-29.7 MCHC-35.9* RDW-15.6* Plt Ct-20*
+___ 06:30AM BLOOD WBC-2.7*# RBC-3.29* Hgb-9.5* Hct-27.1* 
+MCV-82 MCH-28.8 MCHC-35.0 RDW-15.0 Plt Ct-22*
+___ 06:00AM BLOOD ___ ___
+___ 08:43AM BLOOD ___ ___
+___ 06:20AM BLOOD ___ ___
+___ 06:25AM BLOOD ___ ___
+___ 06:30AM BLOOD ___ ___
+___ 06:40AM BLOOD ___ PTT-23.1 ___
+___ 06:40AM BLOOD Glucose-83 UreaN-36* Creat-0.9 Na-131* 
+K-5.7* Cl-95* HCO3-26 AnGap-16
+___ 12:13AM BLOOD Glucose-95 UreaN-37* Creat-0.8 Na-133 
+K-5.8* Cl-104 HCO3-29 AnGap-6*
+___ 06:00AM BLOOD Glucose-88 UreaN-32* Creat-0.8 Na-136 
+K-4.4 Cl-103 HCO3-22 AnGap-15
+___ 06:30AM BLOOD Glucose-97 UreaN-41* Creat-1.1 Na-134 
+K-5.0 Cl-102 HCO3-26 AnGap-11
+___ 06:40AM BLOOD CK(CPK)-47
+___ 03:35PM BLOOD CK(CPK)-340*
+___ 12:13AM BLOOD CK(CPK)-230*
+___ 06:40AM BLOOD cTropnT-0.04*
+___ 03:35PM BLOOD CK-MB-81* MB Indx-23.8* cTropnT-1.59*
+___ 12:13AM BLOOD CK-MB-53* MB Indx-23.0* cTropnT-1.72*
+___ 06:04AM BLOOD CK-MB-36* MB Indx-22.4* cTropnT-1.24*
+___ 06:40AM BLOOD CK-MB-8 cTropnT-1.09*
+___ 06:04AM BLOOD ALT-30 AST-87* LD(LDH)-373* CK(CPK)-161 
+AlkPhos-85 TotBili-0.8
+___ 06:40AM BLOOD ALT-27 AST-52* LD(___)-323* CK(CPK)-57 
+AlkPhos-80 TotBili-0.7
+___ 06:20AM BLOOD ALT-19 AST-20 LD(___)-200 AlkPhos-68 
+TotBili-1.0
+___ 03:35PM BLOOD Calcium-9.2 Phos-3.5 Mg-1.9
+___ 06:40AM BLOOD Calcium-9.3 Phos-2.7 Mg-1.8
+___ 06:30AM BLOOD Calcium-10.1 Phos-3.2 Mg-1.8
+ 
+Brief Hospital Course:
+This is a ___ yo M with poorly differentiated squamous lung 
+cancer on carboplatin/taxol ___ s/p thoracentesis with 
+500cc fluid removed now getting XRT to L lung. Night of 
+discharge, patient presented to ___ with chest pain 
+and diaphoresis A-fib w/ RVR and hypotensive. No history of Afib 
+with RVR, cardioverted. Found to have NSTEMI given statin. EP 
+saw patient for rhythm control, put patient on sotalol.  ekg 
+this am with normal QTc. No change in shortness of breath, 
+continues to have same oxygen requirement. Patient s/p bronch 
+APC for hemopytysis, XRT for R jaw met, Patient started XRT to 
+lung and as resumed minimal hemoptysis.
+.  
+Patient is a ___ year old male with metastatic poorly 
+differentiated squamous lung ca with multiple mets and L main 
+bronchus obliteration on carboplatin/taxol ___,  who on 
+night of most recent discharge after thoracentesis, had acute CP 
+and was found to be in afib with RVR.  He was cardioverted, sent 
+to the CCU for monitoring.  He sustained an NSTEMI and was put 
+on high dose statin.  Anticoagulation was withheld given 
+hemoptysis and potential for aggressive endobronchial lesion.  
+He was also seen by EP and given sotalol for rate/rhythm control
+. 
+# SCHF - secondary to repeat NSTEMI now with ventricular wall 
+focal hypokinesis. EF 40%. Patient initially started on Lasix, 
+which was discontinued upon discharge given mild hypotension and 
+euvolemia.  
+. 
+# CAD: Now s/p NSTEMI. Per report, pt had an MI ___ years ago. No 
+ASA since large necrotic lung mass and scant hemoptysis. Patient 
+changed from atenolol with sotalol and was given statin and no 
+further antiplatelet therapy given large risk for bleeding and 
+hemoptysis.
+.
+# Anemia: Normocytic, stable, likely of chronic disease in  
+setting of malignancy
+.
+Oncologic:
+# Neutropenic / Pancytopenic- No fever at this time. Patient 
+became neutropenic, as expected, while in house and was given 
+Neupogen for stimlation.  He was transiently on levofloxacin for 
+neutropenic fever, which was subsequently discontinued after 48 
+hours with no fevers and negative micro
+.
+# Large main bronchus obliteration - patient receiving treatment 
+course of XRT to lung, which he will continue as an outpatient.
+.  
+# Poorly differentiated metastatic squamous lung cancer - He has 
+ 
+metastasis to the adrenals, brain and soft tissue (jaw & back). 
+Carboplatin/taxol ___. Patient did not require neupogen 
+given white count. Patient was given megace to stimulate 
+appetite. 
+. 
+# Pain control - Secondary to Metastatic R temporal leison - 
+from poorly differentiated squamous lung ca s/p local XRT. 
+Patient also from superficial midline thoracic back metatasis. 
+No new neurologic symptoms. Patient received XRT by radiational 
+oncology. Patient's pain was well controlled upon discharge.
+.  
+# Depression - Patient evaluated by psych, placed on citalopram. 
+Patient became hyponatremic and switched to mitrazipine  
+
+After discussion with the patient, the patient's family and the 
+medical staff, all were in agreement that ___ was a 
+suitable candidate for discharge.
+ 
+Medications on Admission:
+- Home O2: ___ Liter continuous nasal canula to maintain O2 sat 
+>90%
+- Atenolol 50mg PO daily
+- Simvastatin 20mg PO daily
+- Latanoprost 0.005% ophthal gtt QHS
+- Acetaminophen 650mg PO Q6hrs
+- Colace 100mg PO BID
+- Bisacodyl 10mg PO daily PRN constipation
+- Miralax 3350 100% powder PO daily PRN constipation
+- Senna 8.6mg PO BID PRN constipation
+- Fentanyl 100mcg/hr Patch Q72hrs
+- Simethicone 80mg PO QID PRN bloating
+- Compazine 10mg PO Q6hrs PRN nausea
+- Zantac 150mg PO BID
+- Megestrol 400mg/10ml suspension PO daily
+- Ativan 0.5mg PO Q4hrs PRN nausea
+- Dilaudid 4mg PO Q3hrs PRN pain
+- Dextromethorphan-Guaifenesin ___ syrup PO Q6hrs PRN 
+cough
+- Mirtazapine 7.5mg PO QHS
+- Nystatin 100,000units/mL 5ml PO QID PRN thrush
+ 
+Discharge Medications:
+1. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+Disp:*30 Adhesive Patch, Medicated(s)* Refills:*2*
+2. Sotalol 80 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+3. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+4. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for Constipation.  
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+Constipation.  
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+9. Polyethylene Glycol 3350 100 % Powder Sig: One (1)  PO DAILY 
+(Daily) as needed for constipation.  
+10. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO QID (4 times a day) as needed for bloating.  
+11. Megestrol 400 mg/10 mL (40 mg/mL) Suspension Sig: One (1)  
+PO DAILY (Daily).  
+12. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.  
+13. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+14. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for nausea.  
+15. Hydromorphone 4 mg Tablet Sig: One (1) Tablet PO Q3H (every 
+3 hours) as needed for pain.
+Disp:*120 Tablet(s)* Refills:*0*
+16. Dextromethorphan-Guaifenesin ___ mg/5 mL Syrup Sig: ___ 
+MLs PO Q6H (every 6 hours) as needed for cough.  
+17. Mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime). 
+ 
+18. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day) as needed for thrush.  
+19. Outpatient Lab Work
+CHEM 10
+Please have drawn at your radiation treatment on ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+atrial fibillration s/p electrical cardioversion
+NSTEMI
+sCHF EF 40%
+neutropenic on neupogen
+metastatic poorly differentiated squamous lung cancer on 
+carboplatin/taxol ___ 
+hemoptysis undergoing XRT
+.
+Secondary:
+depression
+
+ 
+Discharge Condition:
+afebrile, stable vital signs, tolerating POs, oxygenating well 
+off ocygen, intermittent hemoptysis
+
+ 
+Discharge Instructions:
+You were admitted for atrial fibrillation which was resolved 
+with electrical cardioversion. You had a small heart attack and 
+observed in the cardiac intensive care unit. You are to continue 
+a medication called sotalol to keep your heart in a regular 
+rhythm. You were transferred to the Oncology service and 
+continued on radiation and were monitored daily.  You received 
+transfusions in order to maintain normal levels of blood and 
+platelets.
+.
+Please take all medications as prescribed. Please go to all 
+scheduled follow up appointments.
+.
+Contact your physician if you develop shortness of breath that 
+is not improved with the usage of your home oxygen. If Please be 
+compliant with a salt restricted diet.
+ 
+Followup Instructions:
+___

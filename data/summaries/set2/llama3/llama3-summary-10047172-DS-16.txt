@@ -1,0 +1,32 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* The patient is a male with a history of pancreatic cancer, diabetes, hypertension, and hyperlipidemia.
+* He was admitted to the hospital with melena (black stools) and a history of biliary obstruction.
+
+**Cancer History:**
+
+* The patient was diagnosed with pancreatic adenocarcinoma metastatic to the liver in [date].
+* The pancreatic mass was deemed unresectable due to its location near the superior mesenteric vein (SMV) and portal vein.
+* He has received multiple cycles of chemotherapy, including FOLFIRINOX, gemcitabine/Abraxane, and CapOx, with varying degrees of response.
+
+**Hospital Course:**
+
+* The patient underwent an endoscopy (EGD) which showed retained food in the stomach and duodenum, but no source of bleeding.
+* He was started on total parenteral nutrition (TPN) via a PICC line due to poor nutrition and obstruction of the duodenum by the cancer.
+* His hospital course was complicated by hyperglycemia, thrombocytopenia, and anasarca (fluid retention).
+* He received a dose of gemcitabine/erlotinib on the day of discharge.
+
+**Discharge Medications:**
+
+* The patient was discharged on multiple medications, including amlodipine, Creon, duloxetine, glargine, insulin, lisinopril, and others.
+
+**Discharge Instructions:**
+
+* The patient was instructed to continue TPN, follow a liquid diet, and take medications as prescribed.
+* He was also advised to follow up with his oncologist for ongoing chemotherapy and with a dietician for management of his TPN.
+
+**Discharge Diagnosis:**
+
+* The patient was discharged with a diagnosis of malnutrition and metastatic pancreatic cancer.

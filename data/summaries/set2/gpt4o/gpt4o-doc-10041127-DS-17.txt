@@ -1,0 +1,89 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** No known drug allergies
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Abdominal pain
+
+**Major Surgical or Invasive Procedure:**
+- Paracentesis
+
+**History of Present Illness:**
+- The patient has a history of neuroendocrine carcinoma of the liver with extensive right upper quadrant (RUQ) disease. He has been off chemotherapy since [date redacted] and presented with abdominal pain and distention. Recent lab results showed a significant increase in bilirubin levels (7.9 from a baseline of 3). The patient reported intermittent fevers, no bowel movements for two days, difficulty holding objects, and a fall in the past week. A CT scan revealed no ductal dilation or small bowel obstruction but showed an increase in abdominal/pelvic free fluid and diffuse hepatic metastases.
+
+**Past Medical History:**
+- **Oncologic History:**
+  - Initial symptoms included early satiety and bloating.
+  - Liver ultrasound revealed a large mass in the right lobe extending into the left lobe.
+  - Biopsy confirmed neuroendocrine carcinoma positive for CK7, CK20, chromogranins, synaptophysin, and S-100.
+  - CT scans showed the mass causing biliary obstruction and involvement of the portal vein.
+  - AFP levels were over 3000.
+  - Exploratory laparotomy and nodule biopsy indicated the carcinoma was unresectable.
+  - Chemotherapy included cycles of cisplatin/gemcitabine, which were eventually stopped due to myelosuppression.
+  - Sorafenib was started but later stopped due to fatigue and weight loss.
+
+- **Other Medical History:**
+  - Motor vehicle accident with head trauma and diminished near vision.
+  - Positive PPD test.
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother is alive and healthy.
+- Father has heart palpitations.
+- Six brothers and four sisters, all healthy.
+
+**Physical Exam:**
+- **Vitals:** T99, 96.8 lbs, BP 128/88, HR 92, RR 14, 98% RA
+- **General:** Gaunt, temporal wasting
+- **HEENT:** Marked jaundice, PERRL, no epistaxis or rhinorrhea, MMM
+- **Neck:** Elevated EJs, no bruits, no cervical lymphadenopathy, trachea midline
+- **Cardiac:** RRR, no murmurs/gallops/rubs, normal S1 S2, radial pulses +2
+- **Pulmonary:** Decreased breath sounds at the right base, mild crackles
+- **Abdomen:** Soft, non-tender, non-distended, bowel sounds present, marked distention
+- **Extremities:** No cyanosis, clubbing, or edema
+- **Neurological:** Alert, oriented to person and place, not time. CN II-XII intact, moves all extremities, strength in upper and lower extremities, patellar DTR +1, plantar reflex downgoing, no gait disturbance or cerebellar dysfunction
+- **Skin:** No cyanosis or gross dermatitis, no ecchymoses
+
+**Pertinent Results:**
+- **Labs:** Elevated WBC, low RBC, Hgb, Hct, elevated AST, ALT, AlkPhos, and total bilirubin. Hypercalcemia noted.
+- **Radiology:** CT showed no significant change in liver metastases, increased abdominal/pelvic free fluid, mild ileus, no obstruction.
+
+**Brief Hospital Course:**
+- **Assessment/Plan:**
+  - **Neuroendocrine Cancer:** Unresectable, progressed despite chemotherapy. Transition to hospice care.
+  - **Hypercalcemia:** Treated with hydration, lasix, bisphosphonate, and calcitonin. Calcium levels normalized.
+  - **Cholangitis:** Managed with Zosyn, afebrile, stable hemodynamics.
+  - **Ascites:** Palliative paracentesis performed, removing 5L of fluid.
+  - **Gastrointestinal Bleeding:** History of grade II varices, stable Hct, no transfusions needed.
+
+**Medications on Admission:**
+- Sucralfate, Docusate, Pantoprazole, Lactulose, Oxycodone, Compazine, Megace, Ondansetron
+
+**Discharge Medications:**
+- Ondansetron, Prochlorperazine, Oxycodone, Megestrol, Lactulose, Sucralfate
+
+**Discharge Disposition:**
+- Home with hospice care
+
+**Discharge Diagnosis:**
+- Hepatocellular carcinoma
+
+**Discharge Condition:**
+- Stable, afebrile
+
+**Discharge Instructions:**
+- Treated for hypercalcemia and abdominal fluid. Transition to hospice care. Contact PCP or oncologist for concerning symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]

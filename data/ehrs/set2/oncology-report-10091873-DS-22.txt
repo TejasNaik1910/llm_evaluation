@@ -1,0 +1,354 @@
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine-Iodine Containing / Iodinated Contrast Media - IV Dye
+ 
+Attending: ___
+ 
+Chief Complaint:
+Weight Loss, Right Mouth Pain.
+ 
+Major Surgical or Invasive Procedure:
+ENT Endoscopic Examination ___
+PEG Tube Placement ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male, with past history of HPV+ 
+Oropharyngeal T2, N2a, Stage ___ squamous cell carcinoma of the 
+tonsil, treated with cisplatin and IMRT (30 fractions with 
+delivery to gross and nodal disease), now presenting with 
+increased weight loss, and worsening right tooth pain. 
+
+Patient reports that his current symptoms are very similar to 
+his prior symptoms of when he was diagnosed. During his 
+chemotherapy, and half way through his radiation therapy, he had 
+interval improvement in his right jaw pain to the point where it 
+had gone away. Patient had a 30 lb reported weight loss during 
+the time of his therapy, and then reports that over the past 3 
+weeks he has been having increased difficulty with eating and 
+therefore reports about a 20 lb weight loss. He states this is 
+very reminiscent of his prior diagnosis where he had pain that 
+then resolved. He also reports that he has been unable to really 
+open his mouth, and has had 4 episodes of nausea/vomiting, with 
+cottage cheese emesis. It has become much harder for him to eat, 
+and he has been eating more liquids. Patient reports that he has 
+been having about ___ pain, worse with swallowing, and touching 
+the right side of his jaw, and this radiates across the anterior 
+aspect of his ___, temporal area to the back of his head. 
+
+Notably, patient was last seen on ___ by radiation oncology 
+for an earache. At that time, it was noted that he had completed 
+3 month interval from chemotherapy and radiation, and an ongoing 
+earache for which he was given oxycodone without any significant 
+effect. He was also complaining of odynophagia, and was trying 
+to drink supplements ___ cans / day. Patient was also found to 
+have thrush, for which he was given a 2 week script for 
+fluconazole. 
+
+In the ED, initial vitals: 9 98.6 129 114/87 18 100% RA 
+- Exam notable for right sided facial swelling.  
+- Labs were notable for: WBC 8.1, Hgb 14, hct 40.5, Platelet 
+280. Lactate 2.0. Sodium 133, Chloride 90, BUN 25, Creatinine 
+0.8. Bicarb 17. Calcium9.7, Magnesium 2, Phosph 3. ALT 14, AST 
+32, T-bili 0.6, Albumin 4. TSH 0.51.
+- Imaging: None obtained. 
+- Patient was given:  
+___ 11:19 IV Ondansetron 4 mg 
+___ 11:19 IVF  NS ( 1000 mL ordered)
+___ 13:03 IV Ondansetron 4 mg   
+___ 13:19 IV Morphine Sulfate 4 mg 
+
+- Decision was made to admit to ___ for increased pain, 
+dehydration, and PO intolerance. 
+
+- Vitals prior to transfer were 98.9 100 119/79 100% RA 
+
+On arrival to the floor, patient reports that he is having right 
+jaw pain. 
+
+REVIEW OF SYSTEMS: 
+A complete 10-point review of systems was performed and was 
+negative unless otherwise noted in the HPI.
+ 
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- ___ he was started on Cisplatin and RT.
+- ___ - ___ - Admission for nausea, vomiting and
+bleeding from oral cavity
+- ___ C2 Cisplatin
+- ___ - ___ - Admission for throat pain, inability to
+take PO and vomiting
+- Cisplatin discontinued - patient decided not to receive the
+third cycle.
+- ___ - Completion of RT.
+
+PAST MEDICAL HISTORY:
+1. Graves disease
+2. Kidney stones
+3. Sleep apnea
+4. Anxiety with OCD features
+5. Oropharyngeal cancer  
+
+Past Surgical History:
+1. Carpal tunnel syndrome
+
+ 
+Social History:
+___
+Family History:
+Mother has ___ disease, father has emphysema, uncle 
+diagnosed with head and neck cancer.
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+GENERAL: Patient is fatigued appearing. He is quite dry in the 
+mouth, no cyanosis, no tachypnea, able to converse, voice is 
+good. 
+HEENT: There is significant right sided swelling, submandibular, 
+and right throat. He pain radiates across temporal area, but no 
+tenderness to significant palpation distinctly in the right 
+temporal area. 
+NECK: As above. Left side is quite small, no major cervical 
+lymphadenopathy appreciated. 
+LUNGS: low lung volumes, no rhonchi heard. 
+CV: Tachycardic, S1, S2. No extra sounds. 
+ABD: Flat, abdomen, + BS. 
+EXT: No ___ edema bilaterally, sensation intact. 
+SKIN: Dry. 
+NEURO: CN II-XII grossly intact. 
+ACCESS: Peripheral.
+ 
+DISCHARGE EXAM
+==============
+Physical Exam:  
+Vitals: T max 98.2-98.6  BP ___  ___  18  97RA
+GENERAL: NAD, no cyanosis, no tachypnea, able to converse, voice 
+is at baseline according to patient and sounds normal. Very 
+thin.
+HEENT: Dry mucous membranes. There is significant right sided 
+swelling, submandibular, and right throat. no tenderness to 
+significant palpation distinctly in the right temporal area. 
+NECK: As above. Left side is quite small, no major cervical 
+lymphadenopathy appreciated. 
+LUNGS: low lung volumes, no rhonchi heard. no wheezing. 
+CV: RRR, S1, S2. No extra sounds. 
+ABD: Flat, abdomen, + BS. 
+EXT: No ___ edema bilaterally, sensation intact. 
+SKIN: Dry. 
+NEURO: CN II-XII grossly intact. 
+ACCESS: Peripheral. 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 11:15AM BLOOD WBC-8.1# RBC-4.47* Hgb-14.0 Hct-40.5 
+MCV-91 MCH-31.3 MCHC-34.6 RDW-11.3 RDWSD-37.3 Plt ___
+___ 11:15AM BLOOD Neuts-83.2* Lymphs-6.3* Monos-9.5 
+Eos-0.2* Baso-0.4 Im ___ AbsNeut-6.75*# AbsLymp-0.51* 
+AbsMono-0.77 AbsEos-0.02* AbsBaso-0.03
+___ 11:15AM BLOOD Plt ___
+___ 11:15AM BLOOD Glucose-110* UreaN-25* Creat-0.8 Na-133 
+K-5.5* Cl-90* HCO3-17* AnGap-32*
+___ 11:15AM BLOOD ALT-14 AST-32 AlkPhos-82 TotBili-0.6
+___ 11:15AM BLOOD Albumin-4.0 Calcium-9.7 Phos-3.0 Mg-2.0
+___ 11:15AM BLOOD TSH-0.51
+___ 11:16AM BLOOD Lactate-2.0 K-4.2
+
+IMAGING
+=======
+CT NECK ___:
+===========
+IMPRESSION: 
+1. Overall decrease in size of previously seen mass, now 
+demonstrating an area of necrosis, and extending to the medial 
+mandible, with no evidence of bony erosion. 
+2. A saccular early enhancing an atrophic submandibular glands, 
+consistent with post therapy changes. 
+3. Decrease in size of previously enlarged lymph nodes, with no 
+evidence of new abnormally enlarged lymph nodes. 
+
+CXR ___
+=======
+IMPRESSION:  
+Left basilar opacities likely reflect atelectasis. 
+
+MRI ___
+IMPRESSION:
+ 
+ 
+1. Motion limited exam.
+2. Peripherally enhancing and centrally nonenhancing right 
+oropharyngeal
+lesion may represent posttreatment changes.  However, residual 
+tumor is not
+excluded, given incomplete resolution of FDG avidity on the ___
+PET-CT.  This would be best re-evaluated with a follow-up 
+PET-CT.
+3. Resolution of cervical lymphadenopathy.
+
+DISCHARGE LABS
+==============
+
+___ 07:30AM BLOOD WBC-3.9* RBC-3.81* Hgb-11.7* Hct-35.4* 
+MCV-93 MCH-30.7 MCHC-33.1 RDW-11.3 RDWSD-38.5 Plt ___
+___ 07:30AM BLOOD Plt ___
+___ 07:30AM BLOOD Glucose-95 UreaN-7 Creat-0.6 Na-140 K-5.0 
+Cl-100 HCO3-32 AnGap-13
+___ 07:30AM BLOOD Calcium-9.2 Phos-3.8 Mg-2.5
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male, with past history of 
+Stage IV HPV oropharyngeal cancer, now presenting with 
+increasing right jaw pain and poor po intake and weight loss.
+
+# Trismus:
+# Right Neck Swelling/Lymphadenopathy:
+# Right Jaw Pain: CT scan of neck shows evidence of mass, could 
+include recurrence of disease or scar tissue or post-treatment 
+changes. CT shows overall decrease in size of previously seen 
+mass but with an area of necrosis. Previous PET scan done that 
+did show some residual activity. No visible ulceration on 
+fiberoptic exam performed by ENT but did see cavitary lesion 
+with fibrinous debris. No evidence of significant infection seen 
+grossly but patient did spike a fever and he was started on 
+unasyn and switched to Augmentin for total treatment course of 5 
+days. Given concern for recurrence of disease, MRI was obtained 
+which showed "Peripherally enhancing and centrally non-enhancing 
+right oropharyngeal lesion may represent posttreatment changes. 
+However, residual tumor is not excluded". Biopsy was not 
+obtained. He was given his MRI images to bring to evaluation at 
+Mass ___ and ___ on ___ after discharge. His pain was 
+controlled with fentaynl patch 25 mg, po oxycodone ___ mg 
+q4hours, gabapentin 300 TID. His pain is worsened by trismus and 
+he will see speech and swallow as an outpatient to obtain 
+swallowing therapy. 
+
+# HPV+ Stage IV Oropharyngeal Carcinoma, s/p chemotherapy, XRT: 
+Recent PET scan suggesting potential recurrence given uptake. 
+See above for management.
+
+# Thrush: Difficult to visualize because of trismus. However 
+with history of thrush as well vomitus that he described as 
+"cottage cheese", he was treated with fluconazole for total 
+course of 7 days (end on ___.
+
+# Severe Malnutrition
+# Weight Loss: ___ to difficulty with eating because of pain, as 
+well as likely underlying malignancy. Patient has lost 50 pounds 
+since diagnosis with loss of 20 pounds in last three weeks. A 
+PEG tube was placed on ___ and he was started on tube feeds. 
+TUBE FEED PLANS: bolus 480 mL (2 cans) Osmolite 1.5
+TID daily (2160 calories, 90 grams protein, 1097 mL free water). 
+He should continue on a regular diet as tolerated.
+
+# Graves Disease: Methimazole able to be crushed and continued 
+on methimiazole 10 mg qhs.
+
+# Anxiety/Insomnia: Continued on clonazepam
+
+# Depression: Continued on citalopram
+
+TRANSITIONAL ISSUES
+===================
+[] TUBE FEED PLAN: patient to continue to increase as an 
+outpatient to 2 cans TID with feeding (tolerating 1 can at 
+discharge). 
+[] Pain management: please continue to address as outpatient. He 
+was given prescriptions for oxycodone 10 mg PRN, Gabapentin 600 
+mg TID, and fentanyl patch at 25 mcg. 
+[] FOLLOW UP WITH ENT: Patient to f/u with primary oncologist, 
+and second opinion Dr. ___. Information was faxed to Dr. ___ 
+___ prior to discharge, and CDs regarding imaging were sent 
+with patient. 
+
+# HCP/Contact: ___ (Wife) ___
+# Code: Full, Confirmed. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Methimazole 10 mg PO QHS 
+2. ClonazePAM 0.5 mg PO QHS:PRN insomnia 
+3. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Moderate 
+
+4. Citalopram 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Bisacodyl 10 mg PO DAILY constipation 
+RX *bisacodyl 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice daily 
+Disp #*30 Capsule Refills:*0 
+3.  Fentanyl Patch 25 mcg/h TD Q72H 
+RX *fentanyl 25 mcg/hour Please place every 72 hours Q72 hours 
+Disp #*5 Patch Refills:*0 
+4.  Gabapentin 600 mg PO TID 
+RX *gabapentin 300 mg 2 capsule(s) by mouth three times daily 
+Disp #*90 Capsule Refills:*0 
+5.  Senna 8.6 mg PO BID constipation 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth daily Disp #*30 
+Tablet Refills:*0 
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+RX *oxycodone 10 mg ___ tablet(s) by mouth every ___ hours Disp 
+#*60 Tablet Refills:*0 
+7.  Citalopram 20 mg PO DAILY  
+8.  ClonazePAM 0.5 mg PO QHS:PRN insomnia  
+9.  Methimazole 10 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+HPV+ Stage IV Oropharyngeal Carcinoma
+Severe Malnutrition
+Trismus
+Thrush
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure meeting you at ___.
+
+You were admitted to ___ because you were having right mouth 
+pain and weight loss. While you were here, the ___, nose, and 
+throat doctors saw ___ and used a scope to look and they found a 
+mass in your neck. We tried to control your pain by changing 
+your pain medications. Because you were losing a lot of weight 
+and having pain with eating, we placed a gastric tube so that 
+you could get tube feeds.
+
+When you leave the hospital, you should see your cancer doctor 
+and see Dr. ___ at ___ on ___. Please see below for your medication changes.
+
+We wish you the best,
+Your care team at ___
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,91 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Cardiothoracic
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Chest pain, shortness of breath
+
+**Major Surgical or Invasive Procedure:**
+- Coronary artery bypass grafting (CABG) x 4
+- Removal of left ventricular intracardiac tumor
+
+**History of Present Illness:**
+- The patient, a male with a history of chronic obstructive pulmonary disease (COPD), type 2 diabetes mellitus, hypertension, and obesity, presented with shortness of breath and chest pain. Diagnosed with non-ST elevation myocardial infarction (NSTEMI). Transthoracic echocardiogram showed normal left ventricular function, dilated left atrium, and mild to moderate mitral regurgitation. Cardiac catheterization revealed three-vessel coronary artery disease. Transferred for CABG evaluation and surgery was recommended.
+
+**Past Medical History:**
+- Chronic Obstructive Pulmonary Disease
+- Diabetes Mellitus type 2
+- Diabetic Neuropathy
+- Hypertension
+- Obesity
+- Carpal Tunnel Release, bilateral
+- Cataracts, bilateral
+
+**Family History:**
+- No known history of premature coronary artery disease
+- Mother and father died healthy at unspecified ages
+
+**Physical Exam:**
+- HR: 81, BP: 162/92, RR: 18, O2 sat: 96% RA
+- Height: 71 in, Weight: 281 lbs
+- General: Obese male, no acute distress
+- Lungs: Clear bilaterally
+- Heart: Regular rate and rhythm
+- Abdomen: Soft, non-distended, non-tender
+- Extremities: Warm, well-perfused, no edema
+- Neuro: Grossly intact
+
+**Discharge Examination:**
+- Stable vitals, no focal neurological deficits, diminished respiratory sounds at bases, trace edema in extremities, stable sternal incision
+
+**Pertinent Results:**
+- **Labs:** Elevated glucose, urea nitrogen, creatinine, and troponin levels; mild anemia
+- **CXR:** Low lung volumes with subsegmental atelectasis, no pneumothorax or new consolidations
+- **PFT:** Moderate gas exchange defect, mild restrictive ventilatory defect
+- **LV Mass Pathology:** Partially organized fibrinous nodule, no malignancy
+
+**Brief Hospital Course:**
+- Transferred for significant coronary artery disease, underwent CABG x4 and removal of intracardiac tumor. Postoperative management included sedation weaning, extubation, diuresis with Lasix, beta-blockers, and management of delirium with precede drip and Haldol. Developed acute kidney injury, managed with adjusted diuretics. Transitioned to the floor on postoperative day six, clinically stable for discharge to acute rehab on postoperative day nine.
+
+**Medications on Admission:**
+- Atenolol, Metformin, Clonidine, Gabapentin, Glipizide XL, Lisinopril, Hydrochlorothiazide
+
+**Discharge Medications:**
+- Acetaminophen, Albuterol Inhaler, Amlodipine, Aspirin EC, Atorvastatin, Bisacodyl, Famotidine, Fluticasone Propionate, Furosemide, Heparin, Hydralazine, Insulin Glargine, Ipratropium Bromide, Metolazone, Metoprolol Tartrate, Polyethylene Glycol, Gabapentin, Clonidine
+- Held: Glipizide XL, Lisinopril, Metformin
+
+**Discharge Disposition:**
+- Extended Care Facility: [Redacted]
+
+**Discharge Diagnosis:**
+- Coronary Artery Disease s/p coronary revascularization
+- Left ventricular mass removed - micro negative
+- Non-ST Elevation Myocardial Infarction
+- Acute encephalopathy multifactorial
+- Acute Kidney Injury
+- Acute on chronic respiratory failure with hypoxia due to volume overload
+
+**Secondary Diagnosis:**
+- Chronic Obstructive Pulmonary Disease
+- Diabetes Mellitus type 2
+- Diabetic Neuropathy
+- Hypertension
+- Obesity
+
+**Discharge Condition:**
+- Alert and oriented, ambulating with assistance, incisional pain managed, trace edema
+
+**Discharge Instructions:**
+- Shower daily, monitor incisions, no lotions/creams, weigh daily, no driving for one month, no lifting over 10 pounds for 10 weeks, full shoulder range of motion encouraged
+
+**Follow-up Instructions:**
+- [Redacted]

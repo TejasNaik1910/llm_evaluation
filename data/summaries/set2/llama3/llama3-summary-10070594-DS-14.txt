@@ -1,0 +1,17 @@
+Here is a summary of the clinical note:
+
+**Cancer Type and Stage:** The patient has a metastatic neuroendocrine tumor, unknown primary, with liver metastases.
+
+**History of Present Illness:** The patient was admitted with a syncopal episode, which was likely caused by orthostatic hypotension and hypovolemia due to ongoing diarrhea and poor oral intake. He also had a history of weight loss, poor appetite, bloating, and dysgeusia.
+
+**Diagnostic Tests:** The patient underwent a liver biopsy, which showed a grade 2 neuroendocrine tumor. Imaging studies, including CT head, chest X-ray, and liver ultrasound, were also performed.
+
+**Medications:** The patient was prescribed carboplatin and etoposide for chemotherapy, as well as medications to manage his symptoms, including allopurinol, metoprolol, doxazosin, furosemide, and apixaban.
+
+**Surgical Interventions:** The patient underwent a liver biopsy and had a PICC line inserted for chemotherapy.
+
+**Response to Treatment:** The patient's symptoms improved during his hospital stay, and he was discharged home with home health services.
+
+**Other Medical Conditions:** The patient has a history of atrial fibrillation, hypertension, non-alcoholic steatohepatitis (NASH)-induced cirrhosis, ascites, and chronic kidney disease.
+
+**Discharge Instructions:** The patient was instructed to follow up with his oncologist and primary care physician, and to continue taking his medications as prescribed. He was also advised to monitor his platelet count and to stop taking apixaban if his platelets drop significantly.

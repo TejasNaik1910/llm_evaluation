@@ -1,0 +1,92 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** No Known Allergies to Drugs
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Shortness of breath (SOB)
+
+**Major Surgical or Invasive Procedure:**
+- Thoracentesis with 500cc fluid removed
+
+**Oncologic History:**
+- **Cancer Type:** Poorly differentiated squamous lung cancer
+- **Morphology:** Poorly differentiated, necrotic lung mass in the left lower lobe (LLL)
+- **Metastasis:** Adrenals, brain, and soft tissue (jaw & back)
+- **Initial Presentation:** Jaw pain, back mass, night sweats, weight loss
+- **Pathology:** Tumor cells positive for cytokeratin AE1/AE3 and cytokeratin 7; negative for cytokeratin 20, TTF-1, HMB-45, MART1, and S100 protein, confirming carcinoma and excluding malignant melanoma.
+
+**History of Present Illness:**
+- Patient with poorly differentiated squamous lung cancer on carboplatin/taxol, post-thoracentesis, now receiving radiation therapy (XRT) to the left lung. Presented with subjective SOB but not requiring more oxygen than at home.
+- **Emergency Department (ED) Findings:** 
+  - Vitals: T98.8, HR86, BP109/61, RR20, O2 99%
+  - CXR: Unchanged (known lung cancer and small pleural effusion)
+  - EKG: Changes consistent with ischemia (ST decreased in V2-V6), thought to be demand ischemia. Cardiology advised no safe intervention.
+  - Treatment: Received 1L normal saline (NS) and aspirin (ASA).
+
+**Past Medical History:**
+- Hypertension (HTN)
+- Hyperlipidemia
+- Coronary artery disease (CAD) with myocardial infarction (MI) [years ago]
+- Status post (s/p) tonsillectomy
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Sister had breast cancer. No known family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death.
+
+**Physical Exam:**
+- Vitals: 98.0, BP 85/56, HR 82, RR 23, O2 97% on room air
+- Eyes: EOMI, PERRL, conjunctiva clear
+- Neck: No JVD, no LAD, no thyromegaly, no carotid bruits
+- Cardiovascular: RRR, normal S1/S2, no murmurs/rubs/gallops
+- Respiratory: RLL basilar crackles, decreased breath sounds in the entire left lung; large upper back mass covered in dressing
+- Gastrointestinal: Soft, non-tender/non-distended, no hepatosplenomegaly, normal bowel sounds
+- Extremities: No clubbing, no cyanosis, 1+ pitting edema in ankles (L>R), chronic skin scaling lesion non-infected over R ankle
+- Psychiatric: Appropriate, pleasant
+- Hematological/Lymphatic: No palpable lymphadenopathy
+
+**Pertinent Results:**
+- **Urine Analysis:** Positive for blood, nitrite, protein; many bacteria
+- **Blood Tests:** Elevated glucose, urea nitrogen, creatinine, anion gap; low hemoglobin, hematocrit, RBC; high WBC, platelets
+- **Imaging:** CXR showed persistent left lower lung opacity, small right pleural effusion, improved left upper lung aeration
+
+**Brief Hospital Course:**
+1. **CAD:** Recent NSTEMI, EKG changes without significantly elevated troponins. No safe intervention possible.
+2. **SOB:** No evidence of pneumonia or worsening effusion, possibly due to disease progression.
+3. **UTI:** Treated with Ciprofloxacin.
+4. **Anemia:** Normocytic, stable, likely due to chronic disease from malignancy.
+5. **Oncologic:** Continued carboplatin/taxol treatment. Follow-up with chemotherapy scheduled.
+6. **Pain:** Controlled with home medication regimen.
+7. **Depression:** Continued home medications.
+
+**Medications on Admission:**
+- Simvastatin, Atenolol, Latanoprost, Acetaminophen, Colace, Senna, Bisacodyl, Hydromorphone, Simethicone, Prochlorperazine, Lorazepam, Ranitidine, Fentanyl patch
+
+**Discharge Medications:**
+- Senna, Simvastatin, Latanoprost, Acetaminophen, Ranitidine, Ciprofloxacin, Docusate Sodium, Bisacodyl, Prochlorperazine, Megestrol, Lidocaine patch, Mirtazapine, Omeprazole, Sotalol, Aspirin
+
+**Discharge Disposition:**
+- Home with service
+
+**Discharge Diagnosis:**
+- **Primary:** Urinary tract infection, Dyspnea (NOS), Squamous cell carcinoma
+- **Secondary:** Coronary artery disease, Hypertension, Hyperlipidemia
+
+**Discharge Condition:**
+- Stable, saturating 100% on 3L oxygen, not in pain
+
+**Discharge Instructions:**
+- Continue home oxygen if short of breath, take prescribed antibiotics, and continue regular medications. Return to the emergency department if experiencing worsening symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]

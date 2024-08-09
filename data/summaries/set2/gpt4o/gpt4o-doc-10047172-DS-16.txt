@@ -1,0 +1,96 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Allergies:** Sitagliptin, Fesoterodine, Statins-Hmg-Coa Reductase Inhibitors, Saxagliptin, Pioglitazone, Canagliflozin, Fenofibrate, Heparin
+
+**Chief Complaint:**
+- Melena
+
+**Major Surgical or Invasive Procedures:**
+- EGD
+- s/p PICC placement
+
+**History of Present Illness:**
+- The patient is a male with a history of pancreatic adenocarcinoma metastatic to the liver, presenting with melena. He noticed black stool in the morning, which he had experienced once before after an ERCP. He denies abdominal pain, nausea, fever, shortness of breath, rashes, or dysuria but reports fatigue and poor appetite. He was recently treated for bacteremia and biliary obstruction with a CBD stent replacement and completed a course of antibiotics with Zosyn.
+
+**Oncologic History:**
+- **Diagnosis:** Pancreatic adenocarcinoma metastatic to the liver, diagnosed in [Redacted].
+- **Morphology:** 3.3 cm pancreatic head mass, 1.8 cm left kidney lesion (RCC), and sub-cm liver masses.
+- **Cancer Stage:** Stage 4
+- **Progression:** Initially treated with FOLFIRINOX, halted due to rising CA levels and increased liver metastases. Switched to gemcitabine/Abraxane with slight decrease in liver metastases. Later switched to CapOx and then modified FOLFIRINOX due to mixed response and side effects. Recent CT showed disease progression.
+- **TNM Staging:** Not explicitly mentioned.
+- **Prescribed Medications:** FOLFIRINOX, gemcitabine/Abraxane, CapOx, modified FOLFIRINOX, erlotinib, gemcitabine.
+- **Diagnostic Tests:** CT, MRI, FNA of pancreas, RUQ US, EGD.
+- **Surgical Interventions:** CBD stent placement, PICC line placement.
+- **Response to Treatment:** Mixed response to chemotherapy, with progression noted on recent CT scans.
+
+**Other Past Medical History:**
+- Type 2 Diabetes Mellitus (T2DM)
+- Hypertension
+- Hyperlipidemia
+- s/p Left hip replacement
+- Heart murmur
+- s/p Nose fracture
+- Kidney lesion (2.4 cm hemorrhagic cyst)
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- Mother: Dementia
+- Father: Bladder cancer
+- Paternal cousin: Primary liver cancer
+
+**Physical Exam:**
+- General: NAD
+- Vitals: T 98.3, BP 156/72, HR 86, O2 100% RA
+- HEENT: MMM, no OP lesions
+- CV: RRR
+- Pulm: CTAB
+- Abd: Soft, NT, distended
+- Limbs: No edema, clubbing, tremors, or asterixis
+- Skin: No rashes or skin breakdown
+- Neuro: Alert and oriented, no focal deficits
+
+**Discharge Exam:**
+- Vitals: T 98.2, BP 160/80, HR 88, RR 18, O2 97% RA
+- General: Thin, alert, and conversant
+- HEENT: MMM, OP clear
+- Cardiovascular: RRR, old systolic murmur, full pulses, no edema
+- Respiratory: Normal effort, lungs CTA
+- GI: Soft, NT, ND, BS+, protuberant, bulging flanks, + fluid wave
+- Extremities: No edema, warm, dry, no cyanosis or clubbing
+- Skin: Anasarca improving
+- Neuro: AAOx3, no facial droop, nonfocal
+- Psych: Full range of affect
+- GU: No foley, otherwise deferred
+
+**Pertinent Results:**
+- **Admission Labs:** Anemia, elevated liver enzymes, hyperglycemia, mild hyponatremia, and thrombocytopenia.
+- **RUQ US:** Moderate ascites, innumerable hepatic lesions, pneumobilia, gallbladder sludge.
+- **EGD:** Retained food in stomach and duodenum, no evidence of fresh or old blood.
+
+**Brief Hospital Course:**
+- Presented with melena, likely due to tumor bleeding. Managed with PRBC transfusion and TPN due to poor oral intake and duodenal obstruction. Hospital course complicated by hyperglycemia, thrombocytopenia, and malnutrition. Received gemcitabine/erlotinib on discharge day. 
+
+**Discharge Medications:**
+- Amlodipine, Creon, Duloxetine, Glargine, Insulin sliding scale, Lisinopril, Methylphenidate, Pyridoxine, Simethicone, Sodium citrate, Lorazepam, Metformin, Nystatin, Tamsulosin, Furosemide.
+
+**Discharge Disposition:**
+- Home with services
+
+**Discharge Diagnosis:**
+- Malnutrition, metastatic pancreatic cancer
+
+**Discharge Condition:**
+- Clear and coherent, alert and interactive, ambulatory
+
+**Discharge Instructions:**
+- Continue TPN, monitor weight, follow up with oncologist and dietician, maintain liquid diet, and manage medications as prescribed.

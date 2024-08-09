@@ -1,0 +1,47 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not disclosed
+* Date of Birth: Not disclosed
+* Sex: Female
+* Unit Number: Not disclosed
+* Admission Date: Not disclosed
+* Discharge Date: Not disclosed
+
+**Chief Complaint:**
+
+* Fever, nausea, and vomiting
+
+**Medical History:**
+
+* Endometrial cancer (status post total abdominal hysterectomy, bilateral salpingo-oophorectomy, and pelvic lymph node dissection)
+* Type 2 diabetes
+* Pulmonary hypertension
+* Sweet's disease
+* Diverticulitis (status post partial colectomy)
+* Irritable bowel syndrome
+* Urge incontinence
+* Sciatica
+* Morbid obesity
+
+**Current Admission:**
+
+* Presented to the emergency department with fever, nausea, and vomiting
+* CT scan of the abdomen and pelvis showed a 5.6 cm fluid collection in the left mid pelvis, consistent with a postoperative seroma or lymphocele
+* Blood cultures grew Bacteroides fragilis, and abscess cultures showed polymicrobial growth, including Enterococcus species, Escherichia coli, and Streptococcus anginosus
+* Treated with IV antibiotics, including ciprofloxacin, flagyl, and zosyn
+* Underwent CT-guided drainage of the pelvic abscess with placement of a drain
+* PICC line placement for prolonged IV antibiotic therapy
+
+**Discharge:**
+
+* Discharged to a rehabilitation facility in stable condition
+* Discharge medications included atorvastatin, dapsone, ibuprofen, insulin, loperamide, oxycodeone, piperacillin-tazobactam, sertraline, sodium chloride, vesicare, acetaminophen, glipizide, and colchicine
+* Follow-up appointments scheduled with infectious disease, diabetes, and primary care physicians
+
+**Diagnoses:**
+
+* Intra-abdominal abscess
+* Bacteremia
+* Diabetes

@@ -1,0 +1,58 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not provided
+* Age: Not provided
+* Sex: Male
+* Date of Birth: Not provided
+
+**Chief Complaint:**
+
+* Obstructed left percutaneous nephrostomy (PCN) tube
+
+**Medical History:**
+
+* Advanced prostate cancer metastatic to the liver with peritoneal carcinomatosis
+* Radical prostatectomy
+* Hypertension
+* Dyslipidemia (on atorvastatin)
+
+**Present Illness:**
+
+* Patient presented with decreased urine output from his nephrostomy tube, which was exchanged in the ED. He was given 1L of normal saline and zosyn 4.5g IV.
+
+**Diagnostic Tests:**
+
+* Complete Blood Count (CBC) showed leukocytosis with a white blood cell count of 21.1
+* Basic Metabolic Panel (BMP) showed acute kidney injury with a creatinine level of 3.1
+* Urinalysis showed pyuria with >182 WBCs and few bacteria
+* Urine culture was negative
+* Imaging studies showed moderate to severe hydronephrosis with no flow towards the ureter
+
+**Treatment:**
+
+* Left 8 French nephrostomy tube exchange
+* Antibiotics (zosyn and ceftriaxone) for possible urinary tract infection
+* IV fluids for acute kidney injury
+* Ritalin 2.5mg daily for appetite stimulation
+* Continued pain control with oxycontin and oxycodone
+* Bowel regimen for constipation
+
+**Discharge Diagnosis:**
+
+* Obstructed percutaneous nephrostomy tube
+* Metastatic prostate cancer
+* Hypertension
+
+**Discharge Condition:**
+
+* Mental Status: Clear and coherent
+* Level of Consciousness: Alert and interactive
+* Activity Status: Ambulatory - Independent
+
+**Follow-up Instructions:**
+
+* Follow-up with Dr. ___ in the clinic on ___
+* Continue taking Ritalin if effective for appetite stimulation
+* Manage nephrostomy tube to prevent kinking and obstruction

@@ -1,0 +1,72 @@
+Here is a summary of the clinical note:
+
+**Patient Information:**
+
+* Name: Not provided
+* Date of Birth: Not provided
+* Sex: Male
+* Unit No: Not provided
+* Admission Date: Not provided
+* Discharge Date: Not provided
+
+**Chief Complaint:**
+
+* Leaking from previous left percutaneous nephrostomy (PCN) site
+
+**Medical History:**
+
+* Advanced prostate cancer with metastasis to the liver, peritoneal carcinomatosis, and malignant ureteral obstruction
+* Radical prostatectomy in the past
+* Hypertension (HTN) and dyslipidemia (DL)
+
+**Physical Exam:**
+
+* General: No acute distress, resting comfortably in bed
+* HEENT: No lesions or lymphadenopathy
+* Cardiovascular: Regular rate and rhythm, no murmurs or gallops
+* Pulmonary: Clear to auscultation, no respiratory distress
+* Abdomen: Soft, non-tender, with a palpable firm epigastric area and subcutaneous nodules
+* Skin: No rashes or lesions
+* Neurological: Grossly normal
+
+**Pertinent Results:**
+
+* Laboratory tests:
+	+ Complete Blood Count (CBC): Anemia, thrombocytosis, and leukocytosis
+	+ Electrolytes: Abnormal values for sodium, potassium, and chloride
+	+ Liver function tests: Elevated ALT, AST, and alkaline phosphatase
+	+ Renal function tests: Elevated urea nitrogen and creatinine
+* Imaging studies:
+	+ Ultrasound: Bilateral obstructing renal stones, moderate right and mild left hydroureteronephrosis, and multiple echogenic liver masses
+	+ CT scan: Not provided
+* Pathology:
+	+ Peritoneal fluid cytology: Positive for malignant cells consistent with adenocarcinoma, suggestive of prostate primary
+
+**Brief Hospital Course:**
+
+* The patient was admitted for management of his leaking left surgical wound and underwent paracentesis, embolization of the old PCN tract, and placement of a new PCN tube
+* He received a dose of cabazitaxel chemotherapy and was started on oxycontin for pain management
+* His nausea and vomiting improved with prochlorperazine and ondansetron
+
+**Discharge Diagnosis:**
+
+* Primary diagnoses:
+	+ Malignant ascites secondary to metastatic prostate cancer
+	+ Malignant ureteral obstruction causing bilateral hydroureter and hydronephrosis
+* Secondary diagnoses:
+	+ Anemia
+	+ Deep vein thrombosis
+	+ Metastatic prostate cancer
+	+ Hypertension
+
+**Discharge Medications:**
+
+* Amlodipine 5 mg PO daily for hypertension
+* Docusate sodium 100 mg PO BID for constipation
+* OxyCODONE 5 mg PO Q4H for breakthrough pain
+* OxyCODONE SR 30 mg PO Q12H for pain management
+* Senna 8.6 mg PO BID for constipation
+* Atorvastatin 20 mg PO QPM for dyslipidemia
+* Lupron Depot (3 Month) for prostate cancer
+* Ondansetron ODT 8 mg PO Q8H for nausea
+* Prochlorperazine 10 mg PO Q6H for nausea

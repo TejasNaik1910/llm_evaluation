@@ -1,0 +1,86 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Surgery
+- **Allergies:** Vancomycin
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Fever
+
+**Major Surgical or Invasive Procedure:**
+- Hepatic drain placement on [Redacted], removal on [Redacted]
+
+**History of Present Illness:**
+- The patient presented with findings of a liver mass and omental implants on a CT scan. She underwent a liver biopsy on [Redacted], which was negative, followed by biopsies of the liver mass and left pelvic mass on [Redacted], showing only inflammatory cells without carcinoma. She presented to the ER with severe right upper quadrant (RUQ) pain and fever up to 102.7°F, along with nausea but no vomiting, and a chronic dry cough.
+
+**Past Medical History:**
+- Positive PPD with negative chest X-ray, hemorrhoids
+- Surgical history includes uterine polypectomy
+
+**Social History:**
+- [Redacted]
+
+**Family History:**
+- No history of cancer; mother with hypertension and mildly elevated cholesterol, father with diabetes mellitus
+
+**Physical Exam:**
+- Temperature: 102.7°F, Heart Rate: 113, Blood Pressure: 127/59, Respiratory Rate: 18, Oxygen Saturation: 97% on room air
+- General: No acute distress
+- Cardiovascular: Regular rate and rhythm, tachycardia
+- Abdomen: Soft, mildly distended, tender to palpation in RUQ
+- Extremities: No cyanosis, clubbing, or edema
+
+**Labs and Diagnostic Tests:**
+- Elevated WBC, low RBC, low hemoglobin, low hematocrit
+- Elevated liver enzymes (ALT, AST, AlkPhos)
+- Negative EBV PCR, Aspergillus antigen, Schistosoma antibodies, Entamoeba histolytica antibody, and B-glucan
+- Positive Fasciola hepatica antibody
+- Negative urine and blood cultures
+- CT scan showed new lobulated hypodensities in the liver, concerning for abscesses, and a new 2.6 cm rim-enhancing low-density fluid collection in the pelvis
+
+**Brief Hospital Course:**
+- The patient was started on Vancomycin but developed an allergic reaction and was switched to Zosyn and Flagyl.
+- Underwent ultrasound-guided percutaneous drainage of the right hepatic fluid collection, which was consistent with a hematoma.
+- Cultures and gram stains were negative.
+- Repeat ultrasound showed resolution of the abscess, and the drain was removed.
+- Infectious Disease (ID) consultation recommended workup for pathogens like liver flukes and mycobacteria, as well as EBV.
+- Possible diagnoses included inflammatory pseudotumor, inflammatory myofibroblastic tumor, or follicular dendritic cell tumor.
+- Allergy/immunology consultation arranged for follow-up.
+
+**Medications on Admission:**
+- Prenatal Vitamins 1 TAB PO DAILY
+
+**Discharge Medications:**
+1. Acetaminophen 325-650 mg PO Q6H PRN fever/pain
+2. Ciprofloxacin HCl 500 mg PO Q12H
+3. Docusate Sodium 100 mg PO BID
+4. Metronidazole (Flagyl) 500 mg PO Q8H
+5. Senna 8.6 mg PO BID
+6. Hydromorphone (Dilaudid) 2 mg PO Q4H PRN pain
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Fever
+- Liver abscess
+- Liver mass
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Call Dr. [Redacted] for fever > 101°F, chills, nausea, vomiting, diarrhea, constipation, increased abdominal pain, uncontrolled pain, swelling, jaundice, inability to tolerate food, fluids, or medications, or any other concerning symptoms.
+- No driving if taking narcotic pain medication
+
+**Follow-up Instructions:**
+- [Redacted]

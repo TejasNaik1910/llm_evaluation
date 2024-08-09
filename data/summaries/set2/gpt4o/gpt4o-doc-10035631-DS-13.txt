@@ -1,0 +1,67 @@
+**Clinical Summary:**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Male
+- **Service:** Medicine
+- **Attending:** [Redacted]
+- **Allergies:** No Known Allergies / Adverse Drug Reactions
+
+**Chief Complaint:**
+- Fevers, chills, and fatigue; concern for acute leukemia.
+
+**Major Surgical or Invasive Procedures:**
+- [Redacted] placement
+- Bone Marrow Biopsy [Redacted]
+
+**History of Present Illness:**
+- The patient is a [Redacted] year-old male with a history of stage IIA breast cancer (s/p left mastectomy, currently on tamoxifen) and intermediate risk AML (s/p reduced intensity allogeneic stem cell transplant, currently in remission). He presented with myalgias, night sweats, fatigue, and leukocytosis. Symptoms began four days post-influenza vaccination, including severe left arm pain, upper body pain, back spasms, headaches, drenching night sweats, and rigors. He was afebrile and had been taking ibuprofen for symptom control. He also reported a tick bite approximately [Redacted] weeks ago.
+
+**Diagnostic Tests Conducted:**
+- CBC: WBC 33, Hb 15, PLT 30
+- Blood cultures: No growth
+- Lyme serology: Positive by EIA, negative by Western Blot
+- CT Head: No acute intracranial hemorrhage
+- CT Chest: New ground-glass opacities, small pleural effusions, possible hydrostatic edema
+- CT Abdomen & Pelvis: No intra-abdominal infection or hemorrhage, splenomegaly
+- Flow Cytometry: Consistent with acute myeloid leukemia
+- Hematopathology: Relapsed acute myeloid leukemia
+
+**Physical Exam:**
+- **Admission:** Vitals: Tc 98.2, BP 126/78, HR 85, RR 20, 96% RA. General: A+Ox3, NAD, well-nourished male. No significant findings in HEENT, neck, lymph, CV, lungs, abdomen, extremities, skin, neuro.
+- **Discharge:** Vitals: [Redacted]. General: A+Ox3, sitting in bed, no acute distress. No significant findings in HEENT, neck, lymph, chest, CV, lungs, abdomen, extremities, skin, neuro.
+
+**Pertinent Results:**
+- Admission: WBC 32.7, Hb 14.6, Hct 41.4, PLT 24, K 4.1, Cr 1.1, lactate 2.9, Ca 9.2, Mg 2.0, Phos 2.4, LDH 682, UA 5.3, haptoglobin 143, INR 1.2.
+- Discharge: WBC 1.4, RBC 2.64, Hgb 8.2, Hct 24.3, PLT 88, Neuts 20.1, Monos 28.1, Eos 0.0, Baso 0.0, NRBC 2.9, Glucose 113, UreaN 18, Creat 1.0, Na 137, K 4.4, Cl 102, HCO3 27, AnGap 12, ALT 18, AST 17, LDH 180, AlkPhos 106, TotBili 0.2, Albumin 3.7, Calcium 9.0, Phos 3.1, Mg 2.3.
+
+**Medications:**
+- **Admission:** Ipratropium-Albuterol, Tamoxifen, Vitamin D, Multivitamins, Artificial Tears.
+- **Discharge:** Acyclovir, Ciprofloxacin, Midodrine, Voriconazole, Artificial Tears, Ipratropium-Albuterol, Multivitamins, Tamoxifen, Vitamin D.
+
+**Discharge Diagnosis:**
+- **Primary Diagnoses:** Acute myelogenous leukemia, relapsed; Orthostatic hypotension.
+- **Secondary Diagnoses:** Lyme disease prophylaxis; Male breast cancer (ER+/PR+, HER2-).
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent.
+- Level of Consciousness: Alert and interactive.
+- Activity Status: Ambulatory - Independent.
+
+**Discharge Instructions:**
+- Attend follow-up appointments.
+- Take medications as prescribed.
+- Seek emergency care for fever, severe pain, or other concerning symptoms.
+
+**Follow-up Instructions:**
+- [Redacted]
+
+**Brief Hospital Course:**
+- Diagnosed with relapsed AML, treated with MEC chemotherapy.
+- Managed febrile neutropenia with cefepime and doxycycline, maintained on prophylactic ciprofloxacin, acyclovir, and voriconazole.
+- Addressed orthostatic hypotension with midodrine.
+- Resolved issues included pulmonary edema, tick exposure, pain, and loose stools.

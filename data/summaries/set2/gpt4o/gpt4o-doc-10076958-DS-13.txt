@@ -1,0 +1,99 @@
+**Clinical Note Summary**
+
+**Patient Information:**
+- **Name:** [Redacted]
+- **Unit No:** [Redacted]
+- **Admission Date:** [Redacted]
+- **Discharge Date:** [Redacted]
+- **Date of Birth:** [Redacted]
+- **Sex:** Female
+- **Service:** Cardiothoracic
+- **Allergies:** Sulfa (Sulfonamide Antibiotics), Imdur
+- **Attending:** [Redacted]
+
+**Chief Complaint:**
+- Nausea and vomiting
+
+**Major Surgical or Invasive Procedure:**
+- Esophagogastroduodenoscopy (EGD) and dilatation
+
+**History of Present Illness:**
+- The patient is a [Redacted] year-old female with a history of minimally invasive esophagectomy (MIE) for pT1bN0MX adenocarcinoma. Post-surgery, she experienced dysphagia and nausea, requiring multiple EGD with dilatation and Botox treatments. She presented to the ER with severe nausea unresponsive to Zofran, unable to take liquids, and without abdominal pain, constipation, diarrhea, dysuria, or cough.
+
+**Past Medical History:**
+- Takutsubo cardiomyopathy with possible mild MI
+- Hypertension (HTN)
+- Hyperlipidemia (HLD)
+- Status post vaginal hysterectomy
+
+**Family History:**
+- Sister died of colon cancer after untreated colitis
+
+**Physical Exam:**
+- Vital Signs: Temp 97°F, HR 80, BP 190/90, RR 16, O2 Sat 98%
+- General: Well-nourished, well-developed, no acute distress, alert, awake, and oriented
+- HEENT: Normal findings
+- Respiratory: Clear to auscultation, normal excursion, no fremitus, no egophony
+- Cardiovascular: Regular rate and rhythm, no murmurs/rubs/gallops, no jugular venous distension, normal peripheral pulses
+- GI: Soft, non-tender, non-distended, no masses or hernias
+- Neuro: Intact strength and sensation, normal reflexes, no facial asymmetry, intact cognition and cranial nerves
+- MS: No clubbing, cyanosis, or edema, normal gait, tone, alignment, and range of motion
+- Lymph Nodes: Normal cervical, supraclavicular, axillary, and inguinal nodes
+- Skin: No rashes, lesions, or ulcers
+- Psychiatric: Normal judgment, insight, memory, mood, and affect
+
+**Pertinent Results:**
+- Urine: Straw color, hazy appearance, glucose 150, ketone 10, pH 7.5, other parameters normal
+- Blood: Glucose 222, WBC 16.8, other parameters within normal limits
+- Imaging: KUB showed no pneumoperitoneum or bowel obstruction; CXR showed no acute cardiopulmonary process
+- EGD: Evidence of previous esophago-gastric anastomosis with a benign intrinsic stricture, esophagitis, and esophageal irritation. Successful dilation from 12mm to 15mm.
+
+**Brief Hospital Course:**
+- Admitted for evaluation of esophageal stricture. Managed with IV fluids, clear diet, and anti-nausea medication. Underwent EGD and esophageal dilation without complications. Advanced to a soft/puree diet and discharged with follow-up instructions.
+
+**Medications on Admission:**
+1. Ondansetron
+2. Fish Oil
+3. Benzonatate
+4. Lorazepam
+5. Cyclobenzaprine
+6. Metoprolol Succinate XL
+7. Simvastatin
+8. Metoclopramide
+9. Omeprazole
+10. Citalopram
+11. Vitamin D
+
+**Discharge Medications:**
+1. Citalopram
+2. Lorazepam
+3. Metoprolol Succinate XL
+4. Simvastatin
+5. Fish Oil
+6. Cyclobenzaprine
+7. Benzonatate
+8. Metoclopramide
+9. Ondansetron
+10. Vitamin D
+11. Omeprazole
+12. Dicyclomine
+13. Scopolamine Patch
+
+**Discharge Disposition:**
+- Home
+
+**Discharge Diagnosis:**
+- Esophageal stricture
+- Esophagitis
+- Hypertension
+
+**Discharge Condition:**
+- Mental Status: Clear and coherent
+- Level of Consciousness: Alert and interactive
+- Activity Status: Ambulatory - Independent
+
+**Discharge Instructions:**
+- Monitor for fever, increased shortness of breath, cough, chest pain, nausea, vomiting, or abdominal pain. Follow up with primary care for blood pressure control.
+
+**Follow-up Instructions:**
+- Repeat EGD in 2 weeks with Dr. [Redacted].

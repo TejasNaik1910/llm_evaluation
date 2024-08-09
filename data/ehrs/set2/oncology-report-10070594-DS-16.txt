@@ -1,0 +1,394 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fatigue
+ 
+Major Surgical or Invasive Procedure:
+___ - Single lumen port placement
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with history of
+metastatic neuroendocrine tumor of unknown origin on ___
+who presents with fatigue. 
+
+He was recently admitted for syncope as well as pancytopenia. He
+reports difficulty ambulating since ___. He has been feeling
+very tired for the past few days. The morning of admission he 
+was
+too weak to get out of bed and needed his son to help. He also
+required a walker whereas before he needed no assistance. He
+reports an "awful" appetite. He has very poor PO intake, has 
+been
+trying to take ___ Boosts per day as well as soft foods 
+(pudding,
+applesauce, and ice cream). Restarted Lasix on ___ after
+reporting more edema and took two tablets yesterday. Notes
+worsening bilateral lower extremity parasthesia/numbness from 
+his
+toes to the mid-thigh. Reports left leg more weak than the 
+right.
+Notes continued chronic diarrhea although has improved with
+Imodium. He was also concerned for gout flare so took colchicine
+today. He denies any recent falls since last admission.
+
+On arrival to the ED, initial vitals were 98.3 98 104/53 16 98%
+RA. Exam was notable for clear lungs, soft abdomen, 2+ bilateral
+___ edema to calf without erythema, knee effusions R>L, 4+/5 
+right
+hip flexion, ___ left hip flexion, numbness in bilateral dorsal
+toes and knees, and bilateral mild medial ankle tenderness. Labs
+were notable for WBC 23.0, H/H 9.0/27.2, Plt 308, INR 2.2, Na
+140, K 4.0, BUN/Cr ___, and BNP 13875. CXR was negative for
+pneumonia. Patient was given Tylenol 1g PO and 1L NS. Prior to
+transfer vitals were 98.7 95 96/55 18 100% RA.
+
+On arrival to the floor, patient reports feeling tired. He 
+denies
+pain. Patient denies fevers/chills, night sweats, headache,
+vision changes, dizziness/lightheadedness, shortness of breath,
+cough, hemoptysis, chest pain, palpitations, abdominal pain,
+nausea/vomiting, hematemesis, hematochezia/melena, dysuria,
+hematuria, and new rashes.
+
+REVIEW OF SYSTEMS: A complete 10-point review of systems was
+performed and was negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+First developed abdominal bloating mid ___. He was then
+following up with one of our hepatologist, Dr. ___ 
+he
+was found to have on ___, a 15.9-cm right lobe mass
+with multiple satellite lesions consistent with HCC and enlarged
+porta hepatis and retroperitoneal lymphadenopathy consistent 
+with
+metastases.  His case was discussed at ___
+Conference and while the lymph nodes  were concerning and
+rereviewed by Interventional Radiology, they were found to be 
+not
+diagnostic for metastases.
+
+He underwent endoscopy with EUS on ___ which did not
+identify any primary lesions including in the pancreas. A biopsy
+of 1 of the lymph nodes returned as consistent with grade 2
+neuroendocrine tumor with a Ki-67 percentage of about 20%.
+
+- ___ C1D1 Carboplatin/Etoposide
+
+PAST MEDICAL HISTORY:
+- ___-induced cirrhosis complicated by portal hypertension
+- Ascites and HCC
+- Atrial fibrillation
+- Hypertension
+- Obesity
+- BPH
+- Gout
+- Prediabetes Mellitus
+- Apparent CKD
+- Baseline Bell's palsy left side
+ 
+Social History:
+___
+Family History:
+His mother was diagnosed with intestinal cancer
+in her late ___ and died at age ___. Brother diagnosed in his ___
+and living with bladder cancer. Sister living and has lymphoma.
+Sister living, diagnosed with breast cancer in her late ___.
+ 
+Physical Exam:
+ADMISSION EXAM:
+================
+VS: Temp 97.9, BP 113/71, HR 84, RR 18, O2 sat 100% RA.
+GENERAL: Pleasant man, in no distress, lying in bed comfortably.
+HEENT: Anicteric, PERLL, OP clear, left-sided facial droop,
+temporal wasting.
+CARDIAC: Irregularly irregular, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender, non-distended, normal bowel sounds, no
+hepatomegaly, no splenomegaly.
+EXT: Warm, well perfused, 2+ bilateral lower extremity edema to
+the knee. No ankle tenderness to palpation or pain with ROM.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. 4+/5 right hip flexion, ___ left hip flexion. Sensation
+to light touch intact.
+SKIN: No significant rashes.
+
+DISCHARGE EXAM:
+==============
+VS: 97.6 PO 122 / 72 69 18 
+GENERAL: Pleasant man, in no distress, lying in bed comfortably.
+HEENT: Anicteric, PERLL, OP clear, left-sided facial droop,
+temporal wasting.
+CARDIAC: Irregularly irregular
+LUNG:  no respiratory distress, clear to auscultation
+bilaterally anterior an d posterior chest 
+ABD: Soft, non-tender, non-distended
+EXT: Warm, well perfused, 1+ bilateral lower extremity edema to
+the knee, TEDS in place. No ankle tenderness to palpation or 
+pain with ROM.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Sensation
+to light touch intact.
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 07:21PM BLOOD WBC-23.0* RBC-3.04* Hgb-9.0* Hct-27.2* 
+MCV-90 MCH-29.6 MCHC-33.1 RDW-18.6* RDWSD-57.3* Plt ___
+___ 07:21PM BLOOD Neuts-69 Bands-8* Lymphs-12* Monos-6 
+Eos-1 Baso-0 ___ Metas-2* Myelos-2* AbsNeut-17.71* 
+AbsLymp-2.76 AbsMono-1.38* AbsEos-0.23 AbsBaso-0.00*
+___ 07:21PM BLOOD ___ PTT-27.7 ___
+___ 07:21PM BLOOD Glucose-94 UreaN-19 Creat-1.1 Na-140 
+K-4.0 Cl-104 HCO3-22 AnGap-18
+___ 06:45AM BLOOD ALT-14 AST-13 LD(LDH)-325* AlkPhos-226* 
+TotBili-0.7
+___ 07:21PM BLOOD ___
+___ 07:21PM BLOOD Albumin-2.3* Calcium-8.0* Phos-2.5* 
+Mg-1.8
+___ 08:45AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 08:45AM URINE Blood-NEG Nitrite-POS Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+___ 08:45AM URINE RBC-3* WBC->182* Bacteri-MANY Yeast-NONE 
+Epi-<1 TransE-<1
+___ 08:45AM URINE CastHy-4*
+___ 08:45AM URINE Mucous-FEW
+
+MICRO:
+========
+___ 8:45 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      CITROBACTER FREUNDII COMPLEX.    >100,000 CFU/mL. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             CITROBACTER FREUNDII COMPLEX
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------     1 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+IMAGING/STUDIES:
+=================
+___ CXR
+IMPRESSION: 
+No acute cardiopulmonary process.
+
+___
+IMPRESSION:
+Successful placement of a single lumen chest power low-profile 
+Port-a-cath via the left internal jugular venous approach. The 
+tip of the catheter terminates in the right atrium. The catheter 
+is ready for use.
+
+___ LUE U/S W/ DOPPLER
+IMPRESSION: 
+No evidence of deep vein thrombosis in the left upper extremity.
+
+DISCHARGE LABS:
+===============
+___ 05:40AM BLOOD WBC-11.0* RBC-2.74* Hgb-7.8* Hct-24.5* 
+MCV-89 MCH-28.5 MCHC-31.8* RDW-19.2* RDWSD-59.2* Plt ___
+___ 05:40AM BLOOD ___ PTT-28.7 ___
+___ 05:40AM BLOOD Glucose-104* UreaN-22* Creat-0.9 Na-139 
+K-4.1 Cl-104 HCO3-23 AnGap-16
+___ 05:40AM BLOOD ALT-12 AST-15 LD(LDH)-224 AlkPhos-184* 
+TotBili-0.3
+___ 05:40AM BLOOD Calcium-7.9* Phos-3.4 Mg-2.2
+___ 05:40AM BLOOD Calcium-7.9* Phos-3.4 Mg-2.2
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history of 
+metastatic neuroendocrine tumor of unknown origin on ___ 
+who presented with fatigue and failure to thrive, recovered with 
+diuresis and ___ who received port placement and initiation of 
+chemotherapy C2 with carboplatin/etoposide prior to transfer of 
+care to ___ in ___.
+
+# UTI:
+# Fatigue/Failure to Thrive: The patient was admitted with 
+failure to thrive and fatigue, unable to rise from bed on his 
+own prior to admission. He was found to have positive U/A, for 
+which he was treated empirically with ceftriaxone. Once 
+speciation and sensitivity resulted, the patient's course was 
+completed with ciprofloxacin, a total of 7d abx. He was able to 
+work with ___ and with given symptomatic therapy for edema and 
+improved nutrition after which he was able to self-mobilize 
+sufficiently to be cleared for a home discharge. He received a 
+port and his C2 carboplatin/etoposide, and is scheduled to 
+establish care with ___ closer to his home in ___.
+
+# Metastatic Neuroendocrine Tumor: Metastatic to lymph nodes and 
+liver. Treating with palliative intent with carboplatin and 
+etoposide complicated by pancytopenia. The patient received a 
+port while inpatient (apixaban was held then restarted) and his 
+chemotherapy C2 carboplatin/etoposide was administered. He was 
+discharged to be seen at ___ in ___ where he will be set 
+up with Neupogen.
+
+# Right Upper Extremity PICC-Associated DVT:
+# Atrial Fibrillation: The patient was on apixaban for both 
+PICC-associated DVT as well as AFib, and has malignancy not felt 
+to require Lovenox. His apixaban was held for 48 hours prior 
+place port, then resumed 24 hours post port placement per ___. No 
+bleeding complications from port placement. Home metoprolol was 
+continued.
+
+# Gout: Continued home allopurinol.
+
+# Lower Extremity Edema: Likely multifactorial including 
+malnutrition/hypoalbuminemia and inactivity. The patient's home 
+Lasix 40mg PO daily was continued and TEDS were used to good 
+effect in symptom control. The patient was active with ___ during 
+his stay and all therapies together reduced his overall edema.
+
+# Chronic Diarrhea: Likely from his neuro-endocrine tumor. Labs 
+checked on admission and C. Diff negative. The patient had been 
+using loperamide at home to good effect and this was continued 
+during admission once infectious etiology ruled out.
+
+# Severe Protein-Calorie Malnutrition: Very poor intake and 
+weight loss. Albumin 2.3 on admission. Nutrition was 
+supplemented during admission with nutrition consultation. 
+Discharged on multivitamin.
+
+# Anemia: Stable throughout admission without evidence of active 
+bleeding. Likely due to inflammatory block from malignancy as 
+well as possible marrow involvement. No indication for 
+transfusion during stay.
+
+# NASH-Induced Cirrhosis:
+# Ascites: Patient felt to have synthetic dysfunction as a 
+result of NASH cirrhosis or potential hepatic infiltration of 
+NET. Malnutrition felt to be contributing to ascites and edema. 
+Patient was given vitamin K 5mg PO x 2 and had improvement in 
+coags including INR<1.5. Patient tolerated port placement 
+without adverse bleeding outcome.
+
+# BPH: Continued home doxazosin and finasteride during 
+admission.
+
+# Prediabetes Mellitus: Patient not placed on sliding scale, did 
+not require any, and had serum glucose within normal range 
+during admission.
+
+# CKD Stage II-IIIA: Cr at baseline throughout admission, 
+medications renally dosed during admission.
+
+# Lower Extremity Neuropathy: Likely secondary to Carboplatin, 
+unchanged during admission.
+
+# Bell's Palsy Left Side: Known prior to admission, monitored 
+and unchanged during admission.
+
+TRANSITIONAL ISSUES:
+- new medications: multivitamin
+- changed medications: None
+- stopped medications: None
+- outpatient appt at ___ in ___ already set up for 1 pm 
+on ___, where he will receive Neulasta
+- continue carboplatin/etoposide at ___ at ___
+- discharged with existing home services
+- discharge blood counts: WBC 11 Hb 7.8 Plts 465 INR 1.3
+- discharge creatinine: .9
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. Doxazosin 4 mg PO HS 
+3. Finasteride 5 mg PO DAILY 
+4. Senna 8.6 mg PO BID:PRN constipation 
+5. Colchicine 0.6 mg PO DAILY:PRN gout 
+6. Metoprolol Succinate XL 200 mg PO DAILY 
+7. Apixaban 5 mg PO BID 
+8. Omeprazole 20 mg PO DAILY 
+9. Furosemide 40 mg PO DAILY:PRN edema 
+10. LOPERamide 2 mg PO QID:PRN diarrhea 
+
+ 
+Discharge Medications:
+1.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals  1 capsule(s) by mouth Daily Disp 
+#*30 Capsule Refills:*0 
+2.  Furosemide 40 mg PO DAILY  
+3.  Allopurinol ___ mg PO DAILY  
+4.  Apixaban 5 mg PO BID  
+5.  Colchicine 0.6 mg PO DAILY:PRN gout  
+6.  Doxazosin 4 mg PO HS  
+7.  Finasteride 5 mg PO DAILY  
+8.  LOPERamide 2 mg PO QID:PRN diarrhea  
+9.  Metoprolol Succinate XL 200 mg PO DAILY  
+10.  Omeprazole 20 mg PO DAILY  
+11.  Senna 8.6 mg PO BID:PRN constipation  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+UTI
+metastatic neuroendocrine tumor of unknown origin
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came to the hospital because of fatigue. While at the 
+hospital it was determined that you had a urinary tract 
+infection, which was treated. You also started chemotherapy for 
+your cancer. We are discharging you home with follow up with 
+your oncologist on ___. You had a port placed ___. 
+
+We wish you all the best!
+
+-Your ___ Care Team
+ 
+Followup Instructions:
+___

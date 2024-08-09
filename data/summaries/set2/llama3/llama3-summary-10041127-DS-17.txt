@@ -1,0 +1,21 @@
+Here is a summary of the clinical note:
+
+**Cancer Type and Stage:** The patient has neuroendocrine carcinoma of the liver or intrahepatic biliary tree, which is unresectable and has progressed despite chemotherapy.
+
+**Presenting Symptoms:** The patient presented with abdominal pain, constipation, and jaundice, with a high bilirubin level of 7.9.
+
+**Medical History:** The patient has a history of neuroendocrine carcinoma, which was diagnosed in [date] with a biopsy showing positivity for CK7, 20, chromogranins, synaptophysin, and S-100. The patient has undergone multiple cycles of chemotherapy, including cisplatin and gemcitabine, but the cancer has continued to progress.
+
+**Hospital Course:** The patient was admitted with hypercalcemia, which was treated with vigorous hydration, lasix, bisphosphonate, and calcitonin. The patient's calcium level normalized, and the abdominal pain improved. A paracentesis was performed to remove 5 liters of fluid, which was negative for spontaneous bacterial peritonitis (SBP).
+
+**Diagnostic Tests:** Laboratory results showed elevated liver function tests (LFTs), including ALT, AST, and bilirubin. A CT scan of the abdomen and pelvis showed no significant change in the appearance of the liver, which is diffusely replaced with metastases, and an interval increase in the amount of abundant abdominal and pelvic free fluid.
+
+**Surgical Interventions:** A paracentesis was performed to remove fluid from the abdomen.
+
+**Medications:** The patient was prescribed medications for hypercalcemia, including lasix, bisphosphonate, and calcitonin. The patient was also prescribed medications for pain, nausea, and constipation, including oxycodone, ondansetron, and lactulose.
+
+**Discharge Disposition:** The patient was discharged home with hospice care, with a plan to transition to palliative care.
+
+**Discharge Diagnosis:** The discharge diagnosis was hepatocellular carcinoma.
+
+**Discharge Condition:** The patient was discharged in a stable and afebrile condition.
