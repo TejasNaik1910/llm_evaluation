@@ -1,0 +1,66 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "MI"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Throat Cancer Surgery, Thyroidectomy, Carotid Artery Stenosis, Brain Tumor, Adenoid Cystic Carcinoma",
+            "explanation": "The specific terms used in the EHR, such as \"right ankle surg/pins,\" \"adenocystic carcinoma,\" and \"s/p thyroidectomy\" were generalized."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "severe atherosclerotic disease",
+            "explanation": "The summary generalizes 'severe atherosclerotic disease' without detailed descriptions provided in the EHR, such as specific areas of atherosclerosis and calcified and non-calcified plaques."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

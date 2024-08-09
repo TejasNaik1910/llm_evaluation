@@ -1,0 +1,22 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "The patient has stage IV pancreatic adenocarcinoma with liver metastases and a history of pulmonary embolism (PE), acalculous cholecystitis, and recent ST-elevation myocardial infarction (STEMI) with percutaneous coronary intervention (PCI)."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up Instructions: [Redacted]"
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

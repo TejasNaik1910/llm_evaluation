@@ -1,0 +1,28 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Acute post-procedural pain"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Initial presentation with painless jaundice, pancreatic mass identified, underwent Whipple procedure.",
+            "explanation": "The summary correctly states the patient's condition, but partially explains the initial presentation. The EHR explicitly states that jaundice was accompanied by imaging studies, leading to the identification of a mass. Omitting the imaging details might mislead to believe that the jaundice alone was sufficient for diagnosis."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Monitor and manage drain output.",
+            "explanation": "The summary mentions drain management under Discharge Instructions but omits the sequential detail that the drainage catheter was upsized due to minimal decrease in abscess size during the hospital stay, which is crucial for understanding the patient's treatment progression."
+        }
+    ]
+}

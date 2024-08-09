@@ -1,0 +1,31 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "Neoadjuvant chemotherapy (FOLFIRINOX) was initiated."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "A CT scan revealed a pancreatic mass."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Adjusted to include calcium carbonate, Creon, lorazepam, metoclopramide, olanzapine, omeprazole, oxycodone SR, polyethylene glycol, and continued most of the admission medications with adjustments."
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": [
+        {
+            "text": "Symptoms persisted, leading to her current admission.",
+            "explanation": "The summary does not mention that the patient was initially admitted to another facility before presenting to the ED again. This omission leads to an incomplete sequence of events."
+        }
+    ]
+}

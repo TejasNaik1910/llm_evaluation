@@ -1,0 +1,31 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Male"
+        }
+    ],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "Recurrent Clostridium difficile infection"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Hepatitis C Virus (HCV)"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": [
+        {
+            "text": "The patient presented with abdominal pain and hepatic encephalopathy. He was previously admitted for increased hepatic encephalopathy and was discharged with abdominal pain and tremulousness.",
+            "explanation": "The summary incorrectly implies that the patient has been recently discharged with abdominal pain and tremulousness, while the EHR note states the patient had a prior admission for increased hepatic encephalopathy and was discharged. This sequence could confuse the reader regarding the current state of the patient."
+        }
+    ]
+}

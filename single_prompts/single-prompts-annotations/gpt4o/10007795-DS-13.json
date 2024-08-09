@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "diabetes"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Gabapentin"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "patient's blood sugar was monitored throughout his stay",
+            "explanation": "The summary refers to the patient's blood sugar being monitored 'throughout his stay,' whereas the patient is female. This introduces an inconsistency in gender reference."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "compression fracture: Needs oncology follow-up",
+            "explanation": "While the EHR mentioned the T11 compression fracture as an existing condition known to her oncologist for a few years, the summary indicates that it was found during the hospital stay, implying it as a new finding rather than previously known."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "Surgery was aborted due to liver metastases, and palliative chemotherapy with gemcitabine was initiated."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Diagnostic tests in the ED revealed elevated lipase (2800), and a CT scan showed a large infiltrative pancreatic head tumor with associated pancreatitis and liver metastases."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Pancreatitis: Likely due to tumor-related inflammation.",
+            "explanation": "The summary implies that the pancreatitis is likely due to tumor-related inflammation, whereas the actual EHR notes suggest that the pancreatitis could possibly be due to the tumor but is difficult to interpret given the pancreatic cancer."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary mentions 'palliative chemotherapy with gemcitabine was initiated' after surgery was aborted due to liver metastases.",
+            "explanation": "Hallucination detected. The EHR indicates that palliative chemotherapy with gemcitabine was initiated before the surgery, which was later aborted due to liver metastases."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "the head of the pancreas",
+            "explanation": "The summary indicates the mass is at the head of the pancreas, but the EHR notes the mass is at the tail of the pancreas. This is a significant discrepancy as it misrepresents the location of the tumor, potentially impacting clinical understanding and subsequent decision-making."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient was discharged with improved pain management and a plan for follow-up care, including re-evaluation of the biliary stent and oncology follow-up for biopsy results.",
+            "explanation": "The statement asserts that the patient was discharged with improved pain management, which is an interpretation not explicitly supported by the EHR. The EHR notes an increase in the dose of oxycodone for pain but does not provide an evaluative statement confirming the improvement of pain management at discharge. This speculative conclusion leads to incorrect reasoning."
+        }
+    ],
+    "Chronological Inconsistency": []
+}

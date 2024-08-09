@@ -1,0 +1,19 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Follow-up with the hepatologist if there is low-grade fever, abdominal pain, or nausea/vomiting post-procedure.",
+            "explanation": "Hallucination detected. The summary mentions following up with the hepatologist if certain symptoms occur post-procedure. However, the EHR note specifies to check in with the hepatologist for instructions if these symptoms occur, not specifically for a follow-up which implies a different medical action. Therefore, this represents incorrect reasoning in interpreting the follow-up instructions."
+        }
+    ],
+    "Chronological Inconsistency": []
+}

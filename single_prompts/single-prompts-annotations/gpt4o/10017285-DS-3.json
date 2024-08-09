@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "None"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Oversimplification of cancer treatment history - Summary states 's/p chemo/radiation' without mentioning the minimal effect and focus on quality of life as per oncologist recommendation."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Appearance of heart arrhythmias mentioned incorrectly as a primary diagnosis of 'heart arrhythmias'."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Detailed information of 'tachyarrhythmias' reduced to just 'heart arrhythmias' in the summary."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "None"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "None"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "None",
+            "explanation": "None"
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "None",
+            "explanation": "None"
+        }
+    ]
+}

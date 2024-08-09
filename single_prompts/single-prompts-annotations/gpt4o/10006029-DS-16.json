@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Allergies: None listed"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The summary does not include patient's age or any details that might have been generalized in the summary from the EHR."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The summary simplifies the detailed oncologic history provided in the EHR."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary specifies only 'adenocarcinoma' while the EHR specifies 'pancreatobiliary adenocarcinoma.'"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "None"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "None"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary mentions follow-up with oncology for adenocarcinoma, but does not specifically mention the exact timing or the detailed follow-up instructions provided in the EHR."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "None",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "None",
+            "explanation": ""
+        }
+    ]
+}

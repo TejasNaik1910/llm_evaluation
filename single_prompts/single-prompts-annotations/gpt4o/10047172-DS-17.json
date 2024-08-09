@@ -1,0 +1,26 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "Subsequent treatments included Gemcitabine/Abraxane and modified FOLFIRINOX, with mixed responses. Currently on Gemcitabine and Erlotinib."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient was advised to follow up with his oncologist and primary care physician."
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "Diuretics were adjusted, and the patient was advised to follow up with his oncologist and primary care physician."
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

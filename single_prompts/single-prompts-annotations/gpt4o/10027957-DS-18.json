@@ -1,0 +1,24 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Surgery was recommended but refused by the patient. Treated with IV cyclosporine, transitioned to PO cyclosporine upon discharge.",
+            "explanation": "The EHR notes that the patient was advised to undergo total colectomy, but the summary does not make it clear that this was potentially due to refractory Crohn's disease. The reasoning behind the treatment with IV cyclosporine is unclear without this context."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Managed with IV steroids, PO Augmentin, and bowel rest. Imaging showed persistent disease. Surgery was recommended but refused by the patient. Treated with IV cyclosporine, transitioned to PO cyclosporine upon discharge.",
+            "explanation": "The hospital course in the summary introduces the treatment with IV steroids and PO Augmentin, but then mentions that imaging showed persistent disease, followed by a recommendation for surgery. This sequence is slightly misleading as the decision for surgery was due to refractory disease despite the treatments and was not a subsequent action but part of the clinical reason for the suggestion of surgery."
+        }
+    ]
+}

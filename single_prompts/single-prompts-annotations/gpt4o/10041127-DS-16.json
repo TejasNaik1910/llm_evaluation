@@ -1,0 +1,40 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [
+        {
+            "text": "massive disease progression on reduced dose sorafenib therapy"
+        }
+    ],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "hepatocellular carcinoma (HCC) versus intrahepatic cholangiocarcinoma"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Blood Culture: Viridans streptococci isolated, treated with vancomycin initially, then clindamycin."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "pantoprazole, ciprofloxacin, lactulose, oxycodone, compazine, megestrol, ondansetron, clindamycin"
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Follow up with primary care physician within a week",
+            "explanation": "The summary mentions follow-up with the primary care physician within a week, but the EHR specifically indicates a follow-up timeframe. This lack of specificity could be seen as indicative of incorrect reasoning since the exact follow-up instructions are crucial for patient care."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The patient, a gentleman with hepatocellular carcinoma (HCC) versus intrahepatic cholangiocarcinoma, presented with syncope and coffee ground emesis.",
+            "explanation": "The EHR states that the patient has hepatocellular carcinoma and later mentions the presentation with syncope and coffee ground emesis, whereas the summary suggests that both diagnoses were known at the same time as the presentation."
+        }
+    ]
+}

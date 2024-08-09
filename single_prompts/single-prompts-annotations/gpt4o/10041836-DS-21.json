@@ -1,0 +1,19 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states: \"Self-discontinued senna due to diarrhea without significant improvement.\"",
+            "explanation": "Hallucination detected. The summary implies that the diarrhea continued without significant improvement due to the discontinuation of senna, while the EHR note does not provide any direct correlation between the discontinuation of senna and the lack of improvement in diarrhea symptoms. The reasoning behind the continued diarrhea is speculative and not explicitly supported by the EHR note."
+        }
+    ],
+    "Chronological Inconsistency": []
+}

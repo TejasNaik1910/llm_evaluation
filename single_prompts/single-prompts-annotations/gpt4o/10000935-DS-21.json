@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "She had not undergone a definitive diagnosis with biopsy and was disengaged with care."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "with a history of metastatic cancer of unknown primary, involving the lungs and liver."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "She had not undergone a definitive diagnosis with biopsy and was disengaged with care.",
+            "explanation": "The patient\u2019s liver biopsy, which confirmed metastatic colon adenocarcinoma, was done during this hospital admission, not before. The summary makes it sound like the lack of biopsy was a past issue not addressed during this stay."
+        }
+    ]
+}

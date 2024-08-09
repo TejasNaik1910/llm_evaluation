@@ -1,0 +1,70 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Gastrocnemius vein",
+            "explanation": "The EHR note specifies 'left gastroc vein DVT' and 'left gastrocnemius vein deep venous thrombosis,' while the summary lists 'left gastrocnemius vein DVT.' This is an incorrect variation in terminology."
+        },
+        {
+            "text": "AnGap 17",
+            "explanation": "The EHR note mentions 'AnGap 12' on admission. The summary lists 'AnGap 17.' This is an incorrect value."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "IVC filter removal",
+            "explanation": "The summary fails to mention the exact timing for IVC filter removal, which should be in 3 months according to the EHR. Instead, it just states 'Follow-up with cardiology.'"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

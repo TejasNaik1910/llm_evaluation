@@ -1,0 +1,26 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [
+        {
+            "text": "The summary states, 'testicular cancer,' whereas the EHR specifies 'Non-seminoma testicular germ cell tumor (GCT) post 4 cycles of EP.' The EHR provides a more specific type of testicular cancer and treatment details, which are important for understanding the patient\u2019s history accurately."
+        }
+    ],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary lists 'epigastric pain rated 9.5/10, radiating to the back, accompanied by nausea but no vomiting,' but fails to mention the severity of the pain (9.5/10) and that the patient described it as 'sharp and stabbing.' Additionally, it omits that he called an ambulance and had never felt this pain before, which are critical for understanding the acute nature of the presentation."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary mentions 'no acute intra-abdominal process, no mesenteric ischemia' but fails to specifically state 'no acute intra-abdominal process' and 'specifically, no evidence of mesenteric ischemia' as found in the EHR, meaning it omits the detailed context given in the source document."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

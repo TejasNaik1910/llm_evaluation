@@ -1,0 +1,18 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "The summary briefly mentions that the follow-up echo and SH appointment should occur in 1 month without specifying the need for the patient to be contacted by the Structural Heart team if not already scheduled and follow up with primary care and cardiologist for any further refills."
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

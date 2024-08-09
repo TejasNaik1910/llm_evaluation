@@ -1,0 +1,19 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "Complete an 8-week course of high-dose Pantoprazole.",
+            "explanation": "The EHR specifies 'high dose PPI (started 40mg pantoprazole PO twice daily...for upper GI bleed likely from gastritis.' The summary should have specified 40mg twice daily as the dosage rather than 'high dose Pantoprazole,' as this provides a clear understanding of the necessary recovery timeline."
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}
