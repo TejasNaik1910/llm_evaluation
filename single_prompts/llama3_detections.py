@@ -119,8 +119,6 @@ for note_id in note_ids_set2:
     # Load the EHR note and summary content based on note_id
     ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
     summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
-    ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
-    summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()

@@ -119,7 +119,6 @@ for note_id in note_ids_set2:
     # Load the EHR note and summary content based on note_id
     ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
     summary_file = f'data/summaries/set2/gpt4o/gpt4o-doc-{note_id}.txt'    #need to change summary file for llama3
-    # summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
     
     with open(ehr_note_file, 'r') as file:
         ehr_note_content = file.read()
@@ -172,7 +171,6 @@ for note_id in note_ids_set2:
             response_dict = json.loads(json_content)
             # Save the response
             output_file = f'single_prompts/single-prompt-annotations/set2/gpt4o/{note_id}.json' #need to change output file for Ilama
-            # output_file = f'single_prompt/single-prompt-annotations/set2/llama3/{note_id}.json'
             with open(output_file, 'w') as file:
                 json.dump(response_dict, file, indent=4)
             print("Done")
