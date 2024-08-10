@@ -1,4 +1,11 @@
 {
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
     "Specific to General Symptoms/Diagnosis": [
         {
             "text": "spasms",
@@ -9,6 +16,11 @@
             "text": "T2DM",
             "CharacterIndices": null,
             "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "DVTs",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
         },
         {
             "text": "colon polyps",
@@ -34,26 +46,6 @@
             "text": "OSA",
             "CharacterIndices": null,
             "omittedDetails": "Obstructive Sleep Apnoea"
-        },
-        {
-            "text": "ultrasound",
-            "CharacterIndices": null,
-            "omittedDetails": "Ultrasound"
-        },
-        {
-            "text": "colonoscopy",
-            "CharacterIndices": null,
-            "omittedDetails": "Colonoscopy"
-        },
-        {
-            "text": "XRs",
-            "CharacterIndices": null,
-            "omittedDetails": "X-Ray Imaging"
-        },
-        {
-            "text": "EGD",
-            "CharacterIndices": null,
-            "omittedDetails": "Esophagogastroduodenoscopy"
         },
         {
             "text": "ligation",
@@ -84,6 +76,31 @@
             "text": "breast incisions",
             "CharacterIndices": null,
             "omittedDetails": "Mastotomy Nos"
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "XRs",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        },
+        {
+            "text": "EGD",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophagogastroduodenoscopy"
         }
     ],
     "Incorrect Symptoms/Diagnosis": [
@@ -110,95 +127,81 @@
                 2164
             ],
             "omittedDetails": null
-        },
-        {
-            "text": "iron deficiency",
-            "CharacterIndices": [
-                3658,
-                3673
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "distress",
-            "CharacterIndices": [
-                2086,
-                2094
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "Vascular Surgery",
-            "CharacterIndices": [
-                1781,
-                1797
-            ],
-            "omittedDetails": null
         }
     ],
-    "Specific to General Followup": [
+    "Specific to General Medical Instructions": [
         {
-            "text": "unchanged",
+            "text": "2,000",
             "CharacterIndices": null,
-            "omittedDetails": "Stable Response"
-        }
-    ],
-    "Incorrect Followup": [
+            "omittedDetails": "Value"
+        },
         {
-            "text": "improvement",
-            "CharacterIndices": [
-                2438,
-                2449
-            ],
-            "omittedDetails": null
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lovenox",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "Tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "Coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "tramadol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tramadol"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Zithromax",
+            "CharacterIndices": null,
+            "omittedDetails": "Azithromycin"
+        },
+        {
+            "text": "Furosemide",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
         }
     ],
     "Incorrect Medical Instructions": [
-        {
-            "text": "20",
-            "CharacterIndices": [
-                1734,
-                1736
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "40",
-            "CharacterIndices": [
-                2779,
-                2781
-            ],
-            "omittedDetails": null
-        },
         {
             "text": "5",
             "CharacterIndices": [
                 1673,
                 1674
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "1000",
-            "CharacterIndices": [
-                2715,
-                2719
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "5",
-            "CharacterIndices": [
-                3062,
-                3063
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "7.5",
-            "CharacterIndices": [
-                3164,
-                3167
             ],
             "omittedDetails": null
         },
@@ -249,67 +252,6 @@
                 2844
             ],
             "omittedDetails": null
-        },
-        {
-            "text": "Augmentin",
-            "CharacterIndices": [
-                290,
-                299
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "Albuterol",
-            "CharacterIndices": [
-                2737,
-                2746
-            ],
-            "omittedDetails": null
-        },
-        {
-            "text": "0.08",
-            "CharacterIndices": [
-                2747,
-                2751
-            ],
-            "omittedDetails": null
-        }
-    ],
-    "Specific to General Medical Instructions": [
-        {
-            "text": "2,000",
-            "CharacterIndices": null,
-            "omittedDetails": "Value"
-        },
-        {
-            "text": "1",
-            "CharacterIndices": null,
-            "omittedDetails": "Value"
-        },
-        {
-            "text": "1",
-            "CharacterIndices": null,
-            "omittedDetails": "Value"
-        },
-        {
-            "text": "Lovenox",
-            "CharacterIndices": null,
-            "omittedDetails": "Enoxaparin Sodium"
-        },
-        {
-            "text": "Tylenol",
-            "CharacterIndices": null,
-            "omittedDetails": "Tylenol"
-        },
-        {
-            "text": "Coumadin",
-            "CharacterIndices": null,
-            "omittedDetails": "Warfarin Potassium"
-        },
-        {
-            "text": "Zithromax",
-            "CharacterIndices": null,
-            "omittedDetails": "Azithromycin"
         }
     ]
 }
