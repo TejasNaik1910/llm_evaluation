@@ -2,313 +2,247 @@
     "Specific to General Symptoms/Diagnosis": [
         {
             "text": "spasms",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Muscle Spasm"
         },
         {
             "text": "T2DM",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Type 2 Diabetes Mellitus"
         },
         {
             "text": "colon polyps",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Polyp Of Colon"
         },
         {
             "text": "diverticulosis",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Diverticulosis Of Intestine Part Unspecified Without Perforation Or Abscess Without Bleeding"
         },
         {
             "text": "GERD",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Gastro-Esophageal Reflux Disease"
         },
         {
             "text": "URI",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Acute Upper Respiratory Infections J00-J06"
         },
         {
             "text": "OSA",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Obstructive Sleep Apnoea"
         },
         {
             "text": "ultrasound",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Ultrasound"
         },
         {
             "text": "colonoscopy",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Colonoscopy"
         },
         {
             "text": "XRs",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "X-Ray Imaging"
         },
         {
             "text": "EGD",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Esophagogastroduodenoscopy"
         },
         {
             "text": "ligation",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Closure By Ligation"
         },
         {
             "text": "tonsillectomy",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Tonsillectomy"
         },
         {
             "text": "hysterectomy",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Hysterectomy"
         },
         {
             "text": "arthroplasty",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Arthroplasty"
         },
         {
             "text": "exploration",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Exploration"
         },
         {
             "text": "breast incisions",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Mastotomy Nos"
         }
     ],
     "Incorrect Symptoms/Diagnosis": [
         {
             "text": "vitamin D deficiency",
-            "CharacterIndices": [
-                3424,
-                3444
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "Allergies",
-            "CharacterIndices": [
-                268,
-                277
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "tender",
-            "CharacterIndices": [
-                2158,
-                2164
-            ],
+            "WordIndex": 322,
             "omittedDetails": null
         },
         {
             "text": "iron deficiency",
-            "CharacterIndices": [
-                3658,
-                3673
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "distress",
-            "CharacterIndices": [
-                2086,
-                2094
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "Vascular Surgery",
-            "CharacterIndices": [
-                1781,
-                1797
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         }
     ],
     "Specific to General Followup": [
         {
             "text": "unchanged",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Stable Response"
         }
     ],
     "Incorrect Followup": [
         {
             "text": "improvement",
-            "CharacterIndices": [
-                2438,
-                2449
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         }
     ],
     "Incorrect Medical Instructions": [
         {
             "text": "20",
-            "CharacterIndices": [
-                1734,
-                1736
-            ],
+            "WordIndex": 435,
             "omittedDetails": null
         },
         {
             "text": "40",
-            "CharacterIndices": [
-                2779,
-                2781
-            ],
+            "WordIndex": 417,
             "omittedDetails": null
         },
         {
             "text": "5",
-            "CharacterIndices": [
-                1673,
-                1674
-            ],
+            "WordIndex": 245,
             "omittedDetails": null
         },
         {
             "text": "1000",
-            "CharacterIndices": [
-                2715,
-                2719
-            ],
+            "WordIndex": 405,
             "omittedDetails": null
         },
         {
             "text": "5",
-            "CharacterIndices": [
-                3062,
-                3063
-            ],
+            "WordIndex": 245,
             "omittedDetails": null
         },
         {
             "text": "7.5",
-            "CharacterIndices": [
-                3164,
-                3167
-            ],
+            "WordIndex": 492,
             "omittedDetails": null
         },
         {
             "text": "Morphine",
-            "CharacterIndices": [
-                1616,
-                1624
-            ],
+            "WordIndex": 233,
             "omittedDetails": null
         },
         {
             "text": "4",
-            "CharacterIndices": [
-                1625,
-                1626
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "Topamax",
-            "CharacterIndices": [
-                301,
-                308
-            ],
+            "WordIndex": 37,
             "omittedDetails": null
         },
         {
             "text": "Codeine",
-            "CharacterIndices": [
-                281,
-                288
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "Erythromycin",
-            "CharacterIndices": [
-                2828,
-                2840
-            ],
+            "WordIndex": 429,
             "omittedDetails": null
         },
         {
             "text": "0.5",
-            "CharacterIndices": [
-                2841,
-                2844
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "Augmentin",
-            "CharacterIndices": [
-                290,
-                299
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         },
         {
             "text": "Albuterol",
-            "CharacterIndices": [
-                2737,
-                2746
-            ],
+            "WordIndex": 411,
             "omittedDetails": null
         },
         {
             "text": "0.08",
-            "CharacterIndices": [
-                2747,
-                2751
-            ],
+            "WordIndex": null,
             "omittedDetails": null
         }
     ],
     "Specific to General Medical Instructions": [
         {
             "text": "2,000",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Value"
         },
         {
             "text": "1",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Value"
         },
         {
             "text": "1",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Value"
         },
         {
             "text": "Lovenox",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Enoxaparin Sodium"
         },
         {
             "text": "Tylenol",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Tylenol"
         },
         {
             "text": "Coumadin",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Warfarin Potassium"
         },
         {
             "text": "Zithromax",
-            "CharacterIndices": null,
+            "WordIndex": null,
             "omittedDetails": "Azithromycin"
         }
     ]
