@@ -15,7 +15,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "back pain",
             "startOffset": 934,
@@ -57,7 +57,7 @@
             "omittedDetails": "Missing medicinal info regarding this disease"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "edema",
             "startOffset": 1719,
@@ -75,73 +75,7 @@
             "omittedDetails": "not currently symptomatic"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "WBC",
-            "startOffset": 1922,
-            "endOffset": 1925,
-            "startWordIndex": 245,
-            "endWordIndex": 246,
-            "omittedDetails": "The values of the lab tests mentioned in the summary are omitted."
-        },
-        {
-            "text": "Review of Systems",
-            "startOffset": 1038,
-            "endOffset": 1055,
-            "startWordIndex": 132,
-            "endWordIndex": 135,
-            "omittedDetails": "10 point ROS missing"
-        },
-        {
-            "text": "Neurological:",
-            "startOffset": 1728,
-            "endOffset": 1741,
-            "startWordIndex": 220,
-            "endWordIndex": 221,
-            "omittedDetails": "Missing neurological findings"
-        },
-        {
-            "text": "Respiratory",
-            "startOffset": 1564,
-            "endOffset": 1575,
-            "startWordIndex": 201,
-            "endWordIndex": 202,
-            "omittedDetails": "Missing findings"
-        },
-        {
-            "text": "Cardiovascular",
-            "startOffset": 1493,
-            "endOffset": 1507,
-            "startWordIndex": 193,
-            "endWordIndex": 194,
-            "omittedDetails": "Missing findings"
-        },
-        {
-            "text": "Physical Exam",
-            "startOffset": 1358,
-            "endOffset": 1371,
-            "startWordIndex": 170,
-            "endWordIndex": 172,
-            "omittedDetails": "Missing a PE (ENT)"
-        },
-        {
-            "text": " tests",
-            "startOffset": 1886,
-            "endOffset": 1892,
-            "startWordIndex": 240,
-            "endWordIndex": 241,
-            "omittedDetails": "Missing whole tests with their values"
-        },
-        {
-            "text": "Arrhythmia",
-            "startOffset": 2355,
-            "endOffset": 2365,
-            "startWordIndex": 310,
-            "endWordIndex": 311,
-            "omittedDetails": "Missing normal HR"
-        }
-    ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Discharge Instructions",
             "startOffset": 3267,

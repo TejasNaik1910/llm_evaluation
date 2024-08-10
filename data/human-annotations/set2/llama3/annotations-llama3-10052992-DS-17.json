@@ -1,5 +1,5 @@
 {
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
             "text": "patient",
             "startOffset": 108,
@@ -9,57 +9,7 @@
             "omittedDetails": "male "
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": " summary",
-            "startOffset": 9,
-            "endOffset": 17,
-            "startWordIndex": 3,
-            "endWordIndex": 4,
-            "omittedDetails": "missing allergies section from summary"
-        },
-        {
-            "text": "complete blood count",
-            "startOffset": 936,
-            "endOffset": 956,
-            "startWordIndex": 125,
-            "endWordIndex": 128,
-            "omittedDetails": "specific labs and their results missing from summary"
-        },
-        {
-            "text": "liver function tests,",
-            "startOffset": 958,
-            "endOffset": 979,
-            "startWordIndex": 128,
-            "endWordIndex": 131,
-            "omittedDetails": "specific labs and their results missing from summary"
-        },
-        {
-            "text": "Blood tests",
-            "startOffset": 923,
-            "endOffset": 934,
-            "startWordIndex": 123,
-            "endWordIndex": 125,
-            "omittedDetails": "other labs and their results missing from summary"
-        },
-        {
-            "text": "Information:",
-            "startOffset": 1340,
-            "endOffset": 1352,
-            "startWordIndex": 179,
-            "endWordIndex": 180,
-            "omittedDetails": "whole physical exams section missing from summary"
-        },
-        {
-            "text": "Relevant ",
-            "startOffset": 1331,
-            "endOffset": 1340,
-            "startWordIndex": 178,
-            "endWordIndex": 179,
-            "omittedDetails": "vitals and labs in ED missing from summary"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": " cancer",
             "startOffset": 173,
@@ -85,7 +35,7 @@
             "omittedDetails": "specific dosage missing from summary"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": " lungs,",
             "startOffset": 247,

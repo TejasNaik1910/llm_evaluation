@@ -33,7 +33,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "no significant distress",
             "startOffset": 1305,
@@ -49,40 +49,6 @@
             "startWordIndex": 251,
             "endWordIndex": 255,
             "omittedDetails": "it goes to parent here without mentioning the exact details."
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "of ",
-            "startOffset": 425,
-            "endOffset": 428,
-            "startWordIndex": 43,
-            "endWordIndex": 44,
-            "omittedDetails": "Vitals and lab tests and their findings were omitted from the summary."
-        },
-        {
-            "text": "Physical Exam",
-            "startOffset": 1248,
-            "endOffset": 1261,
-            "startWordIndex": 152,
-            "endWordIndex": 154,
-            "omittedDetails": "Vitals/Physical exams and their findings were omitted from the summary."
-        },
-        {
-            "text": "liver enzymes",
-            "startOffset": 1480,
-            "endOffset": 1493,
-            "startWordIndex": 180,
-            "endWordIndex": 182,
-            "omittedDetails": "The exact liver enzymes were omitted."
-        },
-        {
-            "text": "Plan",
-            "startOffset": 1793,
-            "endOffset": 1797,
-            "startWordIndex": 217,
-            "endWordIndex": 218,
-            "omittedDetails": "Response/outcomes were omitted."
         }
     ],
     "Incorrect Reasoning": [
@@ -108,7 +74,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "diuretics",
             "startOffset": 2662,

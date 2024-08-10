@@ -1,5 +1,5 @@
 {
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "History",
             "startOffset": 521,
@@ -9,33 +9,7 @@
             "omittedDetails": "cataract surgery. (missing surgical history)"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": " tube",
-            "startOffset": 442,
-            "endOffset": 447,
-            "startWordIndex": 46,
-            "endWordIndex": 47,
-            "omittedDetails": "drained 800cc of serosanguineous fluid."
-        },
-        {
-            "text": "Diagnostic ",
-            "startOffset": 1369,
-            "endOffset": 1380,
-            "startWordIndex": 189,
-            "endWordIndex": 190,
-            "omittedDetails": "Missing urine lytes."
-        },
-        {
-            "text": "Tests",
-            "startOffset": 1380,
-            "endOffset": 1385,
-            "startWordIndex": 190,
-            "endWordIndex": 191,
-            "omittedDetails": "Missing TB smear."
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "CXR",
             "startOffset": 1393,
@@ -53,6 +27,6 @@
             "omittedDetails": "embolism. "
         }
     ],
-    "Omitted Medicinal Instructions": [],
-    "Omitted Followup": []
+    "Specific to General Medicinal Instructions": [],
+    "Specific to General Followup": []
 }

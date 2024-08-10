@@ -9,7 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "lymphadenectomy ",
             "startOffset": 1086,
@@ -19,25 +19,7 @@
             "omittedDetails": "Bilateral pelvic lymphadenctomy is generalized as pelvic lymphadenectomy"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Exam",
-            "startOffset": 501,
-            "endOffset": 505,
-            "startWordIndex": 63,
-            "endWordIndex": 64,
-            "omittedDetails": "Some physical exam findings are missing from the summary"
-        },
-        {
-            "text": "Blood ",
-            "startOffset": 833,
-            "endOffset": 839,
-            "startWordIndex": 109,
-            "endWordIndex": 110,
-            "omittedDetails": "Some Lab aspects/findings are missing from the summary"
-        }
-    ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "History",
             "startOffset": 236,
@@ -70,7 +52,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Medications",
             "startOffset": 1339,
@@ -80,7 +62,7 @@
             "omittedDetails": "Medications are missing Dosages, Frequencies and instructions"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "fever",
             "startOffset": 1857,

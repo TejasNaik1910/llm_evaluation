@@ -1,5 +1,5 @@
 {
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "Endometrial cancer",
             "startOffset": 305,
@@ -9,7 +9,7 @@
             "omittedDetails": "A \"Diagnostic Procedure\" used for this disease is omitted."
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Diabetes",
             "startOffset": 1686,
@@ -27,9 +27,7 @@
             "omittedDetails": "The concentrations and doses of Discharge Medications are omitted."
         }
     ],
-    "Omitted Other Inconsistency": [
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "lymphocele",
             "startOffset": 852,
@@ -37,7 +35,7 @@
             "startWordIndex": 113,
             "endWordIndex": 114,
             "omittedDetails": "Some Diseases diagnosed by CT are omitted."
-        },        
+        },
         {
             "text": "Fever",
             "startOffset": 252,
@@ -47,5 +45,5 @@
             "omittedDetails": "The temp. of fever is omitted"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

@@ -9,49 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Stage III",
-            "startOffset": 164,
-            "endOffset": 173,
-            "startWordIndex": 25,
-            "endWordIndex": 27,
-            "omittedDetails": "Omitted woresening renal failure"
-        },
-        {
-            "text": "chronic kidney disease",
-            "startOffset": 140,
-            "endOffset": 162,
-            "startWordIndex": 22,
-            "endWordIndex": 25,
-            "omittedDetails": "Omitted lab results"
-        },
-        {
-            "text": "Physical Exam",
-            "startOffset": 828,
-            "endOffset": 841,
-            "startWordIndex": 113,
-            "endWordIndex": 115,
-            "omittedDetails": "Omitted exams and findings"
-        },
-        {
-            "text": "Laboratory Results",
-            "startOffset": 634,
-            "endOffset": 652,
-            "startWordIndex": 89,
-            "endWordIndex": 91,
-            "omittedDetails": "Omitted lab results"
-        },
-        {
-            "text": "Evaluation of infectious causes",
-            "startOffset": 442,
-            "endOffset": 473,
-            "startWordIndex": 59,
-            "endWordIndex": 63,
-            "omittedDetails": "Omitted findings"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "codeine",
             "startOffset": 1274,
@@ -77,7 +35,7 @@
             "omittedDetails": "Omitted treatment"
         }
     ],
-    "Omitted Followup": [],
+    "Specific to General Followup": [],
     "Incorrect Reasoning": [
         {
             "text": "Suggested possible neuroendocrine tumor from the elevated chromogranin",

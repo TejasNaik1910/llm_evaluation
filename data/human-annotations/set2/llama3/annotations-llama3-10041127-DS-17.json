@@ -1,5 +1,5 @@
 {
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "multiple cycles",
             "startOffset": 568,
@@ -58,105 +58,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": " clinical note",
-            "startOffset": 24,
-            "endOffset": 38,
-            "startWordIndex": 6,
-            "endWordIndex": 8,
-            "omittedDetails": "missing allergies section from summary"
-        },
-        {
-            "text": "Presenting ",
-            "startOffset": 218,
-            "endOffset": 229,
-            "startWordIndex": 32,
-            "endWordIndex": 33,
-            "omittedDetails": "ED vital signs are missing from summary"
-        },
-        {
-            "text": "summary",
-            "startOffset": 10,
-            "endOffset": 17,
-            "startWordIndex": 3,
-            "endWordIndex": 4,
-            "omittedDetails": "missing family history section from summary"
-        },
-        {
-            "text": "Hospital Course",
-            "startOffset": 683,
-            "endOffset": 698,
-            "startWordIndex": 98,
-            "endWordIndex": 100,
-            "omittedDetails": "missing whole physical exams section from summary"
-        },
-        {
-            "text": "Laboratory results",
-            "startOffset": 1047,
-            "endOffset": 1065,
-            "startWordIndex": 147,
-            "endWordIndex": 149,
-            "omittedDetails": "missing other lab tests with their results from summary"
-        },
-        {
-            "text": " hypercalcemia",
-            "startOffset": 731,
-            "endOffset": 745,
-            "startWordIndex": 105,
-            "endWordIndex": 106,
-            "omittedDetails": "missing specified lab from summary"
-        },
-        {
-            "text": "ALT",
-            "startOffset": 1121,
-            "endOffset": 1124,
-            "startWordIndex": 156,
-            "endWordIndex": 157,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": " AST",
-            "startOffset": 1125,
-            "endOffset": 1129,
-            "startWordIndex": 157,
-            "endWordIndex": 158,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "bilirubin",
-            "startOffset": 1135,
-            "endOffset": 1144,
-            "startWordIndex": 159,
-            "endWordIndex": 160,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "Medications",
-            "startOffset": 1467,
-            "endOffset": 1478,
-            "startWordIndex": 210,
-            "endWordIndex": 211,
-            "omittedDetails": "missing some admission and discharge medications with their doses from summary"
-        },
-        {
-            "text": "bilirubin level of 7.9.",
-            "startOffset": 324,
-            "endOffset": 347,
-            "startWordIndex": 46,
-            "endWordIndex": 51,
-            "omittedDetails": "Labs (baseline of 3)"
-        },
-        {
-            "text": ":**",
-            "startOffset": 366,
-            "endOffset": 369,
-            "startWordIndex": 53,
-            "endWordIndex": 53,
-            "omittedDetails": "Omitted labs in PMI"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": " paracentesis",
             "startOffset": 903,
@@ -174,7 +76,7 @@
             "omittedDetails": "Missing other diseases in the summary"
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "cancer ",
             "startOffset": 646,
@@ -193,7 +95,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Discharge",
             "startOffset": 1721,
@@ -211,7 +113,7 @@
             "omittedDetails": "missing iv hydration"
         }
     ],
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
             "text": "Here ",
             "startOffset": 0,

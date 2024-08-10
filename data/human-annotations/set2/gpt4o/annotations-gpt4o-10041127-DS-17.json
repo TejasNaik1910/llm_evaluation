@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "large mass",
             "startOffset": 1181,
@@ -102,7 +102,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "myelosuppression",
             "startOffset": 1658,
@@ -144,7 +144,7 @@
             "omittedDetails": "enlarging mass missing"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Prochlorperazine",
             "startOffset": 3856,
@@ -196,192 +196,6 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Abdomen",
-            "startOffset": 2467,
-            "endOffset": 2474,
-            "startWordIndex": 332,
-            "endWordIndex": 333,
-            "omittedDetails": "missing some specified findings from physical exam of abdomen"
-        },
-        {
-            "text": "Extremities",
-            "startOffset": 2555,
-            "endOffset": 2566,
-            "startWordIndex": 343,
-            "endWordIndex": 344,
-            "omittedDetails": "missing some specified findings from physical exam of extremeties"
-        },
-        {
-            "text": "Elevated WBC",
-            "startOffset": 2935,
-            "endOffset": 2947,
-            "startWordIndex": 394,
-            "endWordIndex": 396,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "low RBC",
-            "startOffset": 2949,
-            "endOffset": 2956,
-            "startWordIndex": 396,
-            "endWordIndex": 398,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "Hgb",
-            "startOffset": 2958,
-            "endOffset": 2961,
-            "startWordIndex": 398,
-            "endWordIndex": 399,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": " Hct,",
-            "startOffset": 2962,
-            "endOffset": 2967,
-            "startWordIndex": 399,
-            "endWordIndex": 400,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "elevated AST",
-            "startOffset": 2968,
-            "endOffset": 2980,
-            "startWordIndex": 400,
-            "endWordIndex": 402,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "ALT,",
-            "startOffset": 2982,
-            "endOffset": 2986,
-            "startWordIndex": 402,
-            "endWordIndex": 403,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "AlkPhos",
-            "startOffset": 2987,
-            "endOffset": 2994,
-            "startWordIndex": 403,
-            "endWordIndex": 404,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "total bilirubin",
-            "startOffset": 3000,
-            "endOffset": 3015,
-            "startWordIndex": 405,
-            "endWordIndex": 407,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "Hypercalcemia",
-            "startOffset": 3017,
-            "endOffset": 3030,
-            "startWordIndex": 407,
-            "endWordIndex": 408,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "Labs",
-            "startOffset": 2927,
-            "endOffset": 2931,
-            "startWordIndex": 393,
-            "endWordIndex": 394,
-            "omittedDetails": "missing other lab values and their results from summary"
-        },
-        {
-            "text": "Radiology",
-            "startOffset": 3042,
-            "endOffset": 3051,
-            "startWordIndex": 409,
-            "endWordIndex": 410,
-            "omittedDetails": "missing other diagnostic procedures and their findings from summary"
-        },
-        {
-            "text": "CT showed ",
-            "startOffset": 3055,
-            "endOffset": 3065,
-            "startWordIndex": 410,
-            "endWordIndex": 412,
-            "omittedDetails": "missing other findings from CT"
-        },
-        {
-            "text": "Hypercalcemia",
-            "startOffset": 3338,
-            "endOffset": 3351,
-            "startWordIndex": 442,
-            "endWordIndex": 443,
-            "omittedDetails": "missing related PTH lab result from summary"
-        },
-        {
-            "text": "abdominal pain",
-            "startOffset": 628,
-            "endOffset": 642,
-            "startWordIndex": 74,
-            "endWordIndex": 76,
-            "omittedDetails": "Worsening (response missing)"
-        },
-        {
-            "text": "History",
-            "startOffset": 408,
-            "endOffset": 415,
-            "startWordIndex": 41,
-            "endWordIndex": 42,
-            "omittedDetails": "Missing ROS"
-        },
-        {
-            "text": "revealed",
-            "startOffset": 898,
-            "endOffset": 906,
-            "startWordIndex": 119,
-            "endWordIndex": 120,
-            "omittedDetails": "CT revealed progression (response missing)"
-        },
-        {
-            "text": " loss.",
-            "startOffset": 1745,
-            "endOffset": 1751,
-            "startWordIndex": 233,
-            "endWordIndex": 234,
-            "omittedDetails": "Missing labs and their findings in pmd"
-        },
-        {
-            "text": "CT scans ",
-            "startOffset": 1355,
-            "endOffset": 1364,
-            "startWordIndex": 180,
-            "endWordIndex": 182,
-            "omittedDetails": "mass decreased in size (response)"
-        },
-        {
-            "text": "with",
-            "startOffset": 3474,
-            "endOffset": 3478,
-            "startWordIndex": 455,
-            "endWordIndex": 456,
-            "omittedDetails": "Missing labs in cholangitis"
-        },
-        {
-            "text": "Zo",
-            "startOffset": 3479,
-            "endOffset": 3481,
-            "startWordIndex": 456,
-            "endWordIndex": 456,
-            "omittedDetails": "Cancer is worsening "
-        },
-        {
-            "text": "fluid",
-            "startOffset": 3584,
-            "endOffset": 3589,
-            "startWordIndex": 467,
-            "endWordIndex": 468,
-            "omittedDetails": "neg sbp"
-        }
-    ],
     "Incorrect Patient History": [
         {
             "text": "Liver ultrasound",
@@ -392,7 +206,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Discharge Instructions",
             "startOffset": 4072,

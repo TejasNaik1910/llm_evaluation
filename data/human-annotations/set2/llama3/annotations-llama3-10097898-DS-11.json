@@ -9,17 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "hyponatremia",
-            "startOffset": 974,
-            "endOffset": 986,
-            "startWordIndex": 127,
-            "endWordIndex": 128,
-            "omittedDetails": "Omitted lab results"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Illness",
             "startOffset": 312,
@@ -29,7 +19,7 @@
             "omittedDetails": "Omitted some symptoms and procedures"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "blood thinning medications",
             "startOffset": 1611,
@@ -48,7 +38,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Call doctor",
             "startOffset": 1742,

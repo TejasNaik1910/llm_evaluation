@@ -1,15 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Blood tests",
-            "startOffset": 635,
-            "endOffset": 646,
-            "startWordIndex": 88,
-            "endWordIndex": 90,
-            "omittedDetails": "missing blood tests values"
-        }
-    ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "CAD",
             "startOffset": 149,
@@ -59,7 +49,7 @@
             "omittedDetails": "missing in I, II and III"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "chest pain",
             "startOffset": 346,
@@ -93,7 +83,7 @@
             "omittedDetails": "missing treated with carafate enemas"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Patient",
             "startOffset": 323,
@@ -112,7 +102,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Followup": [],
+    "Specific to General Followup": [],
     "Incorrect Followup": [
         {
             "text": "cardiologist",

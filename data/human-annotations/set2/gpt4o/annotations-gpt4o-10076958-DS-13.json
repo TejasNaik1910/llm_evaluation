@@ -1,31 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "findings",
-            "startOffset": 1325,
-            "endOffset": 1333,
-            "startWordIndex": 165,
-            "endWordIndex": 166,
-            "omittedDetails": "In the patient record the HEENT findings are mentioned in details, however in summary is generalized."
-        },
-        {
-            "text": "other parameters",
-            "startOffset": 2134,
-            "endOffset": 2150,
-            "startWordIndex": 277,
-            "endWordIndex": 279,
-            "omittedDetails": "Specific lab tests are mentioned in the medical record are omitted."
-        },
-        {
-            "text": "diet",
-            "startOffset": 2680,
-            "endOffset": 2684,
-            "startWordIndex": 349,
-            "endWordIndex": 350,
-            "omittedDetails": "A specific type of Diet used on admission is omitted."
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "KUB",
             "startOffset": 2183,
@@ -52,7 +26,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Hypertension",
             "startOffset": 986,
@@ -62,5 +36,5 @@
             "omittedDetails": "The Medications used to treat hypertension on admission are omitted."
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

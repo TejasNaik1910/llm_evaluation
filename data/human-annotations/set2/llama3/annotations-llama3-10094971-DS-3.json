@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Metastatic renal cell carcinoma",
             "startOffset": 1140,
@@ -17,7 +17,7 @@
             "omittedDetails": "specific location is mentioned in the EHR while generalized in the summary"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Metastatic",
             "startOffset": 342,
@@ -27,7 +27,6 @@
             "omittedDetails": "Some of the medications and instruction of adminstration mentioned under Brain Mets under breif hospital course in the EHR is omitted from the summary"
         }
     ],
-    "Omitted Followup": [],
-    "Omitted Patient History": [],
-    "Omitted Other Inconsistency": []
+    "Specific to General Followup": [],
+    "Specific to General Patient History": []
 }

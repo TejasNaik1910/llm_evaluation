@@ -36,7 +36,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "myocardial infarctions",
             "startOffset": 2054,
@@ -54,7 +54,7 @@
             "omittedDetails": "These conditions were not mentioned like CAD, Gout, Atrial fibrillation, Hypothyroidism and more which are mentioned in the patient record"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "antihistamines ",
             "startOffset": 2528,
@@ -72,6 +72,5 @@
             "omittedDetails": "NPH was increased to 12 units qAM"
         }
     ],
-    "Omitted Other Inconsistency": [],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

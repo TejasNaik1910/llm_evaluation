@@ -39,7 +39,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": " sub-cm",
             "startOffset": 1185,
@@ -57,7 +57,7 @@
             "omittedDetails": "MRI is not mentioned in summary"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": " FOLFIRINOX",
             "startOffset": 1276,
@@ -91,33 +91,7 @@
             "omittedDetails": "dose adjusments to specific medications not mentioned "
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "rising CA levels ",
-            "startOffset": 1303,
-            "endOffset": 1320,
-            "startWordIndex": 170,
-            "endWordIndex": 173,
-            "omittedDetails": "missing specific lab value from summary"
-        },
-        {
-            "text": "slight decrease",
-            "startOffset": 1390,
-            "endOffset": 1405,
-            "startWordIndex": 182,
-            "endWordIndex": 184,
-            "omittedDetails": "stable disease in pancreas response not mentioned"
-        },
-        {
-            "text": " elevated liver enzymes",
-            "startOffset": 3150,
-            "endOffset": 3173,
-            "startWordIndex": 429,
-            "endWordIndex": 432,
-            "omittedDetails": "lab values missing from summary"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "pneumobilia",
             "startOffset": 3292,
@@ -143,7 +117,7 @@
             "omittedDetails": "specifically ERCP was done is not mentioned in summary"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": " ambulatory",
             "startOffset": 4123,

@@ -15,17 +15,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Discharge",
-            "startOffset": 3287,
-            "endOffset": 3296,
-            "startWordIndex": 417,
-            "endWordIndex": 418,
-            "omittedDetails": "Bleeding improved (response)"
-        }
-    ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "gallstones",
             "startOffset": 1297,
@@ -59,7 +49,7 @@
             "omittedDetails": "In stent thrombosis history missing"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "deep vein thrombosis",
             "startOffset": 1907,
@@ -101,7 +91,7 @@
             "omittedDetails": "Missed ultrasound"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "metoprolol",
             "startOffset": 2526,

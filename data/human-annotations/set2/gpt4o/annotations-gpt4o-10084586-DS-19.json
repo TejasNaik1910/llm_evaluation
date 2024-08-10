@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Redacted",
             "startOffset": 1385,
@@ -15,24 +15,6 @@
             "startWordIndex": 422,
             "endWordIndex": 423,
             "omittedDetails": "Fever Above 100.4 is generalized as \"Fever'"
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Exam",
-            "startOffset": 1494,
-            "endOffset": 1498,
-            "startWordIndex": 179,
-            "endWordIndex": 180,
-            "omittedDetails": "Some physical exam findings are missing from the summary"
-        },
-        {
-            "text": "Blood ",
-            "startOffset": 2039,
-            "endOffset": 2045,
-            "startWordIndex": 242,
-            "endWordIndex": 243,
-            "omittedDetails": "Some lab results are missing from the summary"
         }
     ],
     "Incorrect Reasoning": [
@@ -58,7 +40,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
             "text": "Course",
             "startOffset": 2189,
@@ -68,7 +50,7 @@
             "omittedDetails": "Patien'ts smoking status is missing from the summary"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "incision ",
             "startOffset": 3521,

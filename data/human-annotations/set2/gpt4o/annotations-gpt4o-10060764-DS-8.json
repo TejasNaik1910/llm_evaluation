@@ -9,7 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Course",
             "startOffset": 2595,
@@ -17,40 +17,6 @@
             "startWordIndex": 327,
             "endWordIndex": 328,
             "omittedDetails": "Some medications in the brief hospital course in the patient record are missing from the summary"
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Physical ",
-            "startOffset": 1577,
-            "endOffset": 1586,
-            "startWordIndex": 190,
-            "endWordIndex": 191,
-            "omittedDetails": "Some admission physical exam's findings are missing from the summary"
-        },
-        {
-            "text": "Labs",
-            "startOffset": 2494,
-            "endOffset": 2498,
-            "startWordIndex": 315,
-            "endWordIndex": 316,
-            "omittedDetails": "Some lab findings are missing from the summary"
-        },
-        {
-            "text": "bilirubin ",
-            "startOffset": 3028,
-            "endOffset": 3038,
-            "startWordIndex": 387,
-            "endWordIndex": 388,
-            "omittedDetails": "Bilirubin Result (High) is missing from the summary"
-        },
-        {
-            "text": "levels ",
-            "startOffset": 3038,
-            "endOffset": 3045,
-            "startWordIndex": 388,
-            "endWordIndex": 389,
-            "omittedDetails": "There's slight improvement in bilirubin which is missing from the summary"
         }
     ],
     "Incorrect Reasoning": [
@@ -76,7 +42,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Pertinent ",
             "startOffset": 2113,

@@ -32,7 +32,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "symptoms",
             "startOffset": 4437,
@@ -40,24 +40,6 @@
             "startWordIndex": 553,
             "endWordIndex": 554,
             "omittedDetails": "Shortness of breath, fever, cough and chest pain is generalized as symptoms"
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Tests",
-            "startOffset": 2724,
-            "endOffset": 2729,
-            "startWordIndex": 358,
-            "endWordIndex": 359,
-            "omittedDetails": "Some Lab tests are missing from the summary"
-        },
-        {
-            "text": "Analysis",
-            "startOffset": 2650,
-            "endOffset": 2658,
-            "startWordIndex": 349,
-            "endWordIndex": 350,
-            "omittedDetails": "Some urine analysis tests are missing from the summary"
         }
     ]
 }

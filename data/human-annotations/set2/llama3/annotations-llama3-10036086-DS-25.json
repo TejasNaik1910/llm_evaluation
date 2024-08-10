@@ -9,7 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "it",
             "startOffset": 1070,
@@ -35,25 +35,7 @@
             "omittedDetails": "Missing specified body location"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "n.",
-            "startOffset": 305,
-            "endOffset": 307,
-            "startWordIndex": 44,
-            "endWordIndex": 45,
-            "omittedDetails": "worsening is missing ."
-        },
-        {
-            "text": "dyspnea",
-            "startOffset": 287,
-            "endOffset": 294,
-            "startWordIndex": 42,
-            "endWordIndex": 43,
-            "omittedDetails": "progressive (response) missing"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "on",
             "startOffset": 1214,

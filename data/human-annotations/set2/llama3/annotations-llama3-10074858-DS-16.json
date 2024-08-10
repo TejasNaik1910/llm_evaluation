@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Echocardiogram",
             "startOffset": 914,
@@ -25,26 +25,8 @@
             "omittedDetails": "Some \"diseases\" diagnosed by \"CTA\" for chest are omitted."
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "IVC filter",
-            "startOffset": 422,
-            "endOffset": 432,
-            "startWordIndex": 62,
-            "endWordIndex": 64,
-            "omittedDetails": "The 'Response\" of this procedure is omitted."
-        },
-        {
-            "text": "stable",
-            "startOffset": 1184,
-            "endOffset": 1190,
-            "startWordIndex": 168,
-            "endWordIndex": 169,
-            "omittedDetails": "A Vital Sign is omitted."
-        }
-    ],
-    "Omitted Patient History": [],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Patient History": [],
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Omeprazole",
             "startOffset": 1232,

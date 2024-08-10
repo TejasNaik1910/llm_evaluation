@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "multiple abscesses",
             "startOffset": 559,
@@ -51,7 +51,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Loperamide",
             "startOffset": 976,
@@ -69,71 +69,5 @@
             "omittedDetails": "Zosyn is generalized as antibiotics"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Blood ",
-            "startOffset": 839,
-            "endOffset": 845,
-            "startWordIndex": 113,
-            "endWordIndex": 114,
-            "omittedDetails": "Blood Work findings are missing from the summary"
-        },
-        {
-            "text": "Urine ",
-            "startOffset": 856,
-            "endOffset": 862,
-            "startWordIndex": 115,
-            "endWordIndex": 116,
-            "omittedDetails": "Urine culture findings are missing from the summary"
-        },
-        {
-            "text": "abscess",
-            "startOffset": 895,
-            "endOffset": 902,
-            "startWordIndex": 121,
-            "endWordIndex": 122,
-            "omittedDetails": "Abscess fluid culture findings missing from the summary"
-        },
-        {
-            "text": "Electrolyte ",
-            "startOffset": 905,
-            "endOffset": 917,
-            "startWordIndex": 122,
-            "endWordIndex": 123,
-            "omittedDetails": "Electrolyte panel findings are missing from the summary"
-        },
-        {
-            "text": "ion",
-            "startOffset": 933,
-            "endOffset": 936,
-            "startWordIndex": 124,
-            "endWordIndex": 124,
-            "omittedDetails": "Diverticulitis has improved by rehydration which is missing from the summary"
-        },
-        {
-            "text": "is:",
-            "startOffset": 1346,
-            "endOffset": 1349,
-            "startWordIndex": 178,
-            "endWordIndex": 179,
-            "omittedDetails": "Discharge disposition is missing from the summary"
-        },
-        {
-            "text": "sio",
-            "startOffset": 424,
-            "endOffset": 427,
-            "startWordIndex": 54,
-            "endWordIndex": 54,
-            "omittedDetails": "Gait instability has improved with rehydration which is not mentioned in the summary"
-        },
-        {
-            "text": "is",
-            "startOffset": 1048,
-            "endOffset": 1050,
-            "startWordIndex": 133,
-            "endWordIndex": 133,
-            "omittedDetails": "Hypokalemia has improved with rehydration which is not mentioned in the summary"
-        }
-    ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

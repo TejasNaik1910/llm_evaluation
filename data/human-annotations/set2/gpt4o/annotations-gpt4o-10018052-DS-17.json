@@ -1,5 +1,5 @@
 {
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "Ascites",
             "startOffset": 2244,
@@ -9,25 +9,7 @@
             "omittedDetails": "Some of the histroical labs mentioned in the EHR is omitted from the summary"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Microbiology",
-            "startOffset": 1977,
-            "endOffset": 1989,
-            "startWordIndex": 236,
-            "endWordIndex": 237,
-            "omittedDetails": "Some of the test and their findings mentioned in the EHR is omitted from the summary"
-        },
-        {
-            "text": "Hyperkalemia",
-            "startOffset": 2884,
-            "endOffset": 2896,
-            "startWordIndex": 348,
-            "endWordIndex": 349,
-            "omittedDetails": "Some of the labs mentioned in the EHR are omitted from the summary"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "RUQ ultrasound",
             "startOffset": 2069,
@@ -45,5 +27,5 @@
             "omittedDetails": "Some of the symptoms, diagnosis and diagnostic procedures mentioned in the EHR are omitted from the summary"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

@@ -9,25 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Admission",
-            "startOffset": 298,
-            "endOffset": 307,
-            "startWordIndex": 46,
-            "endWordIndex": 47,
-            "omittedDetails": "summary omitted all physical exams of admission and discharge."
-        },
-        {
-            "text": "NSCLC",
-            "startOffset": 234,
-            "endOffset": 239,
-            "startWordIndex": 36,
-            "endWordIndex": 37,
-            "omittedDetails": "summary omitted the fact that the lung cancer was \"complicated\" by the left sided effusion, however does mention the left sided effusion elsewhere. This was omitted under the hospital course section."
-        }
-    ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "left-sided pleural effusions",
             "startOffset": 409,
@@ -37,7 +19,7 @@
             "omittedDetails": "summary omitted that left sided pleural effusion was \"recurrent\"."
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Imaging",
             "startOffset": 532,
@@ -106,8 +88,8 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [],
-    "Omitted Followup": [
+    "Specific to General Medicinal Instructions": [],
+    "Specific to General Followup": [
         {
             "text": "Discharge Instructions",
             "startOffset": 1179,

@@ -39,17 +39,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Physical ",
-            "startOffset": 1955,
-            "endOffset": 1964,
-            "startWordIndex": 263,
-            "endWordIndex": 264,
-            "omittedDetails": "Hematological Physical exam is missing from the summary"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Cardiovascular",
             "startOffset": 2153,

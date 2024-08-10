@@ -1,8 +1,7 @@
 {
-    "Omitted Other Inconsistency": [],
-    "Omitted Medicinal Instructions": [],
-    "Omitted Symptoms/Diagnosis": [],
-    "Omitted Patient History": [],
+    "Specific to General Medicinal Instructions": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Specific to General Patient History": [],
     "Incorrect Reasoning": [
         {
             "text": "The summary concluded Laboratory results being low WBC and RBC counts , as well as elevated liver enzymes and bilirubin levels but this is not mentioned directly in the patient report",
@@ -26,5 +25,5 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

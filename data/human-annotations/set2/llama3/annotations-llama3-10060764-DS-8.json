@@ -9,7 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "warfarin",
             "startOffset": 1241,
@@ -19,7 +19,7 @@
             "omittedDetails": "Warfarin ( Coumadin )'s indication is missing from the summary"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "atrial fibrillation",
             "startOffset": 636,
@@ -39,15 +39,5 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "st",
-            "startOffset": 1074,
-            "endOffset": 1076,
-            "startWordIndex": 140,
-            "endWordIndex": 140,
-            "omittedDetails": "Lab findings in the brief hospital course in the patient record is missing from the summary"
-        }
-    ],
-    "Omitted Patient History": []
+    "Specific to General Patient History": []
 }

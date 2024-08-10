@@ -15,7 +15,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Doxycycline ",
             "startOffset": 779,
@@ -25,7 +25,7 @@
             "omittedDetails": "Doxycycline Hyclate"
         }
     ],
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
             "text": "information",
             "startOffset": 58,
@@ -35,7 +35,6 @@
             "omittedDetails": "gender is omitted F"
         }
     ],
-    "Omitted Other Inconsistency": [],
-    "Omitted Patient History": [],
-    "Omitted Followup": []
+    "Specific to General Patient History": [],
+    "Specific to General Followup": []
 }

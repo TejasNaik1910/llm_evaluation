@@ -1,23 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "extremity.",
-            "startOffset": 1018,
-            "endOffset": 1028,
-            "startWordIndex": 129,
-            "endWordIndex": 130,
-            "omittedDetails": "worsening missing ."
-        },
-        {
-            "text": "Managed ",
-            "startOffset": 2443,
-            "endOffset": 2451,
-            "startWordIndex": 324,
-            "endWordIndex": 325,
-            "omittedDetails": "RESPONDED WELL IS MISSING ."
-        }
-    ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "kidney",
             "startOffset": 1935,
@@ -27,7 +9,7 @@
             "omittedDetails": "in setting of sepsis"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": " segmental ",
             "startOffset": 1552,
@@ -53,7 +35,7 @@
             "omittedDetails": "Omitted signs and symptoms ."
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "RVR",
             "startOffset": 2264,
@@ -87,7 +69,7 @@
             "omittedDetails": "Missing PE meds"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Follow-up",
             "startOffset": 3474,

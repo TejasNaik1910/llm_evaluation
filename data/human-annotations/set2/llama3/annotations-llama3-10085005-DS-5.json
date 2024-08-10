@@ -8,7 +8,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "pain well controlled",
             "startOffset": 1425,
@@ -26,7 +26,7 @@
             "omittedDetails": "intended use is missing from summary"
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "history",
             "startOffset": 541,
@@ -34,56 +34,6 @@
             "startWordIndex": 82,
             "endWordIndex": 83,
             "omittedDetails": "patient had colonoscopy which was omitted."
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Tests",
-            "startOffset": 1001,
-            "endOffset": 1006,
-            "startWordIndex": 131,
-            "endWordIndex": 132,
-            "omittedDetails": "physical exams section is missing."
-        },
-        {
-            "text": "Laparoscopic right hemicolectomy",
-            "startOffset": 954,
-            "endOffset": 986,
-            "startWordIndex": 127,
-            "endWordIndex": 130,
-            "omittedDetails": "The patient did well post surgery without complications, this is missing from the summary."
-        },
-        {
-            "text": "Interventions:",
-            "startOffset": 906,
-            "endOffset": 920,
-            "startWordIndex": 124,
-            "endWordIndex": 125,
-            "omittedDetails": "was tolerating sips on POD 1 and advanced to clears on POD 2. missing from hospital course"
-        },
-        {
-            "text": "Blood tests",
-            "startOffset": 1013,
-            "endOffset": 1024,
-            "startWordIndex": 132,
-            "endWordIndex": 134,
-            "omittedDetails": "specific labs and their results are not mentioned in summary"
-        },
-        {
-            "text": " Information:",
-            "startOffset": 81,
-            "endOffset": 94,
-            "startWordIndex": 13,
-            "endWordIndex": 14,
-            "omittedDetails": "Allergy section is missing from the summary."
-        },
-        {
-            "text": "History",
-            "startOffset": 744,
-            "endOffset": 751,
-            "startWordIndex": 109,
-            "endWordIndex": 110,
-            "omittedDetails": "family history section is missing."
         }
     ],
     "Incorrect Medicinal Instructions": [
@@ -96,7 +46,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Surgical",
             "startOffset": 897,

@@ -8,7 +8,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "insulin",
             "startOffset": 1381,
@@ -26,7 +26,7 @@
             "omittedDetails": "The Medication used to treat this cancer is omitted"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "lesion",
             "startOffset": 779,
@@ -44,6 +44,5 @@
             "omittedDetails": "Omitted Diseases that considered the cause of this condition."
         }
     ],
-    "Omitted Other Inconsistency": [],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

@@ -1,15 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Discharge",
-            "startOffset": 1752,
-            "endOffset": 1761,
-            "startWordIndex": 242,
-            "endWordIndex": 243,
-            "omittedDetails": "Improved"
-        }
-    ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "Gallstones",
             "startOffset": 524,
@@ -60,7 +50,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Renal ultrasound",
             "startOffset": 863,
@@ -94,7 +84,7 @@
             "omittedDetails": "T2DB"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Paroxysmal atrial fibrillation",
             "startOffset": 376,

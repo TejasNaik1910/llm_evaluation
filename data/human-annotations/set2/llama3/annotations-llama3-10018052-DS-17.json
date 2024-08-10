@@ -9,40 +9,6 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "GcMAF",
-            "startOffset": 412,
-            "endOffset": 417,
-            "startWordIndex": 57,
-            "endWordIndex": 58,
-            "omittedDetails": "Some of the responses mentioned in the EHR is omitted in the summary "
-        },
-        {
-            "text": "Physical",
-            "startOffset": 601,
-            "endOffset": 609,
-            "startWordIndex": 81,
-            "endWordIndex": 82,
-            "omittedDetails": "all of the vitals and some of the admission physical exam findings mentioned in the EHR is omitted from the summary"
-        },
-        {
-            "text": "Exam",
-            "startOffset": 610,
-            "endOffset": 614,
-            "startWordIndex": 82,
-            "endWordIndex": 83,
-            "omittedDetails": "all of the vitals and some of the discharge physical exam findings mentioned in the EHR is omitted from the summary"
-        },
-        {
-            "text": "Lab Results",
-            "startOffset": 836,
-            "endOffset": 847,
-            "startWordIndex": 112,
-            "endWordIndex": 114,
-            "omittedDetails": "Some of the labs and all of the findings mentioned in the EHR is omitted from the summary"
-        }
-    ],
     "Incorrect Symptoms/Diagnosis": [
         {
             "text": "No fever",
@@ -53,7 +19,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Abdominal",
             "startOffset": 1121,
@@ -72,7 +38,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Metastatic breast cancer",
             "startOffset": 122,
@@ -82,7 +48,7 @@
             "omittedDetails": "some of the medications and instructions of adminstration mentioned under Metastatic breast cancer under Brief Hospital Course in the EHR is omitted from the summary"
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "breast cancer",
             "startOffset": 246,
@@ -92,5 +58,5 @@
             "omittedDetails": "oophorectomy mentioned in the EHR is omitted from the summary"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

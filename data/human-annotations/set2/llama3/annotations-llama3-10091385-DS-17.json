@@ -1,7 +1,6 @@
 {
-    "Omitted Other Inconsistency": [],
-    "Omitted Patient History": [],
-    "Omitted Symptoms/Diagnosis": [],
+    "Specific to General Patient History": [],
+    "Specific to General Symptoms/Diagnosis": [],
     "Incorrect Reasoning": [
         {
             "text": "The summary concluded from the \"Labs\" section that the patient had anemia, elevated white blood cell count, and abnormal liver function tests which are not mentioned directly in the patient record.",
@@ -18,6 +17,6 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [],
-    "Omitted Followup": []
+    "Specific to General Medicinal Instructions": [],
+    "Specific to General Followup": []
 }

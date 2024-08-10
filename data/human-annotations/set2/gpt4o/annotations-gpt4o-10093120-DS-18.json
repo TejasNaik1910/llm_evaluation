@@ -9,7 +9,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "mass",
             "startOffset": 1073,
@@ -51,17 +51,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Interventions",
-            "startOffset": 0,
-            "endOffset": 13,
-            "startWordIndex": 0,
-            "endWordIndex": 1,
-            "omittedDetails": "Blood pressure improved (missed response)"
-        }
-    ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "symptoms",
             "startOffset": 3062,
@@ -71,7 +61,7 @@
             "omittedDetails": "Omitted some symptoms "
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Discharge",
             "startOffset": 0,

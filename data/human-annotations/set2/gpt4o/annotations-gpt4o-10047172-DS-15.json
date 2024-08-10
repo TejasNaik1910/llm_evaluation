@@ -29,7 +29,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "mild biliary ductal dilation,",
             "startOffset": 1313,
@@ -121,7 +121,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": " bridge chemotherapy",
             "startOffset": 3051,
@@ -219,137 +219,7 @@
             "omittedDetails": "missing intended use from summary"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "(KRAS mutation),",
-            "startOffset": 650,
-            "endOffset": 666,
-            "startWordIndex": 69,
-            "endWordIndex": 71,
-            "omittedDetails": "missing MS stable"
-        },
-        {
-            "text": "Present Illness:",
-            "startOffset": 559,
-            "endOffset": 575,
-            "startWordIndex": 57,
-            "endWordIndex": 59,
-            "omittedDetails": "missing labs and vital signs with results that were done in clinic from summary"
-        },
-        {
-            "text": " on Admission",
-            "startOffset": 956,
-            "endOffset": 969,
-            "startWordIndex": 117,
-            "endWordIndex": 119,
-            "omittedDetails": "missing other physical exams and their findings from summary"
-        },
-        {
-            "text": "Physical Exam",
-            "startOffset": 943,
-            "endOffset": 956,
-            "startWordIndex": 115,
-            "endWordIndex": 117,
-            "omittedDetails": "missing discharge physical exams from summary"
-        },
-        {
-            "text": "Labs:*",
-            "startOffset": 1145,
-            "endOffset": 1151,
-            "startWordIndex": 140,
-            "endWordIndex": 141,
-            "omittedDetails": "missing other labs and their results from summary"
-        },
-        {
-            "text": "Elevated WBC",
-            "startOffset": 1153,
-            "endOffset": 1165,
-            "startWordIndex": 141,
-            "endWordIndex": 143,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": " low hemoglobin",
-            "startOffset": 1166,
-            "endOffset": 1181,
-            "startWordIndex": 143,
-            "endWordIndex": 145,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "hematocrit",
-            "startOffset": 1182,
-            "endOffset": 1192,
-            "startWordIndex": 145,
-            "endWordIndex": 146,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "low sodium",
-            "startOffset": 1194,
-            "endOffset": 1204,
-            "startWordIndex": 146,
-            "endWordIndex": 148,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "elevated ALT/AST,",
-            "startOffset": 1206,
-            "endOffset": 1223,
-            "startWordIndex": 148,
-            "endWordIndex": 151,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "elevated bilirubin",
-            "startOffset": 1224,
-            "endOffset": 1242,
-            "startWordIndex": 151,
-            "endWordIndex": 153,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": " elevated lactate",
-            "startOffset": 1243,
-            "endOffset": 1260,
-            "startWordIndex": 153,
-            "endWordIndex": 155,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "elevated CEA.",
-            "startOffset": 1262,
-            "endOffset": 1275,
-            "startWordIndex": 155,
-            "endWordIndex": 157,
-            "omittedDetails": "missing lab value from summary"
-        },
-        {
-            "text": "gemcitabine/Abraxane,",
-            "startOffset": 2062,
-            "endOffset": 2083,
-            "startWordIndex": 268,
-            "endWordIndex": 270,
-            "omittedDetails": "response for size of metastases is missing from summary"
-        },
-        {
-            "text": "with ",
-            "startOffset": 2040,
-            "endOffset": 2045,
-            "startWordIndex": 265,
-            "endWordIndex": 266,
-            "omittedDetails": "missing specific lab response from summary"
-        },
-        {
-            "text": "Hypertension",
-            "startOffset": 2747,
-            "endOffset": 2759,
-            "startWordIndex": 346,
-            "endWordIndex": 347,
-            "omittedDetails": "BP response missing from summary"
-        }
-    ],
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
             "text": " mildly jaundiced, ",
             "startOffset": 985,
@@ -359,7 +229,7 @@
             "omittedDetails": "elderly man"
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": " liver, ",
             "startOffset": 1910,
@@ -377,7 +247,7 @@
             "omittedDetails": "concerning fro RCC is missing"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": " monitor",
             "startOffset": 3369,

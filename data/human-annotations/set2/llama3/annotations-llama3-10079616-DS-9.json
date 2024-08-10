@@ -1,30 +1,4 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Complete Blood Count (CBC)",
-            "startOffset": 611,
-            "endOffset": 637,
-            "startWordIndex": 81,
-            "endWordIndex": 85,
-            "omittedDetails": "omitted labs"
-        },
-        {
-            "text": "Urine",
-            "startOffset": 845,
-            "endOffset": 850,
-            "startWordIndex": 120,
-            "endWordIndex": 121,
-            "omittedDetails": "omitted labs"
-        },
-        {
-            "text": "ED",
-            "startOffset": 529,
-            "endOffset": 531,
-            "startWordIndex": 66,
-            "endWordIndex": 67,
-            "omittedDetails": "omitted vitals and lab "
-        }
-    ],
     "Incorrect Reasoning": [
         {
             "text": "no interpretation for CBC was mentions",
@@ -58,7 +32,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Bowel regimen",
             "startOffset": 1236,
@@ -68,7 +42,7 @@
             "omittedDetails": "(senna/Colace/Miralax)"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": " Imaging studies",
             "startOffset": 873,
@@ -78,7 +52,7 @@
             "omittedDetails": "some imaging findings are omitted"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Instructions",
             "startOffset": 1549,

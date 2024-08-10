@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "lung",
             "startOffset": 1821,
@@ -33,7 +33,7 @@
             "omittedDetails": "Negated Diseases are omitted."
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "insulin",
             "startOffset": 2592,
@@ -93,7 +93,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "brain metastases",
             "startOffset": 600,
@@ -103,15 +103,5 @@
             "omittedDetails": "The \"Diagnostic Procedure\" made to diagnose this metastases is omitted."
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "AST",
-            "startOffset": 1335,
-            "endOffset": 1338,
-            "startWordIndex": 182,
-            "endWordIndex": 183,
-            "omittedDetails": "It was mentioned in the medical record that the level of LFTs and ammonia are \"Elevated\" and this point is omitted from the summary."
-        }
-    ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

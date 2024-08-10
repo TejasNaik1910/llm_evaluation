@@ -8,17 +8,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Clear lungs bilaterally",
-            "startOffset": 1524,
-            "endOffset": 1547,
-            "startWordIndex": 185,
-            "endWordIndex": 188,
-            "omittedDetails": "missing from physical exam auscaltation"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Bupivacaine",
             "startOffset": 2290,
@@ -36,7 +26,7 @@
             "omittedDetails": "intended use for oxycodone-acetaminophen is missing from summary"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Present Illness",
             "startOffset": 490,
@@ -56,7 +46,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Discharge Instructions:",
             "startOffset": 3055,

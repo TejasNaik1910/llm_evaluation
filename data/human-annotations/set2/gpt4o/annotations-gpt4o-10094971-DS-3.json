@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Present Illness",
             "startOffset": 455,
@@ -25,24 +25,6 @@
             "omittedDetails": "Some of the symptoms mentioned in the EHR is omitted from the sumary "
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Daughter: Cancer, in remission",
-            "startOffset": 1340,
-            "endOffset": 1370,
-            "startWordIndex": 169,
-            "endWordIndex": 173,
-            "omittedDetails": "Some of the family history mentioned in the EHR is omitted from the summary"
-        },
-        {
-            "text": "Discharge Lab",
-            "startOffset": 1748,
-            "endOffset": 1761,
-            "startWordIndex": 220,
-            "endWordIndex": 221,
-            "omittedDetails": "GPT interprets the admission labs which is not interpreted in the EHR and only labs and its findings are mentioned"
-        }
-    ],
     "Incorrect Reasoning": [
         {
             "text": "GPT interprets the admission labs which is not interpreted in the EHR and only labs and its findings are mentioned ",
@@ -59,7 +41,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "inhalers",
             "startOffset": 3020,

@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "resections",
             "startOffset": 550,
@@ -25,7 +25,7 @@
             "omittedDetails": "Omitted locations"
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "history",
             "startOffset": 627,
@@ -35,7 +35,7 @@
             "omittedDetails": "Omitted some patient history"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Crohn's",
             "startOffset": 1140,
@@ -59,56 +59,6 @@
             "startWordIndex": 463,
             "endWordIndex": 464,
             "omittedDetails": "Omitted the specific ingredient"
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "evaluations for infectious causes",
-            "startOffset": 889,
-            "endOffset": 922,
-            "startWordIndex": 117,
-            "endWordIndex": 121,
-            "omittedDetails": "Omitted findings"
-        },
-        {
-            "text": "chromogranin",
-            "startOffset": 1004,
-            "endOffset": 1016,
-            "startWordIndex": 131,
-            "endWordIndex": 132,
-            "omittedDetails": "Omitted result"
-        },
-        {
-            "text": "noted",
-            "startOffset": 1029,
-            "endOffset": 1034,
-            "startWordIndex": 134,
-            "endWordIndex": 135,
-            "omittedDetails": "Omitted some lab results"
-        },
-        {
-            "text": "Physical Exam",
-            "startOffset": 1701,
-            "endOffset": 1714,
-            "startWordIndex": 224,
-            "endWordIndex": 226,
-            "omittedDetails": "Omitted some findings"
-        },
-        {
-            "text": "Pertinent Results",
-            "startOffset": 2042,
-            "endOffset": 2059,
-            "startWordIndex": 278,
-            "endWordIndex": 280,
-            "omittedDetails": "Omitted lab results"
-        },
-        {
-            "text": "dietary modifications",
-            "startOffset": 2640,
-            "endOffset": 2661,
-            "startWordIndex": 361,
-            "endWordIndex": 363,
-            "omittedDetails": "Omitted details"
         }
     ],
     "Incorrect Reasoning": [

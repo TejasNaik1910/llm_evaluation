@@ -1,5 +1,5 @@
 {
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "follow-up appointments",
             "startOffset": 1061,
@@ -32,7 +32,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": " stent placement",
             "startOffset": 924,
@@ -82,112 +82,6 @@
             "omittedDetails": "missing that its in the left hepatic dome"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "complete blood count (CBC)\n",
-            "startOffset": 1415,
-            "endOffset": 1442,
-            "startWordIndex": 177,
-            "endWordIndex": 181,
-            "omittedDetails": "stated as a whole cbc while in medical document specified cbc tests that were done"
-        },
-        {
-            "text": " Information",
-            "startOffset": 50,
-            "endOffset": 62,
-            "startWordIndex": 9,
-            "endWordIndex": 10,
-            "omittedDetails": "missing allergies section from summary"
-        },
-        {
-            "text": "Patient ",
-            "startOffset": 43,
-            "endOffset": 51,
-            "startWordIndex": 8,
-            "endWordIndex": 9,
-            "omittedDetails": "missing family history section from summary"
-        },
-        {
-            "text": " Admission",
-            "startOffset": 738,
-            "endOffset": 748,
-            "startWordIndex": 94,
-            "endWordIndex": 95,
-            "omittedDetails": "whole physical exams section is missing"
-        },
-        {
-            "text": " fever",
-            "startOffset": 767,
-            "endOffset": 773,
-            "startWordIndex": 97,
-            "endWordIndex": 98,
-            "omittedDetails": "missing specific temperature"
-        },
-        {
-            "text": "Admitted ",
-            "startOffset": 755,
-            "endOffset": 764,
-            "startWordIndex": 95,
-            "endWordIndex": 96,
-            "omittedDetails": "vital signs and labs with results in clinic are missing"
-        },
-        {
-            "text": "Klebsiella",
-            "startOffset": 875,
-            "endOffset": 885,
-            "startWordIndex": 112,
-            "endWordIndex": 113,
-            "omittedDetails": "culture sensitivity missing from summary"
-        },
-        {
-            "text": "Lab Results",
-            "startOffset": 1277,
-            "endOffset": 1288,
-            "startWordIndex": 157,
-            "endWordIndex": 159,
-            "omittedDetails": "missing some labs and their results from summary"
-        },
-        {
-            "text": "Elevated liver function tests (LFTs)",
-            "startOffset": 1295,
-            "endOffset": 1331,
-            "startWordIndex": 159,
-            "endWordIndex": 164,
-            "omittedDetails": "missing specific labs and their values from summary"
-        },
-        {
-            "text": " CEA and CA 19-9",
-            "startOffset": 1342,
-            "endOffset": 1358,
-            "startWordIndex": 165,
-            "endWordIndex": 170,
-            "omittedDetails": "missing result values from summary"
-        },
-        {
-            "text": "sodium levels",
-            "startOffset": 1365,
-            "endOffset": 1378,
-            "startWordIndex": 171,
-            "endWordIndex": 173,
-            "omittedDetails": "missing result value from summary"
-        },
-        {
-            "text": " lactate levels",
-            "startOffset": 1389,
-            "endOffset": 1404,
-            "startWordIndex": 174,
-            "endWordIndex": 176,
-            "omittedDetails": "missing result value from summary"
-        },
-        {
-            "text": "metastatic to the liver",
-            "startOffset": 26,
-            "endOffset": 49,
-            "startWordIndex": 6,
-            "endWordIndex": 8,
-            "omittedDetails": "missing specificbiomarker results from summary"
-        }
-    ],
     "Incorrect Symptoms/Diagnosis": [
         {
             "text": "metastases",
@@ -198,7 +92,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "2.4cm hemorrhagic cyst",
             "startOffset": 478,
@@ -216,7 +110,7 @@
             "omittedDetails": "missing FNA from history with findings"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "FOLFIRINOX,",
             "startOffset": 631,

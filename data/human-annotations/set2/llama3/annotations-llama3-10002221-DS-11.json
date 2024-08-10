@@ -1,5 +1,5 @@
 {
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
             "text": "patient",
             "startOffset": 108,
@@ -9,8 +9,8 @@
             "omittedDetails": "the patient is a female patient which is generalized from the summary"
         }
     ],
-    "Omitted Patient History": [],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Patient History": [],
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Ultrasound of the right lower extremity",
             "startOffset": 778,
@@ -36,41 +36,7 @@
             "omittedDetails": "Some of the findings are omitted from the summary"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Laboratory",
-            "startOffset": 951,
-            "endOffset": 961,
-            "startWordIndex": 135,
-            "endWordIndex": 136,
-            "omittedDetails": "all of the admission labs and their findings are omitted from the summary"
-        },
-        {
-            "text": "tests",
-            "startOffset": 962,
-            "endOffset": 967,
-            "startWordIndex": 136,
-            "endWordIndex": 137,
-            "omittedDetails": "all of the discharge labs and their findings are omitted from the summary"
-        },
-        {
-            "text": "summary",
-            "startOffset": 10,
-            "endOffset": 17,
-            "startWordIndex": 3,
-            "endWordIndex": 4,
-            "omittedDetails": "Allergies were omitted from the summary"
-        },
-        {
-            "text": "complete blood count, chemistry panel, and coagulation studies\n",
-            "startOffset": 979,
-            "endOffset": 1042,
-            "startWordIndex": 138,
-            "endWordIndex": 146,
-            "omittedDetails": "specific lab results omitted from summary"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Lumpectomy",
             "startOffset": 1084,
@@ -80,5 +46,5 @@
             "omittedDetails": "treatment given postoperative is omitted from summary"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

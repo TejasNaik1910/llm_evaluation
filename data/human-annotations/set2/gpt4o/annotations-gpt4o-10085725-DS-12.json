@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": " Imaging",
             "startOffset": 788,
@@ -25,33 +25,7 @@
             "omittedDetails": "Adenopathy has \"increased\" in size ( missing under CT)"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "No edema",
-            "startOffset": 1592,
-            "endOffset": 1600,
-            "startWordIndex": 204,
-            "endWordIndex": 206,
-            "omittedDetails": "no perpherial edema."
-        },
-        {
-            "text": "NSCLC",
-            "startOffset": 2552,
-            "endOffset": 2557,
-            "startWordIndex": 353,
-            "endWordIndex": 354,
-            "omittedDetails": "summary omitted the fact that the lung cancer was \"complicated\" by the left sided effusion, however does mention the left sided effusion elsewhere. This was omitted under the hospital course section."
-        },
-        {
-            "text": "Instructions for pleurex catheter care were provided.",
-            "startOffset": 3637,
-            "endOffset": 3690,
-            "startWordIndex": 484,
-            "endWordIndex": 491,
-            "omittedDetails": "All Pleurex Catheter instructions section was omitted."
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Amlodipine",
             "startOffset": 3083,
@@ -84,5 +58,5 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

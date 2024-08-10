@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "cramps",
             "startOffset": 1064,
@@ -49,40 +49,6 @@
             "omittedDetails": "diagnostic procedure colonoscopy and polyp biopsy missing from summary"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": " ED",
-            "startOffset": 1130,
-            "endOffset": 1133,
-            "startWordIndex": 142,
-            "endWordIndex": 143,
-            "omittedDetails": "vital signs in ED missing from summary"
-        },
-        {
-            "text": " Secondary",
-            "startOffset": 3326,
-            "endOffset": 3336,
-            "startWordIndex": 488,
-            "endWordIndex": 489,
-            "omittedDetails": "specific labs for anmeia and results missing from summary"
-        },
-        {
-            "text": " antiphospholipid antibody syndrome",
-            "startOffset": 3392,
-            "endOffset": 3427,
-            "startWordIndex": 498,
-            "endWordIndex": 501,
-            "omittedDetails": "specific labs missing from summary lupus anticoagulant"
-        },
-        {
-            "text": "deficiency.",
-            "startOffset": 3459,
-            "endOffset": 3470,
-            "startWordIndex": 505,
-            "endWordIndex": 506,
-            "omittedDetails": "vitamin D level missing from summary"
-        }
-    ],
     "Incorrect Reasoning": [
         {
             "text": "under admission vitals Saturation is unit is interpreted by summary and not mentioned in the original document\t",
@@ -99,7 +65,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": " tramadol ",
             "startOffset": 2558,
@@ -133,7 +99,7 @@
             "omittedDetails": "specific dose missing from summary"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Discharge",
             "startOffset": 3209,
@@ -143,7 +109,7 @@
             "omittedDetails": "discharge condition is missing from summary"
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "Postoperative anticoagulation was held",
             "startOffset": 912,

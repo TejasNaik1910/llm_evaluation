@@ -1,7 +1,6 @@
 {
-    "Omitted Other Inconsistency": [],
-    "Omitted Patient History": [],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Patient History": [],
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "CT",
             "startOffset": 450,
@@ -19,7 +18,7 @@
             "omittedDetails": "Some of the MRI findings are not mentioned like the Resolution of cervical lymphadenopathy"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "thrush.",
             "startOffset": 1100,
@@ -29,5 +28,5 @@
             "omittedDetails": "Missing that fluconazole total course of 7 days"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

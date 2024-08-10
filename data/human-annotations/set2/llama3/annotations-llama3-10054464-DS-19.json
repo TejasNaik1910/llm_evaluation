@@ -1,5 +1,5 @@
 {
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Echocardiogram ",
             "startOffset": 1523,
@@ -17,40 +17,6 @@
             "startWordIndex": 266,
             "endWordIndex": 267,
             "omittedDetails": ""
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Tests",
-            "startOffset": 1248,
-            "endOffset": 1253,
-            "startWordIndex": 192,
-            "endWordIndex": 193,
-            "omittedDetails": "Some labs and their findings are missing from the summary"
-        },
-        {
-            "text": "sts",
-            "startOffset": 2,
-            "endOffset": 5,
-            "startWordIndex": 0,
-            "endWordIndex": 1,
-            "omittedDetails": "Vital signs are missing from the summary"
-        },
-        {
-            "text": "tic",
-            "startOffset": 1244,
-            "endOffset": 1247,
-            "startWordIndex": 191,
-            "endWordIndex": 192,
-            "omittedDetails": "Cytology section is missing from the summary"
-        },
-        {
-            "text": "no",
-            "startOffset": 1241,
-            "endOffset": 1243,
-            "startWordIndex": 191,
-            "endWordIndex": 191,
-            "omittedDetails": "Labs are missing from the summary"
         }
     ]
 }

@@ -9,32 +9,6 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "lesions ",
-            "startOffset": 615,
-            "endOffset": 623,
-            "startWordIndex": 80,
-            "endWordIndex": 81,
-            "omittedDetails": "OP lesion"
-        },
-        {
-            "text": "Laboratory tests",
-            "startOffset": 945,
-            "endOffset": 961,
-            "startWordIndex": 122,
-            "endWordIndex": 124,
-            "omittedDetails": "omitted admission and discharge labs"
-        },
-        {
-            "text": "Physical ",
-            "startOffset": 528,
-            "endOffset": 537,
-            "startWordIndex": 68,
-            "endWordIndex": 69,
-            "omittedDetails": "some physical exams are missing and findings"
-        }
-    ],
     "Incorrect Reasoning": [
         {
             "text": "no interpretation was mentioned in laboratory tests",
@@ -54,7 +28,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "embolization ",
             "startOffset": 1688,
@@ -80,7 +54,7 @@
             "omittedDetails": "some symptoms are omitted"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Hypertension",
             "startOffset": 2208,
@@ -108,5 +82,5 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

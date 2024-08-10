@@ -1,9 +1,8 @@
 {
-    "Omitted Other Inconsistency": [],
-    "Omitted Patient History": [],
-    "Omitted Medicinal Instructions": [],
-    "Omitted Symptoms/Diagnosis": [],
-    "Omitted Followup": [],
+    "Specific to General Patient History": [],
+    "Specific to General Medicinal Instructions": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Specific to General Followup": [],
     "Incorrect Reasoning": [
         {
             "text": "As mentioned in the patient record, she became transiently hypotensive and non-responsive during hemodialysis not attributed to hypotension as mentioned in the summary",

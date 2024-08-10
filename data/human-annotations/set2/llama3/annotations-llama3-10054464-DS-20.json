@@ -1,5 +1,5 @@
 {
-    "Omitted Patient Information": [
+    "Specific to General Patient Information": [
         {
             "text": "patient ",
             "startOffset": 98,
@@ -45,25 +45,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "ot",
-            "startOffset": 419,
-            "endOffset": 421,
-            "startWordIndex": 63,
-            "endWordIndex": 63,
-            "omittedDetails": "Initial vital signs are missing from the summary"
-        },
-        {
-            "text": "ti",
-            "startOffset": 1210,
-            "endOffset": 1212,
-            "startWordIndex": 156,
-            "endWordIndex": 156,
-            "omittedDetails": "Symptoms in oncologic history are missing from the summary"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "and ",
             "startOffset": 357,
@@ -73,7 +55,7 @@
             "omittedDetails": "Taxotere is missing from the summary"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Diagnostic ",
             "startOffset": 865,

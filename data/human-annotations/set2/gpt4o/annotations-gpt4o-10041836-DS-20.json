@@ -1,5 +1,5 @@
 {
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "Colon cancer",
             "startOffset": 1461,
@@ -54,7 +54,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": " past three months.",
             "startOffset": 1516,
@@ -120,33 +120,7 @@
             "omittedDetails": "missing specific instructions for use for this medication"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Neurological",
-            "startOffset": 2120,
-            "endOffset": 2132,
-            "startWordIndex": 304,
-            "endWordIndex": 305,
-            "omittedDetails": "missing other findings from physical exam"
-        },
-        {
-            "text": "Results",
-            "startOffset": 2313,
-            "endOffset": 2320,
-            "startWordIndex": 331,
-            "endWordIndex": 332,
-            "omittedDetails": "missing other lab tests with their results from summary"
-        },
-        {
-            "text": "Hypertension",
-            "startOffset": 3085,
-            "endOffset": 3097,
-            "startWordIndex": 441,
-            "endWordIndex": 442,
-            "omittedDetails": "missing BP status"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": " femoral neck",
             "startOffset": 2512,

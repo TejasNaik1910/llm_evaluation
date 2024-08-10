@@ -1,135 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": " Information:",
-            "startOffset": 50,
-            "endOffset": 63,
-            "startWordIndex": 9,
-            "endWordIndex": 10,
-            "omittedDetails": "missing allergies section from summary"
-        },
-        {
-            "text": "Patient",
-            "startOffset": 43,
-            "endOffset": 50,
-            "startWordIndex": 8,
-            "endWordIndex": 9,
-            "omittedDetails": "missing family history from summary "
-        },
-        {
-            "text": "Complains ",
-            "startOffset": 282,
-            "endOffset": 292,
-            "startWordIndex": 41,
-            "endWordIndex": 42,
-            "omittedDetails": "vital signs on admission missing from summary"
-        },
-        {
-            "text": " pyuria",
-            "startOffset": 706,
-            "endOffset": 713,
-            "startWordIndex": 96,
-            "endWordIndex": 97,
-            "omittedDetails": "lab value missing from summary"
-        },
-        {
-            "text": "elevated creatinine",
-            "startOffset": 715,
-            "endOffset": 734,
-            "startWordIndex": 97,
-            "endWordIndex": 99,
-            "omittedDetails": "lab value missing from summary"
-        },
-        {
-            "text": "lactate levels",
-            "startOffset": 739,
-            "endOffset": 753,
-            "startWordIndex": 100,
-            "endWordIndex": 102,
-            "omittedDetails": "missing lab value missing from summary"
-        },
-        {
-            "text": "Admission ",
-            "startOffset": 502,
-            "endOffset": 512,
-            "startWordIndex": 66,
-            "endWordIndex": 67,
-            "omittedDetails": "other labs with results missing from summary"
-        },
-        {
-            "text": "Confused and frail",
-            "startOffset": 527,
-            "endOffset": 545,
-            "startWordIndex": 68,
-            "endWordIndex": 71,
-            "omittedDetails": "some admission physical exams with their findings missing from summary"
-        },
-        {
-            "text": "Right-",
-            "startOffset": 548,
-            "endOffset": 554,
-            "startWordIndex": 71,
-            "endWordIndex": 72,
-            "omittedDetails": "discharge physical exams with their findings missing from summary "
-        },
-        {
-            "text": "UTI ",
-            "startOffset": 947,
-            "endOffset": 951,
-            "startWordIndex": 125,
-            "endWordIndex": 126,
-            "omittedDetails": "specified culture result and sensitivity missing from summary"
-        },
-        {
-            "text": " insulin ",
-            "startOffset": 894,
-            "endOffset": 903,
-            "startWordIndex": 117,
-            "endWordIndex": 118,
-            "omittedDetails": "specific lab value missing from summary A1c"
-        },
-        {
-            "text": "cryptococcal",
-            "startOffset": 1110,
-            "endOffset": 1122,
-            "startWordIndex": 142,
-            "endWordIndex": 143,
-            "omittedDetails": "specific lab missing from summary"
-        },
-        {
-            "text": " encephalitis",
-            "startOffset": 1173,
-            "endOffset": 1186,
-            "startWordIndex": 148,
-            "endWordIndex": 149,
-            "omittedDetails": "csf results missing from summary"
-        },
-        {
-            "text": "Diarrhea",
-            "startOffset": 1211,
-            "endOffset": 1219,
-            "startWordIndex": 151,
-            "endWordIndex": 152,
-            "omittedDetails": "worsening diarrhea"
-        },
-        {
-            "text": " Acute hypoxemic respiratory failure",
-            "startOffset": 1221,
-            "endOffset": 1257,
-            "startWordIndex": 152,
-            "endWordIndex": 156,
-            "omittedDetails": "response resolved missing from summary"
-        },
-        {
-            "text": "DIC",
-            "startOffset": 1353,
-            "endOffset": 1356,
-            "startWordIndex": 165,
-            "endWordIndex": 166,
-            "omittedDetails": "specific labs for DIC with results missing from summary"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "nausea",
             "startOffset": 315,
@@ -188,7 +58,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "pneumonitis",
             "startOffset": 1289,
@@ -222,7 +92,7 @@
             "omittedDetails": "specific DIC  management not mentioned in summary"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": " diarrhea",
             "startOffset": 1822,

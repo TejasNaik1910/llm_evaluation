@@ -1,62 +1,4 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Vital signs",
-            "startOffset": 1194,
-            "endOffset": 1205,
-            "startWordIndex": 140,
-            "endWordIndex": 142,
-            "omittedDetails": "omitted vital signs"
-        },
-        {
-            "text": "vital signs",
-            "startOffset": 1388,
-            "endOffset": 1399,
-            "startWordIndex": 166,
-            "endWordIndex": 168,
-            "omittedDetails": "omitted vital signs"
-        },
-        {
-            "text": "Admission Labs",
-            "startOffset": 1543,
-            "endOffset": 1557,
-            "startWordIndex": 188,
-            "endWordIndex": 190,
-            "omittedDetails": "omitted admission labs"
-        },
-        {
-            "text": "Microbiology",
-            "startOffset": 1651,
-            "endOffset": 1663,
-            "startWordIndex": 205,
-            "endWordIndex": 206,
-            "omittedDetails": "omitted micro"
-        },
-        {
-            "text": "nephrostomy tube",
-            "startOffset": 1893,
-            "endOffset": 1909,
-            "startWordIndex": 233,
-            "endWordIndex": 235,
-            "omittedDetails": "percutaneous nephrostomy tract"
-        },
-        {
-            "text": "Admission Exam",
-            "startOffset": 1176,
-            "endOffset": 1190,
-            "startWordIndex": 138,
-            "endWordIndex": 140,
-            "omittedDetails": "some physical exams are missing with the findings"
-        },
-        {
-            "text": "Discharge Exam",
-            "startOffset": 1347,
-            "endOffset": 1361,
-            "startWordIndex": 161,
-            "endWordIndex": 163,
-            "omittedDetails": "some physical exams are missing with the findings"
-        }
-    ],
     "Incorrect Other Inconsistency": [
         {
             "text": "clear lungs",
@@ -106,7 +48,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "liver masses",
             "startOffset": 1815,
@@ -144,7 +86,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Anemia",
             "startOffset": 2334,
@@ -154,7 +96,7 @@
             "omittedDetails": "omitted medication"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Instructions",
             "startOffset": 3215,

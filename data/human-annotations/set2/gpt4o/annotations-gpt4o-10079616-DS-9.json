@@ -25,49 +25,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Admission Exam",
-            "startOffset": 1095,
-            "endOffset": 1109,
-            "startWordIndex": 131,
-            "endWordIndex": 133,
-            "omittedDetails": "missing admission physical exam"
-        },
-        {
-            "text": "Discharge Exam",
-            "startOffset": 1237,
-            "endOffset": 1251,
-            "startWordIndex": 153,
-            "endWordIndex": 155,
-            "omittedDetails": "omitted discharge physical exam "
-        },
-        {
-            "text": "Admission Labs",
-            "startOffset": 1374,
-            "endOffset": 1388,
-            "startWordIndex": 172,
-            "endWordIndex": 174,
-            "omittedDetails": "omitted admission pertinent labs"
-        },
-        {
-            "text": "Discharge Labs",
-            "startOffset": 1661,
-            "endOffset": 1675,
-            "startWordIndex": 210,
-            "endWordIndex": 212,
-            "omittedDetails": "omitted discharge labs"
-        },
-        {
-            "text": "Acute Kidney Injury",
-            "startOffset": 1913,
-            "endOffset": 1932,
-            "startWordIndex": 243,
-            "endWordIndex": 246,
-            "omittedDetails": "omitted lab"
-        }
-    ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "nephrostomy",
             "startOffset": 1630,
@@ -109,7 +67,7 @@
             "omittedDetails": "likely secondary to narcotics"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "bowel regimen",
             "startOffset": 2776,
@@ -185,7 +143,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "Instructions",
             "startOffset": 3449,

@@ -1,15 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "muscle groups",
-            "startOffset": 1340,
-            "endOffset": 1353,
-            "startWordIndex": 167,
-            "endWordIndex": 169,
-            "omittedDetails": "Omitted examined muscles"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Discharge Medications",
             "startOffset": 2464,

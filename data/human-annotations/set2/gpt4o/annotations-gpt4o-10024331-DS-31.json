@@ -1,14 +1,4 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Blood and urine cultures",
-            "startOffset": 1667,
-            "endOffset": 1691,
-            "startWordIndex": 211,
-            "endWordIndex": 215,
-            "omittedDetails": "missing blood and urine cultures values"
-        }
-    ],
     "Incorrect Reasoning": [
         {
             "text": "interpreted gleason score",
@@ -25,7 +15,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "X-rays",
             "startOffset": 1341,
@@ -51,7 +41,7 @@
             "omittedDetails": "missing CHADs2 score 4"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "initial high dose",
             "startOffset": 2270,

@@ -8,16 +8,6 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "physical exam",
-            "startOffset": 801,
-            "endOffset": 814,
-            "startWordIndex": 111,
-            "endWordIndex": 113,
-            "omittedDetails": "it is mentioned specifically in the patient records the points that were tested in physical exam."
-        }
-    ],
     "Incorrect Followup": [
         {
             "text": "stable condition",
@@ -28,7 +18,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Lorazepam",
             "startOffset": 2032,
@@ -38,7 +28,7 @@
             "omittedDetails": "The Disease for which lorazepam was used for is omitted"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "Hypertension",
             "startOffset": 462,
@@ -56,5 +46,5 @@
             "omittedDetails": "This Medication is mentioned with two different concentrations one used for admission and one for discharge and the concentration is omitted from summary"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

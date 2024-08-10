@@ -15,7 +15,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "biopsy ",
             "startOffset": 2015,
@@ -31,16 +31,6 @@
             "startWordIndex": 280,
             "endWordIndex": 281,
             "omittedDetails": "ultrasound-guided biopsy"
-        }
-    ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Pertinent Results:",
-            "startOffset": 1680,
-            "endOffset": 1698,
-            "startWordIndex": 207,
-            "endWordIndex": 209,
-            "omittedDetails": "labs are missing"
         }
     ]
 }

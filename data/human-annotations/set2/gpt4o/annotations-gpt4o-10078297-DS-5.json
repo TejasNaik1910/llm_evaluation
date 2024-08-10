@@ -26,7 +26,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "anti-inflammatory",
             "startOffset": 4379,
@@ -52,7 +52,7 @@
             "omittedDetails": "Missing instructions"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "CT Head",
             "startOffset": 2897,

@@ -22,7 +22,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "of",
             "startOffset": 1120,
@@ -32,7 +32,7 @@
             "omittedDetails": "missing in his coccyx at the site of an ulcer"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "discontinued",
             "startOffset": 3980,
@@ -42,33 +42,7 @@
             "omittedDetails": "missing due to confusion, sedation"
         }
     ],
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Family History",
-            "startOffset": 1817,
-            "endOffset": 1831,
-            "startWordIndex": 235,
-            "endWordIndex": 237,
-            "omittedDetails": "missing aunts from family history"
-        },
-        {
-            "text": "sacral ulcer",
-            "startOffset": 2507,
-            "endOffset": 2519,
-            "startWordIndex": 334,
-            "endWordIndex": 336,
-            "omittedDetails": "missing 3cm "
-        },
-        {
-            "text": "metoprolol",
-            "startOffset": 3768,
-            "endOffset": 3778,
-            "startWordIndex": 488,
-            "endWordIndex": 489,
-            "omittedDetails": "missing tolerated metoprolol well and remained rate controlled"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "antibiotics",
             "startOffset": 3222,
@@ -110,7 +84,7 @@
             "omittedDetails": "spiriva, albuterol"
         }
     ],
-    "Omitted Followup": [
+    "Specific to General Followup": [
         {
             "text": "to",
             "startOffset": 5017,

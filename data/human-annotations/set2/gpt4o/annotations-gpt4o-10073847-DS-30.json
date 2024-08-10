@@ -1,15 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "t.",
-            "startOffset": 3623,
-            "endOffset": 3625,
-            "startWordIndex": 487,
-            "endWordIndex": 488,
-            "omittedDetails": "Missing HbA1c 6.0%"
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "MTX",
             "startOffset": 1611,
@@ -36,6 +26,6 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [],
-    "Omitted Followup": []
+    "Specific to General Symptoms/Diagnosis": [],
+    "Specific to General Followup": []
 }

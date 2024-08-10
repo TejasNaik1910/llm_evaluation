@@ -1,31 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "Blood cultures",
-            "startOffset": 1009,
-            "endOffset": 1023,
-            "startWordIndex": 133,
-            "endWordIndex": 135,
-            "omittedDetails": "missing results for blood culture"
-        },
-        {
-            "text": "Urine culture",
-            "startOffset": 1026,
-            "endOffset": 1039,
-            "startWordIndex": 135,
-            "endWordIndex": 137,
-            "omittedDetails": "missing results for urine culture"
-        },
-        {
-            "text": "Cardiac enzymes",
-            "startOffset": 1042,
-            "endOffset": 1057,
-            "startWordIndex": 137,
-            "endWordIndex": 139,
-            "omittedDetails": "missing results for cardiac enzymes"
-        }
-    ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "with ",
             "startOffset": 303,
@@ -43,7 +17,7 @@
             "omittedDetails": "missing s/p ERCP and sphincterotomy"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "and",
             "startOffset": 909,
@@ -61,7 +35,7 @@
             "omittedDetails": "missing vitamin D repletion with 50,000 units vitamin D x2 days"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "bone health",
             "startOffset": 1231,
@@ -87,5 +61,5 @@
             "omittedDetails": "misisng CHADs2 score 4"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

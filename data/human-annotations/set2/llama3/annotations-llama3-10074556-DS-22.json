@@ -1,38 +1,4 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "no significant findings on physical exam",
-            "startOffset": 1051,
-            "endOffset": 1091,
-            "startWordIndex": 138,
-            "endWordIndex": 144,
-            "omittedDetails": "All sites examined was mentioned with its normal results in patient document, However in the summary it is so generalized."
-        },
-        {
-            "text": "WBC",
-            "startOffset": 1183,
-            "endOffset": 1186,
-            "startWordIndex": 154,
-            "endWordIndex": 155,
-            "omittedDetails": "The values of the labs mentioned in the summary are omitted"
-        },
-        {
-            "text": "Laboratory",
-            "startOffset": 1120,
-            "endOffset": 1130,
-            "startWordIndex": 146,
-            "endWordIndex": 147,
-            "omittedDetails": "Some \"Lab tests with its results\" are omitted."
-        },
-        {
-            "text": "ymptomati",
-            "startOffset": 808,
-            "endOffset": 817,
-            "startWordIndex": 110,
-            "endWordIndex": 110,
-            "omittedDetails": "Omitted ROS"
-        }
-    ],
     "Incorrect Reasoning": [
         {
             "text": "The summary concludes that the labs mentioned is \"LOW\" without any evidence in the patient record.",
@@ -63,7 +29,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "Chief",
             "startOffset": 230,
@@ -89,7 +55,7 @@
             "omittedDetails": "Missing lesions and other specific symptoms in PML"
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "atovaquone",
             "startOffset": 1788,
@@ -107,5 +73,5 @@
             "omittedDetails": "In the patient record the section of Medications is divided to Medications on \"Admission and Discharge\" and there are some medications that are omitted from both sections"
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

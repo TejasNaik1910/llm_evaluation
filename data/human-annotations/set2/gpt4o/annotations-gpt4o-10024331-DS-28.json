@@ -1,30 +1,4 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "present",
-            "startOffset": 1815,
-            "endOffset": 1822,
-            "startWordIndex": 229,
-            "endWordIndex": 230,
-            "omittedDetails": "missing covering umbilicus and three other areas over RUQ and epigastric area"
-        },
-        {
-            "text": "Extremities",
-            "startOffset": 1825,
-            "endOffset": 1836,
-            "startWordIndex": 230,
-            "endWordIndex": 231,
-            "omittedDetails": "missing no femoral bruits"
-        },
-        {
-            "text": "Bleeding",
-            "startOffset": 2695,
-            "endOffset": 2703,
-            "startWordIndex": 344,
-            "endWordIndex": 345,
-            "omittedDetails": "missing his hematocrit dropped"
-        }
-    ],
     "Incorrect Reasoning": [
         {
             "text": "interpreted gleason score",
@@ -78,7 +52,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Patient History": [
+    "Specific to General Patient History": [
         {
             "text": "depressions",
             "startOffset": 772,
@@ -104,7 +78,7 @@
             "omittedDetails": "missing with UE tremor"
         }
     ],
-    "Omitted Symptoms/Diagnosis": [
+    "Specific to General Symptoms/Diagnosis": [
         {
             "text": "ECG",
             "startOffset": 1983,
@@ -140,7 +114,7 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "aspirin and Plavix",
             "startOffset": 2466,
@@ -192,5 +166,5 @@
             "omittedDetails": ""
         }
     ],
-    "Omitted Followup": []
+    "Specific to General Followup": []
 }

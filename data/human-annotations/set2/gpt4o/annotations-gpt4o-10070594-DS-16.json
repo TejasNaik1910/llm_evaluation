@@ -1,47 +1,5 @@
 {
-    "Omitted Other Inconsistency": [
-        {
-            "text": "of ",
-            "startOffset": 444,
-            "endOffset": 447,
-            "startWordIndex": 46,
-            "endWordIndex": 47,
-            "omittedDetails": "Some Vitals/labs and their findings that falls under HPI in the EHR were omitted from the summary."
-        },
-        {
-            "text": "Admission ",
-            "startOffset": 894,
-            "endOffset": 904,
-            "startWordIndex": 107,
-            "endWordIndex": 108,
-            "omittedDetails": "Physical Exam and their findings were omitted."
-        },
-        {
-            "text": "Discharge ",
-            "startOffset": 1053,
-            "endOffset": 1063,
-            "startWordIndex": 129,
-            "endWordIndex": 130,
-            "omittedDetails": "Discharge Physical Exam and their findings were omitted."
-        },
-        {
-            "text": "Labs",
-            "startOffset": 1161,
-            "endOffset": 1165,
-            "startWordIndex": 142,
-            "endWordIndex": 143,
-            "omittedDetails": "Some labs in Admission and discharge labs and their findings were omitted."
-        },
-        {
-            "text": "Course",
-            "startOffset": 2038,
-            "endOffset": 2044,
-            "startWordIndex": 245,
-            "endWordIndex": 246,
-            "omittedDetails": "Responses/outcomes were omitted."
-        }
-    ],
-    "Omitted Medicinal Instructions": [
+    "Specific to General Medicinal Instructions": [
         {
             "text": "chemotherapy ",
             "startOffset": 3462,
@@ -75,7 +33,7 @@
             "endWordIndex": 0
         }
     ],
-    "Omitted Patient History": [],
+    "Specific to General Patient History": [],
     "Incorrect Followup": [
         {
             "text": "supportive care.",
