@@ -1,0 +1,161 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "In the summary it's interpreted that the vitals are stable which is not mentioned in the EHR. ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Lab findings are mentioned in the EHR with no interpretation while interpreted in the summary.\n\n\n\n\n\n",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpretation of hgb level as mild anemia while in medical record only the value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "extremities",
+            "startOffset": 1848,
+            "endOffset": 1859,
+            "startWordIndex": 232,
+            "endWordIndex": 233,
+            "omittedDetails": "It does not mention the exact location in the summary, while it is mentioned in the EHR."
+        },
+        {
+            "text": "surgery was recommended",
+            "startOffset": 1051,
+            "endOffset": 1074,
+            "startWordIndex": 126,
+            "endWordIndex": 129,
+            "omittedDetails": "Reason behind the surgery is omitted."
+        },
+        {
+            "text": "subsegmental atelectasis",
+            "startOffset": 2032,
+            "endOffset": 2056,
+            "startWordIndex": 254,
+            "endWordIndex": 256,
+            "omittedDetails": "The Exact locations were omitted."
+        },
+        {
+            "text": "(CABG) x 4",
+            "startOffset": 463,
+            "endOffset": 473,
+            "startWordIndex": 48,
+            "endWordIndex": 51,
+            "omittedDetails": "missing details from surgical procedure"
+        },
+        {
+            "text": "nodule",
+            "startOffset": 2228,
+            "endOffset": 2234,
+            "startWordIndex": 276,
+            "endWordIndex": 277,
+            "omittedDetails": "specific nodule size missing from summary"
+        },
+        {
+            "text": "extubation",
+            "startOffset": 2438,
+            "endOffset": 2448,
+            "startWordIndex": 301,
+            "endWordIndex": 302,
+            "omittedDetails": "requiring face mask missing from summary"
+        },
+        {
+            "text": " delirium",
+            "startOffset": 2503,
+            "endOffset": 2512,
+            "startWordIndex": 310,
+            "endWordIndex": 311,
+            "omittedDetails": "other symptoms missing agitation and confusion"
+        },
+        {
+            "text": "Developed acute ",
+            "startOffset": 2543,
+            "endOffset": 2559,
+            "startWordIndex": 316,
+            "endWordIndex": 318,
+            "omittedDetails": "hypoxia and increasing oxygen requirements missing from summary"
+        },
+        {
+            "text": "Transitioned ",
+            "startOffset": 2607,
+            "endOffset": 2620,
+            "startWordIndex": 324,
+            "endWordIndex": 325,
+            "omittedDetails": "chest tubes and epicardial wires removal before transitioned"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "mild anemia",
+            "startOffset": 1987,
+            "endOffset": 1998,
+            "startWordIndex": 247,
+            "endWordIndex": 249,
+            "omittedDetails": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "incisional pain managed",
+            "startOffset": 3787,
+            "endOffset": 3810,
+            "startWordIndex": 451,
+            "endWordIndex": 454,
+            "omittedDetails": "specifically with acetaminophen missing from summary "
+        },
+        {
+            "text": "Albuterol Inhaler",
+            "startOffset": 2901,
+            "endOffset": 2918,
+            "startWordIndex": 357,
+            "endWordIndex": 359,
+            "omittedDetails": "intended use is missing from summary"
+        },
+        {
+            "text": " Bisacodyl",
+            "startOffset": 2957,
+            "endOffset": 2967,
+            "startWordIndex": 363,
+            "endWordIndex": 364,
+            "omittedDetails": "intended use is missing from summary"
+        },
+        {
+            "text": "Heparin",
+            "startOffset": 3017,
+            "endOffset": 3024,
+            "startWordIndex": 368,
+            "endWordIndex": 369,
+            "omittedDetails": "specific use instructions missing from summary"
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "startOffset": 3111,
+            "endOffset": 3130,
+            "startWordIndex": 377,
+            "endWordIndex": 379,
+            "omittedDetails": "intended use is missing from summary"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Discharge Condition",
+            "startOffset": 3714,
+            "endOffset": 3733,
+            "startWordIndex": 443,
+            "endWordIndex": 445,
+            "omittedDetails": "some details from discharge condition are missing from summary"
+        }
+    ]
+}

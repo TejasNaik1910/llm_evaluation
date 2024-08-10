@@ -1,0 +1,74 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "8",
+            "startOffset": 1039,
+            "endOffset": 1040,
+            "startWordIndex": 120,
+            "endWordIndex": 121,
+            "omittedDetails": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "mass",
+            "startOffset": 1073,
+            "endOffset": 1077,
+            "startWordIndex": 128,
+            "endWordIndex": 129,
+            "omittedDetails": "Omitted \"soft tissue\" mass"
+        },
+        {
+            "text": "SBO",
+            "startOffset": 1168,
+            "endOffset": 1171,
+            "startWordIndex": 138,
+            "endWordIndex": 139,
+            "omittedDetails": "Omitted \"partial\" which resulted in ambiguity"
+        },
+        {
+            "text": "Paracentesis",
+            "startOffset": 1497,
+            "endOffset": 1509,
+            "startWordIndex": 186,
+            "endWordIndex": 187,
+            "omittedDetails": "Reaccumulation of fluid missing"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The intended use of Unasyn was predicted from the discharge condition \"left tubo-ovarian abscess\", despite not being directly mentioned in the document.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "\"Monitor for signs of infection\" was probably interpreted from \"incision care\".",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "symptoms",
+            "startOffset": 3062,
+            "endOffset": 3070,
+            "startWordIndex": 387,
+            "endWordIndex": 388,
+            "omittedDetails": "Omitted some symptoms "
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Discharge",
+            "startOffset": 0,
+            "endOffset": 9,
+            "startWordIndex": 0,
+            "endWordIndex": 0,
+            "omittedDetails": "Missing medicinal instructions in discharge instructions"
+        }
+    ]
+}

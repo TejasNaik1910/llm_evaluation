@@ -1,0 +1,22 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Echocardiogram ",
+            "startOffset": 1523,
+            "endOffset": 1538,
+            "startWordIndex": 231,
+            "endWordIndex": 232,
+            "omittedDetails": "TTE (which is a specific type of Echo) is generalized as Echocardiogram"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "fentanyl",
+            "startOffset": 1821,
+            "endOffset": 1829,
+            "startWordIndex": 266,
+            "endWordIndex": 267,
+            "omittedDetails": ""
+        }
+    ]
+}

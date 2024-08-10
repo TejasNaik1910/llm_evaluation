@@ -1,0 +1,15 @@
+{
+    "Omitted Patient History": [],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Discharge",
+            "startOffset": 1078,
+            "endOffset": 1087,
+            "startWordIndex": 161,
+            "endWordIndex": 162,
+            "omittedDetails": "Missed Sx/Dx in BHC (pain, likely cancer dx)"
+        }
+    ],
+    "Omitted Medicinal Instructions": [],
+    "Omitted Followup": []
+}

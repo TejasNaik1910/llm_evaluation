@@ -1,0 +1,62 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": " Imaging",
+            "startOffset": 788,
+            "endOffset": 796,
+            "startWordIndex": 97,
+            "endWordIndex": 98,
+            "omittedDetails": "summary went more general mentioning \"imaging\", while the patient record specifically mentions \"chest CXR/CT\"  "
+        },
+        {
+            "text": "pleural effusion",
+            "startOffset": 2293,
+            "endOffset": 2309,
+            "startWordIndex": 315,
+            "endWordIndex": 317,
+            "omittedDetails": "left pleural effusion has \"increased\" in size ( missing under CT)"
+        },
+        {
+            "text": "adenopathy",
+            "startOffset": 2373,
+            "endOffset": 2383,
+            "startWordIndex": 326,
+            "endWordIndex": 327,
+            "omittedDetails": "Adenopathy has \"increased\" in size ( missing under CT)"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Amlodipine",
+            "startOffset": 3083,
+            "endOffset": 3093,
+            "startWordIndex": 425,
+            "endWordIndex": 426,
+            "omittedDetails": "Amlodipine was  stopped on admission and NOT restarted on discharge. This was omitted under hospital course section. "
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Patient record does not mention that the patient underwent catheter placement \"due to\" the quick reaccumlation. This was only reasoned by the summar. ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Summary correlated Hyponatremia control with Na of 128, which was not stated in the patient record. ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The patient record does not specify that hyponatremia was \"managed\"\n",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Specific to General Followup": []
+}

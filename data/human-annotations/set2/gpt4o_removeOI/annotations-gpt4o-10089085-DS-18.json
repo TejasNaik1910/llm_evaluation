@@ -1,0 +1,71 @@
+{
+    "Chronological Inconsistency": [
+        {
+            "text": "only thickened sputum and increased cough were recent, pneumonia wasn't stated to be \"recent\"",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Units of vital signs are an interpretation by the summary. \n",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Patient was not diagnosed with anemia, however the summary interpreted this through the patient results. ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "summary interpreted WBC to be normal, however this was not mentioned in the patient record. ",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Dysphagia was not treated with lidocaine.\n\n",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "Blood tests showed mild anemia and normal WBC count.",
+            "startOffset": 2292,
+            "endOffset": 2344,
+            "startWordIndex": 305,
+            "endWordIndex": 314,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Medicinal Instructions": [
+        {
+            "text": "diltiazem, aspirin",
+            "startOffset": 3487,
+            "endOffset": 3505,
+            "startWordIndex": 458,
+            "endWordIndex": 460,
+            "omittedDetails": "Used in the management of atrial flutter."
+        },
+        {
+            "text": "simvastatin",
+            "startOffset": 3192,
+            "endOffset": 3203,
+            "startWordIndex": 428,
+            "endWordIndex": 429,
+            "omittedDetails": "missing dose."
+        }
+    ],
+    "Omitted Followup": []
+}

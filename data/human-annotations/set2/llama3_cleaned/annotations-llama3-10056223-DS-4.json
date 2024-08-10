@@ -1,0 +1,82 @@
+{
+    "Incorrect Reasoning": [
+        {
+            "text": "\"Abnormal, Anemia, Thrombocytopenia\" in Lab results is an incorrect reasoning",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "The summary interpreted lab results as elevated, anemia and thrombocytopenia which is an over interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "medications",
+            "startOffset": 1381,
+            "endOffset": 1392,
+            "startWordIndex": 199,
+            "endWordIndex": 200,
+            "omittedDetails": "Oxycodone is generalized as pain medication"
+        },
+        {
+            "text": "History",
+            "startOffset": 517,
+            "endOffset": 524,
+            "startWordIndex": 79,
+            "endWordIndex": 80,
+            "omittedDetails": "Percocet is missing from the summary"
+        },
+        {
+            "text": "Follow-up",
+            "startOffset": 1902,
+            "endOffset": 1911,
+            "startWordIndex": 263,
+            "endWordIndex": 265,
+            "omittedDetails": "Changes to medications in discharge instructions are missing"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "monitor his blood pressure and oxygen saturation at home",
+            "startOffset": 2105,
+            "endOffset": 2161,
+            "startWordIndex": 296,
+            "endWordIndex": 305,
+            "omittedDetails": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "ultrasound",
+            "startOffset": 1152,
+            "endOffset": 1162,
+            "startWordIndex": 166,
+            "endWordIndex": 167,
+            "omittedDetails": "RUQ Ultrasound is generalized as ultrasound"
+        },
+        {
+            "text": "Tests",
+            "startOffset": 906,
+            "endOffset": 911,
+            "startWordIndex": 133,
+            "endWordIndex": 134,
+            "omittedDetails": "CXR and its findings are missing from the summary"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "past syphilis infection",
+            "startOffset": 621,
+            "endOffset": 644,
+            "startWordIndex": 96,
+            "endWordIndex": 99,
+            "omittedDetails": "Treated syphilis"
+        }
+    ]
+}

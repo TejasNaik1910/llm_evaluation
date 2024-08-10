@@ -1,0 +1,155 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "follow-up appointments",
+            "startOffset": 1061,
+            "endOffset": 1083,
+            "startWordIndex": 139,
+            "endWordIndex": 142,
+            "omittedDetails": "general appointments while in document specified follow up with oncologist"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "interpreted elevated CEA in summary while in medical document only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted low sodium level in summary while in medical document only value is mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "interpreted abnormal cbc count in summary while in medical document only values of these labs are mentioned without interpretation",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": " stent placement",
+            "startOffset": 924,
+            "endOffset": 940,
+            "startWordIndex": 118,
+            "endWordIndex": 120,
+            "omittedDetails": "specified procedure of metal stent repositioning is not mentioned"
+        },
+        {
+            "text": "MRI scans",
+            "startOffset": 717,
+            "endOffset": 726,
+            "startWordIndex": 91,
+            "endWordIndex": 93,
+            "omittedDetails": "specified MRI Liver was not mentioned and generalized as MRI scan"
+        },
+        {
+            "text": " biliary obstruction",
+            "startOffset": 838,
+            "endOffset": 858,
+            "startWordIndex": 108,
+            "endWordIndex": 110,
+            "omittedDetails": "missing symptoms from summary"
+        },
+        {
+            "text": "removal of plastic stent",
+            "startOffset": 946,
+            "endOffset": 970,
+            "startWordIndex": 121,
+            "endWordIndex": 125,
+            "omittedDetails": "specific location for plastic stent removal not mentioned"
+        },
+        {
+            "text": " ERCP",
+            "startOffset": 915,
+            "endOffset": 920,
+            "startWordIndex": 116,
+            "endWordIndex": 117,
+            "omittedDetails": "specific procedures done within ERCP not mentioned"
+        },
+        {
+            "text": "biliary ductal dilation",
+            "startOffset": 1741,
+            "endOffset": 1764,
+            "startWordIndex": 224,
+            "endWordIndex": 227,
+            "omittedDetails": "missing that its in the left hepatic dome"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "metastases",
+            "startOffset": 1525,
+            "endOffset": 1535,
+            "startWordIndex": 192,
+            "endWordIndex": 193,
+            "omittedDetails": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "2.4cm hemorrhagic cyst",
+            "startOffset": 478,
+            "endOffset": 500,
+            "startWordIndex": 61,
+            "endWordIndex": 65,
+            "omittedDetails": "missing diagnostic procedure MRI from summary"
+        },
+        {
+            "text": " pancreatic adenocarcinoma ",
+            "startOffset": 541,
+            "endOffset": 568,
+            "startWordIndex": 69,
+            "endWordIndex": 71,
+            "omittedDetails": "missing FNA from history with findings"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "FOLFIRINOX,",
+            "startOffset": 631,
+            "endOffset": 642,
+            "startWordIndex": 81,
+            "endWordIndex": 82,
+            "omittedDetails": "specific cycles not mentioned"
+        },
+        {
+            "text": "modified FOLFIRINOX",
+            "startOffset": 669,
+            "endOffset": 688,
+            "startWordIndex": 85,
+            "endWordIndex": 87,
+            "omittedDetails": "specific medications held from regimen not mentioned in summary"
+        },
+        {
+            "text": "zosyn ",
+            "startOffset": 984,
+            "endOffset": 990,
+            "startWordIndex": 127,
+            "endWordIndex": 128,
+            "omittedDetails": "missing dose and route of administration from summary"
+        },
+        {
+            "text": " bacteremia",
+            "startOffset": 862,
+            "endOffset": 873,
+            "startWordIndex": 111,
+            "endWordIndex": 112,
+            "omittedDetails": "previous antibiotics used are missing from summary"
+        },
+        {
+            "text": "Amlodipine",
+            "startOffset": 1106,
+            "endOffset": 1116,
+            "startWordIndex": 143,
+            "endWordIndex": 144,
+            "omittedDetails": "missing doses for all medications mentioned in summary"
+        }
+    ]
+}

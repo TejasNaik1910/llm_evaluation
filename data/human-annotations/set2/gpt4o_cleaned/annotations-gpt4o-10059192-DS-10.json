@@ -1,0 +1,64 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "a year ago",
+            "startOffset": 767,
+            "endOffset": 777,
+            "startWordIndex": 88,
+            "endWordIndex": 91,
+            "omittedDetails": ""
+        },
+        {
+            "text": "abscesses",
+            "startOffset": 917,
+            "endOffset": 926,
+            "startWordIndex": 107,
+            "endWordIndex": 108,
+            "omittedDetails": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Anemia and Low albumin are considered as over-interpretation as they're not mentioned in the patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Anemia and Low albumin are considered an over-interpretation as they're not stated in the original patient record",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "diarrhea",
+            "startOffset": 2050,
+            "endOffset": 2058,
+            "startWordIndex": 257,
+            "endWordIndex": 258,
+            "omittedDetails": "It's stated as Chronic Diarrhea in the patient record"
+        },
+        {
+            "text": "ourse",
+            "startOffset": 9,
+            "endOffset": 14,
+            "startWordIndex": 0,
+            "endWordIndex": 1,
+            "omittedDetails": "EKG is missing from the summary"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Condition",
+            "startOffset": 2232,
+            "endOffset": 2241,
+            "startWordIndex": 281,
+            "endWordIndex": 282,
+            "omittedDetails": "Activity status is missing from the discharge condition in the summary"
+        }
+    ]
+}

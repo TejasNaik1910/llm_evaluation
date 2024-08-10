@@ -1,0 +1,32 @@
+{
+    "Omitted Patient History": [
+        {
+            "text": "History",
+            "startOffset": 521,
+            "endOffset": 528,
+            "startWordIndex": 54,
+            "endWordIndex": 55,
+            "omittedDetails": "cataract surgery. (missing surgical history)"
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "CXR",
+            "startOffset": 1393,
+            "endOffset": 1396,
+            "startWordIndex": 191,
+            "endWordIndex": 192,
+            "omittedDetails": "right posterior and lower lateral hemithorax. "
+        },
+        {
+            "text": "CT Chest",
+            "startOffset": 1517,
+            "endOffset": 1525,
+            "startWordIndex": 206,
+            "endWordIndex": 208,
+            "omittedDetails": "embolism. "
+        }
+    ],
+    "Omitted Medicinal Instructions": [],
+    "Omitted Followup": []
+}

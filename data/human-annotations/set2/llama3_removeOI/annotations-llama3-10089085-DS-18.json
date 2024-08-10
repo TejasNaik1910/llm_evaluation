@@ -1,0 +1,39 @@
+{
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "bronchoscopy",
+            "startOffset": 479,
+            "endOffset": 491,
+            "startWordIndex": 71,
+            "endWordIndex": 72,
+            "omittedDetails": "Bronchoscopy showed \"obstructing RMS bronchus\" (missing under HPI)"
+        },
+        {
+            "text": " tracheostomy ",
+            "startOffset": 559,
+            "endOffset": 573,
+            "startWordIndex": 84,
+            "endWordIndex": 85,
+            "omittedDetails": "summary genralized tracheostomy, while patient record specfically mentioned \"percutaneous tracheostomy\""
+        }
+    ],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "complete blood count (CBC) ",
+            "startOffset": 1187,
+            "endOffset": 1214,
+            "startWordIndex": 159,
+            "endWordIndex": 163,
+            "omittedDetails": ""
+        },
+        {
+            "text": "basic metabolic panel (BMP) ",
+            "startOffset": 1218,
+            "endOffset": 1246,
+            "startWordIndex": 164,
+            "endWordIndex": 168,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Followup": []
+}

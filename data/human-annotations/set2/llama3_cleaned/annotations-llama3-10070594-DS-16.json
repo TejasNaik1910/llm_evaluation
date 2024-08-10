@@ -1,0 +1,12 @@
+{
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "multiple antibiotics",
+            "startOffset": 712,
+            "endOffset": 732,
+            "startWordIndex": 100,
+            "endWordIndex": 102,
+            "omittedDetails": "The exact antibiotics names were omitted."
+        }
+    ]
+}

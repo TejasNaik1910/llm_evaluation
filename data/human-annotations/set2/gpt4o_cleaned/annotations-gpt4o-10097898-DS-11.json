@@ -1,0 +1,21 @@
+{
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Discharge Medications",
+            "startOffset": 2464,
+            "endOffset": 2485,
+            "startWordIndex": 323,
+            "endWordIndex": 325,
+            "omittedDetails": "Omitted dosage instructions"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The intended uses of some of the medications were predicted, despite not being mentioned in the document.",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ]
+}

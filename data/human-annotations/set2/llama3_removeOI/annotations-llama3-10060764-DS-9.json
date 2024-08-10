@@ -1,0 +1,31 @@
+{
+    "Incorrect Other Inconsistency": [
+        {
+            "text": " coagulation studies",
+            "startOffset": 622,
+            "endOffset": 642,
+            "startWordIndex": 81,
+            "endWordIndex": 83,
+            "omittedDetails": ""
+        }
+    ],
+    "Omitted Symptoms/Diagnosis": [
+        {
+            "text": "Imaging studies",
+            "startOffset": 646,
+            "endOffset": 661,
+            "startWordIndex": 83,
+            "endWordIndex": 85,
+            "omittedDetails": "The findings and the details of this section is omitted "
+        },
+        {
+            "text": "Procedures",
+            "startOffset": 757,
+            "endOffset": 767,
+            "startWordIndex": 93,
+            "endWordIndex": 94,
+            "omittedDetails": "The findings and the details of this section is omitted."
+        }
+    ],
+    "Omitted Followup": []
+}

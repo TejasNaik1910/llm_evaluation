@@ -1,0 +1,43 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Chest X-ray",
+            "startOffset": 713,
+            "endOffset": 724,
+            "startWordIndex": 98,
+            "endWordIndex": 101,
+            "omittedDetails": "xray was stable. (missing under hospital course)"
+        }
+    ],
+    "Specific to General Patient History": [],
+    "Incorrect Other Inconsistency": [
+        {
+            "text": "and abdomen",
+            "startOffset": 699,
+            "endOffset": 710,
+            "startWordIndex": 96,
+            "endWordIndex": 98,
+            "omittedDetails": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Lovenox",
+            "startOffset": 980,
+            "endOffset": 987,
+            "startWordIndex": 132,
+            "endWordIndex": 133,
+            "omittedDetails": "missing dose."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up",
+            "startOffset": 1434,
+            "endOffset": 1443,
+            "startWordIndex": 199,
+            "endWordIndex": 201,
+            "omittedDetails": "omitted discharge condition and instructions. "
+        }
+    ]
+}

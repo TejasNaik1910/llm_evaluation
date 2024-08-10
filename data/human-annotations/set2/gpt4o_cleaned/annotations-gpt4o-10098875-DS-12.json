@@ -1,0 +1,150 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": " Found on the floor ",
+            "startOffset": 610,
+            "endOffset": 630,
+            "startWordIndex": 68,
+            "endWordIndex": 72,
+            "omittedDetails": "denies fall or LOC from summary"
+        },
+        {
+            "text": "septal thickening",
+            "startOffset": 1092,
+            "endOffset": 1109,
+            "startWordIndex": 150,
+            "endWordIndex": 152,
+            "omittedDetails": "in both lungs"
+        },
+        {
+            "text": "worsening ",
+            "startOffset": 1905,
+            "endOffset": 1915,
+            "startWordIndex": 245,
+            "endWordIndex": 246,
+            "omittedDetails": "moderate worsening"
+        },
+        {
+            "text": "opacities",
+            "startOffset": 1915,
+            "endOffset": 1924,
+            "startWordIndex": 246,
+            "endWordIndex": 247,
+            "omittedDetails": "reticular ill defined opacities"
+        },
+        {
+            "text": "ascites",
+            "startOffset": 2043,
+            "endOffset": 2050,
+            "startWordIndex": 264,
+            "endWordIndex": 265,
+            "omittedDetails": "large volume nonhemorrhagic ascites"
+        },
+        {
+            "text": "paracentesis",
+            "startOffset": 2441,
+            "endOffset": 2453,
+            "startWordIndex": 309,
+            "endWordIndex": 310,
+            "omittedDetails": "3L of inflammatory fluid removed."
+        },
+        {
+            "text": "Respiratory Failure:",
+            "startOffset": 2480,
+            "endOffset": 2500,
+            "startWordIndex": 313,
+            "endWordIndex": 315,
+            "omittedDetails": "acute hypoxemic respiratory failure"
+        },
+        {
+            "text": "Electrolyte Imbalances",
+            "startOffset": 2727,
+            "endOffset": 2749,
+            "startWordIndex": 341,
+            "endWordIndex": 343,
+            "omittedDetails": "specific imbalance not mentioned "
+        },
+        {
+            "text": " Anemia",
+            "startOffset": 2892,
+            "endOffset": 2899,
+            "startWordIndex": 359,
+            "endWordIndex": 360,
+            "omittedDetails": "DIC missing from summary"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Chest CT showed new diffuse ground-glass opacities while in summary these findings don't have specified diagnostic procedure as CT",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        },
+        {
+            "text": "Ct head and Mri brain in summary both have same finding while these findings are related to MRI only",
+            "startOffset": "",
+            "endOffset": "",
+            "startWordIndex": 0,
+            "endWordIndex": 0
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "fluconazole.",
+            "startOffset": 2270,
+            "endOffset": 2282,
+            "startWordIndex": 289,
+            "endWordIndex": 290,
+            "omittedDetails": "specified duration missing from summary"
+        },
+        {
+            "text": " fiber",
+            "startOffset": 2311,
+            "endOffset": 2317,
+            "startWordIndex": 293,
+            "endWordIndex": 294,
+            "omittedDetails": "dosage interval missing from summary"
+        },
+        {
+            "text": " hepatitis ",
+            "startOffset": 2457,
+            "endOffset": 2468,
+            "startWordIndex": 311,
+            "endWordIndex": 312,
+            "omittedDetails": "vaccination missing from summary"
+        },
+        {
+            "text": "pneumonitis.",
+            "startOffset": 2558,
+            "endOffset": 2570,
+            "startWordIndex": 322,
+            "endWordIndex": 323,
+            "omittedDetails": "antibiotics given missing from summary"
+        },
+        {
+            "text": "Zofran",
+            "startOffset": 2618,
+            "endOffset": 2624,
+            "startWordIndex": 329,
+            "endWordIndex": 330,
+            "omittedDetails": "route of administration missing from summary"
+        },
+        {
+            "text": "transfusions",
+            "startOffset": 2916,
+            "endOffset": 2928,
+            "startWordIndex": 362,
+            "endWordIndex": 363,
+            "omittedDetails": "specific transfusions missing from summary"
+        },
+        {
+            "text": "Acetaminophen",
+            "startOffset": 3046,
+            "endOffset": 3059,
+            "startWordIndex": 377,
+            "endWordIndex": 378,
+            "omittedDetails": "intended use missing from summary"
+        }
+    ]
+}
