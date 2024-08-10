@@ -1,0 +1,128 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "spasms",
+            "WordIndex": 147,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "ultrasound",
+            "WordIndex": 355,
+            "omittedDetails": "Ultrasound"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Allergies",
+            "WordIndex": 34,
+            "omittedDetails": null
+        },
+        {
+            "text": "tender",
+            "WordIndex": 322,
+            "omittedDetails": null
+        },
+        {
+            "text": "distress",
+            "WordIndex": 314,
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Followup": [],
+    "Incorrect Followup": [
+        {
+            "text": "improvement",
+            "WordIndex": 361,
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "20",
+            "WordIndex": 256,
+            "omittedDetails": null
+        },
+        {
+            "text": "40",
+            "WordIndex": 253,
+            "omittedDetails": null
+        },
+        {
+            "text": "5",
+            "WordIndex": 182,
+            "omittedDetails": null
+        },
+        {
+            "text": "1000",
+            "WordIndex": 405,
+            "omittedDetails": null
+        },
+        {
+            "text": "5",
+            "WordIndex": 182,
+            "omittedDetails": null
+        },
+        {
+            "text": "7.5",
+            "WordIndex": 250,
+            "omittedDetails": null
+        },
+        {
+            "text": "Morphine",
+            "WordIndex": 233,
+            "omittedDetails": null
+        },
+        {
+            "text": "4",
+            "WordIndex": 186,
+            "omittedDetails": null
+        },
+        {
+            "text": "Topamax",
+            "WordIndex": 37,
+            "omittedDetails": null
+        },
+        {
+            "text": "Codeine",
+            "WordIndex": 35,
+            "omittedDetails": null
+        },
+        {
+            "text": "Erythromycin",
+            "WordIndex": 429,
+            "omittedDetails": null
+        },
+        {
+            "text": "0.5",
+            "WordIndex": 430,
+            "omittedDetails": null
+        },
+        {
+            "text": "Augmentin",
+            "WordIndex": 36,
+            "omittedDetails": null
+        },
+        {
+            "text": "Albuterol",
+            "WordIndex": 411,
+            "omittedDetails": null
+        },
+        {
+            "text": "0.08",
+            "WordIndex": 412,
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "WordIndex": 77,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "WordIndex": 77,
+            "omittedDetails": "Value"
+        }
+    ]
+}
