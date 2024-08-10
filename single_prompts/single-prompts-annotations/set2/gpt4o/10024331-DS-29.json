@@ -1,0 +1,29 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "History of gallstones, radiation proctitis, and multiple hip replacements",
+            "explanation": "The EHR provides additional details for each of these conditions: s/p ERCP and sphincterotomy for gallstones, s/p argon laser treatment for radiation proctitis, and repeated dislocations for the hip replacements. The summary simplifies this information by omitting these specifics, which could be clinically significant."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient was on ciprofloxacin for a urinary tract infection (UTI) and was taking Plavix, aspirin, and warfarin. Hematuria persisted despite holding warfarin, leading to an emergency room visit.",
+            "explanation": "The EHR specifies that the patient started ciprofloxacin the day he was discharged from rehab for a UTI and that the hematuria persisted even after holding warfarin as advised by the PCP. The summary's general mention of 'hematuria persisted despite holding warfarin, leading to an emergency room visit' simplifies this detailed context."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Likely due to traumatic injury from Foley catheter in a patient with radiation cystitis.",
+            "explanation": "The EHR suggests the possibility of traumatic injury due to Foley catheter removal but the exact cause is not explicitly confirmed. The summary assumes traumatic injury from Foley catheter as the main cause, which is not conclusively stated in the EHR."
+        }
+    ],
+    "Chronological Inconsistency": []
+}

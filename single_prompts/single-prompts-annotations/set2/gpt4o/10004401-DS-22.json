@@ -1,0 +1,34 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "An elderly male"
+        }
+    ],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "CAD with bare metal stents"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "gastritis and duodenitis without active bleeding"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Continue medications as prescribed"
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "follow up in GI clinic"
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

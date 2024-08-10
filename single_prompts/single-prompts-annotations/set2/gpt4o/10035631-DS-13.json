@@ -1,0 +1,62 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "No Hallucination detected."
+        }
+    ]
+}

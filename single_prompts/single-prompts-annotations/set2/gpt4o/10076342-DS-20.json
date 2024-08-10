@@ -1,0 +1,19 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Given liver decompensation, further treatment plans were reconsidered.",
+            "explanation": "Hallucination detected. While the summary correctly states that further treatment plans were reconsidered, the reasoning provided ('Given liver decompensation') is not fully accurate. The EHR note specifies that the reconsideration of treatment plans was influenced by the patient's overall condition involving multiple factors, including hemorrhagic brain metastasis and input from various specialists. Therefore, the reasoning in the summary oversimplifies the multifaceted considerations that led to the revised treatment plans, leading to an incorrect reasoning hallucination."
+        }
+    ],
+    "Chronological Inconsistency": []
+}

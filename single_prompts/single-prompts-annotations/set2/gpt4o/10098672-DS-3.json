@@ -1,0 +1,32 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "CT and renal ultrasound showed no significant abnormalities but noted a solid mass in the left kidney"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "Follow up with gastroenterology for further evaluation of diarrhea"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Encephalopathy improved with discontinuation of certain medications and treatment of underlying issues",
+            "explanation": "While the statement is partially correct, it is misleading. Encephalopathy improved with discontinuation of certain medications (Duloxetine, Fentanyl, Tincture of Opium) and aggressive volume repletion rather than only treatment of underlying issues. The reasoning does not fully capture the multifaceted approach as documented in EHR, making it incomplete."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Elevated chromogranin levels were noted, suggesting a possible neuroendocrine cause, but further workup is pending",
+            "explanation": "The chronological order of this statement is inconsistent. According to EHR, elevated chromogranin levels were noted previously, and workup during this hospital stay showed normal output volumes after stopping octreotide with pending neuroendocrine tumor workup to continue as outpatient. The chronological summary implies elevated chromogranin levels and pending workup during the current admission improperly."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Take your medications as prescribed"
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "Follow up with primary care doctor and vascular surgeon"
+        },
+        {
+            "text": "Consider MRI of the spine for chronic pain evaluation."
+        },
+        {
+            "text": "Discuss potential causes of iron deficiency with the doctor."
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

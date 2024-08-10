@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Discharge Condition: Stable, saturating 100% on 3L oxygen, not in pain",
+            "explanation": "The EHR states the discharge condition as 'stable, saturating 100% on 3L,' without specifying the patient is not in pain. The summary falsely assures the patient is not in pain, leading to incorrect reasoning."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Pain: Controlled with home medication regimen",
+            "explanation": "The EHR specifies the patient's pain was controlled prior to discharge, but the summary presents it in a way that the timing is ambiguous. It is crucial to correctly reflect the chronological order for clarity."
+        }
+    ]
+}

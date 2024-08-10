@@ -1,0 +1,28 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "dilated cardiomyopathy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary incorrectly explains the progression of treatment for Healthcare Associated Pneumonia and MRSA Bacteremia.",
+            "explanation": "While the patient was initially treated with vancomycin, cefepime, and levofloxacin, the latter two were discontinued based on culture data. The summary does not mention this important detail and suggests continuous use of all three antibiotics, which is misleading."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "On Arrival",
+            "explanation": "The summary states, 'Due to persistent hypotension and decreased urine output, a RIJ CVL was placed, and levophed was started.' This should have been mentioned after 'he was treated with Levofloxacin and Cefepime' rather than before, as per the EHR Note."
+        }
+    ]
+}

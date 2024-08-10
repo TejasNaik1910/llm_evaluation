@@ -1,0 +1,29 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "history of coronary artery disease (CAD) and multiple stents",
+            "explanation": "The summary generalizes the patient's coronary artery disease history. The EHR specifies CAD s/p multiple stents to LAD, RCA, and LCX, which is more detailed and specific. The general term 'multiple stents' in the summary fails to capture these critical details."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "mild to moderate left ventricular systolic dysfunction",
+            "explanation": "The summary generalizes the ECHO findings. The EHR specifies moderate regional left ventricular systolic dysfunction with inferior and lateral hypokinesis. This specificity is important for understanding the exact nature of the cardiac dysfunction."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "added Plavix and aspirin",
+            "explanation": "The summary mentions 'added Plavix and aspirin,' but the EHR specifies that the patient will need to take aspirin and Plavix for one full year. This instruction is critical and should be accurately mentioned to ensure the patient understands the medication regimen."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

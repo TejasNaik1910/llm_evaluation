@@ -1,0 +1,32 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "A CT scan showed increased duct dilation, prompting her transfer for further evaluation of her biliary stent."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient was admitted with cholangitis and septicemia secondary to enterococcal and E. coli bacteremia."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "None",
+            "explanation": "None"
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary mentions that the patient was discharged with instructions for drain management and follow-up without specifying the sequence of events leading to discharge.",
+            "explanation": "The EHR Note indicates specific events such as ERCP, PTBD, and various adjustments and evaluations of the stents and drains, which are presented in a clear chronological order. Summarizing them without maintaining this sequence leads to chronological inconsistency."
+        }
+    ]
+}

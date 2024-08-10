@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "likely causing right leg and arm weakness",
+            "explanation": "Hallucination detected. The summary states that brain metastases are likely causing right leg and arm weakness. However, while the EHR suggests that brain masses could be causing the right leg weakness, it does not definitively connect them to arm weakness. The reasoning behind the conclusion of arm weakness due to brain metastases is not supported by the EHR note."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Over the past two months, his right leg weakness worsened, leading to significant mobility issues. An MRI of the lumbar spine was scheduled, but due to rapid progression of symptoms, he was referred to the ED and neurology was consulted.",
+            "explanation": "Hallucination detected. The correct sequence of events mentioned in the EHR is that the patient visited the orthopedic doctor first, who then scheduled an MRI. However, due to rapid progression of symptoms, the patient was referred to the ED and neurology was consulted. The summary reverses the order by stating that the MRI was scheduled due to worsening symptoms before referral to the ED."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [
+        {
+            "text": "He reported difficulty ambulating, poor appetite, and worsening bilateral lower extremity parasthesia/numbness."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "He also experienced chronic diarrhea, which improved with Imodium, and suspected a gout flare treated with colchicine."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Treated with ceftriaxone and completed with ciprofloxacin."
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": [
+        {
+            "text": "UTI: Treated with ceftriaxone and completed with ciprofloxacin.",
+            "explanation": "The summary suggests the UTI treatment started immediately, but the EHR indicates that it started after the admission labs and sensitivity results."
+        }
+    ]
+}

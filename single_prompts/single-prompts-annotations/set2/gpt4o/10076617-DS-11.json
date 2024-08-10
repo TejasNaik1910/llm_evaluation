@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "an intra-abdominal collection suspected to be an infected lymphocyst."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Possible lymphocele with features suggestive of possible abscess"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "possible abscess features"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Weekly lab tests and follow-up appointments with infectious disease and diabetes specialists."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "an intra-abdominal collection suspected to be an infected lymphocyst.",
+            "explanation": "The term 'lymphocyst' specifically refers to a cyst-like formation in lymphatic tissue, while the more specific detail mentioned in the EHR indicates the possibility of an abscess which encompasses a range of potential infections, leading to inaccurate reasoning."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Patient's presentation order and treatment steps",
+            "explanation": "The summary suggests a continuous narrative from presentation to diagnosis and treatment without mentioning interim care steps precisely, thereby implicitly altering the perceived sequence of events compared to the detailed timeline in the EHR note."
+        }
+    ]
+}

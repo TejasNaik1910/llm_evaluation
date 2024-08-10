@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Monitor for signs of bleeding and follow up with oncologist."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Scheduled for Neulasta injection and home services."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Syncope: Likely due to orthostatic hypotension and hypovolemia from diarrhea and poor intake. No intervention needed for chronic hygroma.",
+            "explanation": "The reasoning the summary provides is accurate, but it omits the detailed explanation that the patient's syncopal episode was due to the combination of hypotension and possible dehydration as mentioned in the EHR. The summary's reasoning, while aligned with the EHR, still misses the depth provided and the rationale discussed with neurosurgery regarding the hygroma."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

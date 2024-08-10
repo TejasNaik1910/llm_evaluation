@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The summary's description of chemotherapy cycles included cisplatin/gemcitabine, which were eventually stopped due to myelosuppression."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary states 'hypercalcemia noted,' whereas the EHR provides specific details on the hypercalcemia being related to the neuroendocrine malignancy and describes the treatment in detail."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary does not mention the specific durations for medications like it does for the EHR (e.g., Sucralfate scheduled to stop at a specific time)."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Cholangitis: Managed with Zosyn, afebrile, stable hemodynamics.",
+            "explanation": "The reasoning behind the management approach provided for cholangitis is vague and doesn't align with the detailed evaluation provided in the EHR. The EHR offers more insight into the considerations about bilirubin, AST, and the decision not to pursue ERCP, lacking this in-depth explanation makes the summary's reasoning incomplete."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

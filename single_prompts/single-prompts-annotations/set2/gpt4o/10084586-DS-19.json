@@ -1,0 +1,39 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "general bacteremia",
+            "explanation": "The EHR specifies 'Staph Bacteremia' as the condition rather than just a general term 'bacteremia'. The specific type of bacteremia, 'Staph', provides crucial information about the type of bacterial infection which is essential for treatment decisions."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "medications for thyroid cancer, high blood pressure, and breast cancer",
+            "explanation": "The EHR does not mention medications for thyroid or breast cancer at discharge. The medications listed include amlodipine, anastrozole, and latanoprost with no specific mention of discharge medications for thyroid/malignancies."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [
+        {
+            "text": "follow up with her urologist 'in 20 days'",
+            "explanation": "The EHR specifies a follow-up timeframe of '3 weeks', and while '20 days' is close, it introduces a slight but potentially critical discrepancy that can lead to scheduling errors."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "few weeks",
+            "explanation": "The EHR notes a specific follow-up timeframe of '3 weeks,' and changing this to 'few weeks' in the summary makes it vague and non-specific, possibly leading to patient confusion."
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states 'Breast cancer diagnosed and treated, considering corticosteroid inhaler and albuterol for asthma.'",
+            "explanation": "This phrasing suggests that the breast cancer is a new diagnosis when it was actually diagnosed and treated previously in 2019, making it a past event. Therefore, the summary inaccurately gives the impression that the breast cancer is a current condition rather than recurring."
+        }
+    ]
+}

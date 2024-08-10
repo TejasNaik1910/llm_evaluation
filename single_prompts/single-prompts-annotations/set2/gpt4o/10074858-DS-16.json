@@ -1,0 +1,25 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [
+        {
+            "text": "A [Redacted] year old man with a history of esophageal cancer status post esophagectomy"
+        }
+    ],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "mild tenderness in the LLE"
+        },
+        {
+            "text": "normal cardiac enzymes"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}

@@ -105,7 +105,8 @@ def check_annotations(humananno, llmanno):
 
 # Example JSON data
 humananno = {
-    "A": [{"text": "The patient has a headache.", "explanation": "This is a common symptom."}, {"text": "my dog stepped on a bee", "explanation": "This is funny"}],
+    "A": [{"text": "The patient has a headache.", "explanation": "This is a common symptom."}, 
+          {"text": "my dog stepped on a bee", "explanation": "This is funny"}],
     "B": [{"text": "Prescribed 500mg of medication.", "explanation": "Standard dosage."}]
 }
 

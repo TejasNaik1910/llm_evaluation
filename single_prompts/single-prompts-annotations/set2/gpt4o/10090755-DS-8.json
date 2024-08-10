@@ -1,0 +1,67 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "shortness of breath",
+            "explanation": "The summary mentions the patient presented with shortness of breath, but the EHR indicates that during the oncologist visit, the patient denied shortness of breath."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "tachycardia",
+            "explanation": "The summary mentions tachycardia without specifying the exact heart rates which were 122 bpm and as high as 130 bpm, a significant detail relevant to the patient's condition."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "CT scan within weeks",
+            "explanation": "The summary mentions a CT scan within weeks without specifying the exact duration ('within ___ weeks') as noted in the EHR, which may lead to scheduling inconsistencies."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

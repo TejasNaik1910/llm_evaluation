@@ -1,0 +1,23 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Therapeutic Lovenox"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": [
+        {
+            "text": "Chief Complaint: Right pleural effusion",
+            "explanation": "The summary lists the right pleural effusion as the chief complaint, but the EHR explicitly states chest pain/tightness and subjective fevers as the presenting symptoms before the diagnosis of right pleural effusion. Thus, the summary misrepresents the timeline by leading with a diagnosis rather than the patient's initial symptoms."
+        }
+    ]
+}

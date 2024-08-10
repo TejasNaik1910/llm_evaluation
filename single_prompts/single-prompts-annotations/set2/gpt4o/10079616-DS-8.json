@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient has 'malignant ureteral obstruction causing bilateral hydroureter and hydronephrosis,' but the EHR only mentions left hydroureteronephrosis. This oversimplification/expansion introduces inaccuracy about the condition described."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary mentions 'Continue pain management with oxycontin and oxycodone,' but the EHR specifies 'Oxycontin 30 mg twice a day and oxycodone 5 mg as needed for breakthrough pain.' The summary's general instruction omits the specific dosages and frequencies, which are crucial for accurate medication adherence."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary mentions 'follow-up with oncologist for further pain management and nephrostomy tube care,' whereas the EHR specifies 'follow-up with Dr ___ on ___ in his office' and 'PCN replaced by interventional radiology in ___.' The summary generalizes the follow-up instructions without specific timelines and doctor's information."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

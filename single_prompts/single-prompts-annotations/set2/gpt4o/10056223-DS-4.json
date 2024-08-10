@@ -1,0 +1,23 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Omeprazole 20 mg PO daily"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [
+        {
+            "text": "Intermittent Fevers: Likely due to post-procedure inflammation and atelectasis, with no signs of infection in cultures.",
+            "explanation": "Hallucination detected. While the summary correctly notes intermittent fevers and no infection signs in cultures, it incorrectly concludes that the fevers are likely due to post-procedure inflammation and atelectasis. The EHR hypothesizes but does not confirm this reasoning, making the conclusion speculative."
+        }
+    ],
+    "Chronological Inconsistency": []
+}

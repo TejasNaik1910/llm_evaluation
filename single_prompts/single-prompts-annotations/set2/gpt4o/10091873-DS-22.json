@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Radiating right jaw pain"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "PEG Tube Placement"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "fluconazole 7 days"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Patient reports that his current symptoms are very similar to his prior symptoms of when he was diagnosed",
+            "explanation": "The patient's report of symptom similarity does not lead to an implied incorrect reasoning but must be clearly noted; the similarity does not equal recurrence."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

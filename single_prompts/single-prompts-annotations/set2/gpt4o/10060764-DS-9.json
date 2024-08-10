@@ -1,0 +1,23 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "She received zosyn and oral vitamin K prior to transfer."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": [
+        {
+            "text": "After discussions, the patient was transitioned to comfort measures and discharged with hospice care.",
+            "explanation": "Hallucination detected. The EHR explicitly states that the patient's decision to transition to comfort measures and discharge with hospice care was made after discussions with her inpatient and outpatient providers, and with her family. The summary does not mention this specific sequence of events or the roles of the different providers, which creates a subtle chronological inconsistency."
+        }
+    ]
+}

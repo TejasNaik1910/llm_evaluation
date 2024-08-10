@@ -1,0 +1,34 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Bacteremia",
+            "explanation": "The summary states 'bacteremia' as one of the diagnoses, whereas the EHR specifies 'Staph Bacteremia'. This omission of the specific type of bacteremia, 'Staph,' is significant because it provides crucial information about the type of bacterial infection, which is important for understanding the patient's condition and for determining the appropriate treatment. The summary's omission fails to capture this critical detail, leading to an incomplete and less precise account of the patient's diagnosis."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Continue taking pantoprazole for a 'few weeks'",
+            "explanation": "The summary mentions that the patient is to continue taking pantoprazole for a 'few weeks', while the EHR explicitly states that the patient should continue pantoprazole 40mg twice daily for at least 8 weeks. The summary's ambiguous term 'few weeks' instead of 8 weeks can lead to the patient discontinuing the medication prematurely, potentially compromising their treatment. This generalization represents a significant discrepancy from the EHR instructions."
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "Follow up with her urologist 'in a few weeks'",
+            "explanation": "The summary briefly mentions that the patient should follow up with her urologist 'in a few weeks,' which is a vague and non-specific timeframe. However, the original EHR explicitly states that the follow-up appointment should occur 'in 3 weeks.' This lack of specificity in the summary constitutes a follow-up omission, as it fails to convey the exact time frame provided in the EHR."
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": [
+        {
+            "text": "Breast cancer diagnosed and treated, considering corticosteroid inhaler and albuterol for asthma.",
+            "explanation": "The summary presents a chronological inconsistency despite individual events seemingly matching the EHR. The phrasing suggests that the patient's current situation involves a newly diagnosed breast cancer. However, the 'History of Present Illness' section clarifies that breast cancer was diagnosed and treated in 2019, indicating a past event, not a current one. This reversal creates the illusion (hallucination) that the patient has newly diagnosed breast cancer when, in reality, it's a recurrence of a previously treated condition."
+        }
+    ]
+}

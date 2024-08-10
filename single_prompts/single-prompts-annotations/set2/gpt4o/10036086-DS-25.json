@@ -1,0 +1,22 @@
+{
+    "Incorrect Patient Information": [],
+    "Specific to General Patient Information": [],
+    "Incorrect Patient History": [],
+    "Specific to General Patient History": [],
+    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Symptoms/Diagnosis": [],
+    "Incorrect Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary mentions that the patient is to continue taking cephalexin for an unspecified duration. The EHR specifies a 4-day duration for cephalexin, leading to a lack of specificity that can confuse the patient."
+        }
+    ],
+    "Incorrect Followup": [],
+    "Specific to General Followup": [
+        {
+            "text": "The summary states that the patient needs to follow up with a cardiologist, but does not provide specific time frames or mention other follow-up details like potential outpatient Fibroscan and hepatology referral for liver abnormalities. This generalization omits critical follow-up instructions provided in the EHR."
+        }
+    ],
+    "Incorrect Reasoning": [],
+    "Chronological Inconsistency": []
+}
