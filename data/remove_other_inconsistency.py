@@ -28,8 +28,8 @@ def delete_key_from_json_in_folder(input_folder, key_to_delete, output_folder):
             print(f"Modified JSON saved to '{output_file_path}'.")
 
 # Example usage
-input_folder = 'data/human-annotations/set2/llama3'  # Replace with your input folder path
+input_folder = 'data/resolve/set2/gpt4o'  # Replace with your input folder path
 key_to_delete = 'Omitted Other Inconsistency'
-output_folder = 'data/human-annotations/set2/llama3_removeOI'  # Replace with your desired output folder path
+output_folder = 'data/resolve-removeOI/set2/gpt4o'  # Replace with your desired output folder path
 
 delete_key_from_json_in_folder(input_folder, key_to_delete, output_folder)
