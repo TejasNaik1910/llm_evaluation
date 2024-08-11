@@ -1,0 +1,89 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "cites.\n\n**Past Medical History:**\n- **Breast Cancer:** Diagnosed with ER/PR+ HER2-neu 1+ invasive ductal carcinoma and {{DCIS}}, Grade II LVI. Underwent lumpectomy and hormonal treatments (tamoxifen, lupron, femara).\n- **Metastasis:** Progression "
+        },
+        {
+            "text": " multiple large masses, 2+ peripheral edema.\n- **Discharge Exam:** Alert, oriented, cachectic, moderate jaundice, firm {{hepatosplenomegaly}}, 4-5mm edema, intact cranial nerves.\n\n**Pertinent Results:**\n- **Labs:** Elevated liver enzymes (ALT, AST, LDH, AlkPhos"
+        },
+        {
+            "text": "al nerves.\n\n**Pertinent Results:**\n- **Labs:** Elevated liver enzymes (ALT, AST, LDH, AlkPhos), high bilirubin levels, {{anemia}} (low Hgb, Hct), hyperkalemia.\n- **Microbiology:** No microorganisms seen in gram stain; fluid culture pending.\n- **Imag"
+        },
+        {
+            "text": " lupron, femara).\n- **Metastasis:** Progression to liver confirmed by PET CT and biopsy.\n- **Surgical Interventions:** {{Laparoscopic bilateral salpingo-oophorectomy}} and IUD removal (benign pathology).\n- **Previous Treatments:** Did not start Xeloda, Avastin, or Taxol as recommended, "
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "gnant cells seen under the microscope. We believe that your \nrecurrent distension and ascites are related to worsening {{liver \ninvolvement}} of your cancer. We had your ascites drained and the \nfluid analyzed. We also did an ultrasound of your liver to make \ns",
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "tended with obvious fluid waves, multiple large masses \npalpable in the left and right upper quadrants, nontender\nExt: {{2+ edema}} peripherally\nSkin: diaphoretic, jaundice\nNeuro: A+Ox3\n\nDISCHARGE EXAM\n--------------\nVS: 98.6    90/50    101    20   9",
+            "omittedDetails": "Moderate Pitting Edema"
+        },
+        {
+            "text": "s diffuse and concentrated in \nthe epigastric region. She also reports worsening with increased \nascites. She endorses {{fevers}} related to GcMAF injections, but no \nnausea/vomiting, diarrhea/constipation, chest pain, dyspnea or \nother complaints.\n",
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "ot appear infected, but there were also no \nmalignant cells seen under the microscope. We believe that your \nrecurrent {{distension}} and ascites are related to worsening liver \ninvolvement of your cancer. We had your ascites drained and the \nfluid anal",
+            "omittedDetails": "Distension"
+        },
+        {
+            "text": "theter.\n\n# Hyperkalemia:     be related to mild renal impairment. \nDifficult to interpret hemolysis as her progressive {{liver \ndisease}} could make Tbili and LDH high independent of cell \nturnover. However, most of bilirubin was direct, suggesting \nshe'S n",
+            "omittedDetails": "Diseases Of Liver K70-K77"
+        },
+        {
+            "text": "cuss a palliative Pleurex \ncatheter.\n\n# Hyperkalemia:     be related to mild renal impairment. \nDifficult to interpret {{hemolysis}} as her progressive liver \ndisease could make Tbili and LDH high independent of cell \nturnover. However, most of bilirub",
+            "omittedDetails": "Hemolysis"
+        },
+        {
+            "text": "S: 98.6    90/50    101    20   97% \nGEN: Alert, oriented, pleasant, cachectic\nHEENT: supraclavicular wasting, angular {{cheilitis}}, no oral or \nocular lesions\nCV: no jvd, borderline tachycardia,     SEM, normal s1,s2\nPULM: CTAB, good air movement\nABD",
+            "omittedDetails": "Cheilitis"
+        },
+        {
+            "text": "mission Date:                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \n{{Allergies}}: \nNo Known Allergies / Adverse Drug Reactions\n \nAttending:    .\n \nChief Complaint:\nDistended abdomen, ascites\n \nMajor S",
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "\n    Patient was seen by Dr.     at     who\nrecommended either Xeloda, Avastin or Taxol as next steps in her\ncare.\n    {{Abdominal Ultrasound}}: Liver is enlarged and contains\nmultiple lesions consistent with metastatic disease. There is no\nbiliary dilation and t",
+            "omittedDetails": "Transabdominal Ultrasound"
+        },
+        {
+            "text": "h second epidose of ascites. Her disease is \ncomplicated by hepatic metastases. Her first was earlier this \nmonth, and {{cytology}} was negative for malignancy. She is not on \nhome diuretics.\n\n# Ascites: No history of cirrhosis, HPS, HRS, varices. Lik",
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "nstipation, chest pain, dyspnea or \nother complaints.\n\n \nPast Medical History:\nPAST ONCOLOGIC HISTORY (per Dr.         {{Screening mammogram}} revealed an abnormality in the\nleft breast\n    Core need biopsy showed invasive ductal carcinoma that\nwas ER/PR+ HER2-n",
+            "omittedDetails": "Screening Mammography"
+        },
+        {
+            "text": " provided, but patient did not start the\nmedication. Instead she started alternative treatments.\n    Patient underwent {{laparoscopic}} b/l\nsalpingo-oophorectomy and IUD removal by Dr.    .\nPathology was completely benign\n    PET CT showed new FDG-avid ma",
+            "omittedDetails": "Diagnostic Laparoscopy"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "e services \nand to sign a DNR/DNI form. She has both oncology and palliative \ncare follow up appointments to discuss a {{palliative}} Pleurex \ncatheter.\n\n# Hyperkalemia:     be related to mild renal impairment. \nDifficult to interpret hemolysis as her p",
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "s:\n1. Vitamin D 800 UNIT PO DAILY \n2. HYDROmorphone (Dilaudid) 2 mg PO Q3H:PRN pain \nRX *hydromorphone [Dilaudid] 2 mg {{1}} tablet(s) by mouth every 3 \nhours as needed Disp #*90 Tablet Refills:*0\n3. Docusate Sodium 100 mg PO BID:PRN constipati",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "rs as needed Disp #*90 Tablet Refills:*0\n3. Docusate Sodium 100 mg PO BID:PRN constipation \nRX *docusate sodium 100 mg {{1}} capsule(s) by mouth twice daily as \nneeded Disp #*60 Capsule Refills:*0\n\n \nDischarge Disposition:\nHome With Service\n \nF",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "stases in the\nliver with areas of course calcifications.\n    Patient was seen by Dr.     at     who\nrecommended either {{Xeloda}}, Avastin or Taxol as next steps in her\ncare.\n    Abdominal Ultrasound: Liver is enlarged and contains\nmultiple lesions ",
+            "omittedDetails": "Capecitabine Regimen"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": " hospice services and DNR/DNI form signed.\n- **Hyperkalemia:** Possibly related to mild renal impairment; treated with {{IV fluids}}.\n\n**Medications on Admission:**\n- Vitamin D 800 UNIT PO DAILY\n\n**Discharge Medications:**\n1. Vitamin D 800 UNIT PO DAIL"
+        }
+    ]
+}

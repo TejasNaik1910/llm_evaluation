@@ -1,0 +1,73 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "% RA\nGENERAL:  NAD\nHEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  \nNECK: Supple, no thyromegaly\nLUNGS: {{CTA}} bilat, no r/rh/wh, good air movement, resp unlabored.\nHEART: RRR, no MRG, nl S1-S2.\nABDOMEN: Soft/NT/ND, no masses or H",
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "ath.  These symptoms were most likely caused by a deep vein \nthrombosis (blood clot) in your leg and pulmonary emboli ({{blood \nclots}} in your lungs).  For this, you had a filter placed in your \ninferior vena cava (large vein leading to your heart) to pr",
+            "omittedDetails": "Coagulation Defect Unspecified"
+        },
+        {
+            "text": " atelectasis. Focal \nopacity at \nthe right lower lobe likely focal atelectasis vs early infarct. \nAdditional \nareas of {{atelectasis}}. \n3. Status post partial esophagectomy (patient has history of \nesophageal \ncancer). Retained material in the lower neo",
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "ore throat, cough, shortness \nof breath at rest, chest pain, nausea, vomiting, diarrhea, \nconstipation, BRBPR, melena, {{hematochezia}}, dysuria, hematuria.  \nPatient admits to cramping abdominal pain if he eats beef \nproducts.  He has an open abdominal w",
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "e of right \nheart cavity concerning for right heart strain. Recommend \ncorrelation with echocardiogram \n2. Small right {{pleural effusion}} and adjacent atelectasis. Focal \nopacity at \nthe right lower lobe likely focal atelectasis vs early infarct. \nAdditiona",
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "no \naortic valve stenosis. No aortic regurgitation is seen. The \nmitral valve appears structurally normal with trivial {{mitral \nregurgitation}}. There is no mitral valve prolapse. There is \nborderline pulmonary artery systolic hypertension. There is no \npericardi",
+            "omittedDetails": "Mitral Valve Regurgitation"
+        },
+        {
+            "text": "es, rhinorrhea, congestion, sore throat, cough, shortness \nof breath at rest, chest pain, nausea, vomiting, diarrhea, \n{{constipation}}, BRBPR, melena, hematochezia, dysuria, hematuria.  \nPatient admits to cramping abdominal pain if he eats beef \nproducts",
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "d care nursing was consulted for ostomy \nand fistula wounds\n\nGout: Pt with h/o gout that tends to flare when he feels \n{{dehydrated}}.  He is not on long term uric acid therapy.  On HD 2, \nhe noted a gout flare in his R and L great toes, R>L, and for \nt",
+            "omittedDetails": "Dehydration"
+        },
+        {
+            "text": "at \nthe right lower lobe likely focal atelectasis vs early infarct. \nAdditional \nareas of atelectasis. \n3. Status post {{partial esophagectomy}} (patient has history of \nesophageal \ncancer). Retained material in the lower neoesophagus which is \nmildly \ndistended. ",
+            "omittedDetails": "Partial Esophagectomy"
+        },
+        {
+            "text": "our INR \n(bloodwork that monitors coumadin) becomes therapeutic.\n\nYour IVC filter will not prevent you from getting an {{MRI}} in the \nfuture and it should not cause problems with metal detectors or \nat the airport.\n\nChanges to your medications:\n",
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "acement of IVC \nfilter, considering bilateral PE and large DVT in LLE.  Cardiac \nenzymes negative on day of admission, {{EKG}} wth no changes c/w R \nheart strain.  IVC filter was placed, tolerated procedure well, \nand heparin gtt was continued wh",
+            "omittedDetails": "Electrocardiogram"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "cancer\n- Chronic anemia\n- Diverticulitis status post urgent sigmoid colectomy\n- Emergent splenectomy\n- Tonsillectomy\n- {{Clostridium difficile infection}}\n- Obesity\n\n**Physical Exam:**\n- **Admission:** Well-appearing, anxious, normal vital signs, no significant findings exc"
+        },
+        {
+            "text": "Physical Exam:**\n- **Admission:** Well-appearing, anxious, normal vital signs, no significant findings except for mild {{tenderness}} in the LLE.\n- **Discharge:** Stable vital signs, no significant findings except for tenderness in the LLE and improving"
+        },
+        {
+            "text": "ght heart strain, small right pleural effusion, and atelectasis.\n- **TTE:** Normal left ventricular wall thickness and {{cavity}} size, low normal left ventricular systolic function (LVEF ~50%), borderline pulmonary artery systolic hypertension, and"
+        },
+        {
+            "text": "Redacted]\n- **Discharge Date:** [Redacted]\n- **Date of Birth:** [Redacted]\n- **Sex:** Male\n- **Service:** Medicine\n- **{{Allergies}}:** Penicillins\n- **Attending:** [Redacted]\n\n**Chief Complaint:**\n- Shortness of breath\n- Left lower extremity (LLE) pai"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": " daily\n2. Oxycodone 5 mg as needed for pain\n3. Warfarin 5 mg daily\n4. Colchicine 0.6 mg daily for 2 days\n5. Enoxaparin {{90}} mg subcutaneously every 12 hours for 2 days\n\n**Discharge Disposition:**\n- Extended Care Facility\n\n**Discharge Diagnosis"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "s and prevent new clots from \nforming.  You will be on lovenox for two more days as your INR \n(bloodwork that monitors {{coumadin}}) becomes therapeutic.\n\nYour IVC filter will not prevent you from getting an MRI in the \nfuture and it should not cause ",
+            "omittedDetails": "Warfarin Potassium"
+        }
+    ]
+}

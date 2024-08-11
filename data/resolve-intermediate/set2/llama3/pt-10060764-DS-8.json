@@ -1,0 +1,183 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "here is no significant lymphadenopathy within \nthe abdomen \nor pelvis.  The pancreas, kidneys, and adrenal glands are \n{{stable}}.  Kidneys \nenhance homogeneously without abnormalities. \n  \nPELVIS:  There is a stable amount of fluid within the pelvi",
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": " for \nhigher bili remains unclear. Drains are capped and clinically \nshe looks well.  Drains were uncapped on     with {{slight \nimprovement}} in bilirubin.  Repeat CT ABD     showed stable \nductal dilation.   She underwent repeat cholangiogram with \nremoval of ",
+            "omittedDetails": "Partial Response"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "Here is a summary of the clinical note:\n\n**Patient Information:**\n\n* {{51}}-year-old female patient\n* Admitted to the hospital with biliary obstruction and cholangitis\n* Has a history of cholangi"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Admitted to the hospital with biliary obstruction and cholangitis\n* Has a history of cholangiocarcinoma, hypertension, {{atrial fibrillation}}, mitral valve prolapse, and osteoarthritis of the right hip\n\n**Chief Complaint:**\n\n* Biliary obstruction\n\n**Medical His"
+        },
+        {
+            "text": "\n\n* Cholangitis\n* E. coli and enterococcal septicemia\n* Cholangiocarcinoma\n\n**Discharge Condition:**\n\n* Mental status: {{Confused}} at times\n* Level of consciousness: Alert and interactive\n* Activity status: Ambulatory with assistance (walker or cane)"
+        },
+        {
+            "text": "s (LFTs)\n* Found to have enterococcus and E. coli bacteremia\n* Started on antibiotics (vancomycin and zosyn) and had a {{transesophageal echocardiogram}} (TEE) to rule out endocarditis\n* Had a CT abdomen/pelvis scan, which showed mild intrahepatic ductal dilation and pneum"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "changes. Compared \nto the prior study, there is development of a small to moderate \namount of \nperihepatic, subhepatic {{ascites}} and perisplenic ascites.  The \ngallbladder is \nnot abnormally distended. There is surrounding fluid.  There is \nsmall a",
+            "omittedDetails": "Ascites"
+        },
+        {
+            "text": "2D echocardiographic evidence of endocarditis. \nMild mitral valve prolapse with moderate, predominantly \nlate-systolic {{mitral regurgitation}}. Mild posterior mitral \nleaflet prolapse with moderate tricuspid regurgitation. Mild \npulmonary artery hypertension. A ",
+            "omittedDetails": "Mitral Valve Regurgitation"
+        },
+        {
+            "text": "ith moderate, predominantly \nlate-systolic mitral regurgitation. Mild posterior mitral \nleaflet prolapse with moderate {{tricuspid regurgitation}}. Mild \npulmonary artery hypertension. A PFO is present.  \n.\nCBD Brushing pathology: ATYPICAL. Atypical ductal cells, \nn",
+            "omittedDetails": "Tricuspid Valve Insufficiency"
+        },
+        {
+            "text": "aint:\nBiliary obstruction\n \nMajor Surgical or Invasive Procedure:\nERCP\nPTBD\nTransesophageal echo\n\n \nHistory of Present {{Illness}}:\n    yo w/cholangiocarinoma presents as transfer from     \n    for ERCP. Pt admitted to         with fever and \nAfib RV",
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "te-systolic mitral regurgitation. Mild posterior mitral \nleaflet prolapse with moderate tricuspid regurgitation. Mild \n{{pulmonary artery hypertension}}. A PFO is present.  \n.\nCBD Brushing pathology: ATYPICAL. Atypical ductal cells, \nneutrophils and bile \nLiver biopsy pat",
+            "omittedDetails": "Pulmonary Hypertension Unspecified"
+        },
+        {
+            "text": "orrhea, congestion, sore throat, cough, \nshortness of breath, chest pain, abdominal pain, nausea, \nvomiting, diarrhea, {{constipation}}, BRBPR, melena, hematochezia, \ndysuria, hematuria\n \nPast Medical History:\nHTN\nAfib s/p pacemaker placement on coumadin\n",
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "at, cough, \nshortness of breath, chest pain, abdominal pain, nausea, \nvomiting, diarrhea, constipation, BRBPR, melena, {{hematochezia}}, \ndysuria, hematuria\n \nPast Medical History:\nHTN\nAfib s/p pacemaker placement on coumadin\nMVP\nOA of right hip\nCholangio",
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "ned \npost-administration of intravenous contrast and ingestion of \noral contrast. \n  \nLUNG BASES:  There are bilateral {{pleural effusions}}, small to \nmoderate in size \nwith associated atelectasis.  No focal consolidation is seen. \n  \nABDOMEN:  There are two ",
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "re \nmildly thickened but aortic stenosis is not present. No masses \nor vegetations are seen on the aortic valve. Trace {{aortic \nregurgitation}} is seen. The mitral valve leaflets are mildly \nthickened. There is mild posterior leaflet mitral valve prolapse \n(P3). ",
+            "omittedDetails": "Rheumatic Aortic Insufficiency"
+        },
+        {
+            "text": "neously without abnormalities. \n  \nPELVIS:  There is a stable amount of fluid within the pelvis.  \nThere are \nnumerous {{colonic diverticula}}.  No evidence of enlarged \nlymphadenopathy within \nthe pelvis.  There is minimal stranding along the right-sided \ncolon",
+            "omittedDetails": "Diverticular Disease Of Large Intestine Without Perforation Or Abscess"
+        },
+        {
+            "text": ": per HPI, denies fever, chills, night sweats, headache, \nvision changes, rhinorrhea, congestion, sore throat, cough, \n{{shortness of breath}}, chest pain, abdominal pain, nausea, \nvomiting, diarrhea, constipation, BRBPR, melena, hematochezia, \ndysuria, hematuri",
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "ontrolled with lopressor and hydration. CT \nshowed increased duct dilation. She was transferred for \nevaluation of her {{biliary stent}} given concern for intrabdominal \nsource of infection.  Her caretaker also reports decline in \nmental status over 3 mont",
+            "omittedDetails": "Placement Of Stent(S) Into A Bile Duct, Percutaneous, Including Diagnostic Cholangiography, Imaging Guidance (Eg, Fluoroscopy And/Or Ultrasound), Balloon Dilation, Catheter Exchange(S) And Catheter Removal(S) When Performed, And All Associated Radiological Supervision And Interpretation, Each Stent; New Access, With Placement Of Separate Biliary Drainage Catheter (Eg, External Or Internal-External)"
+        },
+        {
+            "text": "nd pelvis. \n  \nREASON FOR THE EXAM AND MEDICAL HISTORY:  History of \ncholangiocarcinoma with \ncholangitis; status post {{percutaneous transhepatic \ncholangiography}} with rising \nbilirubin. \n  \nCOMPARISON EXAM:  CT of the abdomen and pelvis, dated    .  This \nstudy was also compared w",
+            "omittedDetails": "Percutaneous Transhepatic Cholangiography"
+        },
+        {
+            "text": "ad been under \nthe impression that her cancer was \"cured\" by the chemo - \nhowever, tumor seen on ERCP as above (though {{path}} and cytology \nnondiagnostic).  Oncologist is Dr     at     in     - \nupdated by fax on    . \nI spoke with her oncologis",
+            "omittedDetails": "Pathology Procedure"
+        },
+        {
+            "text": "ry hypertension. A PFO is present.  \n.\nCBD Brushing pathology: ATYPICAL. Atypical ductal cells, \nneutrophils and bile \n{{Liver biopsy}} pathology: Liver, needle biopsy (A):\n- Scant, extremely distorted tissue with focal atypia, \ninsufficient for evaluatio",
+            "omittedDetails": "Biopsy Of Liver"
+        },
+        {
+            "text": "nt.  \n.\nCBD Brushing pathology: ATYPICAL. Atypical ductal cells, \nneutrophils and bile \nLiver biopsy pathology: Liver, {{needle biopsy}} (A):\n- Scant, extremely distorted tissue with focal atypia, \ninsufficient for evaluation.\n- Multiple levels have been e",
+            "omittedDetails": "Needle Biopsy"
+        },
+        {
+            "text": "are capped and clinically \nshe looks well.  Drains were uncapped on     with slight \nimprovement in bilirubin.  Repeat {{CT ABD}}     showed stable \nductal dilation.   She underwent repeat cholangiogram with \nremoval of one drain and adjustment of t",
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "bscesses given a \npossible lesion seen during PTBD, but CT did not demonstrate any \ncomplications of her cholangitis.  {{Surveillance}} blood cx were \nnegative.  \nHer biliary drains were capped on    . Had repeat cholangiogram \n    which looked ok. Over n",
+            "omittedDetails": "Surveillance"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "  .  She will be on oral \nfluconazole until    .  \n\n# Cholangiocarcinoma: She has unresectable cholangiocarcinoma \ns/p {{palliative}} chemo/XRT.  Patient and husband had been under \nthe impression that her cancer was \"cured\" by the chemo - \nhowever, tum",
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "eceived a walker.  \n \nMedications on Admission:\nThe Preadmission Medication list is accurate and complete.\n1. Warfarin {{2}} mg PO DAILY16 \n2. Cyanocobalamin 100 mcg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Donepezil 10 mg PO HS \n5. Digoxin 0.",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "n Admission:\nThe Preadmission Medication list is accurate and complete.\n1. Warfarin 2 mg PO DAILY16 \n2. Cyanocobalamin {{100}} mcg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Donepezil 10 mg PO HS \n5. Digoxin 0.125 mg PO DAILY \n6. Ursodiol 300 mg P",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "dication list is accurate and complete.\n1. Warfarin 2 mg PO DAILY16 \n2. Cyanocobalamin 100 mcg PO DAILY \n3. FoLIC Acid {{1}} mg PO DAILY \n4. Donepezil 10 mg PO HS \n5. Digoxin 0.125 mg PO DAILY \n6. Ursodiol 300 mg PO BID \n\n \nDischarge Medication",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "LY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Metoprolol Tartrate 25 mg PO BID \n5. Docusate Sodium {{100}} mg PO BID \n6. Fluconazole 200 mg PO Q24H \nRX *fluconazole [Diflucan] 200 mg 1 tablet(s) by mouth once a \nday Disp #*3 T",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200 mg PO Q24H \nRX *fluconazole [Diflucan] 200 mg 1 tablet(s) by mouth once a \nday Disp #*3 Tablet Refills:*0\n7. Senna {{1}} TAB PO BID:PRN constipation \n8. Simethicone 80 mg PO TID \n9. Warfarin 2 mg PO DAILY16 \n10. Outpatient Lab Work\nlfts \nfa",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.125 mg PO DAILY \n6. Ursodiol 300 mg PO BID \n\n \nDischarge Medications:\n1. Cyanocobalamin 100 mcg PO DAILY \n2. Digoxin {{0.125}} mg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Metoprolol Tartrate 25 mg PO BID \n5. Docusate Sodium 100 mg PO BID \n6. Flu",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "LY \n3. FoLIC Acid 1 mg PO DAILY \n4. Metoprolol Tartrate 25 mg PO BID \n5. Docusate Sodium 100 mg PO BID \n6. Fluconazole {{200}} mg PO Q24H \nRX *fluconazole [Diflucan] 200 mg 1 tablet(s) by mouth once a \nday Disp #*3 Tablet Refills:*0\n7. Senna 1 TA",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "trate 25 mg PO BID \n5. Docusate Sodium 100 mg PO BID \n6. Fluconazole 200 mg PO Q24H \nRX *fluconazole [Diflucan] 200 mg {{1}} tablet(s) by mouth once a \nday Disp #*3 Tablet Refills:*0\n7. Senna 1 TAB PO BID:PRN constipation \n8. Simethicone 80 mg ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ve enterococcus and e.coli \nbacteremia and rising LFTs. She was started on vanc/zosyn (   ) and HR was controlled with {{lopressor}} and hydration. CT \nshowed increased duct dilation. She was transferred for \nevaluation of her biliary stent given conce",
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "\n1. Cyanocobalamin 100 mcg PO DAILY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Metoprolol Tartrate {{25}} mg PO BID \n5. Docusate Sodium 100 mg PO BID \n6. Fluconazole 200 mg PO Q24H \nRX *fluconazole [Diflucan] 200 mg 1 tablet(",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "e for \ndrains. \n\nINACTIVE ISSUES:\n\n# HTN: Controlled on metoprolol.\n\n# ? Dementia: She was transferred from the OSH on {{Aricept}} \nalthough per her PCP, this is not a home medication for her.  \nThis was stopped during this admission and she should s",
+            "omittedDetails": "Donepezil Hydrochloride"
+        },
+        {
+            "text": "d complete.\n1. Warfarin 2 mg PO DAILY16 \n2. Cyanocobalamin 100 mcg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Donepezil {{10}} mg PO HS \n5. Digoxin 0.125 mg PO DAILY \n6. Ursodiol 300 mg PO BID \n\n \nDischarge Medications:\n1. Cyanocobalamin 100 mcg ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "r drain removal.  She received \ninstructions on how to place drain to bag if she develops pain \nor fever.  She stopped {{unasyn}} on    .  She will be on oral \nfluconazole until    .  \n\n# Cholangiocarcinoma: She has unresectable cholangiocarcinoma \n",
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "anocobalamin 100 mcg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Donepezil 10 mg PO HS \n5. Digoxin 0.125 mg PO DAILY \n6. {{Ursodiol}} 300 mg PO BID \n\n \nDischarge Medications:\n1. Cyanocobalamin 100 mcg PO DAILY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Aci",
+            "omittedDetails": "Ursodiol"
+        },
+        {
+            "text": "min 100 mcg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Donepezil 10 mg PO HS \n5. Digoxin 0.125 mg PO DAILY \n6. Ursodiol {{300}} mg PO BID \n\n \nDischarge Medications:\n1. Cyanocobalamin 100 mcg PO DAILY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Acid 1 ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ":                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \nAllergies: \n{{Demerol}}\n \nAttending:    .\n \nChief Complaint:\nBiliary obstruction\n \nMajor Surgical or Invasive Procedure:\nERCP\nPTBD\nTransesophag",
+            "omittedDetails": "Meperidine Hydrochloride"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "right hip\n\n**Chief Complaint:**\n\n* Biliary obstruction\n\n**Medical History:**\n\n* Cholangiocarcinoma (unresectable) with {{palliative}} chemotherapy and radiation therapy\n* Atrial fibrillation with pacemaker placement\n* Hypertension\n* Mitral valve prolaps"
+        },
+        {
+            "text": ", and rising liver function tests (LFTs)\n* Found to have enterococcus and E. coli bacteremia\n* Started on antibiotics ({{vancomycin}} and zosyn) and had a transesophageal echocardiogram (TEE) to rule out endocarditis\n* Had a CT abdomen/pelvis scan, whic"
+        },
+        {
+            "text": "charged on medications including cyanocobalamin, folic acid, digoxin, metoprolol, docusate sodium, fluconazole, senna, {{simethicone}}, and warfarin\n\n**Discharge Disposition:**\n\n* Discharged home with services\n\n**Discharge Diagnosis:**\n\n* Cholangitis\n* E"
+        }
+    ]
+}

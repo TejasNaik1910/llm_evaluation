@@ -1,0 +1,159 @@
+{
+    "Incorrect Followup": [
+        {
+            "text": "sis**\n\n* Esophageal stricture\n* Esophagitis\n* Hypertension\n\n**Discharge Condition**\n\n* The patient was discharged in a {{stable condition}}, with a clear and coherent mental status, alert and interactive level of consciousness, and ambulatory-independent acti"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Invasive Procedure:\n   \nEsophagogastroduodenoscopy and dilatation \n\n \nHistory of Present Illness:\nMrs.     is a     yo {{female}} who underwent a MIE     for\npT1bN0MX adenoca.  She has had problems since the surgery with\ndysphagia and nausea requiri",
+            "omittedDetails": "Female"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "e: CARDIOTHORACIC\n \nAllergies: \nSulfa (Sulfonamide Antibiotics) / Imdur\n \nAttending:    .\n \nChief Complaint:\nNause and {{vomiting}} \n \nMajor Surgical or Invasive Procedure:\n   \nEsophagogastroduodenoscopy and dilatation \n\n \nHistory of Present Illness:\n",
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "Mrs.     is a     yo female who underwent a MIE     for\npT1bN0MX adenoca.  She has had problems since the surgery with\n{{dysphagia}} and nausea requiring EGD with dilitation 5 times from\n    thru    . She'S also been treated with Botox. She\ncontinues t",
+            "omittedDetails": "Dysphagia"
+        },
+        {
+            "text": " the esophagus. \nCall Dr         if you experience:\n-Fevers greater than 101 or chills\n-Increased shortness of breath, {{cough}} or chest pain\n-Increased nausea, vomiting \n-Increased abdominal pain\n* Your blood pressure was elevated on admission an",
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "1. Vitamin D 1000 UNIT PO DAILY \n\n \nDischarge Medications:\n1. Citalopram 20 mg PO DAILY \n2. Lorazepam 0.5 mg PO HS:PRN {{insomnia}} \n3. Metoprolol Succinate XL 25 mg PO DAILY \n4. Simvastatin 40 mg PO QPM \n5. Fish Oil (Omega 3) 1000 mg PO BID \n6. Cyclo",
+            "omittedDetails": "Insomnia"
+        },
+        {
+            "text": "D \n3. Benzonatate 100 mg PO TID:PRN cough \n4. Lorazepam 0.5 mg PO HS:PRN insomnia \n5. Cyclobenzaprine 10 mg PO TID:PRN {{spasm}} \n6. Metoprolol Succinate XL 25 mg PO DAILY \n7. Simvastatin 40 mg PO QPM \n8. Metoclopramide 10 mg PO QIDACHS nausea \n9. ",
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "ndings:\n\nNEURO          \n[x] Strength intact/symmetric    [x] Sensation intact/  \nsymmetric\n[x] Reflexes nl     [x] No {{facial asymmetry}} [x] Cognition  \nintact\n[x] Cranial nerves intact   [ ] Abnormal findings:\n\nMS     \n\n        \n[x] No clubbing   [x] No c",
+            "omittedDetails": "Congenital Facial Asymmetry"
+        },
+        {
+            "text": "nderwent diltation of the esophagus. \nCall Dr         if you experience:\n-Fevers greater than 101 or chills\n-Increased {{shortness of breath}}, cough or chest pain\n-Increased nausea, vomiting \n-Increased abdominal pain\n* Your blood pressure was elevated on admis",
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "o facial asymmetry [x] Cognition  \nintact\n[x] Cranial nerves intact   [ ] Abnormal findings:\n\nMS     \n\n        \n[x] No {{clubbing}}   [x] No cyanosis   [x] No edema   [x] Gait nl\n[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl\n[x] Nails nl",
+            "omittedDetails": "Clubbing Of Fingers"
+        },
+        {
+            "text": " [x] Cognition  \nintact\n[x] Cranial nerves intact   [ ] Abnormal findings:\n\nMS     \n\n        \n[x] No clubbing   [x] No {{cyanosis}}   [x] No edema   [x] Gait nl\n[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl\n[x] Nails nl   [ ] Abnormal fi",
+            "omittedDetails": "Cyanosis"
+        },
+        {
+            "text": "[x] No abd/carotid bruit\n[ ] Abnormal findings:\n\nGI             \n[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No {{hernia}}\n[ ] Abnormal findings:\n\nGU             [x] Deferred  \n[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE\n[",
+            "omittedDetails": "Hernia K40-K46"
+        },
+        {
+            "text": "g secondary to an \nesophageal stricture and underwent diltation of the esophagus. \nCall Dr         if you experience:\n-{{Fevers}} greater than 101 or chills\n-Increased shortness of breath, cough or chest pain\n-Increased nausea, vomiting \n-Increased ",
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "al stricture and underwent diltation of the esophagus. \nCall Dr         if you experience:\n-Fevers greater than 101 or {{chills}}\n-Increased shortness of breath, cough or chest pain\n-Increased nausea, vomiting \n-Increased abdominal pain\n* Your blood",
+            "omittedDetails": "Chills"
+        },
+        {
+            "text": "um.  No evidence of bowel obstruction or ileus \nnoting relative paucity of air in the bowel limiting \nsensitivity.   \n\n{{CXR}}     \nNo acute cardiopulmonary process.\n\nEGD    \nImpression: Evidence of a previous esophago-gastric anastomosis \nwas se",
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "MIE)\n* Takutsubo cardiomyopathy with possible mild myocardial infarction\n* Hypertension\n* Hyperlipidemia\n* Status post {{vaginal hysterectomy}}\n\n**Present Illness**\n\n* The patient presented to the ER with severe nausea that began at 8AM, not precipitated by anyth"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "amide 10 mg PO QIDACHS nausea \n9. Ondansetron 4 mg PO Q8H:PRN nausea \n10. Vitamin D 1000 UNIT PO DAILY \n11. Omeprazole {{40}} mg PO DAILY \n12. DiCYCLOmine 20 mg PO QID \nRX *dicyclomine 20 mg 1 tablet(s) by mouth four times a day Disp \n#*100 Tabl",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " 3) 1000 mg PO BID \n3. Benzonatate 100 mg PO TID:PRN cough \n4. Lorazepam 0.5 mg PO HS:PRN insomnia \n5. Cyclobenzaprine {{10}} mg PO TID:PRN spasm \n6. Metoprolol Succinate XL 25 mg PO DAILY \n7. Simvastatin 40 mg PO QPM \n8. Metoclopramide 10 mg PO",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ischarge Medications:\n1. Citalopram 20 mg PO DAILY \n2. Lorazepam 0.5 mg PO HS:PRN insomnia \n3. Metoprolol Succinate XL {{25}} mg PO DAILY \n4. Simvastatin 40 mg PO QPM \n5. Fish Oil (Omega 3) 1000 mg PO BID \n6. Cyclobenzaprine 10 mg PO TID:PRN spa",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " HS:PRN insomnia \n5. Cyclobenzaprine 10 mg PO TID:PRN spasm \n6. Metoprolol Succinate XL 25 mg PO DAILY \n7. Simvastatin {{40}} mg PO QPM \n8. Metoclopramide 10 mg PO QIDACHS nausea \n9. Omeprazole 20 mg PO DAILY \n10. Citalopram 20 mg PO DAILY \n11. ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "vastatin 40 mg PO QPM \n5. Fish Oil (Omega 3) 1000 mg PO BID \n6. Cyclobenzaprine 10 mg PO TID:PRN spasm \n7. Benzonatate {{100}} mg PO TID:PRN cough \n8. Metoclopramide 10 mg PO QIDACHS nausea \n9. Ondansetron 4 mg PO Q8H:PRN nausea \n10. Vitamin D 10",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " mg PO DAILY \n10. Citalopram 20 mg PO DAILY \n11. Vitamin D 1000 UNIT PO DAILY \n\n \nDischarge Medications:\n1. Citalopram {{20}} mg PO DAILY \n2. Lorazepam 0.5 mg PO HS:PRN insomnia \n3. Metoprolol Succinate XL 25 mg PO DAILY \n4. Simvastatin 40 mg PO",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ron 4 mg PO Q8H:PRN nausea \n2. Fish Oil (Omega 3) 1000 mg PO BID \n3. Benzonatate 100 mg PO TID:PRN cough \n4. Lorazepam {{0.5}} mg PO HS:PRN insomnia \n5. Cyclobenzaprine 10 mg PO TID:PRN spasm \n6. Metoprolol Succinate XL 25 mg PO DAILY \n7. Simvast",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "\n8. Metoclopramide 10 mg PO QIDACHS nausea \n9. Omeprazole 20 mg PO DAILY \n10. Citalopram 20 mg PO DAILY \n11. Vitamin D {{1000}} UNIT PO DAILY \n\n \nDischarge Medications:\n1. Citalopram 20 mg PO DAILY \n2. Lorazepam 0.5 mg PO HS:PRN insomnia \n3. Metop",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ") 1000 mg PO BID \n6. Cyclobenzaprine 10 mg PO TID:PRN spasm \n7. Benzonatate 100 mg PO TID:PRN cough \n8. Metoclopramide {{10}} mg PO QIDACHS nausea \n9. Ondansetron 4 mg PO Q8H:PRN nausea \n10. Vitamin D 1000 UNIT PO DAILY \n11. Omeprazole 40 mg PO ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "O QID \nRX *dicyclomine 20 mg 1 tablet(s) by mouth four times a day Disp \n#*100 Tablet Refills:*2\n13. Scopolamine Patch {{1}} PTCH TD ONCE Duration: 1 Dose \nRX *scopolamine base [Transderm-Scop] 1.5 mg/72 hour 1 Q 72 hrs \nDisp #*10 Transdermal P",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "tion evaluation.\n \nMedications on Admission:\nThe Preadmission Medication list is accurate and complete.\n1. Ondansetron {{4}} mg PO Q8H:PRN nausea \n2. Fish Oil (Omega 3) 1000 mg PO BID \n3. Benzonatate 100 mg PO TID:PRN cough \n4. Lorazepam 0.5 mg",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ". Ondansetron 4 mg PO Q8H:PRN nausea \n10. Vitamin D 1000 UNIT PO DAILY \n11. Omeprazole 40 mg PO DAILY \n12. DiCYCLOmine {{20}} mg PO QID \nRX *dicyclomine 20 mg 1 tablet(s) by mouth four times a day Disp \n#*100 Tablet Refills:*2\n13. Scopolamine Pa",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " \n10. Vitamin D 1000 UNIT PO DAILY \n11. Omeprazole 40 mg PO DAILY \n12. DiCYCLOmine 20 mg PO QID \nRX *dicyclomine 20 mg {{1}} tablet(s) by mouth four times a day Disp \n#*100 Tablet Refills:*2\n13. Scopolamine Patch 1 PTCH TD ONCE Duration: 1 Dose",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "urgery with\ndysphagia and nausea requiring EGD with dilitation 5 times from\n    thru    . She'S also been treated with {{Botox}}. She\ncontinues to have dysphagia to solids and also has periods of\nsevere nausea, sometimes vomiting. She presented to ",
+            "omittedDetails": "Botulinum Toxin Type A"
+        },
+        {
+            "text": "       Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: CARDIOTHORACIC\n \nAllergies: \nSulfa ({{Sulfonamide}} Antibiotics) / Imdur\n \nAttending:    .\n \nChief Complaint:\nNause and vomiting \n \nMajor Surgical or Invasive Procedure:\n ",
+            "omittedDetails": "Sulfonamide Anti-Infective Agent"
+        },
+        {
+            "text": "rtension on admission and was treated with her home dose of \nLopressor and occasionally required some hydralazine and \n{{Lisinopril}}.  She'S normotensive now but will need to see her PCP \nthis week for a blood pressure check and medication evaluation.\n",
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "r.     a repeat EGD in 2 weeks. She also had notable \nhypertension on admission and was treated with her home dose of \n{{Lopressor}} and occasionally required some hydralazine and \nLisinopril.  She'S normotensive now but will need to see her PCP \nthis ",
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "had notable \nhypertension on admission and was treated with her home dose of \nLopressor and occasionally required some {{hydralazine}} and \nLisinopril.  She'S normotensive now but will need to see her PCP \nthis week for a blood pressure check and medicat",
+            "omittedDetails": "Hydralazine"
+        },
+        {
+            "text": "arge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: CARDIOTHORACIC\n \nAllergies: \nSulfa (Sulfonamide {{Antibiotics}}) / Imdur\n \nAttending:    .\n \nChief Complaint:\nNause and vomiting \n \nMajor Surgical or Invasive Procedure:\n   \nEsophagog",
+            "omittedDetails": "Antibiotic"
+        },
+        {
+            "text": " \n \nDate of Birth:                  Sex:   F\n \nService: CARDIOTHORACIC\n \nAllergies: \nSulfa (Sulfonamide Antibiotics) / {{Imdur}}\n \nAttending:    .\n \nChief Complaint:\nNause and vomiting \n \nMajor Surgical or Invasive Procedure:\n   \nEsophagogastroduod",
+            "omittedDetails": "Isosorbide Mononitrate"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "reatment**\n\n* The patient was admitted for evaluation and treatment of a possible esophageal stricture\n* She was given {{IV fluids}}, a clear diet, and anti-nausea medication\n* She underwent an EGD and dilatation of the esophagus without complication\n*"
+        }
+    ]
+}

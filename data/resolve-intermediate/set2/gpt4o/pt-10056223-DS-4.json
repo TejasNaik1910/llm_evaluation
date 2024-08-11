@@ -1,0 +1,98 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "f the left lobe of liver.\n. \nCXR    : Increased large right pleural effusion.\nCXR    : Large right pleural effusion is {{unchanged}}. There is     \npneumothorax.  \nRetrocardiac opacity has improved consistent with improving \natelectasis.  \nVascular con",
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "se:**\n- **Acute Care:**\n  - **Hemothorax:** Managed with chest tube placement, draining 2 liters of bloody fluid, with {{no recurrence}} on discharge.\n  - **Post-RFA:** Initially hypotensive and dizzy, managed with PCA and later transitioned to oral oxycod"
+        },
+        {
+            "text": "se:**\n- **Acute Care:**\n  - **Hemothorax:** Managed with chest tube placement, draining 2 liters of bloody fluid, with {{no recurrence}} on discharge.\n  - **Post-RFA:** Initially hypotensive and dizzy, managed with PCA and later transitioned to oral oxycod"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "ural effusion is unchanged. There is     \npneumothorax.  \nRetrocardiac opacity has improved consistent with improving \n{{atelectasis}}.  \nVascular congestion has improved. cardiomediatinum is unchanged \nCXR    : Interval placement of right chest tube, wi",
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": " in the 100'S.  \n.  \nOn the floor, pt currently c/o     abdominal pain in the mid \nepigastric area and nausea, but     {{SOB}}, CP. He looks drowsy but \nis conversant and not in distress. He is interviewed in basic \n   .\n \nPast Medical History:\nH",
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": " PACU, pressures in the 100'S.  \n.  \nOn the floor, pt currently c/o     abdominal pain in the mid \nepigastric area and {{nausea}}, but     SOB, CP. He looks drowsy but \nis conversant and not in distress. He is interviewed in basic \n   .\n \nPast Medic",
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "es established cirrhosis in the \nsampled non-neoplastic parenchyma; moderate septal and mild \nperiseptal/lobular mixed {{inflammation}} is seen (clinical history \nof viral hepatitis C).\n3.  Iron stain is negative for iron deposition.\n4.  Additional levels",
+            "omittedDetails": "Inflammatory Disorders"
+        },
+        {
+            "text": "d.\n3) Otherwise,     significant interval change.\n CXR    : Bilateral lung volumes are low without interval \nchange in {{pulmonary edema}}.\nBibasal atelectasis are unchanged. Minimal bilateral pleural \neffusions\nunchanged since prior study. Cardiomediastinal",
+            "omittedDetails": "Pulmonary Edema"
+        },
+        {
+            "text": "ed. There is     \npneumothorax.  \nRetrocardiac opacity has improved consistent with improving \natelectasis.  \nVascular {{congestion}} has improved. cardiomediatinum is unchanged \nCXR    : Interval placement of right chest tube, with marked \nimprovement ",
+            "omittedDetails": "Congestion"
+        },
+        {
+            "text": "ght lobe, targeted needle core \nbiopsy:\n1.  Hepatocellular carcinoma, well-to moderately differentiated \n(confirmed by {{reticulin stain}}), with a focal pseudoacinar \nmorphology, prominent cholestasis/bile plug formation and \nsteatosis.\n2.  Trichrome stain ",
+            "omittedDetails": "Ret Stn Tiss"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "enderness, no significant edema, and stable vital signs.\n- **Discharge:** Alert, conversant, ambulating independently, {{distended abdomen}} with ascites, tender in the right upper quadrant (RUQ).\n\n**Pertinent Results:**\n- **Admission Labs:** Mild anemia, thro"
+        },
+        {
+            "text": "tially hypotensive and dizzy, managed with PCA and later transitioned to oral oxycodone. Nadolol was re-started.\n  - **{{Intermittent Fevers}}:** Likely due to post-procedure inflammation and atelectasis, with no signs of infection in cultures.\n- **Chronic Care:"
+        },
+        {
+            "text": "men with ascites, tender in the right upper quadrant (RUQ).\n\n**Pertinent Results:**\n- **Admission Labs:** Mild anemia, {{thrombocytopenia}}, elevated liver enzymes, and bilirubin.\n- **Pertinent Studies:**\n  - Liver biopsy confirmed well-to-moderately differen"
+        },
+        {
+            "text": " the right upper quadrant (RUQ).\n\n**Pertinent Results:**\n- **Admission Labs:** Mild anemia, thrombocytopenia, elevated {{liver enzymes}}, and bilirubin.\n- **Pertinent Studies:**\n  - Liver biopsy confirmed well-to-moderately differentiated HCC with cirrhosi"
+        },
+        {
+            "text": "ded abdomen with ascites, tender in the right upper quadrant (RUQ).\n\n**Pertinent Results:**\n- **Admission Labs:** Mild {{anemia}}, thrombocytopenia, elevated liver enzymes, and bilirubin.\n- **Pertinent Studies:**\n  - Liver biopsy confirmed well-to-m"
+        },
+        {
+            "text": "ement, draining 2 liters of bloody fluid, with no recurrence on discharge.\n  - **Post-RFA:** Initially hypotensive and {{dizzy}}, managed with PCA and later transitioned to oral oxycodone. Nadolol was re-started.\n  - **Intermittent Fevers:** Likely"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": " underwent RFA today with     immediate complications. \nHe was observed in the PACU since noon. He was given Dilaudid \n{{0.5}}mg IV x1, Phenergan 6.25mg IV x1, Zofran 4mg IV x1, and \nToradol 30mg IV x1. The plan was to send him home with Percocet",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ved in the PACU since noon. He was given Dilaudid \n0.5mg IV x1, Phenergan 6.25mg IV x1, Zofran 4mg IV x1, and \nToradol {{30}}mg IV x1. The plan was to send him home with Percocet \nat around    , but the patient continued to be lethargic, \npresum",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "th     immediate complications. \nHe was observed in the PACU since noon. He was given Dilaudid \n0.5mg IV x1, Phenergan {{6.25}}mg IV x1, Zofran 4mg IV x1, and \nToradol 30mg IV x1. The plan was to send him home with Percocet \nat around    , but the",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ":                   Discharge Date:      \n \nDate of Birth:                  Sex:   M\n \nService: MEDICINE\n \nAllergies: \n{{Aspirin}}\n \nAttending:    .\n \nChief Complaint:\nhypotension and lethargy s/p RFA\n \nMajor Surgical or Invasive Procedure:\nRadiofreq",
+            "omittedDetails": "Aspirin"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "nzonatate 100 mg PO TID as needed for cough\n5. Spironolactone 25 mg PO daily\n6. Furosemide 20 mg PO daily\n7. Oxycodone {{5}} mg PO Q4H as needed for pain\n8. Docusate sodium 100 mg PO BID as needed for constipation\n\n**Discharge Disposition:**\n- "
+        },
+        {
+            "text": "ofran, and Toradol. Despite plans to discharge him with Percocet, he remained lethargic and hypotensive, responsive to {{IV fluid}} boluses. Hematocrit levels dropped slightly post-procedure.\n\n**Past Medical History:**\n- HCV, genotype I\n- EtOH and HCV"
+        },
+        {
+            "text": ". Ferrous sulfate 325 mg PO daily\n4. Benzonatate 100 mg PO TID as needed for cough\n5. Spironolactone 25 mg PO daily\n6. {{Furosemide}} 20 mg PO daily\n7. Oxycodone 5 mg PO Q4H as needed for pain\n8. Docusate sodium 100 mg PO BID as needed for constipation\n"
+        },
+        {
+            "text": "ulfate 325 mg PO daily\n4. Benzonatate 100 mg PO TID as needed for cough\n5. Spironolactone 25 mg PO daily\n6. Furosemide {{20}} mg PO daily\n7. Oxycodone 5 mg PO Q4H as needed for pain\n8. Docusate sodium 100 mg PO BID as needed for constipation\n\n**"
+        }
+    ]
+}

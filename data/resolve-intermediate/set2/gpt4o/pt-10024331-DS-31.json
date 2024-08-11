@@ -1,0 +1,160 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "d. Patient given \nlidocaine patch for the left knee/shin. This should be followed \nwith further imaging/workup pending {{resolution}} or continuation \nof pain.\n.\n#Fever/Pneumonia: Patient had a fever the evening of surgery to \n101.0. An CXR was suggesti",
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "e: At his baseline. Renally dosed \nmedications.\n.\n#Hypertension: Currently normotensive. Continued on metoprolol.\n.  \n#{{Type 2 diabetes mellitus}}: Only on glipizide at home. Last A1C \nin     was 5.8%. Maintained on HISS inhouse. \n.  \n    Disease:  Continued selegil",
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": " Was \non lovenox 40mg Qhs around the time of surgery. Increased \nmetoprolol as well. There were no episodes of RVR.\n.\n#{{Chronic systolic CHF}}: Well compensated here. Denies furosemide \nthough it is on his med list. PCP confirmed that patient is not \non lasix. L",
+            "omittedDetails": "Chronic Systolic Congestive Heart Failure"
+        },
+        {
+            "text": "cally indicated.  2. Degenerative changes. \n.\n    hip XRay: Single frontal view of the left hip \ndemonstrates interval {{total hip arthroplasty}} with femoral and \nacetabular components in appropriate positions.  Expected \npost-operative changes are seen.\n.\n    CXR",
+            "omittedDetails": "Total Hip Arthroplasty"
+        },
+        {
+            "text": "cer \nbut had an undetectable PSA on    .\n.\nIn the ED, initial vitals were:  97.6 p84 BP 134/94 RR18 98%. He \nunderwent {{xrays}} of his hip and kness which showed a left femoral \nneck fracture per report. Orthopedics was called who recommended \nadm",
+            "omittedDetails": "X-Ray Imaging"
+        },
+        {
+            "text": "ade with his oncologist for \nfurther outpatient work up of possible pathologic fracture and \nprostate cancer    . Bone {{pathology}} was pending on discharge. \nPatient was scheduled with ortho follow up and     rehab \nhas been notified of the appointme",
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "us rhythm. Normal tracing.\n.\n    left Tib Fib XRAY: 1. Possible stress fracture of the \nanteromedial tibial diaphysis. {{MRi}} is recommended for further \nevaluation as clinically indicated.  2. Degenerative changes. \n.\n    hip XRay: Single front",
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "etectable and calcium was not \nelevated. Other cancer screening is up to date including clear \n    colonoscopy and     {{sigmoidoscopy}} with the \nexception of changes in the rectum consistent with post-prostate \nXRT proctitis.     CT abd and pelvis was wi",
+            "omittedDetails": "Sigmoidoscopy"
+        },
+        {
+            "text": "logic fracture. He has a history of prostate \ncancer but his PSA was undetectable and calcium was not \nelevated. Other {{cancer screening}} is up to date including clear \n    colonoscopy and     sigmoidoscopy with the \nexception of changes in the rectum consi",
+            "omittedDetails": "Cancer Screening"
+        },
+        {
+            "text": "erotic lesions are seen. If there is high concern for \nmetastatic disease related to prostate cancer, would recommend \n{{bone scan}}.\n.\n    hip bone pathology: pending.\n \nBrief Hospital Course:\nMr.     is a     year-old male with multiple right hip \ndi",
+            "omittedDetails": "Bone Scan"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "a history of multiple right hip dislocations, Parkinson'S disease, coronary artery disease (CAD) with multiple stents, {{atrial fibrillation}} (A-Fib) on Pradaxa, and prostate cancer post-radiation, presented with left hip pain. The pain began mildly three weeks"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "neumonia (lung infection) and \nso you were started on levofloxacin, an antibiotic.\n\nPlease increase your metoprolol to {{50}}mg daily. No other changes \nhave been made to your home medications.\n\nPlease continue taking Levofloxacin 750mg tablet o",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "s)* Refills:*2*\n16. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable \nPO DAILY (Daily).  \n17. levofloxacin {{750}} mg Tablet Sig: One (1) Tablet PO DAILY \n(Daily) for 4 days: Last dose on    .\nDisp:*4 Tablet(s)* Refills:*0*\n18. metopr",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "blet PO DAILY (Daily): \nTake while you're taking the oxycodone for pain.\nDisp:*30 Tablet(s)* Refills:*2*\n12. oxycodone {{5}} mg Tablet Sig:     Tablets PO Q4H (every 4 \nhours) as needed for pain for 2 weeks: Do not drive or operate \nheavy machi",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "glycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet \nSublingual MR X1 as needed for chest pain.  \n8. selegiline HCl {{5}} mg Capsule Sig: One (1) Capsule PO DAILY \n(Daily).  \n9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every \n",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sule \n-\n1 Capsule(s) by mouth DAILY (Daily)\n \nDischarge Medications:\n1. AMITRYTPTILINE/KETOPROFEN/LIDOCAINE  Sig: One ({{1}}) patch  once \na day as needed for pain: To be applied to left knee. (previous \noutpatient medication).  \n2. atorvastati",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " as needed for chest pain.  \n8. selegiline HCl 5 mg Capsule Sig: One (1) Capsule PO DAILY \n(Daily).  \n9. acetaminophen {{325}} mg Tablet Sig: Two (2) Tablet PO Q6H (every \n6 hours) for 1 weeks: for hip pain, while fracture is healing.\nDisp:*56 Ta",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "  \n2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY \n(Daily).  \n3. carbidopa-levodopa     mg Tablet Sig: One ({{1}}) Tablet PO \nQID (4 times a day).  \n4. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO once a day.  \n5. dabigatran etexi",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " PO DAILY \n(Daily).  \n3. carbidopa-levodopa     mg Tablet Sig: One (1) Tablet PO \nQID (4 times a day).  \n4. colchicine {{0.6}} mg Tablet Sig: One (1) Tablet PO once a day.  \n5. dabigatran etexilate 150 mg Capsule Sig: One (1) Capsule PO \nBID (2 t",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "  \n2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY \n(Daily).  \n3. carbidopa-levodopa     mg Tablet Sig: One ({{1}}) Tablet PO \nQID (4 times a day).  \n4. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO once a day.  \n5. dabigatran etexi",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "t PO once a day.  \n5. dabigatran etexilate 150 mg Capsule Sig: One (1) Capsule PO \nBID (2 times a day).  \n6. glipizide {{2.5}} mg Tablet Extended Rel 24 hr Sig: One (1) \nTablet Extended Rel 24 hr PO twice a day.  \n7. nitroglycerin 0.4 mg Tablet, ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " hip, it is important that you \nstart taking calcium and vitamin D to maintain your bone health. \nPlease take:\nCalcium {{1250}}mg by mouth three times a day\nVitamin D 50,000units by mouth once a day for 3 days\nVitamin D 800units by mouth once a da",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sule \n-\n1 Capsule(s) by mouth DAILY (Daily)\n \nDischarge Medications:\n1. AMITRYTPTILINE/KETOPROFEN/LIDOCAINE  Sig: One ({{1}}) patch  once \na day as needed for pain: To be applied to left knee. (previous \noutpatient medication).  \n2. atorvastati",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "O DAILY (Daily): Start after 3 days of daily Vitamin D \n50,000unit tablet.\nDisp:*60 Tablet(s)* Refills:*2*\n16. aspirin {{81}} mg Tablet, Chewable Sig: One (1) Tablet, Chewable \nPO DAILY (Daily).  \n17. levofloxacin 750 mg Tablet Sig: One (1) Tabl",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "et PO \nQID (4 times a day).  \n4. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO once a day.  \n5. dabigatran etexilate {{150}} mg Capsule Sig: One (1) Capsule PO \nBID (2 times a day).  \n6. glipizide 2.5 mg Tablet Extended Rel 24 hr Sig: One (1) \n",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "by Other Provider) - 0.6 mg Tablet - 1\nTablet(s) by mouth once a day\nDABIGATRAN ETEXILATE [PRADAXA] - 150 mg Capsule - {{1}} Capsule(s) \nby\nmouth twice a day\nGLIPIZIDE -  (Prescribed by Other Provider) - 5 mg Tablet - 0.5\n(One half) Tablet(s) b",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "s on Admission:\nAMITRYTPTILINE/KETOPROFEN/LIDOCAINE -  (Prescribed by Other\nProvider) - Dosage uncertain\nATORVASTATIN [{{LIPITOR}}] -  (Prescribed by Other Provider) - 40 mg\nTablet - one Tablet(s) by mouth daily\nCARBIDOPA-LEVODOPA -  (Prescribed by O",
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "atch  once \na day as needed for pain: To be applied to left knee. (previous \noutpatient medication).  \n2. atorvastatin {{40}} mg Tablet Sig: One (1) Tablet PO DAILY \n(Daily).  \n3. carbidopa-levodopa     mg Tablet Sig: One (1) Tablet PO \nQID (4 t",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "atrial fibrillation: CHADs2 score 4. Temporarily \nstopped pradaxa for OR, but restarted 48hours after surgery. Was \non {{lovenox}} 40mg Qhs around the time of surgery. Increased \nmetoprolol as well. There were no episodes of RVR.\n.\n#Chronic systolic ",
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "ibrillation: CHADs2 score 4. Temporarily \nstopped pradaxa for OR, but restarted 48hours after surgery. Was \non lovenox {{40}}mg Qhs around the time of surgery. Increased \nmetoprolol as well. There were no episodes of RVR.\n.\n#Chronic systolic CHF",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "without issues. Given the atraumatic fracture it was felt \nthe patient should be treated for osteoporosis and Ca+ and \n{{Vitamin D}} were started for bone health with initiation of \naledronate was deferred to outpatient PCP. Partial vitamin D \nrepletio",
+            "omittedDetails": "Vitamin D"
+        },
+        {
+            "text": " calcium and vitamin D to maintain your bone health. \nPlease take:\nCalcium 1250mg by mouth three times a day\nVitamin D {{50,000}}units by mouth once a day for 3 days\nVitamin D 800units by mouth once a day, starting after taking \nthree days at the in",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "blet PO Q6H (every \n6 hours) for 1 weeks: for hip pain, while fracture is healing.\nDisp:*56 Tablet(s)* Refills:*0*\n10. {{docusate sodium}} 100 mg Capsule Sig: One (1) Capsule PO BID \n(2 times a day): Take while you're taking the oxycodone for \npain.\nDisp:*60",
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "ry \n6 hours) for 1 weeks: for hip pain, while fracture is healing.\nDisp:*56 Tablet(s)* Refills:*0*\n10. docusate sodium {{100}} mg Capsule Sig: One (1) Capsule PO BID \n(2 times a day): Take while you're taking the oxycodone for \npain.\nDisp:*60 Cap",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " a left femoral \nneck fracture per report. Orthopedics was called who recommended \nadmission to medicine. He was given {{morphine}} and dilaudid for \npain.\n.\nOn the floor,  his vitals were: 97.4 121/68 81 18 96% on RA. He \nwas initially reporting sign",
+            "omittedDetails": "Morphine"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "- Atorvastatin\n- Carbidopa-Levodopa\n- Colchicine\n- Dabigatran Etexilate (Pradaxa)\n- Glipizide\n- Metoprolol Succinate\n- {{Nitroglycerin}}\n- Selegiline HCl\n\n**Discharge Medications:**\n- Amitriptyline/Ketoprofen/Lidocaine patch\n- Atorvastatin\n- Carbidopa-Levo"
+        },
+        {
+            "text": "d urine cultures: Probable Enterococcus in urine, blood cultures negative\n- PSA: <0.1\n\n**Medications on Admission:**\n- {{Amitriptyline}}/Ketoprofen/Lidocaine patch\n- Atorvastatin\n- Carbidopa-Levodopa\n- Colchicine\n- Dabigatran Etexilate (Pradaxa)\n- Glipizid"
+        },
+        {
+            "text": "-Levodopa\n- Colchicine\n- Dabigatran Etexilate (Pradaxa)\n- Glipizide\n- Nitroglycerin\n- Selegiline HCl\n- Acetaminophen\n- {{Docusate Sodium\n- Senna}}\n- Oxycodone\n- Calcium Carbonate\n- Vitamin D (initial high dose followed by maintenance dose)\n- Aspirin\n- Levofloxacin\n-"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": " She was monitored on \ntelemetry throughout her hospitalization.  She experienced one \nbrief episode of SVT which self-{{resolved}}.  She continued her \nhome regimen of Verapamil.  \n.\n# Hypothyroidism: She was asymptomatic, and continued her home \nreg",
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "tated, but the presence of a posterior pharyngeal collection and a mass in the left neck suggests advanced disease.\n\n**{{Progression}}:** The patient has a history of breast cancer, which has led to esophageal strictures and tracheal stenosis. The recent"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "ounding the proxial trachea in neck demonstrating mild high \nT2 signal, dark T1 signal and enhancement on postcontrast {{T1}} \nsequences. Again noted there is anterior displacement and mild \nnarrowing of the trachea. Differential diagnosis inclu",
+            "omittedDetails": "T1"
+        },
+        {
+            "text": " therapy s/p multiple \ndilitations, last on    \nBreast Cancer s/p right mastectomy    , s/p chemo/XRT    \nHypertension\n{{Hypothyroidism}}  \nBenign spinal tumor s/p resection    \n\n \nSocial History:\n   \nFamily History:\nDiabetes, lung cancer, and CHF\n\n \nPhysic",
+            "omittedDetails": "Hypothyroidism Unspecified"
+        },
+        {
+            "text": "    radiation therapy s/p multiple \ndilitations, last on    \nBreast Cancer s/p right mastectomy    , s/p chemo/XRT    \n{{Hypertension}}\nHypothyroidism  \nBenign spinal tumor s/p resection    \n\n \nSocial History:\n   \nFamily History:\nDiabetes, lung cancer, an",
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "y to represent a fluid collection, \nperhaps an absces. However, indurated edematous soft tissue \nrelated to surgery or {{infection}} is an alternative. \n2. Post-tracheostomy. \n\nMRI Soft Tissue Neck, with and w/o contrast     \nIMPRESSION:  \n1. Complex h",
+            "omittedDetails": "Infection"
+        },
+        {
+            "text": "tion treatments which then led to \nesophageal strictures. She has received multiple dilations. She \nhas also developed {{vocal cord paralysis}} and tracheal stenosis. \nThis fall she had a trach placed. The plan was to move towards \ndecannulation. However, she did",
+            "omittedDetails": "Paralysis Of Vocal Cords Or Larynx"
+        },
+        {
+            "text": "haryngeal collection\n \nMajor Surgical or Invasive Procedure:\nultrasound guided biopsy of the neck\n \nHistory of Present {{Illness}}:\nMs.     is a     year old woman with a history of breast \ncancer. She received radiation treatments which then led to ",
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "th her oncologist Dr.     for \nfurther evaluation and treatment of this neoplasm. \n.  \n# Superventricular tachycardia ({{SVT}}).  She was monitored on \ntelemetry throughout her hospitalization.  She experienced one \nbrief episode of SVT which sel",
+            "omittedDetails": "Supraventricular Tachycardia"
+        },
+        {
+            "text": " diagnosis of likely recurrent metastatic breast cancer. \n  \n.\n# URI: Prior to this hospitalization she experienced an {{upper \nrespiratory infection}} with symptoms of chest congestion and \ncough.  Her primary care physician started     regimen of \nDoxycycline with a Pr",
+            "omittedDetails": "Acute Upper Respiratory Infection Unspecified"
+        },
+        {
+            "text": "\nDischarge Disposition:\nHome\n \nDischarge Diagnosis:\nPrimary diagnosis:\nMass in left neck\n\nSecondary diagnosis\nTracheal {{stenosis\nEsophageal}} Strictures\nBreast Cancer\nAnxiety\n\n \nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Ale",
+            "omittedDetails": "Esophageal Stenosis"
+        },
+        {
+            "text": "of ENT and with her oncologist Dr.     for \nfurther evaluation and treatment of this neoplasm. \n.  \n# Superventricular {{tachycardia}} (SVT).  She was monitored on \ntelemetry throughout her hospitalization.  She experienced one \nbrief episode of SVT whic",
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "cer. \n  \n.\n# URI: Prior to this hospitalization she experienced an upper \nrespiratory infection with symptoms of chest {{congestion}} and \ncough.  Her primary care physician started     regimen of \nDoxycycline with a Prednisone taper.  We continued this",
+            "omittedDetails": "Congestion"
+        },
+        {
+            "text": "emo/XRT    \nHypertension\nHypothyroidism  \nBenign spinal tumor s/p resection    \n\n \nSocial History:\n   \nFamily History:\n{{Diabetes}}, lung cancer, and CHF\n\n \nPhysical Exam:\nVitals: T:95.7 BP:132/74 P:74 R:20  O2:100RA with humidifier  \nGeneral: Thin, c",
+            "omittedDetails": "Diabetes Mellitus"
+        },
+        {
+            "text": ": Prior to this hospitalization she experienced an upper \nrespiratory infection with symptoms of chest congestion and \n{{cough}}.  Her primary care physician started     regimen of \nDoxycycline with a Prednisone taper.  We continued this regimen \na",
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "mission Date:                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \n{{Allergies}}: \nCompazine\n \nAttending:    .\n \nChief Complaint:\nposterior pharyngeal collection\n \nMajor Surgical or Invasive Procedure",
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "pothyroidism  \nBenign spinal tumor s/p resection    \n\n \nSocial History:\n   \nFamily History:\nDiabetes, lung cancer, and {{CHF}}\n\n \nPhysical Exam:\nVitals: T:95.7 BP:132/74 P:74 R:20  O2:100RA with humidifier  \nGeneral: Thin, cachetic woman. Alert.\n",
+            "omittedDetails": "Congestive Heart Failure"
+        },
+        {
+            "text": "t Medical History:\nEsophageal stricture     radiation therapy s/p multiple \ndilitations, last on    \nBreast Cancer s/p {{right mastectomy}}    , s/p chemo/XRT    \nHypertension\nHypothyroidism  \nBenign spinal tumor s/p resection    \n\n \nSocial History:\n   \nFamil",
+            "omittedDetails": "Mastectomy"
+        },
+        {
+            "text": "the dense \nmass in the left side of neck encasing the left carotid artery.  \n\nSamples were deemed adequate by realtime {{pathology}} assessment.  \nSamples were sent for pathology and microbiological assessment. \n\n \n\n \nBrief Hospital Course:\nMrs.     is",
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "R sequences is \nsuggested for further evaluation.\n\nUS Guided Biopsy of the Neck    \nIMPRESSION: Uncomplicated 18-gauge {{core biopsy}} x 2 of the dense \nmass in the left side of neck encasing the left carotid artery.  \n\nSamples were deemed adequate by re",
+            "omittedDetails": "Core Needle Biopsy"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "al or Invasive Procedure:\nultrasound guided biopsy of the neck\n \nHistory of Present Illness:\nMs.     is a     year old {{woman}} with a history of breast \ncancer. She received radiation treatments which then led to \nesophageal strictures. She has r",
+            "omittedDetails": "Female"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": " suggests disease progression.\n\n**TNM Staging:** Not provided in the note.\n\n**Prescribed Medications:**\n\n* Doxycycline {{100}}mg PO BID\n* Prednisone 30mg PO daily x 2 days, then 20mg x 2 days, then 10mg x 2 days\n* Senna 1 tab PO BID\n* Docusate So"
+        },
+        {
+            "text": "days, then 20mg x 2 days, then 10mg x 2 days\n* Senna 1 tab PO BID\n* Docusate Sodium Liquid 50mg PO BID\n* Levothyroxine {{50}}mcg PO 3xwk and 25mcg PO 4xwk\n* Verapamil 60mg PO daily\n* Citalopram 20mg PO daily\n* Tube feeds Nutren 2.0\n* Discharge m"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "/WEEK \n(   ).  \n6. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO 4X/WEEK \n(   ).  \n7. verapamil 40 mg Tablet Sig: {{1.5}} Tablets PO DAILY (Daily).  \n8. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). \n \n9. doxycycline hyclate ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ":                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \nAllergies: \n{{Compazine}}\n \nAttending:    .\n \nChief Complaint:\nposterior pharyngeal collection\n \nMajor Surgical or Invasive Procedure:\nultrasound",
+            "omittedDetails": "Prochlorperazine Maleate"
+        }
+    ]
+}

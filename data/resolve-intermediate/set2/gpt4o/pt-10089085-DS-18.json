@@ -1,0 +1,130 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "but was complaining of some \nlightheadedness with standing. Likely her blood pressure \nmedications are contributing to {{lightheadedness}}. Patient was \ngiven fluid hydration with improvement in SBP'S. Should \nrediscuss need to downtitrate BP medication as o",
+            "omittedDetails": "Dizziness And Giddiness"
+        },
+        {
+            "text": "mentin \nfor a total of 10 additional days with end date    . \nBronchial washings were pending at time of discharge. \n\n#{{Hypotension}}: Patient had SBP in the     on post procedure day \n2. Patient was nonorthostatic but was complaining of some \nlighthead",
+            "omittedDetails": "Hypotension"
+        },
+        {
+            "text": "d button appears  c/d/i \nwithout signs of infection.\nCV: Tachycardic. Irregular rate. Normal S1, S2.No murmurs, rubs, \n{{gallops}}  \nAbdomen: soft, non-tender, non-distended, bowel sounds present, \nno rebound tenderness or guarding, no organomegaly  ",
+            "omittedDetails": "Gallop"
+        },
+        {
+            "text": "choscopy showed obstructing RMS bronchus s/p tumor \ndebulking and RMS stent. On     she had stent placed in RMS \nand a {{percutaneous tracheostomy}} placed on    . Since \ndischarge patient received radiation therapy and completed 2 \ncycles of chemotherapy. Today patie",
+            "omittedDetails": "Percutaneous Tracheostomy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "lses, no clubbing, cyanosis, or edema\n- **Neuro:** CN grossly intact\n\n**Pertinent Results:**\n- Blood tests showed mild {{anemia}} and normal WBC count.\n- Bronchial washings indicated the presence of polymorphonuclear leukocytes and both gram-negativ"
+        },
+        {
+            "text": "* [Redacted]\n- **Date of Birth:** [Redacted]\n- **Sex:** Female\n- **Service:** Medicine\n- **Attending:** [Redacted]\n- **{{Allergies}}:** Tel [Redacted]\n\n**Chief Complaint:**\n- Lung Cancer\n\n**Major Surgical or Invasive Procedure:**\n- Bronchoscopy with RM"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": " You were admitted for bronchoscopy with stent \nremoval and the tracheostomy was replaced with a tracheal \nbutton. You {{tolerated the procedure well}} and are now ready to \ncontinue your recovery in your nursing home.\n\nPlease take all of your medications as prescribed.\n",
+            "omittedDetails": "Well Tolerated"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "OB \n3. Omeprazole 20 mg PO DAILY \n4. Simvastatin 10 mg PO DAILY \n5. Metoprolol Tartrate 25 mg PO BID \n6. Lorazepam 0.5-{{1}} mg PO Q8H:PRN anxiety \n7. Ipratropium Bromide Neb 1 NEB IH Q6H \n8. Heparin 5000 UNIT SC TID \n9. Docusate Sodium 100 mg ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "*guaifenesin [Mucinex] 1,200 mg 1 tablet(s) by mouth every 12 \nhours Disp #*60 Tablet Refills:*0\n16. Lidocaine Viscous {{2}}% 20 mL PO TID:PRN throat pain \nRX *lidocaine HCl [Lidocaine Viscous] 20 mg/mL Swish your mouth \nwith 20 mL three times ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "l Tartrate 25 mg PO BID \n6. Lorazepam 0.5-1 mg PO Q8H:PRN anxiety \n7. Ipratropium Bromide Neb 1 NEB IH Q6H \n8. Heparin {{5000}} UNIT SC TID \n9. Docusate Sodium 100 mg PO BID \n10. BuPROPion (Sustained Release) 150 mg PO BID \n11. Diltiazem Extended-",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " three times daily Disp #*1 Bottle Refills:*0\n17. OxycoDONE (Immediate Release)  2.5 mg PO Q3H:PRN pain \nRX *oxycodone {{5}} mg 0.5 (One half) tablet(s) by mouth every 3 \nhours Disp #*40 Tablet Refills:*0\n\n \nDischarge Disposition:\nExtended Care",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "d \ndown as heart rhythm/rate tolerates.\n\n \nMedications on Admission:\n1. Acetaminophen 650 mg PO Q6H pain \n2. Albuterol {{0.08}}3% Neb Soln 1 NEB IH Q6H:PRN SOB \n3. Omeprazole 20 mg PO DAILY \n4. Simvastatin 10 mg PO DAILY \n5. Metoprolol Tartrate 25",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ide Neb 1 NEB IH Q6H \n8. Heparin 5000 UNIT SC TID \n9. Docusate Sodium 100 mg PO BID \n10. BuPROPion (Sustained Release) {{150}} mg PO BID \n11. Diltiazem Extended-Release 300 mg PO DAILY \n12. Aspirin 81 mg PO DAILY \n13. Aluminum-Magnesium Hydrox.-S",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "TID \n9. Docusate Sodium 100 mg PO BID \n10. BuPROPion (Sustained Release) 150 mg PO BID \n11. Diltiazem Extended-Release {{300}} mg PO DAILY \n12. Aspirin 81 mg PO DAILY \n13. Aluminum-Magnesium Hydrox.-Simethicone     mL PO QID:PRN \nupset stomach \n1",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ns on Admission:\n1. Acetaminophen 650 mg PO Q6H pain \n2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB \n3. Omeprazole {{20}} mg PO DAILY \n4. Simvastatin 10 mg PO DAILY \n5. Metoprolol Tartrate 25 mg PO BID \n6. Lorazepam 0.5-1 mg PO Q8H:PRN anxie",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "L PO QID:PRN \nupset stomach \n14. Amoxicillin-Clavulanic Acid     mg PO Q12H \n \nDischarge Medications:\n1. Acetaminophen {{650}} mg PO Q6H pain \n2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB \n3. Omeprazole 20 mg PO DAILY \n4. Simvastatin 10 mg P",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "# COPD- Patient was continued on nebulizers while in house.\n\n#  HLD: Patient was continued on home dose of simvastatin {{1}}0\n \n#  HTN:Continued cardizem and metoprolol. \n\n#Depression: Continued Buproprion\n \n#Anxiety: Continued ativan prn anxie",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "y mouth twice daily Disp #*14 Tablet Refills:*0\n15. Guaifenesin ER 1200 mg PO Q12H \nRX *guaifenesin [Mucinex] 1,200 mg {{1}} tablet(s) by mouth every 12 \nhours Disp #*60 Tablet Refills:*0\n16. Lidocaine Viscous 2% 20 mL PO TID:PRN throat pain \nR",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "in \n2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB \n3. Omeprazole 20 mg PO DAILY \n4. Simvastatin 10 mg PO DAILY \n5. {{Metoprolol Tartrate}} 25 mg PO BID \n6. Lorazepam 0.5-1 mg PO Q8H:PRN anxiety \n7. Ipratropium Bromide Neb 1 NEB IH Q6H \n8. Heparin 5000 UNIT S",
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "83% Neb Soln 1 NEB IH Q6H:PRN SOB \n3. Omeprazole 20 mg PO DAILY \n4. Simvastatin 10 mg PO DAILY \n5. Metoprolol Tartrate {{25}} mg PO BID \n6. Lorazepam 0.5-1 mg PO Q8H:PRN anxiety \n7. Ipratropium Bromide Neb 1 NEB IH Q6H \n8. Heparin 5000 UNIT SC T",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "AILY \n4. Simvastatin 10 mg PO DAILY \n5. Metoprolol Tartrate 25 mg PO BID \n6. Lorazepam 0.5-1 mg PO Q8H:PRN anxiety \n7. {{Ipratropium Bromide}} Neb 1 NEB IH Q6H \n8. Heparin 5000 UNIT SC TID \n9. Docusate Sodium 100 mg PO BID \n10. BuPROPion (Sustained Release) 150 ",
+            "omittedDetails": "Ipratropium Bromide"
+        },
+        {
+            "text": "mg PO DAILY \n5. Metoprolol Tartrate 25 mg PO BID \n6. Lorazepam 0.5-1 mg PO Q8H:PRN anxiety \n7. Ipratropium Bromide Neb {{1}} NEB IH Q6H \n8. Heparin 5000 UNIT SC TID \n9. Docusate Sodium 100 mg PO BID \n10. BuPROPion (Sustained Release) 150 mg PO ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ained Release) 150 mg PO BID \n11. Diltiazem Extended-Release 300 mg PO DAILY \n12. Aspirin 81 mg PO DAILY \n13. Aluminum-{{Magnesium}} Hydrox.-Simethicone     mL PO QID:PRN \nupset stomach \n14. Amoxicillin-Clavulanic Acid     mg PO Q12H \n \nDischarge Medic",
+            "omittedDetails": "Magnesium"
+        },
+        {
+            "text": "um 100 mg PO BID \n10. BuPROPion (Sustained Release) 150 mg PO BID \n11. Diltiazem Extended-Release 300 mg PO DAILY \n12. {{Aspirin}} 81 mg PO DAILY \n13. Aluminum-Magnesium Hydrox.-Simethicone     mL PO QID:PRN \nupset stomach \n14. Amoxicillin-Clavulanic",
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "g PO BID \n10. BuPROPion (Sustained Release) 150 mg PO BID \n11. Diltiazem Extended-Release 300 mg PO DAILY \n12. Aspirin {{81}} mg PO DAILY \n13. Aluminum-Magnesium Hydrox.-Simethicone     mL PO QID:PRN \nupset stomach \n14. Amoxicillin-Clavulanic Ac",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ID \n6. Lorazepam 0.5-1 mg PO Q8H:PRN anxiety \n7. Ipratropium Bromide Neb 1 NEB IH Q6H \n8. Heparin 5000 UNIT SC TID \n9. {{Docusate Sodium}} 100 mg PO BID \n10. BuPROPion (Sustained Release) 150 mg PO BID \n11. Diltiazem Extended-Release 300 mg PO DAILY \n12. Asp",
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": " 0.5-1 mg PO Q8H:PRN anxiety \n7. Ipratropium Bromide Neb 1 NEB IH Q6H \n8. Heparin 5000 UNIT SC TID \n9. Docusate Sodium {{100}} mg PO BID \n10. BuPROPion (Sustained Release) 150 mg PO BID \n11. Diltiazem Extended-Release 300 mg PO DAILY \n12. Aspirin",
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "apy and pain control. She experienced atrial flutter, which resolved with IV Metoprolol. She was treated with Mucinex, {{3}}% NS nebulizer, albuterol, and ipratropium nebulizers. Pain was managed with oxycodone, and dysphagia was treated with v"
+        },
+        {
+            "text": "e and gram-positive rods.\n- Respiratory culture revealed Haemophilus influenzae, beta-lactamase positive, resistant to {{ampicillin}}.\n- No acid-fast bacilli seen on smear.\n\n**Brief Hospital Course:**\n- The patient was admitted for a bronchoscopy with R"
+        },
+        {
+            "text": "meprazole, simvastatin, metoprolol, lorazepam, ipratropium, heparin, docusate, bupropion, diltiazem, aspirin, aluminum-{{magnesium hydroxide}}-simethicone, amoxicillin-clavulanic acid, guaifenesin, lidocaine viscous, oxycodone.\n\n**Discharge Disposition:**\n- Exte"
+        },
+        {
+            "text": "ion and Discharge:**\n- Acetaminophen, albuterol, omeprazole, simvastatin, metoprolol, lorazepam, ipratropium, heparin, {{docusate}}, bupropion, diltiazem, aspirin, aluminum-magnesium hydroxide-simethicone, amoxicillin-clavulanic acid, guaifenesin, lid"
+        }
+    ]
+}

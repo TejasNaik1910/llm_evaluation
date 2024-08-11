@@ -1,0 +1,192 @@
+{
+    "Specific to General Patient Information": [
+        {
+            "text": "            Unit No:      \n \nAdmission Date:                   Discharge Date:      \n \nDate of Birth:                  {{Sex:   F}}\n \nService: MEDICINE\n \nAllergies: \nDemerol\n \nAttending:    .\n \nChief Complaint:\nAbdominal Pain\n \nMajor Surgical or Invas",
+            "omittedDetails": "Female"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "ief. Hospice \ncare will continue to titrate her pain regimen as her pain is \nexpected to continue given her cancer.\n\n# {{Constipation}}: \nShe was placed on a bowel regimen. She was moving her bowels but \nas her pain regimen is titrated this may need to be",
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "scharge Disposition:\nHome With Service\n \nFacility:\n   \n \nDischarge Diagnosis:\nBile Duct Obstruction\nCholangiocarcinoma\n{{Acute Renal Failure}}\nAtrial fibrillation\n\n \nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and intera",
+            "omittedDetails": "Acute Kidney Failure"
+        },
+        {
+            "text": "\n \nChief Complaint:\nAbdominal Pain\n \nMajor Surgical or Invasive Procedure:\nERCP x2\nPTBD Placement\n \nHistory of Present {{Illness}}:\n    y/o F w/ PMHx afib on coumadin, nonresectable \ncholangiocarcinoma, transferred here from     due to \nabdominal pai",
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "icterus\nNo apparent distress\nSoft spoken\nabdomen mildly distended, soft, epigastic tenderness, frequent \nbelching\nWWP, {{2+ edema}} to waste\n \nPertinent Results:\n    11:40PM BLOOD WBC-8.3 RBC-3.37* Hgb-11.2* Hct-33.1* \nMCV-98# MCH-33.1* MCHC-33.8 RDW-",
+            "omittedDetails": "Moderate Pitting Edema"
+        },
+        {
+            "text": "liary stent. \n\nCholangiogram: FINDINGS: 1. Transabdominal ultrasound showing \ndilated bile ducts and a small amount of {{perihepatic ascites}}. 2. \n Cholangiogram showing narrowing inside the central opening of \nthe left hepatic duct stent. 3.  Normal flow of co",
+            "omittedDetails": "Other Ascites"
+        },
+        {
+            "text": "e related to poor nutrition and low oncotic \npressure. Diuresis was attempted but resulted in acute renal \nfailure.\n\n# {{Leukocytosis}}:\nNo clear evidence of infection. She received an empiric course \nof unasyn. After discontinuation there was no change i",
+            "omittedDetails": "Elevated White Blood Cell Count"
+        },
+        {
+            "text": "s made CMO, warfarin was \ndiscontinued. She was continued on digoxin for rate control as \nshe feels uncomfortable with {{tachycardia}}.\n\n# Malnutrition:\nShe has low albumin and difficulty eating significant amounts of \nfood. She was supplemented with ens",
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "es:\n- hospice care - home services\n- pain control\n- consider home    \n- consider empiric ciprofloxacin for evidence of {{infection}} for \npatient comfort -- if necessary -- for presumed cholangitis - \nshe is at high risk of developing cholangitis given",
+            "omittedDetails": "Infection"
+        },
+        {
+            "text": "arin was \ndiscontinued. She was continued on digoxin for rate control as \nshe feels uncomfortable with tachycardia.\n\n# {{Malnutrition}}:\nShe has low albumin and difficulty eating significant amounts of \nfood. She was supplemented with ensure clear. No res",
+            "omittedDetails": "Malnutrition E40-E46"
+        },
+        {
+            "text": " jaundice\nHEENT: scleral icterus\nGEN: nad\nCHEST: clear\nCV: irreg irreg no m/r/g\nABD: bowel sounds present, epigastrium {{tender}}\nEXT: no e/c/c\nNEURO: alert, follows commands\n\nDischarge exam:\nPain: 6 (but she notes this is tolerable)\nJaundice, scler",
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "t for the patient. This management will be deferred to \nhospice care. It was discussed with the patient and family.\n\n# {{Anemia}}: \nLikely of nutritional and chronic disease. Trended as inpatient. \nGiven comfort measures no treatment necessary.\n\n# P",
+            "omittedDetails": "Unspecified Anemia"
+        },
+        {
+            "text": "mission Date:                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \n{{Allergies}}: \nDemerol\n \nAttending:    .\n \nChief Complaint:\nAbdominal Pain\n \nMajor Surgical or Invasive Procedure:\nERCP x2\nPTBD Plac",
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "DONE (Immediate Release)  5 mg PO Q6H:PRN pain \n4. Senna 1 TAB PO BID:PRN constipation \n5. Ondansetron 4 mg PO Q8H:PRN {{nausea}} \nRX *ondansetron [ZOFRAN ODT] 4 mg 1 tablet,disintegrating(s) by \nmouth every eight (8) hours Disp #*30 Tablet Refills:",
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": " of tumor burden at the \ndistal opening of the stents. Successful biliary cannulation \nwithin the right and left metal {{biliary stents}}. Cannulation of \nthe common bile duct metal stent was not performed. The wire and \nextraction balloon were first advanc",
+            "omittedDetails": "Placement Of Stent(S) Into A Bile Duct, Percutaneous, Including Diagnostic Cholangiography, Imaging Guidance (Eg, Fluoroscopy And/Or Ultrasound), Balloon Dilation, Catheter Exchange(S) And Catheter Removal(S) When Performed, And All Associated Radiological Supervision And Interpretation, Each Stent; New Access, With Placement Of Separate Biliary Drainage Catheter (Eg, External Or Internal-External)"
+        },
+        {
+            "text": "resectable \ncholangiocarcinoma, transferred here from     due to \nabdominal pain, jaundice, elevated bili/alkphos, and {{CT}} showing \nstent occlusion. Reports that on    , felt jaundiced and \noverall unwell. Went to see PCP yesterday and was se",
+            "omittedDetails": "Computed Tomography"
+        },
+        {
+            "text": "iliary drain. 2.  Balloon plasty of \nthe interstices of the left metallic biliary stent. \n\nCholangiogram: FINDINGS: 1. {{Transabdominal ultrasound}} showing \ndilated bile ducts and a small amount of perihepatic ascites. 2. \n Cholangiogram showing narrowing inside the ",
+            "omittedDetails": "Transabdominal Ultrasound"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "carcinoma, with evidence of tumor burden and progression.\n\n**Chief Complaint:** Abdominal pain, jaundice, and elevated {{liver enzymes}}.\n\n**Medical History:** The patient has a history of hypertension, atrial fibrillation, mitral valve prolapse, osteoarth"
+        },
+        {
+            "text": "ice, and elevated liver enzymes.\n\n**Medical History:** The patient has a history of hypertension, atrial fibrillation, {{mitral valve prolapse}}, osteoarthritis of the right hip, and cholangiocarcinoma. She has undergone previous treatments, including metal stent "
+        },
+        {
+            "text": "CP (endoscopic retrograde cholangiopancreatography), and cholangiogram.\n* Procedures: ERCP with stent placement, PTBD ({{percutaneous transhepatic biliary drainage}}) placement, and balloon dilation of the left hepatic duct stent.\n\n**Medications:**\n\n* On admission: Cyanocobalamin, dig"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "n Admission:\nThe Preadmission Medication list is accurate and complete.\n1. Cyanocobalamin 100 mcg PO DAILY \n2. Digoxin {{0.125}} mg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Docusate Sodium 100 mg PO BID \n5. Senna 1 TAB PO BID:PRN constipation \n6. ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "onstipation \n6. Warfarin 3 mg PO DAILY16 \n7. Metoprolol Succinate XL 25 mg PO DAILY \n8. OxycoDONE (Immediate Release)  {{5}} mg PO Q6H:PRN pain \n\n \nDischarge Medications:\n1. Digoxin 0.125 mg PO DAILY \n2. Docusate Sodium 100 mg PO BID \n3. OxycoD",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ete.\n1. Cyanocobalamin 100 mcg PO DAILY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Docusate Sodium {{100}} mg PO BID \n5. Senna 1 TAB PO BID:PRN constipation \n6. Warfarin 3 mg PO DAILY16 \n7. Metoprolol Succinate XL 25 mg PO DAI",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "iary \nanatomy\n \nMedications on Admission:\nThe Preadmission Medication list is accurate and complete.\n1. Cyanocobalamin {{100}} mcg PO DAILY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Docusate Sodium 100 mg PO BID \n5. Senna 1 T",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "axative] 5 mg 2 tablet(s) by mouth daily Disp \n#*60 Tablet Refills:*0\n8. Morphine Sulfate (Concentrated Oral Soln) 2.5-{{5}} mg PO Q2H:PRN \npain \n9. Pantoprazole 40 mg PO Q24H \nRX *pantoprazole 40 mg 1 tablet,delayed release (   ) by \nmouth dai",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "g PO QID:PRN gas pain \nRX *simethicone 80 mg 1 tab by mouth every 6 hours Disp #*120 \nTablet Refills:*0\n11. Ranitidine {{150}} mg PO BID \nRX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice per day \nDisp #*60 Tablet Refills:*0\n\n \nDischarge Dispo",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "00 mcg PO DAILY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Acid 1 mg PO DAILY \n4. Docusate Sodium 100 mg PO BID \n5. Senna {{1}} TAB PO BID:PRN constipation \n6. Warfarin 3 mg PO DAILY16 \n7. Metoprolol Succinate XL 25 mg PO DAILY \n8. OxycoDONE (Imme",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " Sodium 100 mg PO BID \n5. Senna 1 TAB PO BID:PRN constipation \n6. Warfarin 3 mg PO DAILY16 \n7. Metoprolol Succinate XL {{25}} mg PO DAILY \n8. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain \n\n \nDischarge Medications:\n1. Digoxin 0.125 mg PO D",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ication list is accurate and complete.\n1. Cyanocobalamin 100 mcg PO DAILY \n2. Digoxin 0.125 mg PO DAILY \n3. FoLIC Acid {{1}} mg PO DAILY \n4. Docusate Sodium 100 mg PO BID \n5. Senna 1 TAB PO BID:PRN constipation \n6. Warfarin 3 mg PO DAILY16 \n7. ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ". Morphine Sulfate (Concentrated Oral Soln) 2.5-5 mg PO Q2H:PRN \npain \n9. Pantoprazole 40 mg PO Q24H \nRX *pantoprazole {{40}} mg 1 tablet,delayed release (   ) by \nmouth daily Disp #*30 Tablet Refills:*0\n10. Simethicone 40-80 mg PO QID:PRN gas p",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "hine Sulfate (Concentrated Oral Soln) 2.5-5 mg PO Q2H:PRN \npain \n9. Pantoprazole 40 mg PO Q24H \nRX *pantoprazole 40 mg {{1}} tablet,delayed release (   ) by \nmouth daily Disp #*30 Tablet Refills:*0\n10. Simethicone 40-80 mg PO QID:PRN gas pain \n",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "elease (   ) by \nmouth daily Disp #*30 Tablet Refills:*0\n10. Simethicone 40-80 mg PO QID:PRN gas pain \nRX *simethicone {{80}} mg 1 tab by mouth every 6 hours Disp #*120 \nTablet Refills:*0\n11. Ranitidine 150 mg PO BID \nRX *ranitidine HCl 150 mg 1",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " (   ) by \nmouth daily Disp #*30 Tablet Refills:*0\n10. Simethicone 40-80 mg PO QID:PRN gas pain \nRX *simethicone 80 mg {{1}} tab by mouth every 6 hours Disp #*120 \nTablet Refills:*0\n11. Ranitidine 150 mg PO BID \nRX *ranitidine HCl 150 mg 1 tabl",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "PO BID \n3. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain \n4. Senna 1 TAB PO BID:PRN constipation \n5. Ondansetron {{4}} mg PO Q8H:PRN nausea \nRX *ondansetron [ZOFRAN ODT] 4 mg 1 tablet,disintegrating(s) by \nmouth every eight (8) hours Disp",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "pain \n4. Senna 1 TAB PO BID:PRN constipation \n5. Ondansetron 4 mg PO Q8H:PRN nausea \nRX *ondansetron [ZOFRAN ODT] 4 mg {{1}} tablet,disintegrating(s) by \nmouth every eight (8) hours Disp #*30 Tablet Refills:*0\n6. Polyethylene Glycol 17 g PO DAI",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "AILY \nRX *polyethylene glycol 3350 [Miralax] 17 gram 1 packet by mouth \nDaily Disp #*30 Packet Refills:*0\n7. Bisacodyl {{10}} mg PO DAILY \nRX *bisacodyl [Laxative] 5 mg 2 tablet(s) by mouth daily Disp \n#*60 Tablet Refills:*0\n8. Morphine Sulfate ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "7 gram 1 packet by mouth \nDaily Disp #*30 Packet Refills:*0\n7. Bisacodyl 10 mg PO DAILY \nRX *bisacodyl [Laxative] 5 mg {{2}} tablet(s) by mouth daily Disp \n#*60 Tablet Refills:*0\n8. Morphine Sulfate (Concentrated Oral Soln) 2.5-5 mg PO Q2H:PRN ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ed more po vitamin K\n\nOn arrival to floor pt reports moderate abdominal pain, no \nnausea. Denies bleeding or bruising. {{Coumadin}} was increased by \n1mg at last INR check 1 week ago. No other med changes. Eating \nwell until yesterday.\n\nROS: +as above",
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "LY \n3. FoLIC Acid 1 mg PO DAILY \n4. Docusate Sodium 100 mg PO BID \n5. Senna 1 TAB PO BID:PRN constipation \n6. Warfarin {{3}} mg PO DAILY16 \n7. Metoprolol Succinate XL 25 mg PO DAILY \n8. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain \n\n \nDi",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ventions were \ndone with clearance of the stent, however, bilirubin failed to \nimprove. She was empirically started on {{unasyn}}. She completed a \ncourse of unasyn without improvement in LFTs or WBC. After \ndiscussion with ERCP and    , they felt t",
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "that on    , felt jaundiced and \noverall unwell. Went to see PCP yesterday and was sent to     \n    where she received {{zosyn}} and po vitamin K prior \nto transfer. \nIn BID ED pt received more po vitamin K\n\nOn arrival to floor pt reports moderate ",
+            "omittedDetails": "Piperacillin-Tazobactam"
+        },
+        {
+            "text": "to be adjusted as \nwell.\n\n# Acute renal failure:\nThis was thought to be due to pre-renal causes. She was treated \nwith {{IV fluids}} with improvement in kidney function.\n\n# Atrial fibrillation:\n# Supratherapeutic INR:\nThis was likely a combination of n",
+            "omittedDetails": "IV Fluid"
+        },
+        {
+            "text": "isintegrating(s) by \nmouth every eight (8) hours Disp #*30 Tablet Refills:*0\n6. Polyethylene Glycol 17 g PO DAILY \nRX *{{polyethylene glycol 3350}} [Miralax] 17 gram 1 packet by mouth \nDaily Disp #*30 Packet Refills:*0\n7. Bisacodyl 10 mg PO DAILY \nRX *bisacodyl [Laxa",
+            "omittedDetails": "Polyethylene Glycol 3350"
+        },
+        {
+            "text": "ls of care.\n\nTransitional issues:\n- hospice care - home services\n- pain control\n- consider home    \n- consider empiric {{ciprofloxacin}} for evidence of infection for \npatient comfort -- if necessary -- for presumed cholangitis - \nshe is at high risk of de",
+            "omittedDetails": "Ciprofloxacin"
+        },
+        {
+            "text": ":                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \nAllergies: \n{{Demerol}}\n \nAttending:    .\n \nChief Complaint:\nAbdominal Pain\n \nMajor Surgical or Invasive Procedure:\nERCP x2\nPTBD Placement\n \nHi",
+            "omittedDetails": "Meperidine Hydrochloride"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "a, warfarin, metoprolol succinate XL, and oxycodone.\n* At discharge: Digoxin, docusate sodium, oxycodone, ondansetron, {{polyethylene glycol}}, bisacodyl, morphine sulfate, pantoprazole, simethicone, and ranitidine.\n\n**Treatment and Progression:**\n\n* The patient"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "ts \nin severe left lung atelectasis. Mild mediastinal and left hilar \nadenopathy has increased. Right lung nodules are {{stable}}. Severe \nemphysema is noted\n- In the ED, Ketorolac 15 mg was given. \n-IP was consulted for pleurex vs thoracentesis. \n\n",
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": " 9.7 (at baseline), plt 277\nINR 1.1 PTT 30.5\n\n- Imaging: CT Moderate sized partly loculated left pleural \neffusion has {{increased in size}} compared to     and results \nin severe left lung atelectasis. Mild mediastinal and left hilar \nadenopathy has increased",
+            "omittedDetails": "Bad Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "t\n* Admitted with right-sided recurrent malignant pleural effusion\n* History of metastatic non-small cell lung cancer ({{NSCLC}})\n* Previous thoracentesis 4 times in the past 3 months\n\n**Admission Findings:**\n\n* Dyspnea worsening with exertion for "
+        },
+        {
+            "text": "amount and color\n* Stop draining for pain, chest tightness, or cough\n* Keep a daily log of drainage amount and color\n* {{Remove sutures}} in 7-10 days\n\n**Medications:**\n\n* Discharged on: Aspirin 81 mg PO DAILY, Atorvastatin 40 mg PO QPM, FoLIC Acid 1 mg PO "
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "Here is a summary of the clinical note in 500 words or less:\n\n**Patient Information:**\n\n* {{65}}-year-old female patient\n* Admitted with right-sided recurrent malignant pleural effusion\n* History of metastatic non-sm"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "M:\n===========================\nVS - T 97.7, BP 119/72, P 81, RR 18, O2sat 93% on RA \nGeneral: alert and awake, in mild {{distress}} due to pain  \nHEENT: MMM, EOMI  \nNeck: no JVD, no LAD  \nCV: rrr, no m/r/g  \nLungs: diminished breath sounds at left lun",
+            "omittedDetails": "Distress"
+        },
+        {
+            "text": "current malignant pleural effusion\n \nMajor Surgical or Invasive Procedure:\nPleurex placement    \n\n \nHistory of Present {{Illness}}:\n    with PMH notable for metastatic lung cancer cycle 4 of \nKeytruda (care at     and known recurrent left sided \npleu",
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": " to the floor, patient reports she feels short of \nbreath but otherwise feels well.  \n\n \nPast Medical History:\nType II {{DM}}- Managed with diet\nHx of MI     yrs ago medical managed on meto/ASA/losartan\n \nSocial History:\n   \nFamily History:\nNon-",
+            "omittedDetails": "Diabetes Mellitus"
+        },
+        {
+            "text": "n has increased in size compared to     and results \nin severe left lung atelectasis. Mild mediastinal and left hilar \n{{adenopathy}} has increased. Right lung nodules are stable. Severe \nemphysema is noted\n- In the ED, Ketorolac 15 mg was given. \n-IP w",
+            "omittedDetails": "Enlarged Lymph Nodes, Unspecified"
+        },
+        {
+            "text": "LC complicated by \nrecurrent left sided effusions with quick reaccumulation after \nthe last thoracentesis on     . \n\n# {{Hypoxemia}} \n# Left sided pleural effusion\n# Emphysema\nChronic, locaulated left sided likely malignant pleural effusion \nin the set",
+            "omittedDetails": "HYPOXEMIA"
+        },
+        {
+            "text": "fusion.\n \nBrief Hospital Course:\n    yo female with a history of metastatic NSCLC complicated by \nrecurrent left sided {{effusions}} with quick reaccumulation after \nthe last thoracentesis on     . \n\n# Hypoxemia \n# Left sided pleural effusion\n# Emphyse",
+            "omittedDetails": "Effusion"
+        },
+        {
+            "text": " supple, JVD not elevated \nCARDIAC - RRR no mrg normal S1/S2 \nLUNGS - decreased lung sounds on left compared to right; {{wheezes}} \nthroughout \nABDOMEN - soft NT ND, normoactive bowel sounds \nEXTREMITIES - No perpherial edema, warm, well perfused, 2+",
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "mission Date:                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \n{{Allergies}}: \nSulfa (Sulfonamide Antibiotics)\n \nAttending:    .\n \nChief Complaint:\nRight sided recurrent malignant pleural effusion",
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": ", BP 96/57, HR 80, RR 21, O2sat 98% \nGENERAL A&O3X well appearing\nHEENT - MMM, oropharynx clear, PEERL \nNECK - supple, {{JVD}} not elevated \nCARDIAC - RRR no mrg normal S1/S2 \nLUNGS - decreased lung sounds on left compared to right; wheezes \nthro",
+            "omittedDetails": "Jugular Vein Distension"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": " PO DAILY \n7. Magnesium Oxide 400 mg PO DAILY \n\n \nDischarge Medications:\n1.  Aspirin 81 mg PO DAILY  \n2.  Atorvastatin {{40}} mg PO QPM  \n3.  FoLIC Acid 1 mg PO DAILY  \n4.  Losartan Potassium 50 mg PO DAILY  \n5.  Magnesium Oxide 400 mg PO DAILY ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "dure:\nPleurex placement    \n\n \nHistory of Present Illness:\n    with PMH notable for metastatic lung cancer cycle 4 of \n{{Keytruda}} (care at     and known recurrent left sided \npleural effusion s/p ~4X thoracentses in the past 3 months who \npresented ",
+            "omittedDetails": "Pembrolizumab Regimen"
+        },
+        {
+            "text": " feels well.  \n\n \nPast Medical History:\nType II DM- Managed with diet\nHx of MI     yrs ago medical managed on meto/ASA/{{losartan}}\n \nSocial History:\n   \nFamily History:\nNon-contributory\n \nPhysical Exam:\nADMISSION PHYSICAL EXAM:\n======================",
+            "omittedDetails": "Losartan"
+        },
+        {
+            "text": " Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \nAllergies: \nSulfa (Sulfonamide {{Antibiotics}})\n \nAttending:    .\n \nChief Complaint:\nRight sided recurrent malignant pleural effusion\n \nMajor Surgical or Invasive Pro",
+            "omittedDetails": "Antibiotic"
+        },
+        {
+            "text": "             Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \nAllergies: \nSulfa ({{Sulfonamide}} Antibiotics)\n \nAttending:    .\n \nChief Complaint:\nRight sided recurrent malignant pleural effusion\n \nMajor Surgical or ",
+            "omittedDetails": "Sulfonamide Anti-Infective Agent"
+        },
+        {
+            "text": " mg PO DAILY \n2. FoLIC Acid 1 mg PO DAILY \n3. Atorvastatin 40 mg PO QPM \n4. Metoprolol Succinate XL 50 mg PO DAILY \n5. {{amLODIPine}} 5 mg PO DAILY \n6. Aspirin 81 mg PO DAILY \n7. Magnesium Oxide 400 mg PO DAILY \n\n \nDischarge Medications:\n1.  Aspirin 81 ",
+            "omittedDetails": "Amlodipine"
+        },
+        {
+            "text": "Y \n2. FoLIC Acid 1 mg PO DAILY \n3. Atorvastatin 40 mg PO QPM \n4. Metoprolol Succinate XL 50 mg PO DAILY \n5. amLODIPine {{5}} mg PO DAILY \n6. Aspirin 81 mg PO DAILY \n7. Magnesium Oxide 400 mg PO DAILY \n\n \nDischarge Medications:\n1.  Aspirin 81 mg",
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "sutures in 7-10 days\n\n**Medications:**\n\n* Discharged on: Aspirin 81 mg PO DAILY, Atorvastatin 40 mg PO QPM, FoLIC Acid {{1}} mg PO DAILY, Losartan Potassium 50 mg PO DAILY, Magnesium Oxide 400 mg PO DAILY, Metoprolol Succinate XL 50 mg PO DAILY"
+        },
+        {
+            "text": "s:**\n\n* Discharged on: Aspirin 81 mg PO DAILY, Atorvastatin 40 mg PO QPM, FoLIC Acid 1 mg PO DAILY, Losartan Potassium {{50}} mg PO DAILY, Magnesium Oxide 400 mg PO DAILY, Metoprolol Succinate XL 50 mg PO DAILY"
+        },
+        {
+            "text": "1 mg PO DAILY, Atorvastatin 40 mg PO QPM, FoLIC Acid 1 mg PO DAILY, Losartan Potassium 50 mg PO DAILY, Magnesium Oxide {{400}} mg PO DAILY, Metoprolol Succinate XL 50 mg PO DAILY"
+        },
+        {
+            "text": "mount and color\n* Remove sutures in 7-10 days\n\n**Medications:**\n\n* Discharged on: Aspirin 81 mg PO DAILY, Atorvastatin {{40}} mg PO QPM, FoLIC Acid 1 mg PO DAILY, Losartan Potassium 50 mg PO DAILY, Magnesium Oxide 400 mg PO DAILY, Metoprolol Suc"
+        }
+    ]
+}

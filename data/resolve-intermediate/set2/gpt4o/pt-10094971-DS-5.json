@@ -1,0 +1,198 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "some RVR with 3:1 block (HRs 120'S).  \nHe was started on low dose metoprolol (in place of his home \natenolol) which he {{tolerated well}} and remained rate-controlled.\n.\n# Anemia: Hct was 22 on admission and he was given 2 units of \nPRBCs over the course of",
+            "omittedDetails": "Well Tolerated"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "s and pamidronate.\n- **Renal Cell Carcinoma:** No systemic chemotherapy due to low disease burden. Restaging CT showed {{disease progression}}. Transitioned to hospice care.\n- **UTI:** Completed ciprofloxacin course, received cefepime, urine culture negative.\n- "
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Procedure:**\n- Wound vac placement\n\n**History of Present Illness:**\n- The patient is an elderly male with a history of {{metastatic renal cell carcinoma}} (RCC) to the brain, hypertension (HTN), hypercholesterolemia (HL), and chronic obstructive pulmonary disease (COPD). He"
+        },
+        {
+            "text": "th a history of metastatic renal cell carcinoma (RCC) to the brain, hypertension (HTN), hypercholesterolemia (HL), and {{chronic obstructive pulmonary disease (COPD)}}. He presented with confusion after being discharged from a rehabilitation facility where he stayed for three months fol"
+        },
+        {
+            "text": "nd treated with IV cefepime. On this admission, he was found to be confused, with a positive urine analysis indicating {{infection}}, and was started on IV ceftriaxone.\n\n**Past Medical History:**\n- **Oncologic History:** Renal cell carcinoma with multi"
+        },
+        {
+            "text": "ph nodes: No cervical, supraclavicular, or axillary LAD\n- Cardiovascular: Irregularly irregular rhythm, II/VI systolic {{murmur}} at apex\n- Respiratory: Good air movement, no rhonchi or wheezing\n- Abdomen: Soft, slightly full, non-tender, positive b"
+        },
+        {
+            "text": "lene glycol, metoprolol, haloperidol.\n\n**Discharge Disposition:**\n- Extended Care Facility\n\n**Discharge Diagnosis:**\n- {{Acute encephalopathy}}, hypotension due to dehydration, urinary tract infection, hypercalcemia, metastatic renal cell carcinoma to brain, atri"
+        },
+        {
+            "text": "thy, hypotension due to dehydration, urinary tract infection, hypercalcemia, metastatic renal cell carcinoma to brain, {{atrial flutter}}, sacral decubitus ulcer.\n\n**Discharge Condition:**\n- Mental Status: Confused\n- Level of Consciousness: Alert and intera"
+        },
+        {
+            "text": "ransitioned to hospice care.\n- **UTI:** Completed ciprofloxacin course, received cefepime, urine culture negative.\n- **{{Pressure Ulcers}}:** Managed with wound vac and pain control.\n- **Atrial Flutter:** Managed with metoprolol.\n- **Anemia:** Treated with b"
+        },
+        {
+            "text": " intact, limited exam due to confusion\n\n**Pertinent Results:**\n- **Laboratory Findings:** Elevated WBC, hypercalcemia, {{anemia}}, elevated lactate\n- **Imaging:**\n  - CT head: No new brain metastases, stable vasogenic edema\n  - CT pelvis: Sacral sof"
+        },
+        {
+            "text": ": Sacral soft tissue changes, possible cystitis\n  - CT torso: Enlarging right renal mass, new pulmonary nodules, small {{pleural effusions}}, stable adrenal and renal lesions\n  - MRI Brain: No acute abnormalities or disease progression\n\n**Brief Hospital Course"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "ammatory block.\n.\n# RUE swelling: Ultrasound was negative for DVT and his edema \nbecame more symmetric consistent with {{anasarca}}.\n.\n# COPD: Continued on home spiriva and albuterol.\n.\n# HL: Discontinued home atorvastatin given his goals of care.\n.\n#",
+            "omittedDetails": "Generalized Edema"
+        },
+        {
+            "text": " stools \n4. Sertraline 100 mg PO DAILY \n5. Tiotropium Bromide 1 CAP IH DAILY \n6. Polyethylene Glycol 17 g PO DAILY:PRN {{constipation}} \n7. Morphine SR (MS     15 mg PO Q12H \n8. Metoprolol Tartrate 25 mg PO BID \nHold for HR < 50 or SBP < 100 \n9. Haloperid",
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "\nDepression\nAnxiety\nS/p bilateral knee replacements, the left in     and the \nright in    \nChronic degenerative lumbar {{spine disease}}\nFormer 50-pack-year smoking\nCervical stenosis\nHistory of right-sided sciatica after a fall years ago\nGERD\n \nSocial Hist",
+            "omittedDetails": "Spondylopathy Unspecified"
+        },
+        {
+            "text": "gery on     to 2200 \ncGy at 76% isodose line.\n\nPAST MEDICAL HISTORY:\nHypertension\nHypercholesterolemia\nCOPD\nAlcoholism\n{{Depression}}\nAnxiety\nS/p bilateral knee replacements, the left in     and the \nright in    \nChronic degenerative lumbar spine diseas",
+            "omittedDetails": "Depression"
+        },
+        {
+            "text": "fe radiosurgery on     to 2200 \ncGy at 76% isodose line.\n\nPAST MEDICAL HISTORY:\nHypertension\nHypercholesterolemia\nCOPD\n{{Alcoholism}}\nDepression\nAnxiety\nS/p bilateral knee replacements, the left in     and the \nright in    \nChronic degenerative lumbar s",
+            "omittedDetails": "Alcohol Dependence"
+        },
+        {
+            "text": "note, he has a \nsacral ulcer which is being cared for by a wound nurse.\n\nNotably, he was admitted     to the MICU with {{fevers}} and \nhypotension felt to be due to urosepsis.  Urine culture had no \ngrowth and he was discharged with a 10 day course ",
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "bar spine disease\nFormer 50-pack-year smoking\nCervical stenosis\nHistory of right-sided sciatica after a fall years ago\n{{GERD}}\n \nSocial History:\n   \nFamily History:\nMom - osteoarthritis, CAD, heart valve disease\nAunts - osteoarthritis, Dad - died",
+            "omittedDetails": "Gastro-Esophageal Reflux Disease"
+        },
+        {
+            "text": "ase.  He had a restaging CT torso which showed \nenlargement of his renal mass and multiple new pulmonary \nmetastases.  {{Head CT}} and MRI showed stable brain mets and edema. \n CT torso also showed tumor thrombus in the right renal vein but \ngiven la",
+            "omittedDetails": "Computed Tomography Of The Head"
+        },
+        {
+            "text": ":59 am URINE   Source:    . \n**FINAL REPORT    \nURINE CULTURE (Final    :    NO GROWTH. \n.\n    Blood cx negative\n.\n    {{MRI Brain}} with contrast: IMPRESSION:  Moderately \nmotion-limited study without evidence of acute abnormalities or \ndisease progre",
+            "omittedDetails": "Brain MRI"
+        },
+        {
+            "text": "on.  Stools were \nguaiac negative.  Iron studies were consistent with anemia of \ninflammatory block.\n.\n# RUE swelling: {{Ultrasound}} was negative for DVT and his edema \nbecame more symmetric consistent with anasarca.\n.\n# COPD: Continued on home spiriva",
+            "omittedDetails": "Ultrasound"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "otassium Chloride 10 mEq PO DAILY \n9. Sertraline 100 mg PO DAILY \n10. Tiotropium Bromide 1 CAP IH DAILY \n11. traZODONE {{50}} mg PO HS \n12. Calcarb 600 With Vitamin D *NF* (calcium carbonate-vitamin \nD3) 600 mg(1,500mg) -400 unit Oral BID \n13. F",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ol Tartrate 25 mg PO BID \nHold for HR < 50 or SBP < 100 \n9. Haloperidol 0.5-1 mg PO TID:PRN agitation \n10. Haloperidol {{1}} mg PO HS \n\n \nDischarge Disposition:\nExtended Care\n \nFacility:\n   \n \nDischarge Diagnosis:\nAcute encephalopathy\nHypotensi",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "errous Sulfate 325 mg PO BID \n14. Docusate Sodium 100 mg PO BID \n15. traZODONE 25 mg PO BID \nAt 1pm and 5pm \n16. Senna {{2}} TAB PO HS \n17. Sodium Chloride Nasal     SPRY NU TID:PRN dry nose \n\n \nDischarge Medications:\n1. Docusate Sodium 100 mg ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "mission Medication list is accurate and complete.\n1. Atenolol 25 mg PO DAILY \nHold for HR<55, SBP<100 \n2. Atorvastatin {{40}} mg PO DAILY \n3. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies \n4. Furosemide 40 mg PO DAILY \n5. HydrALAzin",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " PO DAILY \n3. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies \n4. Furosemide 40 mg PO DAILY \n5. HydrALAzine {{25}} mg PO BID \n6. Lactulose 15 mL PO Q6H:PRN constipation \n7. Morphine Sulfate     15 mg PO Q6H:PRN pain \n8. Potassium Chlo",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17. Sodium Chloride Nasal     SPRY NU TID:PRN dry nose \n\n \nDischarge Medications:\n1. Docusate Sodium 100 mg PO BID \n2. {{Morphine Sulfate}}     15 mg PO Q4H:PRN pain \n3. Senna 2 TAB PO HS \nHold for loose stools \n4. Sertraline 100 mg PO DAILY \n5. Tiotropium Br",
+            "omittedDetails": "Morphine Sulfate"
+        },
+        {
+            "text": "asal     SPRY NU TID:PRN dry nose \n\n \nDischarge Medications:\n1. Docusate Sodium 100 mg PO BID \n2. Morphine Sulfate     {{15}} mg PO Q4H:PRN pain \n3. Senna 2 TAB PO HS \nHold for loose stools \n4. Sertraline 100 mg PO DAILY \n5. Tiotropium Bromide 1",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "asound was negative for DVT and his edema \nbecame more symmetric consistent with anasarca.\n.\n# COPD: Continued on home {{spiriva}} and albuterol.\n.\n# HL: Discontinued home atorvastatin given his goals of care.\n.\n# Constipation: He had had no BM in 5 ",
+            "omittedDetails": "Tiotropium Bromide Monohydrate"
+        },
+        {
+            "text": " mg PO Q4H:PRN pain \n3. Senna 2 TAB PO HS \nHold for loose stools \n4. Sertraline 100 mg PO DAILY \n5. Tiotropium Bromide {{1}} CAP IH DAILY \n6. Polyethylene Glycol 17 g PO DAILY:PRN constipation \n7. Morphine SR (MS     15 mg PO Q12H \n8. Metoprolo",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " narcotics use.  \nHe was given an aggressive bowel regimen and his constipation \nresolved.\n.\n# Anxiety: Continued home {{zoloft}}.  He had been on trazodone TID \nat night but this discontinued due to confusion and sedation at \nthe time of his admiss",
+            "omittedDetails": "Sertraline Hydrochloride"
+        },
+        {
+            "text": "0 mg PO BID \n2. Morphine Sulfate     15 mg PO Q4H:PRN pain \n3. Senna 2 TAB PO HS \nHold for loose stools \n4. Sertraline {{100}} mg PO DAILY \n5. Tiotropium Bromide 1 CAP IH DAILY \n6. Polyethylene Glycol 17 g PO DAILY:PRN constipation \n7. Morphine S",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "list is accurate and complete.\n1. Atenolol 25 mg PO DAILY \nHold for HR<55, SBP<100 \n2. Atorvastatin 40 mg PO DAILY \n3. {{Fluticasone Propionate}} NASAL 2 SPRY NU DAILY:PRN allergies \n4. Furosemide 40 mg PO DAILY \n5. HydrALAzine 25 mg PO BID \n6. Lactulose 15 mL PO Q",
+            "omittedDetails": "Fluticasone Propionate"
+        },
+        {
+            "text": ".\n1. Atenolol 25 mg PO DAILY \nHold for HR<55, SBP<100 \n2. Atorvastatin 40 mg PO DAILY \n3. Fluticasone Propionate NASAL {{2}} SPRY NU DAILY:PRN allergies \n4. Furosemide 40 mg PO DAILY \n5. HydrALAzine 25 mg PO BID \n6. Lactulose 15 mL PO Q6H:PRN c",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "orial.  He was profoundly \ndehydrated, hypercalcemic, with a positive UA and has known \nbrain mets.  He was started on {{vanco}}/cefepime and given \naggressive IV fluids and pamidronate.  His mental status mildly \nimproved with these measures.  He ",
+            "omittedDetails": "Vancomycin"
+        },
+        {
+            "text": "romide 1 CAP IH DAILY \n6. Polyethylene Glycol 17 g PO DAILY:PRN constipation \n7. Morphine SR (MS     15 mg PO Q12H \n8. {{Metoprolol Tartrate}} 25 mg PO BID \nHold for HR < 50 or SBP < 100 \n9. Haloperidol 0.5-1 mg PO TID:PRN agitation \n10. Haloperidol 1 mg PO HS \n",
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "Y \n6. Polyethylene Glycol 17 g PO DAILY:PRN constipation \n7. Morphine SR (MS     15 mg PO Q12H \n8. Metoprolol Tartrate {{25}} mg PO BID \nHold for HR < 50 or SBP < 100 \n9. Haloperidol 0.5-1 mg PO TID:PRN agitation \n10. Haloperidol 1 mg PO HS \n\n \n",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " for HR<55, SBP<100 \n2. Atorvastatin 40 mg PO DAILY \n3. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies \n4. {{Furosemide}} 40 mg PO DAILY \n5. HydrALAzine 25 mg PO BID \n6. Lactulose 15 mL PO Q6H:PRN constipation \n7. Morphine Sulfate     15 mg ",
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": " SBP<100 \n2. Atorvastatin 40 mg PO DAILY \n3. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies \n4. Furosemide {{40}} mg PO DAILY \n5. HydrALAzine 25 mg PO BID \n6. Lactulose 15 mL PO Q6H:PRN constipation \n7. Morphine Sulfate     15 mg PO ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "with IV \nfluid resuscitation\n \nMedications on Admission:\nThe Preadmission Medication list is accurate and complete.\n1. {{Atenolol}} 25 mg PO DAILY \nHold for HR<55, SBP<100 \n2. Atorvastatin 40 mg PO DAILY \n3. Fluticasone Propionate NASAL 2 SPRY NU DAIL",
+            "omittedDetails": "Atenolol"
+        },
+        {
+            "text": "fluid resuscitation\n \nMedications on Admission:\nThe Preadmission Medication list is accurate and complete.\n1. Atenolol {{25}} mg PO DAILY \nHold for HR<55, SBP<100 \n2. Atorvastatin 40 mg PO DAILY \n3. Fluticasone Propionate NASAL 2 SPRY NU DAILY:P",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "m and 5pm \n16. Senna 2 TAB PO HS \n17. Sodium Chloride Nasal     SPRY NU TID:PRN dry nose \n\n \nDischarge Medications:\n1. {{Docusate Sodium}} 100 mg PO BID \n2. Morphine Sulfate     15 mg PO Q4H:PRN pain \n3. Senna 2 TAB PO HS \nHold for loose stools \n4. Sertralin",
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "enna 2 TAB PO HS \n17. Sodium Chloride Nasal     SPRY NU TID:PRN dry nose \n\n \nDischarge Medications:\n1. Docusate Sodium {{100}} mg PO BID \n2. Morphine Sulfate     15 mg PO Q4H:PRN pain \n3. Senna 2 TAB PO HS \nHold for loose stools \n4. Sertraline 10",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ft heel, right hip) on \nadmission.  The general surgery team was consulted and placed a \nwound vac.  He was started on {{MS contin}} for basal pain control \ngiven his significant pain and difficulty asking for pain \nmedication.  He was also continued o",
+            "omittedDetails": "Ms Contin"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "carbonate with vitamin D, ferrous sulfate, docusate, senna, sodium chloride nasal spray.\n\n**Discharge Medications:**\n- {{Docusate}}, morphine, senna, sertraline, tiotropium, polyethylene glycol, metoprolol, haloperidol.\n\n**Discharge Disposition:**\n- E"
+        },
+        {
+            "text": ", senna, sodium chloride nasal spray.\n\n**Discharge Medications:**\n- Docusate, morphine, senna, sertraline, tiotropium, {{polyethylene glycol}}, metoprolol, haloperidol.\n\n**Discharge Disposition:**\n- Extended Care Facility\n\n**Discharge Diagnosis:**\n- Acute enceph"
+        },
+        {
+            "text": "tin, fluticasone, furosemide, hydralazine, lactulose, morphine, potassium chloride, sertraline, tiotropium, trazodone, {{calcium carbonate}} with vitamin D, ferrous sulfate, docusate, senna, sodium chloride nasal spray.\n\n**Discharge Medications:**\n- Docusate, "
+        },
+        {
+            "text": "ssium chloride, sertraline, tiotropium, trazodone, calcium carbonate with vitamin D, ferrous sulfate, docusate, senna, {{sodium chloride nasal}} spray.\n\n**Discharge Medications:**\n- Docusate, morphine, senna, sertraline, tiotropium, polyethylene glycol, metoprolol"
+        },
+        {
+            "text": "d.\n\n**Medications on Admission:**\n- Atenolol, atorvastatin, fluticasone, furosemide, hydralazine, lactulose, morphine, {{potassium chloride}}, sertraline, tiotropium, trazodone, calcium carbonate with vitamin D, ferrous sulfate, docusate, senna, sodium chloride"
+        },
+        {
+            "text": ":** Managed with wound vac and pain control.\n- **Atrial Flutter:** Managed with metoprolol.\n- **Anemia:** Treated with {{blood transfusions}}.\n- **COPD:** Continued on home medications.\n- **Constipation:** Resolved with aggressive bowel regimen.\n- **Anxiety:** "
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "s were \nback.  \n\nSubsequently the drain site became indurated with purulent fluid \naround the drain.  Repeat CT showed {{slight improvement}} in the \nfluid collection w/ resolution of stranding.  The drain was \npulled and the area over the site of the drain was",
+            "omittedDetails": "Partial Response"
+        },
+        {
+            "text": "came indurated with purulent fluid \naround the drain.  Repeat CT showed slight improvement in the \nfluid collection w/ {{resolution of}} stranding.  The drain was \npulled and the area over the site of the drain was extended \nusing the scalpel to 1cm.  The ",
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "Redacted]\n- **Admission Date:** [Redacted]\n- **Discharge Date:** [Redacted]\n- **Date of Birth:** [Redacted]\n- **Sex:** {{Female}}\n- **Service:** Obstetrics/Gynecology\n- **Allergies:** Clindamycin\n- **Attending:** [Redacted]\n\n**Chief Complaint:**\n- F"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "gh, \nvaginal bleeding, vaginal discharge, dysuria, incomplete voiding \nor drainage/erythema/pain of her wound. She has {{urinary \nfrequency}} at baseline. She has been passing flatus and has been \nhaving regular BMs. She c/o some reflux.\n\nROS is otherwise negat",
+            "omittedDetails": "Frequency Of Micturition"
+        },
+        {
+            "text": "nd. She has urinary \nfrequency at baseline. She has been passing flatus and has been \nhaving regular BMs. She c/o some {{reflux}}.\n\nROS is otherwise negative.\n \nPast Medical History:\nGYN: \n- G0\n- Endometrial cancer s/p ex lap/ TAH/ BSO/ LND\n\nPMH:\n- ",
+            "omittedDetails": "Gastro-Esophageal Reflux Disease"
+        },
+        {
+            "text": "         Cefazolin interpretative criteria are based on a dosage \nregimen of\n         2g every 8h. \n      ENTEROCOCCUS {{SP}}..    SPARSE GROWTH.  THIRD MORPHOLOGY. \n         Sensitivity testing confirmed by Sensititre. \n      STREPTOCOCCUS ANGI",
+            "omittedDetails": "Stiff-Man Syndrome"
+        },
+        {
+            "text": "-mm right lower lobe pulmonary nodule should be followed up \nin one year\ngiven this patient'S history of malignancy.\n- {{Hepatic steatosis}}.\n- Bilateral simple renal cysts.\n- Fat-containing periumbilical hernia.\n\n \nBrief Hospital Course:\nOn    , Ms.     was r",
+            "omittedDetails": "Fatty Change Of Liver Not Elsewhere Classified"
+        },
+        {
+            "text": "year\ngiven this patient'S history of malignancy.\n- Hepatic steatosis.\n- Bilateral simple renal cysts.\n- Fat-containing {{periumbilical hernia}}.\n\n \nBrief Hospital Course:\nOn    , Ms.     was re-admitted to the hospital with \nfever, nausea, and vomiting in the set",
+            "omittedDetails": "Other Abdominal Hernia"
+        },
+        {
+            "text": "should be followed up \nin one year\ngiven this patient'S history of malignancy.\n- Hepatic steatosis.\n- Bilateral simple {{renal cysts}}.\n- Fat-containing periumbilical hernia.\n\n \nBrief Hospital Course:\nOn    , Ms.     was re-admitted to the hospital with ",
+            "omittedDetails": "Kidney Cyst"
+        },
+        {
+            "text": "indamycin\n \nAttending:    \n \nChief Complaint:\nfever, nausea/vomiting\n \nMajor Surgical or Invasive Procedure:\nCT-guided {{drainage of pelvic abscess}} with placement of a drain\nPICC line placement\n \nHistory of Present Illness:\nPt is a     G0 with h/o T2DM, pulm HTN, Swe",
+            "omittedDetails": "Drainage Of Pelvic Abscess"
+        },
+        {
+            "text": "BS\n- Urge incont\n- sciatica\n- ? h/o myelodysplastic syndrome\n- anxiety\n- hyperlipidemia\n- HTN\n- morbid obesity\n\nPSH:\n- {{Foot surgery}}\n- ?Hemorroidectomy\n- Colectomy,    , for diverticulitis\n- TAH, BSO, PLD for endometrial cancer,    \n\n \nSocial History:\n",
+            "omittedDetails": "Foot/Toes Surgery Procedure"
+        },
+        {
+            "text": "ED, her wound vac was \ndiscontinued only for\ntransport reasons.\n\nWhile in the ED, blood and urine cultures were drawn. {{CT abd/pel}} \nwas performed which demonstrated 5.6cm fluid collection with \nnon-dependent air in the LLQ, consistent with post-op se",
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "ection \nin the L pelvis with air and mild stranding suggestive of an \ninfected seroma or lymphocyst.  Additionally the {{CXR}} and UA were \nunremarkable.  She was admitted and started on IV cipro/ flagyl. \n Blood cultures were obtained prior to i",
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "r BMs. She c/o some reflux.\n\nROS is otherwise negative.\n \nPast Medical History:\nGYN: \n- G0\n- Endometrial cancer s/p ex {{lap}}/ TAH/ BSO/ LND\n\nPMH:\n- T2DM.  \n- Pulm HTN with int supplemental O2.  Last Echo     with mild \nto mod pulm art systolic ",
+            "omittedDetails": "Diagnostic Laparoscopy"
+        },
+        {
+            "text": "allow for better \ncommunication.  \n# Intermittent tachycardia noted on tele which she was placed on \nfor her h/o OSA.  {{EKG}} was performed which was normal sinus \nrhythm.  She remained asymtomatic with a normal heart rate \nduring the majority o",
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": ":\nGYN: \n- G0\n- Endometrial cancer s/p ex lap/ TAH/ BSO/ LND\n\nPMH:\n- T2DM.  \n- Pulm HTN with int supplemental O2.  Last {{Echo}}     with mild \nto mod pulm art systolic HTN, LVEF 70%.   \n- OSA, restarted CPAP during last admit\n- Sweet'S disease\n- A",
+            "omittedDetails": "Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ".\n\n**History of Present Illness:**\n- The patient is a [Redacted] G0 with a history of type 2 diabetes mellitus (T2DM), {{pulmonary hypertension}} (pulm HTN), Sweet'S disease, obstructive sleep apnea (OSA), and diverticulitis status post (s/p) colectomy. She is also"
+        },
+        {
+            "text": "nary hypertension, OSA, Sweet'S disease, anemia, diverticulitis s/p partial colectomy, irritable bowel syndrome (IBS), {{urge incontinence}}, sciatica, possible myelodysplastic syndrome, anxiety, hyperlipidemia, hypertension, morbid obesity.\n\n**Physical Exam:*"
+        },
+        {
+            "text": "a [Redacted] G0 with a history of type 2 diabetes mellitus (T2DM), pulmonary hypertension (pulm HTN), Sweet'S disease, {{obstructive sleep apnea}} (OSA), and diverticulitis status post (s/p) colectomy. She is also status post (s/p) uncomplicated total abdominal hyst"
+        },
+        {
+            "text": "x lap/TAH/BSO/LND.\n- T2DM, pulmonary hypertension, OSA, Sweet'S disease, anemia, diverticulitis s/p partial colectomy, {{irritable bowel syndrome (IBS)}}, urge incontinence, sciatica, possible myelodysplastic syndrome, anxiety, hyperlipidemia, hypertension, morbid obesity."
+        },
+        {
+            "text": " Medical History:**\n- Endometrial cancer s/p ex lap/TAH/BSO/LND.\n- T2DM, pulmonary hypertension, OSA, Sweet'S disease, {{anemia}}, diverticulitis s/p partial colectomy, irritable bowel syndrome (IBS), urge incontinence, sciatica, possible myelodyspl"
+        },
+        {
+            "text": "besity.\n\n**Physical Exam:**\n- On admission: Vital signs stable, no acute distress, clear lungs, soft abdomen with mild {{tenderness}}, well-managed wound with no signs of infection.\n- On discharge: Vitals within normal limits, minimal abdominal discomfo"
+        },
+        {
+            "text": "She is also status post (s/p) uncomplicated total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), {{pelvic lymph node dissection}} (PLND), and cystoscopy for endometrial cancer. Her post-operative course was complicated by wound separation requiring "
+        },
+        {
+            "text": "possible abscess features. Blood and urine cultures were drawn.\n\n**Past Medical History:**\n- Endometrial cancer s/p ex {{lap}}/TAH/BSO/LND.\n- T2DM, pulmonary hypertension, OSA, Sweet'S disease, anemia, diverticulitis s/p partial colectomy, irrita"
+        },
+        {
+            "text": "nding:** [Redacted]\n\n**Chief Complaint:**\n- Fever, nausea, and vomiting.\n\n**Major Surgical or Invasive Procedures:**\n- {{CT-guided drainage}} of pelvic abscess with drain placement.\n- PICC line placement.\n\n**History of Present Illness:**\n- The patient is a [Red"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "ications:\n1. Atorvastatin 20 mg PO DAILY \n2. Dapsone 100 mg PO DAILY \n3. Ibuprofen 400 mg PO Q8H:PRN pain \n4. Glargine {{4}} Units Bedtime\nInsulin SC Sliding Scale using HUM Insulin\n5. Loperamide 2 mg PO QID:PRN loose bowel movements \n6. OxycoD",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "O Q6H:PRN pain \n12. GlipiZIDE XL 10 mg PO DAILY \n13. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol \n14. Colchicine {{1.2}} mg PO DAILY \n15. Aspirin 81 mg PO DAILY \n16. Outpatient Lab Work\nICD-9: 790.7\nCBC with diff, BUN/Creatinine, LFTs \nChec",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "OR WALKER -  . use with ambulation qday with attachment to\nhelp with portable oxygen cannister\nSERTRALINE - sertraline {{100}} mg tablet. 1 Tablet(s) by mouth qday\n-  (Prescribed by Other Provider)\nSOLIFENACIN [VESICARE] - Vesicare 5 mg tablet. 1",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "r insulin \nwas titrated up. On the day of discharge, it was recommended \nthat the patient be transitioned to glipizide {{10}}mg XL instead of \npioglitazone, given risk of bladder cancer with pioglitazone. \nUpon starting glipizide, it was recomme",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "PSONE - dapsone 100 mg tablet. 1 Tablet(s) by mouth qday - \n(Prescribed by Other Provider)\nPIOGLITAZONE - pioglitazone {{15}} mg tablet. 1 Tablet(s) by mouth\nDAILY (Daily) -  (Prescribed by Other Provider)\nROLLATOR WALKER -  . use with ambulatio",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ablet. 1 Tablet(s) by mouth DAILY\n(Daily) -  (OTC)\n \nDischarge Medications:\n1. Atorvastatin 20 mg PO DAILY \n2. Dapsone {{100}} mg PO DAILY \n3. Ibuprofen 400 mg PO Q8H:PRN pain \n4. Glargine 4 Units Bedtime\nInsulin SC Sliding Scale using HUM Insuli",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ollow the instructions below:\n\n* Do not combine narcotic and sedative medications or alcohol  \n* Do not take more than {{4000}}mg acetaminophen (APAP) in 24 hrs  \n* No strenuous activity until your post-op appointment  \n* Take your medications as ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ")\nSOLIFENACIN [VESICARE] - Vesicare 5 mg tablet. 1 Tablet(s) by\nmouth once a day\n \nMedications - OTC\nASPIRIN - aspirin {{81}} mg chewable tablet. 1 Tablet(s) by mouth\nDAILY (Daily) -  (Prescribed by Other Provider; OTC)\nCALCIUM CARBONATE - Dosag",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "RX *oxycodone 5 mg     tablet(s) by mouth every four (4) hours \nDisp #*60 Tablet Refills:*0\n7. Piperacillin-Tazobactam {{4.5}} g IV Q6H \n8. Sertraline 100 mg PO DAILY \n9. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush \n10. Vesicare *NF* (sol",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "cted seroma or lymphocyst.  Additionally the CXR and UA were \nunremarkable.  She was admitted and started on IV cipro/ {{flagyl}}. \n Blood cultures were obtained prior to initiation of antibiotic \ntherapy which ultimately grew bacteroides fragilis i",
+            "omittedDetails": "Metronidazole Hydrochloride"
+        },
+        {
+            "text": "ALINE - sertraline 100 mg tablet. 1 Tablet(s) by mouth qday\n-  (Prescribed by Other Provider)\nSOLIFENACIN [VESICARE] - {{Vesicare}} 5 mg tablet. 1 Tablet(s) by\nmouth once a day\n \nMedications - OTC\nASPIRIN - aspirin 81 mg chewable tablet. 1 Tablet(s) b",
+            "omittedDetails": "Solifenacin Succinate"
+        },
+        {
+            "text": "ertraline 100 mg tablet. 1 Tablet(s) by mouth qday\n-  (Prescribed by Other Provider)\nSOLIFENACIN [VESICARE] - Vesicare {{5}} mg tablet. 1 Tablet(s) by\nmouth once a day\n \nMedications - OTC\nASPIRIN - aspirin 81 mg chewable tablet. 1 Tablet(s) by ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": ".     was discharged to     in     on \nHD 10 in stable condition.\n \nMedications on Admission:\nATORVASTATIN [LIPITOR] - {{Lipitor}} 20 mg tablet. 1 Tablet(s) by\nmouth qday -  (Prescribed by Other Provider)\nCOLCHICINE [COLCRYS] - Colcrys 0.6 mg tablet.",
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "s discharged to     in     on \nHD 10 in stable condition.\n \nMedications on Admission:\nATORVASTATIN [LIPITOR] - Lipitor {{20}} mg tablet. 1 Tablet(s) by\nmouth qday -  (Prescribed by Other Provider)\nCOLCHICINE [COLCRYS] - Colcrys 0.6 mg tablet. 2 ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "by mouth\nDAILY (Daily) -  (Prescribed by Other Provider; OTC)\nCALCIUM CARBONATE - Dosage uncertain -  (OTC)\nIBUPROFEN [{{ADVIL}}] - Dosage uncertain -  (OTC)\nMULTIVITAMIN - multivitamin tablet. 1 Tablet(s) by mouth DAILY\n(Daily) -  (OTC)\n \nDischarg",
+            "omittedDetails": "Advil"
+        },
+        {
+            "text": "ILY\n(Daily) -  (OTC)\n \nDischarge Medications:\n1. Atorvastatin 20 mg PO DAILY \n2. Dapsone 100 mg PO DAILY \n3. Ibuprofen {{400}} mg PO Q8H:PRN pain \n4. Glargine 4 Units Bedtime\nInsulin SC Sliding Scale using HUM Insulin\n5. Loperamide 2 mg PO QID:PR",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "vated significantly and \nthus     consult was requested.  Her pioglitizone was \nincreased to 30mg.  She was started on {{Lantus}} and her insulin \nwas titrated up. On the day of discharge, it was recommended \nthat the patient be transitioned to glip",
+            "omittedDetails": "Lantus Solostar"
+        },
+        {
+            "text": "to 1cm.  The site was probed with sign \ndrainage of pus and serous fluid.  This site was packed with     \ninch packing {{tape}}.  Dressing were changed BID.\n \nA PICC line was placed for prolonged IV antibiotic therapy.  ID \nrecommended a total cou",
+            "omittedDetails": "Adhesive Tape"
+        },
+        {
+            "text": "renuous activity until your post-op appointment  \n* Take your medications as prescribed.  \n* Do not drive while taking {{narcotics}}.  \n* Nothing in the vagina (no tampons, no douching, no sex) for 12 \nweeks.  \n* No heavy lifting of objects >10 lbs for",
+            "omittedDetails": "Opioid Receptor Agonist"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "ausea, and vomiting due to an intra-abdominal collection suspected to be an infected lymphocyst. She was started on IV {{ciprofloxacin}} and metronidazole, later switched to IV piperacillin-tazobactam based on culture sensitivities. A CT-guided drainage wa"
+        },
+        {
+            "text": ":**\n- Atorvastatin, colchicine, dapsone, pioglitazone, sertraline, solifenacin, aspirin, calcium carbonate, ibuprofen, {{multivitamin}}.\n\n**Discharge Medications:**\n- Atorvastatin, dapsone, ibuprofen, glargine, insulin sliding scale, loperamide, oxycodone"
+        },
+        {
+            "text": "eramide, oxycodone, piperacillin-tazobactam, sertraline, sodium chloride flush, solifenacin, acetaminophen, glipizide, {{glucagon}}, colchicine, aspirin.\n\n**Discharge Disposition:**\n- Extended care facility.\n\n**Discharge Diagnosis:**\n- Intra-abdominal"
+        }
+    ]
+}

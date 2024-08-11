@@ -1,0 +1,137 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Here is a summary of the clinical note in 500 words or less:\n\n**Patient Information:**\n\n* {{42}}-year-old female patient\n* Admission date: not specified\n* Discharge date: not specified\n\n**Chief Complaint:**\n\n* Cervic"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": " AnGap-12\n    08:10AM BLOOD Calcium-7.8* Phos-3.6 Mg-1.2*\n \nBrief Hospital Course:\n         yo G2P2 with hypertension, {{type II diabetes mellitus}}, \nand nephropathy was admitted     status post exploratory \nlaparotomy, radical hysterectomy, bilateral \nsalpingo-oopho",
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "ore.  She had \nbeen suffering prolapse symptoms for at least six months.  She \nalso reports that she has had irregular {{vaginal bleeding}} for \nabout four months. She denied any GI or GU symptoms. She denied \ngross hematuria.\n \nPast Medical History:\nPAST MED",
+            "omittedDetails": "Abnormal Uterine And Vaginal Bleeding Unspecified"
+        },
+        {
+            "text": "nts.  She has had \nno pain.  She denied any lower extremity swelling.  Of note, she \nrecently had a urine cytology for {{microscopic hematuria}}.  This \nrevealed atypical cells suspicious for urothelial dysplasia or \nneoplasia.  She has been wearing a pessary plac",
+            "omittedDetails": "Microscopic Hematuria"
+        },
+        {
+            "text": "consultation \nregarding a new diagnosis of cervical carcinoma.  She saw Dr. \n    recently with a complaint of complete {{procidentia}}.  Dr \n    a 5 cm irregular lesion on the cervix suspicious \nfor malignancy.  A representative biopsy was obtained and t",
+            "omittedDetails": "Complete Uterovaginal Prolapse"
+        },
+        {
+            "text": "hesia, radical hysterectomy, bilateral \nsalpingo-oophorectomy, bilateral pelvic lymphadenectomy.\n\n \nHistory of Present {{Illness}}:\n    G2, P2 sent by Dr.     for consultation \nregarding a new diagnosis of cervical carcinoma.  She saw Dr. \n    recent",
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "ers which did not show evidence of DVT and a CXR did not \nshow any evidence of pneumonia but did show atelectasis and \n{{pleural effusions}}.  The pt was able to be weaned off the oxygen \nand was discharged home in good condition on POD#3.  \n \nMedications on A",
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "n her \nhome medications for her hypertension and hypercholesterolemia.  \nShe was not given NSAIDs given her history of {{renal \ninsufficiency}} (baseline Cr ~2.0) and her foley was kept in for \none week post-operatively.  The pt continued to require oxygen \nlonge",
+            "omittedDetails": "Unspecified Kidney Failure"
+        },
+        {
+            "text": " extremity \ndopplers which did not show evidence of DVT and a CXR did not \nshow any evidence of pneumonia but did show {{atelectasis}} and \npleural effusions.  The pt was able to be weaned off the oxygen \nand was discharged home in good condition on POD#",
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "She had bilateral lower extremity \ndopplers which did not show evidence of DVT and a CXR did not \nshow any evidence of {{pneumonia}} but did show atelectasis and \npleural effusions.  The pt was able to be weaned off the oxygen \nand was discharged home ",
+            "omittedDetails": "Pneumonia Unspecified Organism"
+        },
+        {
+            "text": "                   Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: OBSTETRICS/GYNECOLOGY\n \n{{Allergies}}: \nZocor\n \nAttending:    .\n \nChief Complaint:\ncervical carcinoma\n \nMajor Surgical or Invasive Procedure:\nExamination und",
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "nt URI the pt \ncomplained of on admission.  She had bilateral lower extremity \ndopplers which did not show evidence of {{DVT}} and a CXR did not \nshow any evidence of pneumonia but did show atelectasis and \npleural effusions.  The pt was able to ",
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "elt to be due \nto her likely undiagnosed chronic lung disease given her \nextensive smoking history as well as a recent {{URI}} the pt \ncomplained of on admission.  She had bilateral lower extremity \ndopplers which did not show evidence of DVT and",
+            "omittedDetails": "Acute Upper Respiratory Infections J00-J06"
+        },
+        {
+            "text": "l Course:\n         yo G2P2 with hypertension, type II diabetes mellitus, \nand nephropathy was admitted     status post {{exploratory \nlaparotomy}}, radical hysterectomy, bilateral \nsalpingo-oophorectomy, and pelvic lymphadenectomy for Stage Ib2 \ncervical cancer.  Pl",
+            "omittedDetails": "Exploration Of Peritoneum"
+        },
+        {
+            "text": "ny GI or GU complaints.  She has had \nno pain.  She denied any lower extremity swelling.  Of note, she \nrecently had a {{urine cytology}} for microscopic hematuria.  This \nrevealed atypical cells suspicious for urothelial dysplasia or \nneoplasia.  She has b",
+            "omittedDetails": "Urine Cytology"
+        },
+        {
+            "text": " of complete procidentia.  Dr \n    a 5 cm irregular lesion on the cervix suspicious \nfor malignancy.  A representative {{biopsy}} was obtained and this \nrevealed invasive squamous cell carcinoma.  The patient has had \nPap smears regularly all her li",
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "ensive smoking history as well as a recent URI the pt \ncomplained of on admission.  She had bilateral lower extremity \n{{dopplers}} which did not show evidence of DVT and a CXR did not \nshow any evidence of pneumonia but did show atelectasis and \npleu",
+            "omittedDetails": "Doppler Ultrasound"
+        },
+        {
+            "text": " pt \ncomplained of on admission.  She had bilateral lower extremity \ndopplers which did not show evidence of DVT and a {{CXR}} did not \nshow any evidence of pneumonia but did show atelectasis and \npleural effusions.  The pt was able to be weaned ",
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "al fornix involvement, and no palpable pelvic masses\n\n**Pertinent Results:**\n\n* Blood work: anemia, hyperglycemia, and {{electrolyte imbalance}}\n* Urine cytology: atypical cells suspicious for urothelial dysplasia or neoplasia\n\n**Brief Hospital Course:**\n\n* Admitt"
+        },
+        {
+            "text": "exocervix, no vaginal fornix involvement, and no palpable pelvic masses\n\n**Pertinent Results:**\n\n* Blood work: anemia, {{hyperglycemia}}, and electrolyte imbalance\n* Urine cytology: atypical cells suspicious for urothelial dysplasia or neoplasia\n\n**Brief H"
+        },
+        {
+            "text": "eeks\n* No vaginal activities for 6 weeks\n* Leave Foley catheter in for 1 week\n* Call doctor for fever, chills, nausea, {{vomiting}}, abdominal pain, or other concerns."
+        },
+        {
+            "text": "ifting for 2-6 weeks\n* No vaginal activities for 6 weeks\n* Leave Foley catheter in for 1 week\n* Call doctor for fever, {{chills}}, nausea, vomiting, abdominal pain, or other concerns."
+        },
+        {
+            "text": "heavy lifting for 2-6 weeks\n* No vaginal activities for 6 weeks\n* Leave Foley catheter in for 1 week\n* Call doctor for {{fever}}, chills, nausea, vomiting, abdominal pain, or other concerns."
+        },
+        {
+            "text": " on the exocervix, no vaginal fornix involvement, and no palpable pelvic masses\n\n**Pertinent Results:**\n\n* Blood work: {{anemia}}, hyperglycemia, and electrolyte imbalance\n* Urine cytology: atypical cells suspicious for urothelial dysplasia or neopl"
+        },
+        {
+            "text": "or 2-6 weeks\n* No vaginal activities for 6 weeks\n* Leave Foley catheter in for 1 week\n* Call doctor for fever, chills, {{nausea}}, vomiting, abdominal pain, or other concerns."
+        },
+        {
+            "text": "vical cancer\n* Post-operative care: routine medications for hypertension and hypercholesterolemia, oxygen therapy, and {{Foley catheter}} for one week\n* Discharged home on post-operative day 3 in good condition\n\n**Discharge Medications:**\n\n* Oxycodone-aceta"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "tipation.\nDisp:*30 Capsule(s)* Refills:*1*\n4. Lisinopril 10 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).  \n5. Atenolol {{50}} mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  \n\n \nDischarge Disposition:\nHome\n \nDischarge Diagnosis:\nStage IB2 cervi",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "et(s)* Refills:*0*\n2. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO \nDAILY (Daily).  \n3. Docusate Sodium {{100}} mg Capsule Sig: One (1) Capsule PO BID (2 \ntimes a day) as needed for constipation.\nDisp:*30 Capsule(s)* Refills:*1*\n4.",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ig: One (1) Capsule PO BID (2 \ntimes a day) as needed for constipation.\nDisp:*30 Capsule(s)* Refills:*1*\n4. Lisinopril {{10}} mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).  \n5. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  \n\n \nDisc",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "e PO BID (2 \ntimes a day) as needed for constipation.\nDisp:*30 Capsule(s)* Refills:*1*\n4. Lisinopril 10 mg Tablet Sig: {{1.5}} Tablets PO DAILY (Daily).  \n5. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  \n\n \nDischarge Disposition:\n",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ygen \nand was discharged home in good condition on POD#3.  \n \nMedications on Admission:\nLipitor, lisinopril, atenolol, {{calcium}}, hydrochlorothiazide.\n \nDischarge Medications:\n1. Oxycodone-Acetaminophen     mg Tablet Sig:     Tablets PO \nevery     ",
+            "omittedDetails": "Calcium Supplement"
+        },
+        {
+            "text": "as able to be weaned off the oxygen \nand was discharged home in good condition on POD#3.  \n \nMedications on Admission:\n{{Lipitor}}, lisinopril, atenolol, calcium, hydrochlorothiazide.\n \nDischarge Medications:\n1. Oxycodone-Acetaminophen     mg Tablet ",
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "       Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: OBSTETRICS/GYNECOLOGY\n \nAllergies: \n{{Zocor}}\n \nAttending:    .\n \nChief Complaint:\ncervical carcinoma\n \nMajor Surgical or Invasive Procedure:\nExamination under anest",
+            "omittedDetails": "Simvastatin"
+        },
+        {
+            "text": "ion is \ndraining pus-like material, or if your incision reopens. \n- No driving for two weeks and while taking narcotic {{pain \nmedication}} as it can make you drowsy. \n- No heavy lifting or strenuous exercise for 6 weeks to allow \nyour incision to heal adequa",
+            "omittedDetails": "Analgesic Agent"
+        }
+    ]
+}

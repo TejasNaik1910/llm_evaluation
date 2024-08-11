@@ -1,0 +1,100 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": " 9.7 (at baseline), plt 277\nINR 1.1 PTT 30.5\n\n- Imaging: CT Moderate sized partly loculated left pleural \neffusion has {{increased in size}} compared to     and results \nin severe left lung atelectasis. Mild mediastinal and left hilar \nadenopathy has increased",
+            "omittedDetails": "Bad Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "heter placement\n\n**History of Present Illness:**\n- The patient has a history of metastatic non-small cell lung cancer ({{NSCLC}}) and is on cycle 4 of Keytruda. She has recurrent left-sided pleural effusion, having undergone approximately four thor"
+        },
+        {
+            "text": " emphysema.\n\n- **Discharge Labs:**\n  - Na+ 128, BUN 11, Cr 0.8, Hgb 9.6\n\n**Brief Hospital Course:**\n- The patient with {{metastatic NSCLC}} and recurrent left-sided effusions underwent pleurex catheter placement due to quick reaccumulation of effusion post-th"
+        },
+        {
+            "text": " emphysema.\n\n- **Discharge Labs:**\n  - Na+ 128, BUN 11, Cr 0.8, Hgb 9.6\n\n**Brief Hospital Course:**\n- The patient with {{metastatic NSCLC}} and recurrent left-sided effusions underwent pleurex catheter placement due to quick reaccumulation of effusion post-th"
+        },
+        {
+            "text": "lung atelectasis. She was transferred for evaluation and placement of a pleurex catheter.\n\n**Past Medical History:**\n- {{Type II Diabetes Mellitus}} (managed with diet)\n- History of Myocardial Infarction (medically managed with metoprolol, aspirin, and losartan)\n\n**So"
+        },
+        {
+            "text": "acement of a pleurex catheter.\n\n**Past Medical History:**\n- Type II Diabetes Mellitus (managed with diet)\n- History of {{Myocardial Infarction}} (medically managed with metoprolol, aspirin, and losartan)\n\n**Social History:**\n- [Redacted]\n\n**Family History:**\n- Non"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "LC complicated by \nrecurrent left sided effusions with quick reaccumulation after \nthe last thoracentesis on     . \n\n# {{Hypoxemia}} \n# Left sided pleural effusion\n# Emphysema\nChronic, locaulated left sided likely malignant pleural effusion \nin the set",
+            "omittedDetails": "HYPOXEMIA"
+        },
+        {
+            "text": ", BP 96/57, HR 80, RR 21, O2sat 98% \nGENERAL A&O3X well appearing\nHEENT - MMM, oropharynx clear, PEERL \nNECK - supple, {{JVD}} not elevated \nCARDIAC - RRR no mrg normal S1/S2 \nLUNGS - decreased lung sounds on left compared to right; wheezes \nthro",
+            "omittedDetails": "Jugular Vein Distension"
+        },
+        {
+            "text": " herto her appointment.\n2. Do not drain more than 1000 ml per drainage.\n3. Stop draining for pain, chest tightness, or {{cough}}.\n4. Do not manipulate catheter in any way.\n5. Keep a daily log of Drainage amount and color.\n6. You may shower with an ",
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "horacentses in the past 3 months who \npresented to     today with dyspnea worsened with \nexertion for 6 days and Chest {{CXR}}/CT with worsening left sided \npleural effusions. She was transferred to     ED for \nevaluation for placement of a pleur",
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "ory of Present Illness:**\n- The patient has a history of metastatic non-small cell lung cancer (NSCLC) and is on cycle {{4}} of Keytruda. She has recurrent left-sided pleural effusion, having undergone approximately four thoracenteses in the pa"
+        },
+        {
+            "text": "ex catheter placement due to quick reaccumulation of effusion post-thoracentesis. She initially required nasal cannula {{oxygen}} but was weaned to room air with O2 saturations > 92%. She received duonebs and Tylenol/tramadol for pain control. Chron"
+        },
+        {
+            "text": "umulation of effusion post-thoracentesis. She initially required nasal cannula oxygen but was weaned to room air with O{{2}} saturations > 92%. She received duonebs and Tylenol/tramadol for pain control. Chronic hyponatremia likely due to SIADH"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "s to be removed when seen \nin clinic    \ndays post PleurX placement.\n \nMedications on Admission:\n1. Losartan Potassium {{50}} mg PO DAILY \n2. FoLIC Acid 1 mg PO DAILY \n3. Atorvastatin 40 mg PO QPM \n4. Metoprolol Succinate XL 50 mg PO DAILY \n5. a",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Atorvastatin 40 mg PO QPM  \n3.  FoLIC Acid 1 mg PO DAILY  \n4.  Losartan Potassium 50 mg PO DAILY  \n5.  Magnesium Oxide {{400}} mg PO DAILY  \n6.  Metoprolol Succinate XL 50 mg PO DAILY  \n\n \nDischarge Disposition:\nHome With Service\n \nFacility:\n   \n",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "g PO DAILY  \n4.  Losartan Potassium 50 mg PO DAILY  \n5.  Magnesium Oxide 400 mg PO DAILY  \n6.  Metoprolol Succinate XL {{50}} mg PO DAILY  \n\n \nDischarge Disposition:\nHome With Service\n \nFacility:\n   \n \nDischarge Diagnosis:\nPrimary:\nLeft sided pl",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " PO DAILY \n7. Magnesium Oxide 400 mg PO DAILY \n\n \nDischarge Medications:\n1.  Aspirin 81 mg PO DAILY  \n2.  Atorvastatin {{40}} mg PO QPM  \n3.  FoLIC Acid 1 mg PO DAILY  \n4.  Losartan Potassium 50 mg PO DAILY  \n5.  Magnesium Oxide 400 mg PO DAILY ",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "clinic    \ndays post PleurX placement.\n \nMedications on Admission:\n1. Losartan Potassium 50 mg PO DAILY \n2. FoLIC Acid {{1}} mg PO DAILY \n3. Atorvastatin 40 mg PO QPM \n4. Metoprolol Succinate XL 50 mg PO DAILY \n5. amLODIPine 5 mg PO DAILY \n6. A",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ne 5 mg PO DAILY \n6. Aspirin 81 mg PO DAILY \n7. Magnesium Oxide 400 mg PO DAILY \n\n \nDischarge Medications:\n1.  Aspirin {{81}} mg PO DAILY  \n2.  Atorvastatin 40 mg PO QPM  \n3.  FoLIC Acid 1 mg PO DAILY  \n4.  Losartan Potassium 50 mg PO DAILY  \n5.",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Y \n2. FoLIC Acid 1 mg PO DAILY \n3. Atorvastatin 40 mg PO QPM \n4. Metoprolol Succinate XL 50 mg PO DAILY \n5. amLODIPine {{5}} mg PO DAILY \n6. Aspirin 81 mg PO DAILY \n7. Magnesium Oxide 400 mg PO DAILY \n\n \nDischarge Medications:\n1.  Aspirin 81 mg",
+            "omittedDetails": "Value"
+        },
+        {
+            "text": " Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \nAllergies: \nSulfa (Sulfonamide {{Antibiotics}})\n \nAttending:    .\n \nChief Complaint:\nRight sided recurrent malignant pleural effusion\n \nMajor Surgical or Invasive Pro",
+            "omittedDetails": "Antibiotic"
+        },
+        {
+            "text": "             Discharge Date:      \n \nDate of Birth:                  Sex:   F\n \nService: MEDICINE\n \nAllergies: \nSulfa ({{Sulfonamide}} Antibiotics)\n \nAttending:    .\n \nChief Complaint:\nRight sided recurrent malignant pleural effusion\n \nMajor Surgical or ",
+            "omittedDetails": "Sulfonamide Anti-Infective Agent"
+        },
+        {
+            "text": "tinal and left hilar \nadenopathy has increased. Right lung nodules are stable. Severe \nemphysema is noted\n- In the ED, {{Ketorolac}} 15 mg was given. \n-IP was consulted for pleurex vs thoracentesis. \n\nUpon arrival to the floor, patient reports she feel",
+            "omittedDetails": "Ketorolac"
+        },
+        {
+            "text": "left hilar \nadenopathy has increased. Right lung nodules are stable. Severe \nemphysema is noted\n- In the ED, Ketorolac {{15}} mg was given. \n-IP was consulted for pleurex vs thoracentesis. \n\nUpon arrival to the floor, patient reports she feels s",
+            "omittedDetails": "Value"
+        }
+    ]
+}
