@@ -12,32 +12,162 @@
 
 #######################################################################
 
-#compare human-resolve using indices
+# #compare human-resolve using indices
+# import os
+# import json
+# import pandas as pd
+# from collections import Counter
+# from nltk.corpus import stopwords
+
+# # Load stopwords
+# stop_words = set(stopwords.words('english'))
+
+# def remove_stopwords(text):
+#     """Remove stopwords from a given text."""
+#     tokens = text.split()
+#     filtered_tokens = [word for word in tokens if word.lower() not in stop_words]
+#     return " ".join(filtered_tokens)
+
+# def one_gram_overlap(text1, text2):
+#     """Calculate the one-gram overlap between two texts after removing stopwords."""
+#     text1 = remove_stopwords(text1)
+#     text2 = remove_stopwords(text2)
+#     tokens1 = text1.split()
+#     tokens2 = text2.split()
+#     count1 = Counter(tokens1)
+#     count2 = Counter(tokens2)
+#     overlap = sum((count1 & count2).values())
+#     return overlap
+
+# def check_annotations(humananno, resolveanno):
+#     results = []
+#     true_positives = 0
+#     false_positives = 0
+#     false_negatives = 0
+    
+#     # Traverse through keys in humananno
+#     for key in humananno:
+#         if key in resolveanno:
+#             # Compare each entry in humananno with all entries in resolveanno
+#             for human_entry in humananno[key]:
+#                 text_human = human_entry["text"]
+#                 hit = 0
+#                 for resolve_entry in resolveanno[key]:
+#                     text_resolve = resolve_entry["text"]
+#                     if one_gram_overlap(text_human, text_resolve) > 0:
+#                         hit = 1
+#                         true_positives += 1
+#                         break
+#                 if hit == 0:
+#                     false_negatives += 1
+#                 results.append({
+#                     "Key": key,
+#                     "Text Entry": text_human,
+#                     "Hit": hit
+#                 })
+#         else:
+#             # If the key is not present in resolveanno, all hits are 0 and all are false negatives
+#             for human_entry in humananno[key]:
+#                 results.append({
+#                     "Key": key,
+#                     "Text Entry": human_entry["text"],
+#                     "Hit": 0
+#                 })
+#                 false_negatives += 1
+    
+#     # Calculate false positives
+#     for key in resolveanno:
+#         if key in humananno:
+#             for resolve_entry in resolveanno[key]:
+#                 text_resolve = resolve_entry["text"]
+#                 hit = 0
+#                 for human_entry in humananno[key]:
+#                     text_human = human_entry["text"]
+#                     if one_gram_overlap(text_human, text_resolve) > 0:
+#                         hit = 1
+#                         break
+#                 if hit == 0:
+#                     false_positives += 1
+#         else:
+#             false_positives += len(resolveanno[key])
+
+#     # Calculate Precision and Recall
+#     precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0
+#     recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0
+
+#     # Calculate F1 Score
+#     if precision + recall > 0:
+#         f1_score = 2 * (precision * recall) / (precision + recall)
+#     else:
+#         f1_score = 0
+
+#     # Convert results to a pandas DataFrame for better readability
+#     df_results = pd.DataFrame(results)
+    
+#     return df_results, precision, recall, f1_score
+
+# def process_annotations(noteid_list, human_folder, resolve_folder, output_csv):
+#     results_list = []
+
+#     for note_id in noteid_list:
+#         # Construct file paths
+#         human_file = os.path.join(human_folder, f"annotations-gpt4o-{note_id}.json")      #change filename format for gpt4o and llama3
+#         # human_file = os.path.join(human_folder, f"annotations-llama3-{note_id}.json")      #change filename format for gpt4o and llama3
+#         resolve_file = os.path.join(resolve_folder, f"{note_id}.json")          #change filename format for gpt4o and llama3
+
+#         # Load the JSON data
+#         with open(human_file, 'r') as hf:
+#             humananno = json.load(hf)
+#         with open(resolve_file, 'r') as lf:
+#             resolveanno = json.load(lf)
+
+#         # Calculate evaluation metrics
+#         eval_df, precision, recall, f1_score = check_annotations(humananno, resolveanno)
+        
+#         # Append results to list
+#         results_list.append({
+#             "note_id": note_id,
+#             "eval_df": eval_df.to_json(orient='records'),
+#             "precision": precision,
+#             "recall": recall,
+#             "f1": f1_score
+#         })
+
+#     # Convert the results to a DataFrame
+#     results_df = pd.DataFrame(results_list)
+
+#     # Save the DataFrame to a CSV file
+#     results_df.to_csv(output_csv, index=False)
+
+
+# noteid_list = ["10002221-DS-11"]
+
+# # noteid_list = [
+# #     "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
+# #     "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
+# #     "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
+# #     "10047172-DS-15", "10047172-DS-16", "10052992-DS-17", "10054464-DS-19",
+# #     "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
+# #     "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
+# #     "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
+# #     "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
+# #     "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
+# #     "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
+# #     "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
+# #     "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
+# #     "10036086-DS-25", "10098875-DS-12"
+# # ]
+# human_folder = 'data/human-annotations/set2/gpt4o'  # Replace with the path to your human annotations folder
+# resolve_folder = 'data/resolve-cleaned/set2/gpt4o'  # Replace with the path to your resolve annotations folder
+# output_csv = 'evaluation/human-resolve-index-gpt4o_evaluation_results.csv'  # Replace with the desired output CSV file path
+
+# process_annotations(noteid_list, human_folder, resolve_folder, output_csv)
+
+# print(f"Results saved to {output_csv}")
+
 import os
 import json
 import pandas as pd
-from collections import Counter
-from nltk.corpus import stopwords
-
-# Load stopwords
-stop_words = set(stopwords.words('english'))
-
-def remove_stopwords(text):
-    """Remove stopwords from a given text."""
-    tokens = text.split()
-    filtered_tokens = [word for word in tokens if word.lower() not in stop_words]
-    return " ".join(filtered_tokens)
-
-def one_gram_overlap(text1, text2):
-    """Calculate the one-gram overlap between two texts after removing stopwords."""
-    text1 = remove_stopwords(text1)
-    text2 = remove_stopwords(text2)
-    tokens1 = text1.split()
-    tokens2 = text2.split()
-    count1 = Counter(tokens1)
-    count2 = Counter(tokens2)
-    overlap = sum((count1 & count2).values())
-    return overlap
 
 def check_annotations(humananno, resolveanno):
     results = []
@@ -45,16 +175,23 @@ def check_annotations(humananno, resolveanno):
     false_positives = 0
     false_negatives = 0
     
+    # Flag to determine if any entry had null CharacterIndices
+    has_null_indices = False
+
     # Traverse through keys in humananno
     for key in humananno:
         if key in resolveanno:
             # Compare each entry in humananno with all entries in resolveanno
             for human_entry in humananno[key]:
-                text_human = human_entry["text"]
+                start_human = human_entry["startOffset"]
+                end_human = human_entry["endOffset"]
                 hit = 0
                 for resolve_entry in resolveanno[key]:
-                    text_resolve = resolve_entry["text"]
-                    if one_gram_overlap(text_human, text_resolve) > 0:
+                    if resolve_entry["CharacterIndices"] is None:
+                        has_null_indices = True
+                        continue  # Skip if CharacterIndices is null
+                    start_resolve, end_resolve = resolve_entry["CharacterIndices"]
+                    if start_resolve >= start_human and end_resolve <= end_human:
                         hit = 1
                         true_positives += 1
                         break
@@ -62,16 +199,20 @@ def check_annotations(humananno, resolveanno):
                     false_negatives += 1
                 results.append({
                     "Key": key,
-                    "Text Entry": text_human,
-                    "Hit": hit
+                    "Human Text Entry": human_entry["text"],
+                    "Resolve Text Entry": resolve_entry.get("text", ""),  # Adding resolve text for better clarity
+                    "Hit": hit,
+                    "CharacterIndices": resolve_entry["CharacterIndices"]  # Include the indices in the results
                 })
         else:
             # If the key is not present in resolveanno, all hits are 0 and all are false negatives
             for human_entry in humananno[key]:
                 results.append({
                     "Key": key,
-                    "Text Entry": human_entry["text"],
-                    "Hit": 0
+                    "Human Text Entry": human_entry["text"],
+                    "Resolve Text Entry": "",  # No resolve text since key is missing
+                    "Hit": 0,
+                    "CharacterIndices": None  # Null CharacterIndices
                 })
                 false_negatives += 1
     
@@ -79,11 +220,15 @@ def check_annotations(humananno, resolveanno):
     for key in resolveanno:
         if key in humananno:
             for resolve_entry in resolveanno[key]:
-                text_resolve = resolve_entry["text"]
+                if resolve_entry["CharacterIndices"] is None:
+                    has_null_indices = True
+                    continue  # Skip if CharacterIndices is null
+                start_resolve, end_resolve = resolve_entry["CharacterIndices"]
                 hit = 0
                 for human_entry in humananno[key]:
-                    text_human = human_entry["text"]
-                    if one_gram_overlap(text_human, text_resolve) > 0:
+                    start_human = human_entry["startOffset"]
+                    end_human = human_entry["endOffset"]
+                    if start_resolve >= start_human and end_resolve <= end_human:
                         hit = 1
                         break
                 if hit == 0:
@@ -91,15 +236,15 @@ def check_annotations(humananno, resolveanno):
         else:
             false_positives += len(resolveanno[key])
 
-    # Calculate Precision and Recall
-    precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0
-    recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0
-
-    # Calculate F1 Score
-    if precision + recall > 0:
-        f1_score = 2 * (precision * recall) / (precision + recall)
+    # Calculate Precision, Recall, and F1 Score, set to None if there were null CharacterIndices
+    if has_null_indices:
+        precision = None
+        recall = None
+        f1_score = None
     else:
-        f1_score = 0
+        precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0
+        recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0
+        f1_score = 2 * (precision * recall) / (precision + recall) if precision + recall > 0 else 0
 
     # Convert results to a pandas DataFrame for better readability
     df_results = pd.DataFrame(results)
@@ -111,8 +256,7 @@ def process_annotations(noteid_list, human_folder, resolve_folder, output_csv):
 
     for note_id in noteid_list:
         # Construct file paths
-        # human_file = os.path.join(human_folder, f"annotations-gpt4o-{note_id}.json")      #change filename format for gpt4o and llama3
-        human_file = os.path.join(human_folder, f"annotations-llama3-{note_id}.json")      #change filename format for gpt4o and llama3
+        human_file = os.path.join(human_folder, f"annotations-gpt4o-{note_id}.json")      #change filename format for gpt4o and llama3
         resolve_file = os.path.join(resolve_folder, f"{note_id}.json")          #change filename format for gpt4o and llama3
 
         # Load the JSON data
@@ -140,26 +284,12 @@ def process_annotations(noteid_list, human_folder, resolve_folder, output_csv):
     results_df.to_csv(output_csv, index=False)
 
 
-noteid_list = [
-    "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
-    "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
-    "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
-    "10047172-DS-15", "10047172-DS-16", "10052992-DS-17", "10054464-DS-19",
-    "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
-    "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
-    "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
-    "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
-    "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
-    "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
-    "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
-    "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
-    "10036086-DS-25", "10098875-DS-12"
-]
+noteid_list = ["10002221-DS-11"]
+
 human_folder = 'data/human-annotations/set2/gpt4o'  # Replace with the path to your human annotations folder
 resolve_folder = 'data/resolve-cleaned/set2/gpt4o'  # Replace with the path to your resolve annotations folder
-output_csv = 'evaluation/human-resolve-index-gpt4o_evaluation_results.csv'  # Replace with the desired output CSV file path
+output_csv = 'evaluation/human-resolve-index-gpt4o_evaluation_results_check.csv'  # Replace with the desired output CSV file path
 
 process_annotations(noteid_list, human_folder, resolve_folder, output_csv)
 
 print(f"Results saved to {output_csv}")
-
