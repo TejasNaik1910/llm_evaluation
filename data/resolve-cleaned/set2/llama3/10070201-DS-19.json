@@ -1,0 +1,244 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "clinically stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "resolving",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Invasive",
+            "CharacterIndices": null,
+            "omittedDetails": "Cancer"
+        },
+        {
+            "text": "Edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Edema"
+        },
+        {
+            "text": "Cataracts",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Cataract"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "delirium",
+            "CharacterIndices": null,
+            "omittedDetails": "Delirium Due To Known Physiological Condition"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "agitation",
+            "CharacterIndices": null,
+            "omittedDetails": "Agitation"
+        },
+        {
+            "text": "confusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "hypoxia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypoxia"
+        },
+        {
+            "text": "Murmur",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Murmur Unspecified"
+        },
+        {
+            "text": "cardiac surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Surgery"
+        },
+        {
+            "text": "saphenous vein graft",
+            "CharacterIndices": null,
+            "omittedDetails": "Saphenous Vein Graft"
+        },
+        {
+            "text": "bypass surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Bypass Surgery"
+        },
+        {
+            "text": "graft",
+            "CharacterIndices": null,
+            "omittedDetails": "Grafting Procedure"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "redness",
+            "CharacterIndices": [
+                1862,
+                1869
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "110",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Glucophage",
+            "CharacterIndices": null,
+            "omittedDetails": "Metformin Hydrochloride"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "GlipiZIDE",
+            "CharacterIndices": null,
+            "omittedDetails": "Glipizide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Atorvastatin",
+            "CharacterIndices": null,
+            "omittedDetails": "Atorvastatin"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "amLODIPine",
+            "CharacterIndices": null,
+            "omittedDetails": "Amlodipine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Albuterol",
+            "CharacterIndices": [
+                1440,
+                1449
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Heparin",
+            "CharacterIndices": [
+                1564,
+                1571
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Bisacodyl",
+            "CharacterIndices": [
+                1501,
+                1510
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

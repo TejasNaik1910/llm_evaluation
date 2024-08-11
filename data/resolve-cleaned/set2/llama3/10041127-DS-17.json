@@ -1,0 +1,266 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "decrease in size",
+            "CharacterIndices": null,
+            "omittedDetails": "Partial Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "hepatocellular carcinoma",
+            "CharacterIndices": [
+                1888,
+                1912
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hypercalcemia",
+            "CharacterIndices": [
+                728,
+                741
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": [
+                1636,
+                1642
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "PTA",
+            "CharacterIndices": null,
+            "omittedDetails": "PTa"
+        },
+        {
+            "text": "malignant ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Malignant Ascites"
+        },
+        {
+            "text": "bloating",
+            "CharacterIndices": null,
+            "omittedDetails": "Bloating"
+        },
+        {
+            "text": "intermittent fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Relapsing Fevers"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "cramps",
+            "CharacterIndices": null,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "orthopnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Orthopnea"
+        },
+        {
+            "text": "early satiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Early Satiety"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "esophageal varices",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophageal Varices"
+        },
+        {
+            "text": "bibasilar atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "lightheadedness",
+            "CharacterIndices": null,
+            "omittedDetails": "Dizziness And Giddiness"
+        },
+        {
+            "text": "vision changes",
+            "CharacterIndices": null,
+            "omittedDetails": "Visual Disturbances"
+        },
+        {
+            "text": "cholecystitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Cholecystitis"
+        },
+        {
+            "text": "urinary frequency",
+            "CharacterIndices": null,
+            "omittedDetails": "Frequency Of Micturition"
+        },
+        {
+            "text": "myelosuppression",
+            "CharacterIndices": null,
+            "omittedDetails": "Pancytopenia"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "CT abd",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "CT of the abdomen and pelvis",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "u/s",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "lap",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Sex:   M",
+            "CharacterIndices": null,
+            "omittedDetails": "Male"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Megestrol",
+            "CharacterIndices": null,
+            "omittedDetails": "Megestrol Regimen"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "zosyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Piperacillin-Tazobactam"
+        },
+        {
+            "text": "4.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sorafenib",
+            "CharacterIndices": null,
+            "omittedDetails": "Sorafenib Regimen"
+        },
+        {
+            "text": "gemcitabine",
+            "CharacterIndices": null,
+            "omittedDetails": "Gemcitabine Regimen"
+        },
+        {
+            "text": "120",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Sucralfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Sucralfate"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Docusate",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Pantoprazole",
+            "CharacterIndices": null,
+            "omittedDetails": "Pantoprazole"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "bisphosphonate",
+            "CharacterIndices": [
+                793,
+                807
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

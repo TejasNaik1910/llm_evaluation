@@ -1,0 +1,160 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "Fever",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "infection",
+            "CharacterIndices": null,
+            "omittedDetails": "Infection"
+        },
+        {
+            "text": "clubbing",
+            "CharacterIndices": null,
+            "omittedDetails": "Clubbing Of Fingers"
+        },
+        {
+            "text": "swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "redness",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythema"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "numbness",
+            "CharacterIndices": null,
+            "omittedDetails": "Numbness"
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "confusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "cyanosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Cyanosis"
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Edema"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "sharp headaches",
+            "CharacterIndices": [
+                635,
+                650
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "TYLENOL",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "Advil",
+            "CharacterIndices": null,
+            "omittedDetails": "Advil"
+        },
+        {
+            "text": "narcotic",
+            "CharacterIndices": null,
+            "omittedDetails": "Opioid Receptor Agonist"
+        },
+        {
+            "text": "DOCUSATE",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Prilosec",
+            "CharacterIndices": null,
+            "omittedDetails": "Omeprazole"
+        },
+        {
+            "text": "Aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "Protonix",
+            "CharacterIndices": null,
+            "omittedDetails": "Pantoprazole Sodium"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "2",
+            "CharacterIndices": [
+                3808,
+                3809
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": [
+                3692,
+                3695
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "5",
+            "CharacterIndices": [
+                3756,
+                3757
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "325",
+            "CharacterIndices": [
+                3616,
+                3619
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

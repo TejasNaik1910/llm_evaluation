@@ -1,0 +1,149 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Effusion"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "Diverticulosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Diverticulosis Of Intestine Part Unspecified Without Perforation Or Abscess Without Bleeding"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "lobectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Lobectomy"
+        },
+        {
+            "text": "vascular surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Blood Vessel Operations"
+        },
+        {
+            "text": "CT chest",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Chest"
+        },
+        {
+            "text": "CT A/P",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CT Angiography"
+        },
+        {
+            "text": "surveillance",
+            "CharacterIndices": null,
+            "omittedDetails": "Surveillance"
+        },
+        {
+            "text": "Cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "Doppler ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "thrombus",
+            "CharacterIndices": [
+                999,
+                1007
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "thoracoscopy",
+            "CharacterIndices": [
+                1486,
+                1498
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "tenofovir",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenofovir"
+        },
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        },
+        {
+            "text": "Miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        },
+        {
+            "text": "Aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Polyethylene Glycol",
+            "CharacterIndices": [
+                1247,
+                1266
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "17",
+            "CharacterIndices": [
+                1267,
+                1269
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

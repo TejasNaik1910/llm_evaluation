@@ -1,0 +1,153 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "Increased size",
+            "CharacterIndices": null,
+            "omittedDetails": "Bad Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "wounds",
+            "CharacterIndices": null,
+            "omittedDetails": "Wounds And Their Complications"
+        },
+        {
+            "text": "Chronic anemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Anemia"
+        },
+        {
+            "text": "Diverticulitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Diverticular Disease Of Intestine Part Unspecified Without Perforation Or Abscess"
+        },
+        {
+            "text": "Obesity",
+            "CharacterIndices": null,
+            "omittedDetails": "Obesity Unspecified"
+        },
+        {
+            "text": "anxious",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "pleural effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "dehydrated",
+            "CharacterIndices": null,
+            "omittedDetails": "Dehydration"
+        },
+        {
+            "text": "erythema",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythema"
+        },
+        {
+            "text": "partial esophagectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Partial Esophagectomy"
+        },
+        {
+            "text": "splenectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Splenectomy"
+        },
+        {
+            "text": "ostomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Ostomy"
+        },
+        {
+            "text": "sigmoid colectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Resection Of Sigmoid Colon"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Penicillins",
+            "CharacterIndices": null,
+            "omittedDetails": "Penicillin Antibiotic"
+        }
+    ]
+}

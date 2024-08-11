@@ -1,0 +1,300 @@
+{
+    "Incorrect Followup": [
+        {
+            "text": "Progression",
+            "CharacterIndices": [
+                254,
+                265
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "tolerated well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        },
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "MALIGNANT PLEURAL EFFUSION",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage Iv"
+        },
+        {
+            "text": "MALIGNANT PLEURAL EFFUSION",
+            "CharacterIndices": null,
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "blood clot",
+            "CharacterIndices": null,
+            "omittedDetails": "Coagulation Defect Unspecified"
+        },
+        {
+            "text": "hepatitis B",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Viral Hepatitis B Without Delta-Agent"
+        },
+        {
+            "text": "abscess",
+            "CharacterIndices": null,
+            "omittedDetails": "Abscess Infection"
+        },
+        {
+            "text": "effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Effusion"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "Hemoptysis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemoptysis"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "pulmonary embolism",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Embolism"
+        },
+        {
+            "text": "Diabetes type 2",
+            "CharacterIndices": null,
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "Sepsis",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Sepsis"
+        },
+        {
+            "text": "blood glucose",
+            "CharacterIndices": null,
+            "omittedDetails": "Abnormal Glucose"
+        },
+        {
+            "text": "lobectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Lobectomy"
+        },
+        {
+            "text": "thoracoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleuroscopy"
+        },
+        {
+            "text": "Thoracic surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Thoracic Surgery"
+        },
+        {
+            "text": "mechanical pleurodesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Mechanical Pleurodesis"
+        },
+        {
+            "text": "cholecystectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Cholecystectomy"
+        },
+        {
+            "text": "partial excision",
+            "CharacterIndices": null,
+            "omittedDetails": "Abdominoperineal Excision Of Rectum"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "bronchoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Bronchoscopy"
+        },
+        {
+            "text": "PET/CT",
+            "CharacterIndices": null,
+            "omittedDetails": "PET/CT"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "male",
+            "CharacterIndices": null,
+            "omittedDetails": "Male"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "7.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Vancomycin",
+            "CharacterIndices": null,
+            "omittedDetails": "Vancomycin"
+        },
+        {
+            "text": "tenofovir",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenofovir"
+        },
+        {
+            "text": "6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "multivitamin",
+            "CharacterIndices": null,
+            "omittedDetails": "Multivitamin"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "piperacillin-tazobactam",
+            "CharacterIndices": null,
+            "omittedDetails": "Piperacillin-Tazobactam"
+        },
+        {
+            "text": "Novolog",
+            "CharacterIndices": null,
+            "omittedDetails": "Insulin Aspart"
+        },
+        {
+            "text": "blood products",
+            "CharacterIndices": null,
+            "omittedDetails": "Blood Product"
+        },
+        {
+            "text": "albumin",
+            "CharacterIndices": null,
+            "omittedDetails": "Albumin"
+        },
+        {
+            "text": "amoxicillin",
+            "CharacterIndices": null,
+            "omittedDetails": "Amoxicillin"
+        },
+        {
+            "text": "875",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "minerals",
+            "CharacterIndices": null,
+            "omittedDetails": "Mineral"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Multivitamins with minerals",
+            "CharacterIndices": [
+                513,
+                540
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

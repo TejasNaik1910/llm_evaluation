@@ -1,0 +1,323 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "progression of disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Progression"
+        },
+        {
+            "text": "mixed response",
+            "CharacterIndices": null,
+            "omittedDetails": "Mixed Unclear Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "T2DM",
+            "CharacterIndices": null,
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "stent",
+            "CharacterIndices": null,
+            "omittedDetails": "Atherosclerosis"
+        },
+        {
+            "text": "fatigue",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Ascites"
+        },
+        {
+            "text": "bacteremia",
+            "CharacterIndices": null,
+            "omittedDetails": "Bacteremia"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "Acute blood loss anemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Posthemorrhagic Anemia"
+        },
+        {
+            "text": "poor appetite",
+            "CharacterIndices": null,
+            "omittedDetails": "Anorexia"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "hyperbilirubinemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperbilirubinemia"
+        },
+        {
+            "text": "heart murmur",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Murmur Unspecified"
+        },
+        {
+            "text": "splenomegaly",
+            "CharacterIndices": null,
+            "omittedDetails": "Splenomegaly Not Elsewhere Classified"
+        },
+        {
+            "text": "hypoglycemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypoglycemia Unspecified"
+        },
+        {
+            "text": "duodenal obstruction",
+            "CharacterIndices": null,
+            "omittedDetails": "Duodenal Obstruction"
+        },
+        {
+            "text": "stent",
+            "CharacterIndices": null,
+            "omittedDetails": "Stent Placement"
+        },
+        {
+            "text": "ERCP",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Retrograde Cholangiopancreatography"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "CT scan",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography"
+        },
+        {
+            "text": "FNA",
+            "CharacterIndices": null,
+            "omittedDetails": "Fine Needle Aspiration"
+        },
+        {
+            "text": "XR",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "fluid retention",
+            "CharacterIndices": [
+                1019,
+                1034
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hyperglycemia",
+            "CharacterIndices": [
+                972,
+                985
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hyperlipidemia",
+            "CharacterIndices": [
+                154,
+                168
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ritalin",
+            "CharacterIndices": null,
+            "omittedDetails": "Methylphenidate Hydrochloride"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "zosyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Piperacillin-Tazobactam"
+        },
+        {
+            "text": "furosemide",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "modified FOLFIRINOX",
+            "CharacterIndices": null,
+            "omittedDetails": "Modified FOLFIRINOX Regimen"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "LORazepam",
+            "CharacterIndices": null,
+            "omittedDetails": "Lorazepam"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Glucophage",
+            "CharacterIndices": null,
+            "omittedDetails": "Metformin Hydrochloride"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "heparin",
+            "CharacterIndices": null,
+            "omittedDetails": "Heparin"
+        },
+        {
+            "text": "lantus",
+            "CharacterIndices": null,
+            "omittedDetails": "Lantus Solostar"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "CITRATE",
+            "CharacterIndices": null,
+            "omittedDetails": "Citrate"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Tamsulosin",
+            "CharacterIndices": null,
+            "omittedDetails": "Tamsulosin"
+        },
+        {
+            "text": "0.4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Nystatin",
+            "CharacterIndices": null,
+            "omittedDetails": "Nystatin"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Pyridoxine",
+            "CharacterIndices": null,
+            "omittedDetails": "Vitamin B6"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "total parenteral nutrition",
+            "CharacterIndices": [
+                813,
+                839
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "FOLFIRINOX",
+            "CharacterIndices": [
+                567,
+                577
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Abraxane",
+            "CharacterIndices": [
+                591,
+                599
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CapOx",
+            "CharacterIndices": [
+                605,
+                610
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

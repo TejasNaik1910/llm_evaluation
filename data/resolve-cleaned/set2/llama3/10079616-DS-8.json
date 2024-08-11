@@ -1,0 +1,202 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "progressed",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Progression"
+        },
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "carcinomatosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage Iv"
+        },
+        {
+            "text": "carcinomatosis",
+            "CharacterIndices": null,
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "leaked urine",
+            "CharacterIndices": null,
+            "omittedDetails": "Urinary Incontinence"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "stents",
+            "CharacterIndices": null,
+            "omittedDetails": "Atherosclerosis"
+        },
+        {
+            "text": "chronic inflammation",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Inflammation"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "TTP",
+            "CharacterIndices": null,
+            "omittedDetails": "Immune Thrombocytopenic Purpura"
+        },
+        {
+            "text": "stents",
+            "CharacterIndices": null,
+            "omittedDetails": "Stent Placement"
+        },
+        {
+            "text": "liver biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy Of Liver"
+        },
+        {
+            "text": "CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "dyslipidemia",
+            "CharacterIndices": [
+                501,
+                513
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "leukocytosis",
+            "CharacterIndices": [
+                1011,
+                1023
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "sodium",
+            "CharacterIndices": [
+                1060,
+                1066
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": [
+                1435,
+                1443
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Neulasta",
+            "CharacterIndices": null,
+            "omittedDetails": "Pegfilgrastim Regimen"
+        },
+        {
+            "text": "lisinopril",
+            "CharacterIndices": null,
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Dilaudid",
+            "CharacterIndices": null,
+            "omittedDetails": "Dilaudid"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "sennosides",
+            "CharacterIndices": null,
+            "omittedDetails": "Sennosides"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "pRBCs",
+            "CharacterIndices": null,
+            "omittedDetails": "Red Blood Cells Product"
+        },
+        {
+            "text": "7",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Electrolytes",
+            "CharacterIndices": [
+                1026,
+                1038
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

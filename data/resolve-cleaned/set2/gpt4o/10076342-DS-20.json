@@ -1,0 +1,361 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Hepatic Encephalopathy",
+            "CharacterIndices": [
+                1508,
+                1530
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Thrombocytopenia",
+            "CharacterIndices": [
+                2250,
+                2266
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Dehydration",
+            "CharacterIndices": [
+                2491,
+                2502
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Alcoholism",
+            "CharacterIndices": [
+                2414,
+                2424
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Hyperglycemia",
+            "CharacterIndices": [
+                2532,
+                2545
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Infarct",
+            "CharacterIndices": [
+                2327,
+                2334
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": [
+                1017,
+                1022
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "metastatic non-small cell lung cancer",
+            "CharacterIndices": [
+                539,
+                576
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "hematemesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematemesis"
+        },
+        {
+            "text": "Swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemorrhage Not Elsewhere Classified"
+        },
+        {
+            "text": "Confusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "Hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "Vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "Diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "Melena",
+            "CharacterIndices": null,
+            "omittedDetails": "Melena"
+        },
+        {
+            "text": "Nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "Numbness",
+            "CharacterIndices": null,
+            "omittedDetails": "Numbness"
+        },
+        {
+            "text": "Orthopnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Orthopnea"
+        },
+        {
+            "text": "Weakness",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "PET-CT",
+            "CharacterIndices": null,
+            "omittedDetails": "PET/CT"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "Thoracic surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Thoracic Surgery"
+        },
+        {
+            "text": "tumor resection",
+            "CharacterIndices": null,
+            "omittedDetails": "Radical Resection Of Tumor Of Musculoskletal System"
+        },
+        {
+            "text": "lung resection",
+            "CharacterIndices": null,
+            "omittedDetails": "Lung Resection"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "recovered",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "tolerated well",
+            "CharacterIndices": [
+                2212,
+                2226
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Insulin Regular",
+            "CharacterIndices": null,
+            "omittedDetails": "Insulin Human"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lidocaine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Lidocaine Hydrochloride"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ipratropium Bromide",
+            "CharacterIndices": null,
+            "omittedDetails": "Ipratropium Bromide"
+        },
+        {
+            "text": "0.0",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Tartrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Advil",
+            "CharacterIndices": null,
+            "omittedDetails": "Advil"
+        },
+        {
+            "text": "solumedrol",
+            "CharacterIndices": null,
+            "omittedDetails": "Solumedrol"
+        },
+        {
+            "text": "125",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "oxygen therapy",
+            "CharacterIndices": null,
+            "omittedDetails": "Supplemental Oxygen"
+        },
+        {
+            "text": "Thiamine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Thiamine Hydrochloride"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Albuterol Sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Albuterol Sulfate"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Levetiracetam",
+            "CharacterIndices": [
+                2938,
+                2951
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Pantoprazole",
+            "CharacterIndices": [
+                2856,
+                2868
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "platelet",
+            "CharacterIndices": [
+                2291,
+                2299
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Albuterol",
+            "CharacterIndices": [
+                2914,
+                2923
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": [
+                3000,
+                3005
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

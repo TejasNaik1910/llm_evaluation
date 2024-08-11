@@ -1,0 +1,128 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "asymptomatic",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemorrhage Not Elsewhere Classified"
+        },
+        {
+            "text": "Erythema",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythema"
+        },
+        {
+            "text": "dysphagia",
+            "CharacterIndices": null,
+            "omittedDetails": "Dysphagia"
+        },
+        {
+            "text": "arrest",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Arrest"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "gastritis",
+            "CharacterIndices": null,
+            "omittedDetails": "Gastritis Unspecified"
+        },
+        {
+            "text": "colostomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colo-colostomy"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "echocardiograms",
+            "CharacterIndices": null,
+            "omittedDetails": "Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Chronic obstructive pulmonary disease (COPD)",
+            "CharacterIndices": [
+                418,
+                462
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "anticoagulants",
+            "CharacterIndices": null,
+            "omittedDetails": "Anticoagulation Therapy"
+        },
+        {
+            "text": "neoadjuvant chemotherapy",
+            "CharacterIndices": null,
+            "omittedDetails": "Neoadjuvant Chemotherapy"
+        },
+        {
+            "text": "neoadjuvant chemotherapy",
+            "CharacterIndices": null,
+            "omittedDetails": "Neoadjuvant"
+        },
+        {
+            "text": "Erythromycin Base",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythromycin"
+        },
+        {
+            "text": "Streptomycin",
+            "CharacterIndices": null,
+            "omittedDetails": "Streptomycin"
+        },
+        {
+            "text": "Citric Acid",
+            "CharacterIndices": null,
+            "omittedDetails": "Citric Acid Monohydrate"
+        },
+        {
+            "text": "Penicillins",
+            "CharacterIndices": null,
+            "omittedDetails": "Penicillin Antibiotic"
+        },
+        {
+            "text": "Atenolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Atenolol"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "20",
+            "CharacterIndices": [
+                1262,
+                1264
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

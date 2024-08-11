@@ -1,0 +1,307 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "tolerated well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        },
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Progression",
+            "CharacterIndices": [
+                207,
+                218
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Cancer",
+            "CharacterIndices": [
+                73,
+                79
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "pleural effusions",
+            "CharacterIndices": [
+                975,
+                992
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "decubitus ulcer",
+            "CharacterIndices": [
+                1572,
+                1587
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "agitation",
+            "CharacterIndices": [
+                767,
+                776
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "male",
+            "CharacterIndices": null,
+            "omittedDetails": "Male"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "confusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "COPD",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Chronic Obstructive Pulmonary Disease"
+        },
+        {
+            "text": "Hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "hypotension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypotension"
+        },
+        {
+            "text": "weakness",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "Anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "anasarca",
+            "CharacterIndices": null,
+            "omittedDetails": "Generalized Edema"
+        },
+        {
+            "text": "Urinary tract infection",
+            "CharacterIndices": null,
+            "omittedDetails": "UTI - Urinary Tract Infection"
+        },
+        {
+            "text": "dehydration",
+            "CharacterIndices": null,
+            "omittedDetails": "Dehydration"
+        },
+        {
+            "text": "spine disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Spondylopathy Unspecified"
+        },
+        {
+            "text": "Cervical stenosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Stricture And Stenosis Of Cervix Uteri"
+        },
+        {
+            "text": "Hypercholesterolemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Pure Hypercholesterolemia Unspecified"
+        },
+        {
+            "text": "Depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Depression"
+        },
+        {
+            "text": "Alcoholism",
+            "CharacterIndices": null,
+            "omittedDetails": "Alcohol Dependence"
+        },
+        {
+            "text": "urosepsis",
+            "CharacterIndices": null,
+            "omittedDetails": "Urosepsis"
+        },
+        {
+            "text": "fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "GERD",
+            "CharacterIndices": null,
+            "omittedDetails": "Gastro-Esophageal Reflux Disease"
+        },
+        {
+            "text": "Hypercalcemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypercalcemia"
+        },
+        {
+            "text": "knee replacements",
+            "CharacterIndices": null,
+            "omittedDetails": "Total Knee Arthroplasty"
+        },
+        {
+            "text": "CT pelvis",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Pelvis"
+        },
+        {
+            "text": "Head CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Head"
+        },
+        {
+            "text": "MRI Brain",
+            "CharacterIndices": null,
+            "omittedDetails": "Brain MRI"
+        },
+        {
+            "text": "kidney biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Renal Biopsy"
+        },
+        {
+            "text": "Ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "cefepime",
+            "CharacterIndices": null,
+            "omittedDetails": "Cefepime"
+        },
+        {
+            "text": "spiriva",
+            "CharacterIndices": null,
+            "omittedDetails": "Tiotropium Bromide Monohydrate"
+        },
+        {
+            "text": "zoloft",
+            "CharacterIndices": null,
+            "omittedDetails": "Sertraline Hydrochloride"
+        },
+        {
+            "text": "cipro",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin"
+        },
+        {
+            "text": "traZODONE",
+            "CharacterIndices": null,
+            "omittedDetails": "Trazodone"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "vanco",
+            "CharacterIndices": null,
+            "omittedDetails": "Vancomycin"
+        },
+        {
+            "text": "Atorvastatin",
+            "CharacterIndices": null,
+            "omittedDetails": "Atorvastatin"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Furosemide",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Atenolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Atenolol"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ceftriaxone",
+            "CharacterIndices": null,
+            "omittedDetails": "Ceftriaxone"
+        },
+        {
+            "text": "hydralazine",
+            "CharacterIndices": null,
+            "omittedDetails": "Hydralazine"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "MS contin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ms Contin"
+        },
+        {
+            "text": "Fluticasone Propionate",
+            "CharacterIndices": null,
+            "omittedDetails": "Fluticasone Propionate"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Polyethylene Glycol",
+            "CharacterIndices": [
+                601,
+                620
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "17",
+            "CharacterIndices": [
+                621,
+                623
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "slight improvement",
+            "CharacterIndices": null,
+            "omittedDetails": "Partial Response"
+        },
+        {
+            "text": "resolution of",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "Female",
+            "CharacterIndices": [
+                209,
+                215
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "reflux",
+            "CharacterIndices": null,
+            "omittedDetails": "Gastro-Esophageal Reflux Disease"
+        },
+        {
+            "text": "SP",
+            "CharacterIndices": null,
+            "omittedDetails": "Stiff-Man Syndrome"
+        },
+        {
+            "text": "Hepatic steatosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatty Change Of Liver Not Elsewhere Classified"
+        },
+        {
+            "text": "periumbilical hernia",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Abdominal Hernia"
+        },
+        {
+            "text": "renal cysts",
+            "CharacterIndices": null,
+            "omittedDetails": "Kidney Cyst"
+        },
+        {
+            "text": "drainage of pelvic abscess",
+            "CharacterIndices": null,
+            "omittedDetails": "Drainage Of Pelvic Abscess"
+        },
+        {
+            "text": "Foot surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Foot/Toes Surgery Procedure"
+        },
+        {
+            "text": "CT abd/pel",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "lap",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "Echo",
+            "CharacterIndices": null,
+            "omittedDetails": "Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "pulmonary hypertension",
+            "CharacterIndices": [
+                605,
+                627
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "urge incontinence",
+            "CharacterIndices": [
+                1762,
+                1779
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "obstructive sleep apnea",
+            "CharacterIndices": [
+                657,
+                680
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "irritable bowel syndrome (IBS)",
+            "CharacterIndices": [
+                1730,
+                1760
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                1684,
+                1690
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": [
+                1991,
+                2001
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "pelvic lymph node dissection",
+            "CharacterIndices": [
+                855,
+                883
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "lap",
+            "CharacterIndices": [
+                1613,
+                1616
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CT-guided drainage",
+            "CharacterIndices": [
+                407,
+                425
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "flagyl",
+            "CharacterIndices": null,
+            "omittedDetails": "Metronidazole Hydrochloride"
+        },
+        {
+            "text": "Vesicare",
+            "CharacterIndices": null,
+            "omittedDetails": "Solifenacin Succinate"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lipitor",
+            "CharacterIndices": null,
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ADVIL",
+            "CharacterIndices": null,
+            "omittedDetails": "Advil"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lantus",
+            "CharacterIndices": null,
+            "omittedDetails": "Lantus Solostar"
+        },
+        {
+            "text": "tape",
+            "CharacterIndices": null,
+            "omittedDetails": "Adhesive Tape"
+        },
+        {
+            "text": "narcotics",
+            "CharacterIndices": null,
+            "omittedDetails": "Opioid Receptor Agonist"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "ciprofloxacin",
+            "CharacterIndices": [
+                2826,
+                2839
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "multivitamin",
+            "CharacterIndices": [
+                3268,
+                3280
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "glucagon",
+            "CharacterIndices": [
+                3500,
+                3508
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

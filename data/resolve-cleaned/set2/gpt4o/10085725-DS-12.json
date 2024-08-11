@@ -1,0 +1,156 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "increased in size",
+            "CharacterIndices": null,
+            "omittedDetails": "Bad Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "NSCLC",
+            "CharacterIndices": [
+                562,
+                567
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "metastatic NSCLC",
+            "CharacterIndices": [
+                2483,
+                2499
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "metastatic NSCLC",
+            "CharacterIndices": [
+                2483,
+                2499
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Type II Diabetes Mellitus",
+            "CharacterIndices": [
+                973,
+                998
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Myocardial Infarction",
+            "CharacterIndices": [
+                1032,
+                1053
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Hypoxemia",
+            "CharacterIndices": null,
+            "omittedDetails": "HYPOXEMIA"
+        },
+        {
+            "text": "JVD",
+            "CharacterIndices": null,
+            "omittedDetails": "Jugular Vein Distension"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": [
+                585,
+                586
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "oxygen",
+            "CharacterIndices": [
+                2669,
+                2675
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "2",
+            "CharacterIndices": [
+                2709,
+                2710
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Antibiotics",
+            "CharacterIndices": null,
+            "omittedDetails": "Antibiotic"
+        },
+        {
+            "text": "Sulfonamide",
+            "CharacterIndices": null,
+            "omittedDetails": "Sulfonamide Anti-Infective Agent"
+        },
+        {
+            "text": "Ketorolac",
+            "CharacterIndices": null,
+            "omittedDetails": "Ketorolac"
+        },
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolution",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Invasive",
+            "CharacterIndices": null,
+            "omittedDetails": "Cancer"
+        },
+        {
+            "text": "decreased appetite",
+            "CharacterIndices": null,
+            "omittedDetails": "Anorexia"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "loose stools",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "osteoporosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Osteoporosis"
+        },
+        {
+            "text": "vaginal bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Abnormal Uterine And Vaginal Bleeding Unspecified"
+        },
+        {
+            "text": "hypotension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypotension"
+        },
+        {
+            "text": "lose weight",
+            "CharacterIndices": null,
+            "omittedDetails": "Weight Loss"
+        },
+        {
+            "text": "tachycardic",
+            "CharacterIndices": null,
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "blood clot",
+            "CharacterIndices": null,
+            "omittedDetails": "Coagulation Defect Unspecified"
+        },
+        {
+            "text": "2+ edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Moderate Pitting Edema"
+        },
+        {
+            "text": "ileus",
+            "CharacterIndices": null,
+            "omittedDetails": "Ileus Unspecified"
+        },
+        {
+            "text": "fever",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "TAH/BSO",
+            "CharacterIndices": null,
+            "omittedDetails": "Bilateral Salpingo-Oophorectomy With Total Omentectomy Total Abdominal Hysterectomy For Malignancy"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "foley catheter",
+            "CharacterIndices": null,
+            "omittedDetails": "Foley Catheter"
+        },
+        {
+            "text": "eye surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Eye Surgery"
+        },
+        {
+            "text": "paracentesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Paracentesis"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "Pap smear",
+            "CharacterIndices": null,
+            "omittedDetails": "Pap Smear"
+        },
+        {
+            "text": "radiology",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "ibuprofen",
+            "CharacterIndices": null,
+            "omittedDetails": "Ibuprofen"
+        },
+        {
+            "text": "IV fluids",
+            "CharacterIndices": null,
+            "omittedDetails": "IV Fluid"
+        },
+        {
+            "text": "Dulcolax",
+            "CharacterIndices": null,
+            "omittedDetails": "Bisacodyl"
+        },
+        {
+            "text": "Miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        },
+        {
+            "text": "unasyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "milk of magnesium",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnesium Hydroxide"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Oxycodone",
+            "CharacterIndices": [
+                1458,
+                1467
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "5",
+            "CharacterIndices": [
+                1488,
+                1489
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolving",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "agitation",
+            "CharacterIndices": null,
+            "omittedDetails": "Agitation"
+        },
+        {
+            "text": "confusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "hypoxia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypoxia"
+        },
+        {
+            "text": "Murmur",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Murmur Unspecified"
+        },
+        {
+            "text": "cardiac surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Surgery"
+        },
+        {
+            "text": "saphenous vein graft",
+            "CharacterIndices": null,
+            "omittedDetails": "Saphenous Vein Graft"
+        },
+        {
+            "text": "bypass surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Bypass Surgery"
+        },
+        {
+            "text": "graft",
+            "CharacterIndices": null,
+            "omittedDetails": "Grafting Procedure"
+        },
+        {
+            "text": "pulmonary function test",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Function Test"
+        },
+        {
+            "text": "pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "myocardial infarction",
+            "CharacterIndices": [
+                774,
+                795
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "mitral regurgitation",
+            "CharacterIndices": [
+                918,
+                938
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                1983,
+                1989
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Glucophage",
+            "CharacterIndices": null,
+            "omittedDetails": "Metformin Hydrochloride"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Fluticasone Propionate",
+            "CharacterIndices": null,
+            "omittedDetails": "Fluticasone Propionate"
+        },
+        {
+            "text": "110",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "MetOLazone",
+            "CharacterIndices": null,
+            "omittedDetails": "Metolazone"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "narcotics",
+            "CharacterIndices": null,
+            "omittedDetails": "Opioid Receptor Agonist"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Bisacodyl",
+            "CharacterIndices": [
+                2946,
+                2955
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Albuterol",
+            "CharacterIndices": [
+                2889,
+                2898
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Heparin",
+            "CharacterIndices": [
+                3005,
+                3012
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

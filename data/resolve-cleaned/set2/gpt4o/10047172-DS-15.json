@@ -1,0 +1,254 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "PTA",
+            "CharacterIndices": null,
+            "omittedDetails": "PTa"
+        },
+        {
+            "text": "hyperbilirubinemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperbilirubinemia"
+        },
+        {
+            "text": "vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "fatigued",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "SENSITIVITIES",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "EUS",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Ultrasound"
+        },
+        {
+            "text": "MRCP",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Cholangiopancreatography"
+        },
+        {
+            "text": "path",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology Procedure"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "neuropathy",
+            "CharacterIndices": [
+                2161,
+                2171
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "infarct",
+            "CharacterIndices": [
+                2149,
+                2156
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "acute kidney injury",
+            "CharacterIndices": [
+                3530,
+                3549
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hematocrit",
+            "CharacterIndices": [
+                1175,
+                1185
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "4.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ritalin",
+            "CharacterIndices": null,
+            "omittedDetails": "Methylphenidate Hydrochloride"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Glucophage",
+            "CharacterIndices": null,
+            "omittedDetails": "Metformin Hydrochloride"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "zofran",
+            "CharacterIndices": null,
+            "omittedDetails": "Ondansetron Hydrochloride"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "cefepime",
+            "CharacterIndices": null,
+            "omittedDetails": "Cefepime"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "flagyl",
+            "CharacterIndices": null,
+            "omittedDetails": "Metronidazole Hydrochloride"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "vancomycin",
+            "CharacterIndices": null,
+            "omittedDetails": "Vancomycin"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "FOLFIRINOX",
+            "CharacterIndices": [
+                2037,
+                2047
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Abraxane",
+            "CharacterIndices": [
+                2066,
+                2074
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Pyridoxine",
+            "CharacterIndices": [
+                2359,
+                2369
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Canagliflozin",
+            "CharacterIndices": [
+                376,
+                389
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Saxagliptin",
+            "CharacterIndices": [
+                347,
+                358
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

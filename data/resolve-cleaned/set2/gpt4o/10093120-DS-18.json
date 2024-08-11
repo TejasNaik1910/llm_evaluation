@@ -1,0 +1,205 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolution",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "peritoneal carcinomatosis",
+            "CharacterIndices": [
+                1301,
+                1326
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "peritoneal carcinomatosis",
+            "CharacterIndices": [
+                1301,
+                1326
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "peritoneal carcinomatosis",
+            "CharacterIndices": [
+                1301,
+                1326
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Total abdominal hysterectomy",
+            "CharacterIndices": [
+                490,
+                518
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": [
+                1548,
+                1556
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "abscess",
+            "CharacterIndices": null,
+            "omittedDetails": "Abscess Infection"
+        },
+        {
+            "text": "loose stools",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "osteoporosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Osteoporosis"
+        },
+        {
+            "text": "vaginal bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Abnormal Uterine And Vaginal Bleeding Unspecified"
+        },
+        {
+            "text": "lose weight",
+            "CharacterIndices": null,
+            "omittedDetails": "Weight Loss"
+        },
+        {
+            "text": "tachycardic",
+            "CharacterIndices": null,
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "blood clot",
+            "CharacterIndices": null,
+            "omittedDetails": "Coagulation Defect Unspecified"
+        },
+        {
+            "text": "2+ edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Moderate Pitting Edema"
+        },
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "TAH/BSO",
+            "CharacterIndices": null,
+            "omittedDetails": "Bilateral Salpingo-Oophorectomy With Total Omentectomy Total Abdominal Hysterectomy For Malignancy"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "eye surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Eye Surgery"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "Pap smear",
+            "CharacterIndices": null,
+            "omittedDetails": "Pap Smear"
+        },
+        {
+            "text": "radiology",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ibuprofen",
+            "CharacterIndices": null,
+            "omittedDetails": "Ibuprofen"
+        },
+        {
+            "text": "Dulcolax",
+            "CharacterIndices": null,
+            "omittedDetails": "Bisacodyl"
+        },
+        {
+            "text": "Miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        },
+        {
+            "text": "milk of magnesium",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnesium Hydroxide"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Oxycodone",
+            "CharacterIndices": [
+                2095,
+                2104
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

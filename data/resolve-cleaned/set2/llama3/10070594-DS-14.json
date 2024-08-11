@@ -1,0 +1,313 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "asymptomatic",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "died",
+            "CharacterIndices": null,
+            "omittedDetails": "Death"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "tumor",
+            "CharacterIndices": [
+                529,
+                534
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "neuroendocrine tumor",
+            "CharacterIndices": [
+                96,
+                116
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "poor appetite",
+            "CharacterIndices": [
+                391,
+                404
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "weight loss",
+            "CharacterIndices": [
+                378,
+                389
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": [
+                179,
+                186
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "non-alcoholic steatohepatitis",
+            "CharacterIndices": [
+                1180,
+                1209
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "liver ultrasound",
+            "CharacterIndices": [
+                589,
+                605
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "unknown primary",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage Iv"
+        },
+        {
+            "text": "unknown primary",
+            "CharacterIndices": null,
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "Gout",
+            "CharacterIndices": null,
+            "omittedDetails": "Gout Unspecified"
+        },
+        {
+            "text": "Syncope",
+            "CharacterIndices": null,
+            "omittedDetails": "Syncope And Collapse"
+        },
+        {
+            "text": "orthostatic hypotension",
+            "CharacterIndices": null,
+            "omittedDetails": "Orthostatic Hypotension"
+        },
+        {
+            "text": "Bell'S palsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Facial Paralysis/Bell'S Palsy"
+        },
+        {
+            "text": "Hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "portal hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Portal Hypertension"
+        },
+        {
+            "text": "Prediabetes",
+            "CharacterIndices": null,
+            "omittedDetails": "Prediabetes"
+        },
+        {
+            "text": "BPH",
+            "CharacterIndices": null,
+            "omittedDetails": "Benign Prostatic Hyperplasia"
+        },
+        {
+            "text": "Hyperbilirubinemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperbilirubinemia"
+        },
+        {
+            "text": "subdural hematoma",
+            "CharacterIndices": null,
+            "omittedDetails": "Nontraumatic Subdural Hemorrhage"
+        },
+        {
+            "text": "facial droop",
+            "CharacterIndices": null,
+            "omittedDetails": "Facial Weakness"
+        },
+        {
+            "text": "weakness",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "Head CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Head"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        },
+        {
+            "text": "EKGs",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "EUS",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Ultrasound"
+        },
+        {
+            "text": "CT abdomen",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "path",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology Procedure"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "man",
+            "CharacterIndices": null,
+            "omittedDetails": "Male"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "pegfilgrastim",
+            "CharacterIndices": null,
+            "omittedDetails": "Pegfilgrastim Regimen"
+        },
+        {
+            "text": "6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "verapamil",
+            "CharacterIndices": null,
+            "omittedDetails": "Verapamil"
+        },
+        {
+            "text": "120",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "finasteride",
+            "CharacterIndices": null,
+            "omittedDetails": "Finasteride"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "colchicine",
+            "CharacterIndices": null,
+            "omittedDetails": "Colchicine"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "statin",
+            "CharacterIndices": null,
+            "omittedDetails": "Hmg-Coa Reductase Inhibitor"
+        },
+        {
+            "text": "antibiotics",
+            "CharacterIndices": null,
+            "omittedDetails": "Antibiotic"
+        },
+        {
+            "text": "supplements",
+            "CharacterIndices": null,
+            "omittedDetails": "Dietary Supplement And Nutritional Support"
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": null,
+            "omittedDetails": "Senna"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

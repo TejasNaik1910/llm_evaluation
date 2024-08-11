@@ -1,0 +1,244 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "recovered",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "died",
+            "CharacterIndices": null,
+            "omittedDetails": "Death"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "liver involvement",
+            "CharacterIndices": [
+                1446,
+                1463
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "liver involvement",
+            "CharacterIndices": [
+                1446,
+                1463
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "numbness",
+            "CharacterIndices": [
+                737,
+                745
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "poor appetite",
+            "CharacterIndices": [
+                670,
+                683
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "syncope",
+            "CharacterIndices": [
+                609,
+                616
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "obesity",
+            "CharacterIndices": [
+                1526,
+                1533
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": [
+                451,
+                458
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "knee effusions",
+            "CharacterIndices": [
+                979,
+                993
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "CKD Stage II",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Kidney Disease Stage 2 Mild"
+        },
+        {
+            "text": "diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "Ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Ascites"
+        },
+        {
+            "text": "nausea/vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea And Vomiting"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "palpitations",
+            "CharacterIndices": null,
+            "omittedDetails": "Palpitations"
+        },
+        {
+            "text": "portal hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Portal Hypertension"
+        },
+        {
+            "text": "U/S",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "EUS",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Ultrasound"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "7",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "palliative",
+            "CharacterIndices": null,
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "minerals",
+            "CharacterIndices": null,
+            "omittedDetails": "Mineral"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Neulasta",
+            "CharacterIndices": null,
+            "omittedDetails": "Pegfilgrastim Regimen"
+        },
+        {
+            "text": "Neupogen",
+            "CharacterIndices": null,
+            "omittedDetails": "Filgrastim Regimen"
+        },
+        {
+            "text": "TOBRAMYCIN",
+            "CharacterIndices": null,
+            "omittedDetails": "Tobramycin"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

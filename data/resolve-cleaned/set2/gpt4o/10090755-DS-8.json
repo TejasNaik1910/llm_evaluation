@@ -1,0 +1,228 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "increase in size",
+            "CharacterIndices": null,
+            "omittedDetails": "Bad Response"
+        },
+        {
+            "text": "tolerated well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        },
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "blood clot",
+            "CharacterIndices": null,
+            "omittedDetails": "Coagulation Defect Unspecified"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "pulmonary embolism",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Embolism"
+        },
+        {
+            "text": "pleural effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "Diabetes type 2",
+            "CharacterIndices": null,
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "lobectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Lobectomy"
+        },
+        {
+            "text": "thoracoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleuroscopy"
+        },
+        {
+            "text": "Thoracic surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Thoracic Surgery"
+        },
+        {
+            "text": "mechanical pleurodesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Mechanical Pleurodesis"
+        },
+        {
+            "text": "cholecystectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Cholecystectomy"
+        },
+        {
+            "text": "partial excision",
+            "CharacterIndices": null,
+            "omittedDetails": "Abdominoperineal Excision Of Rectum"
+        },
+        {
+            "text": "PET/CT",
+            "CharacterIndices": null,
+            "omittedDetails": "PET/CT"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "swab",
+            "CharacterIndices": null,
+            "omittedDetails": "Swab"
+        },
+        {
+            "text": "ECG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "thrombus",
+            "CharacterIndices": [
+                1153,
+                1161
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "7.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lovenox",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Novolog",
+            "CharacterIndices": null,
+            "omittedDetails": "Insulin Aspart"
+        },
+        {
+            "text": "blood products",
+            "CharacterIndices": null,
+            "omittedDetails": "Blood Product"
+        },
+        {
+            "text": "tenofovir disoproxil fumarate",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenofovir Disoproxil Fumarate"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "albumin",
+            "CharacterIndices": null,
+            "omittedDetails": "Albumin"
+        },
+        {
+            "text": "amoxicillin",
+            "CharacterIndices": null,
+            "omittedDetails": "Amoxicillin"
+        },
+        {
+            "text": "875",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "minerals",
+            "CharacterIndices": null,
+            "omittedDetails": "Mineral"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

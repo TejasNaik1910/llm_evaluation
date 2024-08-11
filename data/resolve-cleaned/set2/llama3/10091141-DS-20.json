@@ -1,0 +1,272 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "Unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "recovery",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "pulmonary sarcoidosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Sarcoidosis Of Lung"
+        },
+        {
+            "text": "obese",
+            "CharacterIndices": null,
+            "omittedDetails": "Obesity Unspecified"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "Asthma",
+            "CharacterIndices": null,
+            "omittedDetails": "Asthmatic Bronchitis"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "hypocalcemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypocalcemia"
+        },
+        {
+            "text": "unilateral oophorectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Unilateral Oophorectomy"
+        },
+        {
+            "text": "thoracentesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Thoracentesis"
+        },
+        {
+            "text": "swab",
+            "CharacterIndices": null,
+            "omittedDetails": "Swab"
+        },
+        {
+            "text": "ECG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "mammogram",
+            "CharacterIndices": null,
+            "omittedDetails": "Mammography"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Hypertension",
+            "CharacterIndices": [
+                232,
+                244
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hypotension",
+            "CharacterIndices": [
+                1032,
+                1043
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fevers",
+            "CharacterIndices": [
+                1756,
+                1762
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Gout",
+            "CharacterIndices": [
+                273,
+                277
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "12.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "etomidate",
+            "CharacterIndices": null,
+            "omittedDetails": "Etomidate"
+        },
+        {
+            "text": "Cinacalcet",
+            "CharacterIndices": null,
+            "omittedDetails": "Cinacalcet"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Cholecalciferol",
+            "CharacterIndices": null,
+            "omittedDetails": "Cholecalciferol"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "cisatracurium",
+            "CharacterIndices": null,
+            "omittedDetails": "Cisatracurium"
+        },
+        {
+            "text": "fentanyl",
+            "CharacterIndices": null,
+            "omittedDetails": "Fentanyl"
+        },
+        {
+            "text": "atorvastatin",
+            "CharacterIndices": null,
+            "omittedDetails": "Atorvastatin"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "metoprolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": [
+                1497,
+                1512
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Vitamin D",
+            "CharacterIndices": [
+                1418,
+                1427
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Albuterol",
+            "CharacterIndices": [
+                1395,
+                1404
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Oxycodone",
+            "CharacterIndices": [
+                1521,
+                1530
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": [
+                1514,
+                1519
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acetaminophen",
+            "CharacterIndices": [
+                1467,
+                1480
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

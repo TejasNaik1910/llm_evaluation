@@ -1,0 +1,265 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "decrease in size",
+            "CharacterIndices": null,
+            "omittedDetails": "Partial Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "PTA",
+            "CharacterIndices": null,
+            "omittedDetails": "PTa"
+        },
+        {
+            "text": "esophageal varices",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophageal Varices"
+        },
+        {
+            "text": "malignant ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Malignant Ascites"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "cramps",
+            "CharacterIndices": null,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "orthopnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Orthopnea"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "jaundice",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Jaundice"
+        },
+        {
+            "text": "bibasilar atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "lightheadedness",
+            "CharacterIndices": null,
+            "omittedDetails": "Dizziness And Giddiness"
+        },
+        {
+            "text": "vision changes",
+            "CharacterIndices": null,
+            "omittedDetails": "Visual Disturbances"
+        },
+        {
+            "text": "cholecystitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Cholecystitis"
+        },
+        {
+            "text": "urinary frequency",
+            "CharacterIndices": null,
+            "omittedDetails": "Frequency Of Micturition"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "CT abd",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "CT of the abdomen and pelvis",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "lap",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Hypercalcemia",
+            "CharacterIndices": [
+                3303,
+                3316
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Decreased breath sounds",
+            "CharacterIndices": [
+                2377,
+                2400
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "biliary obstruction",
+            "CharacterIndices": [
+                1375,
+                1394
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "weight loss",
+            "CharacterIndices": [
+                1718,
+                1729
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fatigue",
+            "CharacterIndices": [
+                1706,
+                1713
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "trauma",
+            "CharacterIndices": [
+                1795,
+                1801
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Exploratory laparotomy",
+            "CharacterIndices": [
+                1462,
+                1484
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Liver ultrasound",
+            "CharacterIndices": [
+                1144,
+                1160
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "gemcitabine",
+            "CharacterIndices": null,
+            "omittedDetails": "Gemcitabine Regimen"
+        },
+        {
+            "text": "120",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "bisphosphonate",
+            "CharacterIndices": [
+                3351,
+                3365
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Prochlorperazine",
+            "CharacterIndices": [
+                3813,
+                3829
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Compazine",
+            "CharacterIndices": [
+                3740,
+                3749
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "Incorrect Followup": [
+        {
+            "text": "stable condition",
+            "CharacterIndices": [
+                2329,
+                2345
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "female",
+            "CharacterIndices": null,
+            "omittedDetails": "Female"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "dysphagia",
+            "CharacterIndices": null,
+            "omittedDetails": "Dysphagia"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "insomnia",
+            "CharacterIndices": null,
+            "omittedDetails": "Insomnia"
+        },
+        {
+            "text": "spasm",
+            "CharacterIndices": null,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "facial asymmetry",
+            "CharacterIndices": null,
+            "omittedDetails": "Congenital Facial Asymmetry"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "clubbing",
+            "CharacterIndices": null,
+            "omittedDetails": "Clubbing Of Fingers"
+        },
+        {
+            "text": "cyanosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Cyanosis"
+        },
+        {
+            "text": "hernia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hernia K40-K46"
+        },
+        {
+            "text": "Fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": null,
+            "omittedDetails": "Chills"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "vaginal hysterectomy",
+            "CharacterIndices": [
+                500,
+                520
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Botox",
+            "CharacterIndices": null,
+            "omittedDetails": "Botulinum Toxin Type A"
+        },
+        {
+            "text": "Sulfonamide",
+            "CharacterIndices": null,
+            "omittedDetails": "Sulfonamide Anti-Infective Agent"
+        },
+        {
+            "text": "Lisinopril",
+            "CharacterIndices": null,
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "Lopressor",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "hydralazine",
+            "CharacterIndices": null,
+            "omittedDetails": "Hydralazine"
+        },
+        {
+            "text": "Antibiotics",
+            "CharacterIndices": null,
+            "omittedDetails": "Antibiotic"
+        },
+        {
+            "text": "Imdur",
+            "CharacterIndices": null,
+            "omittedDetails": "Isosorbide Mononitrate"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "IV fluids",
+            "CharacterIndices": [
+                1666,
+                1675
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

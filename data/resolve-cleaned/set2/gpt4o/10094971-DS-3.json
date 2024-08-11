@@ -1,0 +1,265 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Chronic obstructive pulmonary disease (COPD)",
+            "CharacterIndices": [
+                1178,
+                1222
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                1686,
+                1692
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "elevated glucose",
+            "CharacterIndices": [
+                1703,
+                1719
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Lumbar Stenosis",
+            "CharacterIndices": [
+                2756,
+                2771
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "multilevel degenerative disease",
+            "CharacterIndices": [
+                1990,
+                2021
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hallucinations",
+            "CharacterIndices": [
+                294,
+                308
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Brain Metastases",
+            "CharacterIndices": [
+                2585,
+                2601
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Brain Metastases",
+            "CharacterIndices": [
+                2585,
+                2601
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "plagued",
+            "CharacterIndices": null,
+            "omittedDetails": "Plague"
+        },
+        {
+            "text": "night sweats",
+            "CharacterIndices": null,
+            "omittedDetails": "Night Sweat"
+        },
+        {
+            "text": "weight loss",
+            "CharacterIndices": null,
+            "omittedDetails": "Weight Loss"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "wheezing",
+            "CharacterIndices": null,
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "Elevated blood pressure",
+            "CharacterIndices": null,
+            "omittedDetails": "Elevated Blood-Pressure Reading Without Diagnosis Of Hypertension"
+        },
+        {
+            "text": "CT chest",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Chest"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CT Angiography"
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "abdominal/pelvic CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "LP",
+            "CharacterIndices": null,
+            "omittedDetails": "Lumbar Puncture"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "exacerbated",
+            "CharacterIndices": [
+                721,
+                732
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "adverse reaction",
+            "CharacterIndices": [
+                3058,
+                3074
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "110",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "90",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "650",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Spiriva",
+            "CharacterIndices": null,
+            "omittedDetails": "Tiotropium Bromide Monohydrate"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "albuterol sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Albuterol Sulfate"
+        },
+        {
+            "text": "Calcium",
+            "CharacterIndices": null,
+            "omittedDetails": "Calcium Supplement"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Morphine Sulfate",
+            "CharacterIndices": [
+                3405,
+                3421
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

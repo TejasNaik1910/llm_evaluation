@@ -1,0 +1,194 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "night sweats",
+            "CharacterIndices": null,
+            "omittedDetails": "Night Sweat"
+        },
+        {
+            "text": "headache",
+            "CharacterIndices": null,
+            "omittedDetails": "Headache"
+        },
+        {
+            "text": "spasms",
+            "CharacterIndices": null,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "rigors",
+            "CharacterIndices": null,
+            "omittedDetails": "Rigor"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "Splenomegaly",
+            "CharacterIndices": null,
+            "omittedDetails": "Splenomegaly Not Elsewhere Classified"
+        },
+        {
+            "text": "Acute pulmonary edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Pulmonary Edema"
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "Loose stools",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Lyme disease",
+            "CharacterIndices": [
+                507,
+                519
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": [
+                1610,
+                1615
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CT chest",
+            "CharacterIndices": [
+                1483,
+                1491
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "in remission",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "GVHD",
+            "CharacterIndices": null,
+            "omittedDetails": "Graft-Versus-Host Disease Unspecified"
+        },
+        {
+            "text": "in remission",
+            "CharacterIndices": null,
+            "omittedDetails": "Remission"
+        },
+        {
+            "text": "relapse",
+            "CharacterIndices": null,
+            "omittedDetails": "Relapse"
+        },
+        {
+            "text": "relapsed leukemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Recurrence"
+        },
+        {
+            "text": "Residual",
+            "CharacterIndices": null,
+            "omittedDetails": "Residual Disease"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "500",
+            "CharacterIndices": [
+                1744,
+                1747
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "influenza vaccine",
+            "CharacterIndices": null,
+            "omittedDetails": "Trivalent Influenza Vaccine"
+        },
+        {
+            "text": "ibuprofen",
+            "CharacterIndices": null,
+            "omittedDetails": "Ibuprofen"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "cefepime",
+            "CharacterIndices": null,
+            "omittedDetails": "Cefepime"
+        },
+        {
+            "text": "doxycycline",
+            "CharacterIndices": null,
+            "omittedDetails": "Doxycycline"
+        },
+        {
+            "text": "Lasix",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ciprofloxacin HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

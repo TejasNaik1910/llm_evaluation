@@ -1,0 +1,152 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "squamous cell carcinoma",
+            "CharacterIndices": [
+                715,
+                738
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "upper respiratory infection",
+            "CharacterIndices": [
+                2703,
+                2730
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "swelling",
+            "CharacterIndices": [
+                927,
+                935
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "chronic lung disease",
+            "CharacterIndices": [
+                2669,
+                2689
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "abnormal glucose",
+            "CharacterIndices": [
+                2084,
+                2100
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "vomiting",
+            "CharacterIndices": [
+                3412,
+                3420
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": [
+                3396,
+                3402
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": [
+                3404,
+                3410
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fever",
+            "CharacterIndices": [
+                3389,
+                3394
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Bilateral pelvic lymphadenectomy",
+            "CharacterIndices": [
+                479,
+                511
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Foley catheter",
+            "CharacterIndices": [
+                3728,
+                3742
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "microscopic hematuria",
+            "CharacterIndices": null,
+            "omittedDetails": "Microscopic Hematuria"
+        },
+        {
+            "text": "pneumonia",
+            "CharacterIndices": null,
+            "omittedDetails": "Pneumonia Unspecified Organism"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "DVT",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "urine cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Urine Cytology"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "NSAIDs",
+            "CharacterIndices": [
+                2557,
+                2563
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "12.5",
+            "CharacterIndices": [
+                3140,
+                3144
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "narcotic",
+            "CharacterIndices": [
+                3560,
+                3568
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

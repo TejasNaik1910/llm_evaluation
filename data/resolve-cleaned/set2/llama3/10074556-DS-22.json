@@ -1,0 +1,242 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "Tolerated well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "mucositis",
+            "CharacterIndices": null,
+            "omittedDetails": "Mucositis"
+        },
+        {
+            "text": "anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "Chronic pancreatitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Chronic Pancreatitis"
+        },
+        {
+            "text": "Arrhythmia",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Arrhythmia Unspecified"
+        },
+        {
+            "text": "PVC'S",
+            "CharacterIndices": null,
+            "omittedDetails": "Ventricular Premature Depolarization"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "redness",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythema"
+        },
+        {
+            "text": "rash",
+            "CharacterIndices": null,
+            "omittedDetails": "Rash And Other Nonspecific Skin Eruption"
+        },
+        {
+            "text": "Pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "PET-CT",
+            "CharacterIndices": null,
+            "omittedDetails": "PET/CT"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "blood counts",
+            "CharacterIndices": [
+                1139,
+                1151
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": [
+                1518,
+                1521
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "480",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17.2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "metoprolol succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "loratadine",
+            "CharacterIndices": null,
+            "omittedDetails": "Loratadine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "colesevelam",
+            "CharacterIndices": null,
+            "omittedDetails": "Colesevelam"
+        },
+        {
+            "text": "bactrim",
+            "CharacterIndices": null,
+            "omittedDetails": "Trimethoprim-Sulfamethoxazole"
+        },
+        {
+            "text": "WelChol",
+            "CharacterIndices": null,
+            "omittedDetails": "Colesevelam Hydrochloride"
+        },
+        {
+            "text": "625",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Penicillins",
+            "CharacterIndices": null,
+            "omittedDetails": "Penicillin Antibiotic"
+        },
+        {
+            "text": "miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        },
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "ibuprofen",
+            "CharacterIndices": [
+                728,
+                737
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "nortriptyline",
+            "CharacterIndices": [
+                1850,
+                1863
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Rituxan",
+            "CharacterIndices": [
+                1592,
+                1599
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

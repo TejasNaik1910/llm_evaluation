@@ -1,0 +1,129 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "asymptomatic",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemorrhage Not Elsewhere Classified"
+        },
+        {
+            "text": "dysphagia",
+            "CharacterIndices": null,
+            "omittedDetails": "Dysphagia"
+        },
+        {
+            "text": "colostomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colo-colostomy"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "echocardiograms",
+            "CharacterIndices": null,
+            "omittedDetails": "Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "ventricular fibrillation",
+            "CharacterIndices": [
+                694,
+                718
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "weight loss",
+            "CharacterIndices": [
+                1051,
+                1062
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "salt",
+            "CharacterIndices": null,
+            "omittedDetails": "Salt"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "3",
+            "CharacterIndices": [
+                647,
+                648
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "IV fluids",
+            "CharacterIndices": [
+                2517,
+                2526
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

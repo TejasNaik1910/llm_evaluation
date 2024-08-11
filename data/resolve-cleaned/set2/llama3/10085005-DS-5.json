@@ -1,0 +1,165 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "tumor",
+            "CharacterIndices": [
+                245,
+                250
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Carcinoid tumor",
+            "CharacterIndices": [
+                235,
+                250
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "irritable bowel syndrome",
+            "CharacterIndices": [
+                589,
+                613
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "female",
+            "CharacterIndices": null,
+            "omittedDetails": "Female"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "dehydrated",
+            "CharacterIndices": null,
+            "omittedDetails": "Dehydration"
+        },
+        {
+            "text": "infection",
+            "CharacterIndices": null,
+            "omittedDetails": "Infection"
+        },
+        {
+            "text": "shaking",
+            "CharacterIndices": null,
+            "omittedDetails": "Tremor Unspecified"
+        },
+        {
+            "text": "fever",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": null,
+            "omittedDetails": "Chills"
+        },
+        {
+            "text": "pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "lap",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "100",
+            "CharacterIndices": [
+                1271,
+                1274
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "120",
+            "CharacterIndices": [
+                1186,
+                1189
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Colace",
+            "CharacterIndices": [
+                1264,
+                1270
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "Dilaudid",
+            "CharacterIndices": null,
+            "omittedDetails": "Dilaudid"
+        },
+        {
+            "text": "Penicillins",
+            "CharacterIndices": null,
+            "omittedDetails": "Penicillin Antibiotic"
+        },
+        {
+            "text": "Bupivacaine",
+            "CharacterIndices": null,
+            "omittedDetails": "Bupivacaine"
+        },
+        {
+            "text": "oxycodone",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone"
+        },
+        {
+            "text": "Toradol",
+            "CharacterIndices": null,
+            "omittedDetails": "Ketorolac Tromethamine"
+        },
+        {
+            "text": "narcotic",
+            "CharacterIndices": null,
+            "omittedDetails": "Opioid Receptor Agonist"
+        },
+        {
+            "text": "Motrin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ibuprofen"
+        },
+        {
+            "text": "Biaxin",
+            "CharacterIndices": null,
+            "omittedDetails": "Clarithromycin"
+        },
+        {
+            "text": "hydrocodone",
+            "CharacterIndices": null,
+            "omittedDetails": "Hydrocodone"
+        },
+        {
+            "text": "vicodin",
+            "CharacterIndices": null,
+            "omittedDetails": "Hydrocodone Acetaminophen"
+        }
+    ]
+}

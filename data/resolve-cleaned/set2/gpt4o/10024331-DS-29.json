@@ -1,0 +1,174 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "clotting",
+            "CharacterIndices": null,
+            "omittedDetails": "Coagulation Defect Unspecified"
+        },
+        {
+            "text": "biliary obstruction",
+            "CharacterIndices": null,
+            "omittedDetails": "Obstruction Of Bile Duct"
+        },
+        {
+            "text": "thrombosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "cluster headaches",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Cluster Headache"
+        },
+        {
+            "text": "Migraine",
+            "CharacterIndices": null,
+            "omittedDetails": "Migraine"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "abdominal CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "ERCP",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Retrograde Cholangiopancreatography"
+        },
+        {
+            "text": "Doppler",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "cystitis",
+            "CharacterIndices": [
+                3070,
+                3078
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Parkinson'S Disease",
+            "CharacterIndices": [
+                2550,
+                2569
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "selegiline HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Selegiline Hydrochloride"
+        },
+        {
+            "text": "Metoprolol succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "humalog",
+            "CharacterIndices": null,
+            "omittedDetails": "Insulin Lispro"
+        },
+        {
+            "text": "Allopurinol",
+            "CharacterIndices": null,
+            "omittedDetails": "Allopurinol"
+        },
+        {
+            "text": "Penicillins",
+            "CharacterIndices": null,
+            "omittedDetails": "Penicillin Antibiotic"
+        },
+        {
+            "text": "Dobutamine",
+            "CharacterIndices": null,
+            "omittedDetails": "Dobutamine"
+        },
+        {
+            "text": "Persantine",
+            "CharacterIndices": null,
+            "omittedDetails": "Dipyridamole"
+        },
+        {
+            "text": "carbidopa",
+            "CharacterIndices": null,
+            "omittedDetails": "Carbidopa"
+        },
+        {
+            "text": "tartrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Tartaric Acid"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": [
+                2305,
+                2307
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

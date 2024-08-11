@@ -1,0 +1,257 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "spasms",
+            "CharacterIndices": null,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "T2DM",
+            "CharacterIndices": null,
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "DVTs",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "colon polyps",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyp Of Colon"
+        },
+        {
+            "text": "diverticulosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Diverticulosis Of Intestine Part Unspecified Without Perforation Or Abscess Without Bleeding"
+        },
+        {
+            "text": "GERD",
+            "CharacterIndices": null,
+            "omittedDetails": "Gastro-Esophageal Reflux Disease"
+        },
+        {
+            "text": "URI",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Upper Respiratory Infections J00-J06"
+        },
+        {
+            "text": "OSA",
+            "CharacterIndices": null,
+            "omittedDetails": "Obstructive Sleep Apnoea"
+        },
+        {
+            "text": "ligation",
+            "CharacterIndices": null,
+            "omittedDetails": "Closure By Ligation"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "hysterectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Hysterectomy"
+        },
+        {
+            "text": "arthroplasty",
+            "CharacterIndices": null,
+            "omittedDetails": "Arthroplasty"
+        },
+        {
+            "text": "exploration",
+            "CharacterIndices": null,
+            "omittedDetails": "Exploration"
+        },
+        {
+            "text": "breast incisions",
+            "CharacterIndices": null,
+            "omittedDetails": "Mastotomy Nos"
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "XRs",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        },
+        {
+            "text": "EGD",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophagogastroduodenoscopy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "vitamin D deficiency",
+            "CharacterIndices": [
+                3424,
+                3444
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": [
+                268,
+                277
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": [
+                2158,
+                2164
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "2,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lovenox",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "Tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "Coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "tramadol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tramadol"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Zithromax",
+            "CharacterIndices": null,
+            "omittedDetails": "Azithromycin"
+        },
+        {
+            "text": "Furosemide",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "5",
+            "CharacterIndices": [
+                1673,
+                1674
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Morphine",
+            "CharacterIndices": [
+                1616,
+                1624
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "4",
+            "CharacterIndices": [
+                1625,
+                1626
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Topamax",
+            "CharacterIndices": [
+                301,
+                308
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Codeine",
+            "CharacterIndices": [
+                281,
+                288
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Erythromycin",
+            "CharacterIndices": [
+                2828,
+                2840
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": [
+                2841,
+                2844
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolution of",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "T2",
+            "CharacterIndices": null,
+            "omittedDetails": "T2"
+        },
+        {
+            "text": "N2a",
+            "CharacterIndices": null,
+            "omittedDetails": "N2a"
+        },
+        {
+            "text": "vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "earache",
+            "CharacterIndices": null,
+            "omittedDetails": "Otalgia Unspecified Ear"
+        },
+        {
+            "text": "Graves disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Thyrotoxicosis Hyperthyroidism"
+        },
+        {
+            "text": "Anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "enlarged lymph nodes",
+            "CharacterIndices": null,
+            "omittedDetails": "Enlarged Lymph Nodes, Unspecified"
+        },
+        {
+            "text": "swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "insomnia",
+            "CharacterIndices": null,
+            "omittedDetails": "Insomnia"
+        },
+        {
+            "text": "Kidney stones",
+            "CharacterIndices": null,
+            "omittedDetails": "Nephrolithiasis"
+        },
+        {
+            "text": "Sleep apnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Sleep Apnea Unspecified"
+        },
+        {
+            "text": "fatigued",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "OCD",
+            "CharacterIndices": null,
+            "omittedDetails": "Osteochondritis Dissecans"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "Carpal tunnel syndrome",
+            "CharacterIndices": null,
+            "omittedDetails": "Carpal Tunnel Syndrome"
+        },
+        {
+            "text": "Tachycardic",
+            "CharacterIndices": null,
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "Depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Depression"
+        },
+        {
+            "text": "PET-CT",
+            "CharacterIndices": null,
+            "omittedDetails": "PET/CT"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "Endoscopic Examination",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Procedure"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "male",
+            "CharacterIndices": null,
+            "omittedDetails": "Male"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "clonazepam",
+            "CharacterIndices": null,
+            "omittedDetails": "Clonazepam"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ondansetron",
+            "CharacterIndices": null,
+            "omittedDetails": "Ondansetron"
+        },
+        {
+            "text": "unasyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "Iodinated Contrast",
+            "CharacterIndices": null,
+            "omittedDetails": "Iodine Containing Contrast Material"
+        },
+        {
+            "text": "Morphine Sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Morphine Sulfate"
+        },
+        {
+            "text": "Augmentin",
+            "CharacterIndices": null,
+            "omittedDetails": "Amoxicillin-Clavulanate Potassium"
+        },
+        {
+            "text": "sennosides",
+            "CharacterIndices": null,
+            "omittedDetails": "Sennosides"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "25",
+            "CharacterIndices": [
+                940,
+                942
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

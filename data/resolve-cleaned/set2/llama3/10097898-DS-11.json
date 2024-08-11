@@ -1,0 +1,161 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Invasive",
+            "CharacterIndices": null,
+            "omittedDetails": "Cancer"
+        },
+        {
+            "text": "swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "redness",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythema"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "Weakness",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "trouble speaking",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Speech Disturbances"
+        },
+        {
+            "text": "dizziness",
+            "CharacterIndices": null,
+            "omittedDetails": "Dizziness And Giddiness"
+        },
+        {
+            "text": "confusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "numbness",
+            "CharacterIndices": null,
+            "omittedDetails": "Numbness"
+        },
+        {
+            "text": "Nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "47",
+            "CharacterIndices": [
+                67,
+                69
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "paresthesias",
+            "CharacterIndices": [
+                259,
+                271
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "32",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "12.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "salt",
+            "CharacterIndices": null,
+            "omittedDetails": "Salt"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "IV fluids",
+            "CharacterIndices": null,
+            "omittedDetails": "IV Fluid"
+        },
+        {
+            "text": "Coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "Aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "Ibuprofen",
+            "CharacterIndices": null,
+            "omittedDetails": "Ibuprofen"
+        }
+    ]
+}

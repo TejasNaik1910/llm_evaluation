@@ -1,0 +1,240 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "51",
+            "CharacterIndices": [
+                67,
+                69
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "atrial fibrillation",
+            "CharacterIndices": [
+                215,
+                234
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Confused",
+            "CharacterIndices": [
+                1439,
+                1447
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "transesophageal echocardiogram",
+            "CharacterIndices": [
+                798,
+                828
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Ascites"
+        },
+        {
+            "text": "mitral regurgitation",
+            "CharacterIndices": null,
+            "omittedDetails": "Mitral Valve Regurgitation"
+        },
+        {
+            "text": "tricuspid regurgitation",
+            "CharacterIndices": null,
+            "omittedDetails": "Tricuspid Valve Insufficiency"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "pulmonary artery hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Hypertension Unspecified"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "pleural effusions",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "colonic diverticula",
+            "CharacterIndices": null,
+            "omittedDetails": "Diverticular Disease Of Large Intestine Without Perforation Or Abscess"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "biliary stent",
+            "CharacterIndices": null,
+            "omittedDetails": "Placement Of Stent(S) Into A Bile Duct, Percutaneous, Including Diagnostic Cholangiography, Imaging Guidance (Eg, Fluoroscopy And/Or Ultrasound), Balloon Dilation, Catheter Exchange(S) And Catheter Removal(S) When Performed, And All Associated Radiological Supervision And Interpretation, Each Stent; New Access, With Placement Of Separate Biliary Drainage Catheter (Eg, External Or Internal-External)"
+        },
+        {
+            "text": "path",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology Procedure"
+        },
+        {
+            "text": "Liver biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy Of Liver"
+        },
+        {
+            "text": "needle biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Needle Biopsy"
+        },
+        {
+            "text": "CT ABD",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "Surveillance",
+            "CharacterIndices": null,
+            "omittedDetails": "Surveillance"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "palliative",
+            "CharacterIndices": null,
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.125",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lopressor",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Aricept",
+            "CharacterIndices": null,
+            "omittedDetails": "Donepezil Hydrochloride"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "unasyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "Ursodiol",
+            "CharacterIndices": null,
+            "omittedDetails": "Ursodiol"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Demerol",
+            "CharacterIndices": null,
+            "omittedDetails": "Meperidine Hydrochloride"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "palliative",
+            "CharacterIndices": [
+                400,
+                410
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "vancomycin",
+            "CharacterIndices": [
+                766,
+                776
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "simethicone",
+            "CharacterIndices": [
+                1214,
+                1225
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "collapse",
+            "CharacterIndices": null,
+            "omittedDetails": "Collapse"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "hyperkalemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperkalemia"
+        },
+        {
+            "text": "effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Effusion"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "bloating",
+            "CharacterIndices": null,
+            "omittedDetails": "Bloating"
+        },
+        {
+            "text": "thrush",
+            "CharacterIndices": null,
+            "omittedDetails": "Candidiasis"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        },
+        {
+            "text": "Doppler",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        },
+        {
+            "text": "Cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "myocardial infarction",
+            "CharacterIndices": [
+                622,
+                643
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "dyslipidemia",
+            "CharacterIndices": [
+                580,
+                592
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "650",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.00",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "7.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "atenolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Atenolol"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "diltiazem",
+            "CharacterIndices": null,
+            "omittedDetails": "Diltiazem"
+        },
+        {
+            "text": "Versed",
+            "CharacterIndices": null,
+            "omittedDetails": "Midazolam Hydrochloride"
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": null,
+            "omittedDetails": "Senna"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": [
+                2151,
+                2152
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "taxol chemotherapy",
+            "CharacterIndices": [
+                768,
+                786
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fentanyl",
+            "CharacterIndices": [
+                1809,
+                1817
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "miralax",
+            "CharacterIndices": [
+                1793,
+                1800
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "zantac",
+            "CharacterIndices": [
+                1843,
+                1849
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

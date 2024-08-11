@@ -1,0 +1,288 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolution of",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "Malignant Lung Neoplasm"
+        },
+        {
+            "text": "Stage III",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage III"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "Crohn flare",
+            "CharacterIndices": null,
+            "omittedDetails": "Crohn's Disease Flare"
+        },
+        {
+            "text": "thrush",
+            "CharacterIndices": null,
+            "omittedDetails": "Candidiasis"
+        },
+        {
+            "text": "neuropathy",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyneuropathy Unspecified"
+        },
+        {
+            "text": "Lyme disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Lyme Disease"
+        },
+        {
+            "text": "salmonella",
+            "CharacterIndices": null,
+            "omittedDetails": "Typhoid Fever Unspecified"
+        },
+        {
+            "text": "shigella",
+            "CharacterIndices": null,
+            "omittedDetails": "Shigellosis"
+        },
+        {
+            "text": "giardia",
+            "CharacterIndices": null,
+            "omittedDetails": "Giardiasis Lambliasis"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "amputation",
+            "CharacterIndices": null,
+            "omittedDetails": "Amputation"
+        },
+        {
+            "text": "colectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colon Resection"
+        },
+        {
+            "text": "CT ABD & PELVIS",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "EGD",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophagogastroduodenoscopy"
+        },
+        {
+            "text": "BX",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "Renal US",
+            "CharacterIndices": null,
+            "omittedDetails": "Renal Ultrasound"
+        },
+        {
+            "text": "ileoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Ileoscopy"
+        },
+        {
+            "text": "CT abd",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "40",
+            "CharacterIndices": [
+                67,
+                69
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "12",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Neurontin",
+            "CharacterIndices": null,
+            "omittedDetails": "Neurontin"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Cymbalta",
+            "CharacterIndices": null,
+            "omittedDetails": "Duloxetine Hydrochloride"
+        },
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "octreotide",
+            "CharacterIndices": null,
+            "omittedDetails": "Octreotide"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Normal Saline",
+            "CharacterIndices": null,
+            "omittedDetails": "Normal Saline"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Sulfate Ion"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "glargine",
+            "CharacterIndices": null,
+            "omittedDetails": "Insulin Glargine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "anti-TNF",
+            "CharacterIndices": null,
+            "omittedDetails": "Anti-Tumor Necrosis Factor Therapy"
+        },
+        {
+            "text": "ranitidine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ranitidine Hydrochloride"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Sucralfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Sucralfate"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Tramadol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tramadol"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Ranitidine",
+            "CharacterIndices": [
+                1181,
+                1191
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

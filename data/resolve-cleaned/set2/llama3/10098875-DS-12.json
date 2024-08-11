@@ -1,0 +1,314 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolution of",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "progression",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Progression"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "CN2",
+            "CharacterIndices": null,
+            "omittedDetails": "CN2"
+        },
+        {
+            "text": "ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Ascites"
+        },
+        {
+            "text": "Sinus tachycardia",
+            "CharacterIndices": null,
+            "omittedDetails": "Sinus Tachycardia"
+        },
+        {
+            "text": "distention",
+            "CharacterIndices": null,
+            "omittedDetails": "Abdominal Distension"
+        },
+        {
+            "text": "hypoxia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypoxia"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "DIC",
+            "CharacterIndices": null,
+            "omittedDetails": "Disseminated Intravascular Coagulation Defibrination Syndrome"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "Paranasal sinus disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Sinusitis"
+        },
+        {
+            "text": "infectious disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Infectious Disease"
+        },
+        {
+            "text": "MRCP",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Cholangiopancreatography"
+        },
+        {
+            "text": "CT abd",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "Lumbar puncture",
+            "CharacterIndices": null,
+            "omittedDetails": "Lumbar Puncture"
+        },
+        {
+            "text": "CT abd/pelvis",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Pelvis"
+        },
+        {
+            "text": "ECG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "CT imaging",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography"
+        },
+        {
+            "text": "EGD",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophagogastroduodenoscopy"
+        },
+        {
+            "text": "Cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "nausea",
+            "CharacterIndices": [
+                311,
+                317
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fatigue",
+            "CharacterIndices": [
+                291,
+                298
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Renal tubular acidosis",
+            "CharacterIndices": [
+                1393,
+                1415
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Hypertension",
+            "CharacterIndices": [
+                423,
+                435
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "large breast",
+            "CharacterIndices": [
+                552,
+                564
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hyperglycemia",
+            "CharacterIndices": [
+                897,
+                910
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Encephalopathy",
+            "CharacterIndices": [
+                1072,
+                1086
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "meningitis",
+            "CharacterIndices": [
+                990,
+                1000
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Dysphagia",
+            "CharacterIndices": [
+                1329,
+                1338
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Cirrhosis",
+            "CharacterIndices": [
+                1187,
+                1196
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Lumbar puncture",
+            "CharacterIndices": [
+                829,
+                844
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Chest X-ray",
+            "CharacterIndices": [
+                596,
+                607
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "800",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "650",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Zofran",
+            "CharacterIndices": null,
+            "omittedDetails": "Ondansetron Hydrochloride"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "pRBC",
+            "CharacterIndices": null,
+            "omittedDetails": "Red Blood Cells Product"
+        },
+        {
+            "text": "Chlorhexidine Gluconate",
+            "CharacterIndices": null,
+            "omittedDetails": "Chlorhexidine Gluconate"
+        },
+        {
+            "text": "0.1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "OxyCODONE",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Bactrim",
+            "CharacterIndices": null,
+            "omittedDetails": "Trimethoprim-Sulfamethoxazole"
+        },
+        {
+            "text": "Reglan",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoclopramide Hydrochloride"
+        },
+        {
+            "text": "AMPICILLIN",
+            "CharacterIndices": null,
+            "omittedDetails": "Ampicillin"
+        },
+        {
+            "text": "16",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Prochlorperazine",
+            "CharacterIndices": null,
+            "omittedDetails": "Prochlorperazine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Lansoprazole",
+            "CharacterIndices": [
+                1568,
+                1580
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Glucagon",
+            "CharacterIndices": [
+                1533,
+                1541
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "well-controlled",
+            "CharacterIndices": null,
+            "omittedDetails": "Good Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "carcinomatosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage Iv"
+        },
+        {
+            "text": "carcinomatosis",
+            "CharacterIndices": null,
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "palpitations",
+            "CharacterIndices": null,
+            "omittedDetails": "Palpitations"
+        },
+        {
+            "text": "hematemesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematemesis"
+        },
+        {
+            "text": "hemoptysis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemoptysis"
+        },
+        {
+            "text": "hematuria",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematuria"
+        },
+        {
+            "text": "diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "rashes",
+            "CharacterIndices": null,
+            "omittedDetails": "Rash And Other Nonspecific Skin Eruption"
+        },
+        {
+            "text": "melena",
+            "CharacterIndices": null,
+            "omittedDetails": "Melena"
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Anemia"
+        },
+        {
+            "text": "TTP",
+            "CharacterIndices": null,
+            "omittedDetails": "Immune Thrombocytopenic Purpura"
+        },
+        {
+            "text": "DVT",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "urinary tract infection",
+            "CharacterIndices": null,
+            "omittedDetails": "UTI - Urinary Tract Infection"
+        },
+        {
+            "text": "Paracentesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Paracentesis"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "acute kidney injury",
+            "CharacterIndices": [
+                1101,
+                1120
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "leukocytosis",
+            "CharacterIndices": [
+                635,
+                647
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Dyslipidemia",
+            "CharacterIndices": [
+                367,
+                379
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "pyuria",
+            "CharacterIndices": [
+                794,
+                800
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Imaging studies",
+            "CharacterIndices": [
+                864,
+                879
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "amlodipine",
+            "CharacterIndices": null,
+            "omittedDetails": "Amlodipine"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lupron Depot",
+            "CharacterIndices": null,
+            "omittedDetails": "Leuprolide Regimen"
+        },
+        {
+            "text": "Zofran",
+            "CharacterIndices": null,
+            "omittedDetails": "Ondansetron Hydrochloride"
+        },
+        {
+            "text": "8",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "senna",
+            "CharacterIndices": null,
+            "omittedDetails": "Senna"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Colace",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Prochlorperazine",
+            "CharacterIndices": null,
+            "omittedDetails": "Prochlorperazine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "cabazitaxel",
+            "CharacterIndices": null,
+            "omittedDetails": "Cabazitaxel Regimen"
+        },
+        {
+            "text": "lisinopril",
+            "CharacterIndices": null,
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "IV fluids",
+            "CharacterIndices": null,
+            "omittedDetails": "IV Fluid"
+        },
+        {
+            "text": "Compazine",
+            "CharacterIndices": null,
+            "omittedDetails": "Prochlorperazine Maleate"
+        },
+        {
+            "text": "Neulasta",
+            "CharacterIndices": null,
+            "omittedDetails": "Pegfilgrastim Regimen"
+        },
+        {
+            "text": "Miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        },
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "CharacterIndices": null,
+            "omittedDetails": "POLYETHYLENE GLYCOL"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "2.5",
+            "CharacterIndices": [
+                1131,
+                1134
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "normal saline",
+            "CharacterIndices": [
+                544,
+                557
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "1",
+            "CharacterIndices": [
+                538,
+                539
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

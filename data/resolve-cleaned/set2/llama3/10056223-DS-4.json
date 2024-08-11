@@ -1,0 +1,203 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "pleural effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "SOB",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "inflammation",
+            "CharacterIndices": null,
+            "omittedDetails": "Inflammatory Disorders"
+        },
+        {
+            "text": "pulmonary edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Edema"
+        },
+        {
+            "text": "congestion",
+            "CharacterIndices": null,
+            "omittedDetails": "Congestion"
+        },
+        {
+            "text": "CT Abdomen",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "reticulin stain",
+            "CharacterIndices": null,
+            "omittedDetails": "Ret Stn Tiss"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "abnormal liver function tests",
+            "CharacterIndices": [
+                929,
+                958
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "thrombocytopenia",
+            "CharacterIndices": [
+                972,
+                988
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "distended abdomen",
+            "CharacterIndices": [
+                722,
+                739
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                960,
+                966
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": [
+                1147,
+                1157
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "6.25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Percocet",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone Acetaminophen"
+        },
+        {
+            "text": "Chemo",
+            "CharacterIndices": null,
+            "omittedDetails": "Chemotherapy"
+        },
+        {
+            "text": "Aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": [
+                1464,
+                1465
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "furosemide",
+            "CharacterIndices": [
+                1712,
+                1722
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

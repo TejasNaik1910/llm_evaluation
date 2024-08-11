@@ -1,0 +1,198 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "resolution of",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "hypokalemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypokalemia"
+        },
+        {
+            "text": "ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Ascites"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "confused",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "inflammation",
+            "CharacterIndices": null,
+            "omittedDetails": "Inflammatory Disorders"
+        },
+        {
+            "text": "Anxiety/depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Mixed Anxiety Disorders"
+        },
+        {
+            "text": "Hyperlipidemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperlipidemia Unspecified"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "CT scan of the abdomen",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "CT of the pelvis with contrast",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Pelvis With Contrast"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "flagyl",
+            "CharacterIndices": null,
+            "omittedDetails": "Metronidazole Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Imodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Loperamide Hydrochloride"
+        },
+        {
+            "text": "zosyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Piperacillin-Tazobactam"
+        },
+        {
+            "text": "sertraline",
+            "CharacterIndices": null,
+            "omittedDetails": "Sertraline"
+        },
+        {
+            "text": "leucovorin",
+            "CharacterIndices": null,
+            "omittedDetails": "Leucovorin Regimen"
+        },
+        {
+            "text": "potassium chloride",
+            "CharacterIndices": null,
+            "omittedDetails": "Potassium Chloride"
+        },
+        {
+            "text": "erythromycin base",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythromycin"
+        },
+        {
+            "text": "Ciprofloxacin HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Magnesium Oxide",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnesium Oxide"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Omeprazole",
+            "CharacterIndices": null,
+            "omittedDetails": "Omeprazole"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Klor-Con",
+            "CharacterIndices": null,
+            "omittedDetails": "Klor-Con"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "calcium",
+            "CharacterIndices": null,
+            "omittedDetails": "Calcium Supplement"
+        },
+        {
+            "text": "33",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

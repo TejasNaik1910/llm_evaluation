@@ -1,0 +1,95 @@
+{
+    "Specific to General Followup": [],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "stage are",
+            "CharacterIndices": [
+                1541,
+                1550
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CT scan of the abdomen",
+            "CharacterIndices": [
+                648,
+                670
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "hemorrhoids",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Hemorrhoids"
+        },
+        {
+            "text": "anxious",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "CT chest",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Chest"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Milk of Magnesia",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnesium Hydroxide"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "OxycoDONE",
+            "CharacterIndices": [
+                1282,
+                1291
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

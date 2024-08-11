@@ -1,0 +1,138 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Progression",
+            "CharacterIndices": [
+                460,
+                471
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "T1",
+            "CharacterIndices": null,
+            "omittedDetails": "T1"
+        },
+        {
+            "text": "Hypothyroidism",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypothyroidism Unspecified"
+        },
+        {
+            "text": "Hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "infection",
+            "CharacterIndices": null,
+            "omittedDetails": "Infection"
+        },
+        {
+            "text": "vocal cord paralysis",
+            "CharacterIndices": null,
+            "omittedDetails": "Paralysis Of Vocal Cords Or Larynx"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "SVT",
+            "CharacterIndices": null,
+            "omittedDetails": "Supraventricular Tachycardia"
+        },
+        {
+            "text": "tachycardia",
+            "CharacterIndices": null,
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "congestion",
+            "CharacterIndices": null,
+            "omittedDetails": "Congestion"
+        },
+        {
+            "text": "Diabetes",
+            "CharacterIndices": null,
+            "omittedDetails": "Diabetes Mellitus"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "CHF",
+            "CharacterIndices": null,
+            "omittedDetails": "Congestive Heart Failure"
+        },
+        {
+            "text": "right mastectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Mastectomy"
+        },
+        {
+            "text": "pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "core biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Core Needle Biopsy"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "woman",
+            "CharacterIndices": null,
+            "omittedDetails": "Female"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "100",
+            "CharacterIndices": [
+                784,
+                787
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "50",
+            "CharacterIndices": [
+                919,
+                921
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Compazine",
+            "CharacterIndices": null,
+            "omittedDetails": "Prochlorperazine Maleate"
+        }
+    ]
+}

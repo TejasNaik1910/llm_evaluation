@@ -1,0 +1,305 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Progression",
+            "CharacterIndices": [
+                254,
+                265
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "woman",
+            "CharacterIndices": null,
+            "omittedDetails": "Female"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Varicose veins",
+            "CharacterIndices": null,
+            "omittedDetails": "Varicose Veins"
+        },
+        {
+            "text": "antiphospholipid syndrome",
+            "CharacterIndices": null,
+            "omittedDetails": "Antiphospholipid Syndrome"
+        },
+        {
+            "text": "DVT/PE",
+            "CharacterIndices": null,
+            "omittedDetails": "Dvt/Pulmonary Embolism"
+        },
+        {
+            "text": "trochanteric bursitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Trochanteric Bursitis Unspecified"
+        },
+        {
+            "text": "swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "aneurysm",
+            "CharacterIndices": null,
+            "omittedDetails": "Aneurysm"
+        },
+        {
+            "text": "COPD",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Chronic Obstructive Pulmonary Disease"
+        },
+        {
+            "text": "depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Depression"
+        },
+        {
+            "text": "spasms",
+            "CharacterIndices": null,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "Iron deficiency anemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Iron Deficiency Anemia Unspecified"
+        },
+        {
+            "text": "T2DM",
+            "CharacterIndices": null,
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "DVTs",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "colon polyps",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyp Of Colon"
+        },
+        {
+            "text": "sleep apnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Sleep Apnea Unspecified"
+        },
+        {
+            "text": "diverticulosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Diverticulosis Of Intestine Part Unspecified Without Perforation Or Abscess Without Bleeding"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "URI",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Upper Respiratory Infections J00-J06"
+        },
+        {
+            "text": "OSA",
+            "CharacterIndices": null,
+            "omittedDetails": "Obstructive Sleep Apnoea"
+        },
+        {
+            "text": "ligation",
+            "CharacterIndices": null,
+            "omittedDetails": "Closure By Ligation"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "hysterectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Hysterectomy"
+        },
+        {
+            "text": "arthroplasty",
+            "CharacterIndices": null,
+            "omittedDetails": "Arthroplasty"
+        },
+        {
+            "text": "exploration",
+            "CharacterIndices": null,
+            "omittedDetails": "Exploration"
+        },
+        {
+            "text": "breast incisions",
+            "CharacterIndices": null,
+            "omittedDetails": "Mastotomy Nos"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "XRs",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        },
+        {
+            "text": "EGD",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophagogastroduodenoscopy"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lidocaine patch",
+            "CharacterIndices": null,
+            "omittedDetails": "Lidocaine Patch"
+        },
+        {
+            "text": "Coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "Lovenox",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "Dilaudid",
+            "CharacterIndices": null,
+            "omittedDetails": "Dilaudid"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "vitamin D",
+            "CharacterIndices": null,
+            "omittedDetails": "Vitamin D"
+        },
+        {
+            "text": "2,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ProAir HFA",
+            "CharacterIndices": null,
+            "omittedDetails": "Proair Hfa"
+        },
+        {
+            "text": "90",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Zithromax",
+            "CharacterIndices": null,
+            "omittedDetails": "Azithromycin"
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "CharacterIndices": null,
+            "omittedDetails": "POLYETHYLENE GLYCOL"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "TraZODone",
+            "CharacterIndices": null,
+            "omittedDetails": "Trazodone"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Furosemide",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Sertraline",
+            "CharacterIndices": null,
+            "omittedDetails": "Sertraline"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": null,
+            "omittedDetails": "Senna"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "albuterol sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Albuterol Sulfate"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "redness",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythema"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "dizziness",
+            "CharacterIndices": null,
+            "omittedDetails": "Dizziness And Giddiness"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "paresthesias",
+            "CharacterIndices": [
+                410,
+                422
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": [
+                2588,
+                2600
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": [
+                3402,
+                3412
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "infection",
+            "CharacterIndices": [
+                3178,
+                3187
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "seizures",
+            "CharacterIndices": [
+                3594,
+                3602
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "32",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "narcotic",
+            "CharacterIndices": null,
+            "omittedDetails": "Opioid Receptor Agonist"
+        },
+        {
+            "text": "Coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "Ibuprofen",
+            "CharacterIndices": null,
+            "omittedDetails": "Ibuprofen"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "81",
+            "CharacterIndices": [
+                2437,
+                2439
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Caffeine",
+            "CharacterIndices": [
+                2495,
+                2503
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

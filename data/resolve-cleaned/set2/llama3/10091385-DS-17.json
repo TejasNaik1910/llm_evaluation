@@ -1,0 +1,236 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "resolution of",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Invasive",
+            "CharacterIndices": null,
+            "omittedDetails": "Cancer"
+        },
+        {
+            "text": "inflammatory cells",
+            "CharacterIndices": null,
+            "omittedDetails": "Inflammatory Disorders"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "dry cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Dry Cough"
+        },
+        {
+            "text": "allergic reaction",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "WORM",
+            "CharacterIndices": null,
+            "omittedDetails": "Helminthiases B65-B83"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "hemorrhoids",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Hemorrhoids"
+        },
+        {
+            "text": "thrombus",
+            "CharacterIndices": null,
+            "omittedDetails": "Thrombosis"
+        },
+        {
+            "text": "swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": null,
+            "omittedDetails": "Chills"
+        },
+        {
+            "text": "rash",
+            "CharacterIndices": null,
+            "omittedDetails": "Rash And Other Nonspecific Skin Eruption"
+        },
+        {
+            "text": "EBV",
+            "CharacterIndices": null,
+            "omittedDetails": "Immunodeficiency Following Hereditary Defective Response To Epstein-Barr Virus"
+        },
+        {
+            "text": "yellowing of the skin",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Jaundice"
+        },
+        {
+            "text": "polypectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Polypectomy"
+        },
+        {
+            "text": "biopsy of liver",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy Of Liver"
+        },
+        {
+            "text": "pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Sex:   F",
+            "CharacterIndices": null,
+            "omittedDetails": "Female"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "tachycardia",
+            "CharacterIndices": [
+                680,
+                691
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                790,
+                796
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "32",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Prenatal Vitamins",
+            "CharacterIndices": null,
+            "omittedDetails": "Prenatal Vitamin"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Benadryl",
+            "CharacterIndices": null,
+            "omittedDetails": "Diphenhydramine Hydrochloride"
+        },
+        {
+            "text": "Ciprofloxacin HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sennosides",
+            "CharacterIndices": null,
+            "omittedDetails": "Sennosides"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Hydrocodone",
+            "CharacterIndices": [
+                1550,
+                1561
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": [
+                1542,
+                1547
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

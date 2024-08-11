@@ -1,0 +1,196 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "esophageal cancer",
+            "CharacterIndices": null,
+            "omittedDetails": "Malignant Esophageal Neoplasm"
+        },
+        {
+            "text": "vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "insomnia",
+            "CharacterIndices": null,
+            "omittedDetails": "Insomnia"
+        },
+        {
+            "text": "spasm",
+            "CharacterIndices": null,
+            "omittedDetails": "Muscle Spasm"
+        },
+        {
+            "text": "facial asymmetry",
+            "CharacterIndices": null,
+            "omittedDetails": "Congenital Facial Asymmetry"
+        },
+        {
+            "text": "clubbing",
+            "CharacterIndices": null,
+            "omittedDetails": "Clubbing Of Fingers"
+        },
+        {
+            "text": "cyanosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Cyanosis"
+        },
+        {
+            "text": "hernia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hernia K40-K46"
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": null,
+            "omittedDetails": "Chills"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "colitis",
+            "CharacterIndices": [
+                1124,
+                1131
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": [
+                250,
+                259
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "esophagectomy",
+            "CharacterIndices": [
+                580,
+                593
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "vaginal hysterectomy",
+            "CharacterIndices": [
+                1037,
+                1057
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "EGD",
+            "CharacterIndices": [
+                700,
+                703
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "KUB",
+            "CharacterIndices": [
+                2175,
+                2178
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Zofran",
+            "CharacterIndices": null,
+            "omittedDetails": "Ondansetron Hydrochloride"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lisinopril",
+            "CharacterIndices": null,
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "Lopressor",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "hydralazine",
+            "CharacterIndices": null,
+            "omittedDetails": "Hydralazine"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "IV fluids",
+            "CharacterIndices": [
+                2534,
+                2543
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "lightheadedness",
+            "CharacterIndices": null,
+            "omittedDetails": "Dizziness And Giddiness"
+        },
+        {
+            "text": "Hypotension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypotension"
+        },
+        {
+            "text": "gallops",
+            "CharacterIndices": null,
+            "omittedDetails": "Gallop"
+        },
+        {
+            "text": "percutaneous tracheostomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Percutaneous Tracheostomy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                2307,
+                2313
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": [
+                268,
+                277
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "tolerated the procedure well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.08",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "650",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Tartrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ipratropium Bromide",
+            "CharacterIndices": null,
+            "omittedDetails": "Ipratropium Bromide"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Magnesium",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnesium"
+        },
+        {
+            "text": "Aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "3",
+            "CharacterIndices": [
+                2923,
+                2924
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "ampicillin",
+            "CharacterIndices": [
+                2552,
+                2562
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "magnesium hydroxide",
+            "CharacterIndices": [
+                3504,
+                3523
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "docusate",
+            "CharacterIndices": [
+                3454,
+                3462
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "stage III",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage III"
+        },
+        {
+            "text": "erythema",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythema"
+        },
+        {
+            "text": "swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Edema"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "salmonella",
+            "CharacterIndices": null,
+            "omittedDetails": "Typhoid Fever Unspecified"
+        },
+        {
+            "text": "splenic abscess",
+            "CharacterIndices": null,
+            "omittedDetails": "Abscess Of Spleen"
+        },
+        {
+            "text": "splenectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Splenectomy"
+        },
+        {
+            "text": "stent placement",
+            "CharacterIndices": null,
+            "omittedDetails": "Stent Placement"
+        },
+        {
+            "text": "Doppler",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        },
+        {
+            "text": "screening",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Screening"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "45",
+            "CharacterIndices": [
+                67,
+                69
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "heart failure with preserved ejection fraction",
+            "CharacterIndices": [
+                493,
+                539
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "deep vein thrombosis",
+            "CharacterIndices": [
+                382,
+                402
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "asthma",
+            "CharacterIndices": [
+                217,
+                223
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "120",
+            "CharacterIndices": [
+                1403,
+                1406
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "vasodilators",
+            "CharacterIndices": [
+                734,
+                746
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "emtricitabine",
+            "CharacterIndices": [
+                1640,
+                1653
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "20",
+            "CharacterIndices": [
+                1689,
+                1691
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "tenofovir alafenamide",
+            "CharacterIndices": [
+                1666,
+                1687
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "20",
+            "CharacterIndices": [
+                1689,
+                1691
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "rilpivirine",
+            "CharacterIndices": [
+                1654,
+                1665
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "20",
+            "CharacterIndices": [
+                1689,
+                1691
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "diuretics",
+            "CharacterIndices": [
+                720,
+                729
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "Clopidogrel",
+            "CharacterIndices": null,
+            "omittedDetails": "Clopidogrel"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Triamcinolone Acetonide",
+            "CharacterIndices": null,
+            "omittedDetails": "Triamcinolone Acetonide"
+        },
+        {
+            "text": "0.02",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ciprofloxacin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin"
+        },
+        {
+            "text": "Erythromycin Base",
+            "CharacterIndices": null,
+            "omittedDetails": "Erythromycin"
+        },
+        {
+            "text": "Biaxin",
+            "CharacterIndices": null,
+            "omittedDetails": "Clarithromycin"
+        }
+    ]
+}

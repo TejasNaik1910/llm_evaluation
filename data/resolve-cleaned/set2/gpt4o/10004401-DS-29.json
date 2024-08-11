@@ -1,0 +1,204 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "MRSA",
+            "CharacterIndices": null,
+            "omittedDetails": "Methicillin Resistant Staphylococcus Aureus Infection As The Cause Of Diseases Classified Elsewhere"
+        },
+        {
+            "text": "fractures",
+            "CharacterIndices": null,
+            "omittedDetails": "Fracture"
+        },
+        {
+            "text": "difficulty breathing",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "colostomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colo-colostomy"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Confused",
+            "CharacterIndices": [
+                4134,
+                4142
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "rhonchi",
+            "CharacterIndices": [
+                2323,
+                2330
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": [
+                2422,
+                2428
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": [
+                2373,
+                2378
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "750",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3.125",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lidocaine patch",
+            "CharacterIndices": null,
+            "omittedDetails": "Lidocaine Patch"
+        },
+        {
+            "text": "700",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Gentamicin",
+            "CharacterIndices": null,
+            "omittedDetails": "Gentamicin"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "simethicone",
+            "CharacterIndices": null,
+            "omittedDetails": "Simethicone"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": [
+                3150,
+                3151
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Docusate",
+            "CharacterIndices": [
+                3731,
+                3739
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "coumadin",
+            "CharacterIndices": [
+                3215,
+                3223
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Streptomycin",
+            "CharacterIndices": [
+                313,
+                325
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

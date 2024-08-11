@@ -1,0 +1,160 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "increased in size",
+            "CharacterIndices": null,
+            "omittedDetails": "Bad Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "NSCLC",
+            "CharacterIndices": [
+                232,
+                237
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Remove sutures",
+            "CharacterIndices": [
+                1430,
+                1444
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "65",
+            "CharacterIndices": [
+                88,
+                90
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "distress",
+            "CharacterIndices": null,
+            "omittedDetails": "Distress"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "DM",
+            "CharacterIndices": null,
+            "omittedDetails": "Diabetes Mellitus"
+        },
+        {
+            "text": "adenopathy",
+            "CharacterIndices": null,
+            "omittedDetails": "Enlarged Lymph Nodes, Unspecified"
+        },
+        {
+            "text": "Hypoxemia",
+            "CharacterIndices": null,
+            "omittedDetails": "HYPOXEMIA"
+        },
+        {
+            "text": "effusions",
+            "CharacterIndices": null,
+            "omittedDetails": "Effusion"
+        },
+        {
+            "text": "wheezes",
+            "CharacterIndices": null,
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "JVD",
+            "CharacterIndices": null,
+            "omittedDetails": "Jugular Vein Distension"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Keytruda",
+            "CharacterIndices": null,
+            "omittedDetails": "Pembrolizumab Regimen"
+        },
+        {
+            "text": "losartan",
+            "CharacterIndices": null,
+            "omittedDetails": "Losartan"
+        },
+        {
+            "text": "Antibiotics",
+            "CharacterIndices": null,
+            "omittedDetails": "Antibiotic"
+        },
+        {
+            "text": "Sulfonamide",
+            "CharacterIndices": null,
+            "omittedDetails": "Sulfonamide Anti-Infective Agent"
+        },
+        {
+            "text": "amLODIPine",
+            "CharacterIndices": null,
+            "omittedDetails": "Amlodipine"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": [
+                1450,
+                1451
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "50",
+            "CharacterIndices": [
+                1588,
+                1590
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "400",
+            "CharacterIndices": [
+                1620,
+                1623
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "40",
+            "CharacterIndices": [
+                1529,
+                1531
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

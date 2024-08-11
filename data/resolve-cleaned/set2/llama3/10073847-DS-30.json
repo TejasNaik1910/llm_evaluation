@@ -1,0 +1,335 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "DVTs",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "CAD",
+            "CharacterIndices": null,
+            "omittedDetails": "Ischemic Heart Diseases I20-I25"
+        },
+        {
+            "text": "HTN",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "Hyperlipidemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperlipidemia Unspecified"
+        },
+        {
+            "text": "weakness",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "OSA",
+            "CharacterIndices": null,
+            "omittedDetails": "Obstructive Sleep Apnoea"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "dyspnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "wheezing",
+            "CharacterIndices": null,
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "chronic diastolic CHF",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Diastolic Congestive Heart Failure"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "decubitus ulcer",
+            "CharacterIndices": null,
+            "omittedDetails": "Decubitus Ulcer"
+        },
+        {
+            "text": "hematuria",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematuria"
+        },
+        {
+            "text": "thrombocytopenia",
+            "CharacterIndices": null,
+            "omittedDetails": "Thrombocytopenia Unspecified"
+        },
+        {
+            "text": "diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Edema"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "DLBCL",
+            "CharacterIndices": null,
+            "omittedDetails": "Malignant Lymphoma, Large B-Cell, Diffuse, Nos"
+        },
+        {
+            "text": "Tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "angioplasty",
+            "CharacterIndices": null,
+            "omittedDetails": "Angioplasty"
+        },
+        {
+            "text": "Vasectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Unilateral Vasectomy Or Ligature Of Vas Deferens"
+        },
+        {
+            "text": "Lumbar puncture",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Lumbar Spinal Puncture Procedure Ambiguous"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "Tolerated well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        },
+        {
+            "text": "relapsed",
+            "CharacterIndices": null,
+            "omittedDetails": "Relapse"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "man",
+            "CharacterIndices": null,
+            "omittedDetails": "Male"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "480",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "high-dose methotrexate",
+            "CharacterIndices": null,
+            "omittedDetails": "High-Dose Methotrexate Regimen"
+        },
+        {
+            "text": "Rituximab",
+            "CharacterIndices": null,
+            "omittedDetails": "Rituximab"
+        },
+        {
+            "text": "enoxaparin",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin"
+        },
+        {
+            "text": "120",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "R-EPOCH",
+            "CharacterIndices": null,
+            "omittedDetails": "R-Epoch Regimen"
+        },
+        {
+            "text": "6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "OXYCODONE",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "metoprolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol"
+        },
+        {
+            "text": "NITROGLYCERIN",
+            "CharacterIndices": null,
+            "omittedDetails": "Nitroglycerin"
+        },
+        {
+            "text": "0.3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "SALMETEROL",
+            "CharacterIndices": null,
+            "omittedDetails": "Salmeterol"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "FLUTICASONE",
+            "CharacterIndices": null,
+            "omittedDetails": "Fluticasone"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "methotrexate",
+            "CharacterIndices": null,
+            "omittedDetails": "Methotrexate Regimen"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Multivitamin",
+            "CharacterIndices": [
+                743,
+                755
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Simvastatin",
+            "CharacterIndices": [
+                681,
+                692
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Albuterol",
+            "CharacterIndices": [
+                596,
+                605
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Etoposide",
+            "CharacterIndices": [
+                528,
+                537
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acyclovir",
+            "CharacterIndices": [
+                584,
+                593
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Nicotine",
+            "CharacterIndices": [
+                758,
+                766
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

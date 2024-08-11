@@ -1,0 +1,205 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "increase size",
+            "CharacterIndices": null,
+            "omittedDetails": "Bad Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Hepatocellular carcinoma",
+            "CharacterIndices": [
+                2425,
+                2449
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "HCC",
+            "CharacterIndices": [
+                1138,
+                1141
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "thrombosis",
+            "CharacterIndices": [
+                1945,
+                1955
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "wheezing",
+            "CharacterIndices": [
+                1207,
+                1215
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "ablation",
+            "CharacterIndices": [
+                601,
+                609
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "pulmonary embolism",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Embolism"
+        },
+        {
+            "text": "cavities",
+            "CharacterIndices": null,
+            "omittedDetails": "Tooth Caries"
+        },
+        {
+            "text": "small vessel disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Diseases Of Arteries Arterioles And Capillaries I70-I79"
+        },
+        {
+            "text": "portal vein thrombosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Portal Vein Thrombosis"
+        },
+        {
+            "text": "portal hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Portal Hypertension"
+        },
+        {
+            "text": "gastric ulcer",
+            "CharacterIndices": null,
+            "omittedDetails": "Gastric Ulcer"
+        },
+        {
+            "text": "viral infection",
+            "CharacterIndices": null,
+            "omittedDetails": "Viral Infection Unspecified"
+        },
+        {
+            "text": "cytopenias",
+            "CharacterIndices": null,
+            "omittedDetails": "Pancytopenia"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "BRBPR",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "EGD",
+            "CharacterIndices": null,
+            "omittedDetails": "Esophagogastroduodenoscopy"
+        },
+        {
+            "text": "CT abdomen",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17.2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "FOLFOX6",
+            "CharacterIndices": null,
+            "omittedDetails": "Folfox-6 Regimen"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        },
+        {
+            "text": "oxaliplatin",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxaliplatin Regimen"
+        },
+        {
+            "text": "65",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Neulasta",
+            "CharacterIndices": null,
+            "omittedDetails": "Pegfilgrastim Regimen"
+        },
+        {
+            "text": "Miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        },
+        {
+            "text": "sennosides",
+            "CharacterIndices": null,
+            "omittedDetails": "Sennosides"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

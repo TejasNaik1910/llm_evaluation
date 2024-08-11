@@ -1,0 +1,209 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "progressed",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Progression"
+        },
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "adenocarcinoma",
+            "CharacterIndices": null,
+            "omittedDetails": "Adenocarcinoma"
+        },
+        {
+            "text": "carcinomatosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage Iv"
+        },
+        {
+            "text": "carcinomatosis",
+            "CharacterIndices": null,
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "leaked urine",
+            "CharacterIndices": null,
+            "omittedDetails": "Urinary Incontinence"
+        },
+        {
+            "text": "stents",
+            "CharacterIndices": null,
+            "omittedDetails": "Atherosclerosis"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "THROMBOCYTOSIS",
+            "CharacterIndices": null,
+            "omittedDetails": "Thrombocytosis"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "TTP",
+            "CharacterIndices": null,
+            "omittedDetails": "Immune Thrombocytopenic Purpura"
+        },
+        {
+            "text": "stents",
+            "CharacterIndices": null,
+            "omittedDetails": "Stent Placement"
+        },
+        {
+            "text": "liver biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy Of Liver"
+        },
+        {
+            "text": "ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Dyslipidemia",
+            "CharacterIndices": [
+                1043,
+                1055
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "gastrointestinal bleeding",
+            "CharacterIndices": [
+                2453,
+                2478
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "liver enzymes",
+            "CharacterIndices": [
+                1600,
+                1613
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Dilaudid",
+            "CharacterIndices": null,
+            "omittedDetails": "Dilaudid"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "pRBCs",
+            "CharacterIndices": null,
+            "omittedDetails": "Red Blood Cells Product"
+        },
+        {
+            "text": "7",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sennosides",
+            "CharacterIndices": null,
+            "omittedDetails": "Sennosides"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

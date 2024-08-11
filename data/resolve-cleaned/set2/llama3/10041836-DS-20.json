@@ -1,0 +1,251 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "endometrial CA",
+            "CharacterIndices": null,
+            "omittedDetails": "Carcinoma"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "dizziness",
+            "CharacterIndices": null,
+            "omittedDetails": "Dizziness And Giddiness"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "abdominal wall hernia",
+            "CharacterIndices": null,
+            "omittedDetails": "Ventral Hernia"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "HTN",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemorrhage Not Elsewhere Classified"
+        },
+        {
+            "text": "anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": null,
+            "omittedDetails": "Chills"
+        },
+        {
+            "text": "fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "pan",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyarteritis Nodosa"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Surgical Procedure"
+        },
+        {
+            "text": "bone bx",
+            "CharacterIndices": null,
+            "omittedDetails": "Bone Biopsy"
+        },
+        {
+            "text": "lap",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "lung biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy Of Lung"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "path",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology Procedure"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "pulmonary embolism",
+            "CharacterIndices": [
+                197,
+                215
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "12.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Codeine",
+            "CharacterIndices": null,
+            "omittedDetails": "Codeine"
+        },
+        {
+            "text": "lovenox",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Paroxetine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Paroxetine Hydrochloride"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "keflex",
+            "CharacterIndices": null,
+            "omittedDetails": "Keflex"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ciprofloxacin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Tramadol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tramadol"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Nifedipine",
+            "CharacterIndices": null,
+            "omittedDetails": "Nifedipine"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "bactrim",
+            "CharacterIndices": null,
+            "omittedDetails": "Trimethoprim-Sulfamethoxazole"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

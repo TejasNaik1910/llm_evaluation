@@ -1,0 +1,223 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "asymptomatic",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "died",
+            "CharacterIndices": null,
+            "omittedDetails": "Death"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "neuroendocrine tumor",
+            "CharacterIndices": [
+                485,
+                505
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "DVT",
+            "CharacterIndices": [
+                2529,
+                2532
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Obesity",
+            "CharacterIndices": [
+                986,
+                993
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": [
+                432,
+                439
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "loss of consciousness",
+            "CharacterIndices": [
+                788,
+                809
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Swelling",
+            "CharacterIndices": [
+                2501,
+                2509
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "orthostatic hypotension",
+            "CharacterIndices": null,
+            "omittedDetails": "Orthostatic Hypotension"
+        },
+        {
+            "text": "subdural hematoma",
+            "CharacterIndices": null,
+            "omittedDetails": "Nontraumatic Subdural Hemorrhage"
+        },
+        {
+            "text": "facial droop",
+            "CharacterIndices": null,
+            "omittedDetails": "Facial Weakness"
+        },
+        {
+            "text": "weakness",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "Head CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Head"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        },
+        {
+            "text": "EKGs",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "EUS",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Ultrasound"
+        },
+        {
+            "text": "CT abdomen",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "path",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology Procedure"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "120",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "statin",
+            "CharacterIndices": null,
+            "omittedDetails": "Hmg-Coa Reductase Inhibitor"
+        },
+        {
+            "text": "antibiotics",
+            "CharacterIndices": null,
+            "omittedDetails": "Antibiotic"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Imodium",
+            "CharacterIndices": [
+                2251,
+                2258
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

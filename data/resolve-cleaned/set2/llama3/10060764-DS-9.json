@@ -1,0 +1,254 @@
+{
+    "Specific to General Patient Information": [
+        {
+            "text": "Sex:   F",
+            "CharacterIndices": null,
+            "omittedDetails": "Female"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "Acute Renal Failure",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Kidney Failure"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "2+ edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Moderate Pitting Edema"
+        },
+        {
+            "text": "perihepatic ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Ascites"
+        },
+        {
+            "text": "Leukocytosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Elevated White Blood Cell Count"
+        },
+        {
+            "text": "tachycardia",
+            "CharacterIndices": null,
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "infection",
+            "CharacterIndices": null,
+            "omittedDetails": "Infection"
+        },
+        {
+            "text": "Malnutrition",
+            "CharacterIndices": null,
+            "omittedDetails": "Malnutrition E40-E46"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "Anemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Anemia"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "biliary stents",
+            "CharacterIndices": null,
+            "omittedDetails": "Placement Of Stent(S) Into A Bile Duct, Percutaneous, Including Diagnostic Cholangiography, Imaging Guidance (Eg, Fluoroscopy And/Or Ultrasound), Balloon Dilation, Catheter Exchange(S) And Catheter Removal(S) When Performed, And All Associated Radiological Supervision And Interpretation, Each Stent; New Access, With Placement Of Separate Biliary Drainage Catheter (Eg, External Or Internal-External)"
+        },
+        {
+            "text": "CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography"
+        },
+        {
+            "text": "Transabdominal ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Transabdominal Ultrasound"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "liver enzymes",
+            "CharacterIndices": [
+                225,
+                238
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "mitral valve prolapse",
+            "CharacterIndices": [
+                325,
+                346
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "percutaneous transhepatic biliary drainage",
+            "CharacterIndices": [
+                797,
+                839
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "0.125",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "unasyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "zosyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Piperacillin-Tazobactam"
+        },
+        {
+            "text": "IV fluids",
+            "CharacterIndices": null,
+            "omittedDetails": "IV Fluid"
+        },
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        },
+        {
+            "text": "ciprofloxacin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin"
+        },
+        {
+            "text": "Demerol",
+            "CharacterIndices": null,
+            "omittedDetails": "Meperidine Hydrochloride"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "polyethylene glycol",
+            "CharacterIndices": [
+                1115,
+                1134
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

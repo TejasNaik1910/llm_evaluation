@@ -1,0 +1,220 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Acute pulmonary edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Pulmonary Edema"
+        },
+        {
+            "text": "Aspergillosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspergillosis"
+        },
+        {
+            "text": "Prostatitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Inflammatory Disease Of Prostate Unspecified"
+        },
+        {
+            "text": "Syncope",
+            "CharacterIndices": null,
+            "omittedDetails": "Syncope And Collapse"
+        },
+        {
+            "text": "Seizure",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Seizures"
+        },
+        {
+            "text": "Splenomegaly",
+            "CharacterIndices": null,
+            "omittedDetails": "Splenomegaly Not Elsewhere Classified"
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "PATHOLOGY",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "leukocytosis",
+            "CharacterIndices": [
+                827,
+                839
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Lyme disease",
+            "CharacterIndices": [
+                2867,
+                2879
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "febrile neutropenia",
+            "CharacterIndices": [
+                3397,
+                3416
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CT Chest",
+            "CharacterIndices": [
+                1329,
+                1337
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "stage IIA breast cancer",
+            "CharacterIndices": [
+                595,
+                618
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "GVHD",
+            "CharacterIndices": null,
+            "omittedDetails": "Graft-Versus-Host Disease Unspecified"
+        },
+        {
+            "text": "relapse",
+            "CharacterIndices": null,
+            "omittedDetails": "Relapse"
+        },
+        {
+            "text": "relapsed leukemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Recurrence"
+        },
+        {
+            "text": "Residual",
+            "CharacterIndices": null,
+            "omittedDetails": "Residual Disease"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "influenza vaccine",
+            "CharacterIndices": null,
+            "omittedDetails": "Trivalent Influenza Vaccine"
+        },
+        {
+            "text": "Lasix",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ciprofloxacin HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "prophylactic",
+            "CharacterIndices": [
+                3462,
+                3474
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolution",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Type 2 diabetes mellitus",
+            "CharacterIndices": null,
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "Chronic systolic CHF",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Systolic Congestive Heart Failure"
+        },
+        {
+            "text": "total hip arthroplasty",
+            "CharacterIndices": null,
+            "omittedDetails": "Total Hip Arthroplasty"
+        },
+        {
+            "text": "xrays",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        },
+        {
+            "text": "pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "MRi",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "sigmoidoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Sigmoidoscopy"
+        },
+        {
+            "text": "cancer screening",
+            "CharacterIndices": null,
+            "omittedDetails": "Cancer Screening"
+        },
+        {
+            "text": "bone scan",
+            "CharacterIndices": null,
+            "omittedDetails": "Bone Scan"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "atrial fibrillation",
+            "CharacterIndices": [
+                537,
+                556
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "750",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1250",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "LIPITOR",
+            "CharacterIndices": null,
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lovenox",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Vitamin D",
+            "CharacterIndices": null,
+            "omittedDetails": "Vitamin D"
+        },
+        {
+            "text": "50,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "docusate sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "morphine",
+            "CharacterIndices": null,
+            "omittedDetails": "Morphine"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Nitroglycerin",
+            "CharacterIndices": [
+                1947,
+                1960
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Amitriptyline",
+            "CharacterIndices": [
+                1787,
+                1800
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

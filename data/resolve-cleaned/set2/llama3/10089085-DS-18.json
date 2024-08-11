@@ -1,0 +1,215 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "SOB",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "lightheadedness",
+            "CharacterIndices": null,
+            "omittedDetails": "Dizziness And Giddiness"
+        },
+        {
+            "text": "hypoxemia",
+            "CharacterIndices": null,
+            "omittedDetails": "HYPOXEMIA"
+        },
+        {
+            "text": "pneumonia",
+            "CharacterIndices": null,
+            "omittedDetails": "Pneumonia Unspecified Organism"
+        },
+        {
+            "text": "wheezing",
+            "CharacterIndices": null,
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "Hypotension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypotension"
+        },
+        {
+            "text": "Tachycardic",
+            "CharacterIndices": null,
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "INFLUENZAE",
+            "CharacterIndices": null,
+            "omittedDetails": "Influenza Due To Certain Identified Influenza Viruses"
+        },
+        {
+            "text": "dysphagia",
+            "CharacterIndices": null,
+            "omittedDetails": "Dysphagia"
+        },
+        {
+            "text": "gallops",
+            "CharacterIndices": null,
+            "omittedDetails": "Gallop"
+        },
+        {
+            "text": "percutaneous tracheostomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Percutaneous Tracheostomy"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "tolerated the procedure well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        },
+        {
+            "text": "RESISTANT",
+            "CharacterIndices": null,
+            "omittedDetails": "Refractory"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "female",
+            "CharacterIndices": null,
+            "omittedDetails": "Female"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.08",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "650",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "augmentin",
+            "CharacterIndices": null,
+            "omittedDetails": "Amoxicillin-Clavulanate Potassium"
+        },
+        {
+            "text": "Metoprolol Tartrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Mucinex",
+            "CharacterIndices": null,
+            "omittedDetails": "Guaifenesin"
+        },
+        {
+            "text": "1200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lidocaine",
+            "CharacterIndices": null,
+            "omittedDetails": "Lidocaine"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "chemotherapy",
+            "CharacterIndices": null,
+            "omittedDetails": "Chemotherapy"
+        },
+        {
+            "text": "cardizem",
+            "CharacterIndices": null,
+            "omittedDetails": "Diltiazem Hydrochloride"
+        },
+        {
+            "text": "oxycodone",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Simethicone",
+            "CharacterIndices": null,
+            "omittedDetails": "Simethicone"
+        },
+        {
+            "text": "Magnesium",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnesium"
+        }
+    ]
+}

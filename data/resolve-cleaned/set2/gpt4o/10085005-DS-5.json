@@ -1,0 +1,158 @@
+{
+    "Incorrect Followup": [
+        {
+            "text": "Stable",
+            "CharacterIndices": [
+                1435,
+                1441
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "carcinoid",
+            "CharacterIndices": [
+                619,
+                628
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "carcinoid tumor",
+            "CharacterIndices": [
+                619,
+                634
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "irritable bowel syndrome",
+            "CharacterIndices": [
+                779,
+                803
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "appendicitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Appendicitis"
+        },
+        {
+            "text": "dehydrated",
+            "CharacterIndices": null,
+            "omittedDetails": "Dehydration"
+        },
+        {
+            "text": "shaking",
+            "CharacterIndices": null,
+            "omittedDetails": "Tremor Unspecified"
+        },
+        {
+            "text": "fever",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": null,
+            "omittedDetails": "Chills"
+        },
+        {
+            "text": "lap",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "45",
+            "CharacterIndices": [
+                2754,
+                2756
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "1",
+            "CharacterIndices": [
+                2632,
+                2633
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "120",
+            "CharacterIndices": [
+                2632,
+                2635
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "2",
+            "CharacterIndices": [
+                2777,
+                2778
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "IV fluids",
+            "CharacterIndices": [
+                2409,
+                2418
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Colace",
+            "CharacterIndices": [
+                2780,
+                2786
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "100",
+            "CharacterIndices": [
+                2787,
+                2790
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "60",
+            "CharacterIndices": [
+                2803,
+                2805
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "Penicillins",
+            "CharacterIndices": null,
+            "omittedDetails": "Penicillin Antibiotic"
+        },
+        {
+            "text": "oxycodone",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone"
+        },
+        {
+            "text": "hydrocodone",
+            "CharacterIndices": null,
+            "omittedDetails": "Hydrocodone"
+        },
+        {
+            "text": "vicodin",
+            "CharacterIndices": null,
+            "omittedDetails": "Hydrocodone Acetaminophen"
+        }
+    ]
+}

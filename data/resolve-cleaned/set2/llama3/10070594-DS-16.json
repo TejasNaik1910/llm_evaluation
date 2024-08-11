@@ -1,0 +1,258 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "recovered",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "died",
+            "CharacterIndices": null,
+            "omittedDetails": "Death"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "CKD Stage II",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Kidney Disease Stage 2 Mild"
+        },
+        {
+            "text": "diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "pancytopenia",
+            "CharacterIndices": null,
+            "omittedDetails": "Pancytopenia"
+        },
+        {
+            "text": "Malnutrition",
+            "CharacterIndices": null,
+            "omittedDetails": "Malnutrition E40-E46"
+        },
+        {
+            "text": "Failure to Thrive",
+            "CharacterIndices": null,
+            "omittedDetails": "Failure To Thrive Child"
+        },
+        {
+            "text": "nausea/vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea And Vomiting"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "palpitations",
+            "CharacterIndices": null,
+            "omittedDetails": "Palpitations"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "U/S",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        },
+        {
+            "text": "EUS",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Ultrasound"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Obesity",
+            "CharacterIndices": [
+                401,
+                408
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "palliative",
+            "CharacterIndices": null,
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "ceftriaxone",
+            "CharacterIndices": null,
+            "omittedDetails": "Ceftriaxone"
+        },
+        {
+            "text": "apixaban",
+            "CharacterIndices": null,
+            "omittedDetails": "Apixaban"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lasix",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "colchicine",
+            "CharacterIndices": null,
+            "omittedDetails": "Colchicine"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "finasteride",
+            "CharacterIndices": null,
+            "omittedDetails": "Finasteride"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "LOPERamide",
+            "CharacterIndices": null,
+            "omittedDetails": "Loperamide"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "doxazosin",
+            "CharacterIndices": null,
+            "omittedDetails": "Doxazosin"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Allopurinol",
+            "CharacterIndices": null,
+            "omittedDetails": "Allopurinol"
+        },
+        {
+            "text": "Tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Imodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Loperamide Hydrochloride"
+        },
+        {
+            "text": "Omeprazole",
+            "CharacterIndices": null,
+            "omittedDetails": "Omeprazole"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": null,
+            "omittedDetails": "Senna"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "minerals",
+            "CharacterIndices": null,
+            "omittedDetails": "Mineral"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Neulasta",
+            "CharacterIndices": null,
+            "omittedDetails": "Pegfilgrastim Regimen"
+        },
+        {
+            "text": "ciprofloxacin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin"
+        },
+        {
+            "text": "7",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Neupogen",
+            "CharacterIndices": null,
+            "omittedDetails": "Filgrastim Regimen"
+        },
+        {
+            "text": "TOBRAMYCIN",
+            "CharacterIndices": null,
+            "omittedDetails": "Tobramycin"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

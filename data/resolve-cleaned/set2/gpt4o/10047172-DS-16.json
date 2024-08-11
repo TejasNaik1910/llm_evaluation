@@ -1,0 +1,294 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Acute blood loss anemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Posthemorrhagic Anemia"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "hyperbilirubinemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperbilirubinemia"
+        },
+        {
+            "text": "Anasarca",
+            "CharacterIndices": null,
+            "omittedDetails": "Generalized Edema"
+        },
+        {
+            "text": "Hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "splenomegaly",
+            "CharacterIndices": null,
+            "omittedDetails": "Splenomegaly Not Elsewhere Classified"
+        },
+        {
+            "text": "hypoglycemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypoglycemia Unspecified"
+        },
+        {
+            "text": "XR",
+            "CharacterIndices": null,
+            "omittedDetails": "X-Ray Imaging"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "hyperglycemia",
+            "CharacterIndices": [
+                3600,
+                3613
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hyponatremia",
+            "CharacterIndices": [
+                3184,
+                3196
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Hyperlipidemia",
+            "CharacterIndices": [
+                2036,
+                2050
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "liver enzymes",
+            "CharacterIndices": [
+                3149,
+                3162
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": [
+                238,
+                247
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fracture",
+            "CharacterIndices": [
+                2104,
+                2112
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "PICC line placement",
+            "CharacterIndices": [
+                1828,
+                1847
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ritalin",
+            "CharacterIndices": null,
+            "omittedDetails": "Methylphenidate Hydrochloride"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Glucophage",
+            "CharacterIndices": null,
+            "omittedDetails": "Metformin Hydrochloride"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "LORazepam",
+            "CharacterIndices": null,
+            "omittedDetails": "Lorazepam"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "heparin",
+            "CharacterIndices": null,
+            "omittedDetails": "Heparin"
+        },
+        {
+            "text": "Creon",
+            "CharacterIndices": null,
+            "omittedDetails": "Pancrelipase"
+        },
+        {
+            "text": "lantus",
+            "CharacterIndices": null,
+            "omittedDetails": "Lantus Solostar"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "CITRATE",
+            "CharacterIndices": null,
+            "omittedDetails": "Citrate"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Nystatin",
+            "CharacterIndices": null,
+            "omittedDetails": "Nystatin"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "DULoxetine",
+            "CharacterIndices": null,
+            "omittedDetails": "Duloxetine"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Abraxane",
+            "CharacterIndices": [
+                1371,
+                1379
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "FOLFIRINOX",
+            "CharacterIndices": [
+                1628,
+                1638
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CapOx",
+            "CharacterIndices": [
+                1662,
+                1667
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Fesoterodine",
+            "CharacterIndices": [
+                264,
+                276
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Pioglitazone",
+            "CharacterIndices": [
+                329,
+                341
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Sitagliptin",
+            "CharacterIndices": [
+                251,
+                262
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Simethicone",
+            "CharacterIndices": [
+                3834,
+                3845
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

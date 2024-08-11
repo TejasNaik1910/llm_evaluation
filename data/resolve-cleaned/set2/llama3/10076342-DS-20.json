@@ -1,0 +1,341 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "hepatic encephalopathy",
+            "CharacterIndices": [
+                1165,
+                1187
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "thrombocytopenia",
+            "CharacterIndices": [
+                1245,
+                1261
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Hyperglycemia",
+            "CharacterIndices": [
+                1338,
+                1351
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "infarct",
+            "CharacterIndices": [
+                1315,
+                1322
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": [
+                821,
+                826
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Lung cancer",
+            "CharacterIndices": [
+                471,
+                482
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Non-small cell lung cancer",
+            "CharacterIndices": [
+                188,
+                214
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Swelling",
+            "CharacterIndices": null,
+            "omittedDetails": "Swelling"
+        },
+        {
+            "text": "bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemorrhage Not Elsewhere Classified"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "Confusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "Hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "Vomiting",
+            "CharacterIndices": null,
+            "omittedDetails": "Vomiting"
+        },
+        {
+            "text": "Diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "Melena",
+            "CharacterIndices": null,
+            "omittedDetails": "Melena"
+        },
+        {
+            "text": "Nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "Numbness",
+            "CharacterIndices": null,
+            "omittedDetails": "Numbness"
+        },
+        {
+            "text": "Orthopnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Orthopnea"
+        },
+        {
+            "text": "Weakness",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "PET-CT",
+            "CharacterIndices": null,
+            "omittedDetails": "PET/CT"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "liver biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy Of Liver"
+        },
+        {
+            "text": "brain mets",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage Iv"
+        },
+        {
+            "text": "brain mets",
+            "CharacterIndices": null,
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "Thoracic surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Thoracic Surgery"
+        },
+        {
+            "text": "lung resection",
+            "CharacterIndices": null,
+            "omittedDetails": "Lung Resection"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Insulin Regular",
+            "CharacterIndices": null,
+            "omittedDetails": "Insulin Human"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Tartrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Advil",
+            "CharacterIndices": null,
+            "omittedDetails": "Advil"
+        },
+        {
+            "text": "Folic Acid",
+            "CharacterIndices": null,
+            "omittedDetails": "Folic Acid Derivative"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "solumedrol",
+            "CharacterIndices": null,
+            "omittedDetails": "Solumedrol"
+        },
+        {
+            "text": "125",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "oxygen therapy",
+            "CharacterIndices": null,
+            "omittedDetails": "Supplemental Oxygen"
+        },
+        {
+            "text": "Lidocaine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Lidocaine Hydrochloride"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ipratropium Bromide",
+            "CharacterIndices": null,
+            "omittedDetails": "Ipratropium Bromide"
+        },
+        {
+            "text": "0.0",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Thiamine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Thiamine Hydrochloride"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Cetylpyridinium",
+            "CharacterIndices": null,
+            "omittedDetails": "Cetylpyridinium"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Multivitamins",
+            "CharacterIndices": null,
+            "omittedDetails": "Multivitamin"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Albuterol Sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Albuterol Sulfate"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Bisacodyl",
+            "CharacterIndices": null,
+            "omittedDetails": "Bisacodyl"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Nystatin",
+            "CharacterIndices": null,
+            "omittedDetails": "Nystatin"
+        },
+        {
+            "text": "100,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Menthol",
+            "CharacterIndices": null,
+            "omittedDetails": "Menthol"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

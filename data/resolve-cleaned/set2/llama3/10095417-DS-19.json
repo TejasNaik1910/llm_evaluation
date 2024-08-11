@@ -1,0 +1,208 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "decrease in size",
+            "CharacterIndices": null,
+            "omittedDetails": "Partial Response"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "stable condition",
+            "CharacterIndices": [
+                2512,
+                2528
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Pancreatic cancer stage IV",
+            "CharacterIndices": null,
+            "omittedDetails": "Carcinoma"
+        },
+        {
+            "text": "Pancreatic cancer stage IV",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage Iv"
+        },
+        {
+            "text": "Pancreatic cancer stage IV",
+            "CharacterIndices": null,
+            "omittedDetails": "M1"
+        },
+        {
+            "text": "Hernia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hernia K40-K46"
+        },
+        {
+            "text": "indigestion",
+            "CharacterIndices": null,
+            "omittedDetails": "Functional Dyspepsia"
+        },
+        {
+            "text": "bacteremia",
+            "CharacterIndices": null,
+            "omittedDetails": "Bacteremia"
+        },
+        {
+            "text": "lymphadenopathy",
+            "CharacterIndices": null,
+            "omittedDetails": "Enlarged Lymph Nodes, Unspecified"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "fatigue",
+            "CharacterIndices": null,
+            "omittedDetails": "Fatigue"
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Edema"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "CT A/P",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "liver enzymes",
+            "CharacterIndices": [
+                1137,
+                1150
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "12.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "gemcitabine",
+            "CharacterIndices": null,
+            "omittedDetails": "Gemcitabine Regimen"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "paclitaxel",
+            "CharacterIndices": null,
+            "omittedDetails": "Paclitaxel Regimen"
+        },
+        {
+            "text": "lutein",
+            "CharacterIndices": null,
+            "omittedDetails": "Lutein"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ciprofloxacin HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Protonix",
+            "CharacterIndices": null,
+            "omittedDetails": "Pantoprazole Sodium"
+        },
+        {
+            "text": "tramadol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tramadol"
+        },
+        {
+            "text": "multivit",
+            "CharacterIndices": null,
+            "omittedDetails": "Multivitamin"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ]
+}

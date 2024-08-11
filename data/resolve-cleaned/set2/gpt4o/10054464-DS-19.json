@@ -1,0 +1,282 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "progressed",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Progression"
+        },
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "collapse",
+            "CharacterIndices": null,
+            "omittedDetails": "Collapse"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Effusion"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "bloating",
+            "CharacterIndices": null,
+            "omittedDetails": "Bloating"
+        },
+        {
+            "text": "thrush",
+            "CharacterIndices": null,
+            "omittedDetails": "Candidiasis"
+        },
+        {
+            "text": "thoracentesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Thoracentesis"
+        },
+        {
+            "text": "Doppler",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        },
+        {
+            "text": "ekg",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "Cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "hypotension",
+            "CharacterIndices": [
+                1043,
+                1054
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                2926,
+                2932
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "decreased breath sounds",
+            "CharacterIndices": [
+                2236,
+                2259
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "650",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.00",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "7.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Dilaudid",
+            "CharacterIndices": null,
+            "omittedDetails": "Dilaudid"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Prochlorperazine Maleate",
+            "CharacterIndices": null,
+            "omittedDetails": "Prochlorperazine Maleate"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "atenolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Atenolol"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Versed",
+            "CharacterIndices": null,
+            "omittedDetails": "Midazolam Hydrochloride"
+        },
+        {
+            "text": "Senna",
+            "CharacterIndices": null,
+            "omittedDetails": "Senna"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": [
+                4071,
+                4072
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "intravenous fluids",
+            "CharacterIndices": [
+                1090,
+                1108
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Lidocaine patch",
+            "CharacterIndices": [
+                3668,
+                3683
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Prochlorperazine",
+            "CharacterIndices": [
+                3808,
+                3824
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "CharacterIndices": [
+                3763,
+                3782
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Ranitidine",
+            "CharacterIndices": [
+                3826,
+                3836
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Docusate",
+            "CharacterIndices": [
+                3738,
+                3746
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

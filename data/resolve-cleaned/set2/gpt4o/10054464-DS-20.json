@@ -1,0 +1,198 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "fever",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "loss of consciousness",
+            "CharacterIndices": null,
+            "omittedDetails": "Loss Of Consciousness"
+        },
+        {
+            "text": "core needle biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Core Needle Biopsy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "myocardial infarction",
+            "CharacterIndices": [
+                1672,
+                1693
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Lidocaine patch",
+            "CharacterIndices": [
+                3858,
+                3873
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Prochlorperazine",
+            "CharacterIndices": [
+                3641,
+                3657
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Ranitidine",
+            "CharacterIndices": [
+                3670,
+                3680
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Megestrol",
+            "CharacterIndices": [
+                3847,
+                3856
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Lorazepam",
+            "CharacterIndices": [
+                3659,
+                3668
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.00",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "carboplatin/taxotere",
+            "CharacterIndices": null,
+            "omittedDetails": "Carboplatin Docetaxel"
+        },
+        {
+            "text": "Prochlorperazine Maleate",
+            "CharacterIndices": null,
+            "omittedDetails": "Prochlorperazine Maleate"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ranitidine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ranitidine Hydrochloride"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "oxygen",
+            "CharacterIndices": null,
+            "omittedDetails": "Supplemental Oxygen"
+        }
+    ]
+}

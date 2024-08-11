@@ -1,0 +1,192 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "42",
+            "CharacterIndices": [
+                88,
+                90
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "type II diabetes mellitus",
+            "CharacterIndices": null,
+            "omittedDetails": "Type 2 Diabetes Mellitus"
+        },
+        {
+            "text": "vaginal bleeding",
+            "CharacterIndices": null,
+            "omittedDetails": "Abnormal Uterine And Vaginal Bleeding Unspecified"
+        },
+        {
+            "text": "microscopic hematuria",
+            "CharacterIndices": null,
+            "omittedDetails": "Microscopic Hematuria"
+        },
+        {
+            "text": "procidentia",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Uterovaginal Prolapse"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "pleural effusions",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "pneumonia",
+            "CharacterIndices": null,
+            "omittedDetails": "Pneumonia Unspecified Organism"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "DVT",
+            "CharacterIndices": null,
+            "omittedDetails": "Venous Embolism And Thrombosis"
+        },
+        {
+            "text": "URI",
+            "CharacterIndices": null,
+            "omittedDetails": "Acute Upper Respiratory Infections J00-J06"
+        },
+        {
+            "text": "urine cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Urine Cytology"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "dopplers",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "electrolyte imbalance",
+            "CharacterIndices": [
+                862,
+                883
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hyperglycemia",
+            "CharacterIndices": [
+                843,
+                856
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "vomiting",
+            "CharacterIndices": [
+                1860,
+                1868
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "chills",
+            "CharacterIndices": [
+                1844,
+                1850
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fever",
+            "CharacterIndices": [
+                1837,
+                1842
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                835,
+                841
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": [
+                1852,
+                1858
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Foley catheter",
+            "CharacterIndices": [
+                1226,
+                1240
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "calcium",
+            "CharacterIndices": null,
+            "omittedDetails": "Calcium Supplement"
+        },
+        {
+            "text": "Lipitor",
+            "CharacterIndices": null,
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "Zocor",
+            "CharacterIndices": null,
+            "omittedDetails": "Simvastatin"
+        }
+    ]
+}

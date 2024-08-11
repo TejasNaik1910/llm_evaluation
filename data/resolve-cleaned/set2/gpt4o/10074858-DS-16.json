@@ -1,0 +1,100 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "pleural effusion",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "dehydrated",
+            "CharacterIndices": null,
+            "omittedDetails": "Dehydration"
+        },
+        {
+            "text": "partial esophagectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Partial Esophagectomy"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Clostridium difficile infection",
+            "CharacterIndices": [
+                1939,
+                1970
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": [
+                2102,
+                2112
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "cavity",
+            "CharacterIndices": [
+                1423,
+                1429
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": [
+                242,
+                251
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "90",
+            "CharacterIndices": [
+                3119,
+                3121
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        }
+    ]
+}

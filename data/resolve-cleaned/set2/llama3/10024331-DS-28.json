@@ -1,0 +1,329 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolved",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "BRBPR",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "anginal",
+            "CharacterIndices": null,
+            "omittedDetails": "Angina Pectoris"
+        },
+        {
+            "text": "DM",
+            "CharacterIndices": null,
+            "omittedDetails": "Diabetes Mellitus"
+        },
+        {
+            "text": "anginal",
+            "CharacterIndices": null,
+            "omittedDetails": "Pain Unspecified"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "hepatitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Inflammatory Liver Disease Unspecified"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "obese",
+            "CharacterIndices": null,
+            "omittedDetails": "Obesity Unspecified"
+        },
+        {
+            "text": "tremor",
+            "CharacterIndices": null,
+            "omittedDetails": "Tremor Unspecified"
+        },
+        {
+            "text": "echo",
+            "CharacterIndices": null,
+            "omittedDetails": "Echocardiography"
+        },
+        {
+            "text": "ERCP",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Retrograde Cholangiopancreatography"
+        },
+        {
+            "text": "Sigmoidoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Sigmoidoscopy"
+        },
+        {
+            "text": "angiography",
+            "CharacterIndices": null,
+            "omittedDetails": "Angiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Illness",
+            "CharacterIndices": [
+                304,
+                311
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acute blood loss anemia",
+            "CharacterIndices": [
+                1386,
+                1409
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "myocardial infarction",
+            "CharacterIndices": [
+                1311,
+                1332
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acute renal failure",
+            "CharacterIndices": [
+                1412,
+                1431
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Atrial fibrillation",
+            "CharacterIndices": [
+                1364,
+                1383
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "cluster headaches",
+            "CharacterIndices": [
+                216,
+                233
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "thrombosis",
+            "CharacterIndices": [
+                982,
+                992
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CKD",
+            "CharacterIndices": [
+                245,
+                248
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lipitor",
+            "CharacterIndices": null,
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "8",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "one",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Furosemide",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Selegiline HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Selegiline Hydrochloride"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Colchicine",
+            "CharacterIndices": null,
+            "omittedDetails": "Colchicine"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "valsartan",
+            "CharacterIndices": null,
+            "omittedDetails": "Valsartan"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "glipizide",
+            "CharacterIndices": null,
+            "omittedDetails": "Glipizide"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Cyclobenzaprine",
+            "CharacterIndices": null,
+            "omittedDetails": "Cyclobenzaprine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Oxycodone-Acetaminophen",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone Acetaminophen"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Isosorbide Mononitrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Isosorbide Mononitrate"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Coumadin",
+            "CharacterIndices": null,
+            "omittedDetails": "Warfarin Potassium"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "dilaudid",
+            "CharacterIndices": null,
+            "omittedDetails": "Dilaudid"
+        },
+        {
+            "text": "Lupron Depot",
+            "CharacterIndices": null,
+            "omittedDetails": "Leuprolide Regimen"
+        },
+        {
+            "text": "Sodium Chloride",
+            "CharacterIndices": null,
+            "omittedDetails": "Sodium Chloride"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Allopurinol",
+            "CharacterIndices": null,
+            "omittedDetails": "Allopurinol"
+        }
+    ]
+}

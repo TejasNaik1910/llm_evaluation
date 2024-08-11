@@ -1,0 +1,289 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "chronic alcoholism",
+            "CharacterIndices": null,
+            "omittedDetails": "Alcohol Dependence"
+        },
+        {
+            "text": "HTN",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypertensive Diseases I10-I16"
+        },
+        {
+            "text": "cervical stenosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Stricture And Stenosis Of Cervix Uteri"
+        },
+        {
+            "text": "pleural thickening",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Plaque"
+        },
+        {
+            "text": "plagued",
+            "CharacterIndices": null,
+            "omittedDetails": "Plague"
+        },
+        {
+            "text": "edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Edema"
+        },
+        {
+            "text": "night sweats",
+            "CharacterIndices": null,
+            "omittedDetails": "Night Sweat"
+        },
+        {
+            "text": "weight loss",
+            "CharacterIndices": null,
+            "omittedDetails": "Weight Loss"
+        },
+        {
+            "text": "depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Depression"
+        },
+        {
+            "text": "numbness",
+            "CharacterIndices": null,
+            "omittedDetails": "Numbness"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "GERD",
+            "CharacterIndices": null,
+            "omittedDetails": "Gastro-Esophageal Reflux Disease"
+        },
+        {
+            "text": "insomnia",
+            "CharacterIndices": null,
+            "omittedDetails": "Insomnia"
+        },
+        {
+            "text": "allergy",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "wheezing",
+            "CharacterIndices": null,
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "COPD",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Chronic Obstructive Pulmonary Disease"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "Elevated blood pressure",
+            "CharacterIndices": null,
+            "omittedDetails": "Elevated Blood-Pressure Reading Without Diagnosis Of Hypertension"
+        },
+        {
+            "text": "CT chest",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Chest"
+        },
+        {
+            "text": "MRI",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CT Angiography"
+        },
+        {
+            "text": "abdominal/pelvic CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "brain edema",
+            "CharacterIndices": [
+                595,
+                606
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "lung metastases",
+            "CharacterIndices": [
+                365,
+                380
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "lung metastases",
+            "CharacterIndices": [
+                365,
+                380
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "in remission",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        },
+        {
+            "text": "in remission",
+            "CharacterIndices": null,
+            "omittedDetails": "Remission"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "110",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "90",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "650",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Spiriva",
+            "CharacterIndices": null,
+            "omittedDetails": "Tiotropium Bromide Monohydrate"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ambien",
+            "CharacterIndices": null,
+            "omittedDetails": "Zolpidem Tartrate"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Oxycodone-Acetaminophen",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone Acetaminophen"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Calcium",
+            "CharacterIndices": null,
+            "omittedDetails": "Calcium Supplement"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Morphine Sulfate",
+            "CharacterIndices": [
+                959,
+                975
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

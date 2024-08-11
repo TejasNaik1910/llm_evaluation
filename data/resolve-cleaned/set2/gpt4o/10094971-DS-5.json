@@ -1,0 +1,312 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "tolerated well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "disease progression",
+            "CharacterIndices": [
+                3514,
+                3533
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "metastatic renal cell carcinoma",
+            "CharacterIndices": [
+                466,
+                497
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "chronic obstructive pulmonary disease (COPD)",
+            "CharacterIndices": [
+                569,
+                613
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "infection",
+            "CharacterIndices": [
+                1310,
+                1319
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "murmur",
+            "CharacterIndices": [
+                2347,
+                2353
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acute encephalopathy",
+            "CharacterIndices": [
+                4448,
+                4468
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "atrial flutter",
+            "CharacterIndices": [
+                4584,
+                4598
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Pressure Ulcers",
+            "CharacterIndices": [
+                3655,
+                3670
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                2683,
+                2689
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "pleural effusions",
+            "CharacterIndices": [
+                2910,
+                2927
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "anasarca",
+            "CharacterIndices": null,
+            "omittedDetails": "Generalized Edema"
+        },
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "spine disease",
+            "CharacterIndices": null,
+            "omittedDetails": "Spondylopathy Unspecified"
+        },
+        {
+            "text": "Depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Depression"
+        },
+        {
+            "text": "Alcoholism",
+            "CharacterIndices": null,
+            "omittedDetails": "Alcohol Dependence"
+        },
+        {
+            "text": "fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "GERD",
+            "CharacterIndices": null,
+            "omittedDetails": "Gastro-Esophageal Reflux Disease"
+        },
+        {
+            "text": "Head CT",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Head"
+        },
+        {
+            "text": "MRI Brain",
+            "CharacterIndices": null,
+            "omittedDetails": "Brain MRI"
+        },
+        {
+            "text": "Ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Ultrasound"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Morphine Sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Morphine Sulfate"
+        },
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "spiriva",
+            "CharacterIndices": null,
+            "omittedDetails": "Tiotropium Bromide Monohydrate"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "zoloft",
+            "CharacterIndices": null,
+            "omittedDetails": "Sertraline Hydrochloride"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Fluticasone Propionate",
+            "CharacterIndices": null,
+            "omittedDetails": "Fluticasone Propionate"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "vanco",
+            "CharacterIndices": null,
+            "omittedDetails": "Vancomycin"
+        },
+        {
+            "text": "Metoprolol Tartrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Tartrate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Furosemide",
+            "CharacterIndices": null,
+            "omittedDetails": "Furosemide"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Atenolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Atenolol"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Docusate Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "MS contin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ms Contin"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Docusate",
+            "CharacterIndices": [
+                4197,
+                4205
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "polyethylene glycol",
+            "CharacterIndices": [
+                4323,
+                4342
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "calcium carbonate",
+            "CharacterIndices": [
+                4146,
+                4163
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "sodium chloride nasal",
+            "CharacterIndices": [
+                4214,
+                4235
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "potassium chloride",
+            "CharacterIndices": [
+                4091,
+                4109
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "blood transfusions",
+            "CharacterIndices": [
+                3789,
+                3807
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

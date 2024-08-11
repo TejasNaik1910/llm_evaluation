@@ -1,0 +1,279 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "Malignant Lung Neoplasm"
+        },
+        {
+            "text": "CTA",
+            "CharacterIndices": null,
+            "omittedDetails": "CTa"
+        },
+        {
+            "text": "Crohn flare",
+            "CharacterIndices": null,
+            "omittedDetails": "Crohn's Disease Flare"
+        },
+        {
+            "text": "volume depletion",
+            "CharacterIndices": null,
+            "omittedDetails": "Volume Depletion"
+        },
+        {
+            "text": "thrush",
+            "CharacterIndices": null,
+            "omittedDetails": "Candidiasis"
+        },
+        {
+            "text": "salmonella",
+            "CharacterIndices": null,
+            "omittedDetails": "Typhoid Fever Unspecified"
+        },
+        {
+            "text": "shigella",
+            "CharacterIndices": null,
+            "omittedDetails": "Shigellosis"
+        },
+        {
+            "text": "giardia",
+            "CharacterIndices": null,
+            "omittedDetails": "Giardiasis Lambliasis"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "amputation",
+            "CharacterIndices": null,
+            "omittedDetails": "Amputation"
+        },
+        {
+            "text": "CT ABD & PELVIS",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen And Pelvis"
+        },
+        {
+            "text": "CT abd",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "panic attacks",
+            "CharacterIndices": [
+                1360,
+                1373
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "malnutrition",
+            "CharacterIndices": [
+                2662,
+                2674
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "acidosis",
+            "CharacterIndices": [
+                3046,
+                3054
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hyponatremia",
+            "CharacterIndices": [
+                3059,
+                3071
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "12",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "glargine",
+            "CharacterIndices": null,
+            "omittedDetails": "Insulin Glargine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "heparin",
+            "CharacterIndices": null,
+            "omittedDetails": "Heparin"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Normal Saline",
+            "CharacterIndices": null,
+            "omittedDetails": "Normal Saline"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sulfate",
+            "CharacterIndices": null,
+            "omittedDetails": "Sulfate Ion"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "anti-TNF",
+            "CharacterIndices": null,
+            "omittedDetails": "Anti-Tumor Necrosis Factor Therapy"
+        },
+        {
+            "text": "ranitidine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ranitidine Hydrochloride"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "intravenous fluids",
+            "CharacterIndices": [
+                829,
+                847
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Ranitidine",
+            "CharacterIndices": [
+                3414,
+                3424
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Zofran",
+            "CharacterIndices": [
+                3229,
+                3235
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Levsin",
+            "CharacterIndices": [
+                3285,
+                3291
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Creon",
+            "CharacterIndices": [
+                3278,
+                3283
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

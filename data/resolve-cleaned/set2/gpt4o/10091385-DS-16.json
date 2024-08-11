@@ -1,0 +1,50 @@
+{
+    "Specific to General Followup": [],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "DiphenhydrAMINE",
+            "CharacterIndices": null,
+            "omittedDetails": "Diphenhydramine"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Oxycodone",
+            "CharacterIndices": [
+                3021,
+                3030
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "5",
+            "CharacterIndices": [
+                2997,
+                2998
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "abdominal ultrasound",
+            "CharacterIndices": [
+                982,
+                1002
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

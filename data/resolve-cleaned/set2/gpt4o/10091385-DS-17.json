@@ -1,0 +1,151 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "unchanged",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "mass",
+            "CharacterIndices": [
+                510,
+                514
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "carcinoma",
+            "CharacterIndices": [
+                729,
+                738
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "tachycardia",
+            "CharacterIndices": [
+                1399,
+                1410
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Infectious Disease",
+            "CharacterIndices": [
+                2389,
+                2407
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "liver enzymes",
+            "CharacterIndices": [
+                1618,
+                1631
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hematocrit",
+            "CharacterIndices": [
+                1596,
+                1606
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "inflammatory cells",
+            "CharacterIndices": null,
+            "omittedDetails": "Inflammatory Disorders"
+        },
+        {
+            "text": "dry cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Dry Cough"
+        },
+        {
+            "text": "WORM",
+            "CharacterIndices": null,
+            "omittedDetails": "Helminthiases B65-B83"
+        },
+        {
+            "text": "thrombus",
+            "CharacterIndices": null,
+            "omittedDetails": "Thrombosis"
+        },
+        {
+            "text": "rash",
+            "CharacterIndices": null,
+            "omittedDetails": "Rash And Other Nonspecific Skin Eruption"
+        },
+        {
+            "text": "pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "ciprofloxacin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Benadryl",
+            "CharacterIndices": null,
+            "omittedDetails": "Diphenhydramine Hydrochloride"
+        },
+        {
+            "text": "sennosides",
+            "CharacterIndices": null,
+            "omittedDetails": "Sennosides"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Senna",
+            "CharacterIndices": [
+                2951,
+                2956
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": [
+                2957,
+                2960
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

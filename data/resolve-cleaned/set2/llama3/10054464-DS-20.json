@@ -1,0 +1,250 @@
+{
+    "Incorrect Followup": [
+        {
+            "text": "progressed",
+            "CharacterIndices": [
+                273,
+                283
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Sex:   M",
+            "CharacterIndices": null,
+            "omittedDetails": "Male"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "constipation",
+            "CharacterIndices": null,
+            "omittedDetails": "Constipation"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "night sweats",
+            "CharacterIndices": null,
+            "omittedDetails": "Night Sweat"
+        },
+        {
+            "text": "weight loss",
+            "CharacterIndices": null,
+            "omittedDetails": "Weight Loss"
+        },
+        {
+            "text": "anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "decreased breath sounds",
+            "CharacterIndices": null,
+            "omittedDetails": "Decreased Breath Sounds"
+        },
+        {
+            "text": "Depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Depression"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "fever",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "loss of consciousness",
+            "CharacterIndices": null,
+            "omittedDetails": "Loss Of Consciousness"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        },
+        {
+            "text": "Pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "myocardial infarction",
+            "CharacterIndices": [
+                1704,
+                1725
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.00",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "15",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "carboplatin/taxotere",
+            "CharacterIndices": null,
+            "omittedDetails": "Carboplatin Docetaxel"
+        },
+        {
+            "text": "Prochlorperazine Maleate",
+            "CharacterIndices": null,
+            "omittedDetails": "Prochlorperazine Maleate"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Acetaminophen",
+            "CharacterIndices": null,
+            "omittedDetails": "Acetaminophen"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ranitidine HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ranitidine Hydrochloride"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "oxygen",
+            "CharacterIndices": null,
+            "omittedDetails": "Supplemental Oxygen"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "prochlorperazine",
+            "CharacterIndices": [
+                596,
+                612
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "lorazepam",
+            "CharacterIndices": [
+                614,
+                623
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "megestrol",
+            "CharacterIndices": [
+                789,
+                798
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "ranitidine",
+            "CharacterIndices": [
+                625,
+                635
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "fentanyl",
+            "CharacterIndices": [
+                641,
+                649
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "Incorrect Followup": [
+        {
+            "text": "Stable",
+            "CharacterIndices": [
+                1118,
+                1124
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "palpitations",
+            "CharacterIndices": null,
+            "omittedDetails": "Palpitations"
+        },
+        {
+            "text": "hematemesis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematemesis"
+        },
+        {
+            "text": "hemoptysis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemoptysis"
+        },
+        {
+            "text": "hematuria",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematuria"
+        },
+        {
+            "text": "diarrhea",
+            "CharacterIndices": null,
+            "omittedDetails": "Diarrhea"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "rashes",
+            "CharacterIndices": null,
+            "omittedDetails": "Rash And Other Nonspecific Skin Eruption"
+        },
+        {
+            "text": "melena",
+            "CharacterIndices": null,
+            "omittedDetails": "Melena"
+        },
+        {
+            "text": "TTP",
+            "CharacterIndices": null,
+            "omittedDetails": "Immune Thrombocytopenic Purpura"
+        },
+        {
+            "text": "urinary tract infection",
+            "CharacterIndices": null,
+            "omittedDetails": "UTI - Urinary Tract Infection"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Dyslipidemia",
+            "CharacterIndices": [
+                975,
+                987
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "tenderness",
+            "CharacterIndices": [
+                1171,
+                1181
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Malignant Ascites",
+            "CharacterIndices": [
+                2181,
+                2198
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Pyuria",
+            "CharacterIndices": [
+                2019,
+                2025
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Leukocytosis",
+            "CharacterIndices": [
+                2030,
+                2042
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "abdominal distension",
+            "CharacterIndices": [
+                2293,
+                2313
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acute Kidney Injury",
+            "CharacterIndices": [
+                1904,
+                1923
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "30",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "8.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "17",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "One",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "oxycontin",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycontin"
+        },
+        {
+            "text": "lisinopril",
+            "CharacterIndices": null,
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "Neulasta",
+            "CharacterIndices": null,
+            "omittedDetails": "Pegfilgrastim Regimen"
+        },
+        {
+            "text": "Miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        },
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        }
+    ]
+}

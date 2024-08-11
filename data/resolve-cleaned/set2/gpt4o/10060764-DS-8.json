@@ -1,0 +1,189 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Atrial fibrillation",
+            "CharacterIndices": [
+                1119,
+                1138
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "confused",
+            "CharacterIndices": [
+                3609,
+                3617
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": [
+                240,
+                249
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Percutaneous Transhepatic Biliary Drainage",
+            "CharacterIndices": [
+                439,
+                481
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Transesophageal echo",
+            "CharacterIndices": [
+                485,
+                505
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": [
+                2270,
+                2273
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Ascites"
+        },
+        {
+            "text": "mitral regurgitation",
+            "CharacterIndices": null,
+            "omittedDetails": "Mitral Valve Regurgitation"
+        },
+        {
+            "text": "tricuspid regurgitation",
+            "CharacterIndices": null,
+            "omittedDetails": "Tricuspid Valve Insufficiency"
+        },
+        {
+            "text": "pulmonary artery hypertension",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Hypertension Unspecified"
+        },
+        {
+            "text": "hematochezia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "pleural effusions",
+            "CharacterIndices": null,
+            "omittedDetails": "Pleural Effusion"
+        },
+        {
+            "text": "colonic diverticula",
+            "CharacterIndices": null,
+            "omittedDetails": "Diverticular Disease Of Large Intestine Without Perforation Or Abscess"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "path",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology Procedure"
+        },
+        {
+            "text": "Liver biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy Of Liver"
+        },
+        {
+            "text": "needle biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Needle Biopsy"
+        },
+        {
+            "text": "CT ABD",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "Surveillance",
+            "CharacterIndices": null,
+            "omittedDetails": "Surveillance"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "palliative",
+            "CharacterIndices": null,
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Aricept",
+            "CharacterIndices": null,
+            "omittedDetails": "Donepezil Hydrochloride"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "unasyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "Ursodiol",
+            "CharacterIndices": null,
+            "omittedDetails": "Ursodiol"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "vancomycin",
+            "CharacterIndices": [
+                860,
+                870
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Simethicone",
+            "CharacterIndices": [
+                3408,
+                3419
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "80",
+            "CharacterIndices": [
+                3420,
+                3422
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

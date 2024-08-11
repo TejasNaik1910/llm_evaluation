@@ -1,0 +1,213 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "progression",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Progression"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "perihepatic ascites",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Ascites"
+        },
+        {
+            "text": "Leukocytosis",
+            "CharacterIndices": null,
+            "omittedDetails": "Elevated White Blood Cell Count"
+        },
+        {
+            "text": "tachycardia",
+            "CharacterIndices": null,
+            "omittedDetails": "Tachycardia Unspecified"
+        },
+        {
+            "text": "infection",
+            "CharacterIndices": null,
+            "omittedDetails": "Infection"
+        },
+        {
+            "text": "Malnutrition",
+            "CharacterIndices": null,
+            "omittedDetails": "Malnutrition E40-E46"
+        },
+        {
+            "text": "Anemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Anemia"
+        },
+        {
+            "text": "cholangiogram",
+            "CharacterIndices": null,
+            "omittedDetails": "Cholangiography"
+        },
+        {
+            "text": "Transabdominal ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Transabdominal Ultrasound"
+        },
+        {
+            "text": "Renal us",
+            "CharacterIndices": null,
+            "omittedDetails": "Renal Ultrasound"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Mitral valve prolapse",
+            "CharacterIndices": [
+                857,
+                878
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "echogenic kidneys",
+            "CharacterIndices": [
+                1572,
+                1589
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "abdominal distension",
+            "CharacterIndices": [
+                1329,
+                1349
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "liver enzymes",
+            "CharacterIndices": [
+                1478,
+                1491
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "unasyn",
+            "CharacterIndices": null,
+            "omittedDetails": "Ampicillin Sodium Sulbactam Sodium"
+        },
+        {
+            "text": "Cyanocobalamin",
+            "CharacterIndices": null,
+            "omittedDetails": "Cyanocobalamin"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Ondansetron",
+            "CharacterIndices": null,
+            "omittedDetails": "Ondansetron"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "bisacodyl",
+            "CharacterIndices": null,
+            "omittedDetails": "Bisacodyl"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "FoLIC Acid",
+            "CharacterIndices": null,
+            "omittedDetails": "Folic Acid Derivative"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "IV fluids",
+            "CharacterIndices": null,
+            "omittedDetails": "IV Fluid"
+        },
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        },
+        {
+            "text": "ciprofloxacin",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "4",
+            "CharacterIndices": [
+                2526,
+                2527
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "CharacterIndices": [
+                2378,
+                2397
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "17",
+            "CharacterIndices": [
+                2398,
+                2400
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

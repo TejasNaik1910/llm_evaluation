@@ -1,0 +1,277 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "stage III",
+            "CharacterIndices": null,
+            "omittedDetails": "Stage III"
+        },
+        {
+            "text": "mitral regurgitation",
+            "CharacterIndices": null,
+            "omittedDetails": "Mitral Valve Regurgitation"
+        },
+        {
+            "text": "thrombus",
+            "CharacterIndices": null,
+            "omittedDetails": "Thrombosis"
+        },
+        {
+            "text": "systolic dysfunction",
+            "CharacterIndices": null,
+            "omittedDetails": "Systolic Heart Failure"
+        },
+        {
+            "text": "salmonella",
+            "CharacterIndices": null,
+            "omittedDetails": "Typhoid Fever Unspecified"
+        },
+        {
+            "text": "splenic abscess",
+            "CharacterIndices": null,
+            "omittedDetails": "Abscess Of Spleen"
+        },
+        {
+            "text": "Atrial Fibrillation",
+            "CharacterIndices": null,
+            "omittedDetails": "Unspecified Atrial Fibrillation"
+        },
+        {
+            "text": "stent placement",
+            "CharacterIndices": null,
+            "omittedDetails": "Stent Placement"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        },
+        {
+            "text": "screening",
+            "CharacterIndices": null,
+            "omittedDetails": "Disease Screening"
+        },
+        {
+            "text": "Doppler",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "fluid retention",
+            "CharacterIndices": [
+                3170,
+                3185
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "CKD stage III",
+            "CharacterIndices": [
+                1940,
+                1953
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Heart Failure with Preserved Ejection Fraction",
+            "CharacterIndices": [
+                2374,
+                2420
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "morbid obesity",
+            "CharacterIndices": [
+                1976,
+                1990
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hepatitis B",
+            "CharacterIndices": [
+                1892,
+                1903
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "bronchitis",
+            "CharacterIndices": [
+                2040,
+                2050
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "asthma",
+            "CharacterIndices": [
+                1997,
+                2003
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "shock",
+            "CharacterIndices": [
+                1912,
+                1917
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Transesophageal Echocardiogram",
+            "CharacterIndices": [
+                411,
+                441
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "145",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "800",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "60",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Rosuvastatin Calcium",
+            "CharacterIndices": null,
+            "omittedDetails": "Rosuvastatin Calcium"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Metoprolol Succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Triamcinolone Acetonide",
+            "CharacterIndices": null,
+            "omittedDetails": "Triamcinolone Acetonide"
+        },
+        {
+            "text": "0.02",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Enoxaparin Sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Losartan Potassium",
+            "CharacterIndices": null,
+            "omittedDetails": "Losartan Potassium"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Biaxin",
+            "CharacterIndices": null,
+            "omittedDetails": "Clarithromycin"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Piperacillin-Tazobactam",
+            "CharacterIndices": [
+                1776,
+                1799
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Normal Saline",
+            "CharacterIndices": [
+                1834,
+                1847
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Vancomycin",
+            "CharacterIndices": [
+                1805,
+                1815
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "diuretics",
+            "CharacterIndices": [
+                2457,
+                2466
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "losartan",
+            "CharacterIndices": [
+                2873,
+                2881
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

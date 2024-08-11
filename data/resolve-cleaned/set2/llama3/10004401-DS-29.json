@@ -1,0 +1,203 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "MRSA",
+            "CharacterIndices": null,
+            "omittedDetails": "Methicillin Resistant Staphylococcus Aureus Infection As The Cause Of Diseases Classified Elsewhere"
+        },
+        {
+            "text": "murmur",
+            "CharacterIndices": null,
+            "omittedDetails": "Cardiac Murmur Unspecified"
+        },
+        {
+            "text": "fractures",
+            "CharacterIndices": null,
+            "omittedDetails": "Fracture"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "difficulty breathing",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "wheezes",
+            "CharacterIndices": null,
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "colostomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colo-colostomy"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "TTE",
+            "CharacterIndices": null,
+            "omittedDetails": "Transthoracic Echocardiography"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "3.125",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "300",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lidocaine patch",
+            "CharacterIndices": null,
+            "omittedDetails": "Lidocaine Patch"
+        },
+        {
+            "text": "700",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Levofloxacin",
+            "CharacterIndices": null,
+            "omittedDetails": "Levofloxacin"
+        },
+        {
+            "text": "750",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Cefepime",
+            "CharacterIndices": null,
+            "omittedDetails": "Cefepime"
+        },
+        {
+            "text": "iron supplementation",
+            "CharacterIndices": null,
+            "omittedDetails": "Iron Therapy"
+        },
+        {
+            "text": "Gentamicin",
+            "CharacterIndices": null,
+            "omittedDetails": "Gentamicin"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lisinopril",
+            "CharacterIndices": null,
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "miconazole nitrate",
+            "CharacterIndices": null,
+            "omittedDetails": "Miconazole Nitrate"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "trazodone",
+            "CharacterIndices": null,
+            "omittedDetails": "Trazodone"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "docusate",
+            "CharacterIndices": [
+                1200,
+                1208
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "dyspnea",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "wheezing",
+            "CharacterIndices": null,
+            "omittedDetails": "Wheezes"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "chronic diastolic CHF",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Diastolic Congestive Heart Failure"
+        },
+        {
+            "text": "thrombocytopenia",
+            "CharacterIndices": null,
+            "omittedDetails": "Thrombocytopenia Unspecified"
+        },
+        {
+            "text": "fluoroscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Fluoroscopy"
+        },
+        {
+            "text": "Tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "Vasectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Unilateral Vasectomy Or Ligature Of Vas Deferens"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Obstructive sleep apnea",
+            "CharacterIndices": [
+                1732,
+                1755
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                3027,
+                3033
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "paresthesias",
+            "CharacterIndices": [
+                1478,
+                1490
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "rash",
+            "CharacterIndices": [
+                1495,
+                1499
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "uvulopalatopharyngoplasty",
+            "CharacterIndices": [
+                1774,
+                1799
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Stable",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "Tolerated well",
+            "CharacterIndices": null,
+            "omittedDetails": "Well Tolerated"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "5",
+            "CharacterIndices": [
+                975,
+                976
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "intrathecal methotrexate",
+            "CharacterIndices": [
+                719,
+                743
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "prochlorperazine",
+            "CharacterIndices": [
+                3794,
+                3810
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Erythromycin Base",
+            "CharacterIndices": [
+                255,
+                272
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "ondansetron",
+            "CharacterIndices": [
+                3859,
+                3870
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "lorazepam",
+            "CharacterIndices": [
+                3848,
+                3857
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Carboplatin",
+            "CharacterIndices": [
+                3343,
+                3354
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "albuterol",
+            "CharacterIndices": [
+                3666,
+                3675
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "120",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "4",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "480",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "amlodipine",
+            "CharacterIndices": null,
+            "omittedDetails": "Amlodipine"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lisinopril",
+            "CharacterIndices": null,
+            "omittedDetails": "Lisinopril"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "metoprolol",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol"
+        },
+        {
+            "text": "NITROGLYCERIN",
+            "CharacterIndices": null,
+            "omittedDetails": "Nitroglycerin"
+        },
+        {
+            "text": "0.3",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "SALMETEROL",
+            "CharacterIndices": null,
+            "omittedDetails": "Salmeterol"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "methotrexate",
+            "CharacterIndices": null,
+            "omittedDetails": "Methotrexate Regimen"
+        }
+    ]
+}

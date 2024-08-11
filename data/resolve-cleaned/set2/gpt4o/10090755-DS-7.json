@@ -1,0 +1,126 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "atelectasis",
+            "CharacterIndices": null,
+            "omittedDetails": "Pulmonary Collapse"
+        },
+        {
+            "text": "shortness of breath",
+            "CharacterIndices": null,
+            "omittedDetails": "Dyspnea"
+        },
+        {
+            "text": "cough",
+            "CharacterIndices": null,
+            "omittedDetails": "Cough"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "lobectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Lobectomy"
+        },
+        {
+            "text": "vascular surgery",
+            "CharacterIndices": null,
+            "omittedDetails": "Blood Vessel Operations"
+        },
+        {
+            "text": "Cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "Doppler ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Doppler Ultrasound"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "lymphadenopathy",
+            "CharacterIndices": [
+                1390,
+                1405
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Decreased breath sounds",
+            "CharacterIndices": [
+                1892,
+                1915
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "thrombus",
+            "CharacterIndices": [
+                3185,
+                3193
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "thoracoscopy",
+            "CharacterIndices": [
+                3512,
+                3524
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "325",
+            "CharacterIndices": [
+                3707,
+                3710
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Polyethylene Glycol",
+            "CharacterIndices": [
+                3931,
+                3950
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "17",
+            "CharacterIndices": [
+                3951,
+                3953
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "polyethylene glycol 3350",
+            "CharacterIndices": null,
+            "omittedDetails": "Polyethylene Glycol 3350"
+        },
+        {
+            "text": "Miralax",
+            "CharacterIndices": null,
+            "omittedDetails": "Miralax"
+        }
+    ]
+}

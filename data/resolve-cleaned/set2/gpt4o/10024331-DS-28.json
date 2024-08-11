@@ -1,0 +1,293 @@
+{
+    "Incorrect Followup": [
+        {
+            "text": "stabilized",
+            "CharacterIndices": [
+                999,
+                1009
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Type 2 diabetes mellitus",
+            "CharacterIndices": [
+                1270,
+                1294
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Chronic kidney disease (CKD)",
+            "CharacterIndices": [
+                1382,
+                1410
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "cluster headaches",
+            "CharacterIndices": [
+                1355,
+                1372
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": [
+                411,
+                418
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Atrial Fibrillation",
+            "CharacterIndices": [
+                3834,
+                3853
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acute Renal Failure",
+            "CharacterIndices": [
+                3882,
+                3901
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Acute Blood Loss Anemia",
+            "CharacterIndices": [
+                3856,
+                3879
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Flexible sigmoidoscopy",
+            "CharacterIndices": [
+                367,
+                389
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "anginal",
+            "CharacterIndices": null,
+            "omittedDetails": "Angina Pectoris"
+        },
+        {
+            "text": "BRBPR",
+            "CharacterIndices": null,
+            "omittedDetails": "Hematochezia"
+        },
+        {
+            "text": "anginal",
+            "CharacterIndices": null,
+            "omittedDetails": "Pain Unspecified"
+        },
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "nausea",
+            "CharacterIndices": null,
+            "omittedDetails": "Nausea"
+        },
+        {
+            "text": "obese",
+            "CharacterIndices": null,
+            "omittedDetails": "Obesity Unspecified"
+        },
+        {
+            "text": "tremor",
+            "CharacterIndices": null,
+            "omittedDetails": "Tremor Unspecified"
+        },
+        {
+            "text": "angiography",
+            "CharacterIndices": null,
+            "omittedDetails": "Angiography"
+        },
+        {
+            "text": "ECHO",
+            "CharacterIndices": null,
+            "omittedDetails": "Echocardiography"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "200",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "75",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "80",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "10",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "metoprolol succinate",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "25",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Lipitor",
+            "CharacterIndices": null,
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "8",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "one",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Selegiline HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Selegiline Hydrochloride"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Oxycodone-Acetaminophen",
+            "CharacterIndices": null,
+            "omittedDetails": "Oxycodone Acetaminophen"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "plasma",
+            "CharacterIndices": null,
+            "omittedDetails": "Plasma Product"
+        },
+        {
+            "text": "Allopurinol",
+            "CharacterIndices": null,
+            "omittedDetails": "Allopurinol"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "nitroglycerin",
+            "CharacterIndices": [
+                978,
+                991
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "docusate sodium",
+            "CharacterIndices": [
+                3471,
+                3486
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "insulin",
+            "CharacterIndices": [
+                3142,
+                3149
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

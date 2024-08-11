@@ -1,0 +1,139 @@
+{
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "invasive ductal carcinoma",
+            "CharacterIndices": null,
+            "omittedDetails": "Invasive Carcinoma Of No Special Type"
+        },
+        {
+            "text": "fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "Hyperkalemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperkalemia"
+        },
+        {
+            "text": "hemolysis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemolysis"
+        },
+        {
+            "text": "cheilitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Cheilitis"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "oophorectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Oophorectomy"
+        },
+        {
+            "text": "PET CT",
+            "CharacterIndices": null,
+            "omittedDetails": "PET/CT"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "biopsy",
+            "CharacterIndices": null,
+            "omittedDetails": "Biopsy"
+        },
+        {
+            "text": "Screening mammogram",
+            "CharacterIndices": null,
+            "omittedDetails": "Screening Mammography"
+        },
+        {
+            "text": "laparoscopic",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "palliative",
+            "CharacterIndices": null,
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Dilaudid",
+            "CharacterIndices": null,
+            "omittedDetails": "Dilaudid"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Xeloda",
+            "CharacterIndices": null,
+            "omittedDetails": "Capecitabine Regimen"
+        },
+        {
+            "text": "Avastin",
+            "CharacterIndices": null,
+            "omittedDetails": "Avastin"
+        },
+        {
+            "text": "Taxol",
+            "CharacterIndices": null,
+            "omittedDetails": "Paclitaxel Regimen"
+        }
+    ],
+    "Incorrect Patient Information": [
+        {
+            "text": "55",
+            "CharacterIndices": [
+                88,
+                90
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Hydrocodone",
+            "CharacterIndices": [
+                1576,
+                1587
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "2",
+            "CharacterIndices": [
+                1588,
+                1589
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "resolution of",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "discomfort",
+            "CharacterIndices": null,
+            "omittedDetails": "Discomfort"
+        },
+        {
+            "text": "confused",
+            "CharacterIndices": null,
+            "omittedDetails": "Disorientation Unspecified"
+        },
+        {
+            "text": "Anxiety",
+            "CharacterIndices": null,
+            "omittedDetails": "Anxiety Disorder Unspecified"
+        },
+        {
+            "text": "Asthma",
+            "CharacterIndices": null,
+            "omittedDetails": "Asthmatic Bronchitis"
+        },
+        {
+            "text": "tender",
+            "CharacterIndices": null,
+            "omittedDetails": "Tenderness"
+        },
+        {
+            "text": "inflammation",
+            "CharacterIndices": null,
+            "omittedDetails": "Inflammatory Disorders"
+        },
+        {
+            "text": "Anxiety/depression",
+            "CharacterIndices": null,
+            "omittedDetails": "Other Mixed Anxiety Disorders"
+        },
+        {
+            "text": "Hyperlipidemia",
+            "CharacterIndices": null,
+            "omittedDetails": "Hyperlipidemia Unspecified"
+        },
+        {
+            "text": "CT scan of the abdomen",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Abdomen"
+        },
+        {
+            "text": "colonoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Colonoscopy"
+        },
+        {
+            "text": "CT of the pelvis with contrast",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Pelvis With Contrast"
+        },
+        {
+            "text": "EKG",
+            "CharacterIndices": null,
+            "omittedDetails": "Electrocardiogram"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "atherosclerotic",
+            "CharacterIndices": [
+                1037,
+                1052
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                1164,
+                1170
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": [
+                240,
+                249
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "400",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "20",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "2",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "flagyl",
+            "CharacterIndices": null,
+            "omittedDetails": "Metronidazole Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "sertraline",
+            "CharacterIndices": null,
+            "omittedDetails": "Sertraline"
+        },
+        {
+            "text": "leucovorin",
+            "CharacterIndices": null,
+            "omittedDetails": "Leucovorin Regimen"
+        },
+        {
+            "text": "potassium chloride",
+            "CharacterIndices": null,
+            "omittedDetails": "Potassium Chloride"
+        },
+        {
+            "text": "Ciprofloxacin HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Ciprofloxacin Hydrochloride"
+        },
+        {
+            "text": "500",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "calcium",
+            "CharacterIndices": null,
+            "omittedDetails": "Calcium Supplement"
+        },
+        {
+            "text": "33",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "Calcium/Magnesium/Zinc",
+            "CharacterIndices": [
+                1547,
+                1569
+            ],
+            "omittedDetails": null
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "Specific to General Followup": [
+        {
+            "text": "not change",
+            "CharacterIndices": null,
+            "omittedDetails": "Stable Response"
+        },
+        {
+            "text": "resolution",
+            "CharacterIndices": null,
+            "omittedDetails": "Complete Response"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "stents",
+            "CharacterIndices": null,
+            "omittedDetails": "Atherosclerosis"
+        },
+        {
+            "text": "pneumonia",
+            "CharacterIndices": null,
+            "omittedDetails": "Pneumonia Unspecified Organism"
+        },
+        {
+            "text": "cluster headaches",
+            "CharacterIndices": null,
+            "omittedDetails": "Chronic Cluster Headache"
+        },
+        {
+            "text": "Migraine",
+            "CharacterIndices": null,
+            "omittedDetails": "Migraine"
+        },
+        {
+            "text": "Illness",
+            "CharacterIndices": null,
+            "omittedDetails": "Illness Unspecified"
+        },
+        {
+            "text": "stents",
+            "CharacterIndices": null,
+            "omittedDetails": "Stent Placement"
+        },
+        {
+            "text": "tonsillectomy",
+            "CharacterIndices": null,
+            "omittedDetails": "Tonsillectomy"
+        },
+        {
+            "text": "total hip arthroplasty",
+            "CharacterIndices": null,
+            "omittedDetails": "Total Hip Arthroplasty"
+        },
+        {
+            "text": "CT PELVIS",
+            "CharacterIndices": null,
+            "omittedDetails": "Computed Tomography Of The Pelvis"
+        },
+        {
+            "text": "ERCP",
+            "CharacterIndices": null,
+            "omittedDetails": "Endoscopic Retrograde Cholangiopancreatography"
+        },
+        {
+            "text": "pathology",
+            "CharacterIndices": null,
+            "omittedDetails": "Pathology"
+        },
+        {
+            "text": "MRi",
+            "CharacterIndices": null,
+            "omittedDetails": "Magnetic Resonance Imaging"
+        },
+        {
+            "text": "sigmoidoscopy",
+            "CharacterIndices": null,
+            "omittedDetails": "Sigmoidoscopy"
+        },
+        {
+            "text": "CXR",
+            "CharacterIndices": null,
+            "omittedDetails": "Chest Radiography"
+        },
+        {
+            "text": "cancer screening",
+            "CharacterIndices": null,
+            "omittedDetails": "Cancer Screening"
+        },
+        {
+            "text": "bone scan",
+            "CharacterIndices": null,
+            "omittedDetails": "Bone Scan"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "atrial fibrillation",
+            "CharacterIndices": [
+                1245,
+                1264
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "50,000",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "750",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1250",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "METOPROLOL SUCCINATE",
+            "CharacterIndices": null,
+            "omittedDetails": "Metoprolol Succinate"
+        },
+        {
+            "text": "50",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Tylenol",
+            "CharacterIndices": null,
+            "omittedDetails": "Tylenol"
+        },
+        {
+            "text": "325",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Pradaxa",
+            "CharacterIndices": null,
+            "omittedDetails": "Dabigatran Etexilate Mesylate"
+        },
+        {
+            "text": "150",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "LIPITOR",
+            "CharacterIndices": null,
+            "omittedDetails": "Lipitor"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "selegiline HCl",
+            "CharacterIndices": null,
+            "omittedDetails": "Selegiline Hydrochloride"
+        },
+        {
+            "text": "5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lidocaine patch",
+            "CharacterIndices": null,
+            "omittedDetails": "Lidocaine Patch"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "CARBIDOPA",
+            "CharacterIndices": null,
+            "omittedDetails": "Carbidopa"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "colchicine",
+            "CharacterIndices": null,
+            "omittedDetails": "Colchicine"
+        },
+        {
+            "text": "0.6",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "levodopa",
+            "CharacterIndices": null,
+            "omittedDetails": "Levodopa"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "lovenox",
+            "CharacterIndices": null,
+            "omittedDetails": "Enoxaparin Sodium"
+        },
+        {
+            "text": "40",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "glipizide",
+            "CharacterIndices": null,
+            "omittedDetails": "Glipizide"
+        },
+        {
+            "text": "2.5",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "docusate sodium",
+            "CharacterIndices": null,
+            "omittedDetails": "Docusate Sodium"
+        },
+        {
+            "text": "100",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "KETOPROFEN",
+            "CharacterIndices": null,
+            "omittedDetails": "Ketoprofen"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "aspirin",
+            "CharacterIndices": null,
+            "omittedDetails": "Aspirin"
+        },
+        {
+            "text": "81",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "morphine",
+            "CharacterIndices": null,
+            "omittedDetails": "Morphine"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "DCIS",
+            "CharacterIndices": [
+                1005,
+                1009
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "hepatosplenomegaly",
+            "CharacterIndices": [
+                1764,
+                1782
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "anemia",
+            "CharacterIndices": [
+                1927,
+                1933
+            ],
+            "omittedDetails": null
+        },
+        {
+            "text": "Laparoscopic bilateral salpingo-oophorectomy",
+            "CharacterIndices": [
+                1200,
+                1244
+            ],
+            "omittedDetails": null
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "2+ edema",
+            "CharacterIndices": null,
+            "omittedDetails": "Moderate Pitting Edema"
+        },
+        {
+            "text": "fevers",
+            "CharacterIndices": null,
+            "omittedDetails": "Fever"
+        },
+        {
+            "text": "distension",
+            "CharacterIndices": null,
+            "omittedDetails": "Distension"
+        },
+        {
+            "text": "hemolysis",
+            "CharacterIndices": null,
+            "omittedDetails": "Hemolysis"
+        },
+        {
+            "text": "cheilitis",
+            "CharacterIndices": null,
+            "omittedDetails": "Cheilitis"
+        },
+        {
+            "text": "Allergies",
+            "CharacterIndices": null,
+            "omittedDetails": "Hypersensitivity"
+        },
+        {
+            "text": "Abdominal Ultrasound",
+            "CharacterIndices": null,
+            "omittedDetails": "Transabdominal Ultrasound"
+        },
+        {
+            "text": "cytology",
+            "CharacterIndices": null,
+            "omittedDetails": "Cytology Procedure"
+        },
+        {
+            "text": "Screening mammogram",
+            "CharacterIndices": null,
+            "omittedDetails": "Screening Mammography"
+        },
+        {
+            "text": "laparoscopic",
+            "CharacterIndices": null,
+            "omittedDetails": "Diagnostic Laparoscopy"
+        }
+    ],
+    "Specific to General Medical Instructions": [
+        {
+            "text": "palliative",
+            "CharacterIndices": null,
+            "omittedDetails": "Palliative"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "1",
+            "CharacterIndices": null,
+            "omittedDetails": "Value"
+        },
+        {
+            "text": "Xeloda",
+            "CharacterIndices": null,
+            "omittedDetails": "Capecitabine Regimen"
+        }
+    ],
+    "Incorrect Medical Instructions": [
+        {
+            "text": "IV fluids",
+            "CharacterIndices": [
+                2946,
+                2955
+            ],
+            "omittedDetails": null
+        }
+    ]
+}
