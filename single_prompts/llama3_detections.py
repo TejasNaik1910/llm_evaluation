@@ -28,7 +28,7 @@ def use_llama3(text):
     ]
     outputs = pipeline(
         messages,
-        max_new_tokens=256,
+        max_new_tokens=2048,
         eos_token_id=terminators,
         do_sample=True,
     )
@@ -93,6 +93,42 @@ for note_id in note_ids:
     with open(summary_file, 'r') as file:
         summary_content = file.read()
 
+    # prompt = f"""
+    # Given below is a TASK OVERVIEW followed by the GUIDELINES, JSON_FORMAT, EHR_NOTE and then finally another piece of text which is called the SUMMARY. You are an annotator, and you have to annotate the EHR_NOTE and SUMMARY based on the GUIDELINES. You will be provided multiple examples of which instances are referred to as hallucinations. The examples will contain the explanation of why a particular instance would be considered hallucinated or not.
+
+    # TASK OVERVIEW
+    # You will be given an EHR note and a piece of text which is supposed to be a summary for the EHR Note. Your task is to check if the summary has any missing or inconsistent information with the EHR note.
+
+    # Instructions:
+
+    # 1. Your task is to provide phrases/words for the below-mentioned kinds of hallucinations. 
+    #     a) Patient Information
+    #     b) Patient History
+    #     c) Symptoms/Diagnosis/Surgical Procedures
+    #     d) Medicine related instructions
+    #     e) Followup
+    # Each of these hallucinations has two sub-categories: SPECIFIC TO GENERAL and INCORRECT. Please map hallucinations with theor respective sub-categories based on their definitions below:
+    # SPECIFIC TO GENERAL - Any detail within the clinical note that goes from specific to a more generalized description or if it is an oversimplification of medical events in the summary. 
+    # INCORRECT - Any detail within the clinical note that is twisted or incorrectly stated in the summary (a discharge instruction stated wrongly). An incorrect condition would also mean that the information was generalized in EHR but was more specific in the summarized content.
+
+
+    # 2. Your task is to provide a phrase and a logical explanation for the below-mentioned hallucination categories: 
+    #     a) Chronological Inconsistency
+    #     b) Incorrect Reasoning
+
+    # 3. Use the GUIDELINES mentioned as follows:
+    # {guidelines_content}
+
+    # 4. Please provide your response in the JSON_FORMAT as mentioned in this file:
+    # {output_format_content}
+
+    # Use this EHR_NOTE:
+    # {ehr_note_content}
+
+    # Use this as the SUMMARY:
+    # {summary_content}
+    # """
+
     prompt = f"""
     Given below is a TASK OVERVIEW followed by the GUIDELINES, JSON_FORMAT, EHR_NOTE and then finally another piece of text which is called the SUMMARY. You are an annotator, and you have to annotate the EHR_NOTE and SUMMARY based on the GUIDELINES. You will be provided multiple examples of which instances are referred to as hallucinations. The examples will contain the explanation of why a particular instance would be considered hallucinated or not.
 
@@ -107,10 +143,9 @@ for note_id in note_ids:
         c) Symptoms/Diagnosis/Surgical Procedures
         d) Medicine related instructions
         e) Followup
-    Each of these hallucinations has two sub-categories: SPECIFIC TO GENERAL and INCORRECT. Please map hallucinations with theor respective sub-categories based on their definitions below:
+    Each of these hallucinations has two sub-categories: SPECIFIC TO GENERAL and INCORRECT. Please map hallucinations with their respective sub-categories based on their definitions below:
     SPECIFIC TO GENERAL - Any detail within the clinical note that goes from specific to a more generalized description or if it is an oversimplification of medical events in the summary. 
     INCORRECT - Any detail within the clinical note that is twisted or incorrectly stated in the summary (a discharge instruction stated wrongly). An incorrect condition would also mean that the information was generalized in EHR but was more specific in the summarized content.
-
 
     2. Your task is to provide a phrase and a logical explanation for the below-mentioned hallucination categories: 
         a) Chronological Inconsistency
@@ -119,7 +154,7 @@ for note_id in note_ids:
     3. Use the GUIDELINES mentioned as follows:
     {guidelines_content}
 
-    4. Please provide your response in the JSON_FORMAT as mentioned in this file:
+    4. Please provide your response in a complete and valid JSON format as mentioned in this file:
     {output_format_content}
 
     Use this EHR_NOTE:
@@ -128,21 +163,41 @@ for note_id in note_ids:
     Use this as the SUMMARY:
     {summary_content}
     """
+
     
     response = use_llama3(prompt) # replace this with use_llama3 method for llama3 detections
+
+    print("Response: ",response)
     
     # Extract JSON from the response
     json_content = extract_json(response)
+    print("JSON CONTENT: ",json_content)
     
-    if json_content:
-        try:
-            response_dict = json.loads(json_content)
-            # Save the response
-            output_file = f'single_prompt/single-prompt-annotations/set2/llama3/{note_id}.json'       
-            with open(output_file, 'w') as file:
-                json.dump(response_dict, file, indent=4)
-            print("Done")
-        except json.JSONDecodeError:
-            print(f"Error decoding JSON for note {note_id}: {json_content}")
-    else:
-        print(f"No JSON found for note {note_id}: {response}")
+    # if json_content:
+    #     try:
+    #         response_dict = json.loads(json_content)
+    #         # Save the response
+    #         output_file = f'single_prompt/single-prompt-annotations/set2/llama3/{note_id}.json'       
+    #         with open(output_file, 'w') as file:
+    #             json.dump(response_dict, file, indent=4)
+    #         print("Done")
+    #     except json.JSONDecodeError:
+    #         print(f"Error decoding JSON for note {note_id}: {json_content}")
+    # else:
+    #     print(f"No JSON found for note {note_id}: {response}")
+
+    # if json_content:
+    #     try:
+    #         response_dict = json.loads(json_content)
+    #         # Save the response
+    #         output_file = f'single_prompt/single-prompt-annotations/set2/llama3/{note_id}.json'       
+    #         with open(output_file, 'w') as file:
+    #             json.dump(response_dict, file, indent=4)
+    #         print("Done")
+    #     except json.JSONDecodeError:
+    #         print(f"Error decoding JSON for note {note_id}: {json_content}")
+    #         # Optionally, save the raw response for debugging
+    #         with open(f'single_prompt/single-prompt-annotations/set2/llama3/{note_id}_raw.txt', 'w') as raw_file:
+    #             raw_file.write(response)
+    # else:
+    #     print(f"No JSON found for note {note_id}: {response}")
