@@ -1,6 +1,8 @@
 import os
 import json
 from openai import AzureOpenAI
+import transformers
+import torch
 
 # Load the content from files
 with open('single_prompts/guidelines.txt', 'r') as file:
@@ -9,22 +11,29 @@ with open('single_prompts/guidelines.txt', 'r') as file:
 with open('single_prompts/output_format.json', 'r') as file:
     output_format_content = file.read()
 
-client = AzureOpenAI(
-    api_key=os.getenv("AZURE_OPENAI_API_KEY"),  
-    api_version="2024-02-01",
-    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
-)
-
-def use_azureai(text):
-    response = client.chat.completions.create(
-        model="gpt4o-deployment", 
-        messages=[{"role": "user", "content": text}]
-    )
-    return response.choices[0].message.content
-
 #update this to use llama3 for the detection task. Once done, update the method name at Line 148.
 def use_llama3(text): 
-    return
+    model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"  # "meta-llama/Meta-Llama-3.1-8B-Instruct"
+
+    pipeline = transformers.pipeline(
+        "text-generation",
+        model=model_id,
+        model_kwargs={"torch_dtype": torch.bfloat16},
+        device_map="auto",
+    )
+    messages=[{"role": "user", "content": text}]
+    terminators = [
+        pipeline.tokenizer.eos_token_id,
+        pipeline.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+    ]
+    outputs = pipeline(
+        messages,
+        max_new_tokens=256,
+        eos_token_id=terminators,
+        do_sample=True,
+    )
+    
+    return outputs[0]["generated_text"][-1]
 
 def extract_json(response):
     stack = []
@@ -43,79 +52,37 @@ def extract_json(response):
     return json_str if json_str else None
 
 # List of note IDs
-# note_ids = [ "10000935-DS-21"]              #for testing code, uncomment below variable for full execution
-
+note_ids = ["10002221-DS-11"]              #for testing code, uncomment below variable for full execution
 # note_ids_set1 = [
-#     "10000935-DS-21",
-#     "10000980-DS-23",
-#     "10001401-DS-20",
-#     "10054464-DS-17",
-#     "10002221-DS-12",
-#     "10003299-DS-10",
-#     "10056223-DS-14",
-#     "10004401-DS-26",
-#     "10056612-DS-8",
-#     "10006029-DS-16",
-#     "10006431-DS-24",
-#     "10006580-DS-21",
-#     "10006820-DS-18",
-#     "10007795-DS-13",
-#     "10008628-DS-3",
-#     "10010440-DS-5",
-#     "10011938-DS-16",
-#     "10012292-DS-9",
-#     "10014354-DS-23",
-#     "10016142-DS-19",
-#     "10017285-DS-3",
-#     "10018052-DS-16",
-#     "10057126-DS-7",
-#     "10020306-DS-9",
-#     "10021312-DS-20",
-#     "10021493-DS-18",
-#     "10022373-DS-5",
-#     "10057731-DS-7",
-#     "10059192-DS-11",
-#     "10024331-DS-30",
-#     "10060733-DS-12",
-#     "10025862-DS-12",
-#     "10027957-DS-18",
-#     "10032176-DS-14",
-#     "10034049-DS-20",
-#     "10035631-DS-12",
-#     "10060764-DS-6",
-#     "10061124-DS-12",
-#     "10041127-DS-16",
-#     "10062597-DS-7",
-#     "10041408-DS-18",
-#     "10062981-DS-5",
-#     "10041836-DS-21",
-#     "10043750-DS-6",
-#     "10067059-DS-15",
-#     "10067195-DS-13",
-#     "10047172-DS-17",
-#     "10052938-DS-2",
-#     "10052992-DS-11",
-#     "10052992-DS-16"
+#     "10000935-DS-21", "10000980-DS-23", "10001401-DS-20", "10054464-DS-17", "10002221-DS-12",
+#     "10003299-DS-10", "10056223-DS-14", "10004401-DS-26", "10056612-DS-8", "10006029-DS-16",
+#     "10006431-DS-24", "10006580-DS-21", "10006820-DS-18", "10007795-DS-13", "10008628-DS-3",
+#     "10010440-DS-5", "10011938-DS-16", "10012292-DS-9", "10014354-DS-23", "10016142-DS-19",
+#     "10017285-DS-3", "10018052-DS-16", "10057126-DS-7", "10020306-DS-9", "10021312-DS-20",
+#     "10021493-DS-18", "10022373-DS-5", "10057731-DS-7", "10059192-DS-11", "10024331-DS-30",
+#     "10060733-DS-12", "10025862-DS-12", "10027957-DS-18", "10032176-DS-14", "10034049-DS-20",
+#     "10035631-DS-12", "10060764-DS-6", "10061124-DS-12", "10041127-DS-16", "10062597-DS-7",
+#     "10041408-DS-18", "10062981-DS-5", "10041836-DS-21", "10043750-DS-6", "10067059-DS-15",
+#     "10067195-DS-13", "10047172-DS-17", "10052938-DS-2", "10052992-DS-11", "10052992-DS-16"
+# ]
+# note_ids_set2 = [
+#     "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
+#     "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
+#     "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
+#     "10047172-DS-15", "10047172-DS-16", "10052992-DS-17", "10054464-DS-19",
+#     "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
+#     "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
+#     "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
+#     "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
+#     "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
+#     "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
+#     "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
+#     "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
+#     "10036086-DS-25", "10098875-DS-12"
 # ]
 
-note_ids_set2 = [
-    "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
-    "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
-    "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
-    "10047172-DS-15", "10047172-DS-16", "10052992-DS-17", "10054464-DS-19",
-    "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
-    "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
-    "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
-    "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
-    "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
-    "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
-    "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
-    "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
-    "10036086-DS-25", "10098875-DS-12"
-]
-
 # Process each note_id in set1/set2
-for note_id in note_ids_set2:
+for note_id in note_ids:
     # Load the EHR note and summary content based on note_id
     ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
     summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
@@ -162,7 +129,7 @@ for note_id in note_ids_set2:
     {summary_content}
     """
     
-    response = use_azureai(prompt) # replace this with use_llama3 method for llama3 detections
+    response = use_llama3(prompt) # replace this with use_llama3 method for llama3 detections
     
     # Extract JSON from the response
     json_content = extract_json(response)
