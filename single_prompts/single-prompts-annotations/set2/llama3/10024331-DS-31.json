@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Name: Not specified, Age: Not specified, Date of Birth: Not specified"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Parkinson's disease"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Pneumonia"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Levofloxacin 750mg tablet once daily for 4 additional days"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Schedule an appointment with primary care physician within a week"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient should take Tylenol by mouth every 6 hours for 1 week, but the EHR specifies that the patient should take acetaminophen 325mg by mouth every 6 hours for 1 week. The summary also states that the patient should take oxycodone tablets every 4 hours as needed for pain, but the EHR specifies that the patient should take oxycodone 5mg tablets every 4 hours as needed for pain. This inconsistency in medication instructions may lead to confusion and potentially harm the patient."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient was admitted for a fracture of their hip, but the EHR specifies that the patient presented with left hip pain after feeling and hearing a crack while walking. The summary also states that the patient underwent hemiarthroplasty without complications, but the EHR specifies that the patient underwent hemiarthroplasty without complications and no signs of bleeding. The summary does not accurately reflect the chronological order of events as documented in the EHR."
+        }
+    ]
+}

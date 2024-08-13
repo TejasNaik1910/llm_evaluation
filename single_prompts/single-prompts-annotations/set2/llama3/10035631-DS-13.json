@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Not provided"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Not provided",
+            "explanation": "The summary does not accurately reflect the patient's medical history and diagnosis."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "Not provided",
+            "explanation": "The summary does not accurately reflect the patient's hospital course, including the timing of the patient's symptoms and diagnosis."
+        }
+    ]
+}

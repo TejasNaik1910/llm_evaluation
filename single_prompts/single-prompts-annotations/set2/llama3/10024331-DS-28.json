@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Male patient, ___ years old"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "History of prostate cancer (T3b N0M0, stage III), CAD, PAF, HTN, DM, Parkinson's disease, cholelithiasis, migraine and cluster headaches, gout, and CKD"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Patient presented with chest pain while recovering from laparoscopic cholecystectomy, ECG showed ST depressions and elevations, and bedside echo showed LVEF of 35-40% with posterior wall hypokinesis and mitral regurgitation"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Take aspirin and Plavix for one year"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Discharge medications included aspirin, Plavix, metoprolol succinate, Atorvastatin, and amiodarone"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow up with cardiologist and surgeon"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

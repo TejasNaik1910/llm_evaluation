@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient was admitted for abdominal pain and distension, but the EHR note specifies that the patient was admitted for worsening ascites and abdominal pain."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient has metastatic breast cancer, but the EHR note specifies that the patient has ER/PR+ breast cancer with liver metastases."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient was discharged with hydromorphone (Dilaudid) 2 mg PO Q3H, but the EHR note specifies that the patient was discharged with hydrocodone (Dilaudid) 2 mg PO Q3H."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient was discharged with vitamin D 800 units PO daily, but the EHR note specifies that the patient was discharged with vitamin D 800 units PO daily and docusate sodium 100 mg PO BID."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The summary states that the patient should follow up with outpatient doctors regarding further treatment for cancer, but the EHR note specifies that the patient should follow up with oncology and palliative care doctors."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary states that the patient may need a long-term catheter placed in the abdomen for repeated drainage of ascites, but the EHR note specifies that the patient may need a long-term catheter placed in the abdomen for repeated drainage of ascites and that the patient should follow up with oncology and palliative care doctors."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient's abdominal pain and distension are related to worsening liver involvement of cancer, but the EHR note specifies that the patient's abdominal pain and distension are related to worsening ascites and abdominal pain.",
+            "explanation": "The summary makes an incorrect assumption about the patient's condition, whereas the EHR note provides a more accurate explanation."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient was admitted for paracentesis due to worsening ascites, but the EHR note specifies that the patient was admitted for paracentesis due to worsening ascites and abdominal pain.",
+            "explanation": "The summary presents a chronological inconsistency by omitting the patient's abdominal pain and distension as the reason for admission."
+        }
+    ]
+}

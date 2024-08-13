@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import transformers
 import torch
 
@@ -58,7 +59,7 @@ def fill_template_with_extracted_data(template, extracted_data):
         return template
 
 # List of note IDs
-note_ids = ["10004401-DS-22"]              #for testing code, uncomment below variable for full execution
+# note_ids = ["10004401-DS-22"]              #for testing code, uncomment below variable for full execution
 # note_ids_set1 = [
 #     "10000935-DS-21", "10000980-DS-23", "10001401-DS-20", "10054464-DS-17", "10002221-DS-12",
 #     "10003299-DS-10", "10056223-DS-14", "10004401-DS-26", "10056612-DS-8", "10006029-DS-16",
@@ -71,7 +72,7 @@ note_ids = ["10004401-DS-22"]              #for testing code, uncomment below va
 #     "10041408-DS-18", "10062981-DS-5", "10041836-DS-21", "10043750-DS-6", "10067059-DS-15",
 #     "10067195-DS-13", "10047172-DS-17", "10052938-DS-2", "10052992-DS-11", "10052992-DS-16"
 # ]
-# note_ids_set2 = [
+# note_ids_set2_og = [
 #     "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
 #     "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
 #     "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
@@ -87,8 +88,21 @@ note_ids = ["10004401-DS-22"]              #for testing code, uncomment below va
 #     "10036086-DS-25", "10098875-DS-12"
 # ]
 
+note_ids_set2 = [
+    "10052992-DS-17", "10054464-DS-19",
+    "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
+    "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
+    "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
+    "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
+    "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
+    "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
+    "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
+    "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
+    "10036086-DS-25", "10098875-DS-12"
+]
+
 # Process each note_id in set1/set2
-for note_id in note_ids:
+for note_id in note_ids_set2:
     # Load the EHR note and summary content based on note_id
     ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
     summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
@@ -136,6 +150,7 @@ for note_id in note_ids:
     """
 
     response = use_llama3(prompt) # replace this with use_llama3 method for llama3 detections
+    print("RAW RESPONSE:", response)
 
     # Load the template from a file
     template_file_path = 'single_prompts/output_format.json'

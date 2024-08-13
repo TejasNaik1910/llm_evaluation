@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The patient has a history of breast cancer with BRCA1 gene mutation, specifically infiltrating ductal carcinoma of the left breast."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The patient was prescribed various medications, including Gabapentin 600mg TID for right anterior leg pain, Tramadol 50mg Q6H PRN for pain, Lidocaine 5% patch for right hip pain, Warfarin 7.5mg daily for anticoagulation, Atorvastatin 40mg QPM for hyperlipidemia, and Omeprazole 20mg BID for GERD."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The patient was advised to make an appointment with her primary care doctor to discuss the lower leg pain and to consider an MRI of the spine."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient has a history of breast cancer with BRCA1 gene mutation, but it does not mention the cancer stage or progression.",
+            "explanation": "The summary fails to provide information about the cancer stage or progression, which is an important aspect of the patient's medical history. This lack of information may lead to incorrect assumptions or decisions about the patient's treatment."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary does not mention the patient's recent lumpectomy and sentinel lymph node biopsy, which is an important aspect of her medical history.",
+            "explanation": "The summary only mentions the patient's history of breast cancer with BRCA1 gene mutation, but it does not mention the recent surgical procedures. This omission may lead to a lack of understanding of the patient's current medical situation."
+        }
+    ]
+}
