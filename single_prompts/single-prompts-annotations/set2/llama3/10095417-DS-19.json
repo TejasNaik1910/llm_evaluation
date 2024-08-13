@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The patient is a male with a history of pancreatic cancer, pulmonary embolus, and recent admission for sepsis and Gram-negative bacteremia from cholangitis and micro-hepatic abscesses."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The patient has metastatic pancreatic cancer, stage IV, and has undergone five cycles of gemcitabine and nab-paclitaxel. He also has a history of pulmonary embolus and was recently admitted for sepsis and Gram-negative bacteremia from cholangitis and micro-hepatic abscesses. A prophylactic CBD plastic stent was placed during the previous admission, and he was discharged on oral ciprofloxacin."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient underwent an ERCP with successful removal of the plastic stent and sphincterotomy. The CBD was cannulated, and contrast injection revealed dilated CBD with few filling defects consistent with sludge. A small amount of sludge material was removed, and an occlusion cholangiogram revealed no more filling defects."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient was advised to take an antibiotic called ciprofloxacin for a total of 5 days after the procedure. In addition, they have recommended that you hold your blood thinner for a total of 3 days after the procedure to decrease the risk of bleeding."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary does not provide a clear explanation for why the patient was admitted for observation following an ERCP. It only mentions that the GI doctors have recommended that the patient take an antibiotic called ciprofloxacin for a total of 5 days after the procedure and hold their blood thinner for a total of 3 days after the procedure. It does not provide any reasoning for these recommendations."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary does not provide a clear chronological order of events. It mentions that the patient was admitted for observation following an ERCP, but it does not provide any information about the events leading up to the ERCP or the patient's history of pancreatic cancer, pulmonary embolus, and recent admission for sepsis and Gram-negative bacteremia from cholangitis and micro-hepatic abscesses."
+        }
+    ]
+}

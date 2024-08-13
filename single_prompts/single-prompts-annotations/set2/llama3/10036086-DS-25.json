@@ -1,0 +1,72 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "45-year-old male"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "history of HIV, prostate cancer, type 2 diabetes mellitus, hypertension, hyperlipidemia, obesity, chronic kidney disease, and asthma"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "likely provoked by the PE",
+            "explanation": "The EHR does not mention that the atrial fibrillation was likely provoked by the PE. The reasoning behind this conclusion is incorrect."
+        },
+        {
+            "text": "The patient was discharged on an event monitor that will record their heart rhythm if it is triggered.",
+            "explanation": "The EHR does not mention that the patient was discharged on an event monitor. This is an incorrect assumption and the reasoning behind it is incorrect."
+        },
+        {
+            "text": "Please weigh yourself every morning. If your weight increases by more than 3lbs in one day or 5 lbs in one week, please call your cardiologist to consider adding a medicine that will keep the extra fluid out of your body.",
+            "explanation": "The EHR does not mention that the patient should weigh themselves every morning. This is an incorrect instruction and the reasoning behind it is incorrect."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

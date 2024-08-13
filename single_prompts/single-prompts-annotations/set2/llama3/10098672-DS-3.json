@@ -1,0 +1,68 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient has high output chronic diarrhea, but the EHR note does not specify the exact cause of the diarrhea. The EHR note mentions that the diarrhea is a secretory diarrhea of unclear cause, but the summary does not capture this nuance."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient should follow a hypo-osmolar diet with small, frequent meals, but the EHR note does not specify the exact duration of this dietary restriction. The EHR note mentions that the patient will need to return for further studies to evaluate the diarrhea, but the summary does not capture this follow-up instruction."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The summary states that the patient should follow up with Dr. ___ and Dr. ___ to continue evaluation and management of diarrhea and chronic pain, but the EHR note does not specify the exact date or time of these follow-up appointments."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient's diarrhea is a secretory diarrhea, but the EHR note does not explicitly state this. The EHR note mentions that the patient's diarrhea is of unclear cause, but the summary does not capture this nuance.",
+            "explanation": "The summary's reasoning that the patient's diarrhea is a secretory diarrhea is not supported by the EHR note, which mentions that the cause of the diarrhea is unclear."
+        },
+        {
+            "text": "The summary states that the patient's chronic pain can be managed with home dose fentanyl patch, codeine, and oxycodone for breakthrough pain, but the EHR note does not specify the exact dosage or frequency of these medications.",
+            "explanation": "The summary's reasoning that the patient's chronic pain can be managed with these medications is not supported by the EHR note, which mentions that the patient's pain management plan needs to be adjusted."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient was admitted to the hospital for further evaluation of their recurrent loose stools, dehydration, and kidney damage, but the EHR note does not specify the exact date or time of the admission.",
+            "explanation": "The summary's chronological order of events is not consistent with the EHR note, which mentions that the patient was admitted to the hospital for further evaluation of their symptoms, but does not specify the exact date or time of the admission."
+        }
+    ]
+}

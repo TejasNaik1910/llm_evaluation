@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "47-year-old male"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Presented to the hospital with acute onset of left-side homonymous scotoma, paresthesias in the upper left extremity and face, and associated headache"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Visual disturbances, facial and left upper extremity paresthesias, and headache"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Acetaminophen-Caff-Butalbital for headache, Acetaminophen for pain and fever, Docusate Sodium for bowel regularity, Fludrocortisone Acetate for hyponatremia, OxyCODONE for moderate pain, Sodium Chloride for hyponatremia, Hydrochlorothiazide, Lisinopril, and Simvastatin for hypertension and dyslipidemia"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up appointment with neurosurgeon"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's symptoms gradually improved and resolved, but this is not explicitly mentioned in the EHR. The EHR mentions that the patient's symptoms will gradually improve and now completely resolved, but this is not the same as saying they resolved. The summary's reasoning is incorrect because it assumes the symptoms resolved when the EHR only mentions they improved and resolved completely at some point."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient presented to the hospital with acute onset of left-side homonymous scotoma, paresthesias in the upper left extremity and face, and associated headache, but the EHR mentions that the patient initially presented with visual disturbance and the question of a possible TIA or stroke. The summary's chronological order is incorrect because it reverses the order of events."
+        }
+    ]
+}

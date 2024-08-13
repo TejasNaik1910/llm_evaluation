@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Age: [Not provided]"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "No significant past medical history"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Abdominal distention"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Oxycodone (immediate release) 5mg PO Q4H:PRN for pain"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Take a stool softener to prevent constipation"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up with doctor for any concerning symptoms or issues"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient has no significant past medical history, but the EHR note mentions a 15-pound weight loss over the past year and a fibroid 5cm on ultrasound in [Not provided]. This inconsistency suggests that the summary's reasoning is incorrect."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary does not mention the patient's hospital course, which is detailed in the EHR note. This omission creates a chronological inconsistency, as the summary does not accurately reflect the patient's medical journey."
+        }
+    ]
+}

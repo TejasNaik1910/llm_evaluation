@@ -1,82 +1,64 @@
 {
     "Incorrect Patient Information": [
         {
-            "text": "Name: Not provided"
-        },
-        {
-            "text": "Date of Birth: Not provided"
-        },
-        {
-            "text": "Unit No: Not provided"
-        },
-        {
-            "text": "Admission Date: Not provided"
-        },
-        {
-            "text": "Discharge Date: Not provided"
+            "text": "Name: Not provided, Date of Birth: Not provided, Unit No: Not provided, Admission Date: Not provided, Discharge Date: Not provided"
         }
     ],
     "Specific to General Patient Information": [
         {
-            "text": "Sex: Female"
+            "text": "Name: Not provided, Date of Birth: Not provided, Unit No: Not provided, Admission Date: Not provided, Discharge Date: Not provided"
         }
     ],
     "Incorrect Patient History": [
         {
-            "text": "Chief Complaint: Fever"
-        },
-        {
-            "text": "History of Present Illness: The patient presented with a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma. She developed fever and right upper quadrant (RUQ) pain, and was admitted to the hospital."
+            "text": "The patient was admitted due to a liver mass and omental implants on CT scan, but it was not specified that these were biopsied and showed only inflammatory cells without carcinoma."
         }
     ],
     "Specific to General Patient History": [
         {
-            "text": "The patient's history of presenting with a liver mass and omental implants on CT scan, followed by biopsies that showed only inflammatory cells without carcinoma, is not fully captured in the summary."
+            "text": "The patient presented with a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma."
         }
     ],
     "Incorrect Symptoms/Diagnosis": [
         {
-            "text": "Diagnosis: Liver abscess, liver mass, and fever"
-        },
-        {
-            "text": "The summary states that the patient was diagnosed with liver abscess, liver mass, and fever, but the EHR note specifies that the patient had a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma."
+            "text": "The patient was diagnosed with a liver abscess, but it was not specified that the liver mass was also an abscess."
         }
     ],
     "Specific to General Symptoms/Diagnosis": [
         {
-            "text": "The patient presented with a fever of 102.7\u00b0F, tachycardia, and RUQ tenderness to palpation, which are not fully captured in the summary."
+            "text": "The patient presented with fever and right upper quadrant (RUQ) pain, and was diagnosed with a liver abscess."
         }
     ],
     "Incorrect Medicinal Instructions": [
         {
-            "text": "Hydrocodone (Dilaudid)"
+            "text": "The patient was discharged on oral ciprofloxacin and Flagyl, but it was not specified that the stop date for these medications was ___."
         }
     ],
     "Specific to General Medicinal Instructions": [
         {
-            "text": "The patient was started on antibiotics (Vancomycin, Zosyn, and Flagyl) and underwent ultrasound-guided percutaneous drainage of a right hepatic fluid collection, which is not fully captured in the summary."
+            "text": "The patient was discharged on oral ciprofloxacin and Flagyl."
         }
     ],
     "Incorrect Followup": [
         {
-            "text": "Follow-up appointment with Dr. ___ on ___"
+            "text": "The patient was instructed to follow up with Dr. ___ on ___ for fever > 101, chills, nausea, vomiting, diarrhea, constipation, increased abdominal pain, pain not controlled by your pain medication, swelling of the abdomen or ankles, yellowing of the skin or eyes, inability to tolerate food, fluids or medications, or any other concerning symptoms."
         }
     ],
     "Specific to General Followup": [
         {
-            "text": "The summary states that the patient should follow up with Dr. ___ on ___ for a repeat ultrasound to assess for interval change, but the EHR note specifies that the patient should undergo a repeat ultrasound on ___ to assess for interval change."
+            "text": "The patient was instructed to follow up with Dr. ___ for fever > 101, chills, nausea, vomiting, diarrhea, constipation, increased abdominal pain, pain not controlled by your pain medication, swelling of the abdomen or ankles, yellowing of the skin or eyes, inability to tolerate food, fluids or medications, or any other concerning symptoms."
         }
     ],
     "Incorrect Reasoning": [
         {
-            "text": "The summary states that the patient was diagnosed with liver abscess, liver mass, and fever, but the EHR note specifies that the patient had a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma.",
-            "explanation": "The summary's reasoning that the patient was diagnosed with liver abscess, liver mass, and fever is incorrect, as the EHR note specifies that the patient had a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma."
+            "text": "The patient was diagnosed with a liver abscess, but it was not specified that the liver mass was also an abscess.",
+            "explanation": "The summary implies that the liver mass and omental implants were biopsied and showed only inflammatory cells without carcinoma, but it does not specify that these were also abscesses."
         }
     ],
     "Chronological Inconsistency": [
         {
-            "text": "The summary states that the patient presented with a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma, but the EHR note specifies that the patient developed fever and RUQ pain after the biopsies.",
-            "explanation": "The summary's chronological order of events is inconsistent with the EHR note, as the EHR note specifies that the patient developed fever and RUQ pain after the biopsies, but the summary states that the patient presented with a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma."
+            "text": "The patient was admitted due to a liver mass and omental implants on CT scan, but it was not specified that these were biopsied and showed only inflammatory cells without carcinoma.",
+            "explanation": "The summary implies that the patient was admitted due to a liver mass and omental implants on CT scan, but it does not specify that these were biopsied and showed only inflammatory cells without carcinoma. This creates a chronological inconsistency between the summary and the EHR note."
         }
     ]
 }
