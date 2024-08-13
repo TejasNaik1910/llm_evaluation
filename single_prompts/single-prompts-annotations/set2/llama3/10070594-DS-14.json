@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "The patient is a man."
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The patient is a man with metastatic neuroendocrine tumor, unknown primary, who is admitted from the ED with a syncopal episode."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "The patient has a history of breast cancer."
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The patient has a history of abdominal bloating mid ___."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The patient was diagnosed with a throat infection."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient has a metastatic neuroendocrine tumor, unknown primary, with liver metastases."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The patient should continue taking verapamil."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient should continue taking metoprolol and decrease the dose of doxazosin."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The patient should follow up with his oncologist in 2 weeks."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The patient should follow up with his oncologist on ___, see below."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient's symptoms improved during his hospital stay.",
+            "explanation": "The summary states that the patient's symptoms improved during his hospital stay, but the EHR note does not explicitly state this. The EHR note only mentions that the patient's symptoms improved after receiving chemotherapy and a liver biopsy."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The patient was diagnosed with a metastatic neuroendocrine tumor, unknown primary, with liver metastases.",
+            "explanation": "The summary states that the patient was diagnosed with a metastatic neuroendocrine tumor, unknown primary, with liver metastases, but the EHR note does not mention the diagnosis of liver metastases. The EHR note only mentions the diagnosis of a grade 2 neuroendocrine tumor in the liver."
+        }
+    ]
+}

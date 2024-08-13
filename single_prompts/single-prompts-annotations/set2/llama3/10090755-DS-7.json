@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Male patient, age not specified"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "History of Hepatitis B (HBV) and Hepatocellular Carcinoma (HCC), Status post right hepatic lobectomy, Hypertension (HTN) and Benign Prostatic Hyperplasia (BPH)"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Pleural effusion"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Presented with 2 weeks of chest pain, tightness, and subjective fevers with increased sputum production, Admitted to the transplant surgery service, CT scan showed large right pleural effusion with associated right middle and right lower lobe collapse and pleural nodules suggestive of metastatic HCC"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Pulmonary nodules"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Pleural effusion, History of HCC s/p right hepatic lobectomy, Pulmonary nodules"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "OxyCODONE (Immediate Release) 2.5-5 mg PO Q6H:PRN Pain - Moderate"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Enoxaparin Sodium 60mg SC Q12H, Polyethylene Glycol 17 g PO DAILY, Acetaminophen 1000 mg PO Q8H, Finasteride 5 mg PO DAILY, Tamsulosin 0.4 mg PO QHS, tenofovir disoproxil fumarate 300 mg oral DAILY"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Oncologist follow-up on [date] at 11:30 am"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Interventional pulmonology follow-up in 2 weeks for thoracoscopy and biopsy of pleural nodules, Oncologist follow-up on [date] at 11:30 am"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient has a history of Hepatitis B and Hepatocellular Carcinoma, but the reasoning behind the discharge plan involving radiation therapy is incorrect. Hepatocellular Carcinoma is typically not treated with radiation therapy as the first-line treatment.",
+            "explanation": "The summary's reasoning that radiation therapy is part of the discharge plan due to Hepatocellular Carcinoma is factually incorrect and misinterprets standard medical practices for treating this condition."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient was admitted to the transplant surgery service, but the chronological order of events is not consistent with the EHR. The EHR states that the patient was admitted to the transplant surgery service after presenting with 2 weeks of chest pain, tightness, and subjective fevers with increased sputum production.",
+            "explanation": "The summary describes events out of order compared to what the EHR documents, creating a chronological inconsistency."
+        }
+    ]
+}

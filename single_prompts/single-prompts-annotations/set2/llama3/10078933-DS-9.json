@@ -1,0 +1,72 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient has a history of breast cancer, and the recent biopsy suggests likely recurrent metastatic breast cancer.",
+            "explanation": "However, the EHR note does not explicitly state that the patient has recurrent metastatic breast cancer. The biopsy results showed malignant tumor cells, but the summary's conclusion about the cancer type is not supported by the EHR."
+        },
+        {
+            "text": "The summary states that the patient will require further evaluation and treatment for the likely recurrent metastatic breast cancer.",
+            "explanation": "However, the EHR note does not explicitly state that the patient will require further evaluation and treatment for recurrent metastatic breast cancer. The patient will follow up with several doctors to help determine what type of treatment to perform, but the summary's conclusion about the patient's treatment plan is not supported by the EHR."
+        },
+        {
+            "text": "The summary states that the patient has a history of breast cancer, which has led to esophageal strictures and tracheal stenosis.",
+            "explanation": "However, the EHR note states that the patient has a history of breast cancer, which has led to esophageal strictures, but it does not mention tracheal stenosis as a direct result of the breast cancer. The patient has tracheal stenosis, but the EHR note does not explicitly state that it is a result of the breast cancer."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient was admitted to the hospital after being seen in pulmonary clinic on ___.",
+            "explanation": "However, the EHR note states that the patient was directly admitted from Interventional Pulmonology clinic, which suggests that the patient was admitted to the hospital before being seen in pulmonary clinic."
+        }
+    ]
+}

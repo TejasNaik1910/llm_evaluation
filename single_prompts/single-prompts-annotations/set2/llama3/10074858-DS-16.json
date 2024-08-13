@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Age year old male patient"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "History of esophageal cancer, status post esophagectomy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Pulmonary embolism, Deep vein thrombosis, Gout"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "START taking coumadin 5 mg daily, START taking colchicine 0.6 mg daily for the next two to three days, depending on if you are still having symptoms.  You should talk to your primary care doctor about the possiblity of starting long term treatment for gout. STOP taking atenolol until you follow up with your primary care doctor"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow up with primary care doctor for further management"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient had a filter placed in his inferior vena cava (large vein leading to his heart) to prevent clots from spreading from his left leg to his lungs. However, the EHR note does not explicitly state that the filter was placed for this purpose. The summary also states that the IVC filter will not prevent the patient from getting an MRI in the future, but this is not mentioned in the EHR note."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary describes the patient's hospital course as follows: 'Bilateral PEs and DVT:  Heparin gtt was started in the ED and vascular service was consulted on the floor for placement of IVC filter, considering bilateral PE and large DVT in LLE.' However, the EHR note states that the heparin gtt was started in the ED and the vascular service was consulted on the floor for placement of IVC filter, but it does not mention considering bilateral PE and large DVT in LLE. The summary also states that the patient had a gout flare in his R and L great toes, R>L, and for this he received colchicine. However, the EHR note states that the patient had a gout flare in his R and L great toes, R>L, but it does not mention receiving colchicine."
+        }
+    ]
+}

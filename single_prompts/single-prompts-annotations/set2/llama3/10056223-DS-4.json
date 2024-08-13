@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary suggests that the patient's hypotension and lethargy improved with fluids and pain management, but the EHR_NOTE indicates that the patient's hypotension and lethargy improved after the chest tube placement and not just with fluids and pain management.",
+            "explanation": "The summary provides an oversimplified explanation for the patient's improvement, which does not accurately reflect the EHR_NOTE."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient underwent RFA, chest tube placement, and diagnostic paracentesis, but the EHR_NOTE indicates that the patient underwent RFA and chest tube placement first, and then diagnostic paracentesis.",
+            "explanation": "The summary presents the events out of order compared to what the EHR_NOTE documents, creating a chronological inconsistency."
+        }
+    ]
+}

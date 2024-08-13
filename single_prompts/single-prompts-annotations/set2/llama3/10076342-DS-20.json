@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Age: Not specified"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Lung cancer diagnosed 2 weeks ago"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Altered mental status, jaundice, hematemesis"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Decadron 4 mg four times a day, Metoprolol 25 mg daily, Prilosec"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Daily transfer to radiation center for further radiation treatment"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's coagulopathy was managed with FFP and platelet transfusions, but the EHR note states that he required aggressive FFP and platelets before procedures. The summary's reasoning is incorrect because it implies that the patient's coagulopathy was managed with a specific treatment, but the EHR note states that the treatment was more aggressive."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's delirium and hepatic encephalopathy improved with lactulose and rifaximin, but the EHR note states that the patient's mental status gradually improved significantly after being started on aggressive lactulose and rifaximin. The summary's chronological order is incorrect because it implies that the patient's improvement occurred before the treatment was started."
+        }
+    ]
+}

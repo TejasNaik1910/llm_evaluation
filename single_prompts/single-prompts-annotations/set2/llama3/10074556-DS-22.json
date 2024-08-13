@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The patient's age is not specified in the EHR, whereas the summary mentions that the patient is a man, which is consistent with the EHR."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The EHR mentions a history of pancreas divisum, acute pancreatitis with necrosis, GERD, and nephrolithiasis, which is more specific than the summary's mention of pancreas divisum and GERD."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The EHR mentions a primary mediastinal lymphoma (DLBCL) diagnosis, which is more specific than the summary's mention of lymphoma."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The EHR mentions that the patient was started on atovaquone as a reaction to Bactrim, which is more specific than the summary's mention of starting new medications."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The EHR mentions that the patient will need to follow up in clinic on a specific date, which is more specific than the summary's mention of follow-up instructions."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient was admitted for Cycle 2 EPOCH and tolerated the chemotherapy well, but this is not entirely accurate. The EHR mentions that the patient was admitted for planned second cycle of DA-EPOCH.",
+            "explanation": "The summary's statement is an oversimplification of the EHR's information, which is more accurate."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary does not present a chronological inconsistency with the EHR."
+        }
+    ]
+}

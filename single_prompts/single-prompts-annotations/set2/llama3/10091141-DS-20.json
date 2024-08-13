@@ -1,0 +1,66 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Multiple comorbidities, including: Breast cancer, End-stage renal disease (ESRD) on hemodialysis, Type 1 diabetes mellitus, Hypertension, Coronary artery disease, Gout, Atrial fibrillation, Obstructive sleep apnea, Ventral hernia, HIT (heparin-induced thrombocytopenia) positivity, Sarcoidosis, Pulmonary hypertension"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary states 'Septic arthritis' as a discharge diagnosis, whereas the EHR mentions 'Septic Arthritis' as a hospital course problem, which is a more specific and detailed description."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient will need to take antibiotics for a 'full 4 week course' to treat the infection, whereas the EHR specifies that the patient should take vancomycin for '5 weeks: for total of 6 weeks, to complete on ___'. This is a more specific and detailed description of the medication regimen."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary states that the patient should follow up with their primary care physician and hematology for platelet count monitoring, but does not specify the exact time frame or frequency of follow-up."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient developed an allergic reaction/angioedema, which was treated with diphenhydramine, famotidine, and methylprednisolone. However, the EHR mentions that the facial swelling resolved with dialysis and may have been due to volume overload rather than angioedema. This suggests that the summary's reasoning for the treatment of angioedema is incorrect."
+        },
+        {
+            "text": "The summary states that the patient developed thrombocytopenia, which was attributed to marrow suppression from infection. However, the EHR mentions that the hematologist felt that the decrease in platelets was not likely due to HIT or reactivation of HIT in a previously exposed patient, and ultimately decided it was due to marrow suppression from infection. This suggests that the summary's reasoning for the cause of thrombocytopenia is incorrect.",
+            "explanation": "The summary states that the patient developed thrombocytopenia, which was attributed to marrow suppression from infection. However, the EHR mentions that the hematologist felt that the decrease in platelets was not likely due to HIT or reactivation of HIT in a previously exposed patient, and ultimately decided it was due to marrow suppression from infection. This suggests that the summary's reasoning for the cause of thrombocytopenia is incorrect."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient was admitted to the hospital for evaluation of left knee pain, but does not specify the exact date or time of admission. The EHR mentions that the patient was admitted on a specific date and time, and underwent various procedures and treatments over the course of several days. This suggests that the summary's chronological order of events is inconsistent with the EHR."
+        }
+    ]
+}

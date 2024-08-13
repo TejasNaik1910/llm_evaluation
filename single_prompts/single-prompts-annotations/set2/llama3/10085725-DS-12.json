@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "65-year-old female patient"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Right-sided recurrent malignant pleural effusion"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "History of metastatic non-small cell lung cancer (NSCLC)"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Left-sided pleural effusion, hyponatremia"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up with PCP and oncologist after discharge"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient was managed with duonebs and Tylenol/tramadol for pain control, which is accurate. However, the reasoning behind the use of these medications is not explicitly stated in the EHR. Therefore, this is an example of incorrect reasoning."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient was placed on Pleurex catheter on [date] by interventional pulmonary (IP) team, but the EHR does not specify the exact date. However, the EHR does mention that the patient was admitted with right-sided recurrent malignant pleural effusion, which is a past event. The summary does not explicitly mention the patient's past medical history, which could be considered a chronological inconsistency."
+        }
+    ]
+}

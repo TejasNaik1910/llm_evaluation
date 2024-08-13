@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Name: Not provided, Date of Birth: Not provided, Unit No: Not provided, Admission Date: Not provided, Discharge Date: Not provided"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Radical prostatectomy is mentioned in the EHR, but the summary only mentions 'advanced prostate cancer with metastasis to the liver, peritoneal carcinomatosis, and malignant ureteral obstruction'."
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The EHR mentions'malignant ascites secondary to metastatic prostate cancer' and'malignant ureteral obstruction causing bilateral hydroureter and hydronephrosis' as primary diagnoses, but the summary only mentions'malignant ascites secondary to metastatic prostate cancer' as a primary diagnosis."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The EHR mentions that the patient is to take oxycontin 30mg twice a day and have oxycodone 5mg available as needed for breakthrough pain, but the summary only mentions oxycontin 30mg twice a day without specifying the need for oxycodone for breakthrough pain."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's nausea and vomiting improved with prochlorperazine and ondansetron, but the EHR only mentions that the patient's nausea and vomiting were managed with prochlorperazine 10 mg PO Q6H:PRN nausea and ondansetron 4 mg IV Q8H:PRN nausea, without specifying that they improved. This is an example of incorrect reasoning because the summary is making an assumption about the patient's condition that is not supported by the EHR."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient received a dose of cabazitaxel chemotherapy, but the EHR mentions that the patient received a dose of cabazitaxel chemotherapy on a specific date. The summary is presenting the information out of chronological order, which is an example of chronological inconsistency."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Name: Not provided"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Age: Not provided"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Esophageal cancer (pT1bN0MX adenocarcinoma) treated with minimally invasive esophagectomy (MIE)"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Takutsubo cardiomyopathy with possible mild myocardial infarction, Hypertension, Hyperlipidemia, Status post vaginal hysterectomy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Esophagitis"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Esophageal stricture"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Ondansetron 4 mg PO Q8H:PRN nausea"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Metoprolol Succinate XL 25 mg PO DAILY"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Follow-up with Dr. ___ in 2 weeks"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Call Dr. ___ ___ if you experience: -Fevers greater than 101 or chills -Increased shortness of breath, cough or chest pain -Increased nausea, vomiting -Increased abdominal pain"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient was discharged in a stable condition, with a clear and coherent mental status, alert and interactive level of consciousness, and ambulatory-independent activity status.",
+            "explanation": "The summary states that the patient was discharged in a stable condition, but the EHR note only mentions that the patient's mental status is clear and coherent, and that they are ambulatory-independent. There is no mention of the patient's level of consciousness being alert and interactive."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The patient was admitted for evaluation and treatment of a possible esophageal stricture, and underwent an EGD and dilatation of the esophagus without complication.",
+            "explanation": "The summary states that the patient was admitted for evaluation and treatment of a possible esophageal stricture, and underwent an EGD and dilatation of the esophagus without complication. However, the EHR note states that the patient was admitted after presenting with nausea and vomiting, and that she underwent the procedure after being seen by GI. This is a chronological inconsistency, as the summary reverses the order of events."
+        }
+    ]
+}

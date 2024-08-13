@@ -1,0 +1,80 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient has a history of hepatocellular carcinoma (HCC) and colon cancer. The recent CT scans revealed new metastatic lesions in the liver, lungs, and thyroid, with a morphology consistent with colorectal metastases.",
+            "explanation": "The note does not explicitly state that the morphology is consistent with colorectal metastases. The CT scans revealed new metastatic lesions in the liver, lungs, and thyroid, but the morphology is not specified."
+        },
+        {
+            "text": "The patient's cancer has progressed, with new metastatic lesions detected on imaging.",
+            "explanation": "The note does not explicitly state that the cancer has progressed. It only mentions that new metastatic lesions were detected on imaging, but it does not provide any information about the previous stage of the cancer or how it has progressed."
+        },
+        {
+            "text": "The patient has a history of hepatitis B and C, and possible alcoholic cirrhosis.",
+            "explanation": "The note does not explicitly state that the patient has a history of hepatitis B and C, and possible alcoholic cirrhosis. It only mentions that the patient has a history of hepatitis B, but it does not provide any information about hepatitis C or possible alcoholic cirrhosis."
+        },
+        {
+            "text": "The patient's liver function tests are abnormal, indicating liver injury.",
+            "explanation": "The note does not explicitly state that the patient's liver function tests are abnormal, indicating liver injury. It only mentions that the liver function tests are abnormal, but it does not provide any information about what that means or what the implications are."
+        },
+        {
+            "text": "The patient has a pulmonary embolism and is on anticoagulation therapy.",
+            "explanation": "The note does not explicitly state that the patient has a pulmonary embolism and is on anticoagulation therapy. It only mentions that the patient has a pulmonary embolism, but it does not provide any information about the treatment or management of the condition."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

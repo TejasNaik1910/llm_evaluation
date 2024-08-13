@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Female patient with no known allergies"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "History of uterine polypectomy and positive PPD test with negative CXR"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Abdominal pain in the right upper quadrant (RUQ) and intermittently in other areas, relieved by fetal position and worsened by abrupt movement"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Pain management with acetaminophen, oxycoDONE, and diphenhydrAMINE"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up with oncology team next week"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's cancer type, morphology, and stage are not explicitly stated in the clinical note, pending pathology results. However, the clinical note does mention a liver mass and omental implants, which suggests a possible diagnosis of liver cancer. The summary's statement that the cancer type is pending pathology results is correct, but it does not provide any additional information about the possible diagnosis. This could be seen as incorrect reasoning because it does not provide any context about the possible diagnosis."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary does not mention the patient's history of presenting to an OSH ED with abdominal pain one month ago, which is mentioned in the clinical note. The summary also does not mention the patient's CT scan results showing a 6.2cm x 4cm mass in segments of the liver and omental implants, which is mentioned in the clinical note. This could be seen as a chronological inconsistency because the summary does not provide a clear timeline of the patient's medical history."
+        }
+    ]
+}

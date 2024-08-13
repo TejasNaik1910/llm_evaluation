@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Female patient with a history of stage III colon cancer, status post hemicolectomy and adjuvant chemotherapy"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Stage III colon cancer, GERD, asthma, anxiety, chronic diarrhea"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Complicated diverticulitis, weakness, and weight loss"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Ciprofloxacin, metronidazole, loperamide, atorvastatin, cyanocobalamin, fluoxetine, vitamin D"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up with the colorectal surgery service in 2 weeks to determine a plan, which may include repeat imaging or surgery"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient was treated with IV fluids, antibiotics, and bowel rest and improved, but it does not mention the complications that the patient experienced during treatment, such as the development of multiple abscesses and the need for drain placement. This lack of information may lead to incorrect reasoning about the patient's condition and treatment."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary does not accurately reflect the chronological order of events as documented in the EHR. It jumps from the patient's presentation with complicated diverticulitis to the treatment with IV antibiotics, bowel rest, and IV fluids, without mentioning the complications that the patient experienced during treatment, such as the development of multiple abscesses and the need for drain placement. This chronological inconsistency may lead to confusion and incorrect understanding of the patient's condition and treatment."
+        }
+    ]
+}

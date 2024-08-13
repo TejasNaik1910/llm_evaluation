@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "The patient has been described as a 60-year-old male, however, the EHR note does not specify the patient's age, only mentioning that the patient is a '___ yo M'."
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The EHR note mentions that the patient has a history of poorly differentiated squamous lung cancer, which is a specific type of cancer, but the summary generalizes it to 'poorly differentiated squamous lung cancer with metastases'."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "The summary states that the patient has a history of hypertension, hyperlipidemia, and coronary artery disease with a previous myocardial infarction, but the EHR note only mentions HTN and CAD with MI."
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The EHR note mentions that the patient had a core needle biopsy of a back lesion, which showed poorly differentiated squamous lung cancer, but the summary generalizes it to 'poorly differentiated squamous lung cancer with metastases'."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient has dyspnea, NOS, but the EHR note only mentions shortness of breath."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The EHR note mentions that the patient has a urinary tract infection, but the summary generalizes it to 'urinary tract infection' without specifying the type of infection."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient is to take ciprofloxacin for 6 days, but the EHR note only mentions that the patient is to take the antibiotic for a urinary tract infection."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The EHR note mentions that the patient is taking various medications, including simvastatin, atenolol, latanoprost, acetaminophen, colace, senna, bisacodyl, hydromorphone, simethicone, prochlorperazine, lorazepam, ranitidine, and fentanyl, but the summary generalizes it to 'various medications'."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The summary states that the patient is scheduled to follow up with their oncologist, Dr. ___, for chemotherapy on ___, but the EHR note only mentions that the patient is to follow up with Dr. ___ for chemotherapy 3 days after discharge."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The EHR note mentions that the patient is to follow up with Dr. ___ for chemotherapy 3 days after discharge, but the summary generalizes it to 'follow up with their oncologist'."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient's cancer has progressed, but the EHR note only mentions that the cancer has progressed and the patient is currently undergoing chemotherapy with carboplatin and taxol.",
+            "explanation": "The summary implies that the patient's cancer has progressed due to treatment, but the EHR note only mentions that the patient is undergoing chemotherapy as a treatment for the cancer."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient's shortness of breath has improved, and they are not requiring more oxygen than they were using at home, but the EHR note mentions that the patient's SOB has improved, but the patient is still requiring oxygen.",
+            "explanation": "The summary implies that the patient's shortness of breath has improved due to treatment, but the EHR note only mentions that the patient's SOB has improved, but the patient is still requiring oxygen."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The summary inaccurately states the patient's age as 42, whereas the EHR note does not specify the patient's age. This discrepancy could potentially mislead readers about the patient's exact age, impacting the interpretation of the medical information and any related decisions."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The summary oversimplifies the patient's medical history by omitting the details of her past surgical history, including laser surgery for retinal hemorrhage. This omission could lead to incomplete or inaccurate medical records and potentially impact patient care."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary inaccurately states that the patient has 'possible COPD', whereas the EHR note mentions 'possible COPD' as a discharge diagnosis, but it is not explicitly stated in the EHR note. This discrepancy could potentially mislead readers about the patient's exact diagnosis, impacting the interpretation of the medical information and any related decisions."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary inaccurately states that the patient should take hydrochlorothiazide 'DAILY', whereas the EHR note specifies 'Two (2) Capsule PO DAILY (Daily)'. This discrepancy could potentially lead to confusion and incorrect medication administration."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary inaccurately states that the patient should follow up with her doctor 'as outlined below', whereas the EHR note does not specify the follow-up appointments. This discrepancy could potentially lead to confusion and incorrect follow-up care."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary inaccurately states that the patient was discharged in 'good condition', whereas the EHR note mentions that the patient was discharged in 'good condition on POD#3'. This discrepancy could potentially mislead readers about the patient's exact condition, impacting the interpretation of the medical information and any related decisions.",
+            "explanation": "The summary's reasoning behind the patient's discharge condition is incorrect, as it does not accurately reflect the EHR note's description of the patient's condition on post-operative day 3."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary accurately reflects the chronological order of events as documented in the EHR note."
+        }
+    ]
+}
