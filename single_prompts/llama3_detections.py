@@ -58,7 +58,7 @@ def fill_template_with_extracted_data(template, extracted_data):
         return template
 
 # List of note IDs
-# note_ids = ["10002221-DS-11"]              #for testing code, uncomment below variable for full execution
+note_ids = ["10002221-DS-11"]              #for testing code, uncomment below variable for full execution
 # note_ids_set1 = [
 #     "10000935-DS-21", "10000980-DS-23", "10001401-DS-20", "10054464-DS-17", "10002221-DS-12",
 #     "10003299-DS-10", "10056223-DS-14", "10004401-DS-26", "10056612-DS-8", "10006029-DS-16",
@@ -107,7 +107,7 @@ for note_id in note_ids:
 
     Instructions:
 
-    1. Your task is to provide phrases/words for the below-mentioned kinds of hallucinations. 
+    1. Your task is to provide phrases/words strictly from the respective summary for the below-mentioned kinds of hallucinations. 
         a) Patient Information
         b) Patient History
         c) Symptoms/Diagnosis/Surgical Procedures
@@ -117,7 +117,7 @@ for note_id in note_ids:
     SPECIFIC TO GENERAL - Any detail within the clinical note that goes from specific to a more generalized description or if it is an oversimplification of medical events in the summary. 
     INCORRECT - Any detail within the clinical note that is twisted or incorrectly stated in the summary (a discharge instruction stated wrongly). An incorrect condition would also mean that the information was generalized in EHR but was more specific in the summarized content.
 
-    2. Your task is to provide a phrase and a logical explanation for the below-mentioned hallucination categories: 
+    2. Your task is to provide a phrase strictly from the respective summary and a logical explanation for the below-mentioned hallucination categories: 
         a) Chronological Inconsistency
         b) Incorrect Reasoning
 

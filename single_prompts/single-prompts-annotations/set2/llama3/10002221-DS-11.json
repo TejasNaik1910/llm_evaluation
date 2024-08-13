@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient has a history of breast cancer with BRCA1 gene mutation, specifically infiltrating ductal carcinoma of the left breast."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's cancer stage and progression are not mentioned, but this is not incorrect reasoning, it's just a fact. However, the summary does not mention that the patient underwent a lumpectomy and sentinel lymph node biopsy, which is an important piece of information. The summary also does not mention the patient's response to treatment, which is significant improvement in symptoms after the ultrasound-guided steroid injection and initiation of gabapentin and lidocaine patch."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary does not mention the chronological order of events, but it does mention that the patient underwent a lumpectomy and sentinel lymph node biopsy, which is an important event in the patient's medical history. However, the summary does not mention the patient's response to treatment, which is significant improvement in symptoms after the ultrasound-guided steroid injection and initiation of gabapentin and lidocaine patch. This could be considered a chronological inconsistency, as the summary does not provide a clear timeline of events."
+        }
+    ]
+}
