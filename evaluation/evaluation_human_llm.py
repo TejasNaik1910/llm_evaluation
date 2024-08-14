@@ -268,9 +268,16 @@ noteid_list = [
     "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
     "10036086-DS-25", "10098875-DS-12"
 ]
-human_folder = 'data/human-annotations/set2/gpt4o'  # Replace with the path to your human annotations folder
-llm_folder = 'single_prompts/single-prompts-annotations/set2/gpt4o'  # Replace with the path to your LLM annotations folder
-output_csv = 'evaluation/human-llm-gpt4o_evaluation_results.csv'  # Replace with the desired output CSV file path
+
+# #GPT4o detections
+# human_folder = 'data/human-annotations/set2/gpt4o'  # Replace with the path to your human annotations folder
+# llm_folder = 'single_prompts/single-prompts-annotations/set2/gpt4o'  # Replace with the path to your LLM annotations folder
+# output_csv = 'evaluation/human-llm-gpt4o_evaluation_results.csv'  # Replace with the desired output CSV file path
+
+#Llama3.1 detections
+human_folder = 'data/human-annotations/set2/llama3'  # Replace with the path to your human annotations folder
+llm_folder = 'single_prompts/single-prompts-annotations/set2/llama3'  # Replace with the path to your LLM annotations folder
+output_csv = 'evaluation/human-llm-llama3_evaluation_results.csv'  # Replace with the desired output CSV file path
 
 process_annotations(noteid_list, human_folder, llm_folder, output_csv)
 
