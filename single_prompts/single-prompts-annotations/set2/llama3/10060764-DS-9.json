@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The patient has cholangiocarcinoma with ERCP imaging suggestive of tumor burden."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient has a history of hypertension, atrial fibrillation, mitral valve prolapse, osteoarthritis of the right hip, and cholangiocarcinoma."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The patient was started on a pain medication, bowel regimen for her comfort."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient was discharged on digoxin, docusate sodium, oxycodone, ondansetron, polyethylene glycol, bisacodyl, morphine sulfate, pantoprazole, simethicone, and ranitidine."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The patient will continue to receive pain management and other supportive care as needed."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient's warfarin was discontinued due to progression of cancer.",
+            "explanation": "The EHR note does not explicitly state that the warfarin was discontinued due to cancer progression. It mentions that the warfarin was stopped after a family meeting was held and the patient decided to focus on comfort measures."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Name:  ___, Unit No:  ___, Admission Date:  ___, Discharge Date:  ___, Date of Birth:  ___, Sex: M"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Prostate cancer, T3b N0 M0, stage III, Coronary artery disease with multiple stents, Paroxysmal atrial fibrillation, Hypertension, Diabetes mellitus, Gout, Chronic kidney disease, Osteoarthritis, Anemia, Radiation proctitis, Gallstones, Hip replacement with subsequent dislocations"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Hematuria started 2 days after foley catheter removal, with clots in urine, History of E. Faecalis UTI, On aspirin, plavix, and warfarin at the time of admission"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient should continue taking plavix for a \u201cfew\u201d weeks, whereas the EHR explicitly states that the patient should continue plavix 75 mg daily."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Continue aspirin and plavix every day. Do not stop taking this medication without permission from Dr. ___."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Please see below for your follow-up appointments."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the bleeding was likely caused by having a foley catheter in the bladder.",
+            "explanation": "The EHR note does not explicitly state that the bleeding was caused by the foley catheter. The note mentions that the bleeding improved after the foley catheter was irrigated, but it does not provide a clear reason for the bleeding."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

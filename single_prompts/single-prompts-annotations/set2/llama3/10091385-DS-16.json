@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Female patient with no known allergies; Presented with abdominal pain, night sweats, and 20 lb weight loss over 2 months; History of uterine polypectomy and positive PPD test with negative CXR"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Abdominal pain in the right upper quadrant (RUQ) and intermittently in other areas, relieved by fetal position and worsened by abrupt movement; Normal bowel and bladder habits, no blood in stool, and no changes in appetite"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Pain management with acetaminophen, oxycoDONE, and diphenhydrAMINE; Discharged with instructions for follow-up with oncology and transplant teams"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Follow-up with oncology team next week; Call doctor's office if symptoms worsen or if concerned about biopsy site"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

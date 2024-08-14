@@ -1,0 +1,67 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Age: Not provided"
+        },
+        {
+            "text": "Name: Not provided"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Date of Birth: Not provided"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Radical prostatectomy"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Dyslipidemia"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Obstructed percutaneous nephrostomy (PCN) tube"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Metastatic prostate cancer"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Continue taking Ritalin if effective for appetite stimulation"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Managing nephrostomy tube"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Follow-up with Dr. ___ in the clinic on ___"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Managing blood pressure"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

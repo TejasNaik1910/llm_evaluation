@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The patient's age is not specified in the EHR note, whereas the summary mentions that the patient is a man with right leg weakness."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The EHR note mentions a smoking history, chronic alcoholism, and chronic back pain, but the summary does not mention these details."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The EHR note mentions subacute progressive right lower extremity pain, numbness, and profound weakness, but the summary does not mention these specific symptoms."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The EHR note mentions a history of chronic low back pain and right lumbar radiculopathy, but the summary does not mention these details."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The EHR note mentions that the patient is to continue taking dexamethasone, but the summary does not mention the specific dosage or duration of treatment."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The EHR note mentions that the patient will see the medical oncologist and urologist for further evaluation and treatment, but the summary does not mention these follow-up appointments."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The EHR note mentions that the patient will undergo stereotactic radiosurgery (SRS) for the brain lesions, but the summary does not mention this treatment plan."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The EHR note mentions that the patient has a history of at least 6 beers a day as an outpatient, but the summary does not mention this detail.",
+            "explanation": "The summary does not mention the patient's history of chronic alcoholism, which could be relevant to the patient's treatment plan."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The EHR note mentions that the patient was found to have 2 lesions in the brain with swelling around them, which explained the patient's symptoms, but the summary does not mention this detail.",
+            "explanation": "The summary presents the patient's diagnosis and treatment plan in a different order than the EHR note, which could be considered a chronological inconsistency."
+        }
+    ]
+}

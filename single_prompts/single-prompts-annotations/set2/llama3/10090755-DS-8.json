@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient has 'Metastatic Hepatocellular Carcinoma (HCC)', but the EHR note does not explicitly mention the cancer stage. The presence of metastases in the pleura, lungs, and IVC thrombus suggests advanced disease, but this is not explicitly stated in the EHR note."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient was discharged on a 6-week course of Augmentin, but the EHR note does not mention the specific duration of the antibiotic course. The EHR note does mention that the patient was discharged on Augmentin with a plan for follow-up with Interventional Pulmonology for monitoring of possible abscess."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The summary does not mention any follow-up instructions, but the EHR note mentions that the patient should follow up with Interventional Pulmonology for monitoring of possible abscess."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient has 'Metastatic Hepatocellular Carcinoma (HCC)' and that the cancer stage is not explicitly stated, but the presence of metastases in the pleura, lungs, and IVC thrombus suggests advanced disease. However, the EHR note does not provide any information about the cancer stage, and the summary's conclusion about the cancer stage is not supported by the EHR note.",
+            "explanation": "The EHR note provides information about the patient's symptoms, diagnostic tests, and surgical interventions, but it does not provide any information about the cancer stage. The summary's conclusion about the cancer stage is based on the presence of metastases, but this is not explicitly stated in the EHR note. Therefore, the summary's reasoning is incorrect."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient has had a recent admission for right-sided pleural effusion, and now presents with fever, shortness of breath, and tachycardia. However, the EHR note mentions that the patient was admitted for sepsis and empyema, and that the patient's hospital course was complicated by pulmonary abscess, hemoptysis, and bleeding around the chest tube.",
+            "explanation": "The summary's statement about the patient's recent admission for right-sided pleural effusion is not supported by the EHR note, which mentions that the patient was admitted for sepsis and empyema. The EHR note also mentions that the patient's hospital course was complicated by pulmonary abscess, hemoptysis, and bleeding around the chest tube. Therefore, the summary's chronological sequence of events is incorrect."
+        }
+    ]
+}

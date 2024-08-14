@@ -1,34 +1,64 @@
 {
     "Incorrect Patient Information": [
         {
-            "text": "Age: ___"
+            "text": "Age: ___, Sex: Male, Date of Birth: ___, Unit No: ___, Admission Date: ___, Discharge Date: ___"
         }
     ],
-    "Specific to General Patient Information": [],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
     "Incorrect Patient History": [
         {
-            "text": "Chronic obstructive pulmonary disease (COPD)"
+            "text": ""
         }
     ],
-    "Specific to General Patient History": [],
-    "Incorrect Symptoms/Diagnosis": [],
+    "Specific to General Patient History": [
+        {
+            "text": "The summary mentions that the patient has a history of coronary artery disease (CAD) with bare metal stents, systolic dysfunction (EF 35%), chronic atrial fibrillation, rectal cancer status post resection and adjuvant chemotherapy, hypertension, chronic obstructive pulmonary disease (COPD), sleep apnea, history of stroke, cervical spondylosis, and benign prostatic hyperplasia (BPH). However, the EHR only mentions CAD, systolic dysfunction, chronic atrial fibrillation, rectal cancer, hypertension, and BPH. The summary also mentions COPD, which is not present in the EHR. This is an example of Specific to General Patient History Hallucination."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary mentions that the patient's primary diagnosis is Acute blood loss anemia. However, the EHR mentions Gastritis with bleeding in setting of multiple anti-coagulants as the primary diagnosis. This is an example of Incorrect Symptoms/Diagnosis Hallucination."
+        }
+    ],
     "Specific to General Symptoms/Diagnosis": [
         {
-            "text": "Melena (dark stools) for 10 days"
+            "text": "The summary mentions that the patient had an EGD that showed erosive gastritis, mild duodenitis, and a polyp in the fundus. However, the EHR only mentions erosive gastritis and mild duodenitis. The summary also mentions a polyp in the fundus, which is not present in the EHR. This is an example of Specific to General Symptoms/Diagnosis Hallucination."
         }
     ],
     "Incorrect Medicinal Instructions": [
         {
-            "text": "Continue pantoprazole 40 mg twice daily for 4 weeks"
+            "text": "The summary mentions that the patient should continue to take all medications as prescribed. However, the EHR mentions that the patient's CLOPIDOGREL (PLAVIX) has been stopped, and the patient has been started on PANTOPRAZOLE (PROTONIX). This is an example of Incorrect Medicinal Instructions Hallucination."
         }
     ],
-    "Specific to General Medicinal Instructions": [],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary mentions that the patient should take PANTOPRAZOLE (PROTONIX) for 4 weeks. However, the EHR only mentions that the patient should continue PANTOPRAZOLE (PROTONIX) for 4 weeks. This is an example of Specific to General Medicinal Instructions Hallucination."
+        }
+    ],
     "Incorrect Followup": [
         {
-            "text": "Follow-up with GI clinic"
+            "text": "The summary mentions that the patient should follow up with the GI clinic. However, the EHR mentions that the patient should follow up with the GI clinic, but the specific date is not mentioned. This is an example of Incorrect Followup Hallucination."
         }
     ],
-    "Specific to General Followup": [],
-    "Incorrect Reasoning": [],
-    "Chronological Inconsistency": []
+    "Specific to General Followup": [
+        {
+            "text": "The summary mentions that the patient should have their INR rechecked next week. However, the EHR only mentions that the patient should have their INR rechecked next week. This is an example of Specific to General Followup Hallucination."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary mentions that the patient was admitted to the hospital because they were bleeding into their gastrointestinal tract. However, the EHR mentions that the patient was admitted to the hospital because they were experiencing melena (dark stools) for 10 days. This is an example of Incorrect Reasoning Hallucination."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary mentions that the patient had an EGD that showed erosive gastritis, mild duodenitis, and a polyp in the fundus. However, the EHR mentions that the patient had an EGD that showed erosive gastritis and mild duodenitis, but no polyp in the fundus. The EHR also mentions that the patient had a colonoscopy approximately 8 days prior to presentation, which was essentially normal. This is an example of Chronological Inconsistency Hallucination."
+        }
+    ]
 }

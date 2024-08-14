@@ -1,0 +1,66 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The summary states that the patient is a ___ year old male, but the EHR_NOTE does not specify the patient's age. The EHR_NOTE only mentions that the patient is a ___ year old male with a history of coronary artery disease (CAD), hypertension, dyslipidemia, and poorly differentiated metastatic squamous cell lung cancer."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The summary states that the patient has a history of CAD, hypertension, dyslipidemia, and lung cancer, but the EHR_NOTE provides more detailed information about the patient's medical history, including a history of myocardial infarction (MI) ___ years ago and thoracentesis."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient presented with chest pain and diaphoresis, and was found to be in atrial fibrillation (A-fib) with rapid ventricular response (RVR) and hypotensive. However, the EHR_NOTE states that the patient was in A-fib w/ RVR and hypotensive, but does not mention chest pain and diaphoresis as the primary symptoms."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient had a non-ST elevation myocardial infarction (NSTEMI), but the EHR_NOTE states that the patient had an NSTEMI given statin, which is a more specific diagnosis."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient was discharged on a variety of medications, including sotalol, simvastatin, latanoprost, acetaminophen, colace, bisacodyl, miralax, senna, fentanyl, simethicone, compazine, zantac, megestrol, ativan, dilaudid, dextromethorphan-guaifenesin, mirtazapine, and nystatin. However, the EHR_NOTE provides more detailed information about the patient's medications, including the specific dosages and frequencies."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient should take all medications as prescribed, attend all scheduled follow-up appointments, and contact their physician if they develop shortness of breath that is not improved with home oxygen. However, the EHR_NOTE provides more specific instructions, including the need to be compliant with a salt-restricted diet."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary states that the patient should follow up with their physician if they develop shortness of breath that is not improved with home oxygen, but the EHR_NOTE does not provide specific follow-up instructions."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient was discharged on a variety of medications, including sotalol, simvastatin, latanoprost, acetaminophen, colace, bisacodyl, miralax, senna, fentanyl, simethicone, compazine, zantac, megestrol, ativan, dilaudid, dextromethorphan-guaifenesin, mirtazapine, and nystatin. However, the EHR_NOTE provides more detailed information about the patient's medications, including the specific dosages and frequencies. The summary's reasoning for the patient's medication regimen is not entirely clear and may not be accurate based on the EHR_NOTE."
+        },
+        {
+            "text": "The summary states that the patient had a non-ST elevation myocardial infarction (NSTEMI), but the EHR_NOTE states that the patient had an NSTEMI given statin, which is a more specific diagnosis. The summary's reasoning for the patient's diagnosis is not entirely clear and may not be accurate based on the EHR_NOTE.",
+            "explanation": "The EHR_NOTE provides more detailed information about the patient's diagnosis, including the fact that the patient had an NSTEMI given statin. The summary's reasoning for the patient's diagnosis is not entirely clear and may not be accurate based on the EHR_NOTE."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient was cardioverted and transferred to the cardiac intensive care unit (CCU) for further care, but the EHR_NOTE states that the patient was cardioverted and then transferred to the CCU. The summary's chronological order of events is not entirely clear and may not be accurate based on the EHR_NOTE."
+        }
+    ]
+}

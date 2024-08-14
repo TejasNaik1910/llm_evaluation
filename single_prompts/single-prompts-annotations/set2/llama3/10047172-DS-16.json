@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The patient is a male with a history of pancreatic cancer, diabetes, hypertension, and hyperlipidemia."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The patient was diagnosed with pancreatic adenocarcinoma metastatic to the liver in [date]."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient underwent an endoscopy (EGD) which showed retained food in the stomach and duodenum, but no source of bleeding."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The patient was instructed to continue TPN, follow a liquid diet, and take medications as prescribed."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient was discharged on multiple medications, including amlodipine, Creon, duloxetine, glargine, insulin, lisinopril, and others."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The patient was instructed to follow up with his oncologist for ongoing chemotherapy and with a dietician for management of his TPN."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's hospital course was complicated by hyperglycemia, thrombocytopenia, and anasarca (fluid retention). However, the EHR note does not explicitly state that these complications were caused by the patient's underlying conditions. The summary's reasoning is therefore incorrect."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient underwent an endoscopy (EGD) which showed retained food in the stomach and duodenum, but no source of bleeding. However, the EHR note states that the patient was admitted for bleeding from the GI tract relating to his underlying pancreatic cancer, and that he had an ERCP which showed retained food in his stomach but no source of bleeding. The summary's description of the events is therefore out of order."
+        }
+    ]
+}

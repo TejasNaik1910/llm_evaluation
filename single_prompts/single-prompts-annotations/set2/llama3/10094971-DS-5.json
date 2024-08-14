@@ -1,0 +1,76 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient's cancer has grown in the lungs, and there are new pulmonary metastases. However, the EHR note does not explicitly state that the cancer has grown in the lungs, but rather that there are new pulmonary metastases.",
+            "explanation": "The summary's reasoning is incorrect because it implies that the cancer has grown in the lungs, whereas the EHR note only mentions new pulmonary metastases. This is an example of incorrect reasoning because it misinterprets the information provided in the EHR note."
+        },
+        {
+            "text": "The summary states that the patient's mental status mildly improved with IV fluids, antibiotics, and pamidronate. However, the EHR note states that the patient's mental status mildly improved with IV fluids, antibiotics, and pamidronate, but also mentions that the patient's thinking did not entirely return to normal.",
+            "explanation": "The summary's reasoning is incorrect because it implies that the patient's mental status fully recovered, whereas the EHR note states that the patient's thinking did not entirely return to normal. This is an example of incorrect reasoning because it misinterprets the information provided in the EHR note."
+        },
+        {
+            "text": "The summary states that the patient was made DNR/DNI and transitioned to hospice care with a palliative focus. However, the EHR note states that the patient was made DNR/DNI and transitioned to hospice care with a palliative focus after discussion with the patient's daughters, who are his health care proxies.",
+            "explanation": "The summary's reasoning is incorrect because it implies that the patient was made DNR/DNI and transitioned to hospice care without mentioning the involvement of the patient's daughters. This is an example of incorrect reasoning because it misinterprets the information provided in the EHR note."
+        },
+        {
+            "text": "The summary states that the patient's cancer has multiple brain metastases. However, the EHR note states that the patient's cancer has metastatic RCC to brain, but does not explicitly state that there are multiple brain metastases.",
+            "explanation": "The summary's reasoning is incorrect because it implies that there are multiple brain metastases, whereas the EHR note only mentions metastatic RCC to brain. This is an example of incorrect reasoning because it misinterprets the information provided in the EHR note."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient's cancer has grown in the lungs, and there are new pulmonary metastases. However, the EHR note states that the patient's cancer has metastatic RCC to brain, and there are new pulmonary metastases. This is an example of chronological inconsistency because it implies that the cancer has grown in the lungs before the new pulmonary metastases appeared."
+        }
+    ]
+}

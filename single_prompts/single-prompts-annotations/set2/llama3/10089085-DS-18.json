@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The patient has stage IIIb squamous cell lung cancer diagnosed in [date not specified]."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The patient was recently diagnosed with lung cancer and presented for an interventional pulmonology procedure to revise and remove a tracheostomy. She had previously undergone tumor debulking and stent placement in the right mainstem bronchus."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient underwent a rigid bronchoscopy, which revealed a patent airway. The RMS stent was removed, and the tracheostomy was removed and replaced with a tracheal button."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient is taking various medications, including acetaminophen, albuterol, omeprazole, simvastatin, metoprolol, lorazepam, ipratropium bromide, heparin, docusate sodium, bupropion, diltiazem, aspirin, and amoxicillin-clavulanic acid."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The patient was discharged to an extended care facility with instructions to continue taking her medications and follow up with her physician."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary implies that the patient's hospital course was notable for atrial flutter, which resolved with IV metoprolol pushes, but the EHR note does not explicitly state that the atrial flutter was caused by the procedure. The summary also implies that the patient had some lightheadedness with standing, which may be related to her blood pressure medications, but the EHR note does not explicitly state this. The summary's reasoning behind the patient's hospital course is not entirely accurate."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary implies that the patient underwent a rigid bronchoscopy and had the RMS stent removed, but the EHR note states that the patient underwent a rigid bronchoscopy and had the tracheostomy removed and replaced with a tracheal button. The summary also implies that the patient had previously undergone tumor debulking and stent placement in the right mainstem bronchus, but the EHR note does not explicitly state this. The summary's chronological order of events is not entirely accurate."
+        }
+    ]
+}

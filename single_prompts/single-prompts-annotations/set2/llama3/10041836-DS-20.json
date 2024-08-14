@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Female patient with a history of colon cancer and endometrial cancer"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Patient developed worsening weakness, fatigue, and left leg pain over the past couple of months"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "UTI"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Left femur fracture with lytic lesion concerning for bony metastases"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Pain medication (Percocet) and anticoagulation therapy (lovenox)"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Will need rehabilitation and follow-up with oncologist and radiation oncologist to discuss treatment options"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "Patient will need to see her oncologist to discuss treatment options based on the results of the bone biopsy",
+            "explanation": "This is incorrect reasoning because the summary implies that the patient will need to see her oncologist to discuss treatment options regardless of the results of the bone biopsy, whereas the EHR note specifies that the patient will need to see her oncologist based on the results of the bone biopsy."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

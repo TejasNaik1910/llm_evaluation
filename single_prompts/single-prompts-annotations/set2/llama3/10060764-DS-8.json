@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "51-year-old female patient"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Cholangiocarcinoma (unresectable) with palliative chemotherapy and radiation therapy"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Biliary obstruction"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Discharged on medications including cyanocobalamin, folic acid, digoxin, metoprolol, docusate sodium, fluconazole, senna, simethicone, and warfarin"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Follow up with oncologist in 1 week"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow up with oncologist in 2 weeks"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

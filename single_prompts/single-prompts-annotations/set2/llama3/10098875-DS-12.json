@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The summary mentions that the patient is a female patient with triple negative breast cancer, but the EHR note does not explicitly mention the patient's age, gender, or ethnicity."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The summary mentions that the patient has a history of triple negative breast cancer, but the EHR note mentions that the patient has locally advanced breast cancer on abraxane and atezolizumab therapy."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary mentions that the patient has encephalopathy, possible cryptococcal meningitis, and possible checkpoint-inhibitor induced encephalitis, but the EHR note mentions that the patient has a positive serum cryptococcal antigen and inflammatory CSF, suggesting cryptococcal meningitis."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary mentions that the patient has a cough and white sputum production, but the EHR note mentions that the patient has diffuse ground-glass opacities with septal thickening throughout both lungs on chest X-ray."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary mentions that the patient should continue fluconazole for 8 weeks, but the EHR note mentions that the patient should continue fluconazole for 8 weeks and also have weekly QTc monitoring."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary mentions that the patient should take acetaminophen, diphenoxylate-atropine, and fluconazole, but the EHR note mentions that the patient should also take glucagon, glucose gel, and insulin."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The summary mentions that the patient should follow up with Infectious Diseases on ___ and establish care with Hepatology, but the EHR note mentions that the patient should also follow up with Oncology to discuss timing of restarting treatment for breast cancer."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary mentions that the patient should follow up with Infectious Diseases, but the EHR note mentions that the patient should also follow up with GI for further workup of diarrhea and have a hepatitis B vaccine."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary mentions that the patient has encephalopathy, possible cryptococcal meningitis, and possible checkpoint-inhibitor induced encephalitis, but the EHR note mentions that the patient has a positive serum cryptococcal antigen and inflammatory CSF, suggesting cryptococcal meningitis.",
+            "explanation": "The summary's conclusion that the patient has encephalopathy, possible cryptococcal meningitis, and possible checkpoint-inhibitor induced encephalitis is not supported by the EHR note, which suggests that the patient has cryptococcal meningitis."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary mentions that the patient was admitted to the hospital for confusion and difficulty getting enough oxygen, but the EHR note mentions that the patient was admitted to the hospital for confusion and difficulty getting enough oxygen and also had significant diarrhea.",
+            "explanation": "The summary presents a chronological inconsistency by mentioning that the patient was admitted to the hospital for confusion and difficulty getting enough oxygen, but the EHR note mentions that the patient had significant diarrhea, which is not mentioned in the summary."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Name:  ___                     Unit No:   ___"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Oncologic History:  ___ - early satiety, bloating, LFTs abnormal. RUQ u/s revealed 7.3 x6.4 x9 cm mass R lobe, extending into L lobe.  ___ - biopsy revealed neuroendocrine carcinoma positive for CK7 and 20, chromogranins and synaptophysin and S-100.  ___ - CT scan showed mass was enlarging and causing biliary obstruction. (-) octreotide scan.  ___ - AFP over 3000.  ___ - exploratory-lap and nodule biopsy and inra-op u/s suggested carcinoma unresectable.  ___ - started cycle 1 cisplatin/gemcitabine.  ___ - CT Torso notable for stable 10.6 x 7.3 cm mass in  R lobe invading portal vein.  ___ - started ___ cycle of cisplatin/gemcitabine. His day 8 dose of gemcitabine was held for ANC <1200.  ___ - CT torso showed slight interval decrease in size of a large necrotic hepatic mass, with involvement of both the portal venous and hepatic venous systems. His ___ cycle of cisplatin/gemcitabine was held for an ANC <1000.  ___ - received one dose of Cycle 7 cisplatin/gemcitabine. His chemo was then held due to persistent myelosuppression.  ___ - received one dose of cisplatin/gemcitabine. He dropped both his WBC and PLTs so chemotherapy was stopped.  ___ - started sorafenib  ___ - stopped sorafenib due to fatigue, wt loss, discomfort."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Discharge Diagnosis: 1) Hepatcellular carcinoma"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient has neuroendocrine carcinoma of the liver or intrahepatic biliary tree, which is unresectable and has progressed despite chemotherapy."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient was prescribed medications for hypercalcemia, including lasix, bisphosphonate, and calcitonin. The patient was also prescribed medications for pain, nausea, and constipation, including oxycodone, ondansetron, and lactulose."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "___"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient was admitted with hypercalcemia, which was treated with vigorous hydration, lasix, bisphosphonate, and calcitonin.",
+            "explanation": "The reasoning behind the treatment of hypercalcemia is not incorrect, but the summary does not provide a clear explanation of the underlying cause of hypercalcemia, which is likely related to the neuroendocrine malignancy."
+        },
+        {
+            "text": "The patient's calcium level normalized, and the abdominal pain improved.",
+            "explanation": "The summary implies that the normalization of calcium levels was the direct cause of the improvement in abdominal pain, but the EHR_NOTE suggests that the improvement in abdominal pain was likely related to the removal of fluid from the abdomen via paracentesis."
+        },
+        {
+            "text": "A paracentesis was performed to remove 5 liters of fluid, which was negative for spontaneous bacterial peritonitis (SBP).",
+            "explanation": "The summary implies that the paracentesis was performed to treat the patient's abdominal pain, but the EHR_NOTE suggests that the paracentesis was performed to remove fluid from the abdomen and relieve the patient's discomfort."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": ""
+        }
+    ]
+}

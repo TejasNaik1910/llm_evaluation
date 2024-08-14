@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "The summary does not mention the patient's age, which is explicitly mentioned in the EHR as a 50-year-old male."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The summary mentions that the patient has a history of HPV+ Stage IV oropharyngeal squamous cell carcinoma of the tonsil, but it does not mention the specific treatment details mentioned in the EHR, such as cisplatin and IMRT (30 fractions)."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary mentions that the patient presents with weight loss and right mouth pain, but it does not mention the specific details of the patient's symptoms mentioned in the EHR, such as difficulty with eating, nausea/vomiting, and trismus."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The summary mentions that the patient has a history of HPV+ Stage IV oropharyngeal carcinoma, but it does not mention the specific details of the patient's current symptoms mentioned in the EHR, such as worsening right jaw pain and poor PO intake."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary mentions that the patient was prescribed bisacodyl, docusate sodium, fentanyl patch, gabapentin, senna, oxycodone, citalopram, and methimazole, but it does not mention the specific dosages and instructions mentioned in the EHR."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The summary mentions that the patient should continue to increase his tube feed plan to 2 cans TID with feeding, but it does not mention the specific details of the tube feed plan mentioned in the EHR, such as the type of formula and the rate of administration."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The summary mentions that the patient should follow up with his primary oncologist and a second opinion doctor, but it does not mention the specific details of the follow-up appointments mentioned in the EHR, such as the date and time of the appointments."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The summary mentions that the patient should follow up with his primary oncologist and a second opinion doctor, but it does not mention the specific details of the follow-up instructions mentioned in the EHR, such as the need to bring CDs regarding imaging to the appointments."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary mentions that the patient has a history of HPV+ Stage IV oropharyngeal carcinoma, but it does not mention the specific details of the patient's current symptoms and diagnostic tests mentioned in the EHR, such as the CT scan and MRI results. The summary also does not mention the specific details of the patient's treatment plan mentioned in the EHR, such as the use of a PEG tube for tube feeds.",
+            "explanation": "The summary appears to be oversimplifying the patient's clinical presentation and treatment plan, which may lead to incorrect conclusions and decisions."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary mentions that the patient was started on cisplatin and IMRT (30 fractions) during his initial treatment, but it does not mention the specific details of the patient's current treatment plan mentioned in the EHR, such as the use of a PEG tube for tube feeds.",
+            "explanation": "The summary appears to be presenting the patient's treatment plan in a non-chronological order, which may lead to confusion and incorrect conclusions."
+        }
+    ]
+}

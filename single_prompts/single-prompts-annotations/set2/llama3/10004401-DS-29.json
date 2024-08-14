@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "The patient is a ___ year old male with multiple co-morbidities."
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "He has a history of rectal cancer, coronary artery disease, systolic CHF, dilated cardiomyopathy, atrial fibrillation, and a history of cardiac arrest."
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Rectal cancer status post resection and radiation"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Coronary artery disease status post stents"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "He was found to have a pneumonia and an infection in his blood (MRSA bacteremia)."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "He presented with respiratory distress, fevers, and hypotension."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "He was started on vancomycin and aspirin during his hospital stay."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient was taking multiple medications, including acetaminophen, carvedilol, citalopram, docusate, ferrous sulfate, folic acid, lasix, lidocaine, multivitamin, omeprazole, oxycodone, and simethicone."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "He was instructed to follow up with his primary care physician."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The patient will need to continue his antibiotics for 2 weeks total."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient was discharged to an extended care facility.",
+            "explanation": "The EHR note does not explicitly state that the patient was discharged to an extended care facility. The discharge disposition is missing from the EHR note."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The patient was admitted with respiratory distress, fevers, and hypotension.",
+            "explanation": "The EHR note states that the patient presented with respiratory distress, fevers, and hypotension one day before admission, but the summary states that he was admitted with these symptoms. This is a chronological inconsistency."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Name: Not provided, Date of Birth: Not provided, Unit No: Not provided"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Sex: Male"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Cancer Type: Diffuse large B-cell lymphoma (DLBCL)"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Morphology: Not provided, Cancer Stage: Not provided, TNM Staging: Not provided, Progression: Relapsed with leptomeningeal carcinomatosis"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Back pain"
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Leptomeningeal carcinomatosis"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Simvastatin (on hold)"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Aspirin (on hold)"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "Follow-up appointments"
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "G-CSF injections"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient tolerated ICE chemotherapy well",
+            "explanation": "The EHR note does not explicitly state that the patient tolerated ICE chemotherapy well, it only mentions that the patient tolerated chemo well so far."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary mentions that the patient received ICE chemotherapy after evaluation by Neuro-Oncology and Radiation Oncology, but the EHR note mentions that the patient received ICE chemotherapy after a spine MRI showing progression of disease.",
+            "explanation": "The EHR note and the summary have a different chronological order of events. The EHR note mentions that the patient received ICE chemotherapy after a spine MRI showing progression of disease, but the summary mentions that the patient received ICE chemotherapy after evaluation by Neuro-Oncology and Radiation Oncology."
+        }
+    ]
+}

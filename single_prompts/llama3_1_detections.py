@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import transformers
 import torch
 
@@ -58,7 +59,7 @@ def fill_template_with_extracted_data(template, extracted_data):
         return template
 
 # List of note IDs
-note_ids = ["10004401-DS-22"]              #for testing code, uncomment below variable for full execution
+# note_ids = ["10004401-DS-22"]              #for testing code, uncomment below variable for full execution
 # note_ids_set1 = [
 #     "10000935-DS-21", "10000980-DS-23", "10001401-DS-20", "10054464-DS-17", "10002221-DS-12",
 #     "10003299-DS-10", "10056223-DS-14", "10004401-DS-26", "10056612-DS-8", "10006029-DS-16",
@@ -71,100 +72,111 @@ note_ids = ["10004401-DS-22"]              #for testing code, uncomment below va
 #     "10041408-DS-18", "10062981-DS-5", "10041836-DS-21", "10043750-DS-6", "10067059-DS-15",
 #     "10067195-DS-13", "10047172-DS-17", "10052938-DS-2", "10052992-DS-11", "10052992-DS-16"
 # ]
-# note_ids_set2 = [
-#     "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
-#     "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
-#     "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
-#     "10047172-DS-15", "10047172-DS-16", "10052992-DS-17", "10054464-DS-19",
-#     "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
-#     "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
-#     "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
-#     "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
-#     "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
-#     "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
-#     "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
-#     "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
-#     "10036086-DS-25", "10098875-DS-12"
-# ]
+note_ids_set2 = [
+    "10002221-DS-11", "10004401-DS-22", "10004401-DS-29", "10094971-DS-3",
+    "10018052-DS-17", "10024331-DS-28", "10024331-DS-29", "10024331-DS-31",
+    "10035631-DS-13", "10094971-DS-5", "10041127-DS-17", "10041836-DS-20",
+    "10047172-DS-15", "10047172-DS-16", "10052992-DS-17", "10054464-DS-19",
+    "10054464-DS-20", "10056223-DS-4", "10059192-DS-10", "10060764-DS-8",
+    "10060764-DS-9", "10070201-DS-19", "10070594-DS-14", "10070594-DS-16",
+    "10073847-DS-30", "10074556-DS-22", "10074858-DS-16", "10076342-DS-20",
+    "10076617-DS-11", "10076958-DS-13", "10078297-DS-5", "10078933-DS-9",
+    "10079616-DS-8", "10079616-DS-9", "10084586-DS-19", "10085005-DS-5",
+    "10085725-DS-12", "10089085-DS-18", "10090755-DS-7", "10090755-DS-8",
+    "10091141-DS-20", "10095417-DS-19", "10091385-DS-16", "10091385-DS-17",
+    "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
+    "10036086-DS-25", "10098875-DS-12"
+]
 
-# Process each note_id in set1/set2
-for note_id in note_ids:
-    # Load the EHR note and summary content based on note_id
-    ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
-    summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
-    
-    with open(ehr_note_file, 'r') as file:
-        ehr_note_content = file.read()
-    
-    with open(summary_file, 'r') as file:
-        summary_content = file.read()
+# List to store note_ids that throw errors
+error_note_ids = []
 
-    prompt = f"""
-    Given below is a TASK OVERVIEW followed by the GUIDELINES, JSON_FORMAT, EHR_NOTE and then finally another piece of text which is called the SUMMARY. You are an annotator, and you have to annotate the EHR_NOTE and SUMMARY based on the GUIDELINES. You will be provided multiple examples of which instances are referred to as hallucinations. The examples will contain the explanation of why a particular instance would be considered hallucinated or not.
+# Process each note_id in set2
+for note_id in note_ids_set2:
+    try:
+        # Load the EHR note and summary content based on note_id
+        ehr_note_file = f'data/ehrs/set2/oncology-report-{note_id}.txt'
+        summary_file = f'data/summaries/set2/llama3/llama3-summary-{note_id}.txt'
+        
+        with open(ehr_note_file, 'r') as file:
+            ehr_note_content = file.read()
+        
+        with open(summary_file, 'r') as file:
+            summary_content = file.read()
 
-    TASK OVERVIEW
-    You will be given an EHR note and a piece of text which is supposed to be a summary for the EHR Note. Your task is to check if the summary has any inconsistent information with the EHR note.
+        prompt = f"""
+        Given below is a TASK OVERVIEW followed by the GUIDELINES, JSON_FORMAT, EHR_NOTE and then finally another piece of text which is called the SUMMARY. You are an annotator, and you have to annotate the EHR_NOTE and SUMMARY based on the GUIDELINES. You will be provided multiple examples of which instances are referred to as hallucinations. The examples will contain the explanation of why a particular instance would be considered hallucinated or not.
 
-    Instructions:
+        TASK OVERVIEW
+        You will be given an EHR note and a piece of text which is supposed to be a summary for the EHR Note. Your task is to check if the summary has any inconsistent information with the EHR note.
 
-    1. Your task is to provide a piece of "text" from SUMMARY for the below-mentioned kinds of hallucinations, if they exist in the SUMMARY. Remember that the piece of text should be provided without any modifications:
-        a) Patient Information
-        b) Patient History
-        c) Symptoms/Diagnosis/Surgical Procedures
-        d) Medicine related instructions
-        e) Followup
-    Each of these hallucinations has two sub-categories: SPECIFIC TO GENERAL and INCORRECT. Please map hallucination detections with their respective sub-categories based on their definitions below:
-    SPECIFIC TO GENERAL - Any detail within the clinical note that goes from specific to a more generalized description or if it is an oversimplification of medical events in the summary. 
-    INCORRECT - Any detail within the clinical note that is twisted or incorrectly stated in the summary (a discharge instruction stated wrongly). An incorrect condition would also mean that the information was generalized in EHR but was more specific in the summarized content.
+        Instructions:
+
+        1. Your task is to provide a piece of "text" from SUMMARY for the below-mentioned kinds of hallucinations, if they exist in the SUMMARY. Remember that the piece of text should be provided without any modifications:
+            a) Patient Information
+            b) Patient History
+            c) Symptoms/Diagnosis/Surgical Procedures
+            d) Medicine related instructions
+            e) Followup
+        Each of these hallucinations has two sub-categories: SPECIFIC TO GENERAL and INCORRECT. Please map hallucination detections with their respective sub-categories based on their definitions below:
+        SPECIFIC TO GENERAL - Any detail within the clinical note that goes from specific to a more generalized description or if it is an oversimplification of medical events in the summary. 
+        INCORRECT - Any detail within the clinical note that is twisted or incorrectly stated in the summary (a discharge instruction stated wrongly). An incorrect condition would also mean that the information was generalized in EHR but was more specific in the summarized content.
 
 
-    2. Your task is to provide a piece of "text" from SUMMARY and a logical "explanation" for the hallucinated content in your own words for the below-mentioned hallucination categories, if the exist.  Remember that the piece of text should be provided without any modifications: 
-        a) Chronological Inconsistency
-        b) Incorrect Reasoning
+        2. Your task is to provide a piece of "text" from SUMMARY and a logical "explanation" for the hallucinated content in your own words for the below-mentioned hallucination categories, if the exist.  Remember that the piece of text should be provided without any modifications: 
+            a) Chronological Inconsistency
+            b) Incorrect Reasoning
 
-    3. Use the GUIDELINES mentioned as follows:
-    {guidelines_content}
+        3. Use the GUIDELINES mentioned as follows:
+        {guidelines_content}
 
-    4. Please provide your response in the JSON_FORMAT as mentioned in this file:
-    {output_format_content}
+        4. Please provide your response in the JSON_FORMAT as mentioned in this file:
+        {output_format_content}
 
-    Use this EHR_NOTE:
-    {ehr_note_content}
+        Use this EHR_NOTE:
+        {ehr_note_content}
 
-    Use this as the SUMMARY:
-    {summary_content}
-    """
+        Use this as the SUMMARY:
+        {summary_content}
+        """
 
-    response = use_llama3(prompt) # replace this with use_llama3 method for llama3 detections
+        response = use_llama3(prompt) # replace this with use_llama3 method for llama3 detections
 
-    # Load the template from a file
-    template_file_path = 'single_prompts/output_format.json'
-    with open(template_file_path, 'r') as template_file:
-        template = json.load(template_file)
+        # Load the template from a file
+        template_file_path = 'single_prompts/output_format.json'
+        with open(template_file_path, 'r') as template_file:
+            template = json.load(template_file)
 
-    # Extract the JSON from the response
-    extracted_json = extract_json_from_response(response)
+        # Extract the JSON from the response
+        extracted_json = extract_json_from_response(response)
 
-    # Fill the template with the extracted data
-    json_content = fill_template_with_extracted_data(template, extracted_json)
-    # print("JSON = ", json_content)
+        # Fill the template with the extracted data
+        json_content = fill_template_with_extracted_data(template, extracted_json)
 
-    if json_content:
-        try:
-            # Ensure the output directory exists
-            output_directory = 'single_prompts/single-prompts-annotations/set2/llama3/'
-            os.makedirs(output_directory, exist_ok=True)
-            
-            output_file = os.path.join(output_directory, f'{note_id}.json')
-            # Save the response
-            with open(output_file, 'w') as file:
-                json.dump(json_content, file, indent=4)
-            print(f"Saved JSON to {output_file}")
-        except json.JSONDecodeError:
-            print(f"Error decoding JSON for note {note_id}: {json_content}")
-            # Optionally, save the raw response for debugging
-            raw_file_path = os.path.join(output_directory, f'{note_id}_raw.txt')
-            with open(raw_file_path, 'w') as raw_file:
-                raw_file.write(response)
-    else:
-        print(f"No JSON found for note {note_id}: {response}")
+        if json_content:
+            try:
+                # Ensure the output directory exists
+                output_directory = 'single_prompts/single-prompts-annotations/set2/llama3/'
+                os.makedirs(output_directory, exist_ok=True)
+                
+                output_file = os.path.join(output_directory, f'{note_id}.json')
+                # Save the response
+                with open(output_file, 'w') as file:
+                    json.dump(json_content, file, indent=4)
+                print(f"Saved JSON to {output_file}")
+            except json.JSONDecodeError:
+                print(f"Error decoding JSON for note {note_id}: {json_content}")
+                # Optionally, save the raw response for debugging
+                raw_file_path = os.path.join(output_directory, f'{note_id}_raw.txt')
+                with open(raw_file_path, 'w') as raw_file:
+                    raw_file.write(response)
+        else:
+            print(f"No JSON found for note {note_id}: {response}")
+
+    except Exception as e:
+        # If any error occurs, print the error and add the note_id to the error list
+        print(f"Error processing note_id {note_id}: {e}")
+        error_note_ids.append(note_id)
+
+# After processing all note_ids, print out the list of note_ids that had errors
+print(f"Note IDs with errors: {error_note_ids}")

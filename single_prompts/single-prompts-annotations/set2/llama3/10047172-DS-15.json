@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Name: Not specified, Age: Not specified, Date of Birth: Not specified, Unit No: Not specified, Admission Date: Not specified, Discharge Date: Not specified"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "The summary states that the patient was diagnosed with pancreatic adenocarcinoma metastatic to the liver in [year not specified], but the EHR does not specify the exact year of diagnosis."
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The summary states that the patient was admitted for fever, non-bilious emesis, and acute urinary retention, but the EHR also mentions that the patient had a history of jaundice and a pancreatic mass that was deemed unresectable."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The summary states that the patient is to continue taking zosyn antibiotics for a total two week course, but the EHR specifies that the patient is to receive a 14-day course of abx, which is different from a two week course."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The summary states that the patient is to follow up with their oncologist Dr. ___ and have follow up lab draws to continue to monitor their liver tests, but the EHR does not specify the exact follow-up instructions."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The summary states that the patient was admitted for fever and elevated liver tests, but the EHR also mentions that the patient had a history of jaundice and a pancreatic mass that was deemed unresectable. The summary's reasoning that the patient was admitted for fever and elevated liver tests is incomplete and does not accurately reflect the patient's medical history.",
+            "explanation": "The summary's reasoning is incorrect because it does not take into account the patient's medical history and the fact that the patient had a history of jaundice and a pancreatic mass that was deemed unresectable."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The summary states that the patient was admitted for fever, non-bilious emesis, and acute urinary retention, but the EHR also mentions that the patient had a history of jaundice and a pancreatic mass that was deemed unresectable. The summary's description of the patient's admission is not consistent with the EHR.",
+            "explanation": "The summary's description of the patient's admission is not consistent with the EHR because it does not take into account the patient's medical history and the fact that the patient had a history of jaundice and a pancreatic mass that was deemed unresectable."
+        }
+    ]
+}

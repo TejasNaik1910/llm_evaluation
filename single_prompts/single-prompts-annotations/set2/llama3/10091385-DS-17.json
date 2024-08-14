@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Name: Not provided, Date of Birth: Not provided, Unit No: Not provided, Admission Date: Not provided, Discharge Date: Not provided"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Name: Not provided, Date of Birth: Not provided, Unit No: Not provided, Admission Date: Not provided, Discharge Date: Not provided"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "The patient was admitted due to a liver mass and omental implants on CT scan, but it was not specified that these were biopsied and showed only inflammatory cells without carcinoma."
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "The patient presented with a liver mass and omental implants on CT scan, which were biopsied and showed only inflammatory cells without carcinoma."
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "The patient was diagnosed with a liver abscess, but it was not specified that the liver mass was also an abscess."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "The patient presented with fever and right upper quadrant (RUQ) pain, and was diagnosed with a liver abscess."
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "The patient was discharged on oral ciprofloxacin and Flagyl, but it was not specified that the stop date for these medications was ___."
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "The patient was discharged on oral ciprofloxacin and Flagyl."
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "The patient was instructed to follow up with Dr. ___ on ___ for fever > 101, chills, nausea, vomiting, diarrhea, constipation, increased abdominal pain, pain not controlled by your pain medication, swelling of the abdomen or ankles, yellowing of the skin or eyes, inability to tolerate food, fluids or medications, or any other concerning symptoms."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "The patient was instructed to follow up with Dr. ___ for fever > 101, chills, nausea, vomiting, diarrhea, constipation, increased abdominal pain, pain not controlled by your pain medication, swelling of the abdomen or ankles, yellowing of the skin or eyes, inability to tolerate food, fluids or medications, or any other concerning symptoms."
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "The patient was diagnosed with a liver abscess, but it was not specified that the liver mass was also an abscess.",
+            "explanation": "The summary implies that the liver mass and omental implants were biopsied and showed only inflammatory cells without carcinoma, but it does not specify that these were also abscesses."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "The patient was admitted due to a liver mass and omental implants on CT scan, but it was not specified that these were biopsied and showed only inflammatory cells without carcinoma.",
+            "explanation": "The summary implies that the patient was admitted due to a liver mass and omental implants on CT scan, but it does not specify that these were biopsied and showed only inflammatory cells without carcinoma. This creates a chronological inconsistency between the summary and the EHR note."
+        }
+    ]
+}
