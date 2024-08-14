@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Name:  ___, Date of Birth: ___, Unit No: ___, Admission Date: ___, Discharge Date: ___, Age: ___, Sex: Female"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Headaches for ___ years"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Right parasagittal lesion"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Continue to take medications as prescribed"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": "Follow-up with laboratory blood drawing in one week for phenytoin level"
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary does not mention the patient's recent brain CT and MRI results, which could lead to incorrect reasoning about the patient's condition. However, this is not an incorrect reasoning issue, but rather an omission of information. There is no incorrect reasoning in the summary."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary accurately reflects the chronological order of events as documented in the EHR. It begins with the discharge diagnosis, clearly stating the patient's conditions, and then mentions the medication changes, specific symptoms, and diagnostic tests. The summary describes the patient's improvement, leading to discharge to extended care, and details the patient's condition at discharge. Finally, it includes instructions regarding continued antibiotic use and follow-up care. This clear progression from diagnosis to treatment, improvement, and discharge with follow-up instructions demonstrates that the summary maintains the correct chronological order of events in the EHR, with no reversal or mix-up in the sequence of the patient's medical journey."
+        }
+    ]
+}

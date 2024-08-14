@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": "Name: Not disclosed\nDate of Birth: Not disclosed\nSex: Female\nUnit Number: Not disclosed\nAdmission Date: Not disclosed\nDischarge Date: Not disclosed"
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": "Endometrial cancer (status post total abdominal hysterectomy, bilateral salpingo-oophorectomy, and pelvic lymph node dissection)"
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": "Bacteremia was not explicitly mentioned in the EHR note as a diagnosis, but it was mentioned in the discharge diagnosis."
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": "Ibuprofen 400 mg PO Q8H:PRN pain\nOxycodeone (Immediate Release) ___ mg PO Q4H:PRN pain"
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": "No specific follow-up instructions were mentioned in the summary, but the EHR note mentions that the patient will follow-up with infectious disease, diabetes, and primary care physicians."
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary mentions that the patient was treated with IV antibiotics, including ciprofloxacin, flagyl, and zosyn. However, the EHR note only mentions that the patient was treated with IV zosyn after the sensitivities were back."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary mentions that the patient presented to the emergency department with fever, nausea, and vomiting, but the EHR note mentions that the patient had a leukocytosis and CT of the abd/ pelvis demonstrated a 5.6cm fluid collection in the L pelvis with air and mild stranding suggestive of an infected seroma or lymphocyst before presenting to the ED."
+        }
+    ]
+}

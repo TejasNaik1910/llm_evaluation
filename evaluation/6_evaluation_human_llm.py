@@ -131,6 +131,7 @@ import os
 import json
 import pandas as pd
 from collections import Counter
+import nltk
 from nltk.corpus import stopwords
 
 # Load stopwords
@@ -269,8 +270,6 @@ noteid_list = [
     "10091873-DS-22", "10093120-DS-18", "10097898-DS-11", "10098672-DS-3",
     "10036086-DS-25", "10098875-DS-12"
 ]
-
-#  "10070201-DS-19","10070594-DS-16",  "10076617-DS-11","10078297-DS-5", "10095417-DS-19",  "10036086-DS-25"
 
 # #GPT4o detections
 # human_folder = 'data/human-annotations/set2/gpt4o'  # Replace with the path to your human annotations folder

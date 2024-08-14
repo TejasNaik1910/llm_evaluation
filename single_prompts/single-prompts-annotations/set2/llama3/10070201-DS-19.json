@@ -1,0 +1,64 @@
+{
+    "Incorrect Patient Information": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient Information": [
+        {
+            "text": "Age: ___"
+        }
+    ],
+    "Incorrect Patient History": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Patient History": [
+        {
+            "text": "Chronic Obstructive Pulmonary Disease, Diabetes Mellitus type 2, Diabetic Neuropathy, Hypertension, and Obesity"
+        }
+    ],
+    "Incorrect Symptoms/Diagnosis": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Symptoms/Diagnosis": [
+        {
+            "text": "Non-ST Elevation Myocardial Infarction"
+        }
+    ],
+    "Incorrect Medicinal Instructions": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Medicinal Instructions": [
+        {
+            "text": "Please give ATC for 48 hours then change to as needed"
+        }
+    ],
+    "Incorrect Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Specific to General Followup": [
+        {
+            "text": ""
+        }
+    ],
+    "Incorrect Reasoning": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient underwent coronary artery bypass grafting x 4 and removal of left ventricular intracardiac tumor. However, the EHR_NOTE does not mention the removal of left ventricular intracardiac tumor as a separate surgical intervention. It is mentioned as part of the coronary artery bypass grafting x 4 procedure."
+        }
+    ],
+    "Chronological Inconsistency": [
+        {
+            "text": "",
+            "explanation": "The summary states that the patient underwent coronary artery bypass grafting x 4 and removal of left ventricular intracardiac tumor. However, the EHR_NOTE states that the patient underwent preoperative workup including pulmonary function test and then underwent coronary artery bypass grafting x4 and removal of intracardiac tumor. The order of events is not consistent between the two."
+        }
+    ]
+}
