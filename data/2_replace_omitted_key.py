@@ -34,6 +34,6 @@ def replace_key_prefix_in_json_in_folder(input_folder, key_prefix_to_replace, ne
 input_folder = 'data/resolve-removeOI/set2/llama3'  # Replace with your input folder path
 key_prefix_to_replace = 'Omitted'
 new_prefix = 'Specific to General'
-output_folder = 'data/resolve-replace-omitted/set2/llama3'  # Replace with your desired output folder path
+output_folder = 'data/resolve-intermediate/set2/llama3'
 
 replace_key_prefix_in_json_in_folder(input_folder, key_prefix_to_replace, new_prefix, output_folder)
